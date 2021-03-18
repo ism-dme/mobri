@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2020">2020-02</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=697</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Verbleib unbekannt (Vorlage: Abschrift um 1768 in D-B)</bibl>
+            <bibl type="source" subtype="RISM">Verbleib unbekannt, Vorlage: Abschrift um 1768 in D-B</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:36:57 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_138.mup">
+<letter bd="138">
+<NI src="unbekannt">
+<HEADER id="697">LEOPOLD MOZART AN LORENZ HAGENAUER IN SALZBURG<lbr/>
+WIEN, 14. SEPTEMBER 1768</HEADER>
+<pg n="1"/>
+<tshtm><additum>[... (Schluss der Abschrift des Briefes vom 13. September 1768)]</additum>
+<lbr/>
+<lbr/></tshtm>
+<ts>______________________</ts><tspdf>\hfill </tspdf><u>Wienn den 14. <rend class="latin">Sept<abbr type="curve">:</abbr></rend>&#160;<add_note type="inline" schr_id="57010">1768</add_note></u><lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____</ts>Eben ietzt erhalte ich das Schreiben<lbr/>
+vom 10.<h>t<abbr v="en"/></h> hier ist mein Antwort!<lbr type="BD"/> daß, was<lbr/>
+die <rend class="latin">Madame</rend>&#160;<choice><orig><rend class="latin">Winn</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">Wynn</rend></corr></choice> gemeldet, war die Ur<pc force="weak">=</pc><lbr/>sache meines Stillschweigens.<lbr type="BD"/> Ich kenne<lbr/>
+die Gräfin von Rosenberg und ihre<lbr/>
+Schwägerin. die Gräfin von<lbr type="BD"/> Rosen<pc force="weak">=</pc><lbr/>berg ist nicht von grossen Adl; sie ist<lbr/>
+die Schwester eines reichen<lbr type="BD"/>&#160;<rend class="latin">privat</rend> Men<pc force="weak">=</pc><lbr/>schen des <rend class="latin">Mr:</rend>&#160;<choice><orig><rend class="latin">Winn</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">Wynn</rend></corr></choice> meines bekannten<lbr/>
+in <rend class="latin"><amend value="London">L<abbr type="topline" expand="oo">o</abbr>don</amend></rend>, dessen Nahmen<lbr type="BD"/> ich ihnen in<lbr/>
+meinem Verzeichnisse zeigen werde.<lbr/>
+der Bruder dieses <rend class="latin">Mr: Winn</rend><lbr type="BD"/> verliebte<lbr/>
+sich in eine gebohrne Teutsche nahmens<lbr/>
+Crouemanin |: welche die<lbr type="BD"/>jenige ist, die<lbr/>
+<pg n="2"/>
+sich in Salzburg <choice><orig><rend class="latin"><amend value="producirt">prodcirt</amend></rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">producirt</rend></corr></choice> habe :| dessen<lbr/>
+Vatter war <rend class="latin">Musicus</rend><lbr type="BD"/> in Holland, und der<lbr/>
+Vatters bruder samt viellen Söhnen ist<lbr/>
+noch heute in<lbr type="BD"/> Amsterdam; ein Sohn ist<lbr/>
+be&#255;m Prinz <rend class="latin">Conti</rend> in Paris als Musikus;<lbr/>
+und war<lbr type="BD"/> mit <rend class="latin">Schobert</rend>en be&#255; uns. die<lbr/>
+Mutter dieser Sängerin hieng sich an ein<abbr v="en"/><lbr type="BD"/><lbr/>
+<rend class="latin">Italiani</rend>schen Capellmeister <rend class="latin">Paradies</rend>, und<lbr/>
+nach dem Tode des Mannes hatte<lbr type="BD"/> die<pc force="weak">=</pc><lbr/>ser <rend class="latin">Paradies</rend> alle sorgen für die Kinder.<lbr/>
+Eben da ich in <rend class="latin">London</rend> war ver<lbr type="BD"/>he&#255;rate<lbr/>
+er eine an den <rend class="latin">Mr Winn</rend>, nämlich die<lbr/>
+gegenwärtige, und eine andere<lbr type="BD"/> an den<lbr/>
+<rend class="latin">Sr: Paulo Mazingi</rend> einen <rend class="latin">violinist</rend>en in<lbr/>
+<rend class="latin">London</rend>. da nun aber dieser<lbr type="BD"/>&#160;<rend class="latin">Mr Winn</rend><lbr/>
+ein <rend class="latin">Cadet</rend>, anbe&#255; aber kein hauswirth<lbr/>
+ist; so hielt er sich meistens<lbr type="BD"/> in <rend class="latin">Venedig</rend><lbr/>
+auf, und <amend value="kam">kann</amend> endlich auf den Entschluß<lbr/>
+eine <rend class="latin">militar</rend>stelle zu<lbr type="BD"/> kaufen. Er wurde<lbr/>
+<rend class="latin">Lieut<abbr type="curve">:</abbr></rend> mit dem Bedinge, be&#255; der er<pc force="weak">=</pc><lbr/>sten Gelegenheit eine<lbr type="BD"/> Hauptmannstelle kau<pc force="weak">=</pc><lbr/>fen zu können. er war unter dem Fürst<lbr/>
+<choice><orig><rend class="latin">Pregniatowskischen</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">Poniatowskischen</rend></corr></choice><lbr type="BD"/>&#160;<rend class="latin">Regiment</rend>. Anstatt<lbr/>
+<pg n="3"/>
+nun aber sich zu seinem neuen <rend class="latin">metier</rend> ge<pc force="weak">=</pc><lbr/>schickt zu machen,<lbr type="BD"/> verzehrte er grosses Geld,<lbr/>
+und verlohr dadurch Hofnung, auch für be<pc force="weak">=</pc><lbr/>zahlung<lbr type="BD"/> weiter zu kommen. Seine<lbr/>
+Frau kamm, um durch ihre Geschicklichkeit<lbr/>
+und gute Art es dahin zubringen, daß<lbr/>
+er eine Hauptmann stelle erlangen möchte.<lbr/>
+Alles,<lbr type="BD"/> was frauenzimmer liebt, lief dieser<lbr/>
+<rend class="latin">Mad:<h>me</h> Winn</rend> die Aufwartung zu machen.<lbr type="BD"/><lbr/>
+da es aber zur hauptsache, nämlich ihr<lbr/>
+und ihrem Manne zu dienen, ankamme;<lbr type="BD"/><lbr/>
+zohe sich alles aus der Schlinge. <rend class="latin">Mr<lbr/>
+Winn</rend> quittierte seine <rend class="latin">Lieut<abbr type="curve">:</abbr></rend> Stelle; und<lbr/>
+ist,<lbr type="BD"/> wie man sagt nach <rend class="latin">Venedig</rend> zurück<pc force="weak">=</pc><lbr/>gekehret. die verwittibte Gräfin<lbr/>
+Rosenberg,<lbr type="BD"/> die Schwester dieses <rend class="latin">Winns</rend><lbr/>
+hat sich mit ihrer Schwägerin von Wienn<lbr/>
+nach<lbr type="BD"/> Clagenfurth begeben, um von da,<lbr/>
+wie man sagte, über Paris nach <rend class="latin">London</rend><lbr/>
+zu<lbr type="BD"/> ihrem ältesten Brueder zurückzu<pc force="weak">=</pc><lbr/>kehren. Da nun die verwittibte grä<pc force="weak">=</pc><lbr/>fin zwar<lbr type="BD"/> einen ausgemachten Gehalt<lbr/>
+von Jährlich 2. oder 3000 f: hat, so ist es<lbr/>
+doch<lbr type="BD"/> nicht hinlänglich Reisen damit<lbr/>
+<pg n="4"/>
+zu machen. Ihre Schwägerin <amend value="kann">kannn</amend><lbr/>
+also, durch<lbr type="BD"/> ihre grosse Geschicklichkeit et<pc force="weak">=</pc><lbr/>was be&#255;tragen, da sie nebst dem auch<lbr/>
+eine zwar<lbr type="BD"/>&#160;<rend class="latin">brunette</rend> doch <u>allerangenehmste<lbr/>
+Person ist;</u> Ihr spielen ist <u>unverbesserlich,</u><lbr/>
+ich<lbr type="BD"/> will dem herrn Adelgasser aber auch<lbr/>
+sagen, was sie gespielt hat. Die in<lbr type="BD"/><lbr/>
+<rend class="latin">London</rend>&#160;<rend class="latin">gravi</rend>rten <rend class="latin">Sonat</rend>en des <rend class="latin">Paradies</rend><lbr/>
+sind ihre <rend class="latin">favorit</rend>stücke. Und aus<lbr type="BD"/>wendig<lbr/>
+spielt sie <rend class="latin">variationes</rend>. <rend class="latin">Paradies</rend>, unser<lbr/>
+guter bekannter, war ihr Lehr<lbr type="BD"/>meister,<lbr/>
+der sie als ein Kind erzogen hat. Was<lbr/>
+die <rend class="latin">opera</rend> des <rend class="latin">Wolfgang<abbr type="curve">:</abbr></rend><lbr type="BD"/> anbelangt, kann<lbr/>
+ich ihnen kurz nichts anderes sagen, als<lbr/>
+daß die ganze Musick<lbr type="BD"/> hölle sich empöret<lbr/>
+hat, um zu verhinderen, daß man die<lbr/>
+Geschicklichkeit eines<lbr type="BD"/> Kindes nicht sehen<lbr/>
+soll; Ich kann so gar auf die auf<pc force="weak">=</pc><lbr/>führung der <rend class="latin">opera</rend> nicht<lbr type="BD"/> dringen, nach<pc force="weak">=</pc><lbr/>dem man sich verschworen hat, solche, wenn<lbr/>
+es se&#255;n müsste,<lbr type="BD"/> ellend aufzuführen und<lbr/>
+zu verderben. Ich muste die Ankunft<lbr/>
+des Ka&#255;sers er<lbr type="BD"/>warten; sonst würde<lbr/>
+die <rend class="latin">Bataille</rend> längst ihren Anfang <w lema="genommen">ge<pc force="weak">=</pc><lbr/><conv><ts>_____________________________________</ts>nommen</conv>
+<pg n="5"/>
+nommen</w> haben. Ich<lbr type="BD"/> werde nichts un<pc force="weak">=</pc><lbr/>terlassen, glauben sie mir, was die Ret<pc force="weak">=</pc><lbr/>tung der Ehre meines<lbr type="BD"/> Kindes erheischet.<lbr/>
+Ich wuste es lange. Noch länger aber<lbr/>
+argwohnte ich es<lbr type="BD"/> schon. Ich sagte es so<lbr/>
+gar S:<h>er</h>&#160;<rend class="latin">Excellenz</rend> Grafen von Ze&#255;l.<lbr/>
+welcher aber glaubte,<lbr type="BD"/> daß alle <rend class="latin">Musici</rend><lbr/>
+für den Wolfgang<abbr type="curve">:</abbr> eingenohmen wären;<lbr/>
+weil er auch nach<lbr type="BD"/> dem äusserlichen Urtheil<pc force="weak">=</pc><lbr/>te, und ihm die innerliche Bossheit dieser<lbr/>
+Vieher<lbr type="BD"/> nicht bekannt war. Gedult!<lbr/>
+die Zeit wird alles aufklären, und Gott<lbr/>
+lässt nichts<lbr type="BD"/> vergebens geschechen.<lbr type="forced"/>
+Leben sie alle wohl ich bin der alte.<lbr/>
+<lbr/>
+<tshtm><additum>[... (Beginn der Abschrift des Briefes vom 24. September 1768)]</additum></tshtm>
+</NI>
+</letter></text>
+</MUP>

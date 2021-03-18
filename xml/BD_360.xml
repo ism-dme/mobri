@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2012">2012-09</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=924</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:38:16 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_360.mup">
+<letter bd="360"><HEADER id="924">MARIA ANNA MOZART AN LEOPOLD MOZART IN SALZBURG<lbr/>
+AUGSBURG, 31. OKTOBER 1777<lbr/>
+mit Nachschrift von Wolfgang Amadé Mozart an Leopold Mozart und Rosalia Joly</HEADER>
+<pg n="1"/>
+<add_num type="inline">12.</add_num><ts>____________</ts><add_num type="inline"><u>10.</u></add_num><ts>____</ts><tshtm>_______________________________________________________</tshtm><ts>____</ts><tspdf>\hfill </tspdf><rend class="latin">Manheim</rend> den 31<lbr type="BD"/><lbr type="forced"/>
+<ts>______</ts><tshtm>____________________________________________________________________</tshtm><ts>_____________</ts><tspdf>\hfill </tspdf><rend class="latin">octobris</rend> 1777<lbr type="forced"/>
+<lbr type="forced"/>
+Mein aller liebster Mann, göstern als den 30<h>t<abbr v="en"/></h> sind wür gott se&#255; danck<lbr/>
+be&#255;de<lbr type="BD"/> gesund und glicklich, hier abends umb 6 uhr, angelanget, wür<lbr/>
+sind an vergangen<abbr v="en"/> Sontag den 26<h>t<abbr v="en"/></h> von augspurg abgereiset über<lbr/>
+mittag zu donau<lbr type="BD"/> werth geblib<abbr v="en"/>, nachmittag nach Nördlingen, von<lbr/>
+dorth<abbr v="en"/> noch bis 7<h>b<abbr v="en"/></h> uhr auf hochen Altheim, wo sich der fürst von<lbr/>
+Wallerstein aufhelt gefahr<abbr v="en"/>, in<lbr type="BD"/> ein<abbr v="en"/>&#160;<rend class="latin">Mise</rend>rablen Würthshaus ein<pc force="weak">=</pc><lbr/>gekehret, wür wehr<abbr v="en"/> den andern tag wider<lbr type="BD"/> abgereiset, wan ich<lbr/>
+nicht ein<abbr v="en"/> starck<abbr v="en"/> Cartar bekom<abbr v="en"/> hette, also hab<abbr v="en"/> wür<lbr type="BD"/> uns<lbr/>
+2 nächte und ein<abbr v="en"/> tag aufgehalt<abbr v="en"/>, der herr berwein ist be&#255;<lbr/>
+uns die<lbr type="BD"/> meiste Zeit gewesen, der fürst von wallerstein ist sehr<lbr/>
+zu bedauren, in dem<lbr type="BD"/> er sich in der gröst<abbr v="en"/>&#160;<rend class="latin">Melancol&#255;e</rend> befindet<lbr/>
+er kan Niemand ansehen so fängt<lbr type="BD"/> er an zu weinen, der wolfgang<lbr/>
+hat mit ihme gesproch<abbr v="en"/>, er ist so zerstreuet,<lbr type="BD"/> das er ihme über eine<lbr/>
+sach 4 bis 5 mahl gefragt, er hört keine <rend class="latin">Music</rend> an und ist<lbr type="BD"/> ihmer<lbr/>
+be&#255; sein<abbr v="en"/> Kind, also sind wür dienstag den 28<h>t<abbr v="en"/></h> an <rend class="latin">Simon</rend> und<lbr/>
+Judi<lbr type="BD"/> tag im der fruche umb halbe 7 uhr nach Nördlüng<abbr v="en"/>, weill<lbr/>
+uns der haubtman<lbr type="BD"/> becke die <rend class="latin">March</rend> Ruthe gegeb<abbr v="en"/>, nach<lbr/>
+Ellwang<abbr v="en"/> ein<abbr v="en"/> abscheulich<abbr v="en"/> weg,<lbr type="BD"/> und nach gehens über<lbr/>
+schwäbisch hall und heillbrung, heidelberg, Manheim<lbr type="BD"/> zu geh<abbr v="en"/><lbr/>
+der Postmeister zu Ellwangen hat es üns höchsten <rend class="latin">Mi</rend>srathen<lbr/>
+und gesagt das niemand farender solchen macht sondern<lbr/>
+Reittend, wür sind also<lbr type="BD"/> von Ellwangen, nach, aller, schwäbisch<pc force="weak">=</pc><lbr/>gmünd, schorndorff, Constatt, Endzweiung<abbr v="en"/>, Knüdling<abbr v="en"/>, bruchsahl,<lbr/>
+wagheusel, schwezing<abbr v="en"/>, <rend class="latin">Man</rend>heim, und<lbr type="BD"/> ist nur umb 1 <formula type="mfrac"><mn>1</mn><mi>2</mi></formula> bost<lbr/>
+weither, ietzt ist der Wolfang zu den Jung<abbr v="en"/> herrn<lbr type="BD"/> danner gegang<abbr v="en"/><lbr/>
+er ist schon verhe&#255;rathet und umb ein Jahr Jünger als mein<lbr type="BD"/> Sohn<lbr/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="2"/>
+der alte Herr danner ist nicht hier, komt aber auf den Montag<lbr/>
+von<lbr type="BD"/> sein<abbr v="en"/> landguth zuruck, indess<abbr v="en"/> fürth sein Sohn den Wolfang<lbr/>
+zu den<lbr type="BD"/>&#160;<rend class="latin">Monsie</rend>ur Räff und Kanewich. wie wür Göstern von<lbr/>
+bruchsahl kaum etliche<lbr type="BD"/> bichsen schus gefahr<abbr v="en"/>, ist uns auf<lbr/>
+der strass<abbr v="en"/> der herr von schmid begenget<lbr type="BD"/> welcher von speür<lbr/>
+nach bruchsall gereiset er hat uns, und der wolfgang ihme<lbr type="BD"/><lbr/>
+erkant, ist gleich ausgestig<abbr v="en"/> und halt geschrie<abbr v="en"/>, zu unsern<lbr/>
+wag<abbr v="en"/> geko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>,<lbr type="BD"/> mit uns gesproch<abbr v="en"/>, und sich ungemein erfre&#255;et<lbr/>
+uns zu seh<abbr v="en"/>, auch zu gleich<lbr type="BD"/> bedauret das er nicht mehr in<lbr/>
+<rend class="latin">Manheim</rend> ist, er hat uns auch gerath<abbr v="en"/>, das wür<lbr type="BD"/> soll<abbr v="en"/> in den<lbr/>
+würthshaus ein <rend class="latin">logieren</rend>, genanth, in Pfälzisch<abbr v="en"/> hof, wo er<lbr/>
+auch<lbr type="BD"/> alzeit ist, wür sind also hier, und nicht be&#255;m Prinz<pc force="weak">=</pc><lbr/>fridrich, dorth ist es vill<lbr type="BD"/> theürer, wan wür seh<abbr v="en"/> das wür uns<lbr/>
+müssen lenger aufhalt<abbr v="en"/> so gehen wir<lbr type="BD"/> in eine Privat wohnung<lbr/>
+dan in den würdsheusern ist es zu kostpaar leben.<lbr type="BD"/> übrigens<lbr/>
+hoffe das du dich und die nanerl gesund befindest, was macht<lbr/>
+dan<lbr type="BD"/> mein bimperl, ich habe schon lange nichts von ihme gehert,<lbr/>
+das die frau oberpreitherin so schnell gestorben, bedaure von<lbr/>
+herz<abbr v="en"/>, iezt wird woll der freile<lbr type="BD"/> tonerl das Maul wassern.<lbr/>
+der wolfgang schreibt heunt an den herr schwager<lbr type="BD"/> auf augspurg<lbr/>
+damit er uns die briefe so er hat über schick<abbr v="en"/> kan, dan wür<lbr/>
+hab<abbr v="en"/> im gesagt er solle sie so lang behalt<abbr v="en"/>, bis wir ihme<lbr/>
+die Adres<lbr type="BD"/> schick<abbr v="en"/>, er wird dir also heunt schwerlich schreib<abbr v="en"/> könn<abbr v="en"/><lbr/>
+dan iezt ist er<lbr type="BD"/> in der <corr type="stroke" value="oratorium" hand="diff" schr_id="39409" pos="supra">opern</corr> prob, und die Post gehet umb 6 uhr<lbr/>
+und iezt ist es halbe<lbr type="BD"/> 5 uhr, bitte also mit meiner wenigkeit<lbr/>
+allein verlieb zu nehm<abbr v="en"/>.<lbr type="forced"/>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="3"/>
+<NS type="NS" schr_id="39409">bitte auch mit meiner mittelmässikeit verlieb zu nehmen.<lbr/>
+ich bin heüte mit<lbr type="BD"/> h<abbr type="curve">:</abbr>&#160;<rend class="latin">Da<abbr type="topline" expand="nn">n</abbr>er</rend> be&#255;m <rend class="latin">M<h>r</h>: Canabich</rend> gewesen. er war<lbr/>
+ungemein höflich. ich habe<lbr type="BD"/> ihm etwas auf seinen <rend class="latin">piano forte</rend> ge<pc force="weak">=</pc><lbr/>spiellt, |: welches sehr gut ist :| wir sind<lbr type="BD"/> miteinander in die Probe ge<pc force="weak">=</pc><lbr/>gangen. ich habe geglaubt ich kan das lachen<lbr type="BD"/> nicht enthalten, we<abbr type="topline" expand="nn">n</abbr><lbr/>
+man mich den leüten vorgestellet hat. einige, die mich<lbr type="BD"/>&#160;<rend class="latin">per Renomé</rend><lbr/>
+gekant haben, waren sehr höflich, und voll achtung. einige aber,<lbr type="BD"/> die<lbr/>
+weiter nichts von mir wissen, haben mich gros angesehen, aber auch<lbr/>
+so<lbr type="BD"/> gewis lächerlich. sie dencken sich halt, weil ich klein und jung<lbr/>
+bin, so kann<lbr type="BD"/> nichts grosses und altes hinter mir stecken; sie<lbr/>
+werden es aber bald erfahren.<lbr type="BD"/> Morgen wird mich h<abbr type="curve">:</abbr>&#160;<rend class="latin">Canabich</rend> selbst<lbr/>
+zum Graf <rend class="latin">Savioli</rend>, <rend class="latin">intendant</rend> der<lbr type="BD"/>&#160;<rend class="latin">Musique</rend>, führen. das beste ist daß<lbr/>
+iezt just des Churfürsten Na<abbr type="topline" expand="mm">m</abbr>ens=tag<lbr type="BD"/> ko<abbr type="topline" expand="mm">m</abbr>t. das <rend class="latin">oratorium</rend>, welches man<lbr/>
+Probirt, ist vom händl. ich bin aber nicht<lbr type="BD"/> blieben. da<abbr type="topline" expand="nn">n</abbr> man hat vorher<lbr/>
+einen Psalm, Magnificat, Probirt, vom hiesigen<lbr type="BD"/>&#160;<rend class="latin">vice</rend>=kapellmeister,<lbr/>
+<u>Vogler</u>; und der hat schier eine stund gedaueret. iezt muß<lbr type="BD"/> ich<lbr/>
+schliessen, da<abbr type="topline" expand="nn">n</abbr> ich mus noch meinem baasle schreiben. ich küsse dem<lbr type="BD"/><lbr/>
+Papa die hände, und meine schwesterliche liebste umarme ich<lbr/>
+kurz und gut,<lbr type="BD"/> wie es ko<abbr type="topline" expand="mm">m</abbr>t.<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>________</ts><tshtm>_______________________________________________</tshtm><ts>__________</ts><tspdf>\hfill </tspdf>&#160;<h>ø</h>&#160;<rend class="latin">Joa<abbr type="topline" expand="nn">n</abbr>es Chrisostomus</rend>&#160;<h>Y</h>&#160;<rend class="latin">sigismundus</rend><lbr type="forced"/>
+<ts>________</ts><tshtm>_______________________________________________</tshtm><ts>__________</ts><tspdf>\hfill </tspdf><symbol value="hash">#</symbol> wolfgang gottlieb Mozart.<lbr type="forced"/>
+<lbr type="forced"/>
+<symbol value="hash">#</symbol> heüt ist mein Na<abbr type="topline" expand="mm">m</abbr>ens=tag! Y so heiss ich mit dem <tshtm>______</tshtm>&#160;<tspdf>\hfill </tspdf><h>ø</h> den 27 je<abbr type="topline" expand="nn">n</abbr>er ist mein ge<pc force="weak">=</pc><lbr type="forced"/>_<tshtm>_________________________________________________</tshtm><ts>___</ts>fürm=Na<abbr type="topline" expand="mm">m</abbr>e!<ts>______________________</ts><tspdf>\hfill </tspdf>burts=tag!</NS><lbr type="forced"/>
+<lbr type="forced"/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="4"/>
+an alle beka<abbr type="topline" expand="nn">n</abbr>te unsere empfehlung; absonderlich an graf <rend class="latin">leopold</rend><lbr/>
+<rend class="latin">Arco</rend>, h<abbr type="curve">:</abbr><lbr type="BD"/> bullinger, <rend class="latin">Mad:<h>selle</h></rend> Chatherl und sä<abbr type="topline" expand="mm">m</abbr>tliche scheis=<rend class="latin">Compagnie</rend>.<lbr/>
+<NS type="NS" schr="Rosalie Joly" adr=""><ts>________________________________</ts><rend class="latin">à Mad<h>selle</h> Rosalie joli</rend>.<lbr type="BD"/><lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_________________________</ts>Ich sag dir tausend danck mein liebste Sallerl,<lbr type="BD"/><lbr type="forced"/>
+<ts>______________________</ts>und trincke dir zur ehr ein ganzes schallerl,<lbr type="BD"/><lbr type="forced"/>
+<ts>____________________</ts><rend class="latin">Coffé</rend> und da<abbr type="topline" expand="nn">n</abbr> auch thée und limonadi,<lbr type="BD"/><lbr type="forced"/>
+<ts>__________________</ts>und tuncke ein, ein stangerl vom <rend class="latin">Pomadi</rend><lbr type="BD"/><lbr type="forced"/>
+<ts>________________</ts>und auch &#8211; &#8211; auweh, auweh, es schlägt iust Sex,<lbr type="BD"/><lbr type="forced"/>
+<ts>______________</ts>und wers nit glaubt der ist &#8211; &#8211; der ist &#8211; &#8211; ein fex.<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_________________________________________</ts><tspdf>\hfill </tspdf>die fortsezung folgt nächstens.</NS>
+<lbr/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+</letter>
+</text>
+</MUP>

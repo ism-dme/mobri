@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2015">2015-6</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1471</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:41:04 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_901.mup">
+<letter bd="901"><HEADER id="1471">LEOPOLD MOZART AN MARIA ANNA VON BERCHTOLD ZU SONNENBURG IN ST. GILGEN<lbr/>
+18. UND 19. NOVEMBER 1785</HEADER>
+<pg n="1"/>
+<add_note impl="ink" color="brown" schr_id="">[18. November 1785]</add_note>
+<ts>_______</ts><tshtm>_________________________________________</tshtm><tspdf>\hfill </tspdf>Salzb<abbr type="curve">:</abbr> d<abbr v="en"/> 18 Nachmittag 1785<lbr type="forced"/>
+<lbr type="forced"/>
+Danke für das Händl, und we<abbr type="topline" expand="nn">n</abbr>s so gut ist, wie die Ente, so werde<lbr/>
+die Na<abbr type="topline" expand="nn">n</abbr><lbr type="BD"/>erl, die ich grüsse, als Hochf<abbr type="curve">:</abbr> He<abbr type="topline" expand="nn">n</abbr>dl und EntenFütterin<lbr/>
+ins hochf<abbr type="curve">:</abbr> He<abbr type="topline" expand="nn">n</abbr>en<lbr type="BD"/>hauß <rend class="latin">reco<abbr type="topline" expand="mm">m</abbr>andie</rend>r<abbr v="en"/>. &#8211; daß d<abbr v="er"/> Missigang der kind<abbr v="er"/><lbr/>
+Unglück ist, hat<lbr type="BD"/> seine vollko<abbr type="topline" expand="mm">m</abbr>ne Richtigkeit; und mit was will man sie<lbr/>
+beschäftig<abbr v="en"/>, da<lbr type="BD"/> sie nichts kö<abbr type="topline" expand="nn">n</abbr><abbr v="en"/>? &#8211; &#8211; und das wenige was sie lern<abbr v="en"/> und<lbr/>
+kä<abbr type="topline" expand="nn">n</abbr>en, thun<lbr type="BD"/> sie nur in d<abbr v="er"/> Stund, wo d<abbr v="er"/> Lehrmeister da ist, und ausser<lbr/>
+dem <u>nichts</u>.<lbr type="BD"/> wo wird man ein<abbr v="en"/>&#160;<rend class="latin">præceptor</rend> beko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>, der sich <u>den ganz<abbr v="en"/><lbr/>
+Tag</u>, wie ein<lbr type="BD"/> gefangener, zu Kindern einsperrt, die keine Lust zum<lbr/>
+lernen hab<abbr v="en"/>, &#8211; und<lbr type="BD"/> obendrein so wenig Talent, daß sich der Lehrer, für<lbr/>
+alle saure Mühe, keine<lbr type="BD"/> Ehre mach<abbr v="en"/> ka<abbr type="topline" expand="nn">n</abbr>? &#8211; es wird in d<abbr v="er"/> That hart<lbr/>
+halten, ob ich gleich darauf<lbr type="BD"/> i<abbr type="topline" expand="mm">m</abbr>er bedacht bin.<lbr type="forced"/>
+Was den <u>Vogler</u> anbetrift, hat h<abbr type="curve">:</abbr> Hübner nur die Nachricht hineinge<pc force="weak">=</pc><lbr/>setzt,<lbr type="BD"/> wie ihms sein <rend class="latin">Correspondent</rend> geschrieb<abbr v="en"/>, eine Nachricht, die<lbr/>
+<u>Vogler</u> selbst<lbr type="BD"/> schreib<abbr v="en"/> lässt. Jed<abbr v="er"/>man sieht es ein das er ein Narr<lbr/>
+ist, &#8211; und er ist als<lbr type="BD"/> solcher schon bekannt. er wird im Rausch<lbr/>
+diesen Narrenstreich gemacht<lbr type="BD"/> hab<abbr v="en"/>, so wie er in <rend class="latin">Cassl</rend> be&#255; dem<lbr/>
+<rend class="latin">Marquis</rend>&#160;<rend class="latin"><u>NB</u></rend> dem <rend class="latin">Intendant</rend> d<abbr v="er"/> <rend class="latin">Musique</rend><lbr type="BD"/> nach d<abbr v="er"/> Tafel sich verlor<abbr v="en"/>,<lbr/>
+und man ihn hi<abbr type="topline" expand="nn">n</abbr>ach besoffner in d<abbr v="er"/> <rend class="latin">Marquisin</rend><lbr type="BD"/> Bette ganz<lbr/>
+ausgezogner gefund<abbr v="en"/>, wo er sich hinein schlaf<abbr v="en"/> gelegt, und es<lbr type="BD"/><lbr/>
+voll an geschiss<abbr v="en"/> und gespie<abbr v="en"/>. &#8211; der Soldat, d<abbr v="er"/> erschoss<abbr v="en"/> werd<abbr v="en"/><lbr/>
+sollte<lbr type="BD"/> ist <rend class="latin">pardonie</rend>rt word<abbr v="en"/>. &#8211; die <rend class="latin">Zezi</rend> Waberl ist<lbr/>
+wieder Besser, sie war übl daran. &#8211; <lbr type="forced"/>
+der geistl: h<abbr type="curve">:</abbr> Egedacher ist erst von Polling ko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>, wo er eine<lbr/>
+Orgl<lbr type="BD"/> aufgesetzt, die sein Vatter noch dahier gemacht hat.<lbr/>
+itzt geht er nach Radstatt,<lbr type="BD"/> weg<abbr v="en"/> d<abbr v="er"/> neu<abbr v="en"/> Orgel <abbr expand="und">u</abbr> wird 14 täge<lbr/>
+od<abbr v="er"/> 3 woch<abbr v="en"/> ausbleib<abbr v="en"/>. &#8211; die waderl werde schon<lbr/>
+untersuchen. &#8211; <uu>den 19<h>t<abbr v="en"/></h> morgends</uu>. Das Vergnüg<abbr v="en"/> d<abbr v="er"/> <u>Frühemesse</u><lbr/>
+habt ihr gröstentheils<lbr type="BD"/> mir zu verdank<abbr v="en"/>, ich hab es be&#255;<lbr/>
+h<abbr type="curve">:</abbr> Mayrler, &#8211; <rend class="latin">Mölk</rend>, &#8211; Racher &#8211; Prehauser <abbr expand="etc">p</abbr>:<lbr/>
+schon lange her nach <abbr expand="etc">u</abbr> nach betrüb<abbr v="en"/>; d<abbr v="er"/> h<abbr type="curve">:</abbr> Dechant<lbr/>
+hat ein<abbr v="en"/><lbr type="BD"/> klein<abbr v="en"/> Verweis darüber <rend class="latin">in Silentio</rend> beko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>;,<lbr/>
+weil er nicht Nachfrag<lbr type="BD"/> hielt, weils ein <rend class="latin">General</rend><pc force="weak">=</pc><lbr/><lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="2"/>
+befehl ist, <rend class="latin">Vicari<abbr v="us"/></rend>&#160;<abbr expand="und">u</abbr>&#160;<rend class="latin">Coadjutor</rend> mög<abbr v="en"/> hin<lbr type="BD"/>ko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>,<lbr/>
+wo sie woll<abbr v="en"/>, muß überal Frühmess se&#255;n <abbr expand="etc">p</abbr>:<lbr type="forced"/>
+Mit dem <rend class="latin">Doctor</rend> konnte nicht sprech<abbr v="en"/>, weil nicht hier ist,<lbr/>
+und erst heut<lbr type="BD"/> ko<abbr type="topline" expand="mm">m</abbr>t. ich schicke dir hier abermahl<lbr/>
+4 solche Pulver, es ist i<abbr type="topline" expand="mm">m</abbr>er gut, we<abbr type="topline" expand="nn">n</abbr><lbr type="BD"/> man was be&#255; hand<abbr v="en"/><lbr/>
+hat, weils Pulver sind die im kühlen Zi<abbr type="topline" expand="mm">m</abbr>er nicht<lbr type="BD"/> verderb<abbr v="en"/>.<lbr/>
+der Hauptfehler ist, daß du nach d<abbr v="er"/> Kindbett nicht durch<lbr/>
+ein<lbr type="BD"/> gutes Muttertrankl dich auslaxiert hast, da die<lbr/>
+Beckerisch<abbr v="en"/> Pillul<abbr v="en"/> aigentlich<lbr type="BD"/> nur auflösen, und da<abbr type="topline" expand="nn">n</abbr><lbr/>
+hi<abbr type="topline" expand="nn">n</abbr>ach soll laxiert werd<abbr v="en"/>. die Pillul<abbr v="en"/> werd<abbr v="en"/> dir<lbr type="BD"/> auch ver<pc force="weak">=</pc><lbr/>mutlich kein<abbr v="en"/> and<abbr v="ern"/> als <rend class="latin">ordinari</rend> Stuhl viel getha<abbr type="topline" expand="nn">n</abbr> hab<abbr v="en"/>.<lbr/>
+We<abbr type="topline" expand="nn">n</abbr><lbr type="BD"/> nach der Verkochung von einer Tischzeit zur andern d<abbr v="er"/><lbr/>
+Mag<abbr v="en"/> schwach<lbr type="BD"/> und leer ist, so solltest du Anstalt mach<abbr v="en"/>,<lbr/>
+daß du eine Schale Suppenbrühe<lbr type="BD"/> trinck<abbr v="en"/> könntest, od<abbr v="er"/> ein<lbr/>
+paar schnidl brod dari<abbr type="topline" expand="nn">n</abbr>. &#8211; da dir be&#255;m eyfrig<abbr v="en"/><lbr type="BD"/>&#160;<rend class="latin">Clavie</rend>r<pc force="weak">=</pc><lbr/>spiel<abbr v="en"/> der Hals trock<abbr v="en"/> wird, solltest du ein<abbr v="en"/> Gersten<pc force="weak">=</pc><lbr/>schleim im<lbr type="BD"/> Sack hab<abbr v="en"/>, um ein wenig in Mund zu nehm<abbr v="en"/>.<lbr/>
+diese Trückne ko<abbr type="topline" expand="mm">m</abbr>t von<lbr type="BD"/> Zurückhaltung des Athems, we<abbr type="topline" expand="nn">n</abbr><lbr/>
+man etwas e&#255;ferig thut, dadurch auch der<lbr type="BD"/> anfeuchtende<lbr/>
+feinere Speichelsaft, der i<abbr type="topline" expand="mm">m</abbr>er im Mund ist, trock<abbr v="en"/> wird,<lbr/>
+und<lbr type="BD"/> durch die einhauchung der Luft den ganz<abbr v="en"/><lbr/>
+Hals austrocknet, weil man im<lbr type="BD"/> Eyfer, so gar weniger<lbr/>
+<amend value="schnauft">schauft</amend>, und die nötige feine <amend value="speichelsfeuchtigkeit">speichesfeuchtigkeit</amend><lbr type="BD"/> nicht be<pc force="weak">=</pc><lbr/>fördert: so geschiehts be&#255; der Nacht, da man, ohne es zu<lbr/>
+wissen, mit<lbr type="BD"/> offnem Mund schlaft. ich würde es probier<abbr v="en"/>, und<lbr/>
+also gleich be&#255;m Aufsteh<abbr v="en"/><lbr type="BD"/> wasser in Mund nehm<abbr v="en"/>,<lbr/>
+und mich ausgurgeln, auch allenfals etliche Tropfen<lbr type="BD"/> hinunter<lbr/>
+lass<abbr v="en"/>, und den speichlsaft in Bewegung zu<lbr/>
+bring<abbr v="en"/>, damit d<abbr v="er"/> Hals<lbr type="BD"/>&#160;<abbr expand="und">u</abbr> Mund feucht werd<abbr v="en"/>. ist de<abbr type="topline" expand="nn">n</abbr> be&#255;<lbr/>
+eurem Kra<abbr type="topline" expand="mm">m</abbr>er kein Gerstenschleim<lbr type="BD"/>zuker zu beko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>? &#8211; <lbr/>
+das bisch<abbr v="en"/>&#160;<rend class="latin">Coffé</rend> mit Gerst<abbr v="en"/> ka<abbr type="topline" expand="nn">n</abbr> nichts schad<abbr v="en"/>;<lbr type="BD"/> daß aber eine<lbr/>
+<rend class="latin">Choccolate</rend>, wie diese ist, hitz<abbr v="en"/> soll, &#8211; muß die ganze<lbr/>
+welt<lbr type="BD"/> lach<abbr v="en"/>, &#8211; das versteh<abbr v="en"/> wir besser; da nichts dabe&#255; ist,<lbr/>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="3"/>
+als <rend class="latin">Caccao</rend> |: ein<lbr type="BD"/>&#160;<rend class="latin">Specificum</rend> für die Brust :| zucker, und<lbr/>
+be&#255; der wohlfeil<abbr v="en"/>&#160;<rend class="latin">Choccolate</rend>&#160;<rend class="latin">à</rend><lbr type="BD"/> 1 f 15 <rend class="latin">X<h>r</h></rend> kaum so viel <rend class="latin">Vanille</rend><lbr/>
+als nothwendig ist der <rend class="latin">choccolate</rend> ein bisch<abbr v="en"/><lbr type="BD"/> geruch zu geb<abbr v="en"/>;<lbr/>
+<u>wenig <rend class="latin">Vanille</rend></u>, weil mans, weg<abbr v="en"/> dem sehr <rend class="latin">penetrant<abbr v="en"/></rend><lbr type="BD"/><lbr/>
+Geruch, gleich riecht. übrigens ist die <rend class="latin">Vanille</rend> für d<abbr v="en"/> Mag<abbr v="en"/> gut.<lbr/>
+Gestern war in d<abbr v="er"/> <rend class="latin">opera <u>Adelheide v Veltheim</u>,</rend> es ist eine Art<lbr/>
+d<abbr v="er"/> Handlung wie<lbr type="BD"/>&#160;<u>die Entführung</u>. die Musik ist für diesen<lbr/>
+<u>Grätz</u> mehr als gut genug, aber <u>nicht<lbr type="BD"/> Theatralisch</u>, sond<abbr v="ern"/><lbr/>
+mehr <u>Kirchenst&#255;l</u>, &#8211; meist <u>traurig</u>, <u>lange Musik</u>, und<lbr type="BD"/> man<lbr/>
+wirds 10 mahl hören ohne sich etwas davon merk<abbr v="en"/> zu kö<abbr type="topline" expand="nn">n</abbr><abbr v="en"/>,<lbr/>
+weil<lbr type="BD"/> er i<abbr type="topline" expand="mm">m</abbr>er mit den gedank<abbr v="en"/> hin und her springt, und man<lbr/>
+der Musik <u>den<lbr type="BD"/> Zwang des studiert<abbr v="en"/></u> durchaus ansieht, und<lbr/>
+sehr wenig natürlich fliest. die<lbr type="BD"/>&#160;<rend class="latin">Finale</rend>, und was i<abbr type="topline" expand="mm">m</abbr>er<lbr/>
+von 4 od<abbr v="er"/> 5 Person<abbr v="en"/>&#160;<abbr expand="etc">p</abbr>: gesung<abbr v="en"/> wird sieht<lbr type="BD"/> einem <u><rend class="latin">et Vit<abbr v="am"/><lbr/>
+Venturi Sæculi</rend></u>, od<abbr v="er"/> <rend class="latin">cum Sancto Spiritu</rend>&#160;<abbr expand="etc">p</abbr>: einer Messe<lbr type="BD"/> gleich.<lbr/>
+Morg<abbr v="en"/> wirds wied<abbr v="er"/> gemacht. ich sehe es nicht mehr. Es war<lbr/>
+sehr<lbr type="BD"/> voll, de<abbr type="topline" expand="nn">n</abbr> es ist zi<abbr type="topline" expand="mm">m</abbr>lich <rend class="latin"><u>Spectaculos</u>:</rend> 2 od<abbr v="er"/> 3 mahl<lbr/>
+mags wohl dessweg<abbr v="en"/><lbr type="BD"/> aushalt<abbr v="en"/>, aber mehr schwerlich.<lbr type="forced"/>
+der Leopold ist, Gott Lob, im best<abbr v="en"/> wohlse&#255;n, nichts als<lbr/>
+braf pruntz<abbr v="en"/>,<lbr type="BD"/> scheissen und speib<abbr v="en"/>. we<abbr type="topline" expand="nn">n</abbr> das sprichwort wahr ist,<lbr/>
+<u>speibende Kind<abbr v="er"/>, blei<lbr type="BD"/>bende Kind<abbr v="er"/></u>; so hats keine Gefahr, de<abbr type="topline" expand="nn">n</abbr> er<lbr/>
+speibt all<abbr v="en"/> schlei<abbr type="topline" expand="mm">m</abbr>e, was d<abbr v="er"/><lbr type="BD"/> Mag<abbr v="en"/> nicht leidet, heraus, da er des<lbr/>
+tags 5, 6, 7 mahl mit lachendem Munde<lbr type="BD"/> speibt und<lbr/>
+dabe&#255; wohl ist. Nun <rend class="latin">addio</rend> die Menscher empf<abbr type="curve">:</abbr> sich,<lbr/>
+ich küsse euch<lbr type="BD"/>&#160;<abbr expand="und">u</abbr> bin d<abbr v="er"/> alte<lbr type="forced"/>
+<ts>________</ts><tshtm>________________________________________________</tshtm><tspdf>\hfill </tspdf>Mozart<lbr type="forced"/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="4"/>
+<vacat/>
+</letter>
+</text>
+</MUP>

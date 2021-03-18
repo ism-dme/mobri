@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2020">2020-02</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=691</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:36:54 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_132.mup">
+<letter bd="132">
+<HEADER id="691">LEOPOLD MOZART AN LORENZ HAGENAUER IN SALZBURG<lbr/>
+WIEN, 11. MAI 1768</HEADER>
+<pg n="1"/>
+<ts>_______________</ts><u>An Sie alleine</u>!<ts>________</ts><tshtm>_________________________________</tshtm><tspdf>\hfill </tspdf>Wie<abbr type="topline" expand="nn">n</abbr> d<abbr v="en"/> 11.<h>t<abbr v="en"/></h>&#160;<rend class="latin">Ma&#255;</rend><lbr type="forced"/>
+<ts>____________________________</ts><tshtm>_________________________________________________________________</tshtm><tspdf>\hfill </tspdf><u>1768</u><lbr type="forced"/>
+<lbr type="forced"/>
+Herr <persName key="83793">Pe&#255;sser</persName> wird ihn<abbr v="en"/> benachrichtiget hab<abbr v="en"/>, daß ich ihm 25 ganze <rend class="latin">Souvrain<lbr type="BD"/> d'or</rend><lbr/>
+für ihren <rend class="latin">Conto</rend> bezahlt habe, davon ich sein<abbr v="en"/> schein empfang<abbr v="en"/>. &#8211; &#8211; &#8211; <lbr type="forced"/>
+<persName key="59220">S:<h>e</h> Hochf<abbr type="curve">:</abbr> Gd<abbr v="en"/></persName> habe durch ein abgelassenes Schreib<abbr v="en"/> zum hoh<abbr v="en"/> Nahmens<lbr type="BD"/>Tage<lbr/>
+mein<abbr v="en"/> schuldigst<abbr v="en"/> Glückwunsch abgeleget. &#8211; &#8211; &#8211; &#8211; &#8211; <lbr type="forced"/>
+An <persName key="74751">S:<h>e</h>&#160;<rend class="latin">Exc<abbr type="curve">:</abbr></rend> t<abbr type="curve">:</abbr> Obersthofmeister</persName> habe gleichfals in betreff des hochf<abbr type="curve">:</abbr><lbr/>
+Capell<lbr type="BD"/>hauses geschrieben. &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; <lbr type="forced"/>
+h<abbr type="curve">:</abbr> Meissner wird also verreisen? und wohin? &#8211; &#8211; &#8211; <lbr type="forced"/>
+Daß meine Besoldung mit Ende <rend class="latin">Martii</rend> aufhör<abbr v="en"/> würde, habe ich ohnehin<lbr type="BD"/><lbr/>
+ihn<abbr v="en"/> selbst schon bekannt gemacht. &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; <lbr type="forced"/>
+Daß ich es durch den Vorspruch des <persName key="83656">h<abbr type="curve">:</abbr> Brud<abbr v="er"/> S:<h>r</h> Hochf<abbr type="curve">:</abbr> Gd<abbr v="en"/></persName> die besoldung<lbr type="BD"/><lbr/>
+wied<abbr v="er"/> erbettln könnte, mag wohl wahr se&#255;n. Er weis die schöne <rend class="latin">historie</rend>,<lbr/>
+ich<lbr type="BD"/> erzehlte sie ihm hier: allein, wie ka<abbr type="topline" expand="nn">n</abbr> ich mit billigkeit und Ehre<lbr/>
+etwas erbet<lbr type="BD"/>teln, was ich, da ich meine dienste in Salzb<abbr type="curve">:</abbr> nicht verrichte,<lbr/>
+nach dem gewis<lbr type="BD"/>sest<abbr v="en"/> Ausspruch der meist<abbr v="en"/> Hofleuthe in Salzb<abbr type="curve">:</abbr> nicht<lbr/>
+verdiene. Es ist im<lbr type="BD"/> Gegentheil dieses dasjenige, war mir meine<lbr/>
+Erlaubniß zur Reise nach Italien<lbr type="BD"/> erleuchtert; eine Reise die, we<abbr type="topline" expand="nn">n</abbr><lbr/>
+man alle Umstande in Erwegung ziehet, nun<lbr type="BD"/> nicht mehr ka<abbr type="topline" expand="nn">n</abbr> ver<pc force="weak">=</pc><lbr/>schob<abbr v="en"/> werd<abbr v="en"/>, und dazu ich vom <persName key="54411">Kayser</persName> selbst all<abbr v="en"/><lbr type="BD"/> Vorschub nach <rend class="latin">Florenz</rend>,<lbr/>
+in alle Ka&#255;s<abbr type="curve">:</abbr> Staat<abbr v="en"/> und nach Neapel habe. oder<lbr type="BD"/> sollte ich vielleicht in Salzb<abbr type="curve">:</abbr><lbr/>
+sitz<abbr v="en"/> in lehrer hofnung nach einem bessern<lbr type="BD"/> Glück seufz<abbr v="en"/>, den<lbr/>
+<persName key="39409">Wolfgang<abbr type="curve"></abbr></persName> groß werd<abbr v="en"/> und mich und meine Kind<abbr v="er"/> be&#255;<lbr type="BD"/> der Nase herumführ<abbr v="en"/><lbr/>
+lass<abbr v="en"/>, bis ich zu Jahr<abbr v="en"/> ko<abbr type="topline" expand="mm">m</abbr>e, die mich eine Reise zu<lbr type="BD"/> mach<abbr v="en"/> verhindern,<lbr/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/> 
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="2"/>
+<suppl hand="self" pos="supra"><abbr expand="und">u</abbr></suppl> bis der <persName key="39409">wolfg:</persName> in die Jahre und denjenig<abbr v="en"/> wachsthum<lbr type="BD"/> ko<abbr type="topline" expand="mm">m</abbr>t, die sein<abbr v="en"/><lbr/>
+Verdienst<abbr v="en"/> die Verwunderung entzieh<abbr v="en"/>? Soll mein Kind<lbr type="BD"/> durch die <rend class="latin">opera</rend><lbr/>
+in Wie<abbr type="topline" expand="nn">n</abbr> den ersten Schritt umsonst getha<abbr type="topline" expand="nn">n</abbr> hab<abbr v="en"/>, und nicht<lbr type="BD"/> auf dem<lbr/>
+einmahl so breit gebahnt<abbr v="en"/> weg mit stark<abbr v="en"/> schritt<abbr v="en"/> forteilen?<lbr type="forced"/>
+Hier hab<abbr v="en"/> sie die abschrift des <persName key="74751">oberhofmeist<abbr type="curve">:</abbr></persName> Schreib<abbr v="en"/>:<lbr type="forced"/>
+<rend class="latin">Per espresso comando di S: A: R:<h>ma</h> devo far sapere à V: S: qualmente il<lbr/>
+Cle<lbr type="BD"/>ment<abbr type="curve">:</abbr><h>mo</h> Prencipe P:<h>re</h> niente abbia in contrario, che il Sgr: Mozart se ne<lbr/>
+possi restar fuori à suo piacimento sin tanto che vuole, ed inoltre<lbr/>
+gli passerà<lbr type="BD"/> ancora questo mese di Marzo il suo Salario; mà in<lbr/>
+avenire, quando non Sii<lbr type="BD"/> attualmente presente in Salisburgo sarà<lbr/>
+bensi mantenuto come prima nel suo<lbr type="BD"/> Servizio, ma durante la sua<lbr/>
+assenza non gli lascierà più correre il solito Sa<lbr type="BD"/>lario. di tanto ho<lbr/>
+voluto render avisato V: S:</rend>&#160;<abbr expand="etc:">p:</abbr>&#160;<abbr expand="etc:">p:</abbr><lbr type="forced"/>
+Sehen sie, welche Gnade! &#8211; &#8211; ich kan also nach meinem belieb<abbr v="en"/> aus<pc force="weak">=</pc><lbr/>bleiben:<lbr type="BD"/> we<abbr type="topline" expand="nn">n</abbr> ich nur nicht begehre, daß man mich bezahle.<lbr/>
+ich bin sehr wohl damit<lbr type="BD"/> zufried<abbr v="en"/>. wenigst ka<abbr type="topline" expand="nn">n</abbr> ich ohne fernern<lbr/>
+Vorwurff ausbleib<abbr v="en"/>. Ich werde aber<lbr type="BD"/> von hier nach Salzburg vor<lbr/>
+Ende <rend class="latin">Julii</rend> nicht aufbrech<abbr v="en"/> könn<abbr v="en"/>. Unsere Peltz<lbr type="BD"/> sind uns aber<lbr/>
+dermahl zur last. Ich werde sie bald voraus durch ein<abbr v="en"/> fuhr<lbr type="BD"/>ma<abbr type="topline" expand="nn">n</abbr><lbr/>
+hinauf schicken. Hingeg<abbr v="en"/> muß ich; ja ich mus um eine<lbr/>
+Gefälligkeit<lbr type="BD"/> bitt<abbr v="en"/>. die Hitze wird i<abbr type="topline" expand="mm">m</abbr>er grösser, und ich mus<lbr/>
+mich schä<abbr type="topline" expand="mm">m</abbr><abbr v="en"/> in tüchen<abbr v="en"/><lbr type="BD"/> Kleidern be&#255; Herrschaft<abbr v="en"/> zu erschein<abbr v="en"/>. der Wolfg<abbr type="curve">:</abbr><lbr/>
+ist auch eines leichtern<lbr type="BD"/> kleides benötiget. Ich muß demnach<lbr/>
+bitt<abbr v="en"/>&#160;<u>mein seidenes <rend class="latin">Lyoner</rend> kleid, Mein<lbr type="BD"/> rothes<lbr/>
+zeugenes Kleid</u> |: so ich zur rückreise nötig habe :| und <u>das <rend class="latin">Came</rend><pc force="weak">=</pc><lbr/><pg n="3" type="wordsep"/>lottene<lbr type="BD"/> weisgraue kleid des Wolfg<abbr type="curve">:</abbr></u> die <u>2 Persene kleid<abbr v="er"/> meiner fr: und<lbr/>
+meiner<lbr type="BD"/> Tochter,</u> und we<abbr type="topline" expand="nn">n</abbr> sie den <u>gewiss<abbr v="en"/> frauenzi<abbr type="topline" expand="mm">m</abbr>er hut, mit dem<lbr/>
+flohr über das<lbr type="BD"/> gesicht find<abbr v="en"/>,</u> der in der gross<abbr v="en"/> rund<abbr v="en"/> hutschachtel se&#255;n<lbr/>
+wird, mit dem<lbr type="BD"/> nächst<abbr v="en"/> Postwag<abbr v="en"/> herunterzuschicken. ich will alles<lbr/>
+hier in eine Reihe<lbr type="BD"/> hersetz<abbr v="en"/>.<lbr type="forced"/>
+<tshtm>____________________</tshtm>1. <u>Mein seidenes <rend class="latin">Lyoner</rend>kleid</u> Rock<lbr/>
+<tshtm>_______________________</tshtm>Camisol und 2 paar hosen<lbr type="forced"/>
+<tshtm>____________________</tshtm>2. Mein rothes zeugenes kleid.<lbr/>
+<tshtm>_______________________</tshtm><u>Rock</u> und <u>Camisol.</u> die hosen ist<lbr/>
+<tshtm>_______________________</tshtm>nicht<lbr type="BD"/> mehr zu gebrauch<abbr v="en"/>. sollte das<lbr/>
+<tshtm>_______________________</tshtm>Kleid zerriss<abbr v="en"/> se&#255;n, so mag es<lbr/>
+<tshtm>_______________________</tshtm>h<abbr type="curve">:</abbr> daser<lbr type="BD"/> geschwind mit der hose<lbr/>
+<tshtm>_______________________</tshtm>ausflick<abbr v="en"/>, es gehört nur auf die<lbr/>
+<tshtm>_______________________</tshtm>Reise<lbr type="forced"/>
+<tshtm>____________________</tshtm>3. des wolfgang: <rend class="latin">Camelot</rend>enes kleid<lbr/>
+<tshtm>_______________________</tshtm>&#8211; Rock &#8211; hosen und Camisol.<lbr/>
+<tshtm>_______________________</tshtm>find<abbr v="en"/><lbr type="BD"/> sie noch ein So<abbr type="topline" expand="mm">m</abbr>er Camisol,<lbr/>
+<tshtm>_______________________</tshtm>so leg<abbr v="en"/> sie es nur dazu.<lbr type="forced"/>
+<tshtm>____________________</tshtm>4. die 2 Persene kleider meiner<lbr/>
+<tshtm>_______________________</tshtm>fr: und tochter. Meine Fr: last<lbr/>
+<tshtm>_______________________</tshtm>bitten zu<lbr type="BD"/> sorg<abbr v="en"/>, daß es nach der <rend class="latin">Regula<lbr/>
+<tshtm>_______________________</tshtm>de tri</rend> zusa<abbr type="topline" expand="mm">m</abbr>gelegt wird. Sie glaubt<lbr type="BD"/><lbr/>
+<tshtm>_______________________</tshtm>die Jungf<abbr type="curve">:</abbr>&#160;<rend class="latin"><persName key="76017">Rosalie Joly</persName></rend> würde wohl die<lbr/>
+<tshtm>_______________________</tshtm>Mühe übersich nehm<abbr v="en"/>.<lbr type="forced"/>
+<tshtm>____________________</tshtm>5. und Endlich, da sie so viele hütte<lbr/>
+<tshtm>_______________________</tshtm>für die So<abbr type="topline" expand="nn">n</abbr>e haben, so wäre es<lbr type="BD"/> gut we<abbr type="topline" expand="nn">n</abbr><lbr/>
+<tshtm>_______________________</tshtm>einer od<abbr v="er"/> 2 mitlauff<abbr v="en"/> könnt<abbr v="en"/>.<lbr type="forced"/>
+<postxt loc="lm" rot="270"><u>6.</u><h>tens</h> in meinem grossen kasten von weichen<lbr/>
+<tshtm>_____</tshtm>holtz, <amend value="wird">wir</amend> in der mittern schublade ein od<abbr v="er"/><lbr/>
+<tshtm>_____</tshtm>2 zusa<abbr type="topline" expand="mm">m</abbr>gewickelte Päckl duchene fleck, von<lbr type="BD"/><lbr/>
+<tshtm>_____</tshtm>unsern kleidern lieg<abbr v="en"/>. Ich bitte von des wolfg<abbr type="curve">:</abbr>&#160;<lbr/>
+<tshtm>_____</tshtm><u>rothen</u> und <u>kerschfarb<abbr v="en"/></u><lbr type="BD"/> kleid, und von meinem<lbr/>
+<tshtm>_____</tshtm>englisch<abbr v="en"/>&#160;<u>rothbraun<abbr v="en"/> Kleid</u> ein<abbr v="en"/> fleck der<lbr type="BD"/> übrig<abbr v="en"/><lbr/>
+<tshtm>_____</tshtm><rend class="latin">bagage</rend> be&#255;zuleg<abbr v="en"/>.</postxt><lbr type="BD"/>
+<lbr type="forced"/>
+Nur bitte es wohl einzumach<abbr v="en"/>, etwa in ein Verschlägl, dern sie einige<lbr/>
+be&#255;<lbr type="BD"/> uns ohnehin find<abbr v="en"/>. und mit waxleinwad darüber. Es wird auch am best<abbr v="en"/><lbr type="BD"/><lbr/>
+se&#255;n, we<abbr type="topline" expand="nn">n</abbr>s an <persName key="83793">h<abbr type="curve">:</abbr> Pe&#255;ser</persName> gehet, dem ich schon davon Meldung mach<abbr v="en"/> werde.<lbr type="BD"/><lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="4"/>
+<persName key="75366">h<abbr type="curve">:</abbr> Joha<abbr type="topline" expand="nn">n</abbr>es</persName> wird wohl, we<abbr type="topline" expand="nn">n</abbr> er noch nicht angelanget ist, auf sein<abbr v="en"/><lbr type="BD"/> Nahmens<pc force="weak">=</pc><lbr/>tag in Salzb<abbr type="curve">:</abbr> se&#255;n. wir mach<abbr v="en"/> ihm alle in <rend class="latin">optima amicitiæ forma</rend><lbr type="BD"/><lbr/>
+unsern Glückwunsch, in sicherer hofnung ihn be&#255; unserer Ankunft,<lbr/>
+wo nicht<lbr type="BD"/> zu <placeName key="768">Neumarkt</placeName>, doch ganz gewiß be&#255;m thurnerwirth zu begegn<abbr v="en"/>.<lbr/>
+wir erfreu<abbr v="en"/><lbr type="BD"/> uns alle über seine glückl: zurückkunft. Sie schreib<abbr v="en"/> mir<lbr/>
+auch von<lbr type="BD"/>&#160;<rend class="latin">Music catalogis</rend> des <persName key="76865">h<abbr type="curve">:</abbr>&#160;<rend class="latin">Lotte</rend>rs</persName>, und h<abbr type="curve">:</abbr>&#160;<rend class="latin">Lotter</rend> schreibt in seinem<lbr/>
+Briefe, <u>ich<lbr type="BD"/> möchte die 2 be&#255;geschlossn<abbr v="en"/> Päckchen nach Tirnau und Jaszbez<lbr/>
+einem<lbr type="BD"/> wiener freunde von <rend class="latin">Costi</rend> mitgeb<abbr v="en"/>, oder im fall das <rend class="latin">Porto</rend> bezahl<abbr v="en"/><lbr/>
+und<lbr type="BD"/> dahin send<abbr v="en"/>.</u> Es sind nichts als <rend class="latin">Catalogi</rend>. wissen sie es dahin abzu<pc force="weak">=</pc><lbr/>send<abbr v="en"/> so<lbr type="BD"/> ist es gut. wo nicht, so mögen sie lieg<abbr v="en"/> bleib<abbr v="en"/>. sollt<abbr v="en"/> sie an mich<lbr/>
+ge<lbr type="BD"/>schickt und den kleidern be&#255;gelegt werd<abbr v="en"/>, so müste man, weg<abbr v="en"/> d<abbr v="er"/> <rend class="latin">Visi<pc force="weak">=</pc><lbr/>ta<lbr type="BD"/>tion</rend>, solche vorher aufbrech<abbr v="en"/> und offner be&#255;leg<abbr v="en"/>. <suppl hand="self" pos="inline">Für mich auch einen<lbr type="BD"/>&#160;<rend class="latin">Cata<pc force="weak">=</pc><lbr/><tshtm>____________________________________________________________________________________________________________</tshtm>logum</rend>.</suppl><lbr type="forced"/>
+Ich weis, daß es der <persName key="84784">gräfin von Staremberg</persName> nicht sehr angenehm war,<lbr/>
+daß man<lbr type="BD"/> eine Art eines Einzuges be&#255; ihrer Ankunft in Salzb<abbr type="curve">:</abbr><lbr/>
+veranstaltet hatte. Solche<lbr type="BD"/>
+Person<abbr v="en"/> mach<abbr v="en"/> weitere, und ganz and<abbr v="er"/>e<lbr/>
+überlegung<abbr v="en"/>. Ich wuste diesen<lbr type="BD"/> Spaß schon ehe, von d<abbr v="er"/> Nachricht, die von<lbr/>
+der Gräfin selbst hieher kam. Gott<lbr type="BD"/> tröste die <persName key="84786">Jungf<abbr type="curve">:</abbr> Wagnerin</persName>. Ihr<lbr/>
+Zustand wird ihr<abbr v="en"/> todt befördert hab<abbr v="en"/>.<lbr type="BD"/>&#160;<u>Noch eins</u>! Möcht<abbr v="en"/> sie nicht mit dem<lbr/>
+<persName key="84785">h<abbr type="curve">:</abbr> Alterdinger</persName> über eine Sache spre<lbr type="BD"/>ch<abbr v="en"/>? &#8211; Ich sagte ihm schon einmahl ob er es nicht<lbr/>
+wagen wollte meine<lbr type="BD"/> Violinschule in die Italianische sprache zu übersetz<abbr v="en"/>? &#8211; we<abbr type="topline" expand="nn">n</abbr> er lust<lbr/>
+hätte,<lbr type="BD"/> sollte er von mir nach seinem verlang<abbr v="en"/> bezahlet werd<abbr v="en"/>. Er soll einmahl mit<lbr type="BD"/><lbr/>
+der <u>Vorrede und den Einleitung<abbr v="en"/></u> den Anfange mach<abbr v="en"/>, und da<abbr type="topline" expand="nn">n</abbr> mir fre&#255;<lbr type="BD"/> sag<abbr v="en"/>, was<lbr/>
+er glaubt, daß ich ihm bezahl<abbr v="en"/> sollte. allein, da ich es in 3 Monat<lbr type="BD"/>&#160;<rend class="latin">Componi</rend>rt, so<lbr/>
+hoffe ich, daß es ihm nicht schwer fall<abbr v="en"/> wird in 3 Monat mit der<lbr type="BD"/> übersetzung fertig zu<lbr/>
+se&#255;n. sie werd<abbr v="en"/> meine Absicht leicht errath<abbr v="en"/>. Nur das<lbr type="BD"/> wollte ich eri<abbr type="topline" expand="nn">n</abbr>ern, daß es,<lbr/>
+weil es ein Lehrbuch ist in keiner hohen Schreibart,<lbr type="BD"/> sondern, so wie im teutsch<abbr v="en"/>, zu<lbr/>
+dem allgemein<abbr v="en"/> begrieff übersetzt und deutlich verständlich vorgetrag<abbr v="en"/> würde.<lbr/>
+Es ist mir lieb, daß <persName key="53497 50342">unser 2. Singerin<abbr v="en"/></persName><lbr type="BD"/> einmahl ein wenig geseh<abbr v="en"/> hab<abbr v="en"/>, wie geschwind<lbr/>
+man eine Salzb<abbr type="curve">:</abbr> Jahrs<lbr type="BD"/>besoldung verdien<abbr v="en"/> ka<abbr type="topline" expand="nn">n</abbr>; ich bin sehr erfreut darüber.<lbr type="forced"/>
+Ich stellte es mir wohl vor, daß h<abbr type="curve">:</abbr> Hartma&#255;r bald auf andere gedank<abbr v="en"/> ver<lbr type="BD"/>fall<abbr v="en"/> wird, we<abbr type="topline" expand="nn">n</abbr> die<lbr/>
+Redout<abbr v="en"/> nicht erlaubt werd<abbr v="en"/>. Ich hätte dieses hauß<lbr type="BD"/> i<abbr type="topline" expand="mm">m</abbr>er hab<abbr v="en"/> mög<abbr v="en"/>: allein, we<abbr type="topline" expand="nn">n</abbr> Gott nicht will,<lbr/>
+so will ich auch nicht. Und<lbr type="BD"/> noch! we<abbr type="topline" expand="nn">n</abbr> ich für meine Kind<abbr v="er"/> versicherung hätte, kö<abbr type="topline" expand="nn">n</abbr>te ich mich<lbr/>
+zu etwas<lbr type="BD"/> entschlüss<abbr v="en"/>. Leben sie, unsere Liebste <persName key="75368">fr: Hagenauerin</persName>&#160;<abbr expand="und">u</abbr> samtl: angehörig<abbr v="en"/><lbr type="BD"/><lbr/>
+gesund und wohl, wir empfehl: uns alle und ich bin d<abbr v="er"/> alte Mozart <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<pg n="5"/>
+<add_note schr_id="57010"><ts>_____________________________</ts>11 Mai 1768</add_note>
+Das schreiben vom <rend class="latin"><persName key="84787">P: Vincenzo Castiglione</persName></rend><lbr/>
+muß ihn<abbr v="en"/> fre&#255;lich lacherlich<lbr type="BD"/> vorgeko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/> se&#255;n.<lbr/>
+<amend value="wissen Sie">wissen</amend> wer dieß ist? &#8211; &#8211; dieß ist d<abbr v="er"/> alte 70 Jahrige<lbr type="BD"/><lbr/>
+Ma<abbr type="topline" expand="nn">n</abbr>, den ich in Holland beredet habe wied<abbr v="er"/> zu<pc force="weak">=</pc><lbr/>rück zukehr<abbr v="en"/>, nachdem<lbr type="BD"/> er 30 Jahr ein<abbr v="en"/><lbr/>
+<rend class="latin">Medic<abbr v="um"/></rend> in holland und Engelland gemacht<lbr/>
+hatte. Er ist<lbr type="BD"/> ein guter alter tropf.<lbr/>
+gott hat ihn erleuchtet, daß er mir ge<pc force="weak">=</pc><lbr/>folget hat. er hat<lbr type="BD"/> be&#255; der Krankheit<lbr/>
+des <persName key="39409">wolfg<abbr type="curve">:</abbr></persName> mir viel dienste getha<abbr type="topline" expand="nn">n</abbr>.<lbr/>
+Wer hat dan diesen<lbr type="BD"/> brief gebracht? &#8211; &#8211; <lbr type="forced"/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="6"/>
+<anschrift>
+<rend class="latin">A Monsieur<lbr type="forced"/>
+Monsieur Lorence Hage<pc force="strong">=</pc><lbr type="forced"/>nauer<lbr type="forced"/>
+à<lbr type="forced"/>
+<u>Salzburg</u></rend></anschrift><lbr type="forced"/>
+<lbr/>
+<add_empf schr_id="53262">d d 11 <rend class="latin">May</rend> 1768</add_empf><lbr/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+</letter></text>
+</MUP>

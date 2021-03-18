@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2014">2014-5</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1700</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Verbleib unbekannt</bibl>
+            <bibl type="source" subtype="RISM">Verbleib unbekannt</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:42:09 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_1130.mup">
+<letter bd="1130"><NI src="Erstdruck"><HEADER id="1700">WOLFGANG AMADÉ MOZART AN MICHAEL PUCHBERG IN WIEN<lbr/>
+WIEN, 12. JUNI 1790</HEADER>
+<pg n="1"/>
+<ts>___________</ts><tshtm>_______</tshtm>Liebster Freund und O. Br. &#8211; <lbr type="forced"/>
+<ts>___</ts>Ich bin hier um meine <rend class="latin">Opera</rend> zu dirigiren &#8211; Meiner Frau geht es um ein<lbr type="BD"/>
+weniges besser. &#8211; Sie fühlt schon ein Bischen Linderung, sie wird aber 60mal<lbr type="BD"/>
+baden müssen &#8211; und das Spätjahr wieder hinaus wandern müssen &#8211; Gott<lbr type="BD"/>
+gebe daß es helfen möge. &#8211; Liebster Freund, können Sie mich bey dermalen<lbr type="BD"/>
+pressanten Ausgabe mit etwas unterstützen, o so thun Sie es; &#8211; ich bleibe<lbr type="BD"/>
+aus Oeconomie in Baaden und gehe nur wenn es höchst nothwendig ist<lbr type="BD"/>
+herein. &#8211; Nun bin ich gezwungen meine Quartetten (diese mühsame Arbeit)<lbr type="BD"/>
+um ein Spottgeld herzugeben, nur um in meinen Umständen Geld in die<lbr type="BD"/>
+Hände zu bekommen. &#8211; Nun schreibe auch deswegen an Clavier=Sonaten. &#8211;
+<rend class="latin">Adjeu</rend> &#8211; schicken Sie mir was Sie am leichtesten entbehren können. &#8211; Morgen<lbr type="BD"/>
+wird in Baaden ein Amt von mir aufgeführt. <rend class="latin">Adjeu</rend> &#8211; (um 10 Uhr)<ts>___</ts><tshtm>_______________</tshtm><tspdf>\hfill </tspdf>Ewig Ihr<lbr type="BD"/><lbr type="forced"/>
+<ts>_______</ts><tshtm>_______________________________________________________________________________________________________________________________</tshtm><tspdf>\hfill </tspdf>Mozart.<lbr type="forced"/>
+<ts>___</ts><rend class="latin">P. S.</rend> Ich bitte noch um die Bratsche.<lbr type="forced"/>
+<add_note schr_id="57866">Den 12ten Juny 25 fl. gesandt.</add_note>
+</NI></letter>
+</text>
+</MUP>

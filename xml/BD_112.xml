@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2020">2020-02</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=671</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Verbleib unbekannt (Vorlage: Abschrift um 1768 in D-B)</bibl>
+            <bibl type="source" subtype="RISM">Verbleib unbekannt, Vorlage: Abschrift um 1768 in D-B</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:36:47 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_112.mup">
+<letter bd="112">
+<NI src="unbekannt">
+<HEADER id="671">LEOPOLD MOZART AN LORENZ HAGENAUER IN SALZBURG<lbr/>
+MÜNCHEN, 10. NOVEMBER 1766</HEADER>
+<pg n="1"/>
+<add_num type="inline" schr_id="57010" impl="crayon" color="red"><ts>_______________________</ts>39</add_num><ts>____</ts><tspdf>\hfill </tspdf>München den 10 <rend class="latin">Nov:</rend>&#160;<u>1766.</u><lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____</ts><rend class="latin">Monsieur</rend>!<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____</ts>So viel es mir erinnerlich ist, war<lbr/>
+mein letztes aus <rend class="latin">Lyon</rend>; welches wir nach<lbr type="BD"/><lbr/>
+einem 4. Wochentlichen Aufenthalt verlies<pc force="weak">=</pc><lbr/>sen und nach <rend class="latin">geneve</rend> giengen. Da<lbr type="BD"/> fan<pc force="weak">=</pc><lbr/>den wir noch den innerlichen Bürger Krieg<lbr/>
+in voller Flamme, welches uns<lbr type="BD"/> doch nicht<lbr/>
+hinderte 3. Wochen alda auszuhalten,<lbr/>
+und nach Betrachtung einiger<lbr type="BD"/> Merckwürdig<pc force="weak">=</pc><lbr/>keiten, und nach gemachter Bekanntschaft<lbr/>
+mit Personen die<lbr type="BD"/> wegen ihrer Geschicklich<pc force="weak">=</pc><lbr/>keit und besonderen <rend class="latin">Talent</rend>en berühmt<lbr/>
+sind, haben<lbr type="BD"/> wir nach <rend class="latin">Bern</rend> unsere Rei<pc force="weak">=</pc><lbr/>se fortgesetzet. Sie werden vielleicht<lbr/>
+wissen, daß<lbr type="BD"/> gleich ausser <rend class="latin">Geneve</rend> der Be<pc force="weak">=</pc><lbr/>rühmte <rend class="latin">Mr: Voltaire</rend> sein Schloss hat,<lbr/>
+wo er<lbr type="BD"/> wohnet, welches <rend class="latin">Ferna&#255;</rend> heist. wenn<lbr/>
+man nach <rend class="latin">Bern</rend> will muß man auch<lbr type="BD"/><lbr/>
+<rend class="latin">Lusane</rend> durchreisen; und obwohl wir da<lbr/>
+<pg n="2"/>
+nur über den Mittag uns aufzuhalten<lbr type="BD"/><lbr/>
+gedachten, so kammen doch be&#255;m abstei<pc force="weak">=</pc><lbr/>gen von unserm wagen die Bedienten<lbr type="BD"/><lbr/>
+von dem Prinzen <rend class="latin">Louis <abbr type="topline" expand="von">v</abbr> Wirtemberg</rend>,<lbr/>
+der <rend class="latin">Madame D'Aulbone</rend>, der <rend class="latin">Madame<lbr type="BD"/><lbr/>
+d'Hermenche</rend> des <rend class="latin">Mr de Sever&#255;</rend>&#160;<abbr expand="etc">&#38;c</abbr>. zu<lbr/>
+uns, und ich konnte nicht anders als<lbr type="BD"/> mich<lbr/>
+durch diese ansehnlichen Personen bereden<lbr/>
+lassen mich 5. Tage in <rend class="latin">Lusane</rend><lbr type="BD"/> aufzuhal<pc force="weak">=</pc><lbr/>ten. Was der durchleuchtige Prinz<lbr/>
+<rend class="latin">Louis</rend> für ein Herr ist, muß ich<lbr type="BD"/> mir auf<lbr/>
+eine mündliche Erzehlung zurückbehalten.<lbr/>
+Es wird genug se&#255;n ihnen<lbr type="BD"/> zu sagen, daß<lbr/>
+Würtenberg sich glücklich preisen könnte,<lbr/>
+wenn sie diesen wür<lbr type="BD"/>digen Herrn zu ihrem<lbr/>
+<rend class="latin">Regent</rend>en haben könnte. Er war noch be&#255;<lbr/>
+uns, da wir im<lbr type="BD"/> Wagen stiegen, und ich<lbr/>
+muste ihm noch, da wir schon im Wagen<lbr/>
+sassen, be&#255;m<lbr type="BD"/> händedrücken versprechen oft<lbr/>
+zu schreiben, und von unserm Umständen<lbr type="BD"/><lbr/>
+Nachricht zu geben. &#8211; &#8211; Hier verschweige<lbr/>
+noch das meiste. &#8211; &#8211; ich weis wie<lbr type="BD"/><lbr/>
+<pg n="3"/>
+verschieden die Urtheile nach der Verschieden<pc force="weak">=</pc><lbr/>heit der manchmal sehr schwa<lbr type="BD"/>chen Einsicht<lbr/>
+der Menschen sind. Von <rend class="latin">Lusance</rend> giengen<lbr/>
+wir nach <rend class="latin">Bern</rend>, und<lbr type="BD"/> dan nach <rend class="latin">Zürch</rend>.<lbr/>
+Am ersten Orte blieben wir nur 8. am<lbr/>
+zwe&#255;ten 14. Täge. Im<lbr type="BD"/> be&#255;den Orten hat<pc force="weak">=</pc><lbr/>ten wir Gelegenheit mit Gelehrten uns<lbr/>
+bekannt zu machen:<lbr type="BD"/> am letztem Orte<lbr/>
+machten die zween gelehrten Hh<abbr type="curve">:</abbr>&#160;<rend class="latin">Gessner</rend><lbr/>
+unsern Aufenthalt sehr angenehm, und<lbr/>
+unserem Abschied sehr betrübt. Wir<lbr/>
+haben die Merckmahle<lbr type="BD"/> ihrer Freundschaft<lbr/>
+mit uns genommen. Von da gieng es<lbr/>
+über Winterthur nach<lbr type="BD"/> Schaffhausen; auch<lbr/>
+hier war unser 4. Tägiger Aufenthalt<lbr/>
+sehr angenehm;<lbr type="BD"/> und wir fanden be&#255; der<lbr/>
+Ankunft in <rend class="latin">Donauöschingen</rend> den Herrn<lbr/>
+<rend class="latin">Meisner</rend> der<lbr type="BD"/> uns zum Wagen hinein<pc force="weak">=</pc><lbr/>bewillkommte, und uns und unserer <rend class="latin">Ba<pc force="weak">=</pc><lbr/>gage</rend> aus dem<lbr type="BD"/> Wagen holf! Er<lbr/>
+blieb noch 4. Tage neben uns in <rend class="latin">Do<pc force="weak">=</pc><lbr/>nauöschingen</rend>. Ich war der<lbr type="BD"/> erste der<lbr/>
+ihm von der Unbässlichkeit seiner<lbr/>
+<pg n="4"/>
+Frau Nachricht bracht. Ich war so<lbr type="BD"/> sehr<lbr/>
+erstaunt wegen seiner Unwissenheit, als<lbr/>
+er wegen meiner Erzehlung.<lbr type="BD"/> Doch<lbr/>
+erhielt er nach einem paar Tage einen<lbr/>
+Brief von seiner Frau. Ich gab ihm<lbr type="BD"/><lbr/>
+<rend class="latin">Recomendation</rend> an meine Freunde nach<lbr/>
+der Schweitz, und ich hofe, daß es<lbr type="BD"/> ihm<lbr/>
+gut gehen solle; sonderheitlich in <rend class="latin">Bern</rend>.<lbr/>
+S:<h>e</h> Durchleucht der Fürst empfien<lbr type="BD"/>gen<lbr/>
+uns ausserordentlich gnädig; wir hatten<lbr/>
+nicht nöthig uns zu melden. Man<lbr type="BD"/><lbr/>
+erwartete uns schon mit Begierde, herr<lbr/>
+<rend class="latin">Meisner</rend> ist zeuge davon, und Herr<lbr type="BD"/><lbr/>
+Rath und <rend class="latin">Music Director Martelli</rend> kam<lbr/>
+gleich uns zu <rend class="latin">complimenti</rend>ren, und ein<pc force="inter">=</pc><lbr/>zuladen. Kurz, wir waren 12.<lbr/>
+Täge da. 9. Täge war <rend class="latin">Music</rend> von<lbr/>
+5. Uhr Aben<lbr type="BD"/>dens bis 9. Uhr; wir machten<lbr/>
+allzeit etwas besonders. Wäre die<lbr/>
+Jahrszeit nicht<lbr type="BD"/> so weit vorgerücket, so<lbr/>
+würden wir noch nicht loos gekommen<lbr/>
+se&#255;n. Der<lbr type="BD"/> Fürst gab mir 24. <rend class="latin">louis<lbr/>
+d'or</rend>, und iedem meiner Kinder einem<lbr/>
+<conv><ts>________________________________</ts>diemantenen</conv>
+<pg n="5"/>
+diemantenen<lbr type="BD"/> Ring; die Zächer flossen<lbr/>
+ihm aus den Augen, da wir uns beur<pc force="weak">=</pc><lbr/>laubten, und<lbr type="BD"/> kurz wir weinten alle be&#255;m<lbr/>
+Abschiede; er bath mich ihm oft zu schreiben,<lbr/>
+und<lbr type="BD"/> so höchst vergnügt unser Aufenthalt<lbr/>
+war, so sehr traurig war unser Abschied.<lbr type="BD"/><lbr/>
+dann sind wir über hals und Kopf fort<lbr/>
+über Mösskürchen nach Ulm, <rend class="latin">günzburg</rend>,<lbr type="BD"/><lbr/>
+und <rend class="latin">Dillingen</rend>, wo wir nur 2. Täg blie<pc force="weak">=</pc><lbr/>ben, vom Fürsten 2. Ring abhollten, und<lbr type="BD"/><lbr/>
+nach einem Tag aufenthalt in Augs<pc force="weak">=</pc><lbr/>burg nach München kammen. <u>Herr<lbr type="BD"/><lbr/>
+<rend class="latin">Provino</rend> wird ihnen ein klein <rend class="latin">Paquetl</rend> oder<lbr/>
+Verschlägl für mich einsenden.</u> Ha!<lbr type="BD"/><lbr/>
+Ha! werden sie sagen. Nun sind<lbr/>
+sie doch einmahl zu München. ja das<lbr/>
+ist schon<lbr type="BD"/> gut! ich hab versprochen, daß ich<lbr/>
+eher nicht kommen werde bis ich nicht be&#255;<lbr type="BD"/><lbr/>
+dem Neuen Thor einfahren kann; nun<lbr/>
+aber höre, daß man be&#255; dem Siegmund<pc force="inter">=</pc><lbr/>thore noch niemand hineinfahren lässt: daß<lbr/>
+<amend value="">daß</amend> wäre mir nicht lieb. ich er<lbr type="BD"/>warte<lbr/>
+ihre Antwort, wir wohnen <u>be&#255;m Störzer</u><lbr/>
+<pg n="6"/>
+und sehe vor, daß wir nicht<lbr type="BD"/> so gleich von<lbr/>
+hier abkommen. Vorgestern Abends<lbr/>
+sind wir angelangt; Gestern,<lbr type="BD"/> Sontags,<lbr/>
+haben wir S:<h>r</h> Churfürstlichen Durchleucht<lbr/>
+be&#255; der Tafel besucht;<lbr type="BD"/> wir wurden gnä<pc force="weak">=</pc><lbr/>digst empfangen. Der <rend class="latin">Wolfgangl</rend><lbr/>
+muste gleich neben dem Churfürsten ein<lbr/>
+Stück auf der Tafel <rend class="latin">componi</rend>ren, da<pc force="weak">=</pc><lbr/>von ihm S:<h>e</h> Durchleucht<lbr type="BD"/> den Anfang<lbr/>
+oder <rend class="latin">idea</rend> von ein paar Tacte vorsang,<lbr/>
+er muste es auch be&#255;<lbr type="BD"/> Höchstdenselben nach<lbr/>
+der Tafel im <rend class="latin">Cabinet</rend> Spielen. Wie<lbr/>
+erstaunt iederman<lbr type="BD"/> war dieses zu sehen<lbr/>
+und zu hören, ist leicht zu erachten.<lbr/>
+Be&#255; der Nacht aber<lbr type="BD"/> verspierte ich, daß<lbr/>
+er nicht gar wohl war. Er hatte auch<lbr/>
+eine unruhige Nacht.<lbr type="BD"/> Ich muste ihn<lbr/>
+also heute be&#255;m bethe, und vielleicht noch<lbr/>
+einige Täge zu<lbr type="BD"/> Hauße halten. Es<lbr/>
+wird aber, wie hofe, nach allem ansehen<lbr/>
+bald vorüber se&#255;n.<lbr type="BD"/> Es ist kein Wun<pc force="weak">=</pc><lbr/>der be&#255; diesem Wetter, und da wir<lbr/>
+nun wieder uns an die<lbr type="BD"/> Ofen Hitze ge<pc force="weak">=</pc><lbr/>wöhnen müssen; daß ein so zarter<lbr/>
+<pg n="7"/>
+Cörper etwas leiden muß:<lbr type="BD"/> nur das es<lbr/>
+uns etwa länger aufhält. Unsere<lbr/>
+Empfehlung an die Frau Ge<lbr type="BD"/>mahlin,<lbr/>
+an dero ganze <rend class="latin">Familie</rend>, an unsre<lbr/>
+gute Freunde, und ich bin der alte.<lbr type="forced"/>
+<lbr type="forced"/>
+<tshtm><additum>[... (Beginn der Abschrift des Briefes vom 22. November 1766)]</additum></tshtm>
+<pg n="8"/>
+<tshtm><additum>[... (Schluss der Abschrift des Briefes vom 22. November 1766)]</additum></tshtm>
+<lbr/>
+<lbr/>
+<ts>_____</ts><u>Etwas für Sie allein!</u><lbr type="forced"/>
+<tshtm>______________________________<u>in dem brief von 10 <rend class="latin">N<h>ber</h></rend></u><lbr type="forced"/>
+<ts>_____________________________________</ts><u>1766 eingeschloss<abbr v="en"/></u><lbr type="forced"/></tshtm>
+<lbr type="forced"/>
+Wir bitt<abbr v="en"/> Sie, oder vielmehr dero fr: Gemahlin für eine gute<lbr/>
+Dienstmagd zu<lbr type="BD"/> sorgen. über das ist nun auch die zeit,<lbr/>
+wo man das Holz in den Ofen schieben<lbr type="BD"/> muß. be&#255;des<lbr/>
+ist unentbehrlich, oder ein <u><rend class="latin">Malum necessarium</rend>.</u> Ich<lbr/>
+bitte Sie<lbr type="BD"/> demnach dafür zu sorgen: und vielleicht hab<abbr v="en"/><lbr/>
+Sie es schon gethan? &#8211; &#8211; was<lbr type="BD"/> dem Platz für einem<lbr/>
+Bedient<abbr v="en"/> betrift; so finde ich nothwendiger auf ein<abbr v="en"/><lbr type="BD"/><lbr/>
+Platz für uns zu denk<abbr v="en"/>. und ich habe den Entschluß<lbr/>
+gefasst, den kurzen<lbr type="BD"/> Weeg unserer Reise |: zwar nicht<lbr/>
+ohne Beschwernisse :| ohne bedient<abbr v="en"/> fort<lbr type="BD"/>zusetzen, da<lbr/>
+ich unser<abbr v="en"/> Bedient<abbr v="en"/> vor weniger zeit looß geword<abbr v="en"/>.<lbr/>
+<pg n="9"/>
+Unsere<lbr type="BD"/> eigene Nothwendige Einrichtung der Wohnung<lbr/>
+liegt mir am Herz<abbr v="en"/>; welches<lbr type="BD"/> Sie zum theile selbst einseh<abbr v="en"/><lbr/>
+und be&#255; unserer |: gott gebe :| glücklich<abbr v="en"/> an<lbr type="BD"/>kunft mit<lbr/>
+augen seh<abbr v="en"/> werd<abbr v="en"/>. Gott |: der für mich bösen Mensch<abbr v="en"/><lbr/>
+allzu<lbr type="BD"/>gütige Gott :| hat mein<abbr v="en"/> Kindern solche <rend class="latin">Talen</rend>te ge<pc force="weak">=</pc><lbr/>geben, die, ohne an die<lbr type="BD"/> Schuldigkeit eines Vatters<lbr/>
+zu gedenk<abbr v="en"/>, mich reitzen würde, alles der gut<abbr v="en"/><lbr type="BD"/> Erziehung<lbr/>
+derselb<abbr v="en"/> aufzuopfern. jeder augenblick, den ich verliehre,<lbr/>
+ist auf<lbr type="BD"/> ewig verlohr<abbr v="en"/>. und we<abbr type="topline" expand="nn">n</abbr> ich jemahls gewust habe,<lbr/>
+wie kostbar die Zeit für<lbr type="BD"/> die Jugend ist, so weis<lbr/>
+ich es itzt. Sie wissen daß meine Kinder zur arbeit<lbr type="BD"/><lbr/>
+gewohnt sind: sollt<abbr v="en"/> sie aus Entschuldigung daß<lbr/>
+eines das andre verhindert<lbr type="BD"/> sich an Müssige Stund<abbr v="en"/><lbr/>
+gewöhn<abbr v="en"/>, so würde mein ganzes gebäude über den<lbr type="BD"/><lbr/>
+Haufen fall<abbr v="en"/>; die gewohnheit ist eine e&#255;serne<lbr/>
+<add_note hand="diff" schr_id="0" type="inline" impl="pencil">Pfad</add_note>&#160;<u>Pfoad.</u> und sie wissen auch<lbr type="BD"/> selbst wie viel meine<lbr/>
+kinder, sonderlich der Wolfgangerl zu lern<abbr v="en"/> hat.<lbr/>
+&#8211; &#8211; &#8211;<lbr type="BD"/> allein, wer weis was man mit uns be&#255; unserer<lbr/>
+Zuruckkunft in Salzburg vor hat? Vielleicht begegnet<lbr/>
+man uns so, daß wir ganz gerne unsern Wander<pc force="inter">=</pc><lbr/><u>bingl</u> über dem Rücken nehm<abbr v="en"/> und davon zieh<abbr v="en"/>.<lbr/>
+Wenigst bring ich dem<lbr type="BD"/> Vatterland |: wen gott will :|<lbr/>
+die Kinder wieder: will man sie nicht; So habe<lbr type="BD"/> ich<lbr/>
+keine Schuld: doch wird man sie nicht umsonst<lbr/>
+hab<abbr v="en"/>. &#8211; genug, ich ver<lbr type="BD"/>lasse mich durchaus auf<lbr/>
+dero vernünftige Einsicht und wahre Freundschafft:<lbr type="BD"/><lbr/>
+das mündliche unterred<abbr v="en"/> wird uns mehr<lbr/>
+vergnüg<abbr v="en"/> verschaff<abbr v="en"/>. Leben<lbr type="BD"/> sie wohl.<lbr type="forced"/>
+<lbr type="forced"/>
+<rend class="latin">Nb:</rend> Wenn die fr: gemahlin eine gute Magd findet<lbr/>
+so komt es des lohnes<lbr type="BD"/> weg<abbr v="en"/> auf einige guld<abbr v="en"/><lbr/>
+nicht an. sie hat vollkomen<abbr v="en"/> gewalt.<lbr type="forced"/>
+</NI>
+</letter>
+</text>
+</MUP>

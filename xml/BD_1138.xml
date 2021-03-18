@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2014">2014-5</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1708</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Verbleib unbekannt</bibl>
+            <bibl type="source" subtype="RISM">Verbleib unbekannt</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:42:11 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_1138.mup">
+<letter bd="1138"><NI src="Erstdruck"><HEADER id="1708">WOLFGANG AMADÉ MOZART AN CONSTANZE MOZART IN WIEN<lbr/>
+FRANKFURT AM MAIN, 3. OKTOBER 1790</HEADER>
+<pg n="1"/>
+<ts>_____</ts><tshtm>_______________________________________________________________________________</tshtm><tspdf>\hfill </tspdf>Frankfurt am Main den 3ten October 1790.<lbr type="forced"/>
+<ts>_____</ts><tshtm>_________________________________________________________________________________________________________</tshtm><tspdf>\hfill </tspdf><u>Sonntag</u>.<lbr type="forced"/>
+<ts>___________</ts><tshtm>_______</tshtm>Liebstes, bestes Herzens=Weibchen! &#8211; <lbr type="forced"/>
+<ts>___</ts>Nun bin ich getröstet und vergnügt. Erstens weil ich Nachricht von Dir meine<lbr type="BD"/>
+Liebe erhalten, wornach ich mich so sehnte; zweitens durch die beruhigende<lbr type="BD"/>
+Auskunft in Betreff meiner Affairen &#8211; ich habe mir so fest vorgenommen,<lbr type="BD"/>
+gleich das <rend class="latin">Adagio</rend> für den Uhrmacher zu schreiben, dann meinem lieben<lbr type="BD"/>
+Weibchen etwelche Ducaten in die Hände zu spielen; that es auch &#8211; war aber,<lbr type="BD"/>
+weil es eine mir sehr verhaßte Arbeit ist, so unglücklich, es nicht zu Ende<lbr type="BD"/>
+bringen zu können &#8211; ich schreibe alle Tage daran &#8211; muß aber immer aus<lbr type="BD"/>setzen,
+weil es mich <rend class="latin">ennuirt</rend> &#8211; und gewis, wenn es nicht einer so wichtigen
+<u>Ursache willen</u> geschähe, würde ich es sicher ganz bleiben lassen &#8211; so hoffe<lbr type="BD"/>
+ich aber doch es so nach und nach zu erzwingen; &#8211; ja, wenn es eine große<lbr type="BD"/>
+Uhr wäre und das Ding wie eine Orgel lautete, da würde es mich freuen; so<lbr type="BD"/>
+aber besteht das Werk aus lauter kleinen Pfeifchen, welche hoch und mir zu<lbr type="BD"/>
+kindisch lauten. &#8211; <lbr type="forced"/>
+<ts>___</ts>Ich lebe hier bis <rend class="latin">dato</rend> noch ganz <rend class="latin">retiré</rend> &#8211; gehe den ganzen Morgen nicht aus,<lbr type="BD"/>
+sondern bleibe in meinem Loch von einer Stube und schreibe; &#8211; meine ganze<lbr type="BD"/>
+Unterhaltung ist das Theater, wo ich dann Bekannte genug antreffe, von<lbr type="BD"/>
+Wien, München, Mannheim und sogar Salzburg &#8211; Franz Lange Waldhornist<lbr type="BD"/>
+und Gres der Schatzmeister ist hier &#8211; auch der alte Wendling mit seiner<lbr type="BD"/>
+Dorothé &#8211; <suppl hand="self" pos="inline">reck den Arsch in die Höh</suppl> &#8211; so lebte ich am liebsten fort &#8211; aber &#8211;<lbr type="BD"/> 
+ich fürchte es nimmt schon ein Ende, fängt ein unruhiges Leben an &#8211; man<lbr type="BD"/>
+will mich nun schon überall haben &#8211; und so ungelegen es mir ist, mich überall<lbr type="BD"/>
+so begucken zu lassen, so sehe ich doch die Nothwendigkeit davon ein &#8211; und<lbr type="BD"/>
+muß es halt in Gottes Namen geschehen lassen; &#8211; es ist nun zu vermuthen<lbr type="BD"/>
+daß mein Concert nicht schlecht ausfallen möchte &#8211; ich wollte es wäre schon<lbr type="BD"/>
+vorbey, nur um dem Zeitpunkt näher zu seyn Dich meine Liebe wieder zu<lbr type="BD"/>
+umarmen! &#8211; &#8211; Dienstag giebt die chur=mainzische Schauspielergesellschaft<lbr type="BD"/>
+mir <u>zu Ehren</u> meinen <rend class="latin">Don Juan</rend> &#8211; Lebe wohl meine Liebe &#8211; grüße mir die<lbr type="BD"/>
+wenigen Freunde die es mit mir gut meinen &#8211; sorge für Deine mir so werthe<lbr type="BD"/>
+Gesundheit und sey stets meine Constanze so wie ich ewig seyn werde<ts>________</ts><tshtm>_______________________________________</tshtm><tspdf>\hfill </tspdf>Dein<lbr type="BD"/><lbr type="forced"/>
+<ts>___________</ts><tshtm>____________________________________________________________________________________________________________________________</tshtm><tspdf>\hfill </tspdf>Mozart.<lbr type="forced"/>
+NB. Schreibe mir fleißig, wenn es auch nur wenige Zeilen sind.<lbr type="forced"/>
+<ts>___</ts><rend class="latin">P. S.</rend> Gestern habe ich bei dem reichsten Kaufmann in ganz Frankfurt gespeist,<lbr type="BD"/>
+bei Herrn Schweitzer. &#8211; Die <rend class="latin"><u>Crux</u></rend> ist auch hier. &#8211; Das Mädel habe ich noch<lbr type="BD"/>
+nicht gesehen &#8211; die <u>Quellenberg</u> aber sagte mir, sie sey so gros und dick<lbr type="BD"/>
+geworden, daß ich sie nicht mehr kennen werde. &#8211; <rend class="latin">adjeu</rend>.<lbr type="forced"/>
+<ts>___</ts>Morgen Montag ist der Einzug und über acht Tage die Krönung. &#8211; <lbr type="forced"/>
+</NI></letter>
+</text>
+</MUP>

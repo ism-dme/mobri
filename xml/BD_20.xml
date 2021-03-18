@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2019">2019-12</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=577</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">D-Asa</bibl>
+            <bibl type="source" subtype="RISM">D-Asa (Stadtarchiv)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:36:21 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_20.mup">
+﻿<letter bd="20">
+<NI src="D-Asa">
+<HEADER id="577">LEOPOLD MOZART AN JOHANN JAKOB LOTTER IN AUGSBURG<lbr/>
+SALZBURG, 26. JANUAR 1756</HEADER>
+<pg n="1"/>
+<ts>_______________________________________________</ts><tspdf>\hfill </tspdf>Salzb<abbr type="curve">:</abbr> d<abbr v="en"/> 26<h>t<abbr v="en"/></h>&#160;<rend class="latin">Januarii</rend><lbr type="forced"/> 
+<ts>__________</ts><rend class="latin"><persName key="76865">Monsieur</persName> mon tres cher amy</rend>!<ts>__________________</ts><tspdf>\hfill </tspdf><u>1756.</u><lbr type="forced"/>
+<lbr type="forced"/>
+Ich schreibe in E&#255;ll, de<abbr type="topline" expand="nn">n</abbr> theils die <rend class="latin">opern</rend> be&#255; Hofe, theils<lbr/>
+die <rend class="latin">Scolaren</rend> Theil<lbr type="BD"/> and<abbr v="er"/>e Umstände hind<abbr v="er"/>n mich. die<lbr/>
+<persName key="48815">meinige</persName> wird bald ihre Reise antrett<abbr v="en"/>.<lbr type="BD"/> und heut hab<lbr/>
+ich die Zeichnung<abbr v="en"/> anfang<abbr v="en"/> lass<abbr v="en"/>, nun ist mein Kopf fertig.<lbr type="BD"/><lbr/>
+Hier ko<abbr type="topline" expand="mm">m</abbr>t d<abbr v="er"/> (H) bog<abbr v="en"/> zurük. Es ist in d<abbr v="en"/> Exempl<abbr v="en"/><lbr/>
+<rend class="latin">p</rend>: 63 etwas be&#255;gesetzt<lbr type="BD"/> word<abbr v="en"/>.<lbr type="forced"/>
+Sie lassen sich leicht irre mach<abbr v="en"/>. ich schrieb letzlich weg<abbr v="en"/><lbr/>
+<u>Vernehmlich.</u> nun<lbr type="BD"/> hab<abbr v="en"/> sie auch <u>nämlich</u> in <u>nehmlich</u><lbr/>
+abgeänd<abbr v="er"/>t. das erste ko<abbr type="topline" expand="mm">m</abbr>t vom <u>verneh<lbr type="BD"/>m<abbr v="en"/></u>, <u>versteh<abbr v="en"/></u><lbr/>
+<u>begreiff<abbr v="en"/></u>: folglich heist es <u>vernehmlich.</u> das zwe&#255;te<lbr/>
+ko<abbr type="topline" expand="mm">m</abbr>t<lbr type="BD"/> vom <u>nam<abbr v="en"/></u>, das ist <u>nament<pc force="weak">=</pc><lbr/>lich,</u>&#160;<u>benantlich</u>: folglich <u>nämlich.</u><lbr type="forced"/>
+Wenn d<abbr v="er"/> (G) bogen noch nicht ganz abgedrucket ist, so kö<abbr type="topline" expand="nn">n</abbr><abbr v="en"/> sie<lbr/>
+<u><rend class="latin">p</rend>: 51</u> unt<abbr v="en"/><lbr type="BD"/> in der erst<abbr v="en"/> Zeile des letzt<abbr v="en"/> Absatzes anstatt<lbr/>
+<pg n="2"/>
+<u>zweene Buchstaben,</u>&#160;<u>zween</u>&#160;<u>Buchstab<abbr v="en"/></u>&#160;<amend value="setzen">setzt<abbr v="en"/></amend>, folglich be&#255;m<lbr/>
+<u>zweene</u> das letzte (e) weglass<abbr v="en"/>. de<abbr type="topline" expand="nn">n</abbr> es ist<lbr type="BD"/> der<lbr/>
+<rend class="latin">Articulus</rend>&#160;<u>die</u> darbe&#255; folglich muß es zween heiss<abbr v="en"/>.<lbr type="forced"/>
+Nun will ich gern seh<abbr v="en"/> wie sie mit ihrem Versprech<abbr v="en"/> werd<abbr v="en"/> aus<pc force="weak">=</pc><lbr/>langen! bis<lbr type="BD"/> auf künftig<abbr v="en"/> Markt versprach<abbr v="en"/> sie mir<lbr/>
+fertig zu se&#255;n. Und itzt hab ich erst<lbr type="BD"/> d<abbr v="en"/> 8<h>t<abbr v="en"/></h> bog<abbr v="en"/> geseh<abbr v="en"/>.<lbr/>
+itzt hab ich nicht Zeit das mehrere zu schreib<abbr v="en"/>.<lbr type="BD"/><lbr/>
+dieß ist nur eine kleine Eri<abbr type="topline" expand="nn">n</abbr>erung. Nur bitte ich um<lbr/>
+alles itzt ni<abbr type="topline" expand="mm">m</abbr>er auszu<lbr type="BD"/>setz<abbr v="en"/>, de<abbr type="topline" expand="nn">n</abbr> sonst sind sie mein<lbr/>
+gröster schad<abbr v="en"/>. Daß sie sich übel befund<abbr v="en"/><lbr type="BD"/> ist mir herzlich<lbr/>
+le&#255;d, und ich hoffe, we<abbr type="topline" expand="nn">n</abbr> <persName key="84656">dero frau</persName> liebste aus dem Kind<pc force="weak">=</pc><lbr/>bette<lbr type="BD"/> zurück se&#255;n wird, da<abbr type="topline" expand="nn">n</abbr> wird auch der An<tspdf>\-</tspdf>stoss<lbr/>
+von hitz<abbr v="en"/> nachlass<abbr v="en"/>. Ich werde<lbr type="BD"/> die liebe <persName key="84656">Frau Lotterin</persName>,<lbr/>
+der ich mich schönstens empfehle, schriftlich darum<lbr type="BD"/> bitt<abbr v="en"/>,<lbr/>
+die Cur so lange zu verschieb<abbr v="en"/>, biß sie mit setzung<lbr/>
+meines Buches<lbr type="BD"/> fleisiger sind. Nun danke ich vor<lbr/>
+die <rend class="latin">Billets</rend>, und benachrichte, das zwar die<lbr type="BD"/>&#160;<u>Exemplar</u><lbr/>
+d<abbr v="er"/> <rend class="latin">opera</rend> büchl beko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/> habe, iedoch noch nicht sag<abbr v="en"/><lbr/>
+<pg n="3"/>
+kan, ob ich<lbr type="BD"/> sie alle verkauff<abbr v="en"/> werde: de<abbr type="topline" expand="nn">n</abbr> ich weis noch<lbr/>
+nicht was alles gespielet wird.<lbr type="BD"/>&#160;<u>itzt etwas anders</u>.<lbr/>
+Ich bekam letzlich ein<abbr v="en"/> brief, der mir paare 6 x kostete.<lbr type="BD"/><lbr/>
+und dieser entdeckte mir ein<abbr v="en"/>&#160;<u>Herzensfreund</u>, de<abbr type="topline" expand="nn">n</abbr> ich<lbr/>
+wirklich nie geka<abbr type="topline" expand="nn">n</abbr>t<lbr type="BD"/>&#160;<abbr expand="und">u</abbr> noch nicht kö<abbr type="topline" expand="nn">n</abbr>e. sehen sie was<pc force="weak">=</pc><lbr/>für mühe sich die Leute geb<abbr v="en"/>? wie sie die<lbr type="BD"/> schrifte ändern,<lbr/>
+und die Buchstab<abbr v="en"/> verzieh<abbr v="en"/> um unkä<abbr type="topline" expand="nn">n</abbr>tlich zu se&#255;n? sehen<lbr type="BD"/><lbr/>
+sie was ich für gute freunde habe?<lbr type="forced"/>
+Mein erster Gedanken fiel auf <persName key="78673">h<abbr type="curve">:</abbr> Capellstr <u>Schmid</u></persName>,<lbr/>
+und auf <persName key="84281">h<abbr type="curve">:</abbr>&#160;<u>Seifert</u></persName> und<lbr type="BD"/> zwar auf den letzt<abbr v="en"/> un<pc force="weak">=</pc><lbr/>endlich mehr als auf d<abbr v="en"/> erst<abbr v="en"/>: de<abbr type="topline" expand="nn">n</abbr> euer <persName key="78673">h<abbr type="curve">:</abbr><lbr/>
+<u>Seifert</u></persName><lbr type="BD"/> hat seine inbrünstige Herzensfreundschaft<lbr/>
+gar zu sehr merk<abbr v="en"/> lass<abbr v="en"/>. Nun<lbr type="BD"/> wünschete mir nichts mehr[es]<lbr/>
+als denjenig<abbr v="en"/>&#160;<rend class="latin">legaliter</rend> und richtig zu wiss<abbr v="en"/>; um<lbr type="BD"/> mein<abbr v="en"/> ge<pc force="weak">=</pc><lbr/>dank<abbr v="en"/> ausführ<abbr v="en"/> zu kö<abbr type="topline" expand="nn">n</abbr><abbr v="en"/>, welcher gewiss mit aller <rend class="latin">raison</rend><lbr/>
+soll<lbr type="BD"/> ausgeführet werd<abbr v="en"/>. Zwe&#255; weege sind, die mir be&#255;fall<abbr v="en"/>,<lbr/>
+auf die Sache zu<lbr type="BD"/> ko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>. Es müste nä<abbr type="topline" expand="mm">m</abbr>lich eine<lbr/>
+<rend class="latin">indifferen</rend>te Person mit einem solch<abbr v="en"/>&#160;<rend class="latin">Suspec<lbr type="BD"/>t</rend><abbr v="en"/> von meiner<lbr/>
+<pg n="4"/>
+<add_empf>
+1756. d<abbr v="en"/> 26. <rend class="latin">Januarii</rend>, aus <rend class="latin">Salzburg</rend><lbr/>
+von h<abbr type="curve">:</abbr>&#160;<rend class="latin">Leopold Mozart</rend>.</add_empf>
+<lbr/>
+<rend class="latin">Composition</rend> sprech<abbr v="en"/>, und nur einfliss<abbr v="en"/> lass<abbr v="en"/>, daß d<abbr v="er"/>glei<lbr type="BD"/>ch<abbr v="en"/><lbr/>
+lustige Stücke zwar gut sind, doch würde es besser se&#255;n,<lbr/>
+we<abbr type="topline" expand="nn">n</abbr> ich sie<lbr type="BD"/> nicht machete. die Antwort des schuldigen<lbr/>
+würde unfehlbar nach den in dem<lbr type="BD"/> Briefe stehend<abbr v="en"/>&#160;<rend class="latin">termi<pc force="weak">=</pc><lbr/>nis</rend> fall<abbr v="en"/>. Od<abbr v="er"/> man könnte sich herauslass<abbr v="en"/>, man<lbr type="BD"/> wollte<lbr/>
+von Seit<abbr v="en"/> des <rend class="latin">Collegii Musici</rend> wied<abbr v="er"/> auf etwas<lbr/>
+d<abbr v="er"/>gleich<abbr v="en"/> lustiges<lbr type="BD"/> denk<abbr v="en"/>. Vielleicht wird der schuldige<lbr/>
+ein<abbr v="en"/> Prophet<abbr v="en"/> alda<abbr type="topline" expand="nn">n</abbr> abgeb<abbr v="en"/> woll<abbr v="en"/>,<lbr type="BD"/> und wird glaub<abbr v="en"/><lbr/>
+sein brief werde verursach<abbr v="en"/>, daß ich nichts mehr<lbr/>
+d<abbr v="er"/>glei<lbr type="BD"/>ch<abbr v="en"/> mache. gehen sie nach ihrem verschlagen<abbr v="en"/> Kopfe,<lbr/>
+gelind an die Sache,<lbr type="BD"/> und denk<abbr v="en"/> sie das nicht iedem zu trau<abbr v="en"/><lbr/>
+ist. we<abbr type="topline" expand="nn">n</abbr> mir dieser Herzensfreund entdecket würde, so<lbr/>
+würde man seh<abbr v="en"/>, daß ich ihm mit aller Höflichkeit begeg<lbr type="BD"/>n<abbr v="en"/> würde.<lbr/>
+Diesen Brief aber halt<abbr v="en"/> sie wohl auf, da<abbr type="topline" expand="nn">n</abbr> solche freundschafts<pc force="inter">=</pc><lbr/>briefe muss ich wied<abbr v="er"/> zurück. <rend class="latin">addio</rend> ich bin<lbr type="forced"/>
+<lbr type="forced"/>
+<rend class="latin">P: S:</rend> we<abbr type="topline" expand="nn">n</abbr> ich zu wenig vom <persName key="84279">h<abbr type="curve">:</abbr>&#160;<rend class="latin">Gignoux</rend></persName> ge=<lbr type="BD"/><ts>__________</ts>dero Ergebster<lbr type="BD"/><lbr type="forced"/>
+fordert habe, so geschahe es um fernerer Kund=<lbr type="BD"/><ts>___</ts><tshtm>____</tshtm><u><persName key="39408">Leopold Mozart</persName><lbr type="BD"/>&#160;<abbr expand="manu propria">mp</abbr></u><lbr type="forced"/>
+schaft halb<abbr v="en"/>. und sie kö<abbr type="topline" expand="nn">n</abbr><abbr v="en"/> mich ja? <persName key="84665">h<abbr type="curve">:</abbr>&#160;<rend class="latin">Zi<abbr type="topline" expand="nn">n</abbr>er</rend></persName><lbr type="BD"/><lbr type="forced"/>
+wird mir etwa ein<abbr v="en"/>&#160;<rend class="latin">Max d'or</rend> vor die 4 <rend class="latin">Con=<lbr type="BD"/><lbr type="forced"/>
+certe</rend> bezahl<abbr v="en"/>. <u>Ich erwarte ied<abbr v="er"/> Posttage ein Neu<abbr v="en"/> Bogen.</u><lbr type="forced"/>
+</NI>
+</letter>
+</text>
+</MUP>

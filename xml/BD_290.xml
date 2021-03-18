@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2013">2013-5</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=851</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:37:50 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_290.mup">
+<letter bd="290"><HEADER id="851">LEOPOLD MOZART AN MARIA ANNA MOZART IN SALZBURG<lbr/>
+WIEN, 14. AUGUST 1773</HEADER>
+<pg n="1"/>
+<ts>____________</ts><tshtm>__________________________________________________________________________________________________</tshtm><tspdf>\hfill </tspdf>Wie<abbr type="topline" expand="nn">n</abbr> d<abbr v="en"/> 14<h>t<abbr v="en"/></h>&#160;<rend class="latin">aug<abbr type="curve">:</abbr></rend> 1773<lbr type="forced"/>
+<lbr type="forced"/>
+Heute erhielt dein Schreib<abbr v="en"/> vom 10<h>t<abbr v="en"/></h> ko<abbr type="topline" expand="mm">m</abbr>end<abbr v="en"/> dienstag werd<abbr v="en"/> S:<h>e</h><lbr type="BD"/> Hochf<abbr type="curve">:</abbr> Gd<abbr v="en"/> von Sierendorf,<lbr/>
+wo sie be&#255; ihrem h<abbr type="curve">:</abbr> Vatter sind, aufbrech<abbr v="en"/> und<lbr type="BD"/> folglich Mittwoch abends od<abbr v="er"/> do<abbr type="topline" expand="nn">n</abbr>erstags<lbr/>
+be&#255; zeit<abbr v="en"/> eintreff<abbr v="en"/>. Wa<abbr type="topline" expand="nn">n</abbr> wir<lbr type="BD"/> ko<abbr type="topline" expand="mm">m</abbr>en? &#8211; &#8211; noch nicht; da<abbr type="topline" expand="nn">n</abbr> S:<h>e</h> Hochf<abbr type="curve">:</abbr> gd<abbr v="en"/> haben<lbr/>
+uns erlaubt uns noch<lbr type="BD"/> hier zu verweilen. des h<abbr type="curve">:</abbr> von Messmers vetter,<lbr/>
+der auch <u>Messmer</u> heist,<lbr type="BD"/> ist ein Reis=Mundkoch S:<h>r</h> Hochf<abbr type="curve">:</abbr> Gd<abbr v="en"/> und sind etwa<lbr/>
+14 täge vor der Abreise<lbr type="BD"/> S:<h>r</h> Hf<abbr type="curve">:</abbr> gd<abbr v="en"/> in Salzb<abbr type="curve">:</abbr> angelangt, da<abbr type="topline" expand="nn">n</abbr> gleich mit<lbr/>
+S:<h>r</h> Hf<abbr type="curve">:</abbr> gd<abbr v="en"/> nach Wie<abbr type="topline" expand="nn">n</abbr> ge<lbr type="BD"/>reiset. Er hatte den Auftrag von h<abbr type="curve">:</abbr> und Fr:<lbr/>
+<abbr expand="von">v</abbr> Messmer uns dortmahls<lbr type="BD"/> alsogleich in Salzb<abbr type="curve">:</abbr> zu besuch<abbr v="en"/> und 1000 schöne<lbr/>
+Sach<abbr v="en"/> auszurichten; er<lbr type="BD"/> entschuldigte sich itzt, er wäre einmahl be&#255; uns<lbr/>
+und habe niemand zu hause<lbr type="BD"/> gefund<abbr v="en"/>. Nun wird er doch ehest zu euch ko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>,<lbr/>
+da<abbr type="topline" expand="nn">n</abbr> er von uns all<abbr v="en"/><lbr type="BD"/> den gross<abbr v="en"/> Auftrag beko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>. du wirst seh<abbr v="en"/>, daß<lbr/>
+er dem klein<abbr v="en"/> Messmer<lbr type="BD"/> etwas gleichsieht. Er ist sehr fein, und trägt<lbr/>
+sich sehr <rend class="latin">Noble</rend>, und hat für ein<abbr v="en"/><lbr type="BD"/> Koch so zi<abbr type="topline" expand="mm">m</abbr>lich stoltz. hätte ich das<lbr/>
+Waderl, so heut fertig beko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>,<lbr type="BD"/> gestern gehabt; so hätte es ihm mit<lbr/>
+gegeb<abbr v="en"/>. da es itzt ziemlich <rend class="latin">mode</rend> ist,<lbr type="BD"/> die waderl mit <rend class="latin">Taffta</rend> zu<lbr/>
+überzieh<abbr v="en"/>, so habe das waderl mit <rend class="latin">granaten</rend> farb<abbr v="en"/>&#160;<rend class="latin">Taffta</rend> überzieh<abbr v="en"/><lbr/>
+lass<abbr v="en"/>, welches also zur <rend class="latin">granaten guartitura</rend> gehört. da<abbr type="topline" expand="nn">n</abbr><lbr type="BD"/> habe 4 wadl<pc force="weak">=</pc><lbr/>Papier gekauft, darunter 2 <rend class="latin">Chinesi</rend>sche sind.<lbr type="forced"/>
+die Historie von Münch<abbr v="en"/> scheint mir eine <rend class="latin">Sole<abbr type="topline" expand="nn">n</abbr>e</rend> fabl zu se&#255;n.<lbr type="forced"/>
+was ich weis,<lbr type="BD"/> sollen S:<h>e</h> Hochf<abbr type="curve">:</abbr> gd<abbr v="en"/> nach einigem Aufenthalt in Salzb<abbr type="curve">:</abbr><lbr/>
+ins Gebürg und nach<lbr type="BD"/> Gmünd geh<abbr v="en"/>. Schreibe mir ieden Posttag, was<lbr/>
+du von dem aufenthalt od<abbr v="er"/><lbr type="BD"/> d<abbr v="er"/> Abreise S:<h>r</h> Hochf<abbr type="curve">:</abbr> Gd<abbr v="en"/> hörest; damit ich mich<lbr/>
+darnach richt<abbr v="en"/> mag. H<abbr type="curve">:</abbr><lbr type="BD"/>&#160;<rend class="latin">Criner</rend>, der uns letzhin besuchte, war am letzt<abbr v="en"/><lbr/>
+do<abbr type="topline" expand="nn">n</abbr>erstage auch in dem<lbr type="BD"/> Vorzi<abbr type="topline" expand="mm">m</abbr>er S:<h>r</h> Hochf<abbr type="curve">:</abbr> Gd<abbr v="en"/>. Ich sahe aber nicht, daß<lbr/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="2"/>
+er vorkahm, es wäre de<abbr type="topline" expand="nn">n</abbr><lbr type="BD"/> nur, daß er abends, da S:<h>e</h> Hochf<abbr type="curve">:</abbr> abge<pc force="weak">=</pc><lbr/>reiset, noch seine Aufwartung gemacht<lbr type="BD"/> hätte.<lbr type="forced"/>
+Nach viellem Reg<abbr v="en"/> hab<abbr v="en"/> wir nun endlich schön wetter, und seit einig<abbr v="en"/><lbr type="BD"/><lbr/>
+täg<abbr v="en"/> eine erstaunliche Hitze.<tshtm>_____</tshtm> die Messmerisch<abbr v="en"/> und alles<lbr/>
+Geschlamp alda<lbr type="BD"/> empfehlt sich. be&#255;de 2 Fischerin<abbr v="en"/> und h<abbr type="curve">:</abbr><lbr/>
+Fischer ingleich<abbr v="en"/>. Wir empfehl<abbr v="en"/><lbr type="BD"/> uns allen gut<abbr v="en"/> freund<abbr v="en"/> und<lbr/>
+freundin<abbr v="en"/> in und ausser dem Hause, Kiss<abbr v="en"/><lbr type="BD"/> euch viel 100000000<lbr/>
+mahl und bin d<abbr v="er"/> alte<lbr type="forced"/>
+<ts>__________</ts><tshtm>________________________________________________________</tshtm><tspdf>\hfill </tspdf>Mzt <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<lbr type="forced"/>
+<tshtm>_______</tshtm>das ganze Hauß von <rend class="latin">Martines</rend>, und <rend class="latin">Bono</rend> empf<abbr type="curve"></abbr> sich ebenfals<lbr/>
+<NS schr_id="39409"><tshtm>_______</tshtm>wen es die witterung erlaubt.<lbr type="forced"/>
+<lbr type="forced"/>
+<tshtm>_______</tshtm>Ich hoffe, meine königin, du wirst den höchsten grad der gesundheit ge<lbr type="BD"/>niessen<lbr/>
+und doch dan und wan oder vielmehr zuweilen oder besser bisweillen<lbr type="BD"/> oder noch<lbr/>
+besser <rend class="latin">qualche volta</rend> wie der welsche spricht, von deinen wichtigen<lbr type="BD"/> und dringen<pc force="weak">=</pc><lbr/>den gedancken |: welche alzeit aus dem schönsten und sichersten<lbr type="BD"/> vernunft<lbr/>
+herkomen, den du nebst deiner schönheit besizet, obwohlen in so<lbr type="BD"/> zarten<lbr/>
+Jahren und be&#255; einen frauenzimer fast nichts von obgesagten ver<pc force="weak">=</pc><lbr/>langt<lbr type="BD"/> wird, du, o königin, auf solche art besizest, das du die<lbr/>
+Mansperso<abbr type="topline" expand="nn">n</abbr>en Ja so<lbr type="BD"/> gar die greise beschämest :| mir etliche<lbr/>
+darvon aufopfern. lebe wohl. <rend class="latin">Wolfgang Mozart.</rend><lbr type="forced"/>
+<lbr type="forced"/>
+<tshtm>_____________</tshtm>| hier hast du was gescheides |<ts>__________________________</ts></NS>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="3"/>
+<NS schr_id="39408">der <rend class="latin">Mr: Alphen</rend> ist schon ein paar Jahre Tod, er hat sich<lbr/>
+vor seinem hin<lbr type="BD"/>scheid<abbr v="en"/> mit einem frauenzimer <rend class="latin">Copuli</rend>er<abbr v="en"/> lass<abbr v="en"/>,<lbr/>
+die er zum Erb<abbr v="en"/> einer<lbr type="BD"/> hipsch<abbr v="en"/> verlassenschaft eingesetzt.<lbr type="forced"/>
+<lbr type="forced"/>
+Der Junge <rend class="latin">Domanök</rend> ist verhe&#255;rath, davon nächster<lbr/>
+gelegenheit ein mehreres.</NS>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="4"/>
+<anschrift rot="270"><rend class="latin"><u>Vie<abbr type="topline" expand="nn">n</abbr>e</u><lbr type="forced"/>
+À Madame<lbr type="forced"/>
+Madame Marie Anne<lbr type="forced"/>
+Mozart<lbr type="forced"/>
+à<lbr type="forced"/>
+<u>Salzbourg</u></rend></anschrift>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+</letter>
+</text>
+</MUP>

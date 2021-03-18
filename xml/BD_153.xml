@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2014">2014-6</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=712</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">CH-Bps</bibl>
+            <bibl type="source" subtype="RISM">CH-Bps (Paul Sacher Stiftung</bibl>
+            <bibl type="source" subtype="RISM">Bibliothek)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:37:02 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_153.mup">
+<letter bd="153">
+<NI src="CH-Bps">
+<HEADER id="712">WOLFGANG AMADÉ MOZART AN MARIA ANNA (NANNERL) MOZART IN SALZBURG<lbr/>
+VERONA, 7. JANUAR 1770<lbr/>
+mit Nachschrift von Leopold Mozart</HEADER>
+<pg n="1"/>
+<ts>________________</ts>Allerliebste schwester.<ts>__</ts><tshtm>_______________________________________</tshtm><tspdf>\hfill </tspdf><rend class="latin">Verona il sette</rend><lbr type="forced"/>
+<ts>_____</ts><tshtm>____________________________________________________________________________________</tshtm><tspdf>\hfill </tspdf><u>1770</u>&#160;<rend class="latin">di Jenuario</rend><lbr type="forced"/>
+Einen spanlangen habe ich gehabt, weil ich so lang auf eine antwort verge<pc force="weak">=</pc><lbr/>bens gewartet habe, ich hatte auch ursache, weil ich deinen brief von 1 ten<lbr/>
+nicht empfangen habe. iezt hört der Teüsche tölpel auf, und fängt<lbr/>
+daß welsche Tölperl an. <rend class="latin">Lei è piu franco nella lingua italiana, di quello,<lbr/>
+che mi hò imaginato. lei mi Dica la cagione, perchè lei non fù<lbr/>
+nella Comedia che a<abbr type="topline" expand="nn">n</abbr>o giocati i cavalieri? adesso sentiamo sempre<lbr/>
+opere: che è Titulata: <u>il Ruggiero</u>. <u>Oronte</u> il padre<lbr/>
+di <u>bradamento</u> è un prencipe, (fà il sig: <u>afferri</u>) un bravo cantante, un<lbr/>
+paritono, ma</rend> (gezwungen, wen er in <rend class="latin">falset</rend> hinauf gigezt, aber doch<lbr/>
+nicht so sehr, wie der <rend class="latin">Tibaldi</rend> zu Wienn.) <rend class="latin"><u>Bradamenta</u>, figlia d'oronte,<lbr/>
+inamorata di Ruggiero, ma,</rend> (sie soll den <rend class="latin">leone</rend> he&#255;rahten, sie will<lbr/>
+ihn aber nicht.) <rend class="latin">fà, una povera baronessa, che hà avuto una<lbr/>
+gran disgratia, mà non sò chè Recita</rend> (unter einem fremden nam,<lbr/>
+ich weis aber den namen nicht) <rend class="latin">hà una Voce passabile, e la statura,<lbr/>
+non sarebbe male, ma distona come il Diabolo. <u>Ruggiero</u> un Ricco<lbr/>
+principe, inamorato della bradamenta, un Musico, canta<lbr/>
+un poco</rend>&#160;<rend class="latin">manzo</rend>lisch, <rend class="latin">ed à una bellissima Voce forte, ed è gia<lbr/>
+Vecchio, hà cinquanta cinque a<abbr type="topline" expand="nn">n</abbr>i, ed à una</rend> leiffige gurgel.<lbr/>
+<rend class="latin">Leone</rend>, soll die <rend class="latin">bradamenta</rend> he&#255;rathen, reichischime est, ob er<lbr/>
+aber ausser dem <rend class="latin">Theatro</rend> reichist, das weis ich nicht, <rend class="latin">fà, una Do<abbr type="topline" expand="nn">n</abbr>a, la<lbr/>
+moglie di <u>afferri</u>, à una bellissima voce, ma c'è tanto sussu<pc force="weak">=</pc><lbr/>ro nell theatro, che non si sente niente. <u>Irene</u>, fà una<lbr/>
+sorella di Lolli, del gran Violinisto, che abbiamo sentito à Vie<abbr type="topline" expand="nn">n</abbr>a.<lbr/>à una</rend>
+schnoffelte <rend class="latin">voce, e canta sempre</rend> um ein vierteil zu<lbr/>
+<rend class="latin">tardi, ò troppo à buon ora. <u>Ga<abbr type="topline" expand="nn">n</abbr>o</u> fà, un signor, che non sò<lbr/>
+come egli si chiama, è la prima volta che lui Recita.</rend> zwischen<lbr/>
+einem Jedem <rend class="latin">act</rend> ist ein <rend class="latin">balet:</rend> es ist ein bra<rend class="latin">ver</rend> Tanzer da,<lbr/>
+der sich nenet: <rend class="latin"><u>Monsieur Ruesler</u></rend>. er ist ein teüscher, und<lbr/>
+tanzt recht brav, als wir daß lezte mahl (aber nicht gar daß<lbr/>
+lezte mahl,) in der <rend class="latin">opera</rend> waren, haben wir den <rend class="latin">M:<h>r</h> Ruesler</rend><lbr/>
+in unserem <rend class="latin">balco</rend> herauf komen lassen, (dan wir haben den<lbr/>
+<rend class="latin">balco</rend> des <rend class="latin">Marquis <suppl hand="self" pos="supra">de</suppl> Carlotti</rend> fre&#255;, dan wir haben den schlüssel<lbr/>
+darzu) und mit ihm geredet: <rend class="latin">apropos:</rend> alles in der Ma<rend class="latin">scara</rend><lbr/>
+iezt, und was daß <rend class="latin">comots</rend> ist, wen man seine <rend class="latin">larve</rend> auf dem<lbr/>
+hut hat, und hat das <rend class="latin">privelegium</rend>, den hut nicht abzuziehen,<lbr/>
+wen einer mich grüst, und nimer be&#255;m namen nenen, sondern<lbr/>
+allzeit: <rend class="latin"><u>servitore umilissimo, giora Mascara.</u> Cospeto di</rend><lbr/>
+<rend class="latin">Baco</rend>, daß sprizt: was aber das rariste ist, ist dieses: das wir um<lbr/>
+7<h>ben</h> uhr gegen halbe 8 uhr schon zu bette gehen: <rend class="latin">se lei indovinasse</rend><lbr/>
+<rend class="latin">questo, io dirò [ce]rtamente, che lei sia, la Madre di tutti indovini.</rend><lbr type="forced"/>
+<pg n="2"/>
+<tspdf>\newpage</tspdf> 
+küsse anstat meiner der mama die hand, und dich küsse ich zu<lbr/>
+tausend mahl, und versichere dich, daß ich werde bleiben imer<lbr/>
+dein aufrichtiger, getreüer bruder<lbr type="forced"/>
+<rend class="latin">portez vous bien, et aimez moi toujours.</rend><lbr type="forced"/>
+<ts>______________</ts><tshtm>__________________________________________________</tshtm><tspdf>\hfill </tspdf><rend class="latin">Wolfgang Mozart</rend>&#160;<abbr expand="manu propria">mp</abbr>.<lbr type="forced"/>
+<NS type="NS" schr_id="39408">Ich küsse dich und die <rend class="latin">Ma<abbr type="topline" expand="mm">m</abbr>a</rend> viel 1000 Mahl. We<abbr type="topline" expand="nn">n</abbr> du die<lbr/>
+<rend class="latin">Concert</rend> in der <rend class="latin">Spartitur</rend> suchest, die wir mitgeno<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>, so wirst<lbr/>
+du sie in meinem kast<abbr v="en"/> mitt<abbr v="en"/>, wo die <rend class="latin">Synfoni<abbr v="en"/></rend> lieg<abbr v="en"/>, find<abbr v="en"/>.<lbr type="forced"/>
+ich empfehle dir das <rend class="latin">Clavier</rend>.</NS>
+</NI>
+</letter>
+</text>
+</MUP>

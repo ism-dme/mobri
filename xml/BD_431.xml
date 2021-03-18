@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2012">2012-10</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=995</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:38:46 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_431.mup">
+<letter bd="431"><HEADER id="995">WOLFGANG AMADÉ MOZART AN LEOPOLD MOZART IN SALZBURG<lbr/>
+MANNHEIM, 28. FEBRUAR 1778<lbr/>
+mit Nachschrift von Maria Anna Mozart</HEADER>
+<pg n="1"/>
+<add_ident schr_id="57010"><ts>_______________________________________________________________________________________</ts>Ungefähr 30 Febr 1778</add_ident>
+<ts>_____</ts><rend class="latin">Monsieur</rend><add_num type="inline" impl="pencil"><ts>______________________________</ts>35</add_num><add_ident type="inline" schr_id="57010"><ts>____________________</ts><stroke>Nach 22 Febr 78</stroke></add_ident><lbr type="forced"/>
+<ts>_____________</ts><rend class="latin">mon trés chér Pére</rend>!<add_note type="inline"><ts>_______________________________________________________________________</ts>1778</add_note>
+<lbr type="forced"/>
+wir haben ihren brief von 23:<h>ten</h> richtig erhalten; ich hoffe daß ich künftigen<lbr type="BD"/> fre&#255;tag<lbr/>
+oder Samstag die <rend class="latin">arien</rend> beko<abbr type="topline" expand="mm">m</abbr>en werde, obwohlen sie in ihrem lezten keine mel<pc force="weak">=</pc><lbr/>dung mehr davon gemacht haben, und ich mithin nicht weis<lbr type="BD"/> ob sie selbe gewis<lbr/>
+den 22:<h>ten</h> mit den Postwagen weg=geschickt haben, &#8211; &#8211;<lbr type="BD"/> ich wünsche es; de<abbr type="topline" expand="nn">n</abbr> ich<lbr/>
+möchte sie der <rend class="latin">Mad:<h>selle</h></rend> weber hier noch vorspiellen,<lbr type="BD"/> und vorsingen.<lbr type="forced"/>
+gestern war ich be&#255;m <rend class="latin">Raff</rend>, und bracht ihm eine <rend class="latin">aria</rend> die ich diese täge für ihn<lbr type="BD"/><lbr/>
+geschrieben habe. die wörter sind: <rend class="latin">se al labro mio non credi, bella nemica mia<lbr type="BD"/>&#160;<u>etcet:</u></rend><lbr/>
+ich glaub nicht das der text vom <rend class="latin">Metastasio</rend> ist. die <rend class="latin">aria</rend> hat ihm überaus gefallen.<lbr/>
+mit so einem Ma<abbr type="topline" expand="nn">n</abbr> mus man ganz besonders umgehen. ich habe<lbr type="BD"/> mit fleis diesen<lbr/>
+text gewählet, weil ich gewust habe, daß er schon eine <rend class="latin">aria</rend><lbr type="BD"/> auf diese wörter hat;<lbr/>
+mithin wird er sie leichter und lieber singen. ich habe<lbr type="BD"/> ihm gesagt, er soll mir<lbr/>
+aufrichtig sagen, we<abbr type="topline" expand="nn">n</abbr> sie ihm nicht taugt, oder nicht<lbr type="BD"/> gefällt; ich will ihm die<lbr/>
+<rend class="latin">arie</rend> ändern wie er will, oder auch eine andere machen.<lbr type="BD"/> behüte gott,<lbr/>
+hat er gesagt, die <rend class="latin">aria</rend> muß bleiben, denn sie ist sehr schön, nur<lbr type="BD"/> ein wenig<lbr/>
+bitte ich sie, kürzen sie sie mirs ab, denn ich bin izt ni<abbr type="topline" expand="mm">m</abbr>er so im<lbr type="BD"/> stande zu<lbr/>
+<rend class="latin">Souteniren</rend>. von herzen gern, so viell sie wollen, habe ich geantwortet;<lbr/>
+ich habe sie mit fleis etwas länger gemacht, de<abbr type="topline" expand="nn">n</abbr> wegschneiden ka<abbr type="topline" expand="nn">n</abbr> man<lbr type="BD"/> allzeit,<lbr/>
+aber dazusezen nicht so leicht. nachde<abbr type="topline" expand="mm">m</abbr> er den andern theil gesungen hat,<lbr/>
+so that er seine brülle herab, sah mich gross an, und sagte &#8211; &#8211; schön,<lbr type="BD"/> schön!<lbr/>
+das ist eine schöne <rend class="latin">seconda parte</rend>; und sange es 3 mahl. als ich weg=gieng, so<lbr/>
+bedanckte er sich sehr höflich be&#255; mir; und ich versicherte ihn im<lbr type="BD"/> gegentheil, daß<lbr/>
+ich ihm die <rend class="latin">aria</rend> so <rend class="latin">arangiren</rend> werde, daß er sie gewis gerne<lbr type="BD"/> singen wird; de<abbr type="topline" expand="nn">n</abbr> ich<lbr/>
+liebe daß die <rend class="latin">aria</rend> einem sänger so <rend class="latin">accurat</rend> angemessen<lbr type="BD"/> se&#255;, wie ein gutgemachts<lbr/>
+kleid. ich habe auch zu einer übung, die <rend class="latin">aria</rend>, <rend class="latin">non<lbr type="BD"/> sò d'onde viene etc</rend>: die so<lbr/>
+schön vom <rend class="latin">Bach componirt</rend> ist, gemacht, aus der<lbr type="BD"/> ursach, weil ich die vom <rend class="latin">Bach</rend> so<lbr/>
+gut ke<abbr type="topline" expand="nn">n</abbr>e, weil sie mir so gefällt, und i<abbr type="topline" expand="mm">m</abbr>er<lbr type="BD"/> in ohren ist; de<abbr type="topline" expand="nn">n</abbr> ich hab versuchen wollen,<lbr/>
+ob ich nicht ungeacht diesen<lbr type="BD"/> allen im stande bin, eine <rend class="latin">Aria</rend> zu machen, die derselben<lbr/>
+vom Bach gar nicht<lbr type="BD"/> gleicht? &#8211; &#8211; sie sieht ihr auch gar nicht, gar nicht gleich.<lbr/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal><lbr type="forced"/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="2"/>
+Diese <rend class="latin">aria</rend> habe ich anfangs de<abbr type="topline" expand="mm">m</abbr> <rend class="latin">Raff</rend> zugedacht, aber der anfang gleich<lbr type="BD"/> schien mir für<lbr/>
+den Raff zu hoch, und um ihn zu ändern gefiel er mir zu sehr,<lbr type="BD"/> und wegen sezung<lbr/>
+der <rend class="latin">instrumenten</rend> schien er mir auch für einen <rend class="latin">sopran</rend> besser,<lbr type="BD"/> mithi<abbr type="topline" expand="nn">n</abbr> entschloss<lbr/>
+ich mich diese <rend class="latin">aria</rend> für die weberin zu machen; ich legte sie<lbr type="BD"/> be&#255;seit, und nahm<lbr/>
+die wörter <rend class="latin"><u>se al labro</u> etc</rend>: für den <rend class="latin">Raff</rend> vor. ja, da war es<lbr type="BD"/> umsonst; ich hätte<lbr/>
+ohnmöglich schreiben kö<abbr type="topline" expand="nn">n</abbr>en, die erste <rend class="latin">aria</rend> ka<abbr type="topline" expand="mm">m</abbr> mir<lbr type="BD"/> immer in kopf. mithin<lbr/>
+schrieb ich sie, und nahm mir vor, sie <rend class="latin">accurat</rend> für die weberin zu machen.<lbr/>
+es ist ein <rend class="latin">Andante sostenuto</rend> |: vorher ein kleins <rend class="latin">Recitativ</rend> :| in der mitte der anderte<lbr/>
+theil, <rend class="latin">nel seno à destarmi</rend>, da<abbr type="topline" expand="nn">n</abbr> wieder das<lbr type="BD"/>&#160;<rend class="latin">sostenuto</rend>. als ich sie fertig hatte,<lbr/>
+so sagte ich zur <rend class="latin">Mad:<h>sle</h></rend> weber; lernen sie<lbr type="BD"/> die <rend class="latin">aria</rend> von sich selbst; singen sie sie<lbr/>
+nach ihrem <rend class="latin">gusto</rend>; da<abbr type="topline" expand="nn">n</abbr> lassen sie mir<lbr type="BD"/> sie hören, und ich will ihnen hernach aufrichtig<lbr/>
+sagen, was mir gefällt, und<lbr type="BD"/> was mir nicht gefällt. nach 2 tägen ka<abbr type="topline" expand="mm">m</abbr> ich hin,<lbr/>
+und da sang sie mirs, und<lbr type="BD"/>&#160;<rend class="latin">accompagnirte</rend> sich selbst. da habe ich aber gestehen<lbr/>
+müssen, daß sies <rend class="latin">accurat</rend> so<lbr type="BD"/> gesungen hat, wie ich es gewunschen habe, und<lbr/>
+wie ich es ihr ler<abbr type="topline" expand="nn">n</abbr>en hab<lbr type="BD"/> wollen. das ist nun ihre beste <rend class="latin">aria</rend> die sie hat; mit<lbr/>
+dieser macht sie sich gewis<lbr type="BD"/> überall Ehre, wo sie hinko<abbr type="topline" expand="mm">m</abbr>t. gestern habe ich be&#255;m<lbr/>
+wendling die <rend class="latin">aria</rend> die<lbr type="BD"/> ich ihr versprochen <rend class="latin">scizirt</rend>; mit einem kurzen <rend class="latin">Recitativ</rend>.<lbr/>
+die wörter hat sie<lbr type="BD"/> selbst verlangt, aus der <rend class="latin">Didone. ah non lasciarmi nò</rend>.<lbr/>
+sie und ihre tochter ist<lbr type="BD"/> ganz närrisch auf diese <rend class="latin">aria</rend>. der tochter habe ich noch<lbr/>
+einige französische<lbr type="BD"/>&#160;<rend class="latin">ariettes</rend> versprochen, wovon ich heüt eins angefangen habe.<lbr/>
+we<abbr type="topline" expand="nn">n</abbr> sie fertig<lbr type="BD"/> sind, so werde ich sie, wie die erste, auf klein Papiere schicken.<lbr/>
+von die 6 <rend class="latin">Clavier sonaten</rend> habe ich noch 2 zu machen, ich habe aber keine Eile<lbr/>
+damit, de<abbr type="topline" expand="nn">n</abbr><lbr type="BD"/> ich ka<abbr type="topline" expand="nn">n</abbr> sie hier nicht stechen lassen; mit <rend class="latin">suscription</rend> ist hier<lbr/>
+nichts zu machen,<lbr type="BD"/> es ist eine bettlere&#255;, und der kupferstecher will sie auf<lbr/>
+seine unkösten nicht<lbr type="BD"/> stechen; er will mit mir <rend class="latin">Moitiè</rend> von verkauf se&#255;n.<lbr/>
+da lass ich sie lieber zu<lbr type="BD"/>&#160;<rend class="latin">Paris</rend> stechen, da sind die stecher froh we<abbr type="topline" expand="nn">n</abbr> sie<lbr/>
+was neües beko<abbr type="topline" expand="mm">m</abbr>en, und<lbr type="BD"/> zahlen braf; und mit <rend class="latin">suscription</rend> ka<abbr type="topline" expand="nn">n</abbr> man auch eher<lbr/>
+etwas machen. ich<lbr type="BD"/> hätte ihnen schon längst nach und nach die <rend class="latin">sonaten</rend> abschreiben<lbr/>
+lassen, und<lbr type="BD"/> geschickt; ich dachte aber, ich will sie ihnen lieber schicken we<abbr type="topline" expand="nn">n</abbr> sie<lbr/>
+gestochen<lbr type="BD"/> sind. Ich fre&#255;e mich auf nichts als auf das <rend class="latin">Concert spirituelle</rend> zu<lbr/>
+<rend class="latin">Paris</rend>, de<abbr type="topline" expand="nn">n</abbr><lbr type="BD"/> da werde ich vermuthlich etwas <rend class="latin">Componiren</rend> müssen; das <rend class="latin">orchestre</rend><lbr/>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="3"/>
+se&#255;e so gut<lbr type="BD"/> und starck; und meine haupt=<rend class="latin">favorit</rend>=komposition ka<abbr type="topline" expand="nn">n</abbr> man dort<lbr/>
+gut auführen, nemlich Chöre; und da bin ich recht froh das die franzosen viell<lbr/> darauf<lbr type="BD"/> halten. das ist auch das einzige was man in <rend class="latin">Piccini</rend> seiner neüen<lbr/>
+<rend class="latin">opera <u>Roland</u></rend><lbr type="BD"/> ausgestellt hat, das nemlich die Chöre zu nackend und schwach<lbr/>
+seyen, und<lbr type="BD"/> überhaupst die <rend class="latin">Musique</rend> ein wenig zu einförmig. sonst hat sie aber<lbr/>
+allen be&#255;fall gefunden. zu <rend class="latin">Paris</rend> war man izt halt die Chöre von gluck ge<pc force="weak">=</pc><lbr/>wohnt. verlassen sie sich nur auf mich; ich werde mich nach allen kräften be<pc force="weak">=</pc><lbr/>mühen dem<lbr type="BD"/> Namen Mozart Ehre zu machen. ich hab auch gar nicht sorg darauf.<lbr/>
+aus den<lbr type="BD"/> vorigen briefen werden sie alles ersehen haben, <u>wie es ist,</u> und<lbr/>
+wie es <u>gemeint war</u>; ich bitte sie, lassen sie sich nicht öfter den gedancken in<lbr/>
+kopf<lbr type="BD"/> ko<abbr type="topline" expand="mm">m</abbr>en, daß ich auf sie vergessen werde! &#8211; &#8211; de<abbr type="topline" expand="nn">n</abbr> ich kan ihn nicht ver<pc force="weak">=</pc><lbr/>tragen. meine hauptabsicht, war, ist, und wird i<abbr type="topline" expand="mm">m</abbr>er se&#255;n, mich zu be<pc force="weak">=</pc><lbr/>streben<lbr type="BD"/> daß wir bald zusa<abbr type="topline" expand="mm">m</abbr>en ko<abbr type="topline" expand="mm">m</abbr>en, und glücklich &#8211; &#8211; aber<lbr/>
+da heist es gedult; sie wissen selbst besser als ich, wie die sachen oft querre<lbr/>
+gehen &#8211; &#8211; doch<lbr type="BD"/> wird es schon noch gerade gehen. Nur gedult. hoffen<lbr/>
+wir auf gott, der wird<lbr type="BD"/> uns nicht verlassen. an mir wird es nicht fehlen.<lbr/>
+wie kö<abbr type="topline" expand="nn">n</abbr>en sie doch an mir<lbr type="BD"/> zweifeln? &#8211; &#8211; liegt de<abbr type="topline" expand="nn">n</abbr> mir nicht selbst<lbr/>
+daran, daß ich nach allen kräften<lbr type="BD"/> arbeite, damit ich je eher je lieber<lbr/>
+das glück und vergnügen habe, meinen<lbr type="BD"/> besten und liebsten vatter<lbr/>
+von ganzem herzen zu u<abbr type="topline" expand="mm">m</abbr>armen? &#8211; &#8211; da sehen<lbr type="BD"/> sie! &#8211; es ist doch<lbr/>
+<add_note schr_id="57010"><ts>_____________________________________________________________________________________</ts>bayern</add_note>
+nichts auf der welt ohne <rend class="latin">interesse</rend>! &#8211; we<abbr type="topline" expand="nn">n</abbr> krieg etwa in<lbr type="BD"/>&#160;<encr expand="ba&#255;ern">bm&#255;lrn</encr> werden<lbr/>
+soll, so ko<abbr type="topline" expand="mm">m</abbr>en sie doch gleich nach, ich bitte sie. ich habe<lbr type="BD"/> auf 3 <suppl hand="self" pos="infra">freünde</suppl> mein<lbr/>
+vertrauen, und das sind starcke und unüberwindliche<lbr type="BD"/> freünde, ne<abbr type="topline" expand="mm">m</abbr>lich<lbr/>
+auf gott, auf ihren kopf, und auf meinen kopf. unsere köpfe<lbr type="BD"/> sind fre&#255;lich<lbr/>
+unterschieden, doch jeder in seinem fach sehr gut, brauchbar und<lbr type="BD"/> nützlich; und<lbr/>
+mit der zeit hoffe ich wird mein kopf dem ihrigen in dem fach<lbr type="BD"/> wo er izt<lbr/>
+den meinigen überwieget, doch auch nach und nach be&#255;ko<abbr type="topline" expand="mm">m</abbr>en.<lbr type="BD"/> Nun leben sie<lbr/>
+recht wohl! se&#255;en sie lustig und aufgeräumt. dencken sie daß<lbr type="BD"/> sie einen sohn<lbr/>
+haben der seine kindliche Pflicht gegen sie, wissentlich, gewis<lbr type="BD"/> nie vergessen hat, und<lbr/>
+der sich bemühen wird eines so guten vatters i<abbr type="topline" expand="mm">m</abbr>er<lbr type="BD"/> würdiger zu werden, und<lbr/>
+der unveränderlich bleiben wird dero gehorsamster<lbr type="forced"/>
+meine schwester umarme ich vom ganzen herzen.<ts>__</ts><tshtm>_______________________</tshtm><tspdf>\hfill </tspdf>wolfgang Mozart <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal><lbr type="forced"/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="4"/>
+an alle gute freünd und freündinen meine Empfehlung, besonders an h<abbr type="curve">:</abbr><lbr type="BD"/><lbr/>
+bullinger.<lbr type="forced"/>
+we<abbr type="topline" expand="nn">n</abbr> sie etwa die <rend class="latin">arien</rend> noch nicht weg=geschickt hätten, so bitte ich sie,<lbr/>
+so<lbr type="BD"/> bald es möglich. sie machen mir dadurch ein wahres vergnügen.<lbr/>
+<add_note schr_id="57010"><ts>______________________</ts>der Kurfürst aus<ts>__________</ts>bayern nicht<ts>________</ts>gestorben</add_note>
+ach, we<abbr type="topline" expand="nn">n</abbr><lbr type="BD"/> nur <encr expand="der Curfirst aus bayern nicht gestorben">dlr Cuhrihrot mho bm&#255;lrn nfcut glotsrbln</encr> wäre,<lbr/>
+so hätte ich die Messe<lbr type="BD"/> ausgemacht, und sie <rend class="latin">Producirt</rend>, das hätte ein<lbr/>
+grosses aufsehen hier gemacht.<lbr type="BD"/> ich war just recht aufgelegt dazu,<lbr/>
+und da führt der Plunder den verfluchten<lbr type="BD"/>&#160;<rend class="latin">Doctor</rend> sanftl daher! &#8211; <lbr type="forced"/>
+<NS type="NS" schr_id="48815">Mein lieber mann wür Rüchten uns nun allgemach zu unserer<lbr/>
+abreise, wann<lbr type="BD"/> wür nur den wagen guth anbringen könten<lbr/>
+so wehre es mir lieb, ich zweifle aber sehr das wür vill darfür<lbr/>
+bekommen werden, wür werden aber unser<lbr type="BD"/> möglichistes thun, und<lbr/>
+unsern fleis nicht spahren, das wür gleichwohl 50 f<lbr type="BD"/> darfür beko<abbr type="topline" expand="mm">m</abbr>en<lbr/>
+sie wollen ihn nicht höcher als 4 <rend class="latin">Carlin</rend> schäzen, und finden<lbr type="BD"/> ville aus<pc force="weak">=</pc><lbr/>stellungen daran, es ist halt alzeit so, wenn mann was verkauffen<lbr type="BD"/><lbr/>
+will, und hier gar wo es so <rend class="latin">intresi</rend>erte leuthe gibt die überall<lbr/>
+doplet und dre&#255;fachen nuzen suchen, und nicht die müinste gefähligkeit<lbr/>
+umsonst thuen<lbr type="BD"/> wollen, ich bin froh wan ich einmahl von hier forth<lbr/>
+bin, ich erwarthe diese<lbr type="BD"/> Zeit mit verlangen, welche gewiss wan<lbr/>
+es gottes willen ist, auf das lengste in<lbr type="BD"/> 14 tägen geschechen soll.<lbr/>
+underdessen erwarthe ich deine briefe und was du<lbr type="BD"/> uns noch<lbr/>
+zu schreib<abbr v="en"/> hast mit verlangen, und seye versichert das es alles<lbr type="BD"/><lbr/>
+nach dein<abbr v="en"/> willen und vorschrifft geschech<abbr v="en"/> solle. lebts be&#255;de gesund<lbr/>
+ich<lbr type="BD"/> kisse euch vill 10000 mahl und verbleibe wie alzeit dein getreues<lbr type="forced"/>
+<ts>__________________</ts><tshtm>_________________________________________________________</tshtm><tspdf>\hfill </tspdf>weib<lbr type="forced"/>
+Am alles gutte freind alles<ts>_________________________________</ts><tspdf>\hfill </tspdf>Maria Anna Mozartin<lbr type="forced"/>
+Erdenckliches</NS><lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal><lbr type="forced"/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal></letter>
+</text>
+</MUP>

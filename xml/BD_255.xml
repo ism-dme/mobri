@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2011">2011-05</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=816</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:37:37 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_255.mup">
+<letter bd="255"><HEADER id="816">LEOPOLD MOZART AN MARIA ANNA MOZART IN SALZBURG<lbr/>
+MAILAND, 9. NOVEMBER 1771<lbr/>
+mit Nachschrift von Wolfgang Amadé Mozart an Maria Anna (Nannerl) Mozart</HEADER>
+<pg n="1"/>
+<ts>__________</ts><tshtm>______________________________________________</tshtm><tspdf>\hfill </tspdf>Mayland d<abbr v="en"/> 9 <rend class="latin">Novemb<abbr type="curve">:</abbr></rend>&#160;<u>1771</u><lbr type="forced"/>
+<lbr type="forced"/>
+Ich schreibe dir in E&#255;le, daß ich die <rend class="latin">gratulation<abbr v="en"/></rend> und das ganze<lbr/>
+<rend class="latin">Paquet</rend> Briefe<lbr type="BD"/> richtig empf<abbr type="curve">:</abbr> habe, der Wolfg<abbr type="curve">:</abbr> wird sich, we<abbr type="topline" expand="nn">n</abbr><lbr/>
+Gott will, Ende dieses Monats<lbr type="BD"/> oder die erst<abbr v="en"/> täge des <rend class="latin">Decem</rend>ber<lbr/>
+selbst bedank<abbr v="en"/>. Ich befinde mich, Gott Lob,<lbr type="BD"/> wied<abbr v="er"/> völlig ge<pc force="weak">=</pc><lbr/>sund, gestern hab<abbr v="en"/> wir in gesellschaft des h<abbr type="curve">:</abbr>&#160;<rend class="latin">Hasse</rend><lbr/>
+be&#255; S<h>r</h>:<lbr type="BD"/>&#160;<rend class="latin">Ex<abbr type="curve">:</abbr></rend> Gr: <rend class="latin">Firmian</rend> gespeiset. so wohl h<abbr type="curve">:</abbr>&#160;<rend class="latin">Hasse</rend> als<lbr/>
+der Wolfg<abbr type="curve">:</abbr> sind weg<abbr v="en"/> der<lbr type="BD"/>&#160;<rend class="latin">Composition</rend> schön Beschenket word<abbr v="en"/>; über<lbr/>
+daß was sie in geld beko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>,<lbr type="BD"/> hat h<abbr type="curve">:</abbr>&#160;<rend class="latin">Hasse</rend> eine <rend class="latin">Tabattier</rend>, und<lbr/>
+der Wolfg<abbr type="curve">:</abbr> eine mit Diemant<abbr v="en"/> besetzte Uhr<lbr type="BD"/> erhalt<abbr v="en"/>.<lbr type="forced"/>
+daß du mir nach Mayland nicht mehr schreib<abbr v="en"/> sollest habe schon<lbr/>
+in letzt<abbr v="en"/><lbr type="BD"/> schreib<abbr v="en"/> eri<abbr type="topline" expand="nn">n</abbr>ert, sond<abbr v="ern"/> nach <rend class="latin">Verona</rend>. du wirst von<lbr/>
+<rend class="latin">Verona</rend> neuerdings von<lbr type="BD"/> mir Briefe erhalt<abbr v="en"/>, ob wir auf einige<lbr/>
+tage nach <rend class="latin">Padua</rend>, od<abbr v="er"/> gerade nach<lbr type="BD"/> Hause geh<abbr v="en"/> werd<abbr v="en"/>. sollst du<lbr/>
+ein<abbr v="en"/> Posttag von mir ohne Brief se&#255;n, so ist<lbr type="BD"/> es ein Zeich<abbr v="en"/>, daß<lbr/>
+auf der Reise bin, und nicht schreib<abbr v="en"/> ka<abbr type="topline" expand="nn">n</abbr>. <rend class="latin">addio</rend> wir<lbr type="BD"/> küss<abbr v="en"/> euch<lbr/>
+viel 10000000 mahl und bin alzeit dein alter<lbr type="forced"/>
+<ts>_________</ts><tshtm>_______________________________________________________</tshtm><tspdf>\hfill </tspdf>Mozart <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<NS type="NS" schr_id="39409" adr_id="48817">
+<ts>______________________</ts>liebste schwester!<lbr type="forced"/>
+meinen handkus an die mama. an alle freünde und freündinen meine<lbr/>
+empfehlung. Ich bedancke mich unterdessen in gröster e&#255;l be&#255; allen<lbr/>
+die mir gratulieret haben; mündlich werde ich mich besser bedanken<lbr/>
+könen. lebe wohl.<ts>____</ts><tspdf>\hfill </tspdf>wolfgang.</NS><lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal><lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="2"/>
+<vacat/></letter>
+</text>
+</MUP>

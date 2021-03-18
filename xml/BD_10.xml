@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2019">2019-12</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=567</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">D-Asa</bibl>
+            <bibl type="source" subtype="RISM">D-Asa (Stadtarchiv)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:36:17 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_10.mup">
+﻿<letter bd="10">
+<NI src="D-Asa">
+<HEADER id="567">LEOPOLD MOZART AN JOHANN JAKOB LOTTER IN AUGSBURG<lbr/>
+SALZBURG, 4. OKTOBER 1755</HEADER>
+<pg n="1"/>
+<ts>________________________________________</ts><tspdf>\hfill </tspdf>Salzb<abbr type="curve">:</abbr> d<abbr v="en"/> 4. <rend class="latin">Octbris</rend><lbr type="forced"/>
+<ts>___________________________</ts><tshtm>___________________________________</tshtm><tspdf>\hfill </tspdf>1755.<lbr type="forced"/>
+<ts>__________</ts><rend class="latin"><persName key="76865">Monsieur</persName> mon tres cher amy</rend><lbr type="forced"/>
+<lbr type="forced"/>
+Wie ungerne ich sie und ihre <persName key="84656">Fr: Liebste</persName> verlassen habe,<lbr/>
+war gar leicht aus<lbr type="BD"/> meinen Augen zu lesen. Mir kam<lbr/>
+der Abschied wirklich recht sauer: und so<lbr type="BD"/> vergnügt ich<lbr/>
+in dero Behausung eingetrett<abbr v="en"/> bin; so betrübt habe ich sie<lbr/>
+ver<lbr type="BD"/>lassen. &#8211; &#8211; Warum kö<abbr type="topline" expand="nn">n</abbr><abbr v="en"/> de<abbr type="topline" expand="nn">n</abbr> Leute, die sich unter<lbr/>
+einand<abbr v="er"/> lieben, nicht<lbr type="BD"/> i<abbr type="topline" expand="mm">m</abbr>er be&#255;sa<abbr type="topline" expand="mm">m</abbr><abbr v="en"/> s&#235;yn? &#8211; &#8211; und muß<lbr/>
+man de<abbr type="topline" expand="nn">n</abbr> seine beste freunde, die<lbr type="BD"/> man hat, mehr in<lbr/>
+der ferne, als in d<abbr v="er"/> Nähe such<abbr v="en"/>? Dieses, und die Be<pc force="weak">=</pc><lbr/>trach<lbr type="BD"/>tungen die ich über die gute und liebreiche Art<lbr/>
+machte, mit welcher mir dero<lbr type="BD"/>&#160;<persName key="84656">Frau Liebste</persName> begegnet ist,<lbr/>
+waren der Gegenwurf meiner Gedanken bis nach<lbr type="BD"/> Salzburg.<lbr/>
+Und wie vergnügte mich nicht gleich be&#255; dem Eintritte in mein<lbr type="BD"/><lbr/>
+<pg n="2"/>
+Zi<abbr type="topline" expand="mm">m</abbr>er, daß ich die meinigen in guten wohlse&#255;n an<pc force="weak">=</pc><lbr/>traff; und wie wurde<lbr type="BD"/> mein Vergnügen nicht verdoppelt,<lbr/>
+als ich in wenig Minuten ein<abbr v="en"/> Brief von<lbr type="BD"/> meinem <persName key="76865">Freunde</persName><lbr/>
+sah, den ich so hart verlassen habe? Ich bin der guten<lbr/>
+Mei<lbr type="BD"/>nung, die dero <persName key="84656">frau Gemahlin</persName> von mir häget, kein<pc force="weak">=</pc><lbr/>esweges würdig. <u>Ein ehrlicher<lbr type="BD"/> kerl bin <suppl hand="self" pos="supra">ich</suppl>,</u> das ist die<lbr/>
+warheit, sonst nichts. Sie verrathen aber eben durch<lbr type="BD"/><lbr/>
+das von mir gefasste Urtheil ihr eigenes redliches Gemüthe:<lbr/>
+weil man gemei<lbr type="BD"/>niglich and<abbr v="er"/>e nach sich selbst zu beurtheil<abbr v="en"/><lbr/>
+pfleget. Was die <u>Schneelanen</u><lbr type="BD"/> betrifft: so ist es zwar<lbr/>
+Wahr, daß sie ihre <persName key="84656">fr: Liebste</persName> sehr oft dadurch beleidiget<lbr type="BD"/><lbr/>
+haben. Mich hat keine überschüttet: denn ich merke sie<lbr/>
+gleich, wenn sie ablauf<abbr v="en"/> woll<abbr v="en"/>. Ich weis auch gar wohl<lbr/>
+<pg n="3"/>
+daß es nur so gewisse kleine fehler<lbr type="BD"/> sind, die man<lbr/>
+sich be&#255; den Reisen in d<abbr v="er"/> Jugend zum spassen ange<pc force="weak">=</pc><lbr/>wöhnet,<lbr type="BD"/> die da<abbr type="topline" expand="nn">n</abbr> hernach so zur Gewohnheit werden,<lbr/>
+daß man zuweilen mit dem<lbr type="BD"/> Munde eine <u>Schneelane</u><lbr/>
+abfahren lässt, ohne daß das Herz daran Theil<lbr/>
+hat.<lbr type="BD"/> Wenn sie nur nicht von Ostern biß Michaeli<lbr/>
+fortläuft, so lang nämlich, als<lbr type="BD"/> man an dem ersten Bog<abbr v="en"/><lbr/>
+meiner <u>Violinschule</u> zu setz<abbr v="en"/> hatte: sonst<lbr/>
+würde<lbr type="BD"/> eine solche <u>Schneelane</u> die halbe Welt bedecken.<lbr type="forced"/>
+Nun danke ich ihnen beyd<abbr v="er"/>se&#255;ts nochmal vor alle empfangenen<lbr/>
+Höflich<lbr type="BD"/>keit<abbr v="en"/>; und nicht nur ich danke ihn<abbr v="en"/>, sond<abbr v="er"/><abbr v="en"/> auch die<lbr/>
+meinige, die sich<lbr type="BD"/> höflichst be&#255;d<abbr v="en"/> empfehlet, ist ihn<abbr v="en"/><lbr/>
+davor euserist verbunden. Ich hab ihr<lbr type="BD"/> die Verdienste<lbr/>
+der so lieben <persName key="84656">frau Lotterin</persName> mit den lebendigisten<lbr/>
+<pg n="4"/>
+<add_empf>
+1755. d<abbr v="en"/> 4. <rend class="latin">Oct</rend>. aus Salzburg, von<lbr/>
+h<abbr type="curve">.</abbr>&#160;<rend class="latin">Leopold Mozart</rend>.</add_empf>
+<lbr/>
+Farben abge<lbr type="BD"/>mahlet, so, daß sie nur wünschet selbe<lbr/>
+auch zu kö<abbr type="topline" expand="nn">n</abbr><abbr v="en"/>, und we<abbr type="topline" expand="nn">n</abbr> sie eufer<lbr type="BD"/>sichtig wäre, müsste sie<lbr/>
+bald wegen mein<abbr v="en"/> beständigen Lobeserhebung<abbr v="en"/> in<lbr type="BD"/> eine<lbr/>
+Eyfersucht verfall<abbr v="en"/>. Nun hofe ich bald ein paar ge<pc force="weak">=</pc><lbr/>druckte Bogen zu<lbr type="BD"/> sehen. Und we<abbr type="topline" expand="nn">n</abbr> sie mich, wid<abbr v="er"/> alles<lbr/>
+verhofen noch ferner mit <u>Schneelan<abbr v="en"/></u><lbr type="BD"/> verfolg<abbr v="en"/> sollten,<lbr/>
+so werde mich an meine liebe <persName key="84656">fr: Lotterin</persName> wenden, und<lbr type="BD"/><lbr/>
+sie bitten, daß sie ihnen so lange die gewisse nächtliche<lbr/>
+<rend class="latin">Diversion</rend> untersagen<lbr type="BD"/> sollte, bis allezeit ein paar bog<abbr v="en"/><lbr/>
+gesetzet sind. Leben sie vergnügt zusa<abbr type="topline" expand="mm">m</abbr>en.<lbr type="BD"/> Denken sie<lbr/>
+zu zeiten an ihr<abbr v="en"/> diener und redlich<abbr v="en"/> Freund, und sind<lbr/>
+sie ver<lbr type="BD"/>sichert daß ich leblänglich bin<lbr type="forced"/>
+<ts>_____________________________________________</ts><tspdf>\hfill </tspdf>dero Ergebenster<lbr type="BD"/><lbr type="forced"/>
+<ts>_____________________________________________</ts><tspdf>\hfill </tspdf><persName key="39408"><rend class="latin">Leopold Mozart</rend></persName>&#160;<abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<lbr type="forced"/>
+Hier ist die Schlittenfart, das übrige<lbr type="forced"/>
+wird bald folgen.<lbr type="forced"/>
+</NI>
+</letter>
+</text>
+</MUP>

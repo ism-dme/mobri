@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2014">2014-5</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1661</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:41:58 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_1091.mup">
+<letter bd="1091">
+<HEADER id="1661">WOLFGANG AMADÉ MOZART AN CONSTANZE MOZART IN WIEN<lbr/>
+PRAG, 10. APRIL 1789</HEADER>
+<pg n="1"/>
+<ts>________</ts><tshtm>____________________________________________________________</tshtm><tspdf>\hfill </tspdf><u>Prag.</u> am Charfre&#255;tage<lbr type="forced"/>
+<ts>____</ts><tshtm>___</tshtm>liebstes, bestes <persName key="48818">Weibchen</persName>! &#8211; <ts>____</ts><tshtm>_________________</tshtm><tspdf>\hfill </tspdf>den 10<h><uu>t</uu></h>&#160;<rend class="latin">April</rend>. <uu>789</uu>.<lbr type="forced"/>
+<lbr type="forced"/>
+Heute Mittage um <formula type="mfrac"><mn>1</mn><mi>2</mi></formula> 2 uhr sind wir glücklich hier angeko<abbr type="topline" expand="mm">m</abbr>en.<lbr/>
+unterdessen<lbr type="BD"/> hoffe ich daß du gewis mein briefchen aus budwitz<lbr/>
+wirst erhalten haben. &#8211;<lbr type="BD"/> Nun folgt der <rend class="latin">Raport</rend> von <rend class="latin">Prag</rend>. &#8211; <lbr/>
+wir kehrten ein be&#255;m Einhorn; &#8211; nachde<abbr type="topline" expand="mm">m</abbr><lbr type="BD"/> ich balbirt, frisirt,<lbr/>
+und angekleidet war, fuhr ich aus, in der absicht be&#255;m <persName key="84707"><rend class="latin">Canal</rend></persName><lbr type="BD"/> zu<lbr/>
+Speisen; da ich aber be&#255; <persName key="51568"><rend class="latin">Duscheck</rend></persName> vorbe&#255; musste, fruge ich erstens<lbr/>
+dort an &#8211;<lbr type="BD"/> da erfuhr ich daß die <persName key="51569"><rend class="latin">Madame</rend></persName> gestern nach Dresden<lbr/>
+abgereiset se&#255;e!!! &#8211; &#8211; &#8211;<lbr type="BD"/> Dort werde ich sie also treffen.<lbr/>
+Er Speiste bei <div type="commentary" xml:id="commentBD1091_1"><persName key="0"><rend class="latin">Leliborn</rend></persName><note corresp="#commentBD1091_1">nicht ermittelt</note></div> wo ich auch öfters<lbr type="BD"/> Speisste; &#8211; ich fuhr<lbr/>
+also gerade dahin; &#8211; ich ließ <persName key="51568"><rend class="latin">Duscheck</rend></persName> |: als ob Jemand etwas<lbr/>
+mit ihm zu Sprechen hätte :| herausrufen: &#8211; Nun kanst du<lbr/>
+dir die freude den<lbr type="BD"/>ken. &#8211; ich Speisste also be&#255; <rend class="latin">leliborn</rend><lbr/>
+&#8211; Nach tisch fuhr ich zu <persName key="84707"><rend class="latin">Canal</rend></persName> und <persName key="57216"><rend class="latin">Pachta</rend></persName>,<lbr type="BD"/> traf aber niemand<lbr/>
+zu hause an; &#8211; ich gieng also zu <persName key="53109"><rend class="latin">guardassoni</rend></persName> &#8211; welcher<lbr type="BD"/> es auf<lbr/>
+künftigen herbst fast richtig machte mir für die <rend class="latin">oper</rend> 200<lbr/>
+<rend class="latin">ducaten</rend> und 50 <rend class="latin">Ducaten</rend><lbr type="BD"/> Reisegeld zu geben. &#8211; dann gieng<lbr/>
+ich nach haus um meinem lieben weibchen dies<lbr type="BD"/> alles zu schreiben<lbr/>
+&#8211; Noch was; &#8211; <persName key="57984"><rend class="latin">Ra<abbr type="topline" expand="mm">m</abbr></rend></persName> ist erst vor 8 tagen von hier<lbr type="BD"/> wieder<lbr/>
+nach Hause; er kamm von berlin, und sagte, daß ihn der<lbr/>
+<persName key="52367">könig</persName> sehr oft,<lbr type="BD"/> und zudringlich gefragt hätte, ob ich gewis kä<abbr type="topline" expand="mm">m</abbr>e;<lbr/>
+&#8211; und da ich halt noch<lbr type="BD"/> nicht ka<abbr type="topline" expand="mm">m</abbr>, sagte er wieder; &#8211; ich förchte<lbr/>
+er kö<abbr type="topline" expand="mm">m</abbr>t nicht. &#8211; <persName key="57984"><rend class="latin">Ra<abbr type="topline" expand="mm">m</abbr></rend></persName> wurde völlig<lbr type="BD"/> bange, er suchte ihn des<lbr/>
+gegentheils zu versichern; &#8211; Nach diesem zu schlüssen,<lbr type="BD"/> sollten<lbr/>
+meine sachen nicht schlecht gehen. &#8211; Nun führe ich den <persName key="76747">fürsten</persName><lbr/>
+zu<lbr type="BD"/>&#160;<persName key="51568"><rend class="latin">Duscheck</rend></persName>, welcher uns erwartet. &#8211; und um 9 uhr a[b]ends<lbr/>
+gehen wir nach <rend class="latin">Dresden</rend><lbr type="BD"/> ab, wo wir morgen abends<lbr/>
+<pg n="2"/>
+eintreffen werden. &#8211; liebstes <persName key="48818">Weibchen</persName>, ich sehne<lbr type="BD"/> mich so<lbr/>
+sehr nach Nachrichten von dir. &#8211; vieleicht treffe ich in<lbr/>
+<rend class="latin">Dresden</rend> einen<lbr type="BD"/> brief an! &#8211; O gott, mache meinen Wunsch<lbr/>
+wahr. &#8211; nach erhaltung dieses briefes<lbr type="BD"/> musst du mir<lbr/>
+nach <rend class="latin"><u>Leipzig</u></rend> schreiben <rend class="latin"><u>Poste restante</u></rend> versteht sich; &#8211; <lbr/>
+<rend class="latin">Adieu</rend> &#8211; liebe &#8211; <lbr type="BD"/>ich muß schlüssen, sonst geht die<lbr/>
+Post ab. &#8211; küsse tausendmal unsern<lbr type="BD"/>&#160;<persName key="48820">karl</persName>, und<lbr/>
+ich bin dich vom ganzen herzen küssend<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>________</ts><tshtm>_______________________________________</tshtm><tspdf>\hfill </tspdf>Dein Ewig getreuer<lbr type="forced"/>
+<ts>________</ts><tshtm>__________________________________________</tshtm><tspdf>\hfill </tspdf><persName key="39409">W: A: Mozart</persName>&#160;<abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<tspdf><lbr type="forced"/></tspdf>
+<rend class="latin">PS:</rend> an <persName key="57866 84708">Hr und fr:<lbr/>
+von Puchberg</persName> alles erdenkliche &#8211; <lbr/>
+ich muß es schon auf <rend class="latin">Berlin</rend><lbr type="BD"/> Sparen<lbr/>
+ihm zu schreiben, um ihm auch<lbr/>
+schriftlich unterdessen zu danken.<lbr type="forced"/>
+<lbr type="forced"/>
+<tshtm>_________________________________________</tshtm><rend class="latin">Adieu &#8211; aimés moi, et<lbr/>
+<tshtm>_________</tshtm>gardés votre Santè si chere et precieuse à<lbr/>
+<tshtm>________</tshtm>votre epoux.</rend>
+</letter>
+</text>
+</MUP>

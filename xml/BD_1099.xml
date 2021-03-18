@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2014">2014-6</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1669</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Privatbesitz</bibl>
+            <bibl type="source" subtype="RISM">Privatbesitz</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:41:59 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_1099.mup">
+<letter bd="1099"><NI src="Privat"><HEADER id="1669">WOLFGANG AMADÉ MOZART AN CONSTANZE MOZART IN WIEN<lbr/>
+LEIPZIG, 16. MAI 1789</HEADER>
+<pg n="1"/>
+<ts>________</ts><tshtm>____________________________________________________________________________</tshtm><tspdf>\hfill </tspdf><u>Leiptzig</u> den 16:<h>t</h> Ma&#255;<lbr type="forced"/>
+<ts>__________</ts><tshtm>_______</tshtm>Allerliebstes, bestes Herzensweibchen! &#8211; <ts>____</ts><tshtm>_________________</tshtm><tspdf>\hfill </tspdf><uu>1789</uu> &#8211; <lbr type="forced"/>
+<lbr type="forced"/>
+Wie? &#8211; noch in Leiptzig! &#8211; Mein lezter vom 8:<h>t</h> oder 9:<h>ten</h> sagte dir zwar daß<lbr/>
+ich<lbr type="BD"/> in der Nacht um 2 uhr schon wieder abreisen würde, allein, das viele bitten<lbr type="BD"/><lbr/>
+meiner freunde bewog mich leiptzig | wegen des fehlers einer oder zwe&#255;er<lbr type="BD"/> Perso<abbr type="topline" expand="nn">n</abbr>en :| nicht zu<lbr/>
+<rend class="latin">affrontiren</rend>, sondern dienstags den 12:<h>ten</h> eine <rend class="latin">Academie</rend><lbr type="BD"/> zu geben. &#8211; diese war von<lbr/>
+Seiten des be&#255;falls und der Ehre glänzend genug,<lbr type="BD"/> desto mägerer aber die Ein<pc force="weak">=</pc><lbr/>nahme betreffend; <rend class="latin">Duscheck</rend> welche Sich hier befindet<lbr type="BD"/> sang darinn; &#8211; die <rend class="latin">Neuman</rend>schen<lbr/>
+aus Dresden sind auch alle hier; &#8211; das ver<lbr type="BD"/>gnügen so lange wie möglich in gesellschaft<lbr/>
+dieser lieben braven leute<lbr type="BD"/> |: die sich dir alle bestens empfehlen :| zu se&#255;n, verzögerte<lbr/>
+bisher noch meine<lbr type="BD"/> abreise; &#8211; gestern wollte ich weg, konnte aber keine Pferde kriegen<lbr/>
+&#8211; heute<lbr type="BD"/> eben so; &#8211; denn alles will nun eben <u>izt</u> abreisen, und die anzahl<lbr/>
+der Reisenden<lbr type="BD"/> ist ausserordentlich gros; &#8211; Morgen aber früh 5 uhr geht es los; &#8211; <lbr/>
+&#8211; Meine liebe!<lbr type="BD"/> &#8211; Mir ist sehr leid, und halb und halb doch fast lieb, daß du<lbr/>
+dich in den nem<lbr type="BD"/>lichen falle befindest, in welchem ich mich befand; doch Nein! &#8211; ich<lbr/>
+wünschte<lbr type="BD"/> daß du dich in dieser lage nie befunden hättest, und hoffe Sicher<lbr/>
+daß, da ich<lbr type="BD"/> dieses schreibe, du gewis wenigstens <u>einen</u> von meinen briefen<lbr/>
+in händen<lbr type="BD"/> haben wirst, &#8211; wo das herko<abbr type="topline" expand="mm">m</abbr>en mag, das weis gott! &#8211; <lbr/>
+ich habe deinen brief<lbr type="BD"/> vom 13:<h>t</h>&#160;<rend class="latin">april</rend>, den 21:<h>t</h> in leipzig erhalten; &#8211; dann<lbr/>
+<u>ohne briefe</u> 17 tage in<lbr type="BD"/> Potsdam zugebracht; &#8211; den 8:<h>t</h> Ma&#255; erhielt ich<lbr/>
+erst dein schreiben vom 24:<h>t</h><lbr type="BD"/>&#160;<rend class="latin">april</rend>, und sonst gar keines, ausgeno<abbr type="topline" expand="mm">m</abbr>en<lbr/>
+gestern eines vom 5:<h>t</h>&#160;<rend class="latin">May;</rend> &#8211; ich<lbr type="BD"/> meinerseits schrieb dir den 22:<h>t</h>&#160;<rend class="latin">april</rend><lbr/>
+von <rend class="latin">Leipzig</rend>, den 28:<h>t</h> vom Potsdam,<lbr type="BD"/> den 5:<h>t</h>&#160;<rend class="latin">May</rend>, wieder vom Potsdam,<lbr/>
+den 9:<h>t</h> vom <rend class="latin">Leipzig</rend>, und nun den 16:<h>t</h> &#8211;<lbr type="BD"/> das sonderbarste ist daß wir<lbr/>
+uns eben <u>zur nemlichen zeit</u> in der <u>nemlichen<lbr type="BD"/> trauerigen lage</u> befanden;<lbr/>
+ich ängstigte mich vom 24:<h>t</h> april bis 8:<h>t</h>&#160;<rend class="latin">May</rend>, und<lbr type="BD"/> nach deinem brief zu urtheilen<lbr/>
+war eben dies auch die zeit deiner bekü<abbr type="topline" expand="mm">m</abbr>er<lbr type="BD"/>nüss; &#8211; Nun hoffe ich aber wirst<lbr/>
+du es schon überstanden haben, und überhaupt<lbr type="BD"/> ist mein trost, daß wir bald<lbr/>
+nicht mehr der briefe werden benöthiget se&#255;n,<lbr type="BD"/> sondern uns bald mündlich Sprechen<lbr/>
+und küssen, und an unser herzen werden<lbr type="BD"/> drücken können. &#8211; ich schrieb dir in<lbr/>
+meinem lezten daß du mir nicht mehr<lbr type="BD"/> schreiben sollst; &#8211; es ist auch das sicherste;<lbr/>
+<pg n="2"/>
+Nun bitte ich dich aber mir auf<lbr type="BD"/> diesen brief zu antworten, aber ihn<lbr/>
+nach Prag an <rend class="latin">Duscheck</rend> zu <rend class="latin">adressi</rend>ren; du must ein förmliches <rend class="latin">Couvert</rend><lbr/>
+darüber machen, und ihn darin ersuchen den<lbr type="BD"/> brief bis auf meine Ankunft<lbr/>
+dahin aufzubewahren; &#8211; ich werde wohl wenig<lbr type="BD"/>stens 8 täge <u>müssen</u><lbr/>
+in <rend class="latin">Berlin</rend> zubringen; &#8211; auf diese art werde wohl vor 5:<h>t</h> oder<lbr type="BD"/><lbr/>
+6:<h>t</h>&#160;<rend class="latin">Juny</rend> nicht in Wienn se&#255;n können; &#8211; also in 10 oder 12 tagen<lbr/>
+nach<lbr type="BD"/> empfang dieses briefes; &#8211; noch eines wegen ausbleibung der briefe;<lbr/>
+ich habe<lbr type="BD"/> auch am 28:<h>t</h>&#160;<rend class="latin">aprill</rend> an unsern lieben freund Puchberg geschrieben<lbr/>
+&#8211; ich bitte<lbr type="BD"/> dich mache ihm 1000 Empfehlungen, und danksagungen in<lbr/>
+meinem Namen. &#8211;<lbr type="BD"/> daß Schmidt krank war wusste ich gar nicht;<lbr/>
+dies wird vermuthlich in dem<lbr type="BD"/> briefe gestanden haben, den ich nicht er<pc force="weak">=</pc><lbr/>halten habe. &#8211; Ich danke dir recht<lbr type="BD"/> sehr für den bericht von der<lbr/>
+<add_note schr_id="57010">Seidelmannschen</add_note>
+Oper; &#8211; freylich wäre es besser wenn er<lbr type="BD"/> Maasmann hiesse; wenn du<lbr/>
+ihn aber von Person kenntest, wie ich, so würdest<lbr type="BD"/> du ihn wonicht <u>bluzer</u><pc force="weak">=</pc><lbr/>Mann doch wenigstens <u>Zi<abbr type="topline" expand="mm">m</abbr>ent</u>Mann heissen; &#8211; lebe<lbr type="BD"/> wohl, liebes<lbr/>
+Weibchen, <u>erfülle alle meine bitten so ich in meinen briefen an<lbr type="BD"/> dich<lbr/>
+that, denn liebe, wahre, ächte liebe war der bewegrund hiezu</u> &#8211; <u>und<lbr/>
+liebe<lbr type="BD"/> mich so wie ich dich liebe</u>; &#8211; ich bin Ewig<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_______</ts><tshtm>_____________________________________________________</tshtm><tspdf>\hfill </tspdf>dein einzig wahrer freund und<lbr type="forced"/>
+<ts>_______</ts><tshtm>_____________________________________________________________________________</tshtm><tspdf>\hfill </tspdf>getreuer gatte<lbr type="BD"/><lbr type="forced"/>
+<ts>_______</ts><tshtm>___________________________________________________________</tshtm><tspdf>\hfill </tspdf>W: A: Mozart <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<lbr/>
+<add_note schr_id="57010"><ts>___</ts>Anm.<lbr/>
+Seidel oder Seitel, Seitl<lbr/>
+Maaß,<lbr/>
+Bluzer (Pluzer),<lbr/>
+Zimment (Cement),<lbr/>
+sind oesterreichsche Benennungen von Trinkmaaßen und Trinkgefäßen.</add_note>
+</NI></letter>
+</text>
+</MUP>

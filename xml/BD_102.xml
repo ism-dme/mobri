@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2020">2020-02</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=661</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Verbleib unbekannt (Vorlage: Abschrift um 1768 in D-B)</bibl>
+            <bibl type="source" subtype="RISM">Verbleib unbekannt, Vorlage: Abschrift um 1768 in D-B</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:36:44 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_102.mup">
+<letter bd="102">
+<NI src="unbekannt">
+<HEADER id="661">LEOPOLD MOZART AN LORENZ HAGENAUER IN SALZBURG<lbr/>
+DEN HAAG, 19. SEPTEMBER 1765</HEADER>
+<pg n="1"/>
+<add_num schr_id="57010" impl="crayon" color="red"><ts>___________________</ts>33</add_num>
+<ts>______________________________</ts><tspdf>\hfill </tspdf><rend class="latin">Haag</rend> den 19.<h>t<abbr v="en"/></h>&#160;<rend class="latin">Sept<abbr type="curve">:</abbr></rend><lbr type="forced"/>
+<ts>________________________</ts><tshtm>_____________________________</tshtm><tspdf>\hfill </tspdf><u>1765.</u><lbr type="forced"/>
+<rend class="latin">Monsieur</rend>!<lbr type="forced"/>
+<lbr type="forced"/>
+Sie erhalten hier ein Schreiben aus<lbr/>
+dem <rend class="latin">Haag</rend>; nicht aber aus dem Haag<lbr/>
+be&#255;<lbr type="BD"/> München, noch aus dem Haag<lbr/>
+so be&#255; Lambach in Oesterreich liegt.<lbr/>
+nein!<lbr type="BD"/> sondern aus dem <rend class="latin">Haag</rend> in<lbr/>
+Holland. Das wird ihnen fre&#255;lich<lbr/>
+sehr wunderlich<lbr type="BD"/> vorkommen, um so mehr,<lbr/>
+als sie uns vielleicht nicht so ferne, son<pc force="weak">=</pc><lbr/>deren ihnen<lbr type="BD"/> bereits näher zu se&#255;n, et<pc force="weak">=</pc><lbr/>wa, wo nicht geglaubet, doch gewunschen<lbr/>
+haben.<lbr type="BD"/> Wir würden auch, zwar noch<lbr/>
+nicht nahe, doch bereits wieder aus Hol<pc force="weak">=</pc><lbr/>land weg<lbr type="BD"/> se&#255;n, wenn uns nicht eine<lbr/>
+Unbässlichkeit, die erstens meinen Wolf<pc force="weak">=</pc><lbr/>gäng<abbr type="curve">:</abbr> und<lbr type="BD"/> dann mich selbst in <rend class="latin">Lille</rend> über<pc force="weak">=</pc><lbr/><pg n="2" type="wordsep"/>fallen 4. Wochen zurück gehalten hätte.<lbr/>
+Sie<lbr type="BD"/> sollen nun aber gleich alles wissen,<lbr/>
+was für ein Zufahl uns nach Holland<lbr type="BD"/><lbr/>
+gebracht: da ich niemals nach Hol<pc force="weak">=</pc><lbr/>land, wohl aber nach Ma&#255;land und über<lbr type="BD"/><lbr/>
+Venedig nach Hauszugehen beschlossen hat<pc force="weak">=</pc><lbr/>te. Der Holländische Gesandte in<lbr/>
+<rend class="latin">London</rend> lag uns vielmahls an nach<lbr/>
+dem <rend class="latin">Haag</rend> zu dem Prinz von <rend class="latin">Orani</rend><pc force="weak">=</pc><lbr/>en zu<lbr type="BD"/> gehen. Allein ich ließ es be&#255;<lbr/>
+einem Ohre hinein, be&#255; dem anderen<lbr/>
+wieder<lbr type="BD"/> hinaus passieren. Wir schickten<lbr/>
+uns zur Abreiße, und ich dachte so<lbr/>
+wenig<lbr type="BD"/> nach Holland zu gehen, daß ich<lbr/>
+<u>alle unsere </u><choice><orig><u>Belze</u></orig><corr hand="diff" schr_id="57010"><u>Pelze</u></corr></choice> nebst anderen Sachen<lbr/>
+in<lbr type="BD"/> einen <rend class="latin">Coffre</rend> nach Paris schickte. Al<pc force="weak">=</pc><lbr/>lein, da wir würcklich abgereißet wa<pc force="weak">=</pc><lbr/>ren<lbr type="BD"/> und wircklich den 24. <rend class="latin">Julij</rend> aus<lbr/>
+<rend class="latin">London</rend> abgefahren, so blieben wir ei<pc force="weak">=</pc><lbr/>nen Tag<lbr type="BD"/> in <rend class="latin">Canterburg</rend> und bis zu Ende<lbr/>
+<pg n="3"/>
+des Monats auf einem Landgut eines<lbr/>
+Eng<lbr type="BD"/>lischen <rend class="latin">Cavalli</rend>ers um das Pferd<pc force="weak">=</pc><lbr/>lauffen zu sehen. Der Holländische<lbr/>
+Gesandte<lbr type="BD"/> fuhr den nämlichen Tag un<pc force="weak">=</pc><lbr/>serer Abreise in unser <rend class="latin">Quartier</rend>, und<lbr/>
+erfuhr, daß<lbr type="BD"/> wir nach <rend class="latin">Canterbury</rend> zum<lbr/>
+Pferd rennen abgegangen und so dann<lbr/>
+Engelland<lbr type="BD"/> verlassen werden. Stracks<lbr/>
+war er be&#255; uns, und bath mich um al<pc force="weak">=</pc><lbr/>les nach dem<lbr type="BD"/>&#160;<rend class="latin">Haag</rend> zu gehen, indem<lbr/>
+die Prinzessin von <rend class="latin">Weilburg</rend> die Schwe<pc force="weak">=</pc><lbr/>ster des Prinzen<lbr type="BD"/> von <rend class="latin">Orani</rend>en eine so<lbr/>
+ausserordentliche Begirde hätte, dieses<lbr/>
+Kind zu sehen<lbr type="BD"/> von dem sie so gar vieles<lbr/>
+gehört und gelesen. <tshtm>_____</tshtm>Kurz! er<lbr/>
+und alle sagten mir so<lbr type="BD"/> vieles, und die<lbr/>
+<rend class="latin">Proposition</rend> war so gut, daß ich mich<lbr/>
+um so eher entschlüssen<lbr type="BD"/> muste, als sie<lbr/>
+wissen, daß man einer Schwangeren<lbr/>
+<amend value="Frau">Frauen</amend> nichts abschlagen<lbr type="BD"/>
+solle.<lbr type="forced"/>
+<u><rend class="latin">NB:</rend></u> Der Herr Gesandte war nicht,<lbr/>
+<pg n="4"/>
+Schwanger, aber die Prinzessin. Ich<lbr/>
+verließ<lbr type="BD"/> demnach den 1.<h>t<abbr v="en"/></h>&#160;<rend class="latin">august</rend> Engel<pc force="weak">=</pc><lbr/>land und wir fuhren nach 10. Uhr mor<pc force="weak">=</pc><lbr/>gens von<lbr type="BD"/>&#160;<rend class="latin">Dover</rend> ab, hatten das schönste<lbr/>
+Wetter, und so guten Wind, daß<lbr/>
+wir in 3 <formula type="mfrac"><mn>1</mn><mi>2</mi></formula> Stund<lbr type="BD"/> in <rend class="latin">Calais</rend> im Port<lbr/>
+ans Land stiegen, und mit gesunden Ma<pc force="weak">=</pc><lbr/>gen unser Mittag mahl<lbr type="BD"/> einbrachten, weil<lbr/>
+wir gar nicht be&#255; der Überfahrt krank<lbr/>
+waren. Nun war unser<lbr type="BD"/> Antrag<lbr/>
+den Monat August in Holland zuzu<pc force="weak">=</pc><lbr/>bringen, gegen dem Ende des<lbr type="BD"/>&#160;<rend class="latin">Septemb<abbr type="curve">:</abbr></rend><lbr/>
+in Paris einzutreffen, und dan nach und<lbr/>
+nach so fort zu rücken, bis<lbr type="BD"/> wir gleichwohl<lbr/>
+den Untersperg ins Gesicht bekommen.<lbr/>
+In <rend class="latin">Calais</rend> war die<lbr type="BD"/>&#160;<rend class="latin">Duchesse de Mont</rend><pc force="weak">=</pc><lbr/><choice><orig><rend class="latin">moranc&#255;</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">morenc&#255;</rend></corr></choice> und der <rend class="latin">Prince de Cro&#255;</rend> un<pc force="weak">=</pc><lbr/>sere Bekanntschaft;<lbr type="BD"/> und ich gieng von da<lbr/>
+nach <choice><orig><rend class="latin">Dünkürchen</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">Dünkirchen</rend></corr></choice>, welchen Platz ich<lbr/>
+wegen dem <rend class="latin">Port</rend><lbr type="BD"/> und wegen dem ewigen<lbr/>
+streitten zwischen Engelland und <w lemma="Franckreich">Franck<pc force="weak">=</pc><lbr/><conv><ts>______________________________________________</ts>reich</conv>
+<pg n="5"/>
+reich</w> in betreff<lbr type="BD"/> der <rend class="latin">demolition</rend> der<lbr/>
+Vestungswerker sehen wollte. Der<lbr/>
+Platz ist sehr schön, die<lbr type="BD"/> Gassen sind mei<pc force="weak">=</pc><lbr/>stens gross und die meisten Häuser<lbr/>
+sauber. Eine <choice><orig>hüpsche</orig><corr hand="diff" schr_id="57010">hübsche</corr></choice><lbr type="BD"/>&#160;<rend class="latin">Börse</rend>, starcke<lbr/>
+Handelschaft, und le&#255;der, die schönsten<lbr/>
+Vestungswercker bereits<lbr type="BD"/> niedergerissen.<lbr/>
+Ich <choice><orig><amend value="sage">sache</amend></orig><corr hand="diff" schr_id="57010">sage</corr></choice>: le&#255;der! weil es schmerzet so schöne<lbr/>
+Werker, die so<lbr type="BD"/> viel Geld gekostet <rend class="latin">demo</rend><pc force="weak">=</pc><lbr/>lieren zu sehen. Be&#255; allem dem, wa<pc force="weak">=</pc><lbr/>ren die Engelländer<lbr type="BD"/> noch nicht zu frie<pc force="weak">=</pc><lbr/>den, und man beschwerte sich in Engel<pc force="weak">=</pc><lbr/>land immer, daß man<lbr type="BD"/> die Wercker<lbr/>
+nicht alle <rend class="latin">demolie</rend>rt hätte, so wie es in<lbr/>
+den FriedensPuncten wäre ausgemacht<lbr/>
+worden. Es würde demnach eine <rend class="latin">Com<pc force="weak">=</pc><lbr/>ission</rend> beliebt, wo der<lbr type="BD"/>&#160;<rend class="latin">Duc de</rend>&#160;<choice><orig><rend class="latin">choisel</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">choiseul</rend></corr></choice><lbr/>
+von Franckreich und der <rend class="latin">Duc de Bedfort</rend><lbr/>
+in <choice><orig><rend class="latin">Dünkürchen</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">Dünkirchen</rend></corr></choice> zu<lbr type="BD"/> sammen kommen, und<lbr/>
+die sache untersuchen solten. Wir<lbr/>
+fuhren nach <rend class="latin">Lille</rend>,<lbr type="BD"/> dahin uns der <choice><orig><rend class="latin">Cheval<pc force="weak">=</pc><lbr/>lier</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">Chevalier</rend></corr></choice>&#160;<rend class="latin"> de</rend>&#160;<choice><orig><rend class="latin">Mezzier</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">Mezier</rend></corr></choice>&#160;<rend class="latin">Commendant</rend> in<lbr/>
+<pg n="6"/>
+<choice><orig><rend class="latin">Dunkürchen</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">Dunkirchen</rend></corr></choice> zu gehen<lbr type="BD"/> beredete. Wir<lbr/>
+fanden auch da eine schöne wohlgebaute<lbr/>
+Statt, sehr bevöllkeret,<lbr type="BD"/> mit zimlichen <rend class="latin">Co<pc force="weak">=</pc><lbr/>mercio</rend> versehen, und wir sahen be&#255; Ge<pc force="weak">=</pc><lbr/>legenheit der durch<lbr type="BD"/>reise des <rend class="latin">Duc de</rend><lbr/>
+<choice><orig><rend class="latin">Choisel</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">Choiseul</rend></corr></choice> 5. <rend class="latin">Regimenter</rend> im Fluer <rend class="latin">exerci</rend><pc force="weak">=</pc><lbr/>ren und die schönsten<lbr type="BD"/> KriegsÜbungen ma<pc force="weak">=</pc><lbr/>chen. Ich habe als etwas besonderes<lbr/>
+anzumercken, daß nun<lbr type="BD"/> auch die Herrn<lbr/>
+Franzosen besser <rend class="latin">excerci</rend>eren, als sie<lbr/>
+vormahls gethann: allein<lbr type="BD"/> den 2. teut<pc force="weak">=</pc><lbr/>schen Regimentern, den Schweitzern und<lbr/>
+<rend class="latin">Nassau</rend> kammen sie nicht<lbr type="BD"/> be&#255;. Übri<pc force="weak">=</pc><lbr/>gens war die tägliche <rend class="latin">Parade</rend> eine der<lbr/>
+schönsten die ich noch gesehen.<lbr type="BD"/> Nun ko<abbr type="topline" expand="mm">m</abbr>t<lbr/>
+wieder eine Probe, daß unser menschliches<lbr/>
+Vornehmen ein pures<lbr type="BD"/> nichts ist. In<lbr/>
+<rend class="latin">Lille</rend> überfülle den <rend class="latin">Wolfgang<abbr type="curve">:</abbr></rend> ein sehr<lbr/>
+starcker Catharr, und da<lbr type="BD"/>
+dieser <amend value="nach">noch</amend><lbr/>
+ein paar &#8211; Wochen etwas besser wurde,<lbr/>
+kam die Rheihe an mich;<lbr type="BD"/> ich wurde von<lbr/>
+einem Schwindel befallen, der ganz be<pc force="weak">=</pc><lbr/><pg n="7" type="wordsep"/>sonder war. Wenn ich<lbr type="BD"/> ausgestreckt<lbr/>
+im Bette lag, so war es gut um mich;<lbr/>
+so bald ich mich aufrecht<lbr type="BD"/> hielt, so gieng<lbr/>
+alles unter und über: und ich konnte<lbr/>
+nicht 3 Schritte alleine über<lbr type="BD"/> die Stube<lbr/>
+gehen; so, daß wenn ich es zwingen<lbr/>
+wollte aufrecht zu bleiben,<lbr type="BD"/> so muste ich<lbr/>
+mich erbrechen. Da ich nun nicht wuste,<lbr/>
+ob es vom Kopfe<lbr type="BD"/> oder vom Magen her<pc force="weak">=</pc><lbr/>rührte, so laxierte ich, nahm dan Fuß<pc force="weak">=</pc><lbr/>waser &#38;c. und<lbr type="BD"/> mit einem Worte wehr<pc force="weak">=</pc><lbr/>te mich gegen 2. Feinde zu gleich: Allein<lbr/>
+dieß <choice><orig><amend value="schlug">Schulg</amend></orig><corr hand="diff" schr_id="57010">schlug</corr></choice><lbr type="BD"/> uns um 4. Wochen zurück;<lbr/>
+und ich verließ halb gesund und halb krank<lbr/>
+<rend class="latin">Lille</rend><lbr type="BD"/> und kamm noch nicht viel besser<lbr/>
+nach <rend class="latin">Gent</rend>, wo wir nur einen Tag blieben.<lbr type="BD"/><lbr/>
+<rend class="latin">Gent</rend> ist ein grosser aber nicht vollkreicher<lbr/>
+Ort. Der <rend class="latin">Wolfg<abbr type="curve">:</abbr></rend> spielte nachmittags<lbr type="BD"/><lbr/>
+auf der grossen neuen Orgel be&#255; den<lbr/>
+<rend class="latin">P: P: Bernardin</rend>ern <abbr expand="etc">p</abbr> In <rend class="latin">Antwerpen</rend><lbr type="BD"/><lbr/>
+blieben wir 2. Täge, wegen dem Sontage.<lbr/>
+<pg n="8"/>
+Der <rend class="latin">Wolfgang<abbr type="curve">:</abbr></rend> spielt in der <choice><orig><rend class="latin">Cathe<lbr type="BD"/>tral</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">Cathedral</rend></corr></choice><lbr/>
+Kirche auf der grossen Orgel. <u><rend class="latin">NB:</rend></u><lbr/>
+man findet in Flandern und <rend class="latin"><corr hand="diff" schr_id="57010" value="Brabant">Braband</corr></rend><lbr type="BD"/><lbr/>
+durchaus gute Orgelwerke. Hauptsäch<pc force="weak">=</pc><lbr/>lich aber wäre hier vieles von den aus<pc force="inter">=</pc><lbr/>erlesnsten Mahlere&#255;en zu sprechen. <rend class="latin">Ant<pc force="weak">=</pc><lbr/>werpen</rend> ist sonderlich der Ort dazu.<lbr type="BD"/> Wir<lbr/>
+sind alle Kirchen abgelaufen. Ich habe<lbr/>
+niemals mehr Schwarz und weisen<lbr type="BD"/> Mar<pc force="weak">=</pc><lbr/>mor und ein überfluß von trefflichen<lbr/>
+Mahlere&#255;en, sonderlich von <rend class="latin">Rubens</rend><lbr type="BD"/> ge<pc force="weak">=</pc><lbr/>sehen, als hier, und in <rend class="latin">Brüssel</rend>. vor<lbr/>
+allem ist die <u>Abnehmung Christi vom<lbr type="BD"/> Kreuz</u><lbr/>
+in der grossen Kirche in <rend class="latin">Antwerpen</rend> ein<lbr/>
+Stück von <rend class="latin">Rubens</rend>, so alle Einbildung<lbr/>
+übertrifft: In <rend class="latin">Antwerpen</rend> ließ ich mei<pc force="weak">=</pc><lbr/>nen Wagen, und nahm einen<lbr type="BD"/> Wagen<lbr/>
+vom Postmeister bis nach <choice><orig><rend class="latin">Mordick</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">Mordyck</rend></corr></choice>. da<lbr/>
+fuhren wir über einen kleinen<lbr type="BD"/> Arm von<lbr/>
+Meer, und auf der anderen <choice><orig>Se&#255;te</orig><corr hand="diff" schr_id="57010">Seite</corr></choice> sind<lbr/>
+schon Kutschen bereitet bis<lbr type="BD"/>&#160;<rend class="latin">Rotterdam</rend><suppl hand="diff" schr_id="57010" pos="inline">,</suppl><lbr/>
+wo man dann in ein klein Schiff sitzet,<lbr/>
+<conv><ts>_____________________________________</ts>und</conv>
+<pg n="9"/>
+und bis <choice><orig><rend class="latin">respectivè</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">respective</rend></corr></choice> an das<lbr type="BD"/> wirtshauß<lbr/>
+geführt wird. Daß war nun eine<lbr/>
+schöne Tagreise von <rend class="latin">Antwerpen</rend><lbr type="BD"/> bis<lbr/>
+<rend class="latin">Rotterdam:</rend> nämlich von halbe 7. Uhr<lbr/>
+morgens bis 8. Uhr abends. In<lbr type="BD"/>&#160;<rend class="latin">Rot<pc force="weak">=</pc><lbr/>terdam</rend> waren wir nur einen halben<lbr/>
+Tag, indem wir nachmittags auf ei<pc force="weak">=</pc><lbr/>nem<lbr type="BD"/>&#160;<rend class="latin">Trek Schu&#255;t</rend> nach dem <rend class="latin">Haag</rend> ab<pc force="weak">=</pc><lbr/>fuhren und um 7. Uhr schon da waren.<lbr/>
+Nun<lbr type="BD"/> muß ich ihnen bekennen, daß es<lbr/>
+mir sehr Le&#255;d wäre, wenn ich <rend class="latin">Holland</rend><lbr/>
+nicht<lbr type="BD"/> gesehen hätte: dann in allen<lbr/>
+Stätten von <rend class="latin">Europa</rend>, was ich gesehen<lbr/>
+hatte,<lbr type="BD"/> siehet doch das meiste einander gleich.<lbr/>
+Allein so wohl die Holländischen<lbr type="BD"/> Dörffer,<lbr/>
+als die Holländischen Stätte sind von<lbr/>
+allen anderen Stätten <rend class="latin">Europens</rend><lbr type="BD"/> gänz<pc force="weak">=</pc><lbr/>lich unterschieden. Es würde zu lange<lbr/>
+se&#255;n solche zu beschreiben, genug,<lbr type="BD"/> daß<lbr/>
+ihre Reinlichkeit |: die vielen von uns<lbr/>
+als zu übertrieben scheinet :| mir<lbr type="BD"/> sehr<lbr/>
+wohl gefällt, und ich will nur anmerken,<lbr/>
+daß ich die <rend class="latin">Statue</rend> des berühm<lbr type="BD"/>ten<lbr/>
+<pg n="10"/>
+<rend class="latin">Erasmi</rend>&#160;<choice><orig><rend class="latin">Rotterdami</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">Rotterodami</rend></corr></choice> in Rotterdam auf<lbr/>
+dem Platze mit Vergnügen be<lbr type="BD"/>trachtet<lbr/>
+habe. Im <rend class="latin">Haag</rend> sind wir nun 8.<lbr/>
+Täge, wir waren 2. mahl be&#255; der<lbr type="BD"/><lbr/>
+Prinzesin und 1. mahl be&#255; dem Prinz<lbr/>
+von <rend class="latin">Orani</rend>en, der uns mit seiner <rend class="latin">Equi<pc force="weak">=</pc><lbr/>page</rend><lbr type="BD"/> abholen und nach Hauße führen<lbr/>
+lassen: Allein meine Tochter ware<lbr/>
+nicht mit<lbr type="BD"/> uns; denn nun kam die<lbr/>
+Reihe an Sie, und sie hat einen sehr<lbr/>
+starken Brust<lbr type="BD"/> Cartharr, der nun an<pc force="weak">=</pc><lbr/>fangt loos zu werden. So bald sie<lbr/>
+besser ist, müssen wir<lbr type="BD"/> wieder zum Prinz<lbr/>
+von <rend class="latin">Oranien</rend> und zu der Prinzessin von<lbr/>
+<rend class="latin">Weilburg</rend> und dem<lbr type="BD"/> Herzog von <choice><orig><rend class="latin">Wolfen<pc force="weak">=</pc><lbr/>büttl:</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">Wolfenbüttel:</rend></corr></choice> &#8211; &#8211; die Reise ist bezahlt; &#8211; &#8211; <lbr/>
+wer nun aber die<lbr type="BD"/> Ruckreise bezahlen<lbr/>
+wird, muß ich erst sehen. dann meine<lbr/>
+Gelder in <rend class="latin">Amster<lbr type="BD"/>dam</rend> möchte ich gerne<lbr/>
+unberühret lassen. &#8211; &#8211; Aus dem<lbr/>
+ganzen Hergang der<lbr type="BD"/> Sache werden sie<lbr/>
+nun sehen, daß ihre 2. Briefe von <u><rend class="latin">Mr:</rend></u><lbr/>
+<pg n="11"/>
+Joseph und ihnen nach<lbr type="BD"/> unserer Abreiße<lbr/>
+erst nach <rend class="latin">London</rend> gekommen sind. ihren<lbr/>
+3.<h>t<abbr v="en"/></h> Brief |: ohne<lbr type="BD"/>&#160;<rend class="latin">dato</rend> :| erhielt ich in<lbr/>
+<rend class="latin">Lille</rend>, dahin ihm <rend class="latin">Mr: Carpentier</rend> mir<lbr/>
+nachsande.<lbr type="BD"/> da sie mir in demselben von 2.<lbr/>
+anderen Briefen Meldung machten,<lbr/>
+argwohnte<lbr type="BD"/> ich gleich, daß <rend class="latin">Mr Tessier</rend><lbr/>
+solche wird nach <rend class="latin">Amsterdam</rend> geschickt<lbr/>
+haben.<lbr type="BD"/> So bald ich ins Haag kam schrieb<lbr/>
+ich an meinen <rend class="latin">Banquier</rend> in <rend class="latin">Amster<pc force="weak">=</pc><lbr/>dam</rend> und<lbr type="BD"/> erhielt be&#255;de Briefe samt ei<pc force="weak">=</pc><lbr/>nem Schreiben von <rend class="latin">Mr Tessier</rend> den Tag<lbr/>
+darauf.<lbr type="BD"/> Was in einem Zeitungsblat<lbr/>
+mir <rend class="latin">communici</rend>eret worden, ist die Wahr<pc force="weak">=</pc><lbr/>heit. Dem<lbr type="BD"/> Herrn Joseph dancke für<lbr/>
+seine höfliche Zuschrift und erfreue mich<lbr/>
+über<lbr type="BD"/> seine glückliche Zurückkonft.<lbr type="forced"/>
+Bitte an alle gute Freunde 1000. <rend class="latin">comp<abbr type="curve">:</abbr></rend><lbr/>
+zurück. &#8211; &#8211; daß mein Brief eröf<pc force="weak">=</pc><lbr/>net<lbr type="BD"/> und wieder zugeschlossen in ihre Hän<pc force="weak">=</pc><lbr/>de gekommen, ist mir verwunderlich<lbr type="BD"/> ge<pc force="weak">=</pc><lbr/>nug. Ich habe ihn in <rend class="latin">London</rend> selbst<lbr/>
+<pg n="12"/>
+auf die Post gegeben: in <rend class="latin">London</rend> ist<lbr type="BD"/> es<lbr/>
+einmahl nicht geschechen. &#8211; &#8211; das noth<pc force="weak">=</pc><lbr/>wendigste nun, was ich ihnen zu<lbr type="BD"/> sagen<lbr/>
+habe ist, daß ich durch <rend class="latin">Mr Teissier</rend><lbr/>
+eine sehr grosse <u>Küste oder Verschlag</u><lbr type="BD"/><lbr/>
+über <rend class="latin">Hamburg</rend> an sie habe abgehen lassen.<lbr/>
+<rend class="latin">Sig: L. M.</rend> Wenn sie nun Anlangen<lbr type="BD"/><lbr/>
+wird |: wenn sie noch nicht angelanget ist :|<lbr/>
+das weis ich nicht. <rend class="latin">Mr: Tessier</rend><lbr type="BD"/> giebt<lbr/>
+mir Nachricht, daß solches auf dem Schiff<lbr/>
+<u><rend class="latin">Wilhelmus</rend></u> mit <rend class="latin">Capitain<lbr type="BD"/> Adrian Janssen</rend><lbr/>
+nach Hamburg abgegangen. Es wäre<lbr/>
+mir lieber er hätte mir<lbr type="BD"/> geschrieben an<lbr/>
+wem er es in Hamburg <rend class="latin">addressi</rend>ret hat.<lbr/>
+Es sind Sachen von allen<lbr type="BD"/> Gattungen<lbr/>
+darinne, lassen sie solche nur uneröf<pc force="weak">=</pc><lbr/>net bis zu unserer Ankunft,<lbr type="BD"/> und sehen<lbr/>
+sie gleichwohl, daß es an kein gar zu<lbr/>
+feuchtes Ort kommt; Obwohl,<lbr type="BD"/> was von<lbr/>
+<rend class="latin">poli</rend>rten Stahl darinne ist, ist gut ein<pc force="weak">=</pc><lbr/>gemacht. &#8211; &#8211; Nun ist auch<lbr type="BD"/> nothwendig,<lbr/>
+<conv><ts>___________________________________________________</ts>daß</conv>
+<pg n="13"/>
+daß sie mir einen guten <u>Schreib <rend class="latin">Com<pc force="weak">=</pc><lbr/>mot</rend> Kasten</u> kauffen. Ich<lbr type="BD"/> verstehe, wie<lbr/>
+der ihrige, mit guten grossen Schubla<pc force="weak">=</pc><lbr/>den. Kurz! einen schönen<lbr type="BD"/> und guten<lbr/>
+Kasten: wenn er auch Theuer ist; wo<lbr/>
+werde ich sonst allen den<lbr type="BD"/> Plunder hin<pc force="weak">=</pc><lbr/>bringen? &#8211; &#8211; Nach Erhaltung dieses<lbr/>
+Briefes bitte mir nach<lbr type="BD"/>&#160;<u><rend class="latin">Amsterdam</rend></u><lbr/>
+zu antworten und be&#255;zusetzen. <u><rend class="latin">Chez<lbr/>
+Mrs Jean</rend>&#160;<choice><orig><rend class="latin">Néel</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">Neel</rend></corr></choice>&#160;<rend class="latin">et Fils à<lbr type="BD"/> Amsterdam</rend>.</u><lbr/>
+Bin ich nicht mehr da, so wird er mir<lbr/>
+den Brief nachsenden. Das<lbr type="BD"/> Wort<lbr/>
+<choice><orig><rend class="latin">Néel</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">Neel</rend></corr></choice> ist oben zusammen geflossen.<lbr/>
+desswegen setze es wieder her. ich<lbr type="BD"/> em<pc force="weak">=</pc><lbr/>pfehle mich ihnen und ganz Salzburg<lbr/>
+und bin der alte.<lbr type="forced"/>
+<lbr type="forced"/>
+<u><rend class="latin">P: S:</rend></u> Meine Frau lässt sie bitten<lbr/>
+6. heilige Messen lesen zu lassen.<lbr/>
+nämlich,<lbr type="BD"/> 3. be&#255; den heiligen Johann von<lbr/>
+<rend class="latin">Nepomuck</rend> in der Pfarr. dann 1. zu<lbr/>
+Maria<lbr type="BD"/> Plain. 1. zu <rend class="latin">Loreto</rend> be&#255;m heil:<lbr/>
+<pg n="14"/>
+Kindl, und 1. zu Ehren der heiligen<lbr/>
+<rend class="latin">Walburgis</rend>,<lbr type="BD"/> wo sie solche wollen lesen<lbr/>
+lassen.<lbr type="forced"/>
+<ts>_____</ts>Den Todt des Ka&#255;sers haben wir<lbr/>
+in <rend class="latin">Lille</rend> den 26.<h>t<abbr v="en"/></h>&#160;<rend class="latin">august</rend> erfahren. Ehe<lbr/>
+wir<lbr type="BD"/> aus <rend class="latin">London</rend> sind habe ich in der Zei<pc force="weak">=</pc><lbr/>tung gelesen, daß der <rend class="latin">general</rend> Platz ge<pc force="inter">=</pc><lbr/>storben se&#255;e. ich finde aber in der <rend class="latin">Lista</rend><lbr/>
+des Herrn Johannes nichts davon.<lbr type="forced"/>
+<ts>_____</ts>Ferner sagt Herr <rend class="latin">Novellista Joannes</rend><lbr/>
+am 2.<h>t<abbr v="en"/></h> Capitl, daß Herr Franz Gschwend<pc force="inter">=</pc><lbr/>ner, Herr Joseph Hagenauer &#38;c. aus<lbr/>
+Italien angekommen. allein er thut<lbr/>
+keine<lbr type="BD"/> Meldung von der <rend class="latin">Mads:<h>me</h> Fese<pc force="weak">=</pc><lbr/>ma&#255;rin</rend>. ist sie noch in venedig? &#8211; &#8211; &#8211; <lbr/>
+<rend class="latin">tanto<lbr type="BD"/> meglio</rend>! &#8211; &#8211; <lbr type="forced"/>
+Machen Sie doch Herrn HofRath <rend class="latin">Gilows<pc force="weak">=</pc><lbr/>k&#255;</rend> von uns allen das schönste <rend class="latin">Compli<pc force="inter">=</pc><lbr/>ment</rend> und unseren Glückwunsch. Es<lbr/>
+wird uns unendlich vergnügen ihn wie<pc force="weak">=</pc><lbr/>der<lbr type="BD"/> wohl zu sehen.<lbr type="forced"/>
+<pg n="15"/>
+Es ist sehr gut, daß wir noch nicht nahe<lbr/>
+an Salzburg sind, weil es so viel<lbr type="BD"/> Diebs<pc force="weak">=</pc><lbr/>Gesindl im Land giebt, machen Sie nur<lbr/>
+daß es sicher wird, sonst bleiben<lbr type="BD"/> wir noch<lbr/>
+länger aussen. &#8211; Und wie stehet es mit dem<lbr/>
+neuen Thor? &#8211; &#8211; ich<lbr type="BD"/> dachte immer be&#255;<lbr/>
+dem neuen Thor einzufahren.<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____</ts>Warum hat doch Herr <rend class="latin">Estlinger</rend> nicht<lbr/>
+gewartet bis wir angekommen, um<lbr type="BD"/> auf<lbr/>
+seiner Hochzeit danzen zu können? &#8211; &#8211; <lbr/>
+wir <rend class="latin">gratuli</rend>ren ihm. Alte lieb<lbr type="BD"/> rostet<lbr/>
+nicht! Er hatte seine alte <rend class="latin">Bass</rend>-Geige<lbr/>
+auch immer noch in Ehren, obwohl<lbr type="BD"/> er eine<lbr/>
+neuere hatte. Ò wie oft hat er sie ge<pc force="weak">=</pc><lbr/>flicket! &#8211; &#8211; &#8211; &#8211; Wenn mein alter<lbr type="BD"/><lbr/>
+ehrlicher Raißwagen mich <amend value="glückl.">glück</amend> nach Hause<lbr/>
+bringt, dann hat er auch daß<lbr type="BD"/> seinige ge<pc force="weak">=</pc><lbr/>than. Es macht ein bischen nachdencken,<lbr/>
+wenn ich auf unsre Reise<lbr type="BD"/> gedencke. <rend class="latin">ma foi</rend>,<lbr/>
+Es ist ein zimmlicher spaziergang.<lbr/>
+<pg n="16"/>
+<vacat/>
+</NI>
+</letter>
+</text>
+</MUP>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2014">2014-5</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1625</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">H-EGb</bibl>
+            <bibl type="source" subtype="RISM">H-EGb (Bazilika Kottatára)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:41:49 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_1055.mup">
+<letter bd="1055"><NI src="H-EGb"><HEADER id="1625">WOLFGANG AMADÉ MOZART AN MARIA ANNA VON BERCHTOLD ZU<tspdf><lbr type="forced"/></tspdf> SONNENBURG IN ST. GILGEN<lbr/>
+WIEN, 2. JUNI 1787</HEADER>
+<pg n="1"/>
+<ts>___________</ts><tshtm>__________</tshtm>liebste Schwester! &#8211; <lbr type="forced"/>
+<lbr type="forced"/>
+Du kannst dir leicht vorstellen wie Schmerzhaft mir die traurige Nachricht des<lbr type="BD"/> gähen todsfalls unsers liebsten<lbr/>
+vatters war, da der verlust be&#255; uns gleich<lbr type="BD"/> ist. &#8211; da ich dermalen unmöglich Wie<abbr type="topline" expand="nn">n</abbr> verlassen ka<abbr type="topline" expand="nn">n</abbr> |: welches ich<lbr type="BD"/><lbr/>
+mehr thäte um das vergnügen zu haben dich zu umarmen :| und die verlassen<lbr type="BD"/>schaft unsers Seeligen Vaters<lbr/>
+betreffend es kaum der Mühe werth se&#255;n<lbr type="BD"/> würde, so muß ich dir gestehen daß ich auch ganz deiner Meinung<lbr/>
+bin in<lbr type="BD"/> betreff einer öfentlichen feilbietung; nur erwarte ich vorher das <rend class="latin">inventarium</rend><lbr type="BD"/> davon, um einige aus<pc force="weak">=</pc><lbr/>wahl treffen zu kö<abbr type="topline" expand="nn">n</abbr>en; &#8211; we<abbr type="topline" expand="nn">n</abbr> aber, wie h<abbr type="curve">:</abbr> von<lbr type="BD"/>&#160;<rend class="latin">d'Ippold</rend> schreibt, eine <rend class="latin">dispositio paterna inter liberos</rend><lbr/>
+da ist, so muß ich<lbr type="BD"/> nothwendig diese <rend class="latin">disposition</rend> eher wissen, um weitere verfügungen treffen zu<lbr type="BD"/> kö<abbr type="topline" expand="nn">n</abbr>en; &#8211; <lbr/>
+ich erwarte also nur eine genaue abschrift davon, und werde<lbr type="BD"/> alsda<abbr type="topline" expand="nn">n</abbr> nach einer kurzen übersicht dir auf<lbr/>
+der stelle meine Meinung<lbr type="BD"/> mitheilen. &#8211; &#8211; Ich bitte dich unseren wahren guten freund H: von <rend class="latin">d'yppold</rend><lbr type="BD"/> diesen<lbr/>
+eingeschlossenen brief einhändigen zu lassen; &#8211; da er sich in so<lbr type="BD"/> vielen fällen schon als freund gegen unser<lbr/>
+haus gezeigt hat, so hoffe ich<lbr type="BD"/> wird er mir auch die freundschaft erweisen und in den Nöthigen fällen<lbr/>
+meine<lbr type="BD"/>&#160;<u>Person</u> vertretten. &#8211; lebe wohl. liebste schwester! ich bin Ewig dein<lbr type="forced"/>
+<lbr type="forced"/>
+<u>Wie<abbr type="topline" expand="nn">n</abbr></u> den 2:<h>t</h>&#160;<rend class="latin">Juny</rend>&#160;<uu>1787</uu>.<lbr type="forced"/>
+<ts>______</ts><tshtm>________________________________________________________________________________________________________________</tshtm><tspdf>\hfill </tspdf>getreuer Bruder<lbr type="forced"/>
+<ts>______</ts><tshtm>___________________________________________________________________________________________________________________</tshtm><tspdf>\hfill </tspdf>W: A: Mozart <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<tspdf><lbr type="forced"/></tspdf>
+<ts>_____</ts><rend class="latin">P: S:</rend> Meine frau empfiehlt sich dir, und deinem Manne<lbr/>
+<tshtm>________</tshtm>wie auch ich. &#8211; <lbr type="forced"/>
+<pg n="2"/>
+<vacat/>
+</NI></letter>
+</text>
+</MUP>

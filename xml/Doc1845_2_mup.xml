@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2009">2009-08-20</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=69</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:26:10 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/Doc1845_2_mup.txt">
+<HEADER id="69">FRANZ XAVER WOLFGANG MOZART, TEXT DES GLORIA<lbr/>
+VOR 1844</HEADER>
+
+
+<pg n="1"/>
+<add_ident schr="Aloys Fuchs" lang="de" impl="ink"><rend class="latin"><u>Original=Handschrift</u></rend><lbr/>
+<ts>____________</ts><rend class="latin">von</rend><lbr/>
+<rend class="latin"><u>W. A. Mozart</u></rend> |: Sohn :|<lbr/>
+† in <rend class="latin">Carlsbad</rend> am 29. <rend class="latin">Juli</rend> 1844</add_ident>
+<lbr/>
+<lg type="poem" lang="lat"><rend class="latin">Gloria in excelsis Deo, et in terra<lbr/>
+pax hominibus bonae voluntatis. laudamus<lbr/>
+te, benedicimus te, adoramus te, glorifi<pc force="weak">-</pc><lbr/>camus te; Gratias agimus tibi, propter<lbr/>
+magnam gloriam tuam. Domine Deus,<lbr/>
+Rex Coelestis, Deus pater omnipotens,<lbr/>
+Domine fili unigenite Jesu Christe.<lbr/>
+Domine Deus, agnus Dei, filius patris,<lbr/>
+qui tollis peccata mundi, miserere nobis.<lbr/>
+qui tollis peccata mundi, suscipe deprecatio<pc force="weak">=</pc><lbr/>nem nostram. Qui sedes ad dextram patris,<lbr/>
+miserere nobis. Quoniam tu solus<lbr/>
+sanctus, tu solus Dominus, tu solus altis<pc force="weak">=</pc><lbr/>simus, Jesu Christe! Cum sancto Spiritu<lbr/>
+in gloria Dei patris, amen.</rend></lg>
+<lbr type="forced"/>
+<add_ident schr="Aloys Fuchs" lang="de" impl="ink"><ts>_____</ts>Die Aechtheit verbürgt<lbr type="forced"/>
+24/8. <u>1845.</u><ts>_______</ts>Alo&#255;s Fuchs.<lbr type="forced"/>
+<ts>____________________</ts>Mitglied der k. k. Hofka<pc force="weak">-</pc><lbr type="forced"/><ts>________________________</ts>pelle in Wien.</add_ident>
+<pg n="2"/>
+<vacat/></text>
+</MUP>

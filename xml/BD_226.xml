@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2011">2011-05</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=787</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Wn</bibl>
+            <bibl type="source" subtype="RISM">A-Wn (Österreichische Nationalbibliothek)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:37:26 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_226.mup">
+<letter bd="226" lang="it">
+<NI src="A-Wn">
+<HEADER id="787">LEOPOLD MOZART AN GIOVANNI BATTISTA MARTINI IN BOLOGNA<lbr/>
+MAILAND, 2. JANUAR 1771</HEADER>
+<pg n="1"/>
+<ts>__________</ts><tshtm>______________________________________________________________</tshtm><tspdf>\hfill </tspdf><rend class="latin">Mila<abbr type="topline" expand="nn">n</abbr>o 2 <u>ge<abbr type="topline" expand="nn">n</abbr>aio 1771</u><lbr type="forced"/>
+<ts>___________________</ts>Molto Revd:<h>o</h> P: Maestro<lbr type="forced"/>
+<ts>_____________________</ts>Pad:<h>re</h> Stimss:<h>mo</h><lbr type="forced"/>
+<lbr type="forced"/>
+Augurando un felicissimo capo d'a<abbr type="topline" expand="nn">n</abbr>o non manco di dare aviso, che la opera<lbr/><lbr type="BD"/>
+del mio figlio ha avuto un felicissimo incontro, non ostante la gran contra<pc force="weak">=</pc><lbr/>ditione dei nemici e invidiosi, i quali avanti di avere veduti una sol nota<lbr/><lbr type="BD"/>
+havevano sparsi che Sia una musica tedesca barbara, senza ordine e fondo,<lbr/><lbr type="BD"/>
+impossibile à esseguire dal orchestra, à tal segno, che faccevano dubitare<lbr/>la<lbr type="BD"/>
+metá della Citá di milano, se avra<abbr type="topline" expand="nn">n</abbr>o altro per la prima opera che un<lbr/>
+Centone.<lbr type="BD"/> uno ha avuto l'habilità di portare alla prima Do<abbr type="topline" expand="nn">n</abbr>a tutte<lbr/>
+le sue Arie, come<lbr type="BD"/> ancora il Duetto, tutto della Compositione del<lbr/>
+Abbate Gasparini di Torrino,<lbr type="BD"/> cio è le Arie fatte à torrino, con per<pc force="weak">=</pc><lbr/>suaderla di mettere queste Arie, e di non<lbr type="BD"/> accettare nulla di questo<lbr/>
+Ragazzo, chi non sarà mai capace di Scrivere un Sola<lbr type="BD"/> buona Aria.<lbr/>
+Mà la prima Do<abbr type="topline" expand="nn">n</abbr>a si dichiaró, di voler vedere prima le Arie del<lbr type="BD"/> mio<lbr/>
+Figlio: e avendo le vedute si dichiaró contenta, anzi arcicontenta.<lbr/>
+non<lbr type="BD"/> ostante questo i maldicenti non finivano mai à Spargere una<lbr/>
+cativissima<lbr type="BD"/> presumptsione contra l'opera del mio figlio: mà la<lbr/>
+prima prova Stromentale<lbr type="BD"/> Serrò à tal Segno le bocche di questi<lbr/>
+crudeli e barbari maldicenti, che non si<lbr type="BD"/> Sentiva piu ne anche<lbr/>
+una parola. tutti i Professori del orchestro assicuravano<lbr type="BD"/> che la opera<lbr/>
+sia facile à Sonare, chiara ed aperta: e i Cantanti tutti si dichiara<pc force="weak">=</pc><lbr/>vano Contenti. La prima opera in Milano ha ordinariamente la<lbr/>
+disgrazia, Se<lbr type="BD"/> non di andar à terra, almeno di aver pocco udienza,</rend><lbr/>
+<pg n="2"/>
+<rend class="latin">stante che tutto il mondo<lbr type="BD"/> stá spettando la Seconda. mà le Sei<lbr/>
+Recite fatte fin'ora il theatro era Sempre<lbr type="BD"/> pienissimo, ed ogni<lbr/>
+Sera si faceva replicare due Arie, con molto applauso fatto<lbr/><lbr type="BD"/>
+à la piu gran parte delle Altre.<tshtm>_____</tshtm> Cariss:<h>mo</h> Sigr: P: Maestro!<lbr/>
+speriamo di Sentire<lbr type="BD"/> delle nove della di lei buona Salute; non<lbr/>
+dubitando ancora di ricevere il promesso <u>Miserere</u> della di<lbr/>
+lei Virtuosissima Compositione, e quella Musica à <u>16.</u><lbr/><lbr type="BD"/>
+il Sgr: Giuseppe Prinsechi non manchera di pagare la<lbr/>
+spesa della Copiatura,<lbr type="BD"/> ed io non manchero, subito arrivato<lbr/>
+à casa, cio é verso Pasqua, di mandare<lbr type="BD"/> tutto quello, che credo<lbr/>
+d'essere di aggradimento di Vostra Paternita. Il<lbr type="BD"/> mio figlio<lbr/>
+baccia umil:<h>te</h> le mani ed io mi dichiaro unito con lui con<lbr/>
+tutta<lbr type="BD"/> Veneratione e Stima<lbr type="forced"/>
+<ts>________________________________________</ts><tspdf>\hfill </tspdf>di V: P:<h>ta</h><lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_________________________________________________</ts><tspdf>\hfill </tspdf>devotss:<h>mo</h> ed oblgt:<h>mo</h> serv:<h>re</h><lbr type="forced"/>
+<ts>_____________</ts><tshtm>____________________________________</tshtm><tspdf>\hfill </tspdf>Leopoldo Mozart <abbr expand="manu propria">mp</abbr></rend><lbr/>
+<lbr/>
+<add_seal type="owner">ÖST: NATIONALBIBLIOTHEK<lbr/>WIEN</add_seal>
+</NI>
+</letter></text>
+</MUP>

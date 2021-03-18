@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2020">2020-02</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=604</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Verbleib unbekannt (S. 1); A-Sm (S. 2-3)</bibl>
+            <bibl type="source" subtype="RISM">Verbleib unbekannt, S. 1</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana), S. 2-3</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:36:29 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_46.mup">
+<letter bd="46">
+<HEADER id="604">LEOPOLD MOZART AN LORENZ HAGENAUER IN SALZBURG<lbr/>
+WIEN, 29. DEZEMBER 1762</HEADER>
+<pg n="1"/>
+<NI src="unbekannt">
+<ts>_____</ts><rend class="latin">Homo proponit, Deus disponit.</rend> Den 20<h>ten</h> gedachte ich von <rend class="latin">Presburg</rend> aufzu<lbr type="BD"/>brechen
+und den 26<h>ten</h> von Wie<abbr type="topline" expand="nn">n</abbr> abzugehen, um am Neuen JahrsAbend in<lbr type="BD"/>
+Salzburg einzutreffen. Allein den 19<h>ten</h> bekam ich ungewöhnliche Zähn<lbr type="BD"/>schmerzen,
+ich sage: <u>mir ungewöhnliche Zähnschmerzen</u>; denn sie waren an<lbr type="BD"/>
+der ganze Reihe der obern vordern ohnschadhaften und sonst gesunden<lbr type="BD"/>
+Zähne. Die Nacht hindurch geschwoll mir das ganze Gesicht auf, und den fol<lbr type="BD"/>genden
+Tage sah ich dem wirklichen <div type="commentary" xml:id="commentBD46_1">Posaune Tölpel
+<note corresp="#commentBD46_1">Es handelt sich wohl um einen Irrtum in der Druckvorlage. Gemeint sein dürfte der "Passauer Tölpel", ein Steinkopf in der Altstadt von Passau.</note></div>
+ähnlich; so zwar, daß<lbr type="BD"/>
+hl: <rend class="latin">Lieutenant Winckler</rend> (des <persName key="84684">Hof Paukers</persName> Bruder) da er uns besuchen wollte,<lbr type="BD"/>
+beym Eintritte ins zimmer mich verkannte, und irre gegangen zu seyn glaubte.<lbr type="BD"/>
+Bey diesem traurigen Umstande musste ich mich mit dem trösten, daß wir<lbr type="BD"/>
+ohne hin wegen der ungewöhnlich stark eingefallenen Kälte im <rend class="latin">arrest</rend> waren;<lbr type="BD"/>
+denn die flügende Brücke wurde ausgehoben, und [mit] schifflein, auch dabey<lbr type="BD"/>
+mit gefahr [. . .] mit kleinen schiflein, sage ich, konnte man nur etwa das<lbr type="BD"/>
+Post <rend class="latin">Paquet</rend> über die Donau hinüber bringen, da dann der <rend class="latin">Postillion</rend> auf einem<lbr type="BD"/>
+BauernPferd weiter kommen muste. Ich muste demnach warten bis Nachricht<lbr type="BD"/>
+kamm, daß die Mark oder March (ein wasser, das nicht groß ist) zu gefrohren
+ware. Ich nahm also am hl: Abend umb halbe 9 uhr Morgens von Presburg<lbr type="BD"/>
+Abschied und kamm auf einem ganz besondern Weeg um halbe 9 uhr Nachts<lbr type="BD"/>
+in Wie<abbr type="topline" expand="nn">n</abbr> in unserm <rend class="latin">quartier</rend> an. wir reisten diesen Tag nicht sonderlich be<lbr type="BD"/>quemm,
+indem der weeg zwar ausgefrohren, allein unbeschreiblich knoppericht<lbr type="BD"/>
+und voller tieffer gruben und schläge war; de<abbr type="topline" expand="nn">n</abbr> die Ungarn machen keinen<lbr type="BD"/>
+weeg. Hätte ich in Pressburg nicht einen Wagen kauffen müssen, der recht gut<lbr type="BD"/>
+gehängt ist, so hätten wir ganz gewiß ein paar Rippen weniger nach Hause<lbr type="BD"/>
+gebracht. Den wagen muste ich kauffen, wenn ich anders wollte, daß wir<lbr type="BD"/>
+gesund nach Wie<abbr type="topline" expand="nn">n</abbr> kommen sollten. De<abbr type="topline" expand="nn">n</abbr> in ganz Presburg war kein 4 sitziger<lbr type="BD"/>
+geschlossner Wagen bey allen Landkutschern anzutreffen. Diesen wagen<lbr type="BD"/>
+hatte ein Stattkutscher, die Stattkutscher därffen aber nicht über Land fahren,<lbr type="BD"/>
+ausgenommen mit 2 Pferd nur auf etliche Stunde.<lbr type="forced"/>
+<ts>_____</ts>kaum kamen wir in Wie<abbr type="topline" expand="nn">n</abbr> an, so sagte mir unser Zimmerfrau, daß die <persName key="76201">grafin<lbr type="BD"/>
+<rend class="latin">Leopold Kyntsky</rend></persName> täglich habe nachfragen lassen, ob wir angekommen? &#8211; &#8211; ich<lbr type="BD"/>
+gieng am hl: Weinachttage zu ihr, und sie sagte sie hätte mit schmerzen auf<lbr type="BD"/>
+uns gewartet, und eine tafel verschoben, die sie dem <persName key="74183">feldmarschall <rend class="latin">Daun</rend></persName> geben<lbr type="BD"/>
+wollte, der uns kö<abbr type="topline" expand="nn">n</abbr>en möchte. Sie gab also diese Tafel am Montage. Nun<lbr type="BD"/>
+gehe ich am freytage morgens von hier ganz gewiß ab; und komme (mit<lbr type="BD"/>
+gottes Hilfe) am Sontage nach Lintz: und am Abend der hlhl: 3 Könige den<lbr type="BD"/>
+5<h>ten</h>&#160;<rend class="latin">Jan:</rend> 1763 Hoffe ich bey [ihnen im] Zimmer zu stehen. Das versteht sich,<lbr type="BD"/>
+Nachts! sie möchten sonst glauben <u>in aller Frühe</u>: welches ihnen freylich itzt<lbr type="BD"/>
+eben nicht so fremd kommen würde, da sie das aufstehen vom <rend class="latin">Rorate</rend> schon<lbr type="BD"/>
+gewohnt sind. Nun werden Sie wohl denen mir hauffenweise schon erwiesenen<lbr type="BD"/>
+gefälligkeiten noch folgende hinzufügen: nämlich, vor allem dem gnädigen<lbr type="BD"/>
+<persName key="83663">Herrn Beichtvatter</persName> in meinem Nahmen das <u>gesündeste</u> und glückseelste Neue<lbr type="BD"/>
+Jahr gehors: anzuwinschen, und Hochdenselben um die Zuwendung seiner<lbr type="BD"/>
+fernern gnade zu bitten; ich würde selbst geschrieben haben, we<abbr type="topline" expand="nn">n</abbr> ich nicht<lbr type="BD"/>
+ordentlich anstand genohmen hätte Ihn gar so oft nach einander mit meinen<lbr type="BD"/>
+briefen zu belästigen. Machen Sie ferner meine Neujahrs Wünsche der <persName key="84678"><rend class="latin">Ma<lbr type="BD"/>dame</rend>
+von <rend class="latin">Robini</rend></persName> und <persName key="84686">freul: <rend class="latin">Josepha</rend></persName>&#160;<abbr expand="etc">p</abbr><abbr expand="etc:">p:</abbr> in <rend class="latin">optima forma</rend>, da<abbr type="topline" expand="nn">n</abbr> allen unsern<lbr type="BD"/>
+redlichen freunden, folglich sich selbst, der <persName key="75368">frau gemahlin</persName> und dero ganzem<lbr type="BD"/>
+Hause. ferner erbitten sie statt meiner nebst Empfehlungen <abbr expand="etc">p</abbr>: den <persName key="84687">hl: Reif<lbr type="BD"/>fenstuehl</persName>,
+mir zu erlauben, daß ich meinen Wagen in sein Hauß auf ein paar<lbr type="BD"/>
+täge stellen darff; bis ich nämlich ein Ort ausfündig mache solchen unter<lbr type="BD"/>zubringen.
+unterdessen wünsche ich daß wir einander alle den 5<h>ten</h> gesund
+sehen, und ich brenne für Begirde ihnen eine Menge Sachen erzehlen und<lbr type="BD"/>
+sagen zu können, daß ich ohnabänderlich bin<lbr type="forced"/>
+<ts>____________</ts><tshtm>______________________________________________________________________</tshtm><tspdf>\hfill </tspdf>Dero redlicher freund<lbr type="BD"/><lbr type="forced"/>
+<ts>____________</ts><tshtm>__________________________________________________________________________________</tshtm><tspdf>\hfill </tspdf><persName key="39408">Mozart</persName><lbr type="forced"/>
+[<persName key="48815">Meine Frau</persName> und] <persName key="48817 39409">Kinder</persName> empf: sich.<lbr type="forced"/>
+[wenn sie das] zimmer ein paar täge heitzen liessen, [...] im fordern<lbr type="BD"/> ofen müste es gar wenig seyn,
+</NI>
+<pg n="2"/>
+<add_note type="inline" schr_id="57010" impl="ink"><ts>____________________________</ts>29 dec 1762</add_note>
+<add_num schr_id="57010" color="red" impl="crayon"><ts>__________________________</ts>zu N. 9.</add_num>
+<lbr type="forced"/>
+Hier hat es einige Täge her eine erstaun<pc force="weak">=</pc><lbr/>liche kälte; und eb<abbr v="en"/> heut ist es ganz<lbr type="BD"/><lbr/>
+ausserordentlich kalt. S:<h>e</h> Ma&#255;st<abbr type="curve">:</abbr>&#160;<persName key="56108">die ka&#255;serin</persName><lbr/>
+hab<abbr v="en"/> nun wieder eine Prinze<lbr type="BD"/>sin verlohr<abbr v="en"/>, nämlich<lbr/>
+die Prinzesin <u><persName key="84688">Joha<abbr type="topline" expand="nn">n</abbr>a</persName> 13 Jahr ihres alters</u>.<lbr/>
+Sie hat<lbr type="BD"/> auch mein<abbr v="en"/>&#160;<persName key="39409">Wolferl</persName> an d<abbr v="er"/> Hand in ihr<abbr v="en"/><lbr/>
+zi<abbr type="topline" expand="mm">m</abbr>ern hin und wied<abbr v="er"/> geführt,<lbr type="BD"/> als wir be&#255; ihr<lbr/>
+waren.<lbr type="forced"/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="3"/>
+<anschrift rot="0">Herrn<lbr type="forced"/>
+Herrn Joha<abbr type="topline" expand="nn">n</abbr> Lorenz Hagenauer<lbr type="forced"/>
+berühmt<abbr v="en"/> HandelsHerrn<lbr type="BD"/><lbr type="forced"/>
+in<lbr type="forced"/>
+<u>Salzburg</u></anschrift>
+</letter>
+</text>
+</MUP>

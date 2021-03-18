@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2014">2014-6</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1355</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Verbleib unbekannt</bibl>
+            <bibl type="source" subtype="RISM">Verbleib unbekannt</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:40:35 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_786.mup">
+<letter bd="786"><NI src="unbekannt"><HEADER id="1355">WOLFGANG AMADÉ MOZART AN LEOPOLD MOZART IN SALZBURG<lbr/>
+WIEN, 24. APRIL 1784</HEADER>
+<pg n="1"/>
+<ts>_______________</ts><tshtm>_____________________________________________________________________________________________________________________</tshtm><tspdf>\hfill </tspdf>Den 24. April.<lbr type="forced"/>
+<ts>_____</ts>Hier haben wir nun die berühmte Mantuanerin <persName key="78652">Strinasacchi</persName>, eine sehr gute<lbr type="BD"/>
+Violinspielerin; sie hat sehr viel Geschmack und Empfindung in ihrem<lbr type="BD"/>
+Spiele. &#8211; Ich schreibe eben an einer Sonate, welche wir Donnerstag im Theater<lbr type="BD"/>
+bey ihrer Akademie zusammen spielen werden. Dann sind dermalen Quartet<lbr type="BD"/>ten
+heraus von einem gewissen <persName key="64731">Pleyel</persName>; dieser ist ein Scholar von <persName key="38771">Joseph<lbr type="BD"/>
+Haydn</persName>. Wenn Sie selbige noch nicht kennen, so suchen Sie sie zu bekommen;<lbr type="BD"/>
+es ist der Mühe werth. Sie sind sehr gut geschrieben, und sehr angenehm;<lbr type="BD"/>
+Sie werden auch gleich seinen Meister herauskennen. Gut &#8211; und glücklich<lbr type="BD"/>
+für die Musik, wenn Pleyel seiner Zeit im Stande ist, uns Haydn zu rempla<lbr type="BD"/>ciren.<lbr type="forced"/>
+</NI></letter>
+</text>
+</MUP>

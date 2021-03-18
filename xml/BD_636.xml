@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2013">2013-12</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1202</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:39:55 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_636.mup">
+<letter bd="636"><HEADER id="1202">WOLFGANG AMADÉ MOZART AN LEOPOLD MOZART IN SALZBURG<lbr/>
+WIEN, 24. OKTOBER 1781</HEADER>
+<pg n="1"/>
+<ts>____</ts><tshtm>_______________________________________________________________</tshtm><tspdf>\hfill </tspdf><rend class="latin">Vienne ce</rend> 24 <rend class="latin">d'octobre</rend><lbr type="forced"/>
+<ts>___</ts><tshtm>__</tshtm><rend class="latin">Mon trés cher Pére!</rend><ts>_______</ts><tshtm>_______________________________________________</tshtm><tspdf>\hfill </tspdf><uu>1781</uu><lbr type="forced"/>
+<lbr type="forced"/>
+Ich habe Heute keinen brief von ihnen, bester vatter! &#8211; nur das,<lbr/>
+daß ihnen die<lbr type="BD"/> zeit gemangelt, ka<abbr type="topline" expand="nn">n</abbr> mich trösten. &#8211; die 2 <rend class="latin">Di<pc force="weak">=</pc><lbr/>vertimenti</rend> und die <rend class="latin">Manchetten</rend><lbr type="BD"/> habe richtigst erhalten, wovor<lbr/>
+ich ihnen danke; &#8211; ich war eben nicht zu hause<lbr type="BD"/> als der Junge<lbr/>
+<rend class="latin">Daubrawaick</rend> be&#255; mir war, mithin wollte er die uhr den haus<pc force="weak">=</pc><lbr/>leuten nicht vertrauen; ich werde sie also nächster tagen selbst<lbr/>
+abhollen, und<lbr type="BD"/> ihm die ihrige zugleich entgegen geben. &#8211; der<lbr/>
+<rend class="latin">Daubrawaick</rend> höre ich bleibt<lbr type="BD"/> 2 Monathe hier. &#8211; er <rend class="latin">logirt</rend> nicht<lbr/>
+mehr im trattnerischen gebäude. &#8211; ich ka<abbr type="topline" expand="nn">n</abbr><lbr type="BD"/> ihnen dermalen<lbr/>
+nicht viel schreiben, weil ich noch meiner baase schreiben muß,<lbr type="BD"/><lbr/>
+und dem h<abbr type="curve">:</abbr> Stein nach Augsburg. de<abbr type="topline" expand="nn">n</abbr> der graf <rend class="latin">czernin</rend><lbr/>
+hat mich gebeten ihm<lbr type="BD"/> ein <rend class="latin">Piano forte</rend> für seine frau zu bestellen.<lbr/>
+<rend class="latin">apropòs;</rend> wissen sie das der graf<lbr type="BD"/>&#160;<rend class="latin">czernin</rend><lbr/>
+<additum>[... (ca. 2 Zeilen Textverlust)]</additum><lbr/>
+&#8211; ich wünsche <additum>[... (1/2 Zeile Textverlust)]</additum> ich<lbr/>
+möchte nicht um <additum>[... (1/2 Zeile Textverlust)]</additum> &#8211; Gestern war<lbr type="BD"/> die Erste<lbr/>
+Vorstellung von der <rend class="latin">Iphigenie</rend>. ich war aber nicht darin. de<abbr type="topline" expand="nn">n</abbr>,<lbr/>
+wer<lbr type="BD"/> ins <rend class="latin">Parterre</rend> hat gehen wollen, hat schon um 4 uhr hinein<lbr/>
+Müssen, und davor<lbr type="BD"/> bedanke ich mich. &#8211; ich habe mir 6 täge<lbr/>
+<pg n="2"/>
+vorher einen gesperten sitz im 3:<h>tn</h><lbr type="BD"/> Stock bestellen wollen, aber<lbr/>
+sie waren alle schon geno<abbr type="topline" expand="mm">m</abbr>en. &#8211; aber in den Proben war<lbr/>
+ich fast in allen. &#8211; Nun muß ich schliessen. &#8211; ich hoffe so<lbr/>
+wohl<lbr type="BD"/> sie mein liebster vatter als meine liebe schwester werden<lbr/>
+wohl auf se&#255;n. ich<lbr type="BD"/> bin es gott lob und dank. ich küsse ihnen<lbr/>
+1000mal die hände und meine<lbr type="BD"/> schwester umarme ich von herzen<lbr/>
+und bin Ewig<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>___________________</ts><rend class="latin">Mon trés cher Pére.</rend><lbr type="BD"/><lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____</ts><tshtm>___________________________________________</tshtm><tspdf>\hfill </tspdf>dero gehorsamster Sohn<lbr type="BD"/><lbr type="forced"/>
+<ts>________</ts><tshtm>________________________________________</tshtm><tspdf>\hfill </tspdf>W: A: Mozart <abbr expand="manu propria">mp</abbr>
+</letter>
+</text>
+</MUP>

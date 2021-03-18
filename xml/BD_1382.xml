@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2012">2012-01</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1955</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:42:32 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_1382.mup">
+<letter bd="1382">
+<HEADER id="1955">FRANZ XAVER WOLFGANG MOZART AN CARL THOMAS MOZART IN MAILAND<lbr/>
+PODKAMIEN, 30. MÄRZ 1809</HEADER>
+<pg n="1"/>
+<add_num type="inline">45/936</add_num><ts>_______________________________</ts><tspdf>\hfill </tspdf><u><rend class="latin">Podkamien</rend> d<h><u>n</u></h> 30<h><uu>t</uu></h>&#160;<rend class="latin">märz</rend> 1809</u><lbr type="forced"/>
+<lbr type="forced"/>
+<ts>____________________</ts>Mein lieber <persName key="48820">Bruder</persName>!<lbr type="forced"/>
+<lbr type="forced"/>
+Sehr viel Freude, machte mir dein lieber Brief vom 23 <rend class="latin">Febr</rend>:,<lbr/>
+aber noch mehr Vergnügen hätte er mir gemacht,<lbr/>
+hättest du nicht geschrieben: <u>daß <suppl hand="self" pos="supra">meiner</suppl> dir eine </u><uu>Ueberraschung</uu><u> war</u>.<lbr/>
+du wußtest ja, von meiner Anstellung in Pohlen. Wie ko<abbr type="topline" expand="nn">n</abbr>t<lbr/>
+es dich <u>überraschen</u>, einen Brief von mir zu beko<abbr type="topline" expand="mm">m</abbr>en?<lbr/>
+Ey, Ey! Ich dachte du hättest eine bessere Meinung<lbr/>
+von mir! Dein Brief <u>überraschte</u> mich nicht, obwohl er mir<lbr/>
+sehr viel Freude machte; de<abbr type="topline" expand="nn">n</abbr>, was wir mit Gewißheit<lbr/>
+voraussehen, ka<abbr type="topline" expand="nn">n</abbr> uns nicht <u>überraschen</u>. Hatt' ich nicht<lbr/>
+Ursache mit dir zu zanken? &#8211; Unsere <persName key="48818">Mutter</persName> hat<lbr/>
+mir zwar vor einigen Tagen geschrieben, daß der gute<lbr/>
+<persName key="57010">Nissen</persName>, den Danobrog erhalten habe, aber nicht, daß<lbr/>
+er | was er schon lange ist | unser Vater geworden. &#8211; <lbr/>
+Singen habe ich nie gelernt, weil meine Sti<abbr type="topline" expand="mm">m</abbr>e i<abbr type="topline" expand="mm">m</abbr>er<lbr/>
+zu schwach war; aber de<abbr type="topline" expand="nn">n</abbr>och schreibe ich am liebsten<lbr/>
+für den Gesang. Ich höre | unter uns gesagt | lieber ein:<lbr/>
+Selbst Engel Gottes weinen; oder: Abend ist's: von unserem<lbr/>
+<persName key="39409">Vater</persName>, als eine meisterhaft instrumentirte, aber empfin<pc force="weak">=</pc><lbr/>dungslose nichts sagende <rend class="latin">Simphonie</rend>. Ich schreibe sehr gerne<lbr/>
+leidenschaftliche Lieder. &#8211; <persName key="48982">Albrechtsberger</persName> ist gestorben.<lbr/>
+<pg n="2"/>
+Ich habe an ihm meinen Lehrer und worauf ich stolz<lbr/>
+bin einen <rend class="latin">Freund</rend> verlohren, die Welt aber, einen<lbr/>
+gewiß nicht so bald ersetzlichen Theoretiker.<lbr/>
+Er war 73 Jahre alt, noch bey vollen Geistes und<lbr/>
+Leibeskräften, und wurde durch die ihn schon mehrere<lbr/>
+Jahre quälenden Sand und Steinschmerzen dahingerafft.<lbr/>
+Ruhe seiner Asche! &#8211; Wie befindest du dich? Du schwizest<lbr/>
+vielleicht schon, und bey mir ist noch gri<abbr type="topline" expand="mm">m</abbr>ige Kälte, und<lbr/>
+alles im weißen Kleide. &#8211; Ich habe das Glück, fleißige<lbr/>
+und Talentvolle Schülerinen zu haben die sichtbaare<lbr/>
+Fortschritte, seit meinem 4 monathlichem Aufenthalte<lbr/>
+gemacht haben. &#8211; Dein ehemaliger <rend class="latin">Camarad</rend> in<lbr/>
+<rend class="latin">Petersdorf</rend> und <rend class="latin">Cousin</rend>&#160;<persName key="76559">Anton Lange</persName>, der ein fürtreff<pc force="weak">=</pc><lbr/>licher Landschaftmaler ist, und in <rend class="latin">Lemberg etablirt</rend> ist,<lbr/>
+läßt dich vielmahls grüssen; er ist schon etliche<lbr/>
+Jahre mit einer recht artigen jungen Frau<lbr/>
+verheurathet. Sein jüngerer Bruder <persName key="76560"><rend class="latin">Carl</rend></persName> ist <rend class="latin">Offizier</rend><lbr/>
+bey einem von dem <persName key="55688"><rend class="latin">Fürst Lobkowitz</rend></persName> errichteten<lbr/>
+Jägerfrey<rend class="latin">corps</rend> geworden. &#8211; Empfehle mich deinem<lbr/>
+<persName key="20312">Lehrer</persName> und schreibe bald wieder Deinem Dich liebend<abbr v="en"/><lbr type="forced"/>
+<ts>_________________________________</ts><tshtm>_______________________</tshtm><ts>_________</ts><tspdf>\hfill </tspdf><u><persName key="39407"><rend class="latin">Wolfgang</rend></persName></u><lbr/>
+<pg n="3"/>
+<vacat/>
+<pg n="4"/>
+<add_ident schr_id="0" rot="180" impl="pencil">1809</add_ident>
+</letter></text>
+</MUP>

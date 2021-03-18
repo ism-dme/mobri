@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2011">2011-05</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=738</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm (S. 1-2); Verbleib unbekannt (S. 3; Abschrift von Georg Nikolaus Nissen: A-Sm)</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana), S. 1-2</bibl>
+            <bibl type="source" subtype="RISM">Verbleib unbekannt, S. 3</bibl>
+            <bibl type="source" subtype="RISM">Abschrift von Georg Nikolaus Nissen: A-Sm</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:37:08 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_177.mup">
+<letter bd="177"><HEADER id="738">LEOPOLD MOZART AN MARIA ANNA MOZART IN SALZBURG<lbr/>
+ROM, 21. APRIL 1770<lbr/>
+mit Beilage von Wolfgang Amadé Mozart an Maria Anna (Nannerl) Mozart</HEADER>
+<pg n="1"/>
+<add_note type="inline" schr_id="57010">Nebst Gedicht von der <rend class="latin">Corilla (Linley)</rend></add_note><ts>__________________________________</ts><tspdf>\hfill </tspdf><u><rend class="latin">Roma</rend></u> d<abbr v="en"/> 21 <rend class="latin">aprilis</rend>&#160;<u>1770.</u><lbr type="forced"/>
+<lbr type="forced"/>
+Dein Schreib<abbr v="en"/> vom 2<h>t<abbr v="en"/></h> und das vom 6<h>t<abbr v="en"/></h> sind, so viel ich vermuthe die<lbr type="BD"/> Beantwortung<lbr/>
+meiner Be&#255;d<abbr v="en"/> schreib<abbr v="en"/> aus <rend class="latin">Bologna</rend>. Entzwisch<abbr v="en"/> wirst du<lbr type="BD"/> eines aus Florenz und mein<lbr/>
+erstes aus Rom bereits in hand<abbr v="en"/> hab<abbr v="en"/>, in<lbr type="BD"/> welchem letztern ich dir in E&#255;le unsere schlechte<lbr/>
+Witterung und müheseelige<lbr type="BD"/> Reise beschrieb<abbr v="en"/>, aber zu meld<abbr v="en"/> vergess<abbr v="en"/> habe, daß wir<lbr/>
+unter Blitz und<lbr type="BD"/> Do<abbr type="topline" expand="nn">n</abbr>er um Mittagszeit angelanget sind, und das Wetter<lbr/>
+eine gute Stunde<lbr type="BD"/> ausser Rom so, wie man die gross<abbr v="en"/> Herrn mit abfeurung<lbr/>
+des schwer<abbr v="en"/> Geschützes, uns mit Krach<abbr v="en"/> und Blitz<abbr v="en"/> empfang<abbr v="en"/>, und nach Rom begleitet<lbr/>
+hat.<lbr type="BD"/> Bis itzt war i<abbr type="topline" expand="mm">m</abbr>er Regenwetter, und heute ist der erste tag, an welchem wir<lbr/>
+sicher ein und andere Sach<abbr v="en"/> beseh<abbr v="en"/> konnt<abbr v="en"/>. Wir hab<abbr v="en"/> hier erstaunlich viel<lbr type="BD"/> Engel<pc force="weak">=</pc><lbr/>länd<abbr v="er"/> angetroff<abbr v="en"/>, unter and<abbr v="er"/><abbr v="en"/> den <rend class="latin">Mister Beckfort</rend>, der uns be&#255; der<lbr type="BD"/>&#160;<rend class="latin">Lady Effingham</rend><lbr/>
+in <rend class="latin">London</rend> kannte, und mit welchem wir heute frühe in<lbr type="BD"/> Geßellschaft and<abbr v="er"/>er Engelländ<abbr v="er"/><lbr/>
+in dem Gart<abbr v="en"/>&#160;<rend class="latin">de Villa Medici</rend>, so dem Grossherzog von Florenz zu gehört, ein paar<lbr/>
+Stund spatzier<abbr v="en"/> gieng<abbr v="en"/>. Wir hab<abbr v="en"/><lbr type="BD"/> unsere erste Wohnung veränd<abbr v="er"/>t, und h<abbr type="curve">:</abbr>&#160;<rend class="latin">Marcobruni</rend>,<lbr/>
+<u>der sich dir entgeg<abbr v="en"/> empfehlt,</u> hat uns <rend class="latin">Sulla Piazza del Clementino</rend> in das Hauß<lbr/>
+des Päbstl:<lbr type="BD"/>&#160;<rend class="latin">Currie</rend>rs <rend class="latin">Sgr: Uslenghi</rend> gebracht. Hier sind wir sehr gut: und die<lbr/>
+Frau und<lbr type="BD"/> Tochter wissen nicht wie sie uns genug bedien<abbr v="en"/> soll<abbr v="en"/>. der h<abbr type="curve">:</abbr> ist ein <rend class="latin">Portugall</rend>,<lbr/>
+und sie seh<abbr v="en"/> uns als herr vom Hause an, wir speisen zusa<abbr type="topline" expand="mm">m</abbr>, hab<abbr v="en"/> ein<lbr type="BD"/> grosses zi<abbr type="topline" expand="mm">m</abbr>er,<lbr/>
+welches weg<abbr v="en"/> d<abbr v="er"/> Morgenso<abbr type="topline" expand="nn">n</abbr>e sehr gesund ist. ko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/><lbr type="BD"/> freunde zu uns, so<lbr/>
+sind wir h<abbr type="curve">:</abbr> von all<abbr v="en"/> and<abbr v="er"/><abbr v="en"/> Zi<abbr type="topline" expand="mm">m</abbr>ern, und da die tochter<lbr type="BD"/> eine Anfängerin<lbr/>
+vom <rend class="latin">Clavier</rend> ist, so sind wir auch nicht ohne flügl. Es sind<lbr type="BD"/> bereits einige<lbr/>
+Nachricht<abbr v="en"/> von unserer Gegenwart in <rend class="latin">Bologna</rend>&#160;<abbr expand="und">u</abbr> fl<rend class="latin">ore</rend>nz <abbr expand="etc:">p:</abbr><lbr type="BD"/> zu les<abbr v="en"/>,<lbr/>
+alleine ich mag dergleich<abbr v="en"/> sach<abbr v="en"/> ni<abbr type="topline" expand="mm">m</abbr>er einschick<abbr v="en"/>. Gestern habe<lbr type="BD"/> das schreib<abbr v="en"/> von<lbr/>
+S<h>r</h>: <rend class="latin">Exc<abbr type="curve"></abbr></rend>: Obersthofmeister empfang<abbr v="en"/>. Es ist demnach solches<lbr type="BD"/> noch vor dem<lbr/>
+Schreib<abbr v="en"/> angelanget, welches S<h>r</h>: Hochf<abbr type="curve">:</abbr> Gd<abbr v="en"/> an mich abzulass<abbr v="en"/> ggst befohl<abbr v="en"/><lbr/>
+hab<abbr v="en"/>, welches noch nicht geseh<abbr v="en"/>, und mich be&#255; h<abbr type="curve">:</abbr>&#160;<rend class="latin">Agenten<lbr type="BD"/> Crivelli</rend> vergebens<lbr/>
+dessweg<abbr v="en"/> erkundiget habe. Du kannst be&#255; Gelegenheit dich<lbr type="BD"/> be&#255; S:<h>r</h>&#160;<rend class="latin">Ex<abbr type="curve"></abbr></rend>: nebst<lbr/>
+unserer gehorsambst<abbr v="en"/> Empfehlung bedank<abbr v="en"/>. Das T<abbr type="curve">:</abbr> h<abbr type="curve">:</abbr><lbr type="BD"/> HofCanzler sich wied<abbr v="er"/> besser<lbr/>
+befindet vergnüget mich so sehr, als dess<abbr v="en"/><lbr type="BD"/> schwere und gefährliche unbässlichkeit<lbr/>
+mich betrübt hatte. dem h<abbr type="curve">:</abbr> HofRath<lbr type="BD"/>&#160;<abbr expand="von">v</abbr> Mölk melde nebst meiner Empfehlung,<lbr/>
+daß ich gar nicht zweifle, er werde<lbr type="BD"/> be&#255; dies<abbr v="en"/> traurig<abbr v="en"/> umständ<abbr v="en"/> ein paar<lbr/>
+mahl sich meiner Worte eri<abbr type="topline" expand="nn">n</abbr>ert<lbr type="BD"/> hab<abbr v="en"/>. dem h<abbr type="curve">:</abbr>&#160;<abbr expand="von">v</abbr> Schiedenhof<abbr v="en"/> empfehle<lbr/>
+mich absonderlich, und bin ihm<lbr type="BD"/> sehr verbund<abbr v="en"/>, daß er die Na<abbr type="topline" expand="nn">n</abbr>erl<lbr/>
+öfter auf dem Flügl spiel<abbr v="en"/> macht. ich<lbr type="BD"/> werde ihm sicher nächstens selbst<lbr/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal><lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="2"/>
+schreib<abbr v="en"/>. Von unsern Sach<abbr v="en"/> mag ich dir<lbr type="BD"/> nichts schreib<abbr v="en"/>, dann ich bin müde:<lbr/>
+ie tiefer wir in Itali<abbr v="en"/> kam<abbr v="en"/>, ie mehr<lbr type="BD"/> wuchs die Verwund<abbr v="er"/>ung. der<lbr/>
+Wolfg<abbr type="curve">:</abbr> bleibt mit seiner Wissenschaft auch nicht<lbr type="BD"/> steh<abbr v="en"/>, sond<abbr v="ern"/> wächst<lbr/>
+von tage zu tage, so, daß die gröst<abbr v="en"/> Ke<abbr type="topline" expand="nn">n</abbr>er und<lbr type="BD"/> Meister nicht worte<lbr/>
+genug find<abbr v="en"/> ihre Bewund<abbr v="er"/>ung auszudrück<abbr v="en"/> und an tag<lbr type="BD"/> zu geb<abbr v="en"/>. Vor 2<lbr/>
+tag<abbr v="en"/> war<abbr v="en"/> wir be&#255; einem <rend class="latin">Neapolit<abbr type="curve">:</abbr></rend> Prinz<abbr v="en"/>&#160;<rend class="latin">St: Angelo</rend>.<lbr type="BD"/> Gestern be&#255;m<lbr/>
+<rend class="latin">Principe</rend> <rend class="latin">Ghigi</rend>, wo unter and<abbr v="er"/><abbr v="en"/> der so gena<abbr type="topline" expand="nn">n</abbr>te <rend class="latin">Re d'Ingilterra</rend><lbr/>
+oder <u><rend class="latin">Pretendent</rend></u>, und der <rend class="latin">Secretario di Stato Cardinal Pallavicini</rend><lbr/>
+zugeg<abbr v="en"/><lbr type="BD"/> war<abbr v="en"/>. Wir werd<abbr v="en"/> bald S<h>r</h>: Heilligkeit vorgeführt werd<abbr v="en"/>.<lbr type="forced"/>
+Bevor ich schlüsse, muß ich dir eine artige Begebenheit schreib<abbr v="en"/>.<lbr type="forced"/>
+In <rend class="latin">Florenz</rend> fand<abbr v="en"/> wir ein<abbr v="en"/> jung<abbr v="en"/> Engelländ<abbr v="er"/>, welcher ein Schüler des<lbr type="BD"/> Berühmt<abbr v="en"/><lbr/>
+<rend class="latin">Violinisten Nardini</rend> ist. dieser knab, welcher <u>wunderschön spielt,</u><lbr type="BD"/> in des<lbr/>
+Wolfg<abbr type="curve">:</abbr> Grösse und alter ist, kam in das Hauß der gelehrt<abbr v="en"/> Poetin<lbr type="BD"/>&#160;<rend class="latin">Sgra<lbr/>
+Corilla</rend>, wo wir uns aus <rend class="latin">reco<abbr type="topline" expand="mm">m</abbr>endation</rend> des <rend class="latin">Mr: Laugier</rend> befand<abbr v="en"/>. diese<lbr/>
+2 knab<abbr v="en"/>&#160;<rend class="latin">produciert<abbr v="en"/></rend> sich wechselweise den ganz<abbr v="en"/> abend unter beständigen<lbr/>
+umarmung<abbr v="en"/>. den and<abbr v="er"/><abbr v="en"/> tag Ließ der kleine Engelländ<abbr v="er"/>, ein allerliebster<lbr/>
+Knab, seine Violin zu uns bring<abbr v="en"/>, und spielte den ganz<abbr v="en"/> nachmittag, der<lbr/>
+Wolfg<abbr type="curve">.</abbr>&#160;<rend class="latin">accompag</rend>nierte ihm auf d<abbr v="er"/> Violin. den tag darauf speist<abbr v="en"/> wir<lbr/>
+be&#255;<lbr type="BD"/>&#160;<rend class="latin">Mr: Gavard</rend> dem <rend class="latin">Administratore</rend> der Grossherzogl: <rend class="latin">Finanzen</rend>,<lbr/>
+und diese 2 knab<abbr v="en"/> spielt<abbr v="en"/> den ganz<abbr v="en"/> nachmittag wechselsweise, nicht als<lbr/>
+knab<abbr v="en"/>, sond<abbr v="ern"/><lbr type="BD"/> als mä<abbr type="topline" expand="nn">n</abbr>er! der kleine <rend class="latin">Tomaso</rend> begleitete uns nach Hause,<lbr/>
+und weinte die<lbr type="BD"/> bitterst<abbr v="en"/> Thrä<abbr type="topline" expand="nn">n</abbr><abbr v="en"/>, weil wir den tag Darauf abreiset<abbr v="en"/>.<lbr/>
+da er aber vernahm, daß unsere Abreise erst auf den Mittag vestge<pc force="weak">=</pc><lbr/>stellt seye,<lbr type="BD"/> so ka<abbr type="topline" expand="mm">m</abbr> er morgens um 9 uhr, und gab dem Wolfg<abbr type="curve">:</abbr> unter<lbr/>
+viel<abbr v="en"/> Umarmung<abbr v="en"/> folgende <rend class="latin">Poesie</rend>, die die <rend class="latin">Sgra Corilla</rend> den Abend<lbr/>
+vorhero ihm noch<lbr type="BD"/> mach<abbr v="en"/> muste, und da<abbr type="topline" expand="nn">n</abbr> begleitete er unsern wag<abbr v="en"/><lbr/>
+bis zum Stattthore. Ich<lbr type="BD"/> wünschte, daß du diese <rend class="latin">Scene</rend> geseh<abbr v="en"/> hättest<lbr/>
+ich schlüsse hiemit nebst geh<abbr type="curve">:</abbr><lbr type="BD"/> Empf<abbr type="curve">:</abbr> an alle freunde <abbr expand="und">u</abbr> bin d<abbr v="er"/> alte<lbr type="forced"/>
+<ts>__________</ts><tshtm>______________________________________________________________</tshtm><tspdf>\hfill </tspdf>Mzt <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+Wir küss<abbr v="en"/> euch be&#255;de 1000 Mahl.<lbr type="forced"/>
+<lbr type="forced"/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+
+<pg n="3"/>
+<NS type="NS" schr_id="39409" adr_id="48817">
+<add_note schr_id="57010"><ts>_________________</ts>10. Von W. A. M. Rom 21 April 1770.<ts>____________________________________________</ts>31</add_note>
+<rend class="latin">Cara sorella mia</rend>,<lbr type="forced"/>
+Ich bitte dich, du wirst die Künste von der Rechenkunst finden, denn du<lbr/>
+hast sie selbst aufgeschrieben, und ich habe sie verloren, und weiß also<lbr/>
+Nichts mehr davon. Also bitte ich dich, sie mir zu kopiren, nebst andern<lbr/>
+Rechenexempeln und mir sie her zu schicken.<lbr type="forced"/>
+Manzuoli steht im Kontrakt mit den Mailändern, bei meiner Oper zu<lbr/>
+singen. Er hat mir auch dessentwegen in Florenz 4 oder 5 Arien gesungen,<lbr/>
+auch von mir einige, welche ich in Mailand komponiren habe müssen,<lbr/>
+weil man gar nichts von theatralischen Sachen von mir gehört hatte,<lbr/>
+um daraus zu sehen, daß ich fähig bin eine Oper zu schreiben. Manzuoli<lbr/>
+begehrt 1000 Ducaten. Man weiß auch nicht, ob die Gabrielli<lbr/>
+sicher kommen wird. Einige sagen, es wird die <rend class="latin">De Amicis</rend> singen, welche<lbr/>
+wir in Neapel sehen werden. Ich wünschte, daß sie und Manzuoli<lbr/>
+recitirten. Da wären nun zwei gute Bekannte und Freunde von uns.<lbr/>
+Man weiß auch noch nicht das Buch. Eins von Metastasio habe ich dem<lbr/>
+<rend class="latin">Don Ferdinando</rend> und dem Herrn von Troger rekomandirt.<lbr type="forced"/>
+Jetzt habe ich just die Arie: <rend class="latin">se ardire e speranza</rend> in der Arbeit.<lbr type="forced"/>
+<lbr type="forced"/>
+<additum>[... (Briefabschriften)]</additum></NS>
+</letter>
+</text>
+</MUP>

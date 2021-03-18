@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2019">2019-12</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=560</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">F-Pn</bibl>
+            <bibl type="source" subtype="RISM">F-Pn (Bibliothèque nationale de France, Département de la Musique)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:36:14 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_4.mup">
+<letter bd="4">
+<NI src="F-Pn">
+<HEADER id="560">LEOPOLD MOZART AN JOHANN JAKOB LOTTER IN AUGSBURG<lbr/>
+SALZBURG, 7. JULI 1755</HEADER>
+<pg n="1"/>
+<add_note>An Joh. Jac. Lotter, Augsburg</add_note>
+
+<ts>______________________________</ts><tshtm>________________________</tshtm><tspdf>\hfill </tspdf>Salzb<abbr type="curve">:</abbr> d<abbr v="en"/> 7<h>t<abbr v="en"/></h>&#160;<rend class="latin">Julij</rend> 1755.<lbr type="forced"/>
+<ts>__________</ts><rend class="latin"><persName key="76865">Monsieur</persName> mon tres cher amy</rend>!<lbr type="forced"/>
+<lbr type="forced"/>
+Sie sind gar zu genau, daß sie sich so viele Mühe nehm<abbr v="en"/> alle 3 Briefe,<lbr/>
+und<lbr type="BD"/> zwar in solcher Ordnung zu beantworten. Ich will ihr<abbr v="en"/> Brief<lbr/>
+vor mich neh<lbr type="BD"/>m<abbr v="en"/>, und mich ebenfals an die Ordnung halt<abbr v="en"/>.<lbr type="forced"/>
+Ihr versprech<abbr v="en"/> haben sie ma<abbr type="topline" expand="nn">n</abbr>haft gehalt<abbr v="en"/>; und bedaure herzlich daß sie<lbr type="BD"/><lbr/>
+eine so weite Reise fruchtloos hingeleget: denn Reisebeschwerd<abbr v="en"/> aus<pc force="weak">=</pc><lbr/>steh<abbr v="en"/>,<lbr type="BD"/> und sich doch betrog<abbr v="en"/> seh<abbr v="en"/>, das ist einmal zu viel.<lbr type="forced"/>
+Daß ich im fre&#255;sing <rend class="latin"><u>Salzb<abbr type="curve">:</abbr></u></rend> unterzeichnet habe, ist eine neue Marke<lbr/>
+meines<lbr type="BD"/> flichtig<abbr v="en"/> Geistes, über welch<abbr v="en"/> ich selbst i<abbr type="topline" expand="mm">m</abbr>er klag<abbr v="en"/>, und den ich<lbr/>
+allezeit<lbr type="BD"/> bestreitt<abbr v="en"/> muß. Wegen den Wörtern <u>Tact</u> und<lbr/>
+<u>Musikal: Zeitmaaß,</u> ist es ein<lbr type="BD"/>mal gewiss, daß zwar d<abbr v="er"/> Ablativ<lbr/>
+<u>Tacte</u> und <u>Zeitmaaße</u> ganz richtig haben<lbr type="BD"/> will. Allein wenn<lbr/>
+zweene solche Ablativ zusa<abbr type="topline" expand="mm">m</abbr><abbr v="en"/> ko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>; so lässt es halt<lbr type="BD"/> einmal lächerlich<lbr/>
+<u>Von dem Tacte od<abbr v="er"/> Musikalisch<abbr v="en"/> Zeitmaaße</u> zu sprech<abbr v="en"/>.<lbr type="BD"/> Wir wollen<lbr/>
+das Miettel wählen, und setz<abbr v="en"/>: <u>von dem Tacte od<abbr v="er"/> musik<abbr type="curve">:</abbr><lbr/>
+Zeit<lbr type="BD"/>maaß.</u> Denn in der Folge meines <u><rend class="latin">Mspts</rend></u> ist das Wort<lbr/>
+<u>Tacte</u> sehr oft angebracht,<lbr type="BD"/> wo es gut klingt; <u>Zeitmaaß</u> hingeg<abbr v="en"/><lbr/>
+kö<abbr type="topline" expand="mm">m</abbr>t selt<abbr v="en"/>, und klingt auch besser<lbr type="BD"/> ohne (e): weil die letzte<lbr/>
+Sylbe ohnedem schon lang ist und ein neuer Anhang<lbr type="BD"/> des (e) buchstabes<lbr/>
+recht gezwung<abbr v="en"/> lässt. wegen des <u>fordern</u> od<abbr v="er"/> <u>fodern</u> war<lbr type="BD"/> ich eben<lbr/>
+aus den von ihn<abbr v="en"/> be&#255;gebracht<abbr v="en"/> Ursach<abbr v="en"/> auch ihrer Meinung; nur<lbr type="BD"/><lbr/>
+der Satz hat mich verfiehret: <u>daß man in unserer ohnedem schon harten<lbr/>
+sprache<lbr type="BD"/> keine viele Consonant<abbr v="en"/> einmeng<abbr v="en"/>, sond<abbr v="ern"/> selbe vielmehr ausmustern<lbr/>
+solle;<lbr type="BD"/> um die Aussprache zu erleichtern</u>. übrigens bleibt es be&#255;m <u>erfordern.</u><lbr type="forced"/>
+<pg n="2"/>
+wegen<lbr type="BD"/> d<abbr v="er"/> Bücher<rend class="latin">Co<abbr type="topline" expand="mm">m</abbr>ission</rend> werde schon Nachricht geb<abbr v="en"/>. Was die <u>Tabell</u><lbr/>
+an<lbr type="BD"/>belanget, wird alles nach ihrem Verlang<abbr v="en"/> gescheh<abbr v="en"/>. Und wird freilich<lbr/>
+sehr<lbr type="BD"/> gut se&#255;n wenn ichs <rend class="latin">ad Correctur<abbr v="am"/></rend> beko<abbr type="topline" expand="mm">m</abbr>e. Ja sie werd<abbr v="en"/> mehr solche<lbr type="BD"/><lbr/>
+sach<abbr v="en"/> antreff<abbr v="en"/> die ich vorher etwa werde seh<abbr v="en"/> müss<abbr v="en"/>. Nur das bitte<lbr/>
+ich,<lbr type="BD"/> sond<abbr v="er"/>bar in Exempeln, im Zweifel nichtes zu lass<abbr v="en"/>, sondern<lbr/>
+mir lieber solches<lbr type="BD"/> vorher <rend class="latin">ad Corrigend<abbr v="um"/></rend> einzuschick<abbr v="en"/>.<lbr type="forced"/>
+Der Probbogen ist zu meinem Vergnüg<abbr v="en"/> ausgefall<abbr v="en"/>. so wohl d<abbr v="er"/> <rend class="latin">format</rend><lbr/>
+als<lbr type="BD"/> die Lettern sind gut, und ich bin vollko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/> damit vergnüget.<lbr/>
+Sie zeigen<lbr type="BD"/> dadurch, daß man nicht nur in Leipzig und Hamburg,<lbr/>
+sond<abbr v="ern"/> auch in Augsp<abbr type="curve">:</abbr><lbr type="BD"/> fein arbeit<abbr v="en"/> kan, und sie werden sich recht<pc force="weak">=</pc><lbr/>schaffene Ehre damit mach<abbr v="en"/>. fehler<lbr type="BD"/> sind hauptsächlich nichts dari<abbr type="topline" expand="nn">n</abbr><abbr v="en"/>.<lbr type="forced"/>
+<rend class="latin">pag</rend>. 3. <rend class="latin">linea</rend> 8 stehet <u>gibt</u> muß <u>giebt</u> heiss<abbr v="en"/>. <rend class="latin">linea</rend> 9. heist es <u>von<lbr/>
+einand<abbr v="er"/> in<lbr type="BD"/> etwas unterschied<abbr v="en"/>.</u> ich wollte lieber, daß hier, das <u>in etwas</u><lbr/>
+od<abbr v="er"/> völlig weg<lbr type="BD"/>bliebe, od<abbr v="er"/> anstatt dess<abbr v="en"/>&#160;<u>ein bischen</u> od<abbr v="er"/> <u>ein wenig</u> hinge<pc force="weak">=</pc><lbr/>setzet würde: weil<lbr type="BD"/> das wörtch<abbr v="en"/>&#160;<u>etwas</u> zwe&#255;mal gleich vorher<lbr/>
+auf einand<abbr v="er"/> folgt. Ich möchte es also das drittemal ausgemustert<lbr/>
+od<abbr v="er"/> etwa also abgeändert wiss<abbr v="en"/>. <u>ein<lbr type="BD"/> bischen unterschied<abbr v="en"/></u> od<abbr v="er"/> <u>ein<lbr/>
+wenig unterschied<abbr v="en"/>.</u> was beliebt, mir gilt es<lbr type="BD"/> gleich.<lbr type="forced"/>
+<rend class="latin">p</rend>. 8. in <rend class="latin">Notis</rend>. (f) l. 2. muß heiss<abbr v="en"/>. <u>dickern.</u><lbr type="forced"/>
+Mir gefällt sehr wohl, daß sie mir mein <u>derer</u> in <u>deren</u> abgeänd<abbr v="er"/>t hab<abbr v="en"/>:<lbr type="BD"/><lbr/>
+de<abbr type="topline" expand="nn">n</abbr> mir gefiehl es selbst nicht; <persName key="64420">Gottsched</persName> hat mich verführet, da<lbr/>
+er <rend class="latin">p</rend>. 254. in<lbr type="BD"/> allen Geschlechtern <u>derer</u> angiebt. Allein das <u>deren</u><lbr/>
+muß nur gebraucht werden,<lbr type="BD"/> wenn es sich auf etwas beziehet,<lbr/>
+<pg n="3"/>
+so weiblich<abbr v="en"/> Geschlechtes ist, als z. E. <u>die<lbr type="BD"/> Se&#255;ten, deren</u>&#160;<abbr expand="etc:">p:</abbr> wenn es<lbr/>
+sich aber auf ein <rend class="latin">Masculin<abbr v="um"/></rend> oder <rend class="latin">Neutr<abbr v="um"/></rend> be<lbr type="BD"/>ziehet, wollte ich mir wohl<lbr/>
+<u>derer</u> ausgebett<abbr v="en"/> hab<abbr v="en"/>. z: E: <u>die Mä<abbr type="topline" expand="nn">n</abbr>er, derer</u><lbr type="BD"/> ein jeder <abbr expand="etc:">p:</abbr> od<abbr v="er"/><lbr/>
+im <rend class="latin">Neutro</rend>: <u>so viele Häuser, derer</u> iedes <abbr expand="etc:">p:</abbr><lbr type="forced"/>
+Es wäre mir Le&#255;d wenn daß Papier ihn<abbr v="en"/> und mir den spass ver<pc force="weak">=</pc><lbr/>derb<abbr v="en"/> sollte.<lbr type="BD"/> Ich war allezeit und bin noch d<abbr v="er"/> Meinung, daß man<lbr/>
+etwas nicht anseh<abbr v="en"/><lbr type="BD"/> müsse, um eine Sache, so sonst Mühe kostet, auch<lbr/>
+auf schönes Papier zu<lbr type="BD"/> bring<abbr v="en"/>. kö<abbr type="topline" expand="nn">n</abbr><abbr v="en"/> sie de<abbr type="topline" expand="nn">n</abbr> nicht das Papier auf die<lbr/>
+<rend class="latin">Condition</rend> ko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/> lass<abbr v="en"/>,<lbr type="BD"/> wenn es die Probe hält? Es wird wohl nicht<lbr/>
+ein Pappiermacher alleine in d<abbr v="er"/><lbr type="BD"/> Welt se&#255;n. Haben den diese <u>Lumpen</u><lbr/>
+kein<abbr v="en"/> vorrath? und müss<abbr v="en"/> sie es aller<lbr type="BD"/>erst mach<abbr v="en"/>? Genug! wart<abbr v="en"/> sie<lbr/>
+lieber auf gut Papier; mir wäre sonst leyd<lbr type="BD"/> vor ihre Mühe: denn ich<lbr/>
+wollte absolute, daß es so in die Aug<abbr v="en"/> fall<abbr v="en"/> solle,<lbr type="BD"/> daß ich ni<abbr type="topline" expand="mm">m</abbr>er hören<lbr/>
+darf, was ich oft gehört hab, <u>daß nä<abbr type="topline" expand="mm">m</abbr>lich von keinem<lbr type="BD"/> Orte ein<lbr/>
+schönes Buch ko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/> kan, als von Hamburg und Leipzig</u>, <rend class="latin">NB</rend>&#160;<u>der<lbr type="BD"/> Auflage nach</u>.<lbr type="forced"/>
+Das 14 Seiten auf den ersten Bogen aufgegang<abbr v="en"/>, daß darf ihn<abbr v="en"/> nicht<lbr/>
+Bange<lbr type="BD"/> mach<abbr v="en"/>, wenn ihn<abbr v="en"/> nur nicht in d<abbr v="er"/> Folge Bange wird: denn <u>erstlich</u><lbr/>
+sind<lbr type="BD"/> meine übrigen Bögen viel kleiner zusa<abbr type="topline" expand="mm">m</abbr>engeschrieb<abbr v="en"/>; und de<abbr type="topline" expand="nn">n</abbr>och hab<lbr type="BD"/> ich<lbr/>
+in dem itzig<abbr v="en"/>&#160;<rend class="latin">Mspt</rend> schon ein paar Bög<abbr v="en"/> mehr als in dem alt<abbr v="en"/>.<lbr/>
+<u>zwe&#255;tens</u><lbr type="BD"/> ko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/> hint<abbr v="en"/> be&#255; d<abbr v="er"/> <u>Strichart,</u> Be&#255; <u>den Triol<abbr v="en"/></u> be&#255; d<abbr v="er"/> <u>ver<pc force="weak">=</pc><lbr/>änd<abbr v="er"/>ung des<lbr type="BD"/> Striches</u> viele, und sond<abbr v="er"/>bar be&#255; den <u>Applicaturen</u><lbr/>
+hochgesetzte Exempel die<lbr type="BD"/> man nicht enge zusa<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>rück<abbr v="en"/> kan. Sie dürfen<lbr/>
+also gar keine grossen Noten<lbr type="BD"/> nehm<abbr v="en"/>. Und letzlich ko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/> noch 2 Hauptstücke<lbr/>
+od<abbr v="er"/> <rend class="latin">resp:<h>tve</h></rend> 3 Hauptstücke<lbr type="BD"/> dazu, die ich ohne grosse Critick nicht weglass<abbr v="en"/><lbr/>
+kan. Diesse sind die <u>vor<lbr type="BD"/>schläge</u> und <u>Triller</u>. Denn diess sind 2 Stücke,<lbr/>
+die in der täglich<abbr v="en"/> und ge<lbr type="BD"/>mein<abbr v="en"/> Spielart vor Augen ko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>, und folglich<lbr/>
+müssen eingeschaltet wer<lbr type="BD"/>den. Ich glaub in dem Entwurf, den ich ihn<abbr v="en"/> von<lbr/>
+<pg n="4"/>
+<add_empf>1755. d<abbr v="en"/> 7 <rend class="latin">Julii</rend> aus Salzburg, von<lbr/>
+h<abbr type="curve">.</abbr>&#160;<rend class="latin">Leopold Mozart</rend>.</add_empf>
+<add_note>von Interesse</add_note>
+<lbr/>
+den Hauptstück<abbr v="en"/> eingeschicket<lbr type="BD"/> habe werd<abbr v="en"/> das 9<h>te</h> und 10<h>te</h> Hauptstück die<lbr/>
+<u>Doppelgriffe</u> und <u>Arpeggierung<abbr v="en"/></u> se&#255;n. Diese ko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/> nun zusa<abbr type="topline" expand="mm">m</abbr><abbr v="en"/> in das<lbr/>
+9<h>te</h> Hauptstücke, <u>das 10<h>te</h> sind die<lbr type="BD"/> Vorschläge</u>, das <u>11<h>te</h></u>&#160;<u>die triller</u>,<lbr/>
+das <u>12<h>te</h> die Mordenten</u>. Ich werde also mit 12<lbr type="BD"/> Hauptstück<abbr v="en"/> schliess<abbr v="en"/>,<lbr/>
+und alles deutlich und kurz abhandeln. Es bleibt mir<lbr type="BD"/> nichtsdesto<pc force="weak">=</pc><lbr/>weniger noch ein Anfang, ja vielmehr ein wichtiges und eigenes<lbr type="BD"/>&#160;<lbr/>
+Werckg<abbr v="en"/> zu mach<abbr v="en"/> übrig, und ich hab die Warheit zu sag<abbr v="en"/> so viel<lbr/>
+Materie<lbr type="BD"/> noch übrig zwe&#255; kleine tractätch<abbr v="en"/> zu schreib<abbr v="en"/>, eine<lbr/>
+so wichtige Materie, die<lbr type="BD"/> zwar hin und her ein bisch<abbr v="en"/> ist berieret,<lbr/>
+aber <rend class="latin">nec á longe</rend> ist ausgeführet wor<lbr type="BD"/>d<abbr v="en"/>; die ich auch, wenn ich<lbr/>
+sehe, daß diese meine Arbeit nicht umsonst ist,<lbr type="BD"/> mit der Hilf Gottes<lbr/>
+gewiss auch zusa<abbr type="topline" expand="mm">m</abbr><abbr v="en"/> schmier<abbr v="en"/> will. <u>NB.</u> ich werde mich<lbr type="BD"/> aber alsda<abbr type="topline" expand="nn">n</abbr><lbr/>
+ni<abbr type="topline" expand="mm">m</abbr>er so lang besi<abbr type="topline" expand="nn">n</abbr><abbr v="en"/>.<lbr type="forced"/>
+Es ko<abbr type="topline" expand="mm">m</abbr>en 4 figuren in die Violinschule. 2 kleine Brustbiltch<abbr v="en"/> wie man<lbr/>
+auf<lbr type="BD"/> zwoerle&#255; Art die Violin halt<abbr v="en"/> kan. und ein paar Ärme<lbr/>
+od<abbr v="er"/> auch nur Hände<lbr type="BD"/> um die schlechte und gute Art den Bog<abbr v="en"/> zu halten an<pc force="weak">=</pc><lbr/>zuzeigen. weil es nun<lbr type="BD"/> aber nichts besonderes se&#255;n darf, so lasse ich es<lbr/>
+mir gleich von einem der recht<lbr type="BD"/> gut zeichn<abbr v="en"/> kan auf Kupfer<lbr/>
+radier<abbr v="en"/> und ätzen, weil ich selbst mit diesem<lbr type="BD"/> Spaß umgeh<abbr v="en"/> kan.<lbr/>
+Oder schreiben sie mir, was ich etwa vor etwas solches dem<lbr type="BD"/>&#160;<persName key="57005">h<abbr type="curve">:</abbr>&#160;<rend class="latin">Nilson</rend></persName> zahlen<lbr/>
+müßte? Nun meine ich auch mein Herz ausgelähret zu hab<abbr v="en"/>.<lbr type="BD"/> Die meinige<lbr/>
+empfehlet ihn<abbr v="en"/> und dero angehörig<abbr v="en"/>, und ich bin und gebleibe<lbr type="forced"/>
+<ts>__________________________________</ts><tspdf>\hfill </tspdf>dero<lbr type="BD"/><lbr type="forced"/>
+<ts>_________________________________________________</ts><tspdf>\hfill </tspdf>Ergebenster Dr<lbr type="BD"/><lbr type="forced"/>
+<ts>_____________________________</ts><tshtm>____________________</tshtm><tspdf>\hfill </tspdf><persName key="39408"><rend class="latin">Leop: Mozart</rend></persName>&#160;<abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<postxt>Es kö<abbr type="topline" expand="mm">m</abbr>t einigemal das wort <u>biegen</u> vor. Sie mögen, wens<lbr/>
+ihn<abbr v="en"/> besser ge<lbr type="BD"/>fällt, <u>Beugen</u> setz<abbr v="en"/>, mir gilt es gleich.<lbr/>
+das Wort <u>Violin</u> bleibt schon dabe&#255; im <rend class="latin">Sing</rend>. allezeit <u>Violin,</u> und<lbr/>
+im <rend class="latin">plur</rend>: alle<lbr type="BD"/>zeit <u>violinen,</u> wenn ich mich etwa an einem Orte sollte<lbr/>
+geirret haben. Das<lbr type="BD"/> Wort <u>Strich</u> aber declinire ich nach <u>Stand</u> in <persName key="64420">Gottsched</persName>&#160;<rend class="latin">p</rend>. 201.<lbr/>
+gleichwie <u>Violin</u><lbr type="BD"/> nach <u>flur</u>&#160;<rend class="latin">p</rend>: 205 declinire.</postxt>
+</NI>
+</letter>
+</text>
+</MUP>

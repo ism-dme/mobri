@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2012">2012-10</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=998</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:38:47 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_434.mup">
+<letter bd="434"><HEADER id="998">LEOPOLD MOZART AN MARIA ANNA UND WOLFGANG AMADÉ MOZART IN MANNHEIM<lbr/>
+SALZBURG, 5. MÄRZ 1778</HEADER>
+<pg n="1"/>
+Mein liebes Weib und <add_num type="inline" impl="pencil"><ts>___________________________</ts>45</add_num><lbr type="forced"/>
+mein lieber Sohn!<ts>___________</ts><tshtm>_________________________________________________</tshtm><tspdf>\hfill </tspdf>Salzburg d<abbr v="en"/> 5<h>t<abbr v="en"/></h> Merz<lbr type="forced"/>
+<ts>_______</ts><tshtm>______________________________________________________________________________________________________</tshtm><tspdf>\hfill </tspdf>1778.<lbr type="forced"/>
+da ihr mein Schreib<abbr v="en"/> vom 2<h>t<abbr v="en"/></h> Merz erst d<abbr v="en"/> 7 od<abbr v="er"/> 8<h>t<abbr v="en"/></h> werdet erhalt<abbr v="en"/><lbr type="BD"/> hab<abbr v="en"/>, so<lbr/>
+überlege, daß ihr vor <u>dem 15<h>t<abbr v="en"/></h></u> nicht <amend value="werdet">werd<abbr v="en"/></amend> abreis<abbr v="en"/> kö<abbr type="topline" expand="nn">n</abbr><abbr v="en"/>, da<abbr type="topline" expand="nn">n</abbr> ich vermuthe, daß d<abbr v="er"/><lbr/>
+Postwag<abbr v="en"/> alle 8 Täge gehet. <u>den 15<h>t<abbr v="en"/></h> aber müsst<lbr type="BD"/> ihr fort.</u> dessweg<abbr v="en"/> schrieb ich<lbr/>
+noch einmahl, weil ihr diesen Brief den 11<h>t<abbr v="en"/></h><lbr type="BD"/> erhalt<abbr v="en"/> könnt. In meinem<lbr/>
+letzt<abbr v="en"/> gab ich euch Nachricht, daß mir h<abbr type="curve">:</abbr>&#160;<rend class="latin">Baron</rend><lbr type="BD"/> von Gri<abbr type="topline" expand="mm">m</abbr> geschrieb<abbr v="en"/>, und was er<lbr/>
+mir geschrieb<abbr v="en"/> hat: ferner daß ich an<lbr type="BD"/> h<abbr type="curve">:</abbr> Herzog <abbr expand="etc">p</abbr>: hab schreib<abbr v="en"/> lass<abbr v="en"/>, daß ihr<lbr/>
+in Manheim noch <u>4 od<abbr v="er"/> 5<lbr type="BD"/>&#160;<rend class="latin">Louis d'or</rend></u> nehm<abbr v="en"/> könnt. die <u><rend class="latin">chaise</rend></u> werdet ihr nun<lbr/>
+wohl, so gut es möglich,<lbr type="BD"/> verkauft hab<abbr v="en"/>: habt ihr aber wieder alles auf den<lbr/>
+letzt<abbr v="en"/> Augenblick<lbr type="BD"/> gespahrt, so ist es euere Schuld, da<abbr type="topline" expand="nn">n</abbr> ich alles be&#255; Zeiten<lbr/>
+eri<abbr type="topline" expand="nn">n</abbr>eret habe,<lbr type="BD"/> so wohl weg<abbr v="en"/> der <u><rend class="latin">Bagage, Coffre</rend>, Postwag<abbr v="en"/></u> und all<abbr v="en"/> and<abbr v="ern"/><lbr/>
+Unkost<abbr v="en"/>. es<lbr type="BD"/> ist einmahl auf nichts, als auf seine aigene Sache zu denk<abbr v="en"/>,<lbr/>
+alles gleich zu<lbr type="BD"/> thun, und sich von niemand abhalt<abbr v="en"/> lass<abbr v="en"/>. Eine Hauptsache<lbr/>
+ist nicht zu<lbr type="BD"/> vergess<abbr v="en"/>: nä<abbr type="topline" expand="mm">m</abbr>lich <u>mit keinem and<abbr v="ern"/> Geld sich zu verseh<abbr v="en"/> als<lbr/>
+mit<lbr type="BD"/>&#160;<rend class="latin">Louis d'or</rend> und Laubthaler,</u> da<abbr type="topline" expand="nn">n</abbr> von Strassburg aus werdet ihr<lbr/>
+kein anderes<lbr type="BD"/> Geld brauch<abbr v="en"/> kö<abbr type="topline" expand="nn">n</abbr><abbr v="en"/>. die <rend class="latin">Dilligence</rend> von Manheim werdet ihr<lbr/>
+noch in Manheim bezahl<abbr v="en"/> und bis Strasburg wird noch solches Geld<lbr/>
+gehen. darauf ist<lbr type="BD"/> recht wohl obacht zu geb<abbr v="en"/>; und mit Kaufleut<abbr v="en"/>,<lbr/>
+sonderhtl: mit dem h<abbr type="curve">:</abbr><lbr type="BD"/>&#160;<u>Schmalz</u> zu sprech<abbr v="en"/>. Ich weis nicht ob dir h<abbr type="curve">:</abbr> Herzog<lbr/>
+schreib<abbr v="en"/> wird, da<lbr type="BD"/> dich h<abbr type="curve">:</abbr> Schmalz itzt schon kennt, wird er dir das<lbr/>
+Geld wohl geb<abbr v="en"/>. <u>laß dir<lbr type="BD"/> aber <rend class="latin">Louis d'or</rend> geb<abbr v="en"/>,</u> sonst kannst du nichts<lbr/>
+nehm<abbr v="en"/>, <u>da<abbr type="topline" expand="nn">n</abbr> das silber geld<lbr type="BD"/> ist auf d<abbr v="er"/> Reise zu unbeque<abbr type="topline" expand="mm">m</abbr>, sond<abbr v="er"/><pc force="weak">=</pc><lbr/>heitlich, da ihr es be&#255; euch trag<abbr v="en"/> müsst.</u><lbr type="BD"/> um Gottes will<abbr v="en"/> versäumt<lbr/>
+nur keine Minute euch alles in ordnung zu richt<abbr v="en"/>,<lbr type="BD"/> de<abbr type="topline" expand="nn">n</abbr> ko<abbr type="topline" expand="mm">m</abbr>t ihr<lbr/>
+späth nach Pariß, so kan wenig gemacht werd<abbr v="en"/>, es braucht<lbr type="BD"/> seine Zeit<lbr/>
+in Beka<abbr type="topline" expand="nn">n</abbr>tschaft zu ko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>, der Ort ist zu groß, und geh<abbr v="en"/> die<lbr type="BD"/> Leute<lbr/>
+hin und her aufs Land: itzt muß man noch die Bekanntschaft<abbr v="en"/><lbr/>
+mach<abbr v="en"/>,<lbr type="BD"/> weil alles beysa<abbr type="topline" expand="mm">m</abbr><abbr v="en"/> ist; sonst verderbt ihr wied<abbr v="er"/> alles, und es geht<lbr/>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="2"/>
+wie<lbr type="BD"/> es bisher gegang<abbr v="en"/>, was ich aufgebauet habe, habt ihr wied<abbr v="er"/> niedergeriss<abbr v="en"/>:<lbr type="BD"/><lbr/>
+und was ich, nach euerm Vorschlage eingegang<abbr v="en"/>, war am Ende auch wied<abbr v="er"/><lbr type="BD"/> nichts.<lbr/>
+Nun ist nichts anders zu thun als weiter zu tracht<abbr v="en"/>, ihr habt be&#255;<lbr type="BD"/> allem<lbr/>
+dem, daß ihr wed<abbr v="er"/> zi<abbr type="topline" expand="mm">m</abbr>er noch kost zu bezahl<abbr v="en"/> hattet, doch Geld<lbr type="BD"/> genug ausgegeb<abbr v="en"/>;<lbr/>
+weil man nun täglich wied<abbr v="er"/> Geld ausgiebt, so muß man<lbr type="BD"/> weiter tracht<abbr v="en"/>, de<abbr type="topline" expand="nn">n</abbr><lbr/>
+ihr nehmt in Manheim keins mehr ein. das musik<abbr type="curve">:</abbr><lbr type="BD"/>&#160;<rend class="latin">Paquet</rend> wird<lbr/>
+wohl schon in euer<abbr v="en"/> Händ<abbr v="en"/> se&#255;n. &#8211; ihr wisst unsere Umstände.<lbr type="BD"/> ihr habt<lbr/>
+Ursache genug auf ieden Kreuzer zu sehen &#8211; in solch<abbr v="en"/> Umständ<abbr v="en"/><lbr type="BD"/> war ich noch<lbr/>
+niemals! Ich bitte Gott, daß er dem Wolfg<abbr type="curve">:</abbr> in Paris ein besseres<lbr type="BD"/> Glück<lbr/>
+schicket. Ich versichere, daß alles auf die Lebhaftigkeit anko<abbr type="topline" expand="mm">m</abbr>t nach dem<lbr/>
+Unterschied der Umstände seine Sach<abbr v="en"/> zu betreib<abbr v="en"/> &#8211; mit Eyfer zu<lbr type="BD"/> betreib<abbr v="en"/>,<lbr/>
+ und sein Glück ist, daß h<abbr type="curve">:</abbr>&#160;<rend class="latin">B</rend>: <abbr expand="von">v</abbr>&#160;<rend class="latin">Gri<abbr type="topline" expand="mm">m</abbr></rend> in Paris ist. dem muß er<lbr type="BD"/> sich<lbr/>
+ganz anvertrau<abbr v="en"/> und alles thun, was der ihm sagt, und wie er ihms<lbr type="BD"/><lbr/>
+sagt. dessweg<abbr v="en"/> muß man die zeit brauch<abbr v="en"/>, we<abbr type="topline" expand="nn">n</abbr> man sie hat.<lbr type="forced"/>
+h<abbr type="curve">:</abbr>&#160;<rend class="latin">B</rend>: <abbr expand="von">v</abbr>&#160;<rend class="latin">gri<abbr type="topline" expand="mm">m</abbr></rend> könnte neuerdings ein<abbr v="en"/> Befehl erhalt<abbr v="en"/>, und abermahl<lbr/>
+im<lbr type="BD"/> frühejahr eine Reise mach<abbr v="en"/> müss<abbr v="en"/>; da<abbr type="topline" expand="nn">n</abbr> wäret ihr wied<abbr v="er"/> angesetzt.<lbr/>
+de<abbr type="topline" expand="nn">n</abbr><lbr type="BD"/> we<abbr type="topline" expand="nn">n</abbr>s so fortgieng, so wäre all unser <suppl hand="self" pos="supra">Sach</suppl> verschuldet, und wir auf<lbr/>
+einmahl<lbr type="BD"/> arme Leute, und am Ende könnte keins dem and<abbr v="ern"/> mehr helf<abbr v="en"/>.<lbr/>
+ich habe<lbr type="BD"/> mich bemühet in all<abbr v="en"/> mein<abbr v="en"/> Brief<abbr v="en"/> die Wahrheit, wie sie<lbr/>
+ist, euch zu<lbr type="BD"/> schreib<abbr v="en"/>: allein mir ko<abbr type="topline" expand="mm">m</abbr>t vor, als we<abbr type="topline" expand="nn">n</abbr> alle diese Briefe<lbr/>
+nur geschwind so<lbr type="BD"/> obenhin mit halbem Auge wär<abbr v="en"/> durchge<pc force="weak">=</pc><lbr/>lesen und soda<abbr type="topline" expand="nn">n</abbr> hingeworff<abbr v="en"/><lbr type="BD"/> word<abbr v="en"/>. Ich bitte um Gotteswill<abbr v="en"/> nur<lbr/>
+solche öfter mit bedacht und Nachdenk<abbr v="en"/> zu lesen: <u>und ins künftig<lbr/>
+für sich alleine, und nicht i<abbr type="topline" expand="mm">m</abbr>er mehr für<lbr type="BD"/> and<abbr v="er"/>e besorgt, und<lbr/>
+aller Welt diener zu se&#255;n.</u> sonst ko<abbr type="topline" expand="mm">m</abbr>t ihr, be&#255; meiner<lbr type="BD"/> Ehre,<lbr/>
+auf einmahl in den fall eure Sach<abbr v="en"/> versetz<abbr v="en"/> und verkauff<abbr v="en"/> zu müss<abbr v="en"/>.<lbr/>
+Ich hab dem h<abbr type="curve">:</abbr>&#160;<rend class="latin">B</rend>: <abbr expand="von">v</abbr>&#160;<rend class="latin">Gri<abbr type="topline" expand="mm">m</abbr></rend> schon geantwortet, und ihm alles geschrieb<abbr v="en"/>, warum<lbr/>
+der Wolfg<abbr type="curve">:</abbr> nicht mit h<abbr type="curve">:</abbr> Wendling nach Paris geko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>: und<lbr type="BD"/> daß er and<abbr v="er"/>e Ursach<abbr v="en"/><lbr/>
+ihm vorgewendet &#8211; vielleicht habt ihr vom Wendling<lbr type="BD"/> unterdess<abbr v="en"/> auch ein<abbr v="en"/><lbr/>
+Brief. Ich schreibe dieß, damit ihr dem h<abbr type="curve">:</abbr>&#160;<rend class="latin">B</rend>: Gri<abbr type="topline" expand="mm">m</abbr><lbr type="BD"/> die wahrheit sagt,<lbr/>
+wie sie ist. Nun ist es mit diesem alleine nicht getha<abbr type="topline" expand="nn">n</abbr>, daß<lbr type="BD"/> ich in<lbr/>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="3"/>
+Manheim noch 5 <rend class="latin">Louis d'or</rend> angeschaft habe; ich muß doch auch Anstalt<lbr type="BD"/> mach<abbr v="en"/>,<lbr/>
+daß ihr in Paris einige <rend class="latin">Louis d'or</rend> allenfals nehm<abbr v="en"/> könnt, da be&#255;m<lbr type="BD"/> Eintritte<lbr/>
+man dir nicht gleich Geld zuwerff<abbr v="en"/> wird. da müsste ich euch nun<lbr type="BD"/> ein<abbr v="en"/>&#160;<rend class="latin">pre<pc force="weak">=</pc><lbr/>sentations</rend> Brief verschaff<abbr v="en"/>, ihr müst mir also, so bald ihr ein<lbr type="BD"/> Zi<abbr type="topline" expand="mm">m</abbr>er<lbr/>
+beziehet die <rend class="latin">addresse</rend> schreib<abbr v="en"/>. unterdess<abbr v="en"/> muß gleichwohl eine<lbr type="BD"/> and<abbr v="er"/>e An<pc force="weak">=</pc><lbr/>stalt ausdenken; damit ihr nicht steck<abbr v="en"/> bleibt. Es wird aber das<lbr type="BD"/><lbr/>
+aller nothwendigste se&#255;n mir gleich von euerer Wohnung Nachricht zu geb<abbr v="en"/>,<lbr type="BD"/><lbr/>
+so bald ihr eine habt. h<abbr type="curve">:</abbr> Baron <abbr expand="von">v</abbr>&#160;<rend class="latin">Gri<abbr type="topline" expand="mm">m</abbr></rend> wird euch nicht <rend class="latin">Logie</rend>r<abbr v="en"/> könn<abbr v="en"/>.<lbr/>
+das ist nicht zu vermuth<abbr v="en"/>. ihr könnt euch also bey <rend class="latin">Mr</rend>: Mayer anfrag<abbr v="en"/>.<lbr/>
+Lebt<lbr type="BD"/> gesund, das ist d<abbr v="er"/> Letzte Brief, <u>den 15<h>t<abbr v="en"/></h> reiset ihr gewiß.</u> Gott erhalte<lbr/>
+euch,<lbr type="BD"/> gebe euch eine glückl: Reise, die Na<abbr type="topline" expand="nn">n</abbr>erl und ich kiss<abbr v="en"/> euch million<pc force="weak">=</pc><lbr/>mahl<lbr type="BD"/> und bin sa<abbr type="topline" expand="mm">m</abbr>t ihr euer bis in Todt getreuer Mzt <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<lbr type="forced"/>
+<lbr/>
+setze abermahl zur fürsorge die <rend class="latin">Adresse</rend> des h<abbr type="curve">:</abbr>&#160;<rend class="latin">Baron v gri<abbr type="topline" expand="mm">m</abbr></rend> her.<lbr type="forced"/>
+<u><rend class="latin">Rüe de la<lbr type="BD"/> Chausse d'Antin, prés le Boulevard.</rend></u><lbr/>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="4"/>
+<anschrift rot="270"><rend class="latin">À Monsieur<lbr type="forced"/>
+Monsieur Wolfgang Amadé<lbr type="forced"/>
+Mozart Maître de Musique<lbr type="forced"/>
+à</rend><lbr type="forced"/>
+<add_note ><rend class="latin">Frcoaug<abbr type="curve"></abbr></rend></add_note>
+<u><rend class="latin">Manheim</rend></u></anschrift><lbr/>
+<add_num impl="ink"><rend class="latin">N<h>ro</h>:</rend> 43.</add_num></letter>
+</text>
+</MUP>

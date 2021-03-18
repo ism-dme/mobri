@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2012">2012-01</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1946</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:42:30 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_1373.mup">
+<letter bd="1373"><HEADER id="1946">CONSTANZE MOZART AN CARL THOMAS MOZART IN MAILAND<lbr/>
+WIEN, 23. AUGUST 1806<lbr/>
+mit Nachschrift von Georg Nikolaus Nissen</HEADER>
+<pg n="1"/>
+Lieber <rend class="latin">Karl</rend>!<add_num type="inline"><ts>___</ts><u>No 16</u></add_num><ts>___________</ts><tspdf>\hfill </tspdf>Wien den 23<h><uu>t</uu></h> august <uu>1806</uu><lbr type="forced"/>
+<lbr type="forced"/>
+Mitt vielen <amend value="Vergnüchen">Vergünchen</amend> habe ich deine beiden letzten briefe er<pc force="weak">=</pc><lbr/>halten und daraus ersehen daß du fleisig und wohl auf bist.<lbr/>
+Fahre fort in deinem Eifer und es wird dich nicht reihen<lbr/>
+laße nie deinen Muth sincken; denn nur Muth<lbr/>
+und beharrlichkeit bringt uns zum Zihl. mit<lbr/>
+Nächster gelechenheit bekomst du das <rend class="latin">Rondo</rend><lbr/>
+von der <rend class="latin">Storaci</rend> mit <rend class="latin">Clavir</rend> begleitet und das<lbr/>
+papir, auch wirst du durch Nissen einen Brief<lbr/>
+an bewusten Mann bekomen, der dich gewiß gut<lbr/>
+Empfehlen wird. <suppl hand="diff" schr_id="57010"><tshtm>_________________________</tshtm>Der Marquis Rosales schreibt nämlich zu<lbr/>
+dem bewußten Zweck an seinen Bruder, da er mit dem Grafen nicht im Briefwechsel steht.</suppl>
+Die so schönen Lieder von <rend class="latin">asioli</rend> habe ich endlich<lbr/>
+von <rend class="latin">Artaria</rend> bekomen; die <rend class="latin">Fischer</rend> sang sie<lbr/>
+bei mir, und sie gefillen mir sehr wohl, doch<lbr/>
+kan ich dir noch nicht genug davon schreiben<lbr/>
+weil ich wohl ein sehe, daß sie, und, das<lbr/>
+Karackteristische was da rin ist ganz anderst<lbr/>
+gesungen werden mißen, welches man das<lbr/>
+erste mahl ganz gewiß nicht treffen kan.<lbr type="forced"/>
+<pg n="2"/>
+an Kapellnmeister <rend class="latin">Majer</rend> werde ich da ich ihn<lbr/>
+kenne selbst schreiben und dich anempfehlen.<lbr/>
+Das papir welches du mir begert hast ist nicht<lbr/>
+so klein wie ich es wolte, auch hast du mir<lbr/>
+nicht geschrieben, ob es für <rend class="latin">partitur</rend>&#160;<abbr expand="oder">od</abbr> fürs<lbr/>
+<rend class="latin">Clavir</rend> ist; <h>#</h> in desen schicke ich dir dies<lbr/>
+solte es nicht ganz zu deinem wünsche dienlich<lbr/>
+sein so schreibe es mir und ich schicke Dir<lbr/>
+anders. hier folgt die <stroke>Quittung</stroke>&#160;<suppl hand="diff" schr_id="57010" pos="supra">Anweisung</suppl> von dem, was du<lbr/>
+Empfangen wirst. halte haus damit<lbr/>
+du aus komst. <abbr expand="Adieu">Ad</abbr> liebe deine Mutter.<lbr/>
+alle bekante und Verwande grüßen und küßen<lbr/>
+dich. dein Bruder wird dir bald selbst antworten.<lbr type="forced"/>
+
+<suppl hand="diff" schr_id="57010"># und ob es damit eilte, ob ich es mit der<lbr/>
+<tshtm>___________</tshtm>Briefpost schikken sollte.<lbr type="forced"/>
+<lbr type="forced"/>
+Rosales hat versprochen, noch heute zu schreiben.</suppl><lbr/>
+<pg n="3"/>
+<vacat/>
+<pg n="4"/>
+<anschrift hand="diff" schr_id="57010"><rend class="latin">Vienne<lbr type="forced"/>
+A Monsieur<lbr type="forced"/>
+Monsieur Charles Mozart<lbr type="forced"/>
+piazza del duomo,<lbr type="forced"/>
+casa Alodi,<lbr type="forced"/>
+1025.<lbr type="forced"/>
+Milan</rend></anschrift><lbr/>
+<add_seal type="post">MIL°.SET<lbr/>2</add_seal></letter></text>
+</MUP>

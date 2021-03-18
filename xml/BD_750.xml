@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2014">2014-5</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1319</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">D-B</bibl>
+            <bibl type="source" subtype="RISM">D-B (Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Musikabteilung mit Mendelssohn-Archiv)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:40:26 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_750.mup">
+<letter bd="750"><NI src="D-B"><HEADER id="1319">WOLFGANG AMADÉ MOZART AN LEOPOLD MOZART IN SALZBURG<lbr/>
+WIEN, 7. JUNI 1783</HEADER>
+<pg n="1"/>
+<rend class="latin">Mon trés cher Pére!</rend><ts>_______</ts><tshtm>______________________________________</tshtm><tspdf>\hfill </tspdf><rend class="latin"><u>Vie<abbr type="topline" expand="nn">n</abbr>e</u> ce</rend> 7 <rend class="latin">Juin</rend>&#160;<uu>1783</uu><lbr type="forced"/>
+<lbr type="forced"/>
+Gott lob und dank ich bin wieder ganz hergestellt! &#8211; Nun hat mir meine<lbr type="BD"/><lbr/>
+krankheit einen Chatar zum andenken zurückgelassen; das ist doch<lbr/>
+hüpsch<lbr type="BD"/> von ihr! &#8211; Ich habe den brief meiner lieben schwester richtig er<pc force="weak">=</pc><lbr/>halten. der<lbr type="BD"/> Na<abbr type="topline" expand="mm">m</abbr>ens=tag meiner frau ist weder in Ma&#255; noch im März,<lbr/>
+sondern am<lbr type="BD"/> 16:<h>tn</h>&#160;<rend class="latin">febrario;</rend> und steht gar in keinen kalender. &#8211; Meine<lbr/>
+frau aber dankt<lbr type="BD"/> vom Herzen be&#255;den für ihren gutgemeinten glücks<pc force="weak">=</pc><lbr/>Wunsch, welcher auch ohne<lbr type="BD"/> Na<abbr type="topline" expand="mm">m</abbr>enstag angewendet ist. &#8211; sie wollte<lbr/>
+meiner schwester gerne selbst schreiben, allein in ihren dermaligen<lbr/>
+umständen muß man ihr es schon zu<lbr type="BD"/> gute halten, we<abbr type="topline" expand="nn">n</abbr> sie ein<lbr/>
+wenig <rend class="latin">comod</rend> &#8211; zu teutsch &#8211; gelegen ist. &#8211; vermög<lbr type="BD"/> der untersuchung<lbr/>
+der Heba<abbr type="topline" expand="mm">m</abbr>e hätte sie schon den 4:<h>ten</h> dieses niederko<abbr type="topline" expand="mm">m</abbr>en<lbr type="BD"/> sollen &#8211; <lbr/>
+allein ich glaube nicht daß vor den 15:<h>ten</h> oder 16:<h>tn</h> etwas daraus<lbr type="BD"/><lbr/>
+werden wird. &#8211; sie wünscht es sich Je eher Je lieber, besonders um<lbr/>
+desto bälder<lbr type="BD"/> so glücklich zu se&#255;n sie und unsre liebe schwester mit<lbr/>
+mir in Salzburg zu um<lbr type="BD"/>armen. &#8211; da ich nicht glaubte daß aus<lbr/>
+dem spass so geschwind Ernst werden<lbr type="BD"/> könte, so verschob ich i<abbr type="topline" expand="mm">m</abbr>er mich<lbr/>
+auf die knie niederzulassen, die Hände<lbr type="BD"/> zusa<abbr type="topline" expand="mm">m</abbr> zu halten, und sie<lbr/>
+mein liebster vatter recht unterthänig zu gevatter<lbr type="BD"/> zu bitten! &#8211; <lbr/>
+da es nun aber vieleicht noch zeit ist, so thue ich es halt izt. &#8211;<lbr type="BD"/>&#160;<lbr/>
+unterdessen |: in getröster Hofnung daß sie es mir nicht abschlagen<lbr/>
+werden :|<lbr type="BD"/> habe ich, seit die Heba<abbr type="topline" expand="mm">m</abbr>e den <rend class="latin">visum Repertum</rend> eingeno<abbr type="topline" expand="mm">m</abbr>en,<lbr/>
+schon dafür<lbr type="BD"/> gesorgt, daß Jemand das kind in ihrem Na<abbr type="topline" expand="mm">m</abbr>en hebt,<lbr/>
+es mag <rend class="latin">generis mas<lbr type="BD"/>culini</rend> oder <rend class="latin">fæminini</rend> se&#255;n! &#8211; es heist halt;<lbr/>
+<rend class="latin">Leopold</rend> oder <rend class="latin">Leopoldine</rend>. &#8211; Nun<lbr type="BD"/> muß ich meiner schwester wegen<lbr/>
+den <rend class="latin">clementis</rend>chen <rend class="latin">Sonaten</rend> ein paar worte<lbr type="BD"/> sagen; &#8211; daß die<lbr/>
+komposizion davon nichts heisst, wird Jeder der sie spiellt,<lbr type="BD"/> oder hört,<lbr/>
+<lbr/>
+<add_seal type="owner">Ex<lbr/>Bibl. Regia<lbr/>Berolin.</add_seal>
+<pg n="2"/>
+selbst empfinden; &#8211; Merkwürdige oder aufallende <rend class="latin">Pasagen</rend> sind<lbr type="BD"/> keine<lbr/>
+darin ausgeno<abbr type="topline" expand="mm">m</abbr>en die 6:<h>tn</h> und 8:<h>ven</h> &#8211; und mit diesen bitte ich<lbr type="BD"/><lbr/>
+meine schwester sich nicht gar <u>zu viel</u> abzugeben, damit sie sich<lbr/>
+dadurch ihre<lbr type="BD"/> ruhige, statte hand nicht verdirbt, und die hand ihre<lbr/>
+natürliche leichtigkeit,<lbr type="BD"/> gelengigkeit, und fliessende geschwindigkeit<lbr/>
+dadurch nicht verliert. &#8211; de<abbr type="topline" expand="nn">n</abbr><lbr type="BD"/> was hat man am Ende davon? &#8211; <lbr/>
+sie soll die 6:<h>tn</h> und 8:<h>v:</h> in der grösten ge<lbr type="BD"/>schwindigkeit machen, |: welches<lbr/>
+kein Mensch wird zuwegen bringen, selbst<lbr type="BD"/>&#160;<rend class="latin">clementi</rend> nicht :| so wird<lbr/>
+sie ein entsezliches Hackwerk hervorbringen, aber<lbr type="BD"/> sonst weiter in<lbr/>
+der Welt nichts! &#8211; <rend class="latin">Clementi</rend> ist ein <rend class="latin">Ciarlatano</rend> wie alle<lbr type="BD"/><lbr/>
+Wälsche. &#8211; er schreibt auf eine <rend class="latin">Sonate Presto</rend> auch wohl<lbr/>
+<rend class="latin">Prestissimo</rend> und <rend class="latin">alla<lbr type="BD"/> Breve</rend>. &#8211; und spiellt sie <rend class="latin">Allegro</rend> im<lbr/>
+<formula type="mfrac"><mn>4</mn><mi>4</mi></formula> tackt; &#8211; ich weis es, de<abbr type="topline" expand="nn">n</abbr> ich habe ihm<lbr type="BD"/> gehört. &#8211; was er<lbr/>
+recht gut macht sind seine 3:<h>tn</h>&#160;<rend class="latin">Passagen;</rend> &#8211; er hat aber in<lbr type="BD"/>&#160;<rend class="latin">London</rend><lbr/>
+Tag und Nacht darüber geschwizt; &#8211; ausser diesem hat er aber<lbr type="BD"/><lbr/>
+nichts &#8211; gar nichts &#8211; nicht den geringsten vortrag, noch geschmack,<lbr/>
+&#8211; viel<lbr type="BD"/> weniger Empfindung. &#8211; <lbr type="forced"/>
+Nun von Hr: <rend class="latin">v: Aman;</rend> &#8211; h<abbr type="curve">:</abbr>&#160;<rend class="latin">v:</rend> fichtl hat mir gesagt daß der<lbr/>
+Hofka<abbr type="topline" expand="mm">m</abbr>erath<lbr type="BD"/>&#160;<rend class="latin">Aman</rend> als ganz Närrisch gebunden se&#255;e. &#8211; daß<lbr/>
+war mir ganz Natürlich, de<abbr type="topline" expand="nn">n</abbr><lbr type="BD"/> er pflegt i<abbr type="topline" expand="mm">m</abbr>er ganz <rend class="latin">Moros</rend> herum<lbr/>
+zu gehen. &#8211; und ich sagte noch darauf;<lbr type="BD"/>&#160;<u>das <rend class="latin">Studium</rend> Mag wohl<lbr/>
+nicht ursache daran se&#255;n</u>. worauf H<abbr type="curve">:</abbr>&#160;<rend class="latin">v:</rend> fichtl nicht wenig lachte.<lbr/>
+um den <rend class="latin">Basilius aman</rend> ist mir aber sehr leid; &#8211; und in der<lbr/>
+that<lbr type="BD"/> von dem hätte ich es niemalen vermuthet; &#8211; eher würde<lbr/>
+ich zugegeben haben<lbr type="BD"/> daß er se&#255;e gescheider worden. &#8211; Nun &#8211; <lbr/>
+vieleicht ni<abbr type="topline" expand="mm">m</abbr>t er mich auch in<lbr type="BD"/> seine dienste we<abbr type="topline" expand="nn">n</abbr> ich nach Salzburg<lbr/>
+ko<abbr type="topline" expand="mm">m</abbr>e? &#8211; ich gehe gewis hin und melde<lbr type="BD"/> mich. &#8211; sollten sie etwa<lbr/>
+<pg n="3"/>
+ein Teutsches lied von seiner komposizion beko<abbr type="topline" expand="mm">m</abbr><lbr type="BD"/>en kö<abbr type="topline" expand="nn">n</abbr>en, so haben<lbr/>
+sie die güte und schicken sie es mir, damit ich was<lbr type="BD"/> zu lachen habe.<lbr/>
+ich will die <rend class="latin">Musique</rend> darauf Machen. &#8211; Doch Nein! &#8211; ich ke<abbr type="topline" expand="nn">n</abbr>e<lbr type="BD"/><lbr/>
+einen Narren hier, und der soll sie machen. &#8211; <lbr type="forced"/>
+wegen dem <rend class="latin">Varesco</rend> wissen sie noch nichts? &#8211; ich bitte sie vergessen<lbr/>
+sie<lbr type="BD"/> nicht; &#8211; dieweil ich in Salzburg wäre kö<abbr type="topline" expand="nn">n</abbr>ten wir so schön daran<lbr/>
+arbeiten,<lbr type="BD"/> we<abbr type="topline" expand="nn">n</abbr> wir unterdessen einen Plan haben. &#8211; <lbr type="forced"/>
+Nun leben sie recht wohl; meine frau und ich küssen ihnen<lbr/>
+1000mal die hände<lbr type="BD"/> und umarmen unsre liebe schwester von<lbr/>
+herzen und sind Ewig dero<lbr type="forced"/>
+<lbr type="forced"/>
+<rend class="latin">P: S:</rend> ich hoffe sie werden wohl<lbr type="forced"/>
+den <rend class="latin">varierten</rend> SingPart von der<lbr type="forced"/>
+<rend class="latin">Aria <u>non sò d'onde viene</u></rend> erhalten haben? &#8211; <tspdf>\hfill </tspdf>gehorsamste kinder<lbr type="BD"/><lbr type="forced"/>
+<ts>_________</ts><tshtm>__________________________________________________________</tshtm><tspdf>\hfill </tspdf>W: <rend class="latin">et</rend> C: Mozart <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<pg n="4"/>
+<anschrift rot="270">
+<add_seal type="post">Von Wien</add_seal><lbr/>
+<rend class="latin">Monsieur<lbr type="forced"/>
+Monsieur Leopold de Mozart<lbr type="forced"/>
+maitre de la Chapelle<lbr type="BD"/> de S:A:R:<lbr type="forced"/>
+à<lbr type="forced"/>
+<uu>Salzbourg</uu></rend></anschrift>
+</NI></letter>
+</text>
+</MUP>

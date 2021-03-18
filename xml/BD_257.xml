@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2013">2013-3</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=818</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">CH-Bps</bibl>
+            <bibl type="source" subtype="RISM">CH-Bps (Paul Sacher Stiftung</bibl>
+            <bibl type="source" subtype="RISM">Bibliothek)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:37:38 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_257.mup">
+<letter bd="257">
+<NI src="CH-Bps">
+<HEADER id="818">LEOPOLD MOZART AN MARIA ANNA MOZART IN SALZBURG<lbr/>
+MAILAND, 23. ODER 24. NOVEMBER 1771<lbr/>
+mit Nachschrift von Wolfgang Amadé Mozart an Maria Anna (Nannerl) Mozart</HEADER>
+<pg n="1"/>
+<ts>___________________________________________________________</ts><tspdf>\hfill </tspdf>Mayland d<abbr v="en"/> 24<lbr type="forced"/>
+<ts>___________________________________________________________</ts><tspdf>\hfill </tspdf>od<abbr v="er"/> 23 <rend class="latin">Nov<abbr type="curve">:</abbr></rend><lbr type="forced"/>
+<ts>____________________________________________________________________</ts><tspdf>\hfill </tspdf>1771<lbr type="forced"/>
+<lbr type="forced"/>
+Wir sind noch hier, und werd<abbr v="en"/> vermuthlich noch 8 täge hier<lbr/>
+verbleib<abbr v="en"/>, indem der Erzherzog erst am Dienstag von <rend class="latin">Varese</rend><lbr/>
+zurück ko<abbr type="topline" expand="mm">m</abbr>t und da<abbr type="topline" expand="nn">n</abbr> mit uns sprech<abbr v="en"/> wird. Nichts destoweniger<lbr/>
+werd<abbr v="en"/> wir, we<abbr type="topline" expand="nn">n</abbr> Gott will unter den erst<abbr v="en"/> 14 täg<abbr v="en"/> des<lbr/>
+<rend class="latin">Decembers</rend> in Salzb<abbr type="curve">:</abbr> eintreff<abbr v="en"/>: indem wir, we<abbr type="topline" expand="nn">n</abbr> wir uns<lbr/>
+auch unterwegs aufhalt<abbr v="en"/>, in 8 Täg<abbr v="en"/> von hier nach Salzb<abbr type="curve">:</abbr><lbr/>
+ko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>. Wir sind Gott Lob gesund: dein zukünftiges<lbr/>
+Schreib<abbr v="en"/>&#160;<rend class="latin">addressiere</rend> nur noch nach <rend class="latin">Verona</rend>, und ich glaube<lbr/>
+es wird das letzte se&#255;n, we<abbr type="topline" expand="nn">n</abbr> du nicht unterdess<abbr v="en"/> noch ein<abbr v="en"/><lbr/>
+and<abbr v="ern"/> Brief von mir beko<abbr type="topline" expand="mm">m</abbr>st. Wir hab<abbr v="en"/> hier i<abbr type="topline" expand="mm">m</abbr>er kaltes,<lbr/>
+aber sehr schönes Wetter; und es hat viele Zeit<lbr/>
+nicht geregnet. h<abbr type="curve">:</abbr>&#160;<rend class="latin">Marcobruni</rend>, in dess<abbr v="en"/> Zi<abbr type="topline" expand="mm">m</abbr>er ich<lbr/>
+dieses schreibe, empfehlt sich euch, wie auch be&#255;de h<abbr type="curve">:</abbr>&#160;<abbr expand="von">v</abbr><lbr/>
+Troger, <rend class="latin">Mr:</rend> und <rend class="latin">Mad:<h>me</h> D'asté</rend>. heut war<lbr/>
+h<abbr type="curve">:</abbr>&#160;<rend class="latin">Misliwetschek</rend> be&#255; uns, der gestern angeko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>,<lbr/>
+und die erste <rend class="latin">opera</rend> schreibt. h<abbr type="curve">:</abbr> von Mayr und<lbr/>
+h<abbr type="curve">:</abbr>&#160;<rend class="latin">de Chiusolis</rend> empf<abbr type="curve">:</abbr> sich auch. wir ko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/> oft<lbr/>
+zusa<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>, und gestern macht<abbr v="en"/> wir eine starke<lbr/>
+Musik be&#255; h<abbr type="curve">:</abbr> von Mayer. Wir empf<abbr type="curve">:</abbr> uns<lbr/>
+all<abbr v="en"/> gut<abbr v="en"/> freund<abbr v="en"/> und freundin<abbr v="en"/>, wir kiss<abbr v="en"/> euch 100000<lbr/>
+mahl <abbr expand="und">u</abbr> bin Dein alter<lbr type="forced"/>
+<ts>_______________________________________________</ts><tspdf>\hfill </tspdf>Mozart <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<pg n="2"/>
+<NS type="NS" schr_id="39409" adr_id="48817"><ts>_____</ts>Allerliebste schwester!<lbr type="forced"/>
+<lbr type="forced"/>
+Der h<abbr type="curve">:</abbr> von älfen ist zu Ma&#255;land, und ist i<abbr type="topline" expand="mm">m</abbr>er der<lbr/>
+nähmliche wie er zu wien und zu <rend class="latin">Paris</rend> ware. noch etwas<lbr/>
+neües weiß ich: der hl: <rend class="latin">manzoli</rend> der sonst von allen leüten<lbr/>
+als der gescheideste <suppl hand="self" pos="supra">unter de<abbr type="topline" expand="nn">n</abbr> <rend class="latin">castraten</rend></suppl> angesehen und gehalten worden,<lbr/>
+hat in seinen alten tägen ein stück seiner unvernunft<lbr/>
+und hoffahrt gezeigt. er war für die <rend class="latin">opera</rend> mit 500<lbr/>
+<rend class="latin">cigliati</rend> beschriben, und, weillen nichts von der <rend class="latin">serenata</rend><lbr/>
+in der <rend class="latin">scrittura</rend> gemeldet worden, so hat er für die<lbr/>
+<rend class="latin">serenata</rend> noch 500 <rend class="latin">cigliati</rend> haben wollen also 1000 <rend class="latin">cigliati</rend>.<lbr/>
+Der hof hat ihm nur 700 und eine schöne goldene<lbr/>
+Tosen gegeben, |: ich glaube es wäre genug :| er aber<lbr/>
+als ein <rend class="latin">castrat</rend> hat die 700 <rend class="latin">cigl:</rend> samt goldener <rend class="latin">tosen</rend><lbr/>
+zurück geben, und ohne nichts weggereiset: ich<lbr/>
+weis nicht was für ein ende diese <rend class="latin">histori</rend> nehmen<lbr/>
+wird. ich glaub ein übles. sonst weis ich nichts.<lbr/>
+meinen handkus an die mama. empfehlungen an<lbr/>
+alle gute freünde und freündinen. <rend class="latin">addio</rend>.<lbr/>
+lebe wohl. ich bin dein<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_________________</ts><tspdf>\hfill </tspdf>wahrer getreüer bruder<lbr type="forced"/>
+<ts>_________________</ts><tspdf>\hfill </tspdf>wolfgang
+</NS>
+<lbr/>
+<add_note schr_id="49553">Ein eigenhändiger Brief<lbr/>
+des großen Mozart, der<lbr/>
+unter den Papieren seines<lbr/>
+Sohnes Wolfgang Amadeus Mozart<lbr/>
+| gestorben in Carlsbad am 29<h><uu>ten</uu></h> Jul&#255; |<lbr/>
+gefunden wurde<ts>____</ts>J. Baroni.</add_note>
+</NI>
+</letter>
+</text>
+</MUP>

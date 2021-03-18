@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2013">2013-6</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=862</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:37:56 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_301.mup">
+<letter bd="301"><HEADER id="862">LEOPOLD MOZART AN MARIA ANNA MOZART IN SALZBURG<lbr/>
+MÜNCHEN, 14. DEZEMBER 1778</HEADER>
+<pg n="1"/>
+<ts>_______</ts><tshtm>_________________________________________________________</tshtm><tspdf>\hfill </tspdf>Münch<abbr v="en"/> d<abbr v="en"/> 14<h>t<abbr v="en"/></h>&#160;<rend class="latin">Dec<abbr type="curve">:</abbr></rend> 1774<lbr type="forced"/>
+<lbr type="forced"/>
+Ein<abbr v="en"/> Brief wirst du von mir erhalt<abbr v="en"/> hab<abbr v="en"/>; von dir hab aber<lbr/>
+ich noch nichts<lbr type="BD"/> geseh<abbr v="en"/>, vermuthlich glaubtest du vorhero eine <rend class="latin">adresse</rend><lbr/>
+nothwendig zu hab<abbr v="en"/>:<lbr type="BD"/> allein diese ist nicht nötig, auf d<abbr v="er"/> Post ist unser<lbr/>
+Aufenthalt schon bekannt.<lbr type="BD"/> zum Überfluss ka<abbr type="topline" expand="nn">n</abbr>st du unt<abbr v="en"/><lbr/>
+hinschreib<abbr v="en"/>, we<abbr type="topline" expand="nn">n</abbr> du willst: <u><rend class="latin">chez Mr: de<lbr type="BD"/> Pernat</rend> im <rend class="latin">Bellvalli</rend>sch<abbr v="en"/><lbr/>
+Hause</u>.<tshtm>_________</tshtm> Wir befind<abbr v="en"/> uns Gott Lob gesund! Wegen<lbr type="BD"/> der<lbr/>
+Na<abbr type="topline" expand="nn">n</abbr>erl habe noch kein Ort, das anständig wäre, aufbring<abbr v="en"/> kö<abbr type="topline" expand="nn">n</abbr><abbr v="en"/>,<lbr type="BD"/><lbr/>
+de<abbr type="topline" expand="nn">n</abbr> in diesem Punct ist hier in Münch<abbr v="en"/> sehr grosse Behutsa<abbr type="topline" expand="mm">m</abbr>keit<lbr/>
+nötig. Es ist auch noch ein Umstand. Hier ist es wie in Salzb<abbr type="curve">.</abbr><lbr/>
+Man ka<abbr type="topline" expand="nn">n</abbr> eine <rend class="latin">opera</rend>,<lbr type="BD"/> wo man zahlt, nicht öfter als zweymahl<lbr/>
+nach einander spiel<abbr v="en"/>, sonst würde<lbr type="BD"/> man wenig Leuthe im theater seh<abbr v="en"/>,<lbr/>
+da<abbr type="topline" expand="nn">n</abbr> muß man 2 und 3 woch<abbr v="en"/> wieder<lbr type="BD"/> and<abbr v="er"/>e <rend class="latin">opern</rend> aufführ<abbr v="en"/>, und<lbr/>
+erst wieder mit der vorig<abbr v="en"/> herausrück<abbr v="en"/>, so<lbr type="BD"/> nämlich, wie man<lbr/>
+es mit den <rend class="latin">Comœd</rend>i<abbr v="en"/> macht, und mit den <rend class="latin">Balletten</rend>. dess<lbr type="BD"/>weg<abbr v="en"/><lbr/>
+ke<abbr type="topline" expand="nn">n</abbr><abbr v="en"/> sie wenigst 20 <rend class="latin">opern</rend> auswendig mit den<abbr v="en"/> abgewechselt<lbr type="BD"/> wird,<lbr/>
+und unterdess<abbr v="en"/> wird wieder eine neue studiert. die <rend class="latin">opera</rend> des<lbr/>
+Wolfgang<lbr type="BD"/> wird also noch vor Weinacht<abbr v="en"/> und ich glaube am 29<h>t<abbr v="en"/></h><lbr/>
+das erste mahl<lbr type="BD"/> gegeb<abbr v="en"/>. Es ka<abbr type="topline" expand="nn">n</abbr> also wahrscheinlich<lbr/>
+gescheh<abbr v="en"/>, daß die Na<abbr type="topline" expand="nn">n</abbr>erl solche gar<lbr type="BD"/> nicht sieht. da<abbr type="topline" expand="nn">n</abbr> we<abbr type="topline" expand="nn">n</abbr> einmahl<lbr/>
+der <rend class="latin">Carneval</rend> recht angehet, so werd<abbr v="en"/> nur<lbr type="BD"/> leichte kleine <rend class="latin">operetten</rend><lbr/>
+auf einem klein<abbr v="en"/> Theater, das auf dem <rend class="latin">Redutten</rend>saal<lbr type="BD"/> aufgemacht<lbr/>
+wird, gespielt, wo eine versa<abbr type="topline" expand="mm">m</abbr>lung von Masquer<abbr v="en"/> ist, und<lbr/>
+wo<lbr type="BD"/> eine Menge spieltische sind, wo nichts als Lerm<abbr v="en"/>, Masqu<abbr v="en"/><lbr/>
+<rend class="latin">Conversation</rend>,<lbr type="BD"/> und auf viel<abbr v="en"/> Tisch<abbr v="en"/> gespielt wird. Hier wird nichts<lbr/>
+gescheides gemacht,<lbr type="BD"/> weil kein Aufmerksa<abbr type="topline" expand="mm">m</abbr>keit ist.<lbr type="forced"/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="2"/>
+das mehrere werde nächstens schreib<abbr v="en"/>. Nun suche die<lbr/>
+2 <rend class="latin">Lytanien de Venera<lbr type="BD"/>bili</rend>, od<abbr v="er"/> <u>Vom Hochwürdig<abbr v="en"/> Gut</u>, so<lbr/>
+im <u>Stundgebett gemacht werd<abbr v="en"/></u> heraus.<lbr type="BD"/> Eine <u>von mir</u>,<lbr/>
+es wird die <rend class="latin">Spartitur</rend> schon dabe&#255; lieg<abbr v="en"/>. <rend class="latin"><u>ex D.</u></rend><lbr/>
+die neuere, fangt<lbr type="BD"/> an, die Violin und <rend class="latin">Bass: Staccatto</rend>,<lbr/>
+und ke<abbr type="topline" expand="nn">n</abbr>st sie schon das 2<h>te</h> violin hat<lbr type="BD"/> be&#255;m <rend class="latin">Agnus Dei</rend><lbr/>
+lauter dreyfache Not<abbr v="en"/>.<tshtm>___</tshtm> Da<abbr type="topline" expand="nn">n</abbr> des Wolfgangs seine grosse<lbr type="BD"/><lbr/>
+<rend class="latin">Litaney</rend>. die <rend class="latin">Spartitur</rend> ist auch in blau Papier eingebund<abbr v="en"/><lbr/>
+dabe&#255;. <rend class="latin"><u>NB</u></rend> sehe<lbr type="BD"/> nach ob alle Sti<abbr type="topline" expand="mm">m</abbr><abbr v="en"/> dabe&#255; sind, da<abbr type="topline" expand="nn">n</abbr> es<lbr/>
+werd<abbr v="en"/> diese 2 <rend class="latin">Lytani<abbr v="en"/></rend> am<lbr type="BD"/> Neujahrstag im Stundgebett<lbr/>
+hier gemacht werd<abbr v="en"/>. Am Samstag abends muß<lbr type="BD"/> mans<lbr/>
+auf die Post geb<abbr v="en"/>, da<abbr type="topline" expand="nn">n</abbr> am sontag Geht die <rend class="latin">Dilligence</rend>.<lbr/>
+Die <rend class="latin">Adresse</rend><lbr type="BD"/>
+wird darauf geschrieb<abbr v="en"/>.<lbr type="forced"/>
+<tshtm>___________________________________</tshtm><rend class="latin">À Monsieur<lbr type="forced"/>
+Monsieur Jean Nepomuc de Pernat chanoine e grand<lbr/>
+Custos de Notre Dame<lbr type="forced"/>
+<tshtm>________________________________________________</tshtm>à<lbr type="forced"/>
+<tshtm>_______________________________________________________</tshtm><u>Munic</u></rend><lbr type="forced"/>
+Wir kiss<abbr v="en"/> euch viel 1000 mahl, empfehl<abbr v="en"/> uns aller orts <abbr expand="und">u</abbr> bin<lbr/>
+<tshtm>________________________________________</tshtm>dein alter<lbr type="forced"/>
+<ts>______________</ts><tshtm>____________________________________________________</tshtm><tspdf>\hfill </tspdf>Mzt <abbr expand="manu propria">mp</abbr>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+</letter>
+</text>
+</MUP>

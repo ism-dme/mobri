@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2009">2009-08-20</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=125</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:29:30 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/Doc1834_4_mup.txt">
+<HEADER id="125">JOHANN GABRIEL SEIDL, PROLOG „NUR LANGSAM ZÜNDET, WAS DER DICHTER SCHRIEB”<lbr/>
+Mit Widmung von Johann Ernst Krähmer an Constanze Mozart, Salzburg, 11. September 1834</HEADER>
+
+<pg n="1"/>
+<ts>__________________</ts><rend class="latin"><uu>Prolog.</uu></rend><lbr type="forced"/>
+<ts>_________</ts>Vom Herrn Professor Joha<abbr type="topline" expand="nn">n</abbr> Gabriel Seidl.<lbr type="forced"/><lbr type="forced"/>
+<lg type="poem"><lg type="stanza" n="1">Nur <u>langsam</u> zündet, was der <u>Dichter</u> schrieb,<lbr/>
+Des <u>Geistes</u> muß das <u>Wort</u> sich erst entbinden,<lbr/>
+Damit es, weckend den verwandten Trieb,<lbr/>
+In <u>anderer</u> Herzen Anklang möge finden;<lbr/>
+Und was für <u>warm</u> in seiner <u>Heimath</u> galt,<lbr/>
+Im <u>fremden</u> Lande klingt es <u>fremd</u> und <u>kalt</u>.</lg>
+
+<lg type="stanza" n="2">Der <u>Bildner</u> sucht des <u>Meisters</u> Kennerblick:<lbr/>
+Vom <u>Laien</u> weiß er sich nur <u>halb</u> verstanden;<lbr/>
+Gar wenig neidenswerth ist sein Geschick:<lbr/>
+Sein schönstes Werk ist <u>Ein Mahl</u> nur vorhanden;<lbr/>
+Vom <u>Herzen</u> reißen muß er sich sein Kind,<lbr/>
+Muß das <u>verlieren</u>, was die Welt <u>gewinnt</u>.</lg>
+
+<lg type="stanza" n="3">Nur <u>Eine</u> Kunst bestürmt das Herz im <u>Flug</u>,<lbr/>
+Sagt <u>allen</u> Völkern deutlich, wie sie’s meine;<lbr/>
+Dem Meister <u>hoch</u>, dem Laien <u>klar</u> genug,<lbr/>
+Bleibt, was sie schuf, ob <u>tausendfach</u>, das <u>Eine;</u><lbr/>
+Sie winkt durch’s Ohr auf Seele, Puls und Blick, &#8211; <lbr/>
+<u>Die glücklichste</u> der Künste heißt &#8211; <u>Musik</u>!</lg><lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="2"/>
+<lg type="stanza" n="4">Doch sie <u>verschwendet</u> ihre Gaben nicht,<lbr/>
+Nur <u>wenigen</u> verleiht sie Kraft und Weihe;<lbr/>
+Die Schar, für die sie ihre Lorbeern flicht,<lbr/>
+Ist eine <u>kleine</u>, <u>bald</u> gezählte Reihe. &#8211; <lbr/>
+So wählte sie auf <u>Deutschland’s</u> weiter Flur<lbr/>
+<u>Drey</u> auserkorne Lieblinge sich nur.</lg>
+<tspdf>\newpage</tspdf> 
+<lg type="stanza" n="5">Der Eine, den ihr schönster Kranz geschmückt,<lbr/>
+Wer kennt ihn nicht den kräft’gen, Ewig<uu>klaren,</uu><lbr/>
+Ob er des <u>Schmerzes</u> Blumen tändelnd pflückt,<lbr/>
+Ob er die <u>Hölle</u> weckt mit ihren Scharen;<lbr/>
+Gleich wahr in Andacht, Liebe, Freud und Schmerz? &#8211; <lbr/>
+Wem schlägt beym Nahmen <u>Mozart</u> nicht das Herz?</lg>
+
+<lg type="stanza" n="6">Der Zweyte, kindlich lächelnd noch als Greis,<lbr/>
+Der ewig<uu>heitere</uu> Mahler alles Schönen,<lbr/>
+Der selbst, zu seines lieben <u>Gottes</u> Preis,<lbr/>
+Die <u>Andacht</u> ausdrückt mit der <u>Freude</u> Tönen,<lbr/>
+<u>Natur</u> und <u>Kunst</u> im rührendsten Gemisch: &#8211; <lbr/>
+Ja, Vater <u>Haydn</u>! &#8211; auch <u>dein</u> Kranz ist noch frisch!</lg>
+
+<lg type="stanza" n="7">Und düsterer seh ich dort den Dritten steh’n,<lbr/>
+Sein mildes Auf umwölbt von finsteren Brauen;<lbr/>
+Gewalt’ger hör’ ich seine Töne weh’n<lbr/>
+Voll ernsten Schmerzes, voll von süßen Grauen;<lbr/>
+Hinüberragend in die Enkelwelt,<lbr/>
+Stehst du, <u>Beethoven</u>, &#8211; kühner Liederheld!</lg>
+<pg n="3"/>
+<lg type="stanza" n="8">Stolz blick auf diese <u>Drei</u> das Vaterland,<lbr/>
+Und hang an ihnen fest mit frommen Glauben:<lbr/>
+Denn was sie schufen, ist ein heilig’ Pfand,<lbr/>
+Und keine Zukunft kann es neidisch rauben! &#8211; <lbr/>
+Drum bleib’ ihm auch, <u>was ihren Nahmen trägt</u><lbr/>
+Als <u>werthes Kleinod</u>, warm an’s Herz gelegt.</lg>
+
+<lg type="stanza" n="9">Und seht! ein <u>solches Kleinod </u>hat das Glück<lbr/>
+In <u>unsre</u> Hand gespielt; &#8211; und also wagen<lbr/>
+Wir, Euch, als anspruchloses Erbestück,<lbr/>
+Es zu geneigter Würd’gung anzutragen!<lbr/>
+Laßt’s, <u>als ein Denkmal</u>, Euch willkommen seyn,<lbr/>
+Räumt ihm ein Plätzchen Eures <u>Herzens</u> ein!</lg>
+
+<lg type="stanza" n="10">Ist was wir biethen, gleich ein <u>Tröpflein</u> nur<lbr/>
+Aus jener Meister unerschöpftem Borne,<lbr/>
+Vielleicht die <u>kleinste Feldblum’</u> ihrer Flur<lbr/>
+Nur eine <u>hingeworfene</u>, <u>verlorne</u>, &#8211; <lbr/>
+So nehmt sie doch, nach unsrem Wunsch und Sinn,<lbr/>
+Als ein <u>Vergißmeinnicht,</u> empfänglich, hin!</lg></lg>
+<NS schr_id="76369">Zum Andenken, der hochverehrten Frau <rend class="latin">Constanze von Nissen</rend><lbr/>
+früheren theuren Lebensgefährtin unsers unsterblichen <rend class="latin">Mozar</rend>t<lbr type="forced"/>
+<ts>__________________</ts>gewidmet<lbr type="forced"/>
+<ts>____________________</ts>von <lbr type="forced"/>
+<ts>___</ts>Salzburg<ts>_________________________</ts><tspdf>\hfill </tspdf> Ihrem<lbr type="forced"/>
+am 11 September<ts>________________</ts><tspdf>\hfill </tspdf> Sie ewigverehrenden<lbr type="forced"/>
+<ts>_____</ts>1834.<ts>_____________________________</ts><tspdf>\hfill </tspdf> Ernst Krähmer.</NS>
+<pg n="4"/>
+<vacat/>
+</text>
+</MUP>

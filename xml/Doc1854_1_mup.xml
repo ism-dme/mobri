@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2010">2010-04</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=220</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:30:39 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/Doc1854_1_mup.txt">
+<HEADER id="220">GEORG WIDTER AN CARL THOMAS MOZART IN MAILAND<lbr/>
+VICENZA, 1. JANUAR 1854</HEADER>
+
+
+<pg n="1"/>
+<add_num impl="ink"><rend class="latin">N<h><uu>o</uu></h></rend> 66</add_num>
+<ts>______________________________________</ts><tspdf>\hfill </tspdf><rend class="latin">Vicenza</rend> 1/1 54.<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____</ts>Hochverehrthester Freund!<lbr type="forced"/>
+<lbr type="forced"/>
+Die Freundschaft, die bei 15 Grad <rend class="latin">Reaumir</rend> nicht<lbr/>
+erstarrt ist auch etwas werth, u. eine solche<lbr/>
+hegen wir für Sie, daher wird Ihnen nebst allem<lbr/>
+andern Guten auch aus vollster Seele einen<lbr/>
+recht warmen Ofen wünschen, damit es Ihnen<lbr/>
+nicht gehe wie heute Nacht einer armen Schildwache<lbr/>
+auf dem <rend class="latin">Monte Berico</rend> die erfror, für Italien<lbr/>
+gewiß auch eine schöne Erfindung.<lbr type="forced"/>
+Der kleine Bub, der sich auch Ihrer noch oft<lbr/>
+erinnert läßt dem <rend class="latin">Moretto</rend> ein fröhliches<lbr/>
+Neues Jahr wünschen.<lbr type="forced"/>
+<ts>_____________________________</ts><tspdf>\hfill </tspdf>Mit besonderer Hochachtung<lbr type="forced"/>
+<ts>_________________________</ts><tspdf>\hfill </tspdf>aber auch mit erstarrten Händen<lbr type="forced"/>
+<ts>_____________________________</ts><tspdf>\hfill </tspdf>Ihr ergebenster Diener<lbr type="forced"/>
+<ts>_________________________________</ts><tspdf>\hfill </tspdf>Widter u. Frau
+<pg n="2"/>
+<vacat/>
+<pg n="3"/>
+<vacat/>
+<pg n="4"/>
+<anschrift rot="90" lang="it"><rend class="latin">Al pregiatisso<lbr type="forced"/>
+Sigr<abbr type="curve"></abbr> Don Carlo Mozart<lbr type="forced"/>
+in<lbr type="forced"/>
+<u>Milano</u><lbr type="forced"/>
+alla Cavalchina</rend></anschrift><lbr type="forced"/>
+<add_note impl="pencil"><additum>[... (Berechnungen)]</additum></add_note><lbr type="forced"/>
+
+<add_seal type="post">MILANO<lbr type="forced"/>
+<formula type="mfrac"><mn>3</mn><mi>1</mi></formula></add_seal></text>
+</MUP>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2011">2011-05</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=778</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sca</bibl>
+            <bibl type="source" subtype="RISM">A-Sca (Salzburg Museum, Bibliothek)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:37:22 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_217.mup">
+<letter bd="217"><NI src="A-Sca"><HEADER id="778">LEOPOLD MOZART AN MARIA ANNA MOZART IN SALZBURG<lbr/>
+MAILAND, 3. NOVEMBER 1770<lbr/>
+mit Nachschrift von Wolfgang Amadé Mozart an Maria Anna (Nannerl) Mozart</HEADER>
+<pg n="1"/>
+<ts>______________</ts><tshtm>_____________________________________________________________</tshtm><tspdf>\hfill </tspdf>Mayland d<abbr v="en"/> 3<h>t<abbr v="en"/></h>&#160;<rend class="latin">Novb<abbr type="curve">.</abbr></rend> 1770.<lbr type="forced"/>
+<lbr type="forced"/>
+Mein Schreib<abbr v="en"/> vom 27<h>t<abbr v="en"/></h> wirst du erhalt<abbr v="en"/> hab<abbr v="en"/>. Deine Briefe habe alle<lbr type="BD"/> empf<abbr type="curve">:</abbr> &#8211; <lbr/>
+Ihr werdet, da dieses schreibe, schon längst von Triebenbach wied<abbr v="er"/><lbr type="BD"/> zurück se&#255;n.<lbr/>
+we<abbr type="topline" expand="nn">n</abbr> es in Salzb<abbr type="curve">:</abbr> so geregnet hat, wie hier, so habt ihr ein<abbr v="en"/><lbr type="BD"/> nassen Spass, od<abbr v="er"/> gar<lbr/>
+vielleicht ein<abbr v="en"/> kalt<abbr v="en"/> spass gehabt, de<abbr type="topline" expand="nn">n</abbr> es hat vielleicht be&#255; euch geschne&#255;et, wie in<lbr/>
+den <rend class="latin">bergama</rend>schkisch<abbr v="en"/> Gebürg<abbr v="en"/>, wo wir<lbr type="BD"/> von hier aus den Schnee lieg<abbr v="en"/> seh<abbr v="en"/>.<lbr type="forced"/>
+der Wolfg<abbr type="curve">:</abbr> bedanket sich be&#255; dir, be&#255; seiner schwester und be&#255; all<abbr v="en"/> gut<abbr v="en"/><lbr type="BD"/> freund<abbr v="en"/> und<lbr/>
+freindin<abbr v="en"/> für den Glückwunsch zu seinem Nahmens Tag, und<lbr type="BD"/> hoffet, we<abbr type="topline" expand="nn">n</abbr> uns der<lbr/>
+liebe Gott wied<abbr v="er"/> glückl: einand<abbr v="er"/> seh<abbr v="en"/> lässt, dir <u>in allem,</u> was du ihm gewunsch<abbr v="en"/> hast,<lbr/>
+vollko<abbr type="topline" expand="mm">m</abbr>nes Vergnüg<abbr v="en"/> und freude zu<lbr type="BD"/> mach<abbr v="en"/>. für die besond<abbr v="er"/><abbr v="en"/> Höflichkeit<abbr v="en"/>, die ihr<lbr/>
+in dem von Schiedenhofisch<abbr v="en"/> Hause empfang<abbr v="en"/>, mache nebst unserer be&#255;d<abbr v="en"/> gehorsa<abbr type="topline" expand="mm">m</abbr>st<abbr v="en"/><lbr/>
+Empfehlung auch entzwisch<abbr v="en"/> meine Danksagung, bis es selbst zu thun Gelegenheit<lbr/>
+habe. übrigens weis ich dir weiter nichts zu schreib<abbr v="en"/>, als daß wir<lbr type="BD"/> |: Gott Lob :|<lbr/>
+gesund sind, und wünschet<abbr v="en"/>, daß schon der Neue Jahrstag wäre,<lbr type="BD"/> od<abbr v="er"/> wenigst <u>Weinacht<abbr v="en"/>:</u><lbr/>
+de<abbr type="topline" expand="nn">n</abbr> bis dahin giebt es i<abbr type="topline" expand="mm">m</abbr>er i<abbr type="topline" expand="mm">m</abbr>er od<abbr v="er"/> was<lbr type="BD"/> zu thun, od<abbr v="er"/> was zu denk<abbr v="en"/>, vielleicht zu<lbr/>
+zeit<abbr v="en"/> ein<abbr v="en"/> klein<abbr v="en"/> Verdruss,<lbr type="BD"/> daß man Po<abbr type="topline" expand="mm">m</abbr>eranz<abbr v="en"/> scheiß<abbr v="en"/> möchte, und folglich unruhige<lbr/>
+täge. Gedult!<lbr type="BD"/> Es ist so vielles Unternehm<abbr v="en"/>, Gott se&#255; gebenede&#255;t, glücklich<lbr/>
+vorbe&#255;, und,<lbr type="BD"/> noch einmahl Gott se&#255; gelobt, mit Ehr<abbr v="en"/> vorbe&#255;! Wir werd<abbr v="en"/> uns<lbr/>
+mit der<lbr type="BD"/> hilfe Gottes durch die unvermeidlichen Verdrisse, die ied<abbr v="er"/><lbr/>
+Capellmeister von<lbr type="BD"/> d<abbr v="er"/> <rend class="latin">Virtuosa Canalia</rend> aussteh<abbr v="en"/> muß, auch glückl: durchbeissen,<lbr/>
+wie der Hanswurst durch den Dr&#8211; &#8211;berg.<lbr type="forced"/>
+Hat h<abbr type="curve">:</abbr> Wallner von Berchtesgad<abbr v="en"/> kein<abbr v="en"/> Brief od<abbr v="er"/> Geld von h<abbr type="curve">:</abbr> otto von<lbr type="BD"/> Frankfurt<lbr/>
+gebracht? &#8211; &#8211; <lbr type="forced"/>
+Man muß nicht vergess<abbr v="en"/> h<abbr type="curve">:</abbr> Hagenauer nebst meiner sond<abbr v="er"/>bar<abbr v="en"/> Empf<abbr type="curve">:</abbr> zu<lbr type="BD"/> bitt<abbr v="en"/>, daß<lbr/>
+h<abbr type="curve">:</abbr> Peisser das Geld von dem Buchhändler in Wie<abbr type="topline" expand="nn">n</abbr> empfange,<lbr type="BD"/> und zwar <u><rend class="latin">NB</rend></u> in<lbr/>
+<lbr/>
+<add_seal type="owner">MUS.C.A.<lbr/>SALZBURG</add_seal>
+<pg n="2"/>
+<add_note pos="top" rot="180">Der Anfang des Briefes, ist von <rend class="latin">Leopold Mozart</rend>, Vater des <lbr/>
+großen <rend class="latin">Wolfgang</rend>, die Stellen die durchgestrichen sind, wurden weg<pc force="weak">=</pc><lbr/>gelassen, das Übrige, von <rend class="latin">Nissen</rend> zu <rend class="latin">Mozart's Biographie</rend> benützt.</add_note><lbr/>
+wiener <rend class="latin">Current</rend>. du wirst alles aufgeschrieb<abbr v="en"/> find<abbr v="en"/>. du wirst<lbr type="BD"/> hoffentl: zu zeit<abbr v="en"/><lbr/>
+meine Peltz hab<abbr v="en"/> ausklopf<abbr v="en"/> lass<abbr v="en"/>, sonst hab<abbr v="en"/> die<lbr type="BD"/> schab<abbr v="en"/> alda fassnacht gehalt<abbr v="en"/>.<lbr/>
+Lebts be&#255;de gesund wir küss<abbr v="en"/> euch 100000<lbr type="BD"/> mahl <abbr expand="und">u</abbr> ich bin Dein alter<lbr type="forced"/>
+<ts>_____________</ts><tshtm>____________________________________________________________________________________________</tshtm><tspdf>\hfill </tspdf>Mozart <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+an alle gute freunde in und ausser dem Hause unsere Empfehlung<lbr/>
+die Freundin<abbr v="en"/> absond<abbr v="er"/>lich nicht zu vergess<abbr v="en"/>.<lbr type="forced"/>
+
+<NS type="NS" schr_id="39409" adr_id="48817">
+<ts>_________________________</ts>Allerliebstes herzens schwesterchen.<lbr type="forced"/>
+Ich bedanke mich be&#255; der mama und be&#255; dir für die redlichen wünsche,<lbr/>
+und<lbr type="BD"/> brenne vor begierde eüch beede bald wieder in Salzburg zu sehen.<lbr/>
+auf deinen<lbr type="BD"/> glückwunsch zu ko<abbr type="topline" expand="mm">m</abbr>en, so ka<abbr type="topline" expand="nn">n</abbr> ich dir sagen, daß ich bald<lbr/>
+argwohnet<lbr type="BD"/> hätte, das h<abbr type="curve">:</abbr> Martinelli dir deinen welschen wunsch aufge<pc force="weak">=</pc><lbr/>sezet hätte, weil<lbr type="BD"/> du aber imer die kluge schwester bist, und es so<lbr/>
+wizig hast gewust anzustellen, indem du nach deinen welschen glück=<lbr/>wunsch gleich die empfehlung<lbr type="BD"/>
+von h<abbr type="curve">:</abbr> Martinelli welche in nehmlicher<lbr/>schreibart geschrieben war, darunter<lbr type="BD"/> gesezet, so habe ich es, und<lbr/>
+war es mir ohnmöglich zu mercken, und sagte<lbr type="BD"/> gleich zum papa:<lbr/>
+Ach! könte ich doch so klug und wizig werden! dan sagte der<lbr/>
+papa: Ja das ist wahr, und ich sagte hernach: mich schläffert,<lbr/>
+und er sagt iezt<lbr type="BD"/> Just: höre auf. <rend class="latin">Addio</rend>, bitte gott daß die<lbr/>
+<rend class="latin">opera</rend> gut gehen möchte. Meinen<lbr type="BD"/> handkus an die Mama, und<lbr/>
+an alle beka<abbr type="topline" expand="nn">n</abbr>te meine Empfehlung, ich bin wie<lbr type="BD"/> allzeit dein<lbr type="forced"/>
+<ts>_________</ts><tshtm>____________________________________________________</tshtm><tspdf>\hfill </tspdf>bruder wolfgang Mozart <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<ts>_________</ts><tshtm>____________________________________________________</tshtm><tspdf>\hfill </tspdf>dessen finger von schreiben<lbr type="forced"/>
+<ts>_________</ts><tshtm>____________________________________________________</tshtm><tspdf>\hfill </tspdf><stroke>Müdhe</stroke>&#160;<stroke>Müdhe</stroke>&#160;<stroke>Müedes</stroke><lbr type="forced"/>
+<ts>_________</ts><tshtm>____________________________________________________</tshtm><tspdf>\hfill </tspdf>müde sind.
+</NS></NI></letter>
+</text>
+</MUP>

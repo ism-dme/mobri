@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2011">2011-05</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=769</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Privatbesitz (S. 1-2); A-Sm (S. 3-4)</bibl>
+            <bibl type="source" subtype="RISM">Privatbesitz, S. 1-2</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana), S. 3-4</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:37:19 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_208.mup">
+<letter bd="208"><HEADER id="769">WOLFGANG AMADÉ MOZART AN THOMAS LINLEY IN FLORENZ<lbr/>
+CROCE DEL BIACCO, 10. SEPTEMBER 1770<lbr/>
+mit Nachschrift von Leopold Mozart</HEADER>
+<pg n="1"/>
+<NI src="unbekannt">
+<rend class="latin">Caro Amico<lbr type="forced"/>
+<lbr type="forced"/>
+Finalmente ecco una mia lettera! vengo tardi, e tardi<lbr/>
+assai á rispondere alla sua<lbr type="BD"/> gentiliss:<h>ma</h> mandatami á<lbr/>
+Napoli, la quale peró non ricevei che due mesi<lbr type="BD"/> doppo<lbr/>
+che lei me l'aveva scritta. Il disegno del mio padre fú<lbr/>
+di prender la<lbr type="BD"/> Strada di loretto per Bologna, di lá di<lbr/>
+passare per Fiorenze, livorno, e Genua<lbr type="BD"/> á Milano,<lbr/>
+e per consequenza di farli una sorpresa, arrivando<lbr/>
+à Fiorenza<lbr type="BD"/> al improviso: ma avendo avuto il mio<lbr/>
+Padre la discrazia di farsi una<lbr type="BD"/> Schinccatura forte<lbr/>
+alla gamba |: essendo caduto il cavallo di Stanga<lbr/>
+della<lbr type="BD"/> sedia di Posta :| la quale ferita non solamente<lbr/>
+lo necessitó di stare tre settimane<lbr type="BD"/> nel letto, má<lbr/>
+lo fermó 7 settimane in Bologna, questo brutto<lbr/>
+accidente ci<lbr type="BD"/> obliga di mutar pensiere, e di<lbr/>
+andare per Parma à Milano.</rend><lbr type="forced"/>
+<pg n="2"/>
+<rend class="latin">Primo abbiamo perduti il tempo proprio di far quel viaggio; e secondo, non<lbr type="BD"/>
+v'é adesso il tempo proprio di farlo, (essendo tutto il mondo in campagna)<lbr type="BD"/>
+e di cavar ne anché le spese del viaggio.<lbr type="forced"/>
+Lei stia sicuro, che questo accidente<lbr type="BD"/>
+ci dispiace infinitamente. farei tutto il possibile di avere il piacere di abbracciare<lbr type="BD"/>
+il mio caro amico: ed il mio Padre unito con me avrebbe il piú gran desiderio<lbr type="BD"/>
+di rivedere il sig:<h>re</h> Gavard, e la sua Cariss:<h>ma</h> e gentiliss:<h>ma</h> famiglia, come<lbr type="BD"/>
+anché la Signora Corilla ed il sig: Nardini, e poi di ritornare á Bologna, se<lbr type="BD"/>
+fosse sicura speranza di cavare pure le spese del viaggio.<lbr type="forced"/>
+Quanto alle stampe perdute, il mio Padre pensò di servirla e ne giunse il<lbr type="BD"/>
+suo aviso a tempo di poter ricavarne due. Mi favorisca adunque avisarmi<lbr type="BD"/>
+presto qualche modo di poter mandargliele.<lbr/><lbr type="BD"/>
+mi conservi la sua cara amicizia, e creda pure che con innalterabile affetto<lbr type="BD"/>
+sempre sono e rimango<lbr type="forced"/>
+Bologna, 10 settembre 1770.<lbr type="forced"/>
+<ts>________________</ts><tshtm>_________________________________</tshtm><tspdf>\hfill </tspdf>Devotiss:<h>mo</h> Servitore ed affe:<h>mo</h> amico<lbr type="forced"/>
+<ts>_________________________________________________</ts><tspdf>\hfill </tspdf>Amadeo Wolfgango Mozart</rend>
+<NS type="NS" schr_id="39408"><rend class="latin">Favorisca di fare i nostri compti a tutti nostri amici ed amiche. Leopoldo Mozart.</rend></NS></NI>
+<pg n="3"/>
+<anschrift>
+<rend class="latin">À Monsieur<lbr type="forced"/>
+Monsieur Tomas Linley</rend><lbr type="forced"/>
+[... (Textverlust)] <rend class="latin">des Gavard<lbr type="forced"/>
+<u>des Pivels</u></rend> [... (Textverlust)]<ts>___________</ts><u><rend class="latin">[Flo]rence</rend></u>
+</anschrift><lbr/>
+<add_note><rend class="latin">A Letter to my G.<h>t</h> Grandfather from Mozart (1770)<lbr/>
+<ts>___________</ts>&#8211; from a collection in the possession of her Royal Highness<lbr/>
+<ts>_______</ts>the <u>Duchess of Gloucester, &#38; by her restored to my late Aunt &#8211;</u></rend></add_note>
+<pg n="4"/>
+<object type="draw"></object>
+</letter></text>
+</MUP>

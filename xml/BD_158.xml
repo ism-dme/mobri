@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2011">2011-05</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=719</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">CH-Bps</bibl>
+            <bibl type="source" subtype="RISM">CH-Bps (Paul Sacher Stiftung</bibl>
+            <bibl type="source" subtype="RISM">Bibliothek)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:37:03 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_158.mup">
+<letter bd="158">
+<NI src="CH-Bps">
+<HEADER id="719">WOLFGANG AMADÉ MOZART AN MARIA ANNA (NANNERL) MOZART IN SALZBURG<lbr/>
+MAILAND, 26. JANUAR 1770</HEADER>
+<pg n="1"/>
+Mich freuet es recht von ganzen herzen das<lbr/>
+du be&#255; dieser schlittenfahrt dich so sehr er<pc force="weak">=</pc><lbr/>gözet hast, und wünsche dir Tausend ge<pc force="weak">=</pc><lbr/>legenheiten zur ergözung, damit du recht<lbr/>
+lustig dein leben zubringen mögest.<lbr/>
+Aber eins verdrüst mich, das du den h<abbr type="curve">:</abbr> v:<lbr/>
+Mölk so unendlich seüfzen und leiden hast<lbr/>
+lassen, und das du mit ihm nicht schlitten<pc force="weak">=</pc><lbr/>gefahren bist, damit er dich hätte umschmeis<pc force="weak">=</pc><lbr/>sen könen: wie viel schnupfdichel wird<lbr/>
+er nicht den selbigen Tag wegen deiner<lbr/>
+gebraucht haben, vor weinen; er wird zwar<lbr/>
+schon vorher 2 loth weinstein eingenomen<lbr/>
+haben, die ihm die grausame unreini<pc force="weak">=</pc><lbr/>keit seines leibs, die er besizt, aus<pc force="weak">=</pc><lbr/>getriben wird haben. Neües weis ich nichts<lbr/>
+als das h<abbr type="curve">:</abbr> gelehrt, der <rend class="latin">poet</rend> zu leipzig<lbr/>
+gestorben ist, und dan nach seinen doth<lbr/>
+keine <rend class="latin">poesien</rend> mehr gemacht hat. Just, ehe<lbr/>
+ich diesen brief angefanget habe, habe<lbr/>
+<pg n="2"/>
+Ich eine <rend class="latin">aria</rend> aus dem <rend class="latin"><u>Demetrio</u></rend> verfertiget,<lbr/>
+welche anfängt so:
+<lg type="poem">
+<lg type="stanza" n="1"><ts>_________________</ts><rend class="latin">Misero Tu non sei:<lbr/>
+<ts>_________________</ts>Tu spieghi il Tuo Dolore;<lbr/>
+<ts>_________________</ts>se non desti amore;<lbr/>
+<ts>_________________</ts>Ritrovi almen pietà.</rend></lg>
+<ts>_______________________</ts>*
+<lg type="stanza" n="2"><ts>_________________</ts><rend class="latin">Misera ben son io<lbr/>
+<ts>_________________</ts>che nel segretto laccio<lbr/>
+<ts>_________________</ts>amo, non spero e taccio<lbr/>
+<ts>_________________</ts>e l'idol mio nol sà.</rend></lg>
+</lg>
+die <rend class="latin">opera</rend> zu <rend class="latin">mantua</rend> ist hübsch gewesen, sie haben den <rend class="latin">Demetrio</rend> gespillet, die<lbr/>
+<rend class="latin">prima Dona</rend> singt gut, aber still, und wenn man sie nicht <rend class="latin">agiren</rend> sehte,<lbr/>
+sondern singen nur allein, so meinete man, sie sienge nicht, dan<lbr/>
+den mund kan sie nicht eröpfen, sonder winselt alles her,<lbr/>
+welches uns aber nichts neües ist, zu hören. <rend class="latin">la seconda Dona</rend> macht<lbr/>
+ein ansehen wie ein <rend class="latin">granadierer</rend>, und hat auch eine star<pc force="weak">=</pc><lbr/>cke stime, und siengt wahrhaftig nicht übel auf daß <suppl hand="self" pos="supra">daß</suppl> sie<lbr/>
+daß erste mahl <rend class="latin">agieret</rend>. <rend class="latin">il primo uomo, il musico</rend>, singt<lbr/>
+schön, aber einne ungleiche stime, er nent sich <rend class="latin">Casselli</rend>.<lbr/>
+<rend class="latin">il Secondo uomo</rend>, ist schon alt, und mir gefält er nicht er<lbr/>
+nent sich<ts>________</ts><rend class="latin">Tenor</rend>. einer nent sich <rend class="latin">otini</rend>, welcher<lbr/>
+nicht übel singt, aber halt schwer, wie alle <rend class="latin">italieni</rend><abbr type="curve"></abbr><lbr/>
+<rend class="latin">Tenore</rend>, und ist unser sehr guter <tspdf>\newline</tspdf>freünd, der andere weis<lbr/>
+ich nicht wie er sich nent, er ist Jung noch, aber nicht viel<lbr/>
+rares. <rend class="latin">primo ballerino</rend>. gut. <rend class="latin">prima Ballerina</rend>: gut,<lbr/>
+und man sagt, sie se&#255;e gar kein hund nicht, ich<lbr/>
+aber habe sie zwahr in der nähe nicht gesehen, die<lbr/>
+übrigen aber wie alle andern: Ein <rend class="latin">Crudescer</rend> ist da<lbr/>
+gewesen, der gut springt, aber nicht so schreibt<lbr/>
+wie ich: wie die säü brunzen.<lbr type="forced"/>
+<pg n="3"/>
+das <rend class="latin">orcchestro</rend>, ist nicht übel gewesen. Zu <rend class="latin">Cremona</rend><lbr/>
+das <rend class="latin">orcchestro</rend> gut, und der erste <rend class="latin">Violin</rend>ist nent sich.<lbr/>
+<rend class="latin">Spangnoletto</rend>. <rend class="latin">prima Dona</rend>, nicht übel, schon alt glaub<lbr/>
+ich, wie ein hund, singt nicht so gut, als sie <rend class="latin">agiert</rend>,<lbr/>
+und ist die frau eines <rend class="latin">violi</rend>nisten, der be&#255; der<lbr/>
+<rend class="latin">opera</rend> mit geigt, und sie nent sich <rend class="latin">Masi</rend>. die<lbr/>
+<rend class="latin">opera</rend> nent sich: <rend class="latin">La clemenza di Tito. seconda<lbr/>
+Dona</rend>, auf den <rend class="latin">Theater</rend> kein hund, Jung, aber<lbr/>
+nichts rars. <rend class="latin">primo huomo. Musico cichognani.</rend> eine<lbr/>
+hübsche stime, und ein schönes <rend class="latin">Cantable</rend>. Die andern<lbr/>
+zwe&#255; <rend class="latin">Castraten</rend>, Jung, und <rend class="latin">pasabl</rend>. <rend class="latin">Tenor</rend>: nent<lbr/>
+sich: <rend class="latin">non lo sò</rend>. hat ein angenemes wesen an sich,<lbr/>
+sieht den <rend class="latin">le Roi:</rend> zu wien. der zum <rend class="latin">leman</rend> ist<lbr/>
+hinkomen, natürlich gleich: <rend class="latin">Ballerino primo</rend>: gut,<lbr/>
+<rend class="latin">Ballerina prima</rend>. gut, und ein sehr grosser hund.<lbr/>
+eine Tänzerin ist dort gewesen, die nicht übel ge<pc force="weak">=</pc><lbr/>Tanz hat, und was das nicht für ein <rend class="latin">Capod' opera</rend><lbr/>
+ist, ausser dem <rend class="latin">Theater</rend>, und in dem <rend class="latin">Theater</rend> kein<lbr/>
+hund ist. die übrigen wie alle. ein <rend class="latin">crudescer</rend> ist<lbr/>
+auch dort gewesen, der, be&#255; einem Jeden sprung<lbr/>
+einen streichen hat lassen. von <rend class="latin">Milano</rend>, kan<lbr/>
+ich dir wahrhaftig nicht viell schreiben, wir<lbr/>
+waren noch nicht in der <rend class="latin">opera</rend>, wir haben gehört<lbr/>
+daß die <rend class="latin">opera</rend> nicht graden hat. <rend class="latin">aprile primo<lbr/>
+uomo</rend> singt gut, hat eine schöne gleiche stime,<lbr/>
+wir haben ihn gehört in einer kirchen, wo Just ein<lbr/>
+grosses fest war: <rend class="latin">Madam piccinelli</rend> von <rend class="latin">paris</rend>,<lbr/>
+welche be&#255; unsern <rend class="latin">Concert</rend> gesungen hat, <rend class="latin">agiert</rend><lbr/>
+be&#255; der <rend class="latin">opera: Monsieur Bicch</rend>, welcher zu wien<lbr/>
+Tanzte, tanzt hier zu <rend class="latin">Milano</rend>. Die <rend class="latin">opera</rend> nent<lbr/>
+sich: <rend class="latin">Didone abbandonata</rend>. diese <rend class="latin">opera</rend> wird<lbr/>
+<pg n="4"/>
+bald aufhören, und <rend class="latin"><suppl hand="self" pos="supra">Sig.</suppl> piccini</rend> welcher die zukünftige<lbr/>
+<rend class="latin">opera</rend> schreibt, ist hier in <rend class="latin">Milano</rend>: habe gehört, seine<lbr/>
+<rend class="latin">opera</rend> heist: <rend class="latin">Cesare in eccito:</rend> es sind auch <rend class="latin">feste<lbr/>
+di Ballo</rend> hier: dan so bald die <rend class="latin">opera</rend> gar ist,<lbr/>
+nimt dan das fest <rend class="latin">di ballo</rend> seinen anfang:<lbr/>
+die hausmeisterin des <rend class="latin">Conte de Firminans</rend> ist<lbr/>
+eine wienerin, und vergangenen Freitag<lbr/>
+haben wir dort gespeist, und zukünftigen<lbr/>
+Sontag, werden wir auch dort speisen. lebe<lbr/>
+wohl, und küsse der mama <rend class="latin">in vece mia</rend> Tau<pc force="weak">=</pc><lbr/>sendmal die hände, massen ich bleibe dir<lbr/>
+bis in doth getreüer bruder<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>__________________________________________</ts><tspdf>\hfill </tspdf>Wolfgang <suppl hand="self" pos="supra">De</suppl> Mozart<lbr type="forced"/>
+<ts>___________________________________________</ts><tspdf>\hfill </tspdf>Edler von hochenthal<lbr type="forced"/>
+<ts>___________________________________________</ts><tspdf>\hfill </tspdf>freünd des zahlhau<pc force="weak">=</pc><lbr type="forced"/><ts>____________________________________________________</ts><tspdf>\hfill </tspdf>sens.<lbr type="forced"/>
+den 26 Jener 1770.
+</NI>
+</letter></text>
+</MUP>

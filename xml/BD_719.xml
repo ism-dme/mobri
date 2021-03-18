@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2017">2017-10</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1286</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">D-B (S. 1-2); B-MA (S. 3-4)</bibl>
+            <bibl type="source" subtype="RISM">D-B (Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Musikabteilung mit Mendelssohn-Archiv), S. 1-2</bibl>
+            <bibl type="source" subtype="RISM">B-MA (Musée de Mariemont</bibl>
+            <bibl type="source" subtype="RISM">Bibliothèque), S. 3-4</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:40:19 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_719.mup">
+<letter bd="719">
+<HEADER id="1286">WOLFGANG AMADÉ MOZART AN LEOPOLD MOZART IN SALZBURG<lbr/>
+WIEN, 4. JANUAR 1783</HEADER>
+<NI src="D-B">
+<pg n="1"/>
+<ts>_________</ts><tshtm>_________________________________________________________________________________</tshtm><tspdf>\hfill </tspdf><rend class="latin"><u>Vienne</u> ce</rend> 4 <rend class="latin">de Janvier</rend><lbr type="forced"/>
+<rend class="latin">Mon trés cher Pére!</rend><ts>_______</ts><tshtm>______________________________________________________________________________</tshtm><tspdf>\hfill </tspdf><uu>1783</uu><lbr type="forced"/>
+<lbr type="forced"/>
+Ich ka<abbr type="topline" expand="nn">n</abbr> ohnmöglich viel schreiben, weil <suppl hand="self" pos="supra">wir</suppl> erst von der Baron Waldstädten<lbr type="BD"/><lbr/>
+hereinko<abbr type="topline" expand="mm">m</abbr>en, ich mich Erst ganz vom fus auf ankleiden muß, weil ich zum<lbr type="BD"/><lbr/>
+Hr: Hofrath spiellma<abbr type="topline" expand="nn">n</abbr> in die <rend class="latin">accademie</rend> eingeladen bin. &#8211; für dem<lbr/>
+Neue=<lbr type="BD"/>Jahres Wunsch danken wir be&#255;de, und beke<abbr type="topline" expand="nn">n</abbr>en uns fre&#255;willig<lbr/>
+als ochsen<lbr type="BD"/> das wir ganz auf unsere schuldigkeit vergessen haben &#8211; wir<lbr/>
+ko<abbr type="topline" expand="mm">m</abbr>en also<lbr type="BD"/> hinten nach, und wünschen keinen NeuJahresWunsch, son<pc force="weak">=</pc><lbr/>dern wünschen<lbr type="BD"/> unsern allgemeinen alletags=Wunsch &#8211; und damit<lbr/>
+lassen wir es beruhen; &#8211;<lbr type="BD"/> wegen der <rend class="latin">Moral</rend> hat es ganz seine richtig<pc force="weak">=</pc><lbr/>keit; &#8211; es ist mir nicht ohne<lbr type="BD"/> vorsatz aus meiner feder geflossen &#8211; ich<lbr/>
+habe es in meinem herzen wirklich<lbr type="BD"/> versprochen, und hoffe es auch wirklich<lbr/>
+zu halten. &#8211; meine frau war als ich<lbr type="BD"/> es versprach, noch ledig &#8211; da ich<lbr/>
+aber fest entschlossen war sie bald nach<lbr type="BD"/> ihrer genesung zu he&#255;rathen,<lbr/>
+so ko<abbr type="topline" expand="nn">n</abbr>te ich es leicht versprechen &#8211; zeit und umstände aber vereitelten<lbr/>
+unsere Reise, wie sie selbst wissen; &#8211; zum beweis<lbr type="BD"/> aber der wirklich<pc force="weak">=</pc><lbr/>keit meines versprechens ka<abbr type="topline" expand="nn">n</abbr> die <rend class="latin">spart</rend> von der hälfte einer<lbr type="BD"/><lbr/>
+Messe dienen, welche noch in der besten hoffnung da liegt. &#8211; <lbr type="forced"/>
+Heute habe ich die ältere <rend class="latin">Contesse Balfi</rend> zur schüllerin beko<abbr type="topline" expand="mm">m</abbr>en, das ist,<lbr/>
+<add_note schr_id="57010"><ts>___________________________</ts>des Erzbischofs seiner Schwester</add_note>
+die<lbr type="BD"/> tochter des <encr expand="erzbischofs seiner schwester">lrzbfocusio olfnlr ocuwlotlr</encr> &#8211; aber ich bitte es noch be&#255;<lbr/>
+sich<lbr type="BD"/> zu behalten, inde<abbr type="topline" expand="mm">m</abbr> ich nicht gewiss wissen ka<abbr type="topline" expand="nn">n</abbr>, ob ma<abbr type="topline" expand="nn">n</abbr> es gerne wissen<lbr type="BD"/><lbr/>
+lässt. &#8211; die <rend class="latin">Sinfonie</rend> von der lezten hafner=<rend class="latin">Musique</rend> in Wie<abbr type="topline" expand="nn">n</abbr> verfertiget,<lbr type="BD"/><lbr/>
+ist mir gleichgültig ob in <rend class="latin">spart</rend> oder abgeschrieben, de<abbr type="topline" expand="nn">n</abbr> ich muß sie ohnehin<lbr type="BD"/><lbr/>
+zu meiner <rend class="latin">accademie</rend> öfters abschreiben lassen. &#8211; ich wünschte auch<lbr/>
+folgende<lbr type="BD"/>&#160;<rend class="latin">Sinfonien</rend> zu haben<lbr type="forced"/>
+<object type="mus" src="BD_0719_Mus"></object>
+<tspdf>\newpage</tspdf> 
+und das so bald möglich. &#8211; da<abbr type="topline" expand="nn">n</abbr> sind auch<lbr/>
+auf klein Papier blau ein<lbr type="BD"/>gebundener<lbr/>
+<rend class="latin">Contrapuncte</rend> von <rend class="latin">Eberlin</rend>, und etwelche<lbr type="forced"/>
+<lbr/>
+<add_seal type="owner">Ex<lbr/>Bibl. Regia<lbr/>Berolin.</add_seal>
+<pg n="2"/>
+<ts>________________________</ts><tshtm>________________</tshtm><rend class="latin">Sau<lbr type="BD"/><lbr type="forced"/>
+<ts>____________</ts><tshtm>________</tshtm>Porco<ts>___________________</ts><tshtm>___________</tshtm>Cochon.<lbr type="BD"/><lbr type="forced"/>
+<ts>________________________</ts><tshtm>________________</tshtm>Sus<lbr type="forced"/></rend>
+sachen von Ha&#255;dn dabe&#255;, welche ich gerne wegen <rend class="latin">Baron van Suiten</rend><lbr/>
+be&#255;<lbr type="BD"/> welchen alle So<abbr type="topline" expand="nn">n</abbr>tage von 12 bis 2 uhr bin; &#8211; sagen sie mir,<lbr/>
+sind in des<lbr type="BD"/> ha&#255;dn lezten <rend class="latin">Amts</rend>, oder <rend class="latin">vesper</rend>, oder in be&#255;dn,<lbr/>
+<rend class="latin">fugen</rend> von wichtigkeit? &#8211;<lbr type="BD"/> da<abbr type="topline" expand="nn">n</abbr> würden sie mich sehr verbinden, we<abbr type="topline" expand="nn">n</abbr><lbr/>
+sie mir be&#255;de sachen so nach<lbr type="BD"/> und nach in die spart setzn liessen.<lbr type="forced"/>
+Nun muß ich schliessen; &#8211; sie werden mein leztes sa<abbr type="topline" expand="mm">m</abbr>t Einschluß<lbr/>
+von der<lbr type="BD"/>&#160;<rend class="latin">Baronin</rend> richtig erhalten haben; &#8211; sie hat mir nicht ge<pc force="weak">=</pc><lbr/>sagt was sie ihnen<lbr type="BD"/> geschriebn, sondern nur daß sie sie um etwas<lbr/>
+die <rend class="latin">Musique</rend> betrefend gebeten<lbr type="BD"/> hat; &#8211; sie wird es mir aber gewis,<lbr/>
+weil sie gesehen daß ich gar keinen vorwitz<lbr type="BD"/> darauf habe, gewis sagen,<lbr/>
+so bald ich wieder hinaus ko<abbr type="topline" expand="mm">m</abbr>e, de<abbr type="topline" expand="nn">n</abbr> sie hat<lbr type="BD"/> einen grossen schus; &#8211; ich habe<lbr/>
+aber von einer dritten hand gehört daß sie<lbr type="BD"/> einen Menschen für sich<lbr/>
+haben möchte, inde<abbr type="topline" expand="mm">m</abbr> sie abreisen wird &#8211; Nun will<lbr type="BD"/> ich sie nur<lbr/>
+<rend class="latin">avertiren</rend>, daß we<abbr type="topline" expand="nn">n</abbr> dieses wahr ist, sie sich ein wenig in acht<lbr type="BD"/> nehmen<lbr/>
+möchten, weil sie <u>veränderlich</u> wie der Wind ist &#8211; und glaublich, ohn<pc force="inter">=</pc><lbr/>geacht sie sich es einbildet, schwerlich von Wie<abbr type="topline" expand="nn">n</abbr> wegko<abbr type="topline" expand="mm">m</abbr>en wird; &#8211; de<abbr type="topline" expand="nn">n</abbr><lbr type="BD"/><lbr/>
+sie reist schon so lange die Ehre habe sie zu ke<abbr type="topline" expand="nn">n</abbr>en. &#8211; Nun <rend class="latin">adieu</rend>,<lbr/>
+wir küssen<lbr type="BD"/> ihnen 1000mal die hände, und umarmen unsere<lbr/>
+liebe schwester von herzen<lbr type="BD"/> und sind Ewig dero<lbr type="forced"/>
+<lbr type="forced"/>
+<rend class="latin"><u>NB</u>:</rend> es ko<abbr type="topline" expand="mm">m</abbr>en nur 3 <rend class="latin">Concerte</rend> heraus;<lbr type="forced"/>
+und der Preis ist 4 <rend class="latin"><uu>duccaten</uu></rend>.<lbr type="forced"/>
+<ts>_____</ts><tshtm>________________________________________________________________</tshtm><tspdf>\hfill </tspdf>gehor kinder<lbr type="forced"/>
+<ts>_____</ts><tshtm>_______________________________________________________________</tshtm><tspdf>\hfill </tspdf>W. <rend class="latin">et</rend> C: Mozart <abbr expand="manu propria">mp</abbr><lbr/>
+</NI>
+<NI src="B-MA">
+<pg n="3"/>
+<vacat/>
+<pg n="4"/>
+<anschrift>
+<add_seal type="post">Von Wien</add_seal><lbr/>
+<rend class="latin">À<lbr type="forced"/>
+Monsieur<lbr type="forced"/>
+Monsieur Leoold de Mozart<lbr type="forced"/>
+Maitre de la Chapelle de S: A. R:<lbr type="forced"/>
+l'archevecque de et à<lbr type="forced"/>
+<uu>Salzbourg</uu></rend></anschrift>
+<lbr/>
+<add_note impl="pencil" schr_id="39408">1783<ts>___</ts>4 Je<abbr type="topline" expand="nn">n</abbr>er</add_note>
+<lbr/>
+<add_note impl="pencil" schr_id="48817">Beschaut.</add_note>
+<lbr/>
+<add_prov><rend class="latin">Autographe</rend> des unsterblichen W. A.<lbr/>
+<rend class="latin">Mozart</rend>, aus dem Nachlasse seines im<lbr/>
+Jahre <abbr type="topline">844</abbr> in <rend class="latin">Carlsbad</rend> gestorbenen Sohnes<lbr/>
+<ts>_______________________</ts>Wien 26' Jänner<lbr/>
+<ts>__________________________</ts><abbr type="topline">857</abbr><lbr/>
+<ts>_______________________________</ts><rend class="latin">J Baroni Cavalcabo</rend><lbr/>
+<ts>_________________________________</ts><rend class="latin">Castiglioni</rend></add_prov>
+</NI>
+</letter>
+</text>
+</MUP>

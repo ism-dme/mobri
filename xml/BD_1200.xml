@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2014">2014-6</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1771</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Verbleib unbekannt</bibl>
+            <bibl type="source" subtype="RISM">Verbleib unbekannt</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:42:28 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_1200.mup">
+<letter bd="1200"><NI src="Erstdruck"><HEADER id="1771">WOLFGANG AMADÉ MOZART, DER KUNSTREICHE HUND<lbr/>
+O. O., VOR DEZEMBER 1791</HEADER>
+<pg n="1"/>
+<ts>__________</ts><tshtm>_______</tshtm>Der kunstreiche Hund.<lbr type="forced"/>
+<ts>______________</ts><tshtm>____________</tshtm>Ein Gedicht.
+<lg type="poem"><lg type="stanza" n="1">O Musen! ich will Euch ein Dankopfer bringen,<lbr type="BD"/><lbr/>
+Helft mir nur den Groß=Buzigannerl besingen,<lbr type="BD"/><lbr/>
+Von dem man so Vieles und Schönes erzählt,<lbr type="BD"/><lbr/>
+So daß seines gleichen ist nicht in der Welt.<lbr type="BD"/></lg>
+
+<lg type="stanza" n="2">Ich hab ihn, den Gott aller Hunde, gesehen<lbr type="BD"/><lbr/>
+Und kann, ohne Furcht eine Sünde zu begehen,<lbr type="BD"/><lbr/>
+Euch schwören, daß ich seines gleichen nie fand,<lbr type="BD"/><lbr/>
+Und dieß sey gesagt allen Hunden zur Schand.<lbr type="BD"/></lg>
+
+<lg type="stanza" n="3">Nun werdet Ihr wohl vor Begierde fast brennen,<lbr type="BD"/><lbr/>
+Den Phönix der Hunde genauer zu kennen,<lbr type="BD"/><lbr/>
+Ihr sollt alles wissen; nur laßt mir auch Zeit.<lbr type="BD"/><lbr/>
+Das Sprichwort sagt: Ja, nach und nach kommt man weit.</lg>
+
+<lg type="stanza" n="4">Drum bitt' ich recht sehr, meine Herren und Damen,<lbr type="BD"/><lbr/>
+(Denn glaubt, selbst mein Herz ist schon vollends in Flammen,)<lbr type="BD"/><lbr/>
+Doch lagert Euch nur unterdessen ins Gras,<lbr type="BD"/><lbr/>
+Ich nehm eine Prise und putz meine Nas'.<lbr type="BD"/></lg>
+
+<lg type="stanza" n="5">Und fang unsern Helden dann an zu besingen<lbr type="BD"/><lbr/>
+So rührend, daß es Euch ans Herze wird dringen;<lbr type="BD"/><lbr/>
+Nur bitt' ich, seyd stille und redet kein Wort,<lbr type="BD"/><lbr/>
+Sonst bleib ich Euch stecken &#8211; und kann nimmer fort.<lbr type="BD"/></lg>
+
+<lg type="stanza" n="6">Nun dann, Buzigannerl, der König der Hunde,<lbr type="BD"/><lbr/>
+Ist eine Frucht Wiens, doch ich weiß nicht die Stunde,<lbr type="BD"/><lbr/>
+Noch Monath, noch Tag, als Zemir, die Mamma,<lbr type="BD"/><lbr/>
+Zur Welt ihn gebracht; von dem gnädigen Papa<lbr type="BD"/><lbr/>
+Ist uns nichts bewußt, weder Stand noch Name,<lbr type="BD"/><lbr/>
+Nur daß er vom östreich'schen Adel herstamme.<lbr type="BD"/></lg>
+
+<tspdf>\newpage</tspdf>&#160;<lg type="stanza" n="7">Die Mutter Zemir hat das Tages=Licht erblickt<lbr type="BD"/><lbr/>
+Dort, wo es Columben zum ersten geglückt,<lbr type="BD"/><lbr/>
+Ein Land zu entdecken. Sie hatte an Jahren<lbr type="BD"/><lbr/>
+Das sechzehnte kaum, ganz die Welt umfahren<lbr type="BD"/></lg>
+
+<lg type="stanza" n="8">Als ächte Vestalin, viel frischer als Eis<lbr type="BD"/><lbr/>
+Und reiner als Schnee; denn ich mach Euch nichts weis,<lbr type="BD"/><lbr/>
+<suppl schr_id="64691" pos="inline">Wenn ich Euch betheure, daß sie noch nicht wüßte,<lbr type="BD"/><lbr/>
+Wo einstens das <rend class="latin">Membrum virile</rend> 'nein müßte.</suppl><lbr type="BD"/></lg>
+
+<lg type="stanza" n="9">In diesem so unschuld'gen, glücklichen Stand<lbr type="BD"/><lbr/>
+War es, daß sie eben im leichten Gewand<lbr type="BD"/><lbr/>
+Am Ufer des Meeres ganz einsam spazierte,<lbr type="BD"/><lbr/>
+In Grillen vertieft, mit sich selbst <rend class="latin">discurirte</rend>,<lbr type="BD"/></lg>
+
+<lg type="stanza" n="10">Als plötzlich ein Mann von sehr hübscher Gestalt<lbr type="BD"/><lbr/>
+Und mittlerm Wuchs, nicht zu jung und nicht zu alt,<lbr type="BD"/><lbr/>
+Ihr gen überstand. &#8211; Denkt Euch einmal den Schrecken! -<pc force="inter">-</pc><lbr/>Sie zitterte &#8211; floh &#8211; und o Himmel! &#8211; blieb stecken</lg>
+
+<lg type="stanza" n="11">Im Koth &#8211; wollt sich helfen, &#8211; umsonst &#8211; denn sie fiel -<pc force="inter">-</pc><lbr/><suppl schr_id="64691" pos="inline">Und wies ganz entblößt ihm die Scheib sammt dem Ziel.<lbr type="BD"/><lbr/>
+Stellt Euch bei dem Anblick das Zittern und Beben<lbr type="BD"/><lbr/>
+Des Fremdlings nun vor. &#8211; All das ewige Leben<lbr type="BD"/></suppl></lg>
+
+<lg type="stanza" n="12"><suppl schr_id="64691" pos="inline">Dort oben |: so dacht er sich in seinem Sinn :|<lbr type="BD"/><lbr/>
+Gäb ich für solch schönen <rend class="latin">Prospect</rend> gerne hin.<lbr type="BD"/><lbr/>
+Er naht sich und will nun (sehr billig und weise)<lbr type="BD"/><lbr/>
+Sie heimlich bedecken, drum sucht er ganz leise<lbr type="BD"/></suppl></lg>
+
+<lg type="stanza" n="13"><suppl schr_id="64691" pos="inline">Ihr Hemd zu erhaschen; jedoch seine Hand<lbr type="BD"/><lbr/>
+Verirrt sich erzitternd in Hemd und Gewand,<lbr type="BD"/><lbr/>
+daß er statt zu decken, sie ärger entdeckte<lbr type="BD"/><lbr/>
+Und durch seine Unschicklichkeit sie erweckte.</suppl><lbr type="BD"/></lg>
+
+<lg type="stanza" n="14">Denn Leser, du brauchst Mädchenkenntniß nicht viel,<lbr type="BD"/><lbr/>
+Um leichtlich zu schließen, daß sie, da sie fiel<lbr type="BD"/><lbr/>
+Und in so sehr kritischer Lage sich wissen,<lbr type="BD"/><lbr/>
+Sich wenigstens ohnmächtig anstellen müssen.<lbr type="BD"/></lg>
+
+<tspdf>\newpage</tspdf>&#160;<lg type="stanza" n="15">Als sie nun erwachte, sprang sie plötzlich auf<lbr type="BD"/><lbr/>
+Und lies ganz dem Zorn und der Wuth vollen Lauf,<lbr type="BD"/><lbr/>
+Sie nahm ihn beym Schopf &#8211; warf ihn nieder und ratschte,<lbr type="BD"/><lbr/>
+Beohrfeigt' und maulschellte ihn, daß es klatschte.<lbr type="BD"/></lg>
+
+<lg type="stanza" n="16">Der arme Ritter litt alles getrost,<lbr type="BD"/><lbr/>
+Obwohl ihm nicht sonderlich schmeckte die Boßt;<lbr type="BD"/><lbr/>
+Er dacht sich, sie wird sich doch endlich ermüden,<lbr type="BD"/><lbr/>
+Es dauert ohnehin ja nichts ewig hienieden;<lbr type="BD"/></lg>
+
+<lg type="stanza" n="17">Und wie er dachte, so fügt' es sich's ietzt,<lbr type="BD"/><lbr/>
+(Denn nur die Geduld hat ihn dies 'mal geschützt :)<lbr type="BD"/><lbr/>
+Sie konnt' die Gelassenheit nimmer ertragen;<lbr type="BD"/><lbr/>
+Mit liebvollem Bratzerl faßt sie ihn beim Kragen</lg>
+
+<lg type="stanza" n="18">Und küßt die noch brennenden Backen ohn' Maas<lbr type="BD"/><lbr/>
+So daß er gar leicht all die Watschen vergas,<lbr type="BD"/><lbr/>
+Womit die Schöne ihn so gnädig beehrte<lbr type="BD"/><lbr/>
+Und, in der Geduld sich zu üben, ihn lehrte.<lbr type="BD"/></lg>
+
+<lg type="stanza" n="19">Er küßt ganz entzückt ihr dann Hand und Gesicht,<lbr type="BD"/><lbr/>
+Läßt sie dann auf seinem Schoos sitzen und spricht:<lbr type="BD"/><lbr/>
+O Schönste der Schönsten! &#8211; ich bitte, verzeihe<lbr type="BD"/><lbr/>
+Mir doch das Verbrechen, denn sieh' ich bereue<lbr type="BD"/></lg>
+
+<lg type="stanza" n="20">Von Herzen die That, ach! die Schuld war nicht mein.<lbr type="BD"/><lbr/>
+<suppl schr_id="64691" pos="inline">Warum muste eben Dein Steis so schön sein! -<pc force="inter">-</pc><lbr/>Du mußt folglich, Schöne, Dich selbst nur anklagen;<lbr type="BD"/><lbr/>
+Wer würde nicht alles bei solchem Reize wagen!</suppl></lg></lg>
+</NI></letter>
+</text>
+</MUP>

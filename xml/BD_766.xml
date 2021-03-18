@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2014">2014-5</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1335</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Wn (S. 1-2); A-Wst (S. 3-4)</bibl>
+            <bibl type="source" subtype="RISM">A-Wn (Österreichische Nationalbibliothek), S. 1-2</bibl>
+            <bibl type="source" subtype="RISM">A-Wst (Wienbibliothek im Rathaus, Musiksammlung), S. 3-4</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:40:30 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_766.mup">
+<letter bd="766"><HEADER id="1335">WOLFGANG AMADÉ MOZART AN LEOPOLD MOZART IN SALZBURG<lbr/>
+LINZ, 31. OKTOBER 1783</HEADER>
+<pg n="1"/>
+<NI src="A-Wn">
+<ts>______</ts><tshtm>______________________________________________________________________________</tshtm><tspdf>\hfill </tspdf><u>Linz</u>. den 31:<h>tn</h>&#160;<rend class="latin"><u>oct:</u><h>be</h></rend><lbr type="BD"/><lbr type="forced"/>
+<ts>______</ts><tshtm>_________________________________________________________________________________________________</tshtm><tspdf>\hfill </tspdf><uu>1783</uu><lbr type="forced"/>
+<lbr type="forced"/>
+Wir sind gestern frühe um 9 uhr glücklich hier angelangt. &#8211; den ersten<lbr/>
+tag<lbr type="BD"/> haben wir in vögelbruck übernachtet. &#8211; den folgenden sind wir<lbr/>
+vormittag in<lbr type="BD"/>&#160;<rend class="latin">Lambach</rend> angeko<abbr type="topline" expand="mm">m</abbr>en. &#8211; und ich kam eben recht um be&#255;<lbr/>
+dem amt das <rend class="latin">Agnus<lbr type="BD"/> dei</rend> mit der orgel zu begleiten. &#8211; der Hr:<lbr/>
+Prelat hatte die grösste freude mich<lbr type="BD"/> wieder zu sehen. &#8211; erzählte mir<lbr/>
+auch die <rend class="latin">anectode</rend> zwischen ihm und ihnen<lbr type="BD"/> in Salzburg. &#8211; wir<lbr/>
+blieben den ganzen tag alda, alwo ich auf der orgel und<lbr type="BD"/> auf<lbr/>
+einen <rend class="latin">clavicord</rend> spiellte. &#8211; ich hörte daß den andern tag zu<lbr/>
+Ebersperg be&#255;<lbr type="BD"/> h<abbr type="curve">:</abbr> Pfleger Steurer |: dessen gemahlin die schwester<lbr/>
+der fr: von <rend class="latin">Barisani</rend> ist :|<lbr type="BD"/> eine <rend class="latin">opera</rend> aufgeführt wird. &#8211; mithin fast<lbr/>
+ganz Linz aldort versa<abbr type="topline" expand="mm">m</abbr>elt se&#255;n<lbr type="BD"/> wird. &#8211; ich entschloß mich also auch<lbr/>
+dabe&#255; zu se&#255;n, und fuhren dahin. &#8211;<lbr type="BD"/> da ka<abbr type="topline" expand="mm">m</abbr> gleich der Junge<lbr/>
+graf thun |: bruder zu dem thun in Wie<abbr type="topline" expand="nn">n</abbr> :| zu<lbr type="BD"/> mir, und sagte mir<lbr/>
+daß sein h<abbr type="curve">:</abbr> Vater schon 14 tage auf mich wartete, und<lbr type="BD"/> ich<lbr/>
+möchte nur gleich be&#255; ihm anfahren, de<abbr type="topline" expand="nn">n</abbr> ich müsste be&#255; ihm <rend class="latin">Logi</rend>ren. &#8211;<lbr type="BD"/>&#160;<lbr/>
+Ich sagte ich würde schon in einem Wirthshause absteigen. &#8211; <lbr/>
+als wir den<lbr type="BD"/> andern tage zu <rend class="latin">Linz</rend> be&#255;m thor waren, war schon ein<lbr/>
+bedienter da, um uns<lbr type="BD"/> zum alten grafen thun zu führen, alwo<lbr/>
+wir nun auch <rend class="latin">Logi</rend>ren. &#8211; Ich ka<abbr type="topline" expand="nn">n</abbr> ihn<lbr type="BD"/> nicht genug sagen wie<lbr/>
+sehr man uns in diesem Hause mit höflichkeit über<lbr type="BD"/>schüttet. &#8211; <lbr/>
+Dienstag als den 4:<h>tn</h>&#160;<rend class="latin">Novembr</rend> werde ich hier im theater <rend class="latin">academie</rend><lbr type="BD"/><lbr/>
+geben. &#8211; und weil ich keine einzige Simphonie be&#255; mir habe, so<lbr/>
+schreibe ich<lbr type="BD"/> über hals und kopf an einer Neuen, welche bis dahin<lbr/>
+fertig se&#255;n muß. &#8211;<lbr type="BD"/> Nun muß ich schlüssen, weil ich nothwendiger<pc force="weak">=</pc><lbr/>weise arbeiten muß. &#8211; Meine<lbr type="BD"/> frau und ich küssen ihnen die hände,<lbr/>
+bitten um verzeihung daß wir ihnen so lange ungelegenheit gemacht<lbr/>
+haben, und danken nochmal recht sehr für alle<lbr type="BD"/> empfangene<lbr type="forced"/>
+<pg n="2"/>
+Nun leben sie wohl. &#8211; die Gretl, den Heinrich |: von welchem<lbr type="BD"/> ich hier<lbr/>
+schon viel gesprochen :| und die Ha<abbr type="topline" expand="nn">n</abbr>j grüssen wir von herzen. &#8211;<lbr type="BD"/>&#160;<lbr/>
+bessonders der gretl lass ich sagen, sie solle im singen keinen<lbr/>
+fuchsschwanz<lbr type="BD"/> gleichen; de<abbr type="topline" expand="nn">n</abbr> die leckere&#255;en und küssere&#255;en sind nicht<lbr/>
+allzeit angenehm. &#8211;<lbr type="BD"/> Nur du<abbr type="topline" expand="mm">m</abbr>e Eseln ka<abbr type="topline" expand="nn">n</abbr> man mit so was<lbr/>
+betrügen. &#8211; ich wenigstens will lieber<lbr type="BD"/> einen bauernkerl gedulden,<lbr/>
+der sich nicht scheuet vor meinen angesicht zu<lbr type="BD"/> scheissen und<lbr/>
+zu Prunzen, als daß ich mich durch so falsche kalfactere&#255;en<lbr/>
+über<lbr type="BD"/>tölpeln lassen kö<abbr type="topline" expand="nn">n</abbr>te, die doch so übertrieben sind, daß man<lbr/>
+sie mit Händen<lbr type="BD"/> greifen ka<abbr type="topline" expand="nn">n</abbr>. &#8211; Nun <rend class="latin"><uu>Adieu</uu>.</rend> &#8211; unsere liebe<lbr/>
+schwester küssen wir von ganzen<lbr type="BD"/> herzen. &#8211; ich bin Ewig dero<lbr/>
+danckbarster sohn<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>__________</ts><tshtm>__________________________________________</tshtm><tspdf>\hfill </tspdf>W. A: Mozart <abbr expand="manu propria">mp</abbr><lbr/>
+<lbr/>
+<add_seal type="owner">ÖST. NATIONALBIBLIOTHEK<lbr/>WIEN</add_seal></NI>
+<pg n="3"/>
+<tspdf>\newpage</tspdf> 
+<NI src="A-Wst">
+<anschrift><rend class="latin">À<lbr type="forced"/>
+Monsieur<lbr type="forced"/>
+Monsieur Leopold de Mozart<lbr type="forced"/>
+Maitre de la Chapelle<lbr type="BD"/><lbr type="forced"/>
+à<lbr type="forced"/>
+<uu>Salzbourg</uu></rend></anschrift>
+<lbr/>
+<add_note schr_id="48817">31t<abbr v="en"/> october<lbr/>1783.</add_note>
+<lbr/>
+<add_sign impl="ink" color="red">JN43039</add_sign>
+<pg n="4"/>
+<add_seal type="owner">WIENER STADTBIBLIOTHEK</add_seal>
+</NI></letter>
+</text>
+</MUP>

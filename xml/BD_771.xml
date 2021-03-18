@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2014">2014-5</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1340</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">F-Pn</bibl>
+            <bibl type="source" subtype="RISM">F-Pn (Bibliothèque nationale de France, Département de la Musique)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:40:31 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_771.mup">
+<letter bd="771"><NI src="F-Pn"><HEADER id="1340">WOLFGANG AMADÉ MOZART AN LEOPOLD MOZART IN SALZBURG<lbr/>
+WIEN, 10. DEZEMBER 1783</HEADER>
+<pg n="1"/>
+<add_note impl="pencil"><rend class="latin">Mozart</rend></add_note>
+<rend class="latin">Mon trés cher Pére!</rend> &#8211; <ts>________</ts><tshtm>________________________________________________________________</tshtm><tspdf>\hfill </tspdf><rend class="latin"><u>Vienne</u> ce</rend> 10<lbr type="forced"/>
+<ts>_____________</ts><tshtm>_______________________________________________________________________________________________</tshtm><tspdf>\hfill </tspdf><rend class="latin">de dec:<h>bre</h></rend>&#160;<uu>1783</uu><lbr type="forced"/>
+<add_num impl="ink"><ts>_______________________________________________________________________________________________________________________________________________</ts>207</add_num>
+<lbr type="forced"/>
+Ich schreibe ihnen nur in gröster E&#255;le daß ich die <rend class="latin">Opera</rend> den Rauchfangkehrer<lbr type="BD"/> schon<lbr/>
+um 6 duckaten gekauft und im hause habe. &#8211; geht künftigem So<abbr type="topline" expand="nn">n</abbr>tage<lbr type="BD"/> der Post<pc force="weak">=</pc><lbr/>wagen nach Salzburg, so gebe ich sie nebst den 2 <rend class="latin">Concerten</rend> mit; &#8211; wo<lbr type="BD"/> nicht,<lbr/>
+so schicke ich sie halt mit der Brief=Post. &#8211; wegen dem geld, so bitte ich<lbr type="BD"/> sie<lbr/>
+nur die 4 duckaten, welche sie die güte hatten mir vorzustrecken, abzu<lbr type="BD"/>ziehen; &#8211; <lbr/>
+die opera <rend class="latin">frà due Littiganti</rend> ist nicht teutsch übersezt. &#8211; nach ihrem<lbr type="BD"/> schreiben zu<lbr/>
+urtheilen, glauben sie der Rauchfangkehrer se&#255; eine Welsche<lbr type="BD"/>&#160;<rend class="latin">opera</rend>. &#8211; nein, es ist<lbr/>
+ein deutsches und oben drein Elendes <rend class="latin">original</rend>=Stück,<lbr type="BD"/> welches den h<abbr type="curve">:</abbr>&#160;<rend class="latin">Doctor</rend> Auern<pc force="weak">=</pc><lbr/>brucker in Wie<abbr type="topline" expand="nn">n</abbr> zum verfasser hat. &#8211; sie wer<lbr type="BD"/>den sich eri<abbr type="topline" expand="nn">n</abbr>ern daß ich ihnen<lbr/>
+davon erzehlet habe, das h<abbr type="curve">:</abbr> fischer öfentlich<lbr type="BD"/> auf dem theater darüber <rend class="latin">satirisirt</rend><lbr/>
+hat. &#8211; das schöne büchel davon wird h<abbr type="curve">:</abbr><lbr type="BD"/> kuhne wohl haben? &#8211; Ich bitte<lbr/>
+von uns be&#255;den an ihn und <suppl hand="self" pos="infra">an</suppl> Sie vielle<lbr type="BD"/> komplimenten zu machen. &#8211; wegen<lbr/>
+h<abbr type="curve">:</abbr> Lange und frau ist nur so viel wahr,<lbr type="BD"/> das er von S: M: Erlaubnüss erhalten,<lbr/>
+auf etwelche Monathe ein Reise zu<lbr type="BD"/> machen; &#8211; und sie werden vor ihrer abreise<lbr/>
+eine <rend class="latin">opera</rend> zu ihren vortheile geben,<lbr type="BD"/> und diese wird se&#255;n, meine Entführung aus<lbr/>
+dem Serail. &#8211; wegen h<abbr type="curve">:</abbr> schröder<lbr type="BD"/> ist aber kein Wort wahr. &#8211; <lbr type="forced"/>
+Mein leztes werden sie unterdessen schon erhalten haben. &#8211; thun sie ihr mög<lbr type="BD"/>lichstes<lbr/>
+daß mein Buch gut ausfällt. &#8211; ich wollte wünschen ich kö<abbr type="topline" expand="nn">n</abbr>te die<lbr type="BD"/> 2 frauenzi<abbr type="topline" expand="mm">m</abbr>er<lbr/>
+auch im ersten <rend class="latin">act</rend>, we<abbr type="topline" expand="nn">n</abbr> sie die <rend class="latin">Arien</rend> Singen, von der <rend class="latin">Basteie</rend><lbr type="BD"/> herab=bringen. &#8211; <lbr/>
+will ihnen gerne erlauben daß sie das ganze <rend class="latin">finale</rend> oben<lbr type="BD"/> singen. &#8211; <lbr type="forced"/>
+wegen den armen dicken fetten und lieben Büberl ist uns be&#255;den recht leid. &#8211;<lbr type="BD"/>&#160;<lbr/>
+Nun muß ich schlüssen liebster bester vater! &#8211; wir küssen ihnen be&#255;de die<lbr type="BD"/> hände,<lbr/>
+und unsre liebe schwester umarmen wir vom herzen und sind Ewig<lbr type="BD"/> dero<lbr type="forced"/>
+<lbr type="forced"/>
+an die gretl, Heinrich und Ha<abbr type="topline" expand="nn">n</abbr>chen<lbr type="forced"/>
+1.000000000 busserln. &#8211; <rend class="latin"><uu>Adieu</uu></rend><ts>___</ts><tshtm>________________________________________</tshtm><tspdf>\hfill </tspdf>gehorsamste kinder<lbr type="forced"/>
+<rend class="latin">P: S:</rend> an die Na<abbr type="topline" expand="nn">n</abbr>erl von uns be&#255;den <u>1:</u> ein paar ohrfeigen<ts>_____</ts><tspdf>\hfill </tspdf>W: <rend class="latin">et</rend> C: Mozart mp<lbr type="forced"/>
+2:<h>t</h> ein paar Maulschellen, 3:<h>t</h> ein paar Wachteln, 4: ein paar<lbr type="forced"/>
+watschen. &#8211; 5:<h>t</h> ein paar faunzen, und 6<h>t</h>: ein paar Maultaschen. &#8211; <lbr type="forced"/>
+<lbr type="forced"/>
+<add_seal type="owner">BIBLIOTHÈQUE NATIONALE<lbr/>
+RI<lbr/>
+MSS</add_seal>
+<pg n="2"/>
+<vacat/>
+<pg n="3"/>
+<rend class="latin">P: S:</rend> Wir bitten wegen den <u><rend class="latin">Tomaselli</rend></u> nicht zu<lbr/>
+vergessen. &#8211; da<abbr type="topline" expand="nn">n</abbr>, we<abbr type="topline" expand="nn">n</abbr> sie<lbr type="BD"/> uns mit gelegenheit ein paar <rend class="latin">Loretto</rend>[-]<lbr/>
+ki<abbr type="topline" expand="nn">n</abbr>dl<abbr v="en"/> schicken kö<abbr type="topline" expand="nn">n</abbr>ten. &#8211; da<abbr type="topline" expand="nn">n</abbr> aber<lbr type="BD"/> hauptsächlich wegen der <rend class="latin">Liserl</rend><lbr/>
+welche öfters ins hause geko<abbr type="topline" expand="mm">m</abbr>en ist, die Basel<lbr type="BD"/> von der Tresel. &#8211; <lbr/>
+we<abbr type="topline" expand="nn">n</abbr> sie will nach Wie<abbr type="topline" expand="nn">n</abbr> ko<abbr type="topline" expand="mm">m</abbr>en, so nehmen wir sie gleich.<lbr type="BD"/> &#8211; Nun <rend class="latin"><uu>adi[eu]</uu></rend><lbr/>
+im Ernst. &#8211; <lbr type="forced"/>
+<pg n="4"/>
+<vacat/>
+</NI>
+</letter>
+</text>
+</MUP>

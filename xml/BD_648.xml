@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2013">2013-12</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1214</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm (S. 1-4); Verbleib unbekannt (S. 5)</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana), S. 1-4</bibl>
+            <bibl type="source" subtype="RISM">Verbleib unbekannt, S. 5</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:39:58 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_648.mup">
+<letter bd="648"><HEADER id="1214">WOLFGANG AMADÉ MOZART AN LEOPOLD MOZART IN SALZBURG<lbr/>
+WIEN, 15. DEZEMBER 1781<lbr/>
+mit Nachschrift an Maria Anna (Nannerl) Mozart</HEADER>
+<pg n="1"/>
+<add_num type="inline" impl="ink">124</add_num><ts>________</ts><tshtm>_______________________________________________________________</tshtm><tspdf>\hfill </tspdf><rend class="latin"><u>Vie<abbr type="topline" expand="nn">n</abbr>e</u> ce</rend> 15 <rend class="latin">de Dec:<h>bre</h></rend><lbr type="forced"/>
+<rend class="latin">Mon trés cher Pére!</rend><ts>_______</ts><tshtm>_______________________________________________________________</tshtm><tspdf>\hfill </tspdf><uu>1781</uu><lbr type="forced"/>
+<lbr type="forced"/>
+diesen augenblick erhalte ich ihr schreiben vom 12:<h>ten</h> &#8211; durch h<abbr type="curve">:</abbr><lbr/>
+<rend class="latin">v: Dau<lbr type="BD"/>brawaick</rend> werden sie diesen brief, die uhr, die Münchner <rend class="latin">opera</rend>,<lbr/>
+die 6 ge<lbr type="BD"/>stochenen Sonaten, die Sonate auf 2 klavier, und die<lbr/>
+<rend class="latin">Cadenzen</rend> erhalten. &#8211;<lbr type="BD"/> wegen der Prinzessin vom Würtenberg und<lbr/>
+mit mir ist es schon vorbe&#255;; der<lbr type="BD"/> ka&#255;ser hat es mir verdorben, de<abbr type="topline" expand="nn">n</abbr><lbr/>
+be&#255; ihm ist nichts als <rend class="latin">Salieri</rend>. &#8211; der Erz<lbr type="BD"/>herzog Maximilian hat ihr<lbr/>
+<u>Mich</u> angetragen; &#8211; sie hat ihm geantwortet; we<abbr type="topline" expand="nn">n</abbr> es auf sie ange<pc force="weak">=</pc><lbr/>ko<abbr type="topline" expand="mm">m</abbr>en wäre, so hätte sie nie keinen andern geno<abbr type="topline" expand="mm">m</abbr>en.<lbr type="BD"/> aber der<lbr/>
+ka&#255;ser hätte ihr den <rend class="latin">Salieri</rend> angetragen; wegen dem Singen. es<lbr/>
+wäre<lbr type="BD"/> ihr recht leid. wegen dem was sie vom Würtenbergischem hause<lbr/>
+und ihnen<lbr type="BD"/> geschrieben haben, ist nicht ohnmöglich daß es mir vieleicht<lbr/>
+dienen kö<abbr type="topline" expand="nn">n</abbr>te. &#8211; <lbr type="forced"/>
+liebster vatter! sie fordern von mir die erklärung der Worte die<lbr/>
+ich zu Ende<lbr type="BD"/> meines lezten briefes hingeschrieben habe! &#8211; O wie<lbr/>
+gerne hätte ich ihnen nicht<lbr type="BD"/> längst mein Herz eröfnet; aber der<lbr/>
+vorwurf welchen sie mir hätten machen<lbr type="BD"/> kö<abbr type="topline" expand="nn">n</abbr>en, <u>auf so was<lbr/>
+zur unzeit zu denken</u>, hielte mich davon ab &#8211; obwohlen<lbr type="BD"/> denken<lbr/>
+niemalen zur unzeit se&#255;n ka<abbr type="topline" expand="nn">n</abbr>. &#8211; Mein bestreben ist unter<pc force="weak">=</pc><lbr/>dessen<lbr type="BD"/> etwas wenig <u>gewisses</u> hier zu haben &#8211; da<abbr type="topline" expand="nn">n</abbr> lässt es sich<lbr/>
+mit der hülfe des<lbr type="BD"/> unsichern ganz gut hier leben; &#8211; und da<abbr type="topline" expand="nn">n</abbr> &#8211; <lbr/>
+zu he&#255;rathen! &#8211; sie erschröcken<lbr type="BD"/> vor diesen gedanken? &#8211; ich bitte<lbr/>
+sie aber, liebster, bester vatter, hören sie<lbr type="BD"/> mich an! &#8211; ich habe ihnen<lbr/>
+mein anliegen entdecken müssen, nun erlauben sie<lbr type="BD"/> auch daß ich<lbr/>
+ihnen meine ursachen und zwar sehr gegründete ursachen ent<lbr type="BD"/>decke.<lbr/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="2"/>
+die Natur spricht in mir so laut, wie in Jedem andern, und vieleicht<lbr type="BD"/><lbr/>
+läuter als in Manchem grossen, starken li<abbr type="topline" expand="mm">m</abbr>el. Ich ka<abbr type="topline" expand="nn">n</abbr> ohnmöglich<lbr/>
+so leben<lbr type="BD"/> wie die Meisten dermaligen Jungen leute. &#8211; Erstens habe<lbr/>
+ich zu viel <rend class="latin">Religion</rend>,<lbr type="BD"/> zwe&#255;tens zu viel liebe des Nächstens und zu<lbr/>
+Ehrliche gesi<abbr type="topline" expand="nn">n</abbr>ungen als daß ich<lbr type="BD"/> ein unschuldiges Mädchen an<pc force="weak">=</pc><lbr/>führen kö<abbr type="topline" expand="nn">n</abbr>te, und drittens zu viel Grauen und<lbr type="BD"/> Eckel, scheu<lbr/>
+und forcht vor die krankheiten, und zu viel liebe zu meiner<lbr/>
+ge<lbr type="BD"/>sundheit als daß ich mich mit hurren herum balgen kö<abbr type="topline" expand="nn">n</abbr>te;<lbr/>
+dahero ka<abbr type="topline" expand="nn">n</abbr> ich<lbr type="BD"/> auch schwören daß ich noch mit keiner frauens<pc force="weak">=</pc><lbr/>Person auf diese art etwas<lbr type="BD"/> zu thun gehabt habe. &#8211; de<abbr type="topline" expand="nn">n</abbr><lbr/>
+we<abbr type="topline" expand="nn">n</abbr> es geschehen wäre, so würde ich es ihnen<lbr type="BD"/> auch nicht verheelen,<lbr/>
+de<abbr type="topline" expand="nn">n</abbr>, fehlen ist doch i<abbr type="topline" expand="mm">m</abbr>er dem Menschen Natürlich<lbr type="BD"/> genug, und<lbr/>
+<u>einmal</u> zu fehlen wäre auch nur blosse schwachheit, &#8211; obwohlen<lbr type="BD"/><lbr/>
+ich mir nicht zu versprechen getrauete, daß ich es be&#255; einmal<lbr/>
+fehlen bewenden<lbr type="BD"/> lassen würde, we<abbr type="topline" expand="nn">n</abbr> ich in diesem Punckt ein<lbr/>
+einzigesmal fehlete. &#8211; darauf<lbr type="BD"/> aber ka<abbr type="topline" expand="nn">n</abbr> ich leben und sterben.<lbr/>
+ich weis wohl daß diese ursache |: so stark<lbr type="BD"/> sie i<abbr type="topline" expand="mm">m</abbr>er ist :| doch<lbr/>
+nicht erheblich genug dazu ist &#8211; Mein <rend class="latin">temperament</rend> aber,<lbr type="BD"/> welches<lbr/>
+mehr zum ruhigen und häüslichen leben als zum lärmen ge<pc force="weak">=</pc><lbr/>neigt ist &#8211;<lbr type="BD"/> ich der von Jugend auf niemalen gewohnt war auf<lbr/>
+meine sachen, was Wäsche,<lbr type="BD"/> kleidung und &#38;c: anbelangt, acht<lbr/>
+zu haben &#8211; ka<abbr type="topline" expand="nn">n</abbr> mir nichts nöthigers<lbr type="BD"/> denken als eine frau. &#8211; <lbr/>
+Ich versichere sie, was ich nicht unützes öfters ausgebe,<lbr type="BD"/> weil ich<lbr/>
+auf nichts acht habe. &#8211; ich bin ganz überzeugt, daß ich mit einer<lbr type="BD"/><lbr/>
+frau |: mit dem nämlichen einko<abbr type="topline" expand="mm">m</abbr>en, daß ich allein habe :|<lbr/>
+besser ausko<abbr type="topline" expand="mm">m</abbr>en werde, als so. &#8211; und wie viele unütze<lbr/>
+ausgaben fallen nicht weg? &#8211; man<lbr type="BD"/> beko<abbr type="topline" expand="mm">m</abbr>t wieder andere<lbr/>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="3"/>
+dafür, das ist wahr, allein &#8211; man weis sie, ka<abbr type="topline" expand="nn">n</abbr> sich<lbr type="BD"/> darauf richten,<lbr/>
+und mit einem Worte, man führt ein ordentliches leben. &#8211; <lbr type="forced"/>
+ein lediger Mensch lebt in meinen Augen nur halb. &#8211; ich hab<lbr/>
+halt solche<lbr type="BD"/> augen, ich ka<abbr type="topline" expand="nn">n</abbr> nicht dafür. &#8211; ich habe es genug überlegt<lbr/>
+und bedacht &#8211; ich<lbr type="BD"/> muß doch i<abbr type="topline" expand="mm">m</abbr>er so denken.<lbr type="forced"/>
+Nun aber wer ist der Gegenstand meiner liebe? &#8211; erschröcken sie<lbr/>
+auch da nicht,<lbr type="BD"/> ich bitte sie; &#8211; doch nicht eine Weberische? &#8211; Ja eine<lbr/>
+Weberische &#8211; aber nicht<lbr type="BD"/>&#160;<rend class="latin">Josepha</rend> &#8211; nicht <rend class="latin">Sophie</rend> &#8211; sondern <rend class="latin">Costanza;</rend><lbr/>
+die Mittelste. &#8211; Ich habe in<lbr type="BD"/> keiner <rend class="latin">famille</rend> solche ungleichheit<lbr/>
+der gemüther angetroffen wie in dieser. &#8211;<lbr type="BD"/> die Älteste ist<lbr/>
+eine faule, grobe, falsche Perso<abbr type="topline" expand="nn">n</abbr>, die es dick hinter den ohren<lbr type="BD"/><lbr/>
+hat. &#8211; die Langin ist eine falsche, schlechtdenkende Perso<abbr type="topline" expand="nn">n</abbr>, und<lbr/>
+eine<lbr type="BD"/>&#160;<rend class="latin">Coquette</rend>. &#8211; die Jüngste &#8211; ist noch zu Jung um etwas<lbr/>
+se&#255;n zu kö<abbr type="topline" expand="nn">n</abbr>en. &#8211; ist<lbr type="BD"/> nichts als ein gutes aber zu leichtsi<abbr type="topline" expand="nn">n</abbr>iges<lbr/>
+geschöpf! gott möge sie vor ver<lbr type="BD"/>führung bewahren. &#8211; die Mittelste<lbr/>
+aber, nemlich meine gute, liebe konstanze<lbr type="BD"/> ist &#8211; die Marterin<lbr/>
+darunter, und eben deswegen vieleicht die gutherzigste,<lbr type="BD"/> geschickteste<lbr/>
+und mit einem worte die beste darunter. &#8211; die ni<abbr type="topline" expand="mm">m</abbr>t sich um<lbr type="BD"/><lbr/>
+alles im hause an &#8211; und ka<abbr type="topline" expand="nn">n</abbr> doch nichts recht thun. O Mein<lbr/>
+bester vatter, ich<lbr type="BD"/> kö<abbr type="topline" expand="nn">n</abbr>te ganze Bögen voll schreiben, we<abbr type="topline" expand="nn">n</abbr> ich ihnen<lbr/>
+alle die auftritte be<lbr type="BD"/>schreiben sollte, die mit uns be&#255;den in diesem<lbr/>
+hause vorgegangen sind. we<abbr type="topline" expand="nn">n</abbr><lbr type="BD"/> sie es aber verlangen, werde ich es<lbr/>
+im Nächsten briefe thun. &#8211; bevor ich ihnen<lbr type="BD"/> von meinem gewäsche<lbr/>
+fre&#255; mache, muß ich ihnen doch noch näher mit dem<lbr type="BD"/> karackter meiner<lbr/>
+liebsten konstanze beka<abbr type="topline" expand="nn">n</abbr>t machen. &#8211; sie ist nicht hässlich,<lbr type="BD"/> aber<lbr/>
+auch nichts weniger als schön. &#8211; ihre ganze schönheit besteht, in zwe&#255;<lbr type="BD"/><lbr/>
+kleinen schwarzen augen, und in einen schönen Wachsthum.<lbr/>
+sie hat keinen<lbr type="BD"/> Witz, aber gesunden Menschenverstand genug,<lbr/>
+um ihre Pflichten als eine<lbr type="BD"/> frau und Muter erfüllen zu kö<abbr type="topline" expand="nn">n</abbr>en.<lbr/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<pg n="4"/>
+sie ist nicht zum aufwand geneigt, das<lbr type="BD"/> ist grundfalsch. &#8211; im gegen<pc force="weak">=</pc><lbr/>theil ist sie gewohnt schlecht gekleidet zu se&#255;n. &#8211;<lbr type="BD"/> de<abbr type="topline" expand="nn">n</abbr>, das wenige<lbr/>
+was die Muter ihren kindern hat thun kö<abbr type="topline" expand="nn">n</abbr>en, hat sie den<lbr type="BD"/> zwe&#255;<lbr/>
+andern gethan, ihr aber niemalen. &#8211; das ist wahr daß sie gern<lbr/>
+Nett<lbr type="BD"/> und reinlich, aber nicht <rend class="latin">propre</rend> gekleidet wäre. &#8211; und das<lbr/>
+Meiste was ein<lbr type="BD"/> frauenzi<abbr type="topline" expand="mm">m</abbr>er braucht, ka<abbr type="topline" expand="nn">n</abbr> sie sich selbst machen.<lbr/>
+und sie <rend class="latin">frisirt</rend> sich auch<lbr type="BD"/> alle tage selbst. &#8211; versteht die haus<pc force="weak">=</pc><lbr/>wirthschaft, hat das beste herz von der<lbr type="BD"/> Welt &#8211; ich liebe sie,<lbr/>
+und sie liebt mich vom herzen? &#8211; sagen sie mir ob ich<lbr type="BD"/> mir<lbr/>
+eine bessere frau wünschen kö<abbr type="topline" expand="nn">n</abbr>te? &#8211; <lbr type="forced"/>
+das muß ich ihnen noch sagen, daß damals als ich <rend class="latin">quitirte</rend> die<lbr/>
+liebe noch nicht<lbr type="BD"/> war &#8211; sondern erst durch ihre zärtliche sorge und<lbr/>
+bedienung |: als ich im<lbr type="BD"/> hause wohnte :| gebohren wurde. &#8211; <lbr type="forced"/>
+Ich wünsche also nichts mehr als daß ich nur etwas weniges sicheres<lbr/>
+be<lbr type="BD"/>ko<abbr type="topline" expand="mm">m</abbr>e, |: wozu ich auch, gottlob, wirklich hofnung habe :|, so werde<lbr/>
+ich<lbr type="BD"/> nicht nachlassen sie zu bitten, daß ich diese arme erretten &#8211; <lbr/>
+und mich zugleich<lbr type="BD"/> mit ihr &#8211; und ich darf auch sagen, uns alle<lbr/>
+glücklich machen darf &#8211; sie sind es<lbr type="BD"/> Ja doch auch we<abbr type="topline" expand="nn">n</abbr> ich es bin? &#8211; <lbr/>
+und die hälfte von <u>dem sichern</u> was ich be<lbr type="BD"/>ko<abbr type="topline" expand="mm">m</abbr>en werde, sollen<lbr/>
+sie genüssen, Mein liebster vatter! &#8211; nun habe ihnen mein<lbr type="BD"/><lbr/>
+herz eröfnet, und ihnen meine Worte erkläret. &#8211; Nun bitte<lbr/>
+ich sie, mir auch<lbr type="BD"/> die ihrigen von ihrem lezten brief zu erklären.<lbr/>
+du wirst nicht glauben, daß ich<lbr type="BD"/>&#160;<u>einen antrag, der dir gemacht<lbr/>
+worden, und darauf du</u>, damals als ichs erfuhr,<lbr type="BD"/>&#160;<u>nichts geant</u><pc force="weak">=</pc><lbr/><u>wortet</u>, wissen kö<abbr type="topline" expand="nn">n</abbr>te. &#8211; da verstehe ich kein Wort davon; ich<lbr type="BD"/><lbr/>
+weis von keinem antrag. &#8211; Nun, haben sie Mitleiden mit<lbr/>
+ihrem Sohne!<lbr type="BD"/> ich küsse ihnen 1000mal die hände und bin Ewig<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>______</ts><tshtm>_________________________________________________________</tshtm><tspdf>\hfill </tspdf>dero gehorsamster Sohn<lbr type="BD"/><lbr type="forced"/>
+<ts>______</ts><tshtm>__________________________________________________________</tshtm><tspdf>\hfill </tspdf>W: A: Mozart <abbr expand="manu propria">mp</abbr>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="5"/>
+<NI src="Unbekannt"><NS adr_id="48817"><ts>__________</ts>Ma très chere soeur!<lbr type="forced"/>
+<ts>_____</ts>Hier hast Du die 6 gestochenen Sonaten, und die Sonate auf 2 Klaviere, ich<lbr type="BD"/>
+wünsche, daß sie Dir gefallen. &#8211; Für dich sind nur viere neu, die Variationen<lbr type="BD"/>
+hat der Copist nicht fertig machen können, mit nächsten werde sie Dir<lbr type="BD"/>
+schicken.<lbr type="forced"/>
+<ts>_____</ts>Liebe Schwester! &#8211; es liegt ein angefangener Brief an Dich neben mir; weil<lbr type="BD"/>
+ich aber dem Papa so viel geschrieben, habe Dir nicht mehr schreiben können;<lbr type="BD"/>
+deßwegen bitt' ich Dich, Dich mit diesem Couvert dießmal zu begnügen; und<lbr type="BD"/>
+mit nächster Post werde Dir schreiben. Addio, leb wohl, ich küsse Dich 1000<lbr type="BD"/>
+mal und bin ewig<lbr type="forced"/>
+<ts>_________</ts><tshtm>_________________________________________</tshtm><tspdf>\hfill </tspdf>Dein aufrichtiger Bruder<lbr type="BD"/><lbr type="forced"/>
+<ts>_________</ts><tshtm>_____________________________________________</tshtm><tspdf>\hfill </tspdf>W. A. Mozart.</NS>
+</NI>
+</letter>
+</text>
+</MUP>

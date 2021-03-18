@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2014">2014-6</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=2689</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:42:44 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/Doc1770_4.mup">
+<HEADER id="2689">DIPLOM ÜBER DIE AUFNAHME VON WOLFGANG AMADÉ MOZART IN DIE ACCADEMIA FILARMONICA DI BOLOGNA<lbr/>
+BOLOGNA, 10. OKTOBER 1770</HEADER>
+<pg n="1"/>
+<tshtm>__________________</tshtm>PRINCEPS<ts>_____________</ts><tshtm>__________________________________</tshtm><tspdf>\hfill </tspdf>CAETERIQUE<lbr type="forced"/>
+<tshtm>__________________</tshtm>ACADEMICI<ts>____________</ts><tshtm>_________________________________</tshtm><tspdf>\hfill </tspdf>PHYLHARMONICI.<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>________</ts><tshtm>_________</tshtm>Omnibus, et singulis praesentes Literas lecturis, felicitatem.<lbr type="forced"/>
+<lbr type="forced"/>
+QUamvis ipsa Virtus sibi, suisque Sectatoribus gloriosum comparet Nomen, attamen<lbr/>
+<tshtm>_________________</tshtm>pro majori ejusdem majestate publicam in notitiam decuit propagari. Hinc est, quod<lbr/>
+<tshtm>_________________</tshtm>hujusce nostrae PHYLHARMONICAE ACADEMIAE existimationi, &#38; incre<pc force="weak">-</pc><lbr/><tshtm>_________________</tshtm>mento consulere, singulorumque Academicorum Scientiam, &#38; profectum patefacere<lbr/>
+<tshtm>_________________</tshtm>intendentes, Testamur <rend class="latin">Domin. Wolfgang<abbr v="um"/> Amade<abbr v="um"/> Mozart e Salisburgo</rend><lbr/>
+<tshtm>___</tshtm>sub die <rend class="latin">9</rend> Mensis <rend class="latin">Octobris</rend> Anni <rend class="latin"><u>1770</u></rend>. inter Academiae nostrae <rend class="latin">Magistros Compositores</rend><lbr/>
+<tshtm>___</tshtm>adscriptum fuisse. Tanti igitur Coacademici virtutem, &amp; merita perenni benevolentiae mo<pc force="weak">-</pc><lbr/><tshtm>___</tshtm>numento prosequentes, hasce Patentes, Literas subscriptas, nostrique Consessus Sigillo im<pc force="weak">-</pc><lbr/><tshtm>___</tshtm>presso obsignatas dedimus.<lbr type="forced"/>
+Bononiae ex nostra Residentia die <rend class="latin">10</rend> Mensis <rend class="latin">Octobris</rend> Anni <rend class="latin"><u>1770</u></rend><lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____________________</ts><tshtm>_____________________________________________</tshtm><tspdf>\hfill </tspdf>Princeps. <rend class="latin">Petronius Lanzi</rend><lbr type="forced"/>
+<lbr type="forced"/>
+<ts>____________</ts><tshtm>___________________________________________________________________________</tshtm><tspdf>\hfill </tspdf><rend class="latin">Aloysius Xav. Ferri</rend><lbr type="forced"/>
+<ts>____________</ts><tshtm>__________________________________________________________________________________</tshtm><tspdf>\hfill </tspdf>a Secretis.<lbr type="forced"/>
+<lbr type="forced"/>
+[Reg]istr. in Libro Camplono <rend class="latin">G</rend> &#8211; pag. <rend class="latin">174.</rend><tshtm>____________________________</tshtm><tspdf>\hfill </tspdf>Camplonerius.<lbr type="forced"/>
+<ts>_________________</ts><tshtm>____________________________________________________________________________</tshtm><tspdf>\hfill </tspdf><rend class="latin">Cajetanus Croci</rend>
+<pg n="2"/>
+<vacat/></text>
+</MUP>

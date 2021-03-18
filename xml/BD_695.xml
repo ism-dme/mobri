@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2014">2014-6</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1262</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm (S. 1-2); Verbleib unbekannt (S. 3-4; Nachweis: R. Bertling, Lagerkatalog 11, Dresden 1889, Nr. 30)</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana), S. 1-2</bibl>
+            <bibl type="source" subtype="RISM">Verbleib unbekannt, S. 3-4</bibl>
+            <bibl type="source" subtype="RISM">Nachweis: R. Bertling, Lagerkatalog 11, Dresden 1889, Nr. 30</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:40:12 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_695.mup">
+<letter bd="695"><HEADER id="1262">WOLFGANG AMADÉ MOZART AN LEOPOLD MOZART IN SALZBURG<lbr/>
+WIEN, 25. SEPTEMBER 1782</HEADER>
+<pg n="1"/>
+<add_num type="inline" impl="pencil">141.</add_num><ts>_____</ts><tshtm>____________________________________________________________________________</tshtm><tspdf>\hfill </tspdf><rend class="latin"><u>Vienne</u> ce</rend> 25:<h>t</h>&#160;<rend class="latin"><uu>Sep:</uu><h>bre</h></rend><lbr type="forced"/>
+<rend class="latin">Mon trés cher Pére!</rend><ts>____</ts><tshtm>_________________________________________________________________</tshtm><tspdf>\hfill </tspdf><uu>1782</uu>.<lbr type="forced"/>
+<lbr type="forced"/>
+Ich habe ihr leztes vom 20:<h>t</h> dieses richtigst erhalten; und hoffe sie werden<lbr type="BD"/><lbr/>
+meine 4 zeilen |: woraus sie nichts als unser Wohlbefinden haben vernehmen<lbr type="BD"/><lbr/>
+kö<abbr type="topline" expand="nn">n</abbr>en :| auch erhalten haben. &#8211; ein wahrlich ko<abbr type="topline" expand="mm">m</abbr>ischer zufall! &#8211; wer ka<abbr type="topline" expand="nn">n</abbr><lbr type="BD"/><lbr/>
+aber für sachen, die zutreffen &#8211; die sich erreignen kö<abbr type="topline" expand="nn">n</abbr>en! &#8211; h<abbr type="curve">:</abbr>&#160;<u>gabel</u><lbr/>
+welcher<lbr type="BD"/> vor etlich tägen hier angeko<abbr type="topline" expand="mm">m</abbr>en, ist wirklich be&#255; mir und wartet<lbr/>
+bis ich mit<lbr type="BD"/> dem briefe fertig bin, um mir meine Sonaten auf der <rend class="latin">violine</rend><lbr/>
+zu <rend class="latin">accompag<lbr type="BD"/>niren</rend>, die er nach seinen sagen gut spiellen muß. auf den<lbr/>
+Horn hat er mir<lbr type="BD"/> schon geblasen, und weniger als nichts gemacht.<lbr/>
+was ich ihm zu thun im<lbr type="BD"/> Stande bin, werde nicht unterlassen; &#8211; genug<lbr/>
+daß ich ihr Sohn bin. &#8211; er<lbr type="BD"/> Empfiehlt sich ihnen be&#255;derseits. &#8211; <lbr type="forced"/>
+daß die ohnöthigen bildere&#255;en in den kirchen, die vielen opfertafeln,<lbr/>
+und<lbr type="BD"/>&#160;<rend class="latin">instrumental=Musique</rend>&#160;<abbr expand="etc">p</abbr>: |: was hier geschehen wird :| be&#255; ihnen<lbr/>
+schon ab<lbr type="BD"/>geko<abbr type="topline" expand="mm">m</abbr>en sind &#8211; war mir etwas Neues. &#8211; da glaubt der <encr expand="erzbischof">lrz=</encr><lbr/>
+<add_note schr_id="57010">Erzbischof<ts>______________________________________________</ts>Kaiser</add_note>
+<encr expand="">bfocusi</encr> ver<lbr type="BD"/>muthlich sich <u>dadurch</u> be&#255;m <encr expand="kaiser">kmfolr</encr> einzuschmeicheln; aber<lbr/>
+ich glaube<lbr type="BD"/> schwerlich daß diese seine <rend class="latin">Politique</rend> von grossem nutzen se&#255;n<lbr/>
+mag. &#8211; Ja, &#8211; ich<lbr type="BD"/> ka<abbr type="topline" expand="nn">n</abbr> niemand auf mich warten sehen &#8211; ich warte auch<lbr/>
+nicht gerne; &#8211; mithin<lbr type="BD"/> muß ich mir die beschreibung der <rend class="latin">Baro<abbr type="topline" expand="nn">n</abbr>esse v:</rend><lbr/>
+Waldstätten schon auf das<lbr type="BD"/> nächstemal sparen; und ihnen nun<lbr/>
+eine sehr nothwendige bitte thun. &#8211; ich<lbr type="BD"/> bitte aber folgendes<lbr/>
+unter uns zu behalten, wegen dem orte &#8211; wo ich bin. &#8211;<lbr type="BD"/> der<tspdf>\newline</tspdf> Preüssische<lbr/>
+gesandte Riedesel hat zu mir geschickt, daß er vom Berliner<lbr type="BD"/> hof<lbr/>
+den auftrag hätte meine oper „die Entführung aus dem Serail”<lbr/>
+nach<lbr type="BD"/> Berlin zu schicken; mithin möchte ich sie abschreiben lassen, und<lbr/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="2"/>
+die belohnung<lbr type="BD"/> für die Musick wird schon erfolgen. &#8211; ich habe gleich<lbr/>
+versprochen sie <rend class="latin">Copi</rend>ren<lbr type="BD"/> zu lassen. &#8211; Nun da ich die oper nicht habe,<lbr/>
+müsste ich sie vom <rend class="latin">Copisten</rend> ent<lbr type="BD"/>lehnen, welches sehr ungelegen wäre,<lbr/>
+da ich sie nicht 3 ganze täge <u>sicher</u><lbr type="BD"/> behalten kö<abbr type="topline" expand="nn">n</abbr>te, in de<abbr type="topline" expand="mm">m</abbr> öfters<lbr/>
+der ka&#255;ser darum schickt |: welches erst ge<lbr type="BD"/>stern geschehen :| und<lbr/>
+sie da<abbr type="topline" expand="nn">n</abbr> auch öfters gegeben wird, da sie nun wirklich<lbr type="BD"/> schon 10 mal<lbr/>
+seit dem 16 August ist gegeben worden. &#8211; mithin wäre mein<lbr type="BD"/><lbr/>
+gedanke sie in Salzburg <rend class="latin">Copiren</rend> zu lassen, alwo es heimlicher<lbr/>
+und wohlfeiler geschehen kö<abbr type="topline" expand="nn">n</abbr>te! &#8211; ich bitte sie also sie gleich<lbr/>
+in die <rend class="latin">Partitur</rend> rein schreiben<lbr type="BD"/> zu lassen. &#8211; aber auch mit vieler<lbr/>
+Eile &#8211; und we<abbr type="topline" expand="nn">n</abbr> sie |: da sie Sie mir schicken :|<lbr type="BD"/> die <rend class="latin">Copiatur</rend> kösten<lbr/>
+melden wollen, wird so dan durch h<abbr type="curve">:</abbr> Peisser die bezah<lbr type="BD"/>lung gleich<lbr/>
+entrichtet werden. &#8211; Nun leben sie recht wohl; meine frau und<lbr/>
+ich<lbr type="BD"/> küssen ihnen 1000mal die hände, und meine liebe schwester<lbr/>
+umarmen wir<lbr type="BD"/> vom herzen und sind Ewig<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____</ts><tshtm>________________________________________________</tshtm><tspdf>\hfill </tspdf>dero gehorsamste kinder<lbr type="forced"/>
+<ts>_____</ts><tshtm>________________________________________________</tshtm><tspdf>\hfill </tspdf>W: A: und M: C: Mozart <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="3"/>
+<NI src="Unbekannt"><add_note>[Echtheitsbestätigungen von Constanze und Georg Nikolaus Nissen, Salzburg, 4. Februar 1826]</add_note>
+<pg n="4"/>
+<anschrift><rend class="latin">A Monsieur Monsieur Leopold Mozart maitre de la Chapelle de et à Salzburg<lbr type="forced"/></rend></anschrift>
+<lbr/>
+<add_note schr_id="48817">25ten 7ber 1782</add_note></NI>
+</letter>
+</text>
+</MUP>

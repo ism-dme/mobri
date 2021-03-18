@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2014">2014-5</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1352</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">F-Pn</bibl>
+            <bibl type="source" subtype="RISM">F-Pn (Bibliothèque nationale de France, Département de la Musique)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:40:34 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_783.mup">
+<letter bd="783"><NI src="F-Pn"><HEADER id="1352">WOLFGANG AMADÉ MOZART AN LEOPOLD MOZART IN SALZBURG<lbr/>
+WIEN, 10. APRIL 1784</HEADER>
+<pg n="1"/>
+<add_num type="inline" impl="pencil"><u>3</u></add_num><ts>__________</ts><tshtm>_____________________________________________________________________________________________________</tshtm><tspdf>\hfill </tspdf><rend class="latin"><u>Vienne</u> ce</rend> 10 <rend class="latin">d'avril</rend><lbr type="forced"/>
+<rend class="latin">Mon trés cher Pére!</rend><ts>__________</ts><tshtm>____________________________________________________________________________________________</tshtm><tspdf>\hfill </tspdf><uu>1784</uu>.<lbr type="forced"/>
+<lbr type="forced"/>
+Ich bitte, se&#255;en sie nur nicht Böse daß ich ihnen so lange nicht geschrieben<lbr type="BD"/> habe; &#8211; doch sie<lbr/>
+wissen wie viel ich die zeit her zu thun hatte! &#8211; durch meine<lbr type="BD"/> 3 <rend class="latin">Subscrip<tspdf>\-</tspdf>tions Academien</rend><lbr/>
+habe mir sehr viele Ehre gemacht. &#8211; auch meine<lbr type="BD"/>&#160;<rend class="latin">Academie</rend> im theater ist sehr gut<lbr/>
+ausgefallen. &#8211; Ich habe 2 grosse <rend class="latin">Concerten</rend><lbr type="BD"/> geschrieben, und da<abbr type="topline" expand="nn">n</abbr> ein <rend class="latin">Quintett</rend>, welches<lbr/>
+ausserordentlichen be&#255;fall erhal<lbr type="BD"/>ten; &#8211; ich selbst halte es für das beste was ich noch<lbr/>
+in meinem leben ge<lbr type="BD"/>schrieben habe. &#8211; es besteht aus <u>1 <rend class="latin">oboe</rend></u>, <u>1 <rend class="latin">clarinetto</rend></u>, <u>1 <rend class="latin">Corno</rend></u>,<lbr/>
+<u>1 <rend class="latin">fagotto</rend></u>, und<lbr type="BD"/>&#160;<u>das <rend class="latin">Piano forte</rend></u>; &#8211; Ich wollte wünschen sie hätten es hören kö<abbr type="topline" expand="nn">n</abbr>en!<lbr/>
+&#8211;<lbr type="BD"/> und wie schön es aufgeführt wurde! &#8211; übrigens bin ich | die wahrheit zu ge<lbr type="BD"/>stehen :|<lbr/>
+auf die lezthin müde geworden &#8211; vor lauter spielen. &#8211; und es macht<lbr type="BD"/> mir keine<lbr/>
+geringe Ehre daß es meine zuhörer <u>nie</u> wurden. &#8211; Nun habe ich<lbr type="BD"/> eine <rend class="latin">Comission;</rend><lbr/>
+der alte <rend class="latin">Baron du Pain</rend> | der alle mögliche schöne und auch<lbr type="BD"/> schlechte <rend class="latin">Musique</rend> besizt :|<lbr/>
+möchte gerne <suppl hand="self" pos="infra">folgendes</suppl>&#160;<rend class="latin">Rondò</rend> und <rend class="latin">Duetto</rend>&#160;<u>vom<lbr type="BD"/>&#160;<rend class="latin">Gatti</rend></u> haben. &#8211; <rend class="latin"><u>Recit:</u><h>vo</h>: <u>Ah! non sdegnarti<lbr/>
+o cara</u>.</rend> &#8211; <rend class="latin"><u>Rondò</u>. <u>Nel lasciarti<lbr type="BD"/> in questo istante</u>.</rend> &#8211; <u>Duetto</u>. <rend class="latin">Ne' giorni tuoi felici</rend>&#160;<abbr expand="etc">p</abbr>:<lbr/>
+sie würden mich also<lbr type="BD"/> sehr verbinden we<abbr type="topline" expand="nn">n</abbr> sie mir diese 2 Stücke so bald als<lbr/>
+möglich <rend class="latin">Procuriren</rend><lbr type="BD"/> kö<abbr type="topline" expand="nn">n</abbr>ten. &#8211; die <rend class="latin">Copie</rend> werde schon durch h<abbr type="curve">:</abbr> Peisser übermachen.<lbr/>
+Nun habe ich<lbr type="BD"/> auch heute wieder ein Neues <rend class="latin">Concert</rend> für die frl: Plo&#255;er fertig<lbr/>
+gemacht; &#8211; und<lbr type="BD"/> nun bin ich schon halb angezogen um zum fürst kaunitz zu<lbr/>
+gehen. &#8211; gestern<lbr type="BD"/> spiellte ich be&#255;m <rend class="latin">Leopold Palfy</rend>. &#8211; Morgen be&#255; der <rend class="latin">Academie</rend><lbr/>
+so <rend class="latin">Mad:<h>elle</h></rend><lbr type="BD"/> Ba&#255;er giebt. &#8211; Nun noch etwas; &#8211; da Hafeneder gestorben, so<lbr/>
+hat h<abbr type="curve">:</abbr>&#160;<rend class="latin">v:</rend> Ployer<lbr type="BD"/> die Co<abbr type="topline" expand="mm">m</abbr>ission beko<abbr type="topline" expand="mm">m</abbr>en einen <rend class="latin">Violinisten</rend> auszusuchen. &#8211; ich<lbr/>
+<rend class="latin">reco<abbr type="topline" expand="mm">m</abbr>an<lbr type="BD"/>dirte</rend> ihm heimlich einen gewissen <rend class="latin"><u>Menzl</u></rend> &#8211; einen hübschen jungen<lbr/>
+geschick<lbr type="BD"/>ten Menschen. &#8211; verbot ihm aber etwas von mir zu melden, sonst<lbr/>
+würde es<lbr type="BD"/> vieleicht nicht gehen. &#8211; er erwartet nun die <rend class="latin">Resolution</rend>. &#8211; ich glaub<lbr/>
+er bekö<abbr type="topline" expand="mm">m</abbr>t 400 fl: &#8211; und ein <u>kleid</u> &#8211; über das kleid habe den <rend class="latin">Menzl</rend><lbr/>
+schon aus<lbr type="BD"/>gezankt &#8211; de<abbr type="topline" expand="nn">n</abbr> es ist bettelhaft. &#8211; sollte etwas daraus werden so<lbr/>
+werde dem<lbr type="BD"/>&#160;<rend class="latin">Menzl</rend> einen brief an sie mitgeben, wie auch die <rend class="latin">Musique;</rend> &#8211; und<lbr/>
+sie werden<lbr type="BD"/> einen Netten <rend class="latin">Violin</rend>spieller an ihm finden, welcher auch ganz gut<lbr/>
+vom blatte<lbr type="BD"/> lesen ka<abbr type="topline" expand="nn">n</abbr>; &#8211; in <u>Wie<abbr type="topline" expand="nn">n</abbr></u> hat mir noch keiner so gut meine <rend class="latin">Quar<pc force="weak">=</pc><lbr/>tetten à<lbr type="BD"/> vista</rend> gespielt, als er. &#8211; und ist der beste Mensch von der Welt, der<lbr/>
+sich ein<lbr type="BD"/> vergnügen machen wird, be&#255; ihnen <rend class="latin">Musique</rend> zu machen so oft sie wollen. &#8211;<lbr type="BD"/>&#160;<lbr/>
+ich habe ihn auch be&#255; meinen <rend class="latin">Academien</rend> zum <rend class="latin">orchestre</rend> geno<abbr type="topline" expand="mm">m</abbr>en. &#8211; Nun<lbr type="BD"/> muß<lbr/>
+ich schlüssen; meine frau und ich küssen ihnen 1000mal die hände, und<lbr type="BD"/> umarmen<lbr/>
+unsre liebe schwester von herz und sind Ewig dero<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____________</ts><tshtm>______________________________________________________________________________</tshtm><tspdf>\hfill </tspdf>gehor: kinder<lbr type="BD"/><lbr type="forced"/>
+<ts>_____________</ts><tshtm>______________________________________________________________________________________</tshtm><tspdf>\hfill </tspdf>Mozart <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<add_num type="inline">427</add_num><ts>_________________________________________________________________________________________________________________________</ts><add_num type="inline">140</add_num><lbr/>
+<lbr/>
+<add_seal type="owner">BIBLIOTÉQUE<lbr/>C.N.M.P.</add_seal>
+<pg n="2"/>
+<vacat/>
+</NI></letter>
+</text>
+</MUP>

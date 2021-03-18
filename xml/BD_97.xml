@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2020">2020-02</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=655</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Verbleib unbekannt (Vorlage: Abschrift um 1768 in D-B)</bibl>
+            <bibl type="source" subtype="RISM">Verbleib unbekannt, Vorlage: Abschrift um 1768 in D-B</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:36:42 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_97.mup">
+<letter bd="97">
+<NI src="unbekannt">
+<HEADER id="655">LEOPOLD MOZART AN LORENZ HAGENAUER IN SALZBURG<lbr/>
+LONDON, 18. APRIL 1765</HEADER>
+<pg n="1"/>
+<tshtm><additum>[... (Schluss der Abschrift des Briefes vom 19. März 1765)]</additum>
+<lbr/>
+<lbr/></tshtm>
+<ts>_____________________</ts><tshtm>________________________________</tshtm><tspdf>\hfill </tspdf><rend class="latin">London</rend> den 18<h>t<abbr v="en"/></h>&#160;<rend class="latin">April</rend> 1765<lbr type="forced"/>
+<rend class="latin">Monsieur</rend>! <add_num type="inline" schr_id="57010" impl="crayon" color="red"><ts>__________________</ts>31</add_num><lbr type="forced"/>
+Ich habe mit Vergnügen dero Zuschrifft erhalt<abbr v="en"/>, Es ist alles<lbr/>
+Wohlgethan, was<lbr type="BD"/> Sie gethan hab<abbr v="en"/>. Ich ka<abbr type="topline" expand="nn">n</abbr> Ihnen dermahl<abbr v="en"/><lbr/>
+mehrers nicht schreiben. Das<lbr type="BD"/> Gericht vom <rend class="latin">Lord Byron</rend> war<lbr/>
+gestern nachts sehr spät aus, und ich konnte<lbr type="BD"/> den Brief<lbr/>
+nicht eher schreiben als heut spät, weil ich abwarten<lbr/>
+muste, ob ich<lbr type="BD"/> keine fernere folgen dieses Gerichts<lbr/>
+wegen in Erfahrung bringen könnte, weil<lbr type="BD"/> dasjenige,<lbr/>
+was gesehen hatte S<h>r</h>: Hochf<abbr type="curve">:</abbr> Gnaden überschreiben wollte.<lbr/>
+<rend class="latin">Ma<lbr type="BD"/>dame <abbr expand="von">v</abbr> Robini</rend> wird bedient werd<abbr v="en"/>. und <rend class="latin">Mr:</rend> Johannes<lbr/>
+wird ebenfals nicht vergessen werd<abbr v="en"/>. Ich werde schon<lbr/>
+bedacht se&#255;n, was i<abbr type="topline" expand="mm">m</abbr>er möglich ist,<lbr type="BD"/> mitzubringen:<lbr/>
+obwohl alles in solchen Preis ist, daß sie sicher glauben<lbr type="BD"/><lbr/>
+könn<abbr v="en"/>, daß nicht viel ächte engl Waar<abbr v="en"/> in unsre gegend<abbr v="en"/><lbr/>
+Teutschlands<lbr type="BD"/> verkauft werd<abbr v="en"/>. Was meine Reise<lbr/>
+anbelangt, ka<abbr type="topline" expand="nn">n</abbr> ich nichts schreiben, und<lbr type="BD"/> jeder vernünf<pc force="weak">=</pc><lbr/>tige Mensch muß einsehen, daß es kein spas ist. Es<lbr/>
+braucht<lbr type="BD"/> Zeit, bis wir nur hier wegko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>, und alle<lbr/>
+unser <rend class="latin">bagage</rend> in Ordnung bring<abbr v="en"/>,<lbr type="BD"/> die mir den Schweiß<lbr/>
+ins gesicht treibt, we<abbr type="topline" expand="nn">n</abbr> ich sie nur betrachte, überlegen<lbr type="BD"/><lbr/>
+Sie es einmahl! we<abbr type="topline" expand="nn">n</abbr> man ein ganzes Jahr an einem<lbr/>
+ort lebt. wir sind nun hier<lbr type="BD"/> zu Hause! und es hat mehr<lbr/>
+anstalt<abbr v="en"/> nötig, als we<abbr type="topline" expand="nn">n</abbr> wir von Salzburg weg<lbr type="BD"/>gieng<abbr v="en"/>.<lbr/>
+dann wir könn<abbr v="en"/> nichts hier lass<abbr v="en"/>, und auch nicht alles mitführ<abbr v="en"/>;<lbr type="BD"/><lbr/>
+folglich müss<abbr v="en"/> andre anstalt<abbr v="en"/> gemacht werd<abbr v="en"/>. Ich und wir<lbr/>
+alle sind<lbr type="BD"/>
+Höchstens erfreuet, daß <rend class="latin">Mr</rend> Joseph und <rend class="latin">Mr</rend> Johannes<lbr/>
+sich wieder besser be<lbr type="BD"/>find<abbr v="en"/>. <rend class="latin">Mr: Adlgasser</rend>, dem wir uns empfehl<abbr v="en"/>,<lbr/>
+wird in wenig Posttäg<abbr v="en"/> von<lbr type="BD"/> mir antwort hab<abbr v="en"/>. leb<abbr v="en"/> Sie wohl.<lbr type="forced"/>
+</NI>
+</letter>
+</text>
+</MUP>

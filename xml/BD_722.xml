@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2014">2014-5</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1289</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:40:20 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_722.mup">
+<letter bd="722"><HEADER id="1289">WOLFGANG AMADÉ MOZART AN LEOPOLD MOZART IN SALZBURG<lbr/>
+WIEN, 22. JANUAR 1783</HEADER>
+<pg n="1"/>
+<rend class="latin">Mon trés cher Pére!</rend><ts>____</ts><tshtm>_________________________________________________________</tshtm><tspdf>\hfill </tspdf><rend class="latin"><u>Vienne</u> ce</rend> 22 <rend class="latin">de Janvier</rend><lbr type="forced"/>
+<ts>_____</ts><tshtm>______________________________________________________________________________________________________</tshtm><tspdf>\hfill </tspdf><uu>1783</uu><lbr type="forced"/>
+Wegen den 3 <rend class="latin">Concerten</rend> därfen Sie keine Sorge haben, daß sie zu theuer sind;<lbr type="BD"/> &#8211; <lbr/>
+ich glaube daß ich doch für Jedes <rend class="latin">Concerten</rend> einen duckaten verdiene &#8211; und<lbr type="BD"/> da<abbr type="topline" expand="nn">n</abbr> &#8211; <lbr/>
+möchte ich wohl sehen, wie es sich einer um einen duckaten <rend class="latin">Copiren</rend><lbr type="BD"/><lbr/>
+lassen wollte! &#8211; abgeschrieben kö<abbr type="topline" expand="nn">n</abbr>en sie nicht werden, weil ich sie eher<lbr type="BD"/><lbr/>
+nicht hergebe, bis ich nicht eine gewisse anzahl <rend class="latin">abo<abbr type="topline" expand="nn">n</abbr>enten</rend> habe; &#8211; sie<lbr type="BD"/><lbr/>
+Stehen nun schon zum 3:<h>tn</h> male in Wie<abbr type="topline" expand="nn">n</abbr>er <rend class="latin">Diarium</rend> &#8211; be&#255; mir sind<lbr/>
+<rend class="latin">Suscrip<lbr type="BD"/>tions billets</rend> seit den 20:<h>tn</h> dieses zu haben &#8211; gegen baare 4 du<pc force="weak">=</pc><lbr/>ckaten &#8211; und<lbr type="BD"/> wehrend den Monath <rend class="latin">aprile</rend> werden die <rend class="latin">Concerten</rend> gegen<lbr/>
+zurückgebung der<lbr type="BD"/>&#160;<rend class="latin">Billets</rend> be&#255; mir abgehollet; &#8211; <lbr type="forced"/>
+die <rend class="latin">Cadenzen</rend> und Eingänge werde meiner lieben schwester mit nächsten<lbr type="BD"/><lbr/>
+schicken; &#8211; ich habe die Eingänge in <rend class="latin">Rondeau</rend> noch nicht verändert,<lbr/>
+de<abbr type="topline" expand="nn">n</abbr> we<abbr type="topline" expand="nn">n</abbr><lbr type="BD"/> ich dieses <rend class="latin">Concert</rend> spielle, so mache ich allzeit was mir ein<pc force="weak">=</pc><lbr/>fällt; &#8211; Ich bitte so<lbr type="BD"/> bald möglich die verlangten <rend class="latin">Sinfonien</rend> zu<lbr/>
+schicken; &#8211; de<abbr type="topline" expand="nn">n</abbr> ich brauchte sie<lbr type="BD"/> in der that; &#8211; und nun noch eine<lbr/>
+bitte, de<abbr type="topline" expand="nn">n</abbr> meine frau lässt mir keinen<lbr type="BD"/> fried; &#8211; sie wissen ohne<lbr/>
+zweifel daß izt fasching ist, und daß hier so gut wie<lbr type="BD"/> in Salzburg<lbr/>
+und München getanzt wird; &#8211; und da möchte ich gerne |: aber<lbr/>
+daß es kein Mensch weis :| als <rend class="latin">Harlequin</rend> gehen &#8211; weil hier<lbr/>
+so vielle &#8211; aber<lbr type="BD"/> lauter Eseln, auf der <rend class="latin">Redoute</rend> sind; &#8211; folglich<lbr/>
+möchte ich sie bitten mir ihr<lbr type="BD"/>&#160;<rend class="latin">Harlequin</rend> kleid zuko<abbr type="topline" expand="mm">m</abbr>en zu lassen &#8211; <lbr/>
+&#8211; aber es müsste halt recht gar bald<lbr type="BD"/> se&#255;n &#8211; wir gehen eher nicht<lbr/>
+auf die <rend class="latin">Redoute</rend>, obwohl sie schon im grösten<lbr type="BD"/> schwunge ist. &#8211; uns<lbr/>
+sind die Hausbälle lieber. &#8211; vergangene Woche habe ich<lbr type="BD"/> in meiner<lbr/>
+Wohnung einen Ball gegeben. &#8211; versteht sich aber die <rend class="latin">chapeaus</rend><lbr type="BD"/><lbr/>
+haben Jeder 2 gulden bezahlt. &#8211; wir haben abends um 6 uhr<lbr/>
+angefangen und<lbr type="BD"/> um 7 uhr aufgehört; &#8211; was nur eine Stunde?<lbr/>
+&#8211; Nein Nein &#8211; Morgens um<lbr type="BD"/> 7 uhr; &#8211; sie werden aber nicht begreifen<lbr/>
+wie ich de<abbr type="topline" expand="nn">n</abbr> Platz dazu gehabt habe?<lbr type="BD"/> &#8211; Ja &#8211; da fällt mir eben ein<lbr/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="2"/>
+daß ich ihnen i<abbr type="topline" expand="mm">m</abbr>er zu schreiben vergessen habe<lbr type="BD"/> daß ich seit anderthalb Monathen<lbr/>
+ein anders <rend class="latin">logis</rend> habe &#8211; aber auch auf der<lbr type="BD"/> hohen brücke &#8211; und wenige<lbr/>
+häuser entfernt; &#8211; wir Wohnen also, im kleinen<lbr type="BD"/> Herbersteinischen<lbr/>
+hause, <rend class="latin">N:</rend> 412 im 3:<h>t</h> Stock; &#8211; be&#255; h<abbr type="curve">:</abbr>&#160;<rend class="latin">v:</rend> Wezlar &#8211; einen<lbr type="BD"/> Reichen<lbr/>
+Juden. &#8211; Nun da habe ich ein zi<abbr type="topline" expand="mm">m</abbr>er &#8211; 1000 schritt lang und einen<lbr type="BD"/><lbr/>
+breit &#8211; und ein schlaf=zi<abbr type="topline" expand="mm">m</abbr>er &#8211; da<abbr type="topline" expand="nn">n</abbr> ein vorzi<abbr type="topline" expand="mm">m</abbr>er &#8211; und eine<lbr/>
+schöne grosse<lbr type="BD"/> küche; &#8211; da<abbr type="topline" expand="nn">n</abbr> sind noch 2 schö<abbr type="topline" expand="nn">n</abbr>e grosse zi<abbr type="topline" expand="mm">m</abbr>er neben<lbr/>
+unser welche noch leer<lbr type="BD"/> Stehen &#8211; diese benutzte ich also zu diesen<lbr/>
+hausball &#8211; Baron wezlar und sie &#8211;<lbr type="BD"/> waren auch dabe&#255; &#8211; wie<lbr/>
+auch die <rend class="latin">Baron</rend> Waldstätten &#8211; h<abbr type="curve">:</abbr>&#160;<rend class="latin">v:</rend> Edelbach &#8211;<lbr type="BD"/>&#160;<rend class="latin">gilowsky</rend>, der<lbr/>
+Windmacher &#8211; der Junge Stephani <rend class="latin">et uxor</rend> &#8211; <rend class="latin">Adamberger</rend> und<lbr type="BD"/> sie<lbr/>
+&#8211; lange und langin &#8211; <abbr expand="etc">p</abbr><abbr expand="etc">p</abbr>: &#8211; Ich ka<abbr type="topline" expand="nn">n</abbr> ihnen ohnmöglich <u>alle</u> hersagen.<lbr/>
+&#8211;<lbr type="BD"/> Nun muß ich schlüssen weil ich noch einen brief an die Wendling<lbr/>
+nach<lbr type="BD"/> Ma<abbr type="topline" expand="nn">n</abbr>heim wegen mein <rend class="latin">Concerten</rend> zu schreiben habe; &#8211; <lbr type="forced"/>
+<tspdf>\newpage</tspdf> 
+Ich bitte den allzeit bereiten <rend class="latin">opera Componisten Gatti</rend> zu<lbr/>
+Mahnen wegen den<lbr type="BD"/>&#160;<rend class="latin">oper</rend> bücheln; &#8211; ich wollt ich hätte sie<lbr/>
+schon; &#8211; Nun <rend class="latin">adieu</rend>. &#8211; wir küssen ihnen<lbr type="BD"/> 1000mal die hände<lbr/>
+und unsere liebe schwester umarmen wir vom ganzen<lbr type="BD"/> herzen<lbr/>
+und sind Ewig dero<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>________</ts><tshtm>______________________________________________</tshtm><tspdf>\hfill </tspdf>gehorsamste kinder<lbr type="BD"/><lbr type="forced"/>
+<ts>________</ts><tshtm>_____________________________________________</tshtm><tspdf>\hfill </tspdf>W: <rend class="latin">Et</rend> C: <rend class="latin">Mozart</rend>&#160;<abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+</letter>
+</text>
+</MUP>

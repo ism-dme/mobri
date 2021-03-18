@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2013">2013-5</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1148</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">D-BNu</bibl>
+            <bibl type="source" subtype="RISM">D-BNu (Universitäts- und Landesbibliothek)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:39:37 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_582.mup">
+<letter bd="582"><NI src="D-BNn"><HEADER id="1148">LEOPOLD MOZART AN BREITKOPF &#38; SOHN IN LEIPZIG<lbr/>
+MÜNCHEN, 12. FEBRUAR 1781</HEADER>
+<pg n="1"/>
+<ts>____________</ts><tshtm>________________________________________________________________________</tshtm><tspdf>\hfill </tspdf>Münch<abbr v="en"/> d<abbr v="en"/> 12<h>t<abbr v="en"/></h>&#160;<rend class="latin">Febr<abbr type="curve">:</abbr></rend><lbr type="forced"/>
+HochEdl insonders<ts>_________________</ts><tshtm>____________________________________________________________</tshtm><tspdf>\hfill </tspdf>1781.<lbr type="forced"/>
+Hochgeehrtester Herr!<add_empf type="inline"><ts>____________________________________________________________________</ts><rend class="latin">pr.d<abbr type="curve">.</abbr></rend> 19.</add_empf><lbr type="forced"/>
+<lbr type="forced"/>
+Ich habe die Ehre ihn<abbr v="en"/> aus Münch<abbr v="en"/> zu schreib<abbr v="en"/>, wo ich mich wegen der<lbr type="BD"/><lbr/>
+<rend class="latin">opera</rend>, die mein Sohn für das Churf<abbr type="curve"></abbr> Theater schrieb, seit 14 Tag<abbr v="en"/><lbr/>
+be<lbr type="BD"/>finde. ich wollte sie doch auch hör<abbr v="en"/> und seh<abbr v="en"/>! &#8211; &#8211; &#8211; &#8211; <lbr/>
+Den erst<abbr v="en"/> März werde<lbr type="BD"/> wieder in Salzburg se&#255;n, wo ich zur<lbr/>
+Markt=Zeit durch h<abbr type="curve">:</abbr> Schwarzkopf, we<abbr type="topline" expand="nn">n</abbr><lbr type="BD"/> sie was zu <rend class="latin">ordinie</rend>r<abbr v="en"/><lbr/>
+belieb<abbr v="en"/>, Nachricht erwarte.<lbr type="forced"/>
+Längst schon wünschte ich, daß sie etwas von meinem Sohne in<lbr/>
+Druck geb<abbr v="en"/><lbr type="BD"/> möcht<abbr v="en"/>. Sie werd<abbr v="en"/> ihn ja doch nicht nach seinen<lbr/>
+Clavier Sonat<abbr v="en"/>, die er als<lbr type="BD"/> ein Kind geschrieb<abbr v="en"/>, beurtheil<abbr v="en"/>? &#8211; &#8211; <lbr/>
+freilich werden sie nicht eine Note von<lbr type="BD"/> dem, was er seit einig<abbr v="en"/><lbr/>
+Jahr<abbr v="en"/> geschrieb<abbr v="en"/>, geseh<abbr v="en"/> hab<abbr v="en"/>, es müsst<abbr v="en"/> nur die<lbr type="BD"/> 6 <rend class="latin">Sonaten</rend><lbr/>
+fürs Clavier und eine Violin se&#255;n, die er in Paris mit einer<lbr/>
+zu<lbr type="BD"/>eignungsschrift an die itzige Churfürstin von Pfalzba&#255;rn<lbr/>
+<rend class="latin">gravie</rend>r<abbr v="en"/> ließ: <u>da<abbr type="topline" expand="nn">n</abbr><lbr type="BD"/> wir lassen sehr wenig ausko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/></u>. Sie könnt<abbr v="en"/> es mit<lbr/>
+einem paar Synfoni<abbr v="en"/>,<lbr type="BD"/> &#8211; od<abbr v="er"/> ClavierSonat<abbr v="en"/> versuch<abbr v="en"/> &#8211; od<abbr v="er"/> mit quartet<abbr v="en"/>,<lbr/>
+<rend class="latin">Trios</rend>&#160;<abbr expand="etc">p</abbr>: &#8211; Sie soll<abbr v="en"/><lbr type="BD"/> uns dafür nur einige <rend class="latin">Exempla</rend>ri<abbr v="en"/> geb<abbr v="en"/>: nur damit sie<lbr/>
+etwas von der Setzart<lbr type="BD"/> meines Sohnes sehen. Doch gedenke ich sie<lbr/>
+keineswegs zu etwas zu überreden;<lbr type="BD"/> ich verfiel öfters auf diesen<lbr/>
+Gedanck<abbr v="en"/>, weil ich viele Sachen in Stich und Druck<lbr type="BD"/> sehe, die<lbr/>
+mich zum Mitleiden rühren. Mein Sohn empfehlt sich und ich<lbr/>
+bin<lbr type="BD"/> mit besond<abbr v="er"/>er Hochschätzung<lbr type="forced"/>
+<ts>_______</ts><tshtm>____________________________</tshtm><tspdf>\hfill </tspdf><rend class="latin">Euer</rend> HochEdl:<lbr type="forced"/>
+<ts>_______</ts><tshtm>________________________________________________________</tshtm><tspdf>\hfill </tspdf>ergebenster dr.<lbr type="forced"/>
+<ts>_______</ts><tshtm>_____________________________________________________________</tshtm><tspdf>\hfill </tspdf>Leopold Mozart <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<lbr/>
+<add_seal type="owner">Univ. Bibl. Bonn</add_seal>
+<pg n="2"/>
+<anschrift rot="90">Herrn<lbr type="forced"/>
+Herrn <u>Breitkopf</u> und Sohne<lbr type="forced"/>
+berühmt<abbr v="en"/> Buchhändler<lbr type="forced"/>
+<tshtm>______________</tshtm>in<lbr type="BD"/><lbr type="forced"/>
+<add_note type="inline"><rend class="latin"><u>fco Nurnberg</u></rend></add_note><tshtm>________</tshtm><u>Leipzig</u></anschrift>
+<lbr/>
+<add_note>hoffe, <abbr expand="daß">dß</abbr> er vom <u>h<abbr type="curve">:</abbr> Stein</u> in Nürnbrg die Bezahl: für letztere über<suppl hand="#DME"><pc force="strong">=</pc></suppl><lbr/>sendet<abbr v="en"/> 30: Ex: sein<abbr v="er"/>: Violinschul<abbr v="en"/> wird erhalt<abbr v="en"/> hab<abbr v="en"/> nach Abrechn:<lbr/>
+der vorm Jahre übersandt<abbr v="en"/> 2. Bende Clavst<abbr type="curve">.</abbr> 1<h><uu>r</uu></h> Theil.<lbr type="forced"/>
+<ts>____</ts>Ich habe h<abbr type="curve">:</abbr>&#160;<u>Stein</u> gebet<abbr v="en"/> von Ihm für mich aufs neue<lbr/>
+eine Partie Violinschul<abbr v="en"/> mitzubring<abbr v="en"/>, die ich ihm für meine<lbr/>
+Rechn: zu geb<abbr v="en"/> bitte.<ts>____________________</ts>. In ein<abbr v="en"/> sein<abbr v="er"/>: Schreib<abbr v="en"/><lbr/>
+erwahnt er eines Restes, der noch wegen d<abbr v="en"/>: Instrumentmacher<lbr/>
+<rend class="latin">Grensern</rend> in Dresd<abbr v="en"/> in mein<abbr v="en"/> händ<abbr v="en"/> seyn soll, da ich mich<lbr/>
+dessen aber ot: entsinn<abbr v="en"/> kann, so bitte mich dessweg<abbr v="en"/> zu belehr<abbr v="en"/>.<lbr type="forced"/>
+<ts>____</ts>Wenn er <suppl hand="self" pos="supra">von</suppl> seines h<abbr type="curve">:</abbr> Sohnes Arbeit in mein<abbr v="en"/>: Verlag<lbr/>
+etwas zu seh<abbr v="en"/> wünscht, so würden es seiner Zeit <u>Clavier<lbr/>
+<rend class="latin">Sonat</rend>en</u> se&#255;n müssen, die aber noch niemand anders hab<abbr v="en"/><lbr/>
+dörfte, besonders kein Notenhändl<abbr v="er"/>: u stecher. Sinfoni u<lbr/>
+<rend class="latin">Qua</rend>rtett<abbr v="en"/>. sind wohl zum stechen &#8211; aber ot. zum Drucke mit<lbr/>
+<rend class="latin">Typen</rend>.<ts>__________</ts><u>Von seines h<abbr type="curve">:</abbr> Sohnes</u> Clavier Trios die er in <u>Paris</u><lbr/>
+gemacht u d<abbr v="er"/>: Churfürstin von Pfalzba&#255;er<abbr v="en"/> dedicirt, kann er zu den<lbr/>
+verlangt<abbr v="en"/> Violinschul<abbr v="en"/> auch einige Exempl: be&#255;legen. Frage wo sie<lbr/>
+<ts>__________________________________________________________________</ts>gestochen sind?</add_note><lbr type="forced"/>
+<lbr/>
+<add_empf rot="90">N<h><uu>o</uu></h>: 405.<lbr/>
+<u>1781,</u><ts>______</ts><rend class="latin"><u>München</u></rend><lbr type="forced"/>
+<u>12. <rend class="latin">Febr.</rend></u><lbr type="forced"/>
+<u>19. <line w="4"/> </u><ts>____</ts><rend class="latin"><u>Mozard</u></rend><lbr type="forced"/>
+<u>30. <stroke><rend class="latin">April</rend></stroke></u>. Jul&#255;</add_empf>
+<lbr/>
+<add_seal type="owner">Univ. Bibl. Bonn</add_seal>
+</NI></letter>
+</text>
+</MUP>

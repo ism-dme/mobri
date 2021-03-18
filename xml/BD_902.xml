@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2014">2014-5</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1472</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Wgm</bibl>
+            <bibl type="source" subtype="RISM">A-Wgm (Gesellschaft der Musikfreunde in Wien</bibl>
+            <bibl type="source" subtype="RISM">Bibliothek und Archiv)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:41:04 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_902.mup">
+<letter bd="902"><NI src="A-Wgm"><HEADER id="1472">WOLFGANG AMADÉ MOZART AN FRANZ ANTON HOFFMEISTER IN WIEN<lbr/>
+WIEN, 20. NOVEMBER 1785</HEADER>
+<pg n="1"/>
+<ts>_______________</ts><tshtm>________</tshtm>liebster Hofmeister! &#8211; <lbr type="forced"/>
+<lbr type="forced"/>
+Ich nehme meine zuflucht zu ihnen, und bitte sie, mir unterdessen nur mit<lbr type="BD"/> etwas<lbr/>
+gelde be&#255;zustehen, da ich es in diesem augenblick sehr nothwendig<lbr type="BD"/> brauche. &#8211; da<abbr type="topline" expand="nn">n</abbr> bitte<lbr/>
+ich sie sich mühe zu geben mir so bald als möglich das<lbr type="BD"/> bewusste zu verschaffen. &#8211; <lbr type="forced"/>
+verzeihen sie daß ich sie i<abbr type="topline" expand="mm">m</abbr>er überlästige, allein da sie mich ke<abbr type="topline" expand="nn">n</abbr>en, und<lbr type="BD"/> wissen<lbr/>
+wie sehr es mir daran liegt daß ihre sachen gut gehen möchten, so<lbr type="BD"/> bin ich auch<lbr/>
+ganz überzeugt daß sie mir meine zudringlichkeit nicht übel<lbr type="BD"/> ne<abbr type="topline" expand="mm">m</abbr>en werden, son<pc force="weak">=</pc><lbr/>dern mir eben so gerne behülflich se&#255;n werden, als ich<lbr type="BD"/> ihnen.<lbr type="forced"/>
+<lbr type="forced"/>
+den 20:<h>t</h>&#160;<rend class="latin">Nov:</rend>&#160;<uu>1785</uu>.<ts>________</ts><tshtm>________________________________________________________</tshtm><tspdf>\hfill </tspdf>Mzt <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<lbr/>
+<add_num><rend class="latin">N<h><uu>o</uu></h></rend> 3.</add_num>
+<lbr/>
+<add_seal type="owner">GESELLSCHAFT DER<lbr/>MUSIKFREUNDE<lbr/>IN WIEN</add_seal>
+<pg n="2"/>
+<anschrift rot="90"><rend class="latin">À<lbr type="forced"/>
+Monsieur<lbr type="forced"/>
+Monsieur Franç: Ant:<lbr type="forced"/>
+de Hoffmeister<lbr type="forced"/>
+Chez <uu>Lui</uu>.</rend></anschrift>
+<lbr/>
+<add_empf rot="90">den 20<h><uu>t</uu></h>&#160;<rend class="latin">Nov.</rend><lbr/><ts>______________</ts>1785<lbr/>mit 2 #</add_empf>
+</NI></letter>
+</text>
+</MUP>

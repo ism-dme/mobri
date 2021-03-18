@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2012">2012-12</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1071</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">D-Mbs</bibl>
+            <bibl type="source" subtype="RISM">D-Mbs (Bayerische Staatsbibliothek)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:39:12 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_507.mup">
+<letter bd="507"><NI src="D-Mbs"><HEADER id="1071">WOLFGANG AMADÉ MOZART AN WOLFGANG HERIBERT VON DALBERG IN MANNHEIM<lbr/>
+MANNHEIM, 24. NOVEMBER 1778</HEADER>
+<pg n="1"/>
+<add_num><ts>______________________________________________________________________________________________________________________________</ts>243</add_num>
+<ts>_____________________________</ts><rend class="latin">Monsieur Le Baron!</rend><lbr type="forced"/>
+<lbr type="forced"/>
+Ich habe ihnen schon zwe&#255;mal aufwarten wollen, aber niemalen das glück<lbr type="BD"/> gehabt<lbr/>
+sie anzutreffen; gestern waren sie zwar zu hause, ko<abbr type="topline" expand="nn">n</abbr>te sie aber<lbr type="BD"/>
+doch nicht sprechen!<lbr/>
+&#8211; dahero bitte ich um verzeihung, daß ich ihnen mit<lbr type="BD"/> etlichen zeilen überlästig<lbr/>
+fallen muß; &#8211; inde<abbr type="topline" expand="mm">m</abbr>e es für mich sehr dringend<lbr type="BD"/> ist, daß ich mich ihnen er<pc force="weak">=</pc><lbr/>kläre; &#8211; Herr Baron! sie ke<abbr type="topline" expand="nn">n</abbr>en mich; &#8211; ich bin<lbr type="BD"/> nicht <rend class="latin">interessirt</rend>, besonders we<abbr type="topline" expand="nn">n</abbr><lbr/>
+ich weis, daß ich im stande bin einem so<lbr type="BD"/> grossen liebhaber und wahren ke<abbr type="topline" expand="nn">n</abbr>er der<lbr/>
+Musick, wie sie sind, eine gefäl<lbr type="BD"/>ligkeit zu erweisen; &#8211; im gegentheil weis ich<lbr/>
+auch, daß sie ganz gewis nicht<lbr type="BD"/> verlangen werden, daß ich hier schaden haben sollte;<lbr/>
+&#8211; mithin nehme ich<lbr type="BD"/> mir die fre&#255;heit nun mein leztes wort in dieser sache zu<lbr/>
+reden, inde<abbr type="topline" expand="mm">m</abbr>e ich<lbr type="BD"/> ohnmöglich auf ungewis mich länger hier aufhalten ka<abbr type="topline" expand="nn">n</abbr> &#8211; <lbr/>
+Ich verbinde mich<lbr type="BD"/> um 25 <rend class="latin">louisd'or</rend> ein <rend class="latin">Monodrame</rend> zu schreiben &#8211; mich zwe&#255;<lbr/>
+Monathe noch hier<lbr type="BD"/> aufzuhalten &#8211; alles in ordnung zu bringen &#8211; allen Proben<lbr/>
+be&#255;zuwohnen <u><rend class="latin">Etc</rend>:</u><lbr type="BD"/> jedoch mit diesen be&#255;satz, daß, es mag sich ereignen<lbr/>
+was nur will, ich zu<lbr type="BD"/> Ende jenners meine bezahlung habe; &#8211; <lbr type="forced"/>
+daß ich mir ausbitte in specktakel fre&#255; zu se&#255;n &#8211; versteht sich von selbst; &#8211;<lbr type="BD"/>&#160;<lbr/>
+sehen sie, mein Herr Baron, das ist alles, was ich thun ka<abbr type="topline" expand="nn">n</abbr>! &#8211; we<abbr type="topline" expand="nn">n</abbr> sie es<lbr type="BD"/><lbr/>
+recht überlegen, so werden sie sehen, daß ich gewis sehr <rend class="latin">discret</rend> handle; &#8211;<lbr type="BD"/>&#160;<lbr/>
+was ihre <rend class="latin">opera</rend> betrift, so versichere ich sie, daß ich sie von herzen gerne<lbr/>
+in<lbr type="BD"/> Musick setzen möchte; &#8211; diese arbeit kö<abbr type="topline" expand="nn">n</abbr>te ich zwar nicht um 25 <rend class="latin">louisd'or</rend><lbr type="BD"/><lbr/>
+<pg n="2"/>
+übernehmen, dieß werden sie mir selbst zugestehen; de<abbr type="topline" expand="nn">n</abbr> es ist |: recht gering<lbr type="BD"/><lbr/>
+gerechnet :| noch so viell arbeit als ein <rend class="latin">Monodrame</rend> &#8211; und was mich am<lbr type="BD"/> meisten<lbr/>
+davon abhalten würde, wäre, daß, wie sie mir selbst sagten, schon<lbr type="BD"/> wircklich<lbr/>
+gluck und schweizer daran schreiben; &#8211; doch, setzen wir daß sie mir<lbr type="BD"/> 50<lbr/>
+<rend class="latin">louisd'or</rend> dafür geben wollten, so würde ich es ihnen als ein Ehrlicher Ma<abbr type="topline" expand="nn">n</abbr><lbr/>
+ganz gewis abrathen; eine <rend class="latin">opera</rend> ohne sänger und sängerinen! &#8211; was will<lbr type="BD"/><lbr/>
+man de<abbr type="topline" expand="nn">n</abbr> da machen! &#8211; übrigens we<abbr type="topline" expand="nn">n</abbr> unter dieser Zeit ein aus=sehen ist,<lbr type="BD"/><lbr/>
+daß man sie aufführen ka<abbr type="topline" expand="nn">n</abbr>, so werde ich mich nicht weigern, ihnen zu liebe<lbr type="BD"/><lbr/>
+diese arbeit anzunehmen &#8211; de<abbr type="topline" expand="nn">n</abbr> sie ist nicht klein, das schwöre ich ihnen<lbr/>
+be&#255;<lbr type="BD"/> meiner Ehre; &#8211; Nun habe ich ihnen meine gedancken klar und<lbr/>
+aufrichtig<lbr type="BD"/> erkläret &#8211; Nur bitte ich um die bäldeste entschliessung &#8211; <lbr/>
+we<abbr type="topline" expand="nn">n</abbr> ich es noch<lbr type="BD"/> heüte wissen ka<abbr type="topline" expand="nn">n</abbr>, so wird es mir desto angenehmer se&#255;n,<lbr/>
+inde<abbr type="topline" expand="mm">m</abbr>e ich ge<lbr type="BD"/>hört habe, daß künftigen do<abbr type="topline" expand="nn">n</abbr>erstag jemand ganz allein<lbr/>
+Nach München reiset,<lbr type="BD"/> und ich sehr gerne von dieser gelegenheit <rend class="latin">profitiren</rend><lbr/>
+möchte; &#8211; unterdessen<lbr type="BD"/> habe ich die Ehre in aller Hochachtung zu verharren<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>__________________________________</ts><rend class="latin">Monsieur Le Baron!</rend><lbr type="forced"/>
+<tshtm><lbr type="forced"/></tshtm>
+<rend class="latin">Ce mecredi le</rend> 24 <rend class="latin">Nov:<h>bre</h></rend><ts>______________</ts><tshtm>__________________________________</tshtm><tspdf>\hfill </tspdf>gehorsamster diener<lbr type="forced"/>
+<tshtm>________</tshtm><u>1778</u><ts>___________________</ts><tshtm>______________________________________________</tshtm><tspdf>\hfill </tspdf>wolfgang Amadè Mozart <abbr expand="manu propria">mp</abbr></NI></letter></text>
+</MUP>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2014">2014-5</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1558</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">D-KA</bibl>
+            <bibl type="source" subtype="RISM">D-KA (Badische Landesbibliothek</bibl>
+            <bibl type="source" subtype="RISM">Musikabteilung)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:41:30 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_988.mup">
+<letter bd="988"><NI src="D-KA"><HEADER id="1558">WOLFGANG AMADÉ MOZART AN SEBASTIAN WINTER IN<tspdf>\newline</tspdf> DONAUESCHINGEN<lbr/>
+WIEN, 30. SEPTEMBER 1786</HEADER>
+<pg n="1"/>
+<ts>__________</ts><tshtm>______</tshtm>liebster freund! &#8211; <lbr type="forced"/>
+<lbr type="forced"/>
+Morgen gehet mit dem Postwagen die verlangte <rend class="latin">Musique</rend> von hier ab, &#8211; <lbr/>
+den<lbr type="BD"/> betrag der <rend class="latin">Copie</rend> werden sie zu ende des briefes finden. &#8211; es ist ganz natürlich<lbr type="BD"/><lbr/>
+daß einige Stücke von mir ins ausland versendet werden &#8211; das sind aber<lbr type="BD"/> Stücke,<lbr/>
+welche ich geflissentlich in die Welt ko<abbr type="topline" expand="mm">m</abbr>en lasse &#8211; und habe ihnen<lbr type="BD"/> die themata<lbr/>
+davon nur geschickt, weil es doch möglich wäre, daß sie nicht<lbr type="BD"/> dahin gelanget<lbr/>
+wären. die Stücke aber die ich für mich, oder für einen kleinen<lbr type="BD"/> zirkel lieb<pc force="weak">=</pc><lbr/>haber und ke<abbr type="topline" expand="nn">n</abbr>er |: mit dem versprechen sie <u>nicht</u> aus händen zu<lbr type="BD"/> geben :|<lbr/>
+zurückbehalte, kö<abbr type="topline" expand="nn">n</abbr>en ohnmöglich auswärtig beka<abbr type="topline" expand="nn">n</abbr>t se&#255;n, weil sie<lbr type="BD"/> es selbst hier<lbr/>
+nicht sind; &#8211; so ist es mit den 3 <rend class="latin">Concerten</rend> so ich die Ehre habe<lbr type="BD"/> S: D: zu<lbr/>
+schicken; ich war diesfalls bemüssiget über den betrag der <rend class="latin">Copie</rend><lbr type="BD"/> a<abbr type="topline" expand="nn">n</abbr>och ein<lbr/>
+kleines <rend class="latin">honorarium</rend> von 6 <rend class="latin">ducaten</rend> für Jedes <rend class="latin">Concert</rend> anzusetzen,<lbr type="BD"/> wobe&#255; ich doch noch<lbr/>
+seine D: sehr bitten muß, gedachte <rend class="latin">Concerten</rend> nicht aus handen zu geben.<lbr/>
+&#8211; be&#255; dem <rend class="latin">Concert <u>ex A</u></rend> sind 2 <rend class="latin">clarinetti</rend>. &#8211; sollten sie<lbr type="BD"/> selbe an ihrem<lbr/>
+Hofe nicht besitzen, so soll sie ein geschickter <rend class="latin">Copist</rend> in den<lbr type="BD"/> gehörigen ton über<pc force="weak">=</pc><lbr/>sezen; woda<abbr type="topline" expand="nn">n</abbr> die erste mit einer <rend class="latin">violin</rend>, und die zwote<lbr type="BD"/> mit einer bratsche<lbr/>
+soll gespiellt werden. &#8211; was meinen Antrag, so ich mir<lbr type="BD"/> die freyheit geno<abbr type="topline" expand="mm">m</abbr>en<lbr/>
+ihrem würdigen fürsten zu machen, anbelangt, so ist<lbr type="BD"/> zu erst für mich nöthig<lbr/>
+zu wissen, was für gattung von komposizion S: D:<lbr type="BD"/> am besten und am<lbr/>
+nöthigsten brauchen kö<abbr type="topline" expand="nn">n</abbr>en, und wie viel sie Jährlich<lbr type="BD"/> von Jeder gattung von mir<lbr/>
+zu besitzen verlangen, welches ich genau zu wissen<lbr type="BD"/> wünschte, um meinen<lbr/>
+<rend class="latin">Calcul</rend> machen zu kö<abbr type="topline" expand="nn">n</abbr>en. &#8211; ich bitte mich S: D: zu<lbr type="BD"/> füssen zu legen, und<lbr/>
+höchstderoselben meinen Wunsch deswegen beka<abbr type="topline" expand="nn">n</abbr>t zu<lbr type="BD"/> machen. &#8211; und Nun:<lbr/>
+liebster freund! &#8211; gesellschafter meiner Jugend! &#8211; da<lbr type="BD"/> ich Natürlicherweise<lbr/>
+die vielen Jahre durch schon oft in Ricken war, und doch<lbr type="BD"/> niemalen das<lbr/>
+<pg n="2"/>
+Vergnügen hatte sie aldort anzutreffen, so wäre in der that mein<lbr type="BD"/> grösster<lbr/>
+Wunsch daß sie mich in Wie<abbr type="topline" expand="nn">n</abbr>, oder ich sie in <rend class="latin">Donaueshingen</rend> be<lbr type="BD"/>suchen kö<abbr type="topline" expand="nn">n</abbr>te.<lbr/>
+&#8211; das leztere, verzeihen sie, wäre mir fast noch lieber! &#8211; da<lbr type="BD"/> ich nebst<lbr/>
+den vergnügen sie zu umarmen, auch die gnade hätte ihrem gnä<lbr type="BD"/>digsten fürsten<lbr/>
+meine aufwartung zu machen, und mich noch lebhafter der<lbr type="BD"/> vielen gnaden, so<lbr/>
+ich in meinen Jüngern Jahren an ihrem Hofe genossen, zu<lbr type="BD"/> eri<abbr type="topline" expand="nn">n</abbr>ern, welche ich<lbr/>
+in meinem leben nie vergessen werde. &#8211; in erwartung<lbr type="BD"/> einer baldigen<lbr/>
+antwort, und in der schmeichelhaften Hofnung sie doch vieleicht<lbr type="BD"/> noch einmal<lbr/>
+auf dieser Welt zu sehn, bin ich Ewig<lbr type="forced"/>
+<lbr type="forced"/>
+<u>Wie<abbr type="topline" expand="nn">n</abbr></u> den 30:<h>t</h>&#160;<rend class="latin">Sept:</rend>&#160;<uu>1786</uu>.<ts>______</ts><tshtm>__________________________</tshtm><tspdf>\hfill </tspdf>ihr ergebenster freund und diener<lbr type="BD"/><lbr type="forced"/>
+<ts>_________</ts><tshtm>________________________________________________________________</tshtm><tspdf>\hfill </tspdf>Wolfgang Amadè Mozart <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<pg n="3"/>
+<tspdf>\newpage</tspdf> 
+<ts>_____________________</ts><tshtm>__________</tshtm><rend class="latin"><u>Nota</u>.</rend><lbr type="BD"/><lbr type="forced"/>
+<table rules="none" rows="13" cols="3">
+<tr><td><u>die 3 <rend class="latin">Concerte</rend></u>, ohne <rend class="latin">clavier</rend>Sti<abbr type="topline" expand="mm">m</abbr>e.<ts>_________</ts></td><td>fl:<ts>_____</ts></td><td>x:</td><lbr type="BD"/></tr>
+<tr><td>109 bögen. <u>zu 8 <rend class="latin">X</rend>er</u>:</td><td>14</td><td>32</td><lbr type="BD"/></tr>
+<tshtm><tr><td><ts>__</ts></td><td>&#160;</td><td>&#160;</td></tr></tshtm>
+<tr><td><u>die 3 <rend class="latin">clavier</rend>Sti<abbr type="topline" expand="mm">m</abbr>en</u>.</td><td>&#160;</td><td>&#160;</td><lbr type="BD"/></tr>
+<tr><td>33 und <formula type="mfrac"><mn>1</mn><mi>2</mi></formula> bogen. zu 10 <rend class="latin">X</rend>:<h>er</h></td><td>5</td><td>35</td><lbr type="BD"/></tr>
+<tshtm><tr><td><ts>__</ts></td><td>&#160;</td><td>&#160;</td></tr></tshtm>
+<tr><td><rend class="latin"><u>honorarium</u></rend> für die 3 <rend class="latin">Concerte.</rend></td><td>&#160;</td><td>&#160;</td><lbr type="BD"/></tr>
+<tr><td><u>18 <rend class="latin">ducaten</rend></u>. zu <u>4 fl: 30</u>&#160;<rend class="latin">x</rend></td><td>81</td><td>&#8212;</td><lbr type="BD"/></tr>
+<tshtm><tr><td><ts>__</ts></td><td>&#160;</td><td>&#160;</td></tr></tshtm>
+<tr><td><u>die 3 <rend class="latin">Sin</rend><rend class="latin">fonien</rend></u></td><lbr type="BD"/><td>&#160;</td><td>&#160;</td></tr>
+<tr><td>116 und <formula type="mfrac"><mn>1</mn><mi>2</mi></formula> bogen zu 8 <rend class="latin">x</rend>:er</td><td>15</td><td>32</td><lbr type="BD"/></tr>
+<tshtm><tr><td><ts>__</ts></td><td>&#160;</td><td>&#160;</td></tr></tshtm>
+<tr><td><u>Mauth</u> und <rend class="latin"><u>Porto</u></rend></td><td>3</td><td>&#8212;</td><lbr type="BD"/></tr></table>
+<ts>____________</ts><tshtm>_______________________________</tshtm><rend class="latin"><u>Su<abbr type="topline" expand="mm">m</abbr>a</u>:</rend><ts>_____</ts><tshtm>__</tshtm><uu>119 fl:<ts>___</ts><tspdf>_________________</tspdf>39 x:</uu><lbr type="forced"/>
+<pg n="4"/>
+<anschrift rot="270"><rend class="latin">À<lbr type="forced"/>
+Monsieur<lbr type="forced"/>
+Monsieur Sebastien Winter<lbr type="forced"/>
+Valet de Chambre de<lbr type="BD"/> S: A: S:<lbr type="forced"/>
+le Prince de Fürstenberg <abbr expand="etc">p</abbr><abbr expand="etc">p</abbr>:<lbr type="forced"/>
+à<lbr type="forced"/>
+Donaueschingen</rend></anschrift><lbr type="forced"/>
+<add_note rot="90" schr_id="60645">
+Erhalt<abbr v="en"/> d<abbr v="en"/>. 11<h><uu>t</uu></h>: 8<rend class="latin">bis</rend>&#160;<abbr type="topline"><u>786</u>.</abbr> u. d<abbr v="en"/>: 14<h><uu>t</uu></h>: darauf<lbr/>
+die i<abbr type="topline" expand="nn">n</abbr>bemelte <rend class="latin">Musique</rend>. Beantw: d<abbr v="en"/> 8<h><uu>t</uu></h>: 9<rend class="latin">bis</rend>&#160;<rend class="latin">d: a:</rend><lbr/>
+u. auch den nembl<h><uu>n</uu></h> Tag mit d<abbr v="er"/> <rend class="latin">Diligence</rend> i<abbr type="topline" expand="nn">n</abbr>besagten Belauf<lbr/>
+der<abbr v="en"/> 119. f: 39 Ka&#255;sergelt &#8211; mit 143 <formula type="mfrac"><mn>1</mn><mi>2</mi></formula> f: Reichsgelt<lbr/>
+<rend class="latin">Frco</rend>. übersandt.<lbr type="forced"/>
+<lbr type="forced"/>
+diese 143 <formula type="mfrac"><mn>1</mn><mi>2</mi></formula> f: seind aus dem<lbr/>
+Hofzahlamt auf gdgst<abbr v="en"/> Befehl<lbr/>
+u: anweißung abgelangt word<abbr v="en"/>. wie der dem H<abbr type="curve"></abbr> Hof<pc force="weak">=</pc><lbr/>zahlmstr Baur zugestelte Schein das mehrere ausweißet.<lbr/>
+<ts>_____________________________________________________________________________</ts><rend class="latin">S: Winter:</rend>
+</add_note>
+</NI></letter>
+</text>
+</MUP>

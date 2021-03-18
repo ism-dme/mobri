@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2014">2014-5</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1436</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">GB-Lbl</bibl>
+            <bibl type="source" subtype="RISM">GB-Lbl (The British Library Music Collections)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:40:55 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_867.mup">
+<letter bd="867"><NI src="GB-Lbl"><HEADER id="1436">WOLFGANG AMADÉ MOZART AN ANTON KLEIN IN MANNHEIM<lbr/>
+WIEN, 21. MAI 1785</HEADER>
+<pg n="1"/>
+<add_note type="inline" schr_id=""><ts>_______________________________________________________________</ts>2. Von Mozart.</add_note><lbr/>
+<add_note type="inline" impl="pencil" schr_id=""><ts>___________________________________________________________________________________________________________</ts><rend class="latin">Brief über deutsche</rend></add_note><lbr/>
+<ts>__________</ts><tshtm>_______</tshtm>Hoch Schätzbarester Herr geheimer Rath! &#8211; <add_note type="inline" impl="pencil"><ts>_______________________________</ts><rend class="latin">Oper</rend><ts>_________</ts>5</add_note><lbr type="forced"/>
+<lbr type="forced"/>
+Ich habe sehr gefehlt: ich muß es beke<abbr type="topline" expand="nn">n</abbr>en, daß ich ihnen nicht gleich den<lbr type="BD"/> richtigen Empfang<lbr/>
+ihres briefes und mitgeschickten <rend class="latin">Pacquets</rend> gemeldet habe; &#8211;<lbr type="BD"/> das ich in der zwischenzeit 2 briefe von<lbr/>
+ihnen noch sollte erhalten haben &#8211; ist<lbr type="BD"/> nicht deme also; ich würde auf den ersten sogleich aus dem<lbr/>
+Schlaf geweckt<lbr type="BD"/> worden se&#255;n, und ihnen geantwortet haben, wie es izt thue. &#8211; ich beka<abbr type="topline" expand="mm">m</abbr><lbr type="BD"/> ihre 2 briefe<lbr/>
+lezten Postage mit einander. &#8211; ich habe schon selbst beke<abbr type="topline" expand="nn">n</abbr>t,<lbr type="BD"/> daß ich hierinen gefehlt habe, daß<lbr/>
+ich ihnen nicht gleich geantwortet habe; &#8211;<lbr type="BD"/> was aber die Oper anbelanget, würde ich ihnen damals<lbr/>
+eben so wenig darüber<lbr type="BD"/> haben schreiben kö<abbr type="topline" expand="nn">n</abbr>en, als izt. &#8211; lieber Hr. gehe. Rath &#8211;! &#8211; ich habe die<lbr type="BD"/> hände<lbr/>
+so voll zu thun, daß ich fast keine Minute finde, die ich für mich<lbr type="BD"/> anwenden kö<abbr type="topline" expand="nn">n</abbr>te. &#8211; als ein<lbr/>
+Ma<abbr type="topline" expand="nn">n</abbr> von so grosser Einsicht und Erfahrung<lbr type="BD"/> wissen sie selbst besser als ich, daß man so was<lbr/>
+mit aller möglichen aufmerk<lbr type="BD"/>samkeit und überlegung &#8211; nicht einmal &#8211; sondern vielmal über<pc force="weak">=</pc><lbr/>lesen muß. &#8211;<lbr type="BD"/> bishero hatte noch nicht zeit es einmal &#8211; ohne unterbrechung zu lesen. &#8211; alles<lbr type="BD"/><lbr/>
+was ich dermalen sagen ka<abbr type="topline" expand="nn">n</abbr>, ist, daß &#8211; ich es noch nicht aus handen geben möchte; &#8211; ich bitte sie<lbr/>
+also mir dies Stück noch auf einige zeit anzuver<lbr type="BD"/>trauen. &#8211; im falle es mir Lust machen<lbr/>
+sollte es in Musik zu setzen, so wünschte<lbr type="BD"/> doch vorher zu wissen, ob es eigentlich an einem orte<lbr/>
+zur auführung besti<abbr type="topline" expand="mm">m</abbr>t<lbr type="BD"/> se&#255;e? &#8211; de<abbr type="topline" expand="nn">n</abbr> so ein Werk verdiente so wohl von seiten der Poesie als<lbr/>
+Musick<lbr type="BD"/> nicht umsonst gemacht zu se&#255;n. &#8211; ich hoffe mir über diesen Punckt eine er<lbr type="BD"/>läuterung<lbr/>
+von ihnen. &#8211; Nachrichten, die Zukünftige teutsche Singbühne<lbr type="BD"/> betrefend ka<abbr type="topline" expand="nn">n</abbr> ich ihnen noch<lbr/>
+dermalen keine geben, da es dermalen noch<lbr type="BD"/> |: das bauen in dem dazu besti<abbr type="topline" expand="mm">m</abbr>ten kärtnerthor<pc force="weak">=</pc><lbr/>theater ausgeno<abbr type="topline" expand="mm">m</abbr>en :| sehr<lbr type="BD"/> stille hergehet. &#8211; sie soll mit anfangs <rend class="latin">october</rend> eröfnet werden.<lbr/>
+ich, meines<lbr type="BD"/>theils, verspreche ihr nicht viel glück. &#8211; nach den bereits gemachten anstalten<lbr type="BD"/> sucht man<lbr/>
+in der that mehr die bereits vieleicht nur auf einige zeit gefallene<lbr type="BD"/> teutsche Oper, gänzlich zu<lbr/>
+Stürzen &#8211; als ihr wieder empor zu helfen &#8211; und<lbr type="BD"/> sie zu erhalten. &#8211; Meine Schwägerin <rend class="latin">Lange</rend><lbr/>
+nur allein darf zum teutschen<lbr type="BD"/> SingSpiele. &#8211; die <rend class="latin">Cavallieri</rend>, <rend class="latin">Adamberger</rend>, die Teüber,<lbr/>
+lauter teutsche, worauf<lbr type="BD"/> teutschland Stolz se&#255;n darf, müssen be&#255;m welschen theater bleiben &#8211; <lbr/>
+müssen<lbr type="BD"/> gegen ihre eigene landsleute kämpfen! &#8211; &#8211; &#8211; die teutschen Sänger und<lbr type="BD"/> Sängeri<abbr type="topline" expand="nn">n</abbr>en<lbr/>
+dermalen sind leicht zu zählen! &#8211; und sollte es auch wirklich<lbr type="BD"/> so gute als die bena<abbr type="topline" expand="nn">n</abbr>ten, Ja auch noch<lbr/>
+bessere geben, daran ich doch sehr<lbr type="BD"/> zweifle, so scheint mir die hiesige theater <rend class="latin">direction</rend> zu<lbr/>
+<rend class="latin">œcono</rend>misch und zu<lbr type="BD"/> wenig <rend class="latin">Patriot</rend>isch zu denken um mit schwerem geld fremde ko<abbr type="topline" expand="mm">m</abbr>en zu<lbr/>
+lassen,<lbr type="BD"/> die sie hier im orte besser &#8211; wenigstens gleich gut &#8211; und umsonst hat; &#8211;<lbr type="BD"/> de<abbr type="topline" expand="nn">n</abbr><lbr/>
+die welsche trup braucht ihrer nicht &#8211; was die anzahl betrift; sie ka<abbr type="topline" expand="nn">n</abbr><lbr type="BD"/> für sich alleine<lbr/>
+Spielen. &#8211; die <rend class="latin">Idèe</rend> dermalen ist, sich be&#255; der teutschen oper<lbr type="BD"/> mit <rend class="latin">acteurs</rend> und <rend class="latin">actricen</rend><lbr/>
+zu behelfen, die nur zur Noth Singen; &#8211; zum grössten<lbr type="BD"/> unglück sind die <rend class="latin">directeurs</rend> des<lbr/>
+theaters sowohl als des <rend class="latin">orchesters</rend> be&#255;behalten<lbr type="BD"/> worden, welche sowohl durch ihre unwissenheit<lbr/>
+als unthätigkeit das meiste<lbr type="BD"/> dazu be&#255;getragen haben, ihr eigenes Werk fallen zu machen.<lbr/>
+wäre nur ein<lbr type="BD"/> einziger Patriot mit am brette &#8211; es sollte ein anders gesicht beko<abbr type="topline" expand="mm">m</abbr>en! &#8211;<lbr type="BD"/>&#160;<lbr/>
+doch da würde vieleicht das so schön aufkeimende <u>National=theater</u> zur blüthe<lbr type="BD"/> gedeihen,<lbr/>
+und das wäre Ja ein Ewiger Schandfleck für teutschland, we<abbr type="topline" expand="nn">n</abbr> wir<lbr type="BD"/> teutsche einmal mit Ernst<lbr/>
+<lbr/>
+<add_num>25</add_num>
+<pg n="2"/>
+<add_empf>Wien den<lbr/>
+21t<abbr type="curve">.</abbr> Ma&#255;<lbr/>
+<u>85</u><ts>___</ts>Mozart</add_empf>
+<lbr/>
+anfiengen teutsch zu denken &#8211; teutsch zu handeln &#8211;<lbr type="BD"/> teutsch zu reden, und gar teutsch<lbr/>
+&#8211; zu Singen!!! &#8211; <lbr type="forced"/>
+Ne<abbr type="topline" expand="mm">m</abbr>en sie mir nicht übel mein bester Hr: geh: Rath, we<abbr type="topline" expand="nn">n</abbr> ich in meinem<lbr type="BD"/> Eifer vieleicht<lbr/>
+zu weit gegangen bin! &#8211; gänzlich überzeugt mit einem <u>teut<lbr type="BD"/>schen Ma<abbr type="topline" expand="nn">n</abbr>e</u> zu reden, liess ich<lbr/>
+meiner zunge fre&#255;en lauf, welches dermalen leider so selten geschehen darf, daß man<lbr/>
+sich nach solch einer herzensErgies<lbr type="BD"/>sung keklich einen Rausch trinken dörfte, ohne gefahr<lbr/>
+zu laufen seine<lbr type="BD"/> gesundheit zu verderben. &#8211; ich verharre mit vollko<abbr type="topline" expand="mm">m</abbr>enster achtung<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_______________________</ts><tshtm>________________</tshtm>Schätzbarester Hr: geheimer Rath<lbr type="forced"/>
+<lbr type="forced"/>
+<u>Wie<abbr type="topline" expand="nn">n</abbr></u> den 21:<h>tn</h> Ma&#255; <uu>1785</uu>.<ts>_______</ts><tshtm>_____________________________________________</tshtm><tspdf>\hfill </tspdf>dero gehorsamster diener<lbr type="BD"/><lbr type="forced"/>
+<ts>____________</ts><tshtm>________________________________________________________________________________________</tshtm><tspdf>\hfill </tspdf>W: A: Mozart <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<lbr/>
+<add_sign>ZWEIG 68</add_sign>
+<lbr/>
+<add_seal type="owner">BRITISH<lbr/>LIBRARY</add_seal>
+</NI></letter>
+</text>
+</MUP>

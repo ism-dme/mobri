@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2014">2014-5</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1321</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">US-NYpm</bibl>
+            <bibl type="source" subtype="RISM">US-NYpm (The Morgan Library &amp; Museum)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:40:27 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_752.mup">
+<letter bd="752"><NI src="US-NYpm"><HEADER id="1321">WOLFGANG AMADÉ MOZART AN LEOPOLD MOZART IN SALZBURG<lbr/>
+WIEN, 18. JUNI 1783</HEADER>
+<pg n="1"/>
+<rend class="latin">Mon trés cher Pére!</rend><ts>______</ts><tshtm>_______________________________________</tshtm><tspdf>\hfill </tspdf><rend class="latin"><u>Vienne</u></rend>&#160;<u><rend class="latin">ce</rend> 18</u>&#160;<rend class="latin">de</rend>&#160;<rend class="latin"><u>Juin</u></rend><lbr type="forced"/>
+<ts>_________</ts><tshtm>_______________________________________________________________________________________</tshtm><tspdf>\hfill </tspdf><uu>1783</uu><lbr type="forced"/>
+<lbr type="forced"/>
+Ich gratuliere, Sie sind Gros=Papa! &#8211; gestern früh <suppl hand="self" pos="supra">den 17:<h>tn</h></suppl> um halb 7 uhr<lbr/>
+ist<lbr type="BD"/> mein liebes Weib glücklich mit einem grossen, Starken und<lbr/>
+kugelrunden Buben<lbr type="BD"/> entbunden worden; &#8211; um halb 2 uhr Nachts fiengen<lbr/>
+die Schmerzen an &#8211; folg<lbr type="BD"/>lich &#8211; war es mit dieser Nacht um alle<lbr/>
+ruhe und schlaf für be&#255;de gethan. &#8211; um<lbr type="BD"/> 4 uhr schickte ich um<lbr/>
+meine Schwiegermutter &#8211; und da<abbr type="topline" expand="nn">n</abbr> um die Heba<abbr type="topline" expand="mm">m</abbr>e;<lbr type="BD"/> &#8211; um<lbr/>
+6 uhr ka<abbr type="topline" expand="mm">m</abbr> sie im Stuhl &#8211; und um halb 7 uhr war alles vorbe&#255;.<lbr type="BD"/>&#160;<lbr/>
+&#8211; Meine Schwiegermutter bringt nun alles das üble was sie<lbr/>
+ihrer tochter <u>ledigerweise</u> zugefügt hat, nun wieder mit allem<lbr/>
+guten herein. &#8211; sie bleibt den<lbr type="BD"/> ganzen tag be&#255; ihr. &#8211; <lbr type="forced"/>
+Mein liebes Weib, welche ihnen die Hände küsst, und meine liebe<lbr/>
+schwester<lbr type="BD"/> vom Herzen umarmt, befindet sich, so viel es diese<lbr/>
+umstände zulassen, recht<lbr type="BD"/> gut; &#8211; Ich hoffe zu gott, daß, da sie<lbr/>
+sich gut hält, sie ihr kindbett auch glück<lbr type="BD"/>lich überstehen wird. &#8211; <lbr/>
+auf das Milchfieber habe ich Sorge! &#8211; de<abbr type="topline" expand="nn">n</abbr> sie hat ziemliche<lbr/>
+Brüste! &#8211; Nun<lbr type="BD"/> hat das Kind wieder meinen Willen, und doch<lbr/>
+mit meinem Willen eine Säug=<lbr type="BD"/>A<abbr type="topline" expand="mm">m</abbr>e beko<abbr type="topline" expand="mm">m</abbr>en! &#8211; Meine frau<lbr/>
+sie se&#255;e es im Stande oder nicht, sollte<lbr type="BD"/> niemalen ihr kind stillen<lbr/>
+das war i<abbr type="topline" expand="mm">m</abbr>er mein fester vorsaz! &#8211; allein, einer<lbr type="BD"/> andern<lbr/>
+Milch solle Mein kind auch nicht hineinschlucken! &#8211; sondern<lbr/>
+be&#255;<lbr type="BD"/> Wasser, wie meine Schwester und ich, will ich es aufziehen. &#8211; <lbr/>
+&#8211; allein &#8211; die<lbr type="BD"/> Heba<abbr type="topline" expand="mm">m</abbr>e, meine schwiegermutter, und die meisten<lbr/>
+leute hier haben mich<lbr type="BD"/> ordentlich gebeten ich sollte das nicht thun,<lbr/>
+nur aus dieser ursache weil hier<lbr type="BD"/> die meisten kinder be&#255;m<lbr/>
+<pg n="2"/>
+Wasser darauf gehen, inde<abbr type="topline" expand="mm">m</abbr> die leute hier nicht<lbr type="BD"/> damit umgehen<lbr/>
+kö<abbr type="topline" expand="nn">n</abbr>en. &#8211; das hat mich nun bewegt &#8211; nachzugeben &#8211; de<abbr type="topline" expand="nn">n</abbr> &#8211;<lbr type="BD"/> ich<lbr/>
+möchte mir nicht gerne einen vorwurf machen lassen. &#8211; <lbr type="forced"/>
+<u>Nun wegen der gevatterschaft</u>! &#8211; hören sie was mir geschehen<lbr/>
+ist. &#8211; ich liess<lbr type="BD"/> die glückliche Entbindung meiner frau gleich dem<lbr/>
+<rend class="latin">Baron wetzlar</rend> |: als meinen<lbr type="BD"/> wahren guten freund :| benach<pc force="weak">=</pc><lbr/>richtigen; &#8211; er ka<abbr type="topline" expand="mm">m</abbr> gleich darauf selbst &#8211;<lbr type="BD"/> und <rend class="latin">offrirte</rend> sich<lbr/>
+zum gevattern &#8211; Ich ko<abbr type="topline" expand="nn">n</abbr>te es ihm nicht abschlagen &#8211; und<lbr type="BD"/><lbr/>
+dachte be&#255; mir, ich ka<abbr type="topline" expand="nn">n</abbr> ihn deswegen doch <rend class="latin">Leopold</rend> ne<abbr type="topline" expand="nn">n</abbr>en &#8211; <lbr/>
+&#8211; und als ich<lbr type="BD"/> das <suppl hand="self" pos="infra">dachte</suppl> &#8211; so sagte er voll freuden &#8211; <lbr/>
+Ah, nun haben sie einen <rend class="latin">Raymundl</rend> &#8211;<lbr type="BD"/> und küsste das<lbr/>
+kind &#8211; was war also zu thun &#8211; ich liess den Buben also<lbr type="BD"/><lbr/>
+<rend class="latin">Raymund Leopold</rend> taufen. &#8211; Ich ka<abbr type="topline" expand="nn">n</abbr> ihnen aufrichtig gestehen<lbr/>
+daß we<abbr type="topline" expand="nn">n</abbr><lbr type="BD"/> sie mir nicht ihre Me&#255;nung darüber in einen<lbr/>
+Briefe geschrieben hätten, ich<lbr type="BD"/> mich sehr <rend class="latin">Embarassirt</rend> würde<lbr/>
+befunden haben &#8211; und ich wollte nicht gut<lbr type="BD"/> Stehen, ob ich<lbr/>
+es ihm nicht etwa rund abgeschlagen hätte! &#8211; ihr brief<lbr/>
+tröstet<lbr type="BD"/> mich aber daß sie mit meinem verfahren nicht<lbr/>
+unzufrieden se&#255;n werden! &#8211;<lbr type="BD"/> er heisst Ja doch auch <rend class="latin">Leopold</rend>.<lbr/>
+<tspdf>\newpage</tspdf> 
+&#8211; Nun muß ich schlüssen, &#8211; ich küsse ihnen sa<abbr type="topline" expand="mm">m</abbr>t meiner<lbr/>
+kindbetterin<lbr type="BD"/> 1000mal die hände, und wir umarmen<lbr/>
+1000mal unsere liebe schwester und<lbr type="BD"/> sind Ewig dero<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_______</ts><tshtm>_________________________________________________________</tshtm><tspdf>\hfill </tspdf>gehorsamste Kinder<lbr type="forced"/>
+<ts>_______</ts><tshtm>_________________________________________________________</tshtm><tspdf>\hfill </tspdf>W: A: C: Mozart <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<pg n="3"/>
+<add_note schr_id="39408" impl="pencil">1783<lbr/>
+18 <rend class="latin">Junii</rend></add_note><lbr/>
+<anschrift>
+<add_seal type="post">Von Wien</add_seal>
+<rend class="latin">À<lbr type="forced"/>
+Monsieur<lbr type="forced"/>
+Monsieur Leopold Mozart<lbr type="forced"/>
+Maitre de la Chapelle de<lbr type="forced"/>
+S: A: R: L'archeveque de et à<lbr type="forced"/>
+Salzbourg.</rend></anschrift>
+<pg n="4"/>
+<vacat/>
+</NI></letter>
+</text>
+</MUP>

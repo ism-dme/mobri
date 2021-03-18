@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2014">2014-5</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1687</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Verbleib unbekannt</bibl>
+            <bibl type="source" subtype="RISM">Verbleib unbekannt</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:42:05 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_1117.mup">
+<letter bd="1117"><NI src="Erstdruck"><HEADER id="1687">WOLFGANG AMADÉ MOZART AN MICHAEL PUCHBERG IN WIEN<lbr/>
+WIEN, 20. FEBRUAR 1790</HEADER>
+<pg n="1"/>
+<ts>___________</ts><tshtm>_______</tshtm>Liebster Freund! &#8211; <lbr type="forced"/>
+<ts>____</ts>Wenn ich gewußt hätte, daß Sie mit dem Biere fast zu Ende sind, so würde ich<lbr type="BD"/>
+mich gewis nie unterstanden haben Sie davon zu berauben, ich nehme mir also<lbr type="BD"/>
+die Freyheit Ihnen hiemit den andern Blutzer wieder zurück zu schicken, da<lbr type="BD"/>
+ich heute schon mit Wein versehen bin; &#8211; ich danke Ihnen herzlich für den<lbr type="BD"/>
+ersten und wenn Sie wieder mit Bier versehen seyn werden, so bitte ich mir<lbr type="BD"/>
+ein Blutzerchen aus; Sie wissen wie gerne ich es trinke; &#8211; ich bitte Sie, bester<lbr type="BD"/>
+Freund, schicken Sie mir nur auf ein paar Tage etliche Ducaten, <u>wenn Sie<lbr type="BD"/>
+können</u>, weil es eine Sache betrifft, die sich nicht verschieben läßt, sondern<lbr type="BD"/>
+augenblicklich geschehen muß; &#8211; verzeihen Sie meine Zudringlichkeit, es ent<lbr type="BD"/>springt
+aus dem großen Vertrauen, so ich in Ihre Freundschaft und Bruder<lbr type="BD"/>liebe
+setze. &#8211; <lbr type="forced"/>
+<add_note type="inline" schr_id="57866"><ts>____</ts>den 20ten Febr. 1790 25 fl. gesandt.</add_note><ts>_______</ts><tshtm>_______________________________________________</tshtm><tspdf>\hfill </tspdf>Ewig Ihr<lbr type="BD"/><lbr type="forced"/>
+<ts>_______</ts><tshtm>________________________________________________________________________________________________________________</tshtm><tspdf>\hfill </tspdf>Mozart.<lbr type="forced"/>
+</NI></letter>
+</text>
+</MUP>

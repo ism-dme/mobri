@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2012">2012-10</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=991</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:38:44 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_427.mup">
+<letter bd="427" lang="fr"><HEADER id="991">FRIEDRICH MELCHIOR BARON VON GRIMM AN LEOPOLD MOZART IN SALZBURG<lbr/>
+PARIS, 21. FEBRUAR 1778</HEADER>
+<pg n="1"/>
+<rend class="latin"><ts>_____</ts>J'avais reçu, Monsieur, votre lettre du 25 Décembre de<pc force="weak">-</pc><lbr/>puis quelques jours,<lbr type="BD"/> et je me préparais à y répondre, lorsqu'on<lbr/>
+m'a apporté celle du 9 de ce mois.<lbr type="BD"/> Il est très vrai que j'ai<lbr/>
+passé par Augsbourg le jour que M. votre fils a donné son<lbr/>
+concert. Je me trouvai à ce concert, et assez près pour me faire<lbr/>
+remarquer,<lbr type="BD"/> mais ni lui ni Madame sa mère me reconnut;<lbr/>
+et comme j'étais très pressé et<lbr type="BD"/> que je repartais la nuit même,<lbr/>
+que je ne m'étais même arrêté que pour ce<lbr type="BD"/> concert, je ne<lbr/>
+voulais pas me faire connaitre, et ayant appris que notre<lbr type="BD"/><lbr/>
+Amadeo devait aller à Paris, je réservais mon entrevue pour<lbr/>
+ce temps. Je<lbr type="BD"/> serai très aise de le revoir, mais je suis fâché<lbr/>
+qu'il vienne sans vous. Comme<lbr type="BD"/> il doit être en route présentement,<lbr/>
+je m'attends à le voir arriver d'un jour<lbr type="BD"/> à l'autre, et je sau<pc force="weak">=</pc><lbr/>rai alors ce que je pourrai faire pour son service. Il est en<lbr type="BD"/><lbr/>
+bonnes mains étant avec M. Wendling qui pourra lui être<lbr/>
+très utile, mais<lbr type="BD"/> personne ne peut remplacer un pere. Il y a trois</rend><lbr/><lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="2"/>
+<rend class="latin">mois que je suis de retour<lbr type="BD"/> de mon voyage de Russie, mais j'ignore<lbr/>
+encore si ce sera le dernier. Lorsque<lbr type="BD"/> vous m'avez vu, je ne<lbr/>
+promettais pas de devenir un si grand coureur; il<lbr type="BD"/> serait temps<lbr/>
+de songer au repos. Je vous envoie ci joint mon adresse, pour<lbr type="BD"/><lbr/>
+que vos lettres ne risquent plus de s'égarer. Je suis accablé<lbr/>
+d'affaires et<lbr type="BD"/> d'écritures et par conséquent bien mauvais cor<pc force="weak">=</pc><lbr/>respondant; mais lorsque<lbr type="BD"/> M. votre fils sera ici, il sera mon se<pc force="weak">=</pc><lbr/>cretaire, et nous vous tiendrons au<lbr type="BD"/> courant. En attendant n'ayez<lbr/>
+point d'inquiétude. Je crois votre fils d'une<lbr type="BD"/> conduite assez sage<lbr/>
+pour ne pas redouter pour lui les dangers de Paris. S'il<lbr type="BD"/> était en<pc force="weak">=</pc><lbr/>clin au libertinage, il pourrait sans doute courir quelques<lbr/>
+risques,<lbr type="BD"/> mais s'il a de la raison, il se garantira de tout incon<pc force="weak">=</pc><lbr/>venient sans mener pour<lbr type="BD"/> cela la vie d'un hermite. Je vous<lbr/>
+prie de dire mille choses de ma part à<lbr type="BD"/> Madame Mozart<lbr/>
+que je crois de retour ou du moins près de Salzbourg. J'es<pc force="weak">=</pc><lbr/>pere<lbr type="BD"/> que Mademoiselle Mozart se souvient encore de</rend><lbr/>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="3"/>
+<rend class="latin">moi. Je suis bien fâché que<lbr type="BD"/> vous soyez cloué à Salzbourg.<lbr/>
+adieu, Monsieur, vous connaissez les sentimens<lbr type="BD"/> que je vous<lbr/>
+ai voués, et je vous prie de les regarder comme invariables.<lbr/>
+<ts>______________________________</ts>à Paris le 21 Février 1778.</rend><lbr type="forced"/>
+<lbr type="forced"/>
+<lbr type="forced"/>
+Monsieur le Baron de Grimm, Ministre<lbr type="forced"/>
+Plénipotentiaire de Saxe-Gotha,<lbr type="forced"/>
+<lbr type="forced"/>
+Rue de la Chaussée d'Antin, près le<lbr type="forced"/>
+Boulevard.<lbr type="forced"/>
+<pg n="4"/>
+<vacat/></letter>
+</text>
+</MUP>

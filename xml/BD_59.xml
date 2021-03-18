@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2020">2020-02</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=617</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Verbleib unbekannt (Vorlage: Abschrift um 1768 in D-B)</bibl>
+            <bibl type="source" subtype="RISM">Verbleib unbekannt, Vorlage: Abschrift um 1768 in D-B</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:36:32 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_59.mup">
+<letter bd="59">
+<NI src="unbekannt">
+<HEADER id="617">LEOPOLD MOZART AN LORENZ HAGENAUER IN SALZBURG<lbr/>
+MAINZ, 3. AUGUST 1763</HEADER>
+<pg n="1"/>
+<add_num schr_id="57010" impl="crayon" color="red"><ts>__________________________</ts>N. 14.</add_num>
+<ts>______________________________</ts><tspdf>\hfill </tspdf>Ma&#255;nz den 3.<h>t<abbr v="en"/></h>&#160;<rend class="latin">Aug<abbr type="curve">:</abbr></rend><lbr type="forced"/>
+<ts>____________________________________________________</ts><tspdf>\hfill </tspdf><u>1763.</u><lbr type="forced"/>
+<rend class="latin">Monsieur</rend>.<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____</ts>Meine Briefe von <u>Ludwigsburg</u> und<lbr/>
+<u>Schwetzingen</u> werden sie sonderen Zweifel<lbr type="BD"/> er<pc force="weak">=</pc><lbr/>halten haben. Im ersten schrieb ich ihnen,<lbr/>
+daß sie mir nach Mannheim, im<lbr type="BD"/> Zweiten aber,<lbr/>
+daß sie mir nach Franckfurt antworten sol<pc force="weak">=</pc><lbr/>len. Wir haben aber<lbr type="BD"/> vorher von Schwetz<pc force="weak">=</pc><lbr/>ingen einmal eine Spazierfarth nach Heidelberg<lbr/>
+gemacht,<lbr type="BD"/> um alda das Schlos, und das große<lbr/>
+<choice><orig>Vaß</orig><corr hand="diff" schr_id="57010">Faß</corr></choice> zu sehen. Überhaupts hat <choice><orig>Heidlberg</orig><corr hand="diff" schr_id="57010">Heidelberg</corr></choice><lbr/>
+viel ähnliches mit Salzburg, das ist; der Lage<lbr/>
+nach: und die eingefahlenen<lbr type="BD"/> Thürn und Mau<pc force="weak">=</pc><lbr/>ren im Schloß, die mit erstaunen anzuse<pc force="weak">=</pc><lbr/>hen sind, zeigen die<lbr type="BD"/> traurigen Früchte der<lbr/>
+ehemahligen französischen Kriege. In der<lbr/>
+heiligen Geist<lbr type="BD"/> Kirche, die in der Historie we<pc force="weak">=</pc><lbr/>gen des Streits zwischen den Catholischen und<lbr type="BD"/><lbr/>
+den <rend class="latin">Calvin</rend>sten bekannt ist, und darum die<lbr/>
+Churfürste ihre <rend class="latin">Residenz</rend> nach<lbr type="BD"/> Mannheim ver<pc force="weak">=</pc><lbr/>legt haben, hat unser <rend class="latin">Wolfgang<abbr type="curve">:</abbr></rend> die Orgel<lbr/>
+<pg n="2"/>
+mit solcher Bewun<lbr type="BD"/>derung gespielet, daß, zum<lbr/>
+ewigen Angedencken sein Nahme alda auf<lbr/>
+<rend class="latin">ordre</rend><lbr type="BD"/> des Herrn Statt=<rend class="latin">Decani</rend> an der Orgel<lbr/>
+mit umständten angeschrieben worden.<lbr type="forced"/>
+Von Schwetzingen sind wir mit 15. <rend class="latin">Louis d'or<lbr/>
+Præsent</rend> über Worms nach<lbr type="BD"/> Ma&#255;nz gegang<pc force="weak">=</pc><lbr/>en. Zu Mannheim waren wir 3. Täge,<lbr/>
+und man hat uns alda<lbr type="BD"/> alles <rend class="latin">Franco</rend> gezeigt,<lbr/>
+was zu sehen ist. Wir waren auch im Wirts<pc force="weak">=</pc><lbr/>hauß zum<lbr type="BD"/>&#160;<u>Prinz Friedrich</u> genannt von ei<pc force="weak">=</pc><lbr/>nem Französischen Obersten <rend class="latin">franci</rend>ert, der be<pc force="inter">=</pc><lbr/>ständig in <rend class="latin">Indien</rend> gedienet hat. Wenn ich<lbr/>
+ihnen die verschiedenen Seltenheiten,<lbr type="BD"/> so dieser<lbr/>
+Oberste aus diesen Ländern mit sich hat, be<pc force="weak">=</pc><lbr/>schreiben sollte; so wurde<lbr type="BD"/> ich viele Bögen Papier<lbr/>
+zu überschreiben haben. Ich hab unter andern<lbr/>
+ein Kleid<lbr type="BD"/> von Papier, und ein Kleid von Holz<lbr/>
+gemacht, und auch im Stuck gesehen.<lbr type="BD"/> Das<lbr/>
+kennen sie aber ehe nicht, bevor sie nicht ein<lbr/>
+Stückchen <choice><orig>ausgezopft</orig><corr hand="diff" schr_id="57010">ausgezupft</corr></choice> haben.<lbr type="BD"/>
+Er hat der<lbr/>
+Nannerl ein Ringel, so etwas mehr, als ei<pc force="weak">=</pc><lbr/>nen <rend class="latin">Louis d'or</rend> mag werth<lbr type="BD"/>
+se&#255;n, und dem<lbr/>
+<rend class="latin">Wolfgang<abbr type="curve">:</abbr></rend> ein artiges Zahnstierer <choice><orig>Bixl</orig><corr hand="diff" schr_id="57010">Büchsel</corr></choice><lbr/>
+<pg n="3"/>
+verehrt. Die <choice><orig><u>Statt</u></orig><corr hand="diff" schr_id="57010"><u>Stadt</u></corr></choice><lbr type="BD"/>&#160;<u>Mannheim</u> ist wegen<lbr/>
+ihrer <rend class="latin">Regulari</rend>tät ungemein schön; aber, da<lbr/>
+alle Häuser<lbr type="BD"/> nur ein Stock hoch sind; so scheinte<lbr/>
+es eine Statt <rend class="latin">en Miniatur</rend> zu se&#255;n. Hin<pc force="inter">=</pc><lbr/>gegen sind gleich be&#255;m Eingange <choice><orig>des Haus</orig><corr hand="diff" schr_id="57010">der Häus[er]</corr></choice><lbr/>
+schon ungemein schöne Zimmer,<lbr type="BD"/> und man findet<lbr/>
+auch unter dem Tache die feinsten Wohnungen.<lbr/>
+Am Ende<lbr type="BD"/> ieder Strasse sehen sie 4. Haupt<pc force="weak">=</pc><lbr/>strassen <choice><orig>ins</orig><corr hand="diff" schr_id="57010">im</corr></choice> Kreutz zu gleich, deren iede der<lbr type="BD"/><lbr/>
+andern in allem vollkommen ähnlich ist.<lbr/>
+Und durch alle Strassen stehen<lbr type="BD"/> be&#255;derse&#255;ts<lbr/>
+zwischen dem mittern fahrweege, und den be&#255;<pc force="weak">=</pc><lbr/>derseitigen Wasser<lbr type="BD"/> ablauf Rinnen, bemahlte<lbr/>
+Pfähle, auf denen be&#255; <choice><orig>dunckler</orig><corr hand="diff" schr_id="57010">dunkler</corr></choice> Nacht die<lbr/>
+Laternen<lbr type="BD"/> stehen. Es kann demnach, wie<lbr/>
+leicht zu erachten, nichts schöners zu sehen se&#255;n,<lbr type="BD"/><lbr/>
+als eine dergleichen beleuchtete <rend class="latin">perspectivi</rend><pc force="weak">=</pc><lbr/>sche Aussicht, sonderheitlich in den<lbr type="BD"/> 4. Haupt<pc force="weak">=</pc><lbr/>strassen, da man zum Exempl vom Schlosse<lbr/>
+oder <rend class="latin">Residenz</rend> bis ans<lbr type="BD"/>&#160;<choice><orig><rend class="latin">Necker</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">Neckar</rend></corr></choice>=Thor siehet <abbr expand="etc">p</abbr><abbr expand="etc">p</abbr>.<lbr type="forced"/>
+<ts>_____</ts><u>Worms</u> ist ein <choice><orig>Altvätterischer</orig><corr hand="diff" schr_id="57010">Altväterischer</corr></choice> und<lbr/>
+durch die alten Franzosen=Kriege<lbr type="BD"/> sehr <w lemma="verdorbener">verdor<pc force="weak">=</pc><lbr/><pg n="4" type="wordsep"/>bener</w> Ort, Es ist aber wegen der alten Be<pc force="weak">=</pc><lbr/>gebenheiten der<lbr type="BD"/> Dom, und sonderheitlich die<lbr/>
+<choice><orig><rend class="latin">Luter</rend>ische</orig><corr hand="diff" schr_id="57010"><rend class="latin">Luther</rend>ische</corr></choice> Kirche merckwürdig, wo <rend class="latin">Luther</rend><lbr type="BD"/> vor<lbr/>
+dem <rend class="latin">Consilio</rend> erschienen ist. Wir speisten<lbr/>
+den Abend in <choice><orig>Wormbs</orig><corr hand="diff" schr_id="57010">Worms</corr></choice> be&#255; dem Herrn <rend class="latin">Baron</rend><lbr/>
+<abbr type="topline" expand="von">v</abbr> Dahlberg. Diese <rend class="latin">Familie</rend> ist so alt, daß<lbr/>
+man einen Brief von<lbr type="BD"/> zusammgerolltem Zeuge,<lbr/>
+so einer Baumrinde ähnlich ist vor<pc force="weak">=</pc><lbr/>zeiget, auf<lbr type="BD"/> welcher ein Herr <abbr type="topline" expand="von">v</abbr>&#160;<choice><orig>Dahlberg</orig><corr hand="diff" schr_id="57010">Dalberg</corr></choice> un<pc force="weak">=</pc><lbr/>ter anderen als eine Neuigkeit berichtet, daß<lbr type="BD"/><lbr/>
+ein Zimmermanns Sohn, der sich für den Messi<pc force="weak">=</pc><lbr/>as ausgegeben, zum Kreuz<lbr type="BD"/>galgen se&#255;e ver<pc force="weak">=</pc><lbr/>damt worden. <rend class="latin">Credibile est veteres, latro<lbr/>
+ceu præsul et hospes</rend>,<lbr type="BD"/> sagt die Bibel der Ru<pc force="weak">=</pc><lbr/>dimentisten. Wenn sie einen bösen weg<lbr/>
+versuchen wollen,<lbr type="BD"/> so <choice><orig>därfen</orig><corr hand="diff" schr_id="57010">dürfen</corr></choice> sie nur von Worms<lbr/>
+auf <rend class="latin">Oppenheim</rend> fahren. In <rend class="latin">Oppenheim</rend><lbr/>
+sehen sie<lbr type="BD"/> auch die traurigsten <choice><orig>Überbleibseln</orig><corr hand="diff" schr_id="57010">Überbleibsel</corr></choice><lbr/>
+der ehemahligen franzosen Kriege. Von<lbr type="BD"/><lbr/>
+<rend class="latin">Oppenheim</rend> auf Ma&#255;nz ist es höchst angenehm;<lbr/>
+denn auf einer Seite fährt<lbr type="BD"/> man hart am<lbr/>
+Rheine, und lincks sind felder, dörffer, Gärten,<lbr/>
+und Weinberge.<lbr type="BD"/>&#160;<u>Ma&#255;nz</u> ist in der Mitte<lbr/>
+ein Eng zusa<abbr type="topline" expand="mm">m</abbr>gebauter Ort; auf der<lbr/>
+<pg n="5"/>
+so genannten<lbr type="BD"/> Bleiche und auf den Thier Markt<lbr/>
+sieht es besser aus.<lbr type="forced"/>
+<lbr type="forced"/>
+<u><rend class="latin">NB</rend>:</u> Zu Ma&#255;nz habe den H<abbr type="curve">:</abbr> Graf Schön<pc force="weak">=</pc><lbr/>born, der alda <choice><orig>verha&#255;rat</orig><corr hand="diff" schr_id="57010">verhe&#255;rathet</corr></choice> ist, den<lbr type="BD"/> Graf<lbr/>
+Ostein und seinen Hofmeister <rend class="latin">Krell</rend>, auch den<lbr/>
+Graf <choice><orig><rend class="latin">Bassenhaim</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">Bassenheim</rend></corr></choice> angetrof<lbr type="BD"/>fen. ich war be&#255;<lbr/>
+allen. Die <rend class="latin">Wallendorff</rend> sind zu <rend class="latin">Coblenz</rend>.
+<lbr/>
+<lbr/>
+<tshtm><additum>[... (Beginn der Abschrift des Briefes vom 13. August 1763)]</additum></tshtm>
+</NI>
+</letter>
+</text>
+</MUP>

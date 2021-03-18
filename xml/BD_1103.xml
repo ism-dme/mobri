@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2014">2014-5</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1673</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Wn</bibl>
+            <bibl type="source" subtype="RISM">A-Wn (Österreichische Nationalbibliothek)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:42:01 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_1103.mup">
+<letter bd="1103">
+<NI src="A-Wn">
+<HEADER id="1673">WOLFGANG AMADÉ MOZART AN CONSTANZE MOZART IN WIEN<lbr/>
+PRAG, 31. MAI 1789</HEADER>
+<pg n="1"/>
+<ts>_____</ts><tshtm>____________________________________________________________________</tshtm><tspdf>\hfill </tspdf><u>Prag</u> den 31. <rend class="latin">May</rend><lbr type="forced"/>
+liebstes, bestes <persName key="48818">Weibchen</persName>! &#8211; <ts>____</ts><tshtm>__________________________________________</tshtm><tspdf>\hfill </tspdf><uu>1789</uu>.<lbr type="forced"/>
+<lbr type="forced"/>
+den augenblick ko<abbr type="topline" expand="mm">m</abbr>e ich an. &#8211; ich hoffe du wirst meinen lezten<lbr/>
+vom 23:<h>t</h> er<lbr type="BD"/>halten haben. es bleibt also dabe&#255;; &#8211; ich treffe<lbr/>
+do<abbr type="topline" expand="nn">n</abbr>erstag den 4:<h>t</h>&#160;<rend class="latin">Juny</rend> zwi<lbr type="BD"/>schen 11 und 12 uhr richtig auf der lezten<lbr/>
+oder ersten Post=<rend class="latin">station</rend> ein, wo<lbr type="BD"/> ich euch anzutreffen hoffe;<lbr/>
+vergies nicht Jemand mit zu nehmen, welcher dann<lbr type="BD"/> anstatt<lbr/>
+meiner auf die Mauth fährt. <rend class="latin">adieu</rend>. gott wie freue ich mich<lbr/>
+dich wieder<lbr type="BD"/> zu sehen; &#8211; in Eyle.<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_______</ts><tshtm>_____________________________________________________</tshtm><tspdf>\hfill </tspdf><persName key="39409">Mozart</persName>&#160;<abbr expand="manu propria">mp</abbr>
+<pg n="2"/>
+<add_seal type="owner">National=Bibliothek<lbr/>
+Wien</add_seal>
+</NI></letter>
+</text>
+</MUP>

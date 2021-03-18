@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2011">2011-05</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=752</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sca</bibl>
+            <bibl type="source" subtype="RISM">A-Sca (Salzburg Museum, Bibliothek)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:37:13 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_191.mup">
+<letter bd="191"><NI src="A-Sca"><HEADER id="752">LEOPOLD MOZART AN MARIA ANNA MOZART IN SALZBURG<lbr/>
+NEAPEL, 16. JUNI 1770<lbr/>
+mit Nachschrift von Wolfgang Amadé Mozart</HEADER>
+<pg n="1"/>
+<add_prov><ts>_____</ts>Originalbrief von Mozart Vater u. Sohn</add_prov>
+<add_prov type="inline"><ts>_____</ts>mir von der Baroni</add_prov><ts>_________________________________</ts><tspdf>\hfill </tspdf>Neapl d<abbr v="en"/> 16 <rend class="latin">Junij</rend> 1770.<lbr type="forced"/>
+<add_note type="inline" schr="WAM(?)"><rend class="latin">Madame</rend>!</add_note><add_prov type="inline"><ts>___</ts>geschenkt.</add_prov><lbr type="forced"/>
+Du sollst und must dich gar nicht wundern, we<abbr type="topline" expand="nn">n</abbr> zu zeit<abbr v="en"/> die Briefe<lbr/>
+lange<lbr type="BD"/> nicht eintreff<abbr v="en"/>; indem du von der Erfahrung hast, daß man nicht<lbr/>
+allzeit<lbr type="BD"/> schreib<abbr v="en"/> ka<abbr type="topline" expand="nn">n</abbr>, we<abbr type="topline" expand="nn">n</abbr> man will, und daß die Briefe 14 täge von Salzb<abbr type="curve">:</abbr><lbr/>
+bis<lbr type="BD"/> Neapl zu lauff<abbr v="en"/> hab<abbr v="en"/>. Entzwisch<abbr v="en"/> must du 6 Brief aus Neapl hab<abbr v="en"/>,<lbr/>
+dieser<lbr type="BD"/> ist der siebende. <u>Auf diesen darfst du mir nicht mehr ant<pc force="weak">=</pc><lbr/>wort<abbr v="en"/>, bis ich dir<lbr type="BD"/> nicht abermahl schreibe wohin du die Briefe send<abbr v="en"/><lbr/>
+sollst.</u> Wir gedacht<abbr v="en"/> d<abbr v="en"/><lbr type="BD"/> 20<h>t<abbr v="en"/></h> abzureis<abbr v="en"/>; allein es wird wohl erst den<lbr/>
+23<h>t<abbr v="en"/></h> oder 24<h>t<abbr v="en"/></h> gescheh<abbr v="en"/>, weil<lbr type="BD"/> S<h>r</h>: <rend class="latin">Ex:</rend> der Graf <rend class="latin">Kaunitz</rend> nicht eher wird fertig<lbr/>
+werd<abbr v="en"/>. Er wird anstatt S<h>r</h>:<lbr type="BD"/>&#160;<rend class="latin">Ex:</rend> Gr: <abbr expand="von">v</abbr> Schrattenbach LandsHauptman in Mähr<abbr v="en"/>.<lbr/>
+Nun sind wir beschäftiget alles zu seh<abbr v="en"/>. d<abbr v="en"/> 13, an St: Anton tag, würdest<lbr/>
+du uns nicht auf dem<lbr type="BD"/> Meer gesucht hab<abbr v="en"/>. Wir sind um 5 uhr morgens<lbr/>
+in einem wag<abbr v="en"/> nach<lbr type="BD"/>&#160;<rend class="latin">Pozzolo</rend> gefahr<abbr v="en"/>, und dort <suppl hand="self" pos="supra">vor</suppl> 7 uhr angelangt,<lbr/>
+uns zu schif gesetzt und nach<lbr type="BD"/>&#160;<rend class="latin">Baja</rend> gefahr<abbr v="en"/> alda die <rend class="latin">Neroni</rend>schen<lbr/>
+bäder, die unterirdische Grott<abbr v="en"/> der <rend class="latin">Sybilla<lbr type="BD"/> cumana, il Lago d'averno,<lbr/>
+il Tempio di Venere, Tempio di Diana, il Sepolchro<lbr type="BD"/> d'agripina</rend>,<lbr/>
+die Eliseisch<abbr v="en"/> felder od<abbr v="er"/> <rend class="latin">Campi elisi</rend>, das todte Meer, wo d<abbr v="er"/><lbr type="BD"/>&#160;<rend class="latin">Charon</rend><lbr/>
+schifman war, <rend class="latin">la piscina mirabile</rend>, und die <rend class="latin">Cente Camerelle</rend>&#160;<abbr expand="etc:">p:</abbr><lbr/>
+im<lbr type="BD"/> Rückweg viele alte bäder, tempel, unterirdische Zi<abbr type="topline" expand="mm">m</abbr>er <abbr expand="etc:">p:</abbr><lbr/>
+<rend class="latin">il monte nuovo,<lbr type="BD"/> il monte gauro, il molo di Pozzoli,<lbr/>
+il Colisseo, la Solfatara, l'astroni, la grotta<lbr type="BD"/> del Cane</rend>, und<lbr/>
+<rend class="latin">il Lago di Agnano</rend>&#160;<abbr expand="etc:">p:</abbr> vor allem aber <rend class="latin">la grotta di Pozzuoli</rend>,<lbr/>
+und<lbr type="BD"/> das grab des <rend class="latin">Virgilij</rend> geseh<abbr v="en"/>. die <rend class="latin">grotta di Pozzoli</rend> ist wie<lbr/>
+unser neues Thor,<lbr type="BD"/> allein wir hatt<abbr v="en"/> 8 Minuten lang durchzufahr<abbr v="en"/><lbr/>
+indem es 344 <rend class="latin">Canne</rend> lang ist.<lbr type="BD"/> Heut sind wir Mittags zu speis<abbr v="en"/> auf<lbr/>
+der höhe <rend class="latin">à S: Martino</rend> be&#255; den Carthäusern gewes<abbr v="en"/>, und hab<abbr v="en"/> nach dem<lbr/>
+<pg n="2"/>
+tische <amend value="">hab<abbr v="en"/></amend> wir alle seltenheit<abbr v="en"/> und<lbr type="BD"/> kostbarkeit<abbr v="en"/> dieses Orts geseh<abbr v="en"/>, und<lbr/>
+die Aussicht bewund<abbr v="er"/>t. Montag und<lbr type="BD"/> Erchtags <abbr expand="etc:">p:</abbr> werd<abbr v="en"/> wir den<lbr/>
+<rend class="latin">Vesuvi<abbr v="um"/></rend> etwas näher betracht<abbr v="en"/>, <rend class="latin">Pompea</rend> und<lbr type="BD"/> das <rend class="latin">Herculan<abbr v="um"/></rend> die<lbr/>
+Stätte so man ausgrabt und die bereits gefunden<abbr v="en"/> Seltenheit<abbr v="en"/> be<pc force="weak">=</pc><lbr/>wund<abbr v="ern"/>, <rend class="latin">Caserta</rend>&#160;<abbr expand="etc:">p:</abbr> und <rend class="latin">Capo di Monte</rend> beseh<abbr v="en"/>&#160;<abbr expand="etc:">p:</abbr> welches<lbr type="BD"/> alles<lbr/>
+Geld kost<abbr v="en"/> wird. Nun ist es Zeit, die Post gehet bald ab,<lbr/>
+und ich muß<lbr type="BD"/> noch ein paar Worte an h<abbr type="curve">:</abbr>&#160;<rend class="latin">Marcabruni</rend> schreib<abbr v="en"/>.<lbr/>
+Mein <rend class="latin">Compt:</rend> an alle gute freunde und freundin<abbr v="en"/>&#160;<abbr expand="etc:">p:</abbr> wir kissen<lbr/>
+dich und die<lbr type="BD"/> Na<abbr type="topline" expand="nn">n</abbr>erl 1000mahl <abbr expand="und">u</abbr> bin d<abbr v="er"/> alte<lbr type="forced"/>
+<ts>____________</ts><tshtm>_____________________________________________________</tshtm><tspdf>\hfill </tspdf>Mozart <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<lbr type="forced"/>
+Man muß alle seltenheit<abbr v="en"/> zu seh<abbr v="en"/> allezeit eine <rend class="latin">flambo</rend> mit hab<abbr v="en"/>,<lbr/>
+indem<lbr type="BD"/> vieles unter d<abbr v="er"/> Erde ist. Ich und der wolfg<abbr type="curve">:</abbr> war<abbr v="en"/><lbr/>
+mit unserm bedient<abbr v="en"/> ganz<lbr type="BD"/> allein, wir hatt<abbr v="en"/> 6 schifleute und<lbr/>
+den <rend class="latin">Cicerone</rend>, die alle ihre Verwund<abbr v="er"/>ung<lbr type="BD"/> nicht berg<abbr v="en"/> konnt<abbr v="en"/> den<lbr/>
+Wolfg<abbr type="curve">:</abbr> zu seh<abbr v="en"/>, indem die 2 alt<abbr v="en"/> graubartet<abbr v="en"/><lbr type="BD"/> schifleute<lbr/>
+sich erklärt<abbr v="en"/> niemals ein<abbr v="en"/> so jung<abbr v="en"/> knab<abbr v="en"/> dieser Orts geseh<abbr v="en"/><lbr type="BD"/> zu hab<abbr v="en"/>,<lbr/>
+welcher diese Alterthü<abbr type="topline" expand="mm">m</abbr>er zu seh<abbr v="en"/> an diese Orte geko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/><lbr type="BD"/> wäre.<lbr type="forced"/>
+
+<NS type="NS" schr_id="39409">Ich bin auch noch lebendig, und bin beständig lustieg,<lbr/>
+wie allzeit, und reise<lbr type="BD"/> gern: nun bin ich auf den<lbr/>
+<rend class="latin">Merditerani</rend>schen meere auch gefahren. ich kusse<lbr/>
+der<lbr type="BD"/> mama die hand, und die nanerl küsse ich zu<lbr/>
+1000mahl, und bin<lbr type="forced"/>
+<ts>____________________________</ts><tspdf>\hfill </tspdf>der sohn stefel, und der bruder hans<lbr type="forced"/>
+1770</NS>
+<add_seal type="owner">MUS.C.A.<lbr/>SALZBURG</add_seal></NI></letter>
+</text>
+</MUP>

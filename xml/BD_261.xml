@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2011">2011-05</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=822</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sl</bibl>
+            <bibl type="source" subtype="RISM">A-Sl (Landesarchiv)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:37:40 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_261.mup">
+<letter bd="261"><NI src="A-Sl"><HEADER id="822">LEOPOLD MOZART AN DAS DOMKAPITEL ZU SALZBURG<lbr/>
+SALZBURG, DEZEMBER 1771</HEADER>
+<pg n="1"/>
+<ts>________</ts>Hochwürdig Hochgebohrne Herrn Herrn,<lbr type="forced"/><lbr type="BD"/>
+<ts>________</ts>Herr <rend class="latin">Dom</rend>Probst, <rend class="latin">Dom</rend>Dechant, <rend class="latin">Senior</rend><lbr type="forced"/><lbr type="BD"/>
+<ts>________</ts>und gesa<abbr type="topline" expand="mm">m</abbr>t Regierendes <rend class="latin">Dom</rend>Capitl<lbr type="forced"/><lbr type="BD"/>
+<ts>___________</ts>des hohen Erzstifts Salzburg,<lbr type="forced"/><lbr type="BD"/>
+<ts>________</ts>Hochgnädig und Hochgebietende Herrn Herrn!<lbr type="forced"/>
+<lbr type="forced"/>
+<rend class="latin">Eue</rend>r Hochwürden und Hochgräfl: <rend class="latin">Excellenzien</rend>&#160;<abbr expand="etc:">p:</abbr> Wird<lbr/>
+unverborg<abbr v="en"/> se&#255;n;<lbr type="BD"/> daß S<h>e</h>: Ka&#255;s<abbr type="curve">:</abbr> Königl: Ma&#255;estät die aller<pc force="weak">=</pc><lbr/>höchste Gnade hatt<abbr v="en"/> mein<abbr v="en"/> Sohn<lbr type="BD"/> zu verfertigung der be&#255; Ge<pc force="weak">=</pc><lbr/>legenheit der Ma&#255;landisch<abbr v="en"/> HochzeitsFe&#255;erlichkeit<abbr v="en"/> aufzuführend<abbr v="en"/><lbr/>
+Theatral <rend class="latin">Serenata</rend> nach Ma&#255;land zu beruffen, zufolge<lbr type="BD"/> dess<abbr v="en"/><lbr/>
+S<h>e</h>: Hochgräfl. <rend class="latin">Excellenz</rend> h<abbr type="curve">:</abbr> Graf <rend class="latin">Carl</rend>&#160;<abbr expand="von">v</abbr>&#160;<rend class="latin">Firmian</rend> durch ein Schreib<abbr v="en"/><lbr/>
+an t<abbr type="curve">.</abbr> dess<abbr type="curve">:</abbr> h<abbr type="curve">:</abbr> Bruder Obersthofmeister <rend class="latin">Ex<abbr type="curve">:</abbr></rend> S<h>e</h>: hochfürstl Gd<abbr v="en"/><lbr/>
+Höchstseel: angedenkens um die ggste Erlaubniß mich mit<lbr/>
+meinem Sohne nach<lbr type="BD"/> Mayland begeb<abbr v="en"/> zu därff<abbr v="en"/> geziemend<lbr/>
+angesucht.<ts>___</ts>HöchstGedacht S:<h>e</h> Hochf<abbr type="curve">:</abbr><lbr type="BD"/> Gnad<abbr v="en"/> ertheilt<abbr v="en"/> uns<lbr/>
+zwar die Erlaubniß zur Reise doch mit zurückhaltung<lbr type="BD"/> meiner<lbr/>ohnehin nur in 28 <abbr_cur expand="Gulden"><rend class="latin">f</rend></abbr_cur> 30 <abbr_cur expand="Kreuzer"><rend class="latin">X<h>r</h></rend></abbr_cur> bestehend<abbr v="en"/> Besoldung, die jedoch aus<lbr/>
+<pg n="2"/>
+übersehung noch anderthalb Monat ausgefolgt wurde.<lbr/>
+nachdem aber ein Schreib<abbr v="en"/> von S<h>r</h>: Hochgräfl <rend class="latin">Excellenz</rend><lbr/>
+h<abbr type="curve">:</abbr> Grafen von<lbr type="BD"/>&#160;<rend class="latin">Sauerau</rend> an tit<abbr type="curve">:</abbr> h<abbr type="curve">:</abbr> HofCanzler er<pc force="weak">=</pc><lbr/>folgte, durch welches erstgedacht S<h>e</h>: <rend class="latin">Excellenz</rend> S:<h>r</h> Hochf<abbr type="curve">:</abbr><lbr/>
+Gnaden die vergnügte Nachricht von dem allgemein<abbr v="en"/><lbr/>
+Be&#255;fall<lbr type="BD"/> und der Ehre, der sich mein Sohn gemacht, zu<lbr/>
+geben glaubte; so gab<abbr v="en"/><lbr type="BD"/> S:<h>e</h> Hochf<abbr type="curve">:</abbr> Gnad<abbr v="en"/> also gleich Befehle<lbr/>
+die Besoldung einzuhalt<abbr v="en"/>.<lbr type="forced"/>
+Es gelanget demnach an <rend class="latin">Eue</rend>r Hochwürd<abbr v="en"/><abbr v="en"/> Hochgräfl:<lbr/>
+<rend class="latin">Excellenzien</rend> meine<lbr type="BD"/> gnädige Herrn das unterthänigste<lbr/>
+Anlang<abbr v="en"/> und Bitt<abbr v="en"/> mir dies<abbr v="en"/> nur aus<lbr type="BD"/> 2 Monat<abbr v="en"/> bestehend<abbr v="en"/><lbr/>
+Abzug <u><rend class="latin">pr</rend>: 59 <abbr_cur expand="Gulden"><rend class="latin">f</rend></abbr_cur></u>, nämlich <u><rend class="latin">pro Octobre</rend></u> und <u><rend class="latin">Novembre</rend></u><lbr/>
+<pg n="3"/>
+gnädigst ausfolg<abbr v="en"/> zu lass<abbr v="en"/>; dahin als zu all anderen<lbr/>
+Hohen Gnad<abbr v="en"/> mich<lbr type="BD"/> und die meinig<abbr v="en"/> demütigst empfehle<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_______________</ts><rend class="latin">Euer</rend> Hochwürd<abbr type="curve">:</abbr> und Hochgräfl<lbr type="forced"/><lbr type="BD"/>
+<ts>________________________</ts><rend class="latin">Excellenzien</rend><lbr type="forced"/><lbr type="BD"/>
+<ts>_______________</ts>meiner gnädig<abbr v="en"/> Herrn Herrn<lbr type="forced"/><lbr type="BD"/>
+<lbr type="forced"/>
+<ts>________________</ts><tshtm>_______________________________________</tshtm><tspdf>\hfill </tspdf>unterthänigst gehorsa<abbr type="topline" expand="mm">m</abbr>ster<lbr type="forced"/><lbr type="BD"/>
+<ts>________________</ts><tshtm>_______________________________________</tshtm><tspdf>\hfill </tspdf>Leopold Mozart <abbr expand="manu propria">mp</abbr><lbr type="forced"/><lbr type="BD"/>
+<ts>_______________________________________________________</ts><tspdf>\hfill </tspdf><rend class="latin">Vice</rend>Capemestr.<lbr type="forced"/>
+<pg n="4"/>
+<table rules="none" rows="1" cols="1">
+<tr><td><lbr type="forced"/>
+<lbr type="forced"/>
+<lbr type="forced"/>
+<lbr type="forced"/>
+<add_note><rend class="latin"><uu>q</uu> Ex Decr<h>o</h></rend> Ill:<h><uu>mi</uu></h>&#160;<rend class="latin">et Revd:<h><uu>mi</uu></h> Capit:</rend><lbr type="forced"/>
+<rend class="latin">Reg:<h><uu>tis</uu></h> ded:<h>o</h></rend> 28. <rend class="latin">Xbris</rend>&#160;<u>1771.</u><lbr type="forced"/>
+<lbr type="forced"/>
+hofKa<abbr type="topline" expand="mm">m</abbr>er Ist Bewilliget, iedoch ohne <rend class="latin">Conse<pc force="weak">=</pc><lbr type="forced"/><ts>_____</ts>quenz</rend> vor das Künftige, und<lbr type="forced"/>
+<ts>_____</ts>andere ab- reisende hof<pc force="weak">-</pc><lbr type="forced"/><ts>_____</ts><rend class="latin">Musicos</rend>.<lbr type="forced"/>
+<lbr type="forced"/>
+Ferd. Truchses Gf. v. Ze&#255;l DD. <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+Carl Hannibal graff<lbr type="forced"/>
+v' dietrichstain <abbr expand="manu propria">mp</abbr><lbr type="forced"/> 
+<lbr type="forced"/>
+In <rend class="latin"><abbr expand="Consilio Camerae">Consl Crae</abbr></rend> d<abbr v="en"/> 7<h>t<abbr v="en"/></h> Jenner 1772<lbr type="forced"/>
+<ts>_____</ts>beschaid in <rend class="latin">decret</rend></add_note>
+</td><td>
+<add_note schr_id="">Hofkammer<lbr type="forced"/>
+<ts>___</ts><rend class="latin">Hofzahlamt</rend>, 1772. <rend class="latin">A.</rend></add_note><lbr type="forced"/>
+<lbr type="forced"/><add_note><ts>_________________________</ts>N<h>o</h>: 35</add_note><lbr type="forced"/>
+<ts>___</ts>An<lbr type="forced"/>
+Ein <rend class="latin">Sede Vacante</rend> Regierend<lbr type="forced"/>
+Hochwürdiges <rend class="latin">Dom</rend>Capit<abbr type="curve">:</abbr>&#160;<abbr expand="etc:">p:</abbr><lbr type="forced"/>
+des Hohen Erzstifts Salzburg.<lbr type="forced"/>
+<lbr type="forced"/>
+<lbr type="forced"/>
+unterthänigstgehorsa<abbr type="topline" expand="mm">m</abbr>stes Bitt<abbr v="en"/><lbr type="forced"/>
+mein Leopold Mozart Hochf<abbr type="curve">:</abbr><lbr type="forced"/>
+<rend class="latin">Vice</rend> Capellmeisters<lbr type="forced"/>
+<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____</ts>um i<abbr type="topline" expand="nn">n</abbr>gebettne höchste<lbr type="forced"/>
+<ts>__________</ts><u>Gnade</u></td></tr></table>
+
+</NI></letter>
+</text>
+</MUP>

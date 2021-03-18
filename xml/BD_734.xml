@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2014">2014-5</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1302</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:40:22 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_734.mup">
+<letter bd="734"><HEADER id="1302">WOLFGANG AMADÉ MOZART AN LEOPOLD MOZART IN SALZBURG<lbr/>
+WIEN, 29. MÄRZ 1783</HEADER>
+<pg n="1"/>
+<ts>__________</ts><tshtm>________________________________________________________________________</tshtm><tspdf>\hfill </tspdf><rend class="latin"><u>vie<abbr type="topline" expand="nn">n</abbr>e</u> ce</rend> 29 <rend class="latin">de Mars</rend>.<lbr type="forced"/>
+<ts>_____</ts><rend class="latin">Mon Trés cher Pére!</rend><ts>________</ts><tshtm>______________________________________________________________</tshtm><tspdf>\hfill </tspdf><uu>1783</uu><lbr type="forced"/>
+<lbr type="forced"/>
+Ich glaube es wird nicht nöthig se&#255;n ihnen viel von dem erfolg meiner<lbr type="BD"/><lbr/>
+<rend class="latin">academie</rend> zu schreiben, sie werden es vieleicht schon gehört haben. genug;<lbr/>
+das<lbr type="BD"/> theater hätte ohnmöglich völler se&#255;n kö<abbr type="topline" expand="nn">n</abbr>en, und alle <rend class="latin">logen</rend> waren<lbr/>
+besezt. &#8211;<lbr type="BD"/> das liebste aber war mir, daß seine Ma&#255;estätt der ka&#255;ser<lbr/>
+auch zugegen war,<lbr type="BD"/> und wie vergnügt er war, und was für lauten<lbr/>
+be&#255;fall er mir gegeben; &#8211; es ist<lbr type="BD"/> schon be&#255; ihm gewöhnlich daß er das<lbr/>
+geld bevor er ins theater kö<abbr type="topline" expand="mm">m</abbr>t, zur<lbr type="BD"/>&#160;<rend class="latin">Cassa</rend> schickt, sonst hätte ich mir<lbr/>
+mit allem recht mehr versprechen därfen, de<abbr type="topline" expand="nn">n</abbr><lbr type="BD"/> seine zufriedenheit war<lbr/>
+ohne gränzen; &#8211; er hat 25 <rend class="latin">duccaten</rend> geschickt. &#8211; die<lbr type="BD"/> Stücke waren folgende.<lbr/>
+<u>I</u>: die Neue Hafner <rend class="latin">Simphonie</rend>. <u>2</u>:<h>t</h> sang <rend class="latin">Mad:<h>me</h> Lange</rend><lbr type="BD"/> die <rend class="latin">aria</rend> auf<lbr/>
+4 <rend class="latin">instrumenten</rend> aus meiner Münchner oper. <rend class="latin"><u>se il padre perdei</u>:</rend> &#8211; 3:<h>t</h><lbr type="BD"/><lbr/>
+spielte ich das 3:<h>te</h> von meinen <rend class="latin">Souscriptions=Concerten</rend>. <u>4</u>:<h>t</h> sang<lbr/>
+<rend class="latin">Adamberger</rend><lbr type="BD"/> die <rend class="latin">scene</rend> für die Baumgarten. <u>5</u>:<h>t</h> die kleine <rend class="latin">Concer<pc force="weak">=</pc><lbr/>tant=Simphonie</rend> von<lbr type="BD"/> meiner lezten <rend class="latin">final Musique</rend>. &#8211; <u>6</u>:<h>t</h> spielte<lbr/>
+ich das hier beliebte <rend class="latin">Concert ex D</rend>.<lbr type="BD"/> wozu ich das <rend class="latin">variazion Rondeau</rend><lbr/>
+geschickt habe. <u>7</u>:<h>t</h> sang <rend class="latin">Mad:<h>elle</h></rend> täuber die <rend class="latin">scene</rend> aus meiner lezten<lbr/>
+<rend class="latin">Mailand opera</rend>. <rend class="latin"><u>Parto, m'affretto</u>:</rend> &#8211; <u>8</u>:<h>t</h> spielte ich<lbr type="BD"/> alleine. eine<lbr/>
+kleine <rend class="latin">fuge</rend>. |: weil der ka&#255;ser da war :| und <rend class="latin">varierte</rend> eine <rend class="latin">aria</rend> aus<lbr type="BD"/><lbr/>
+einer <rend class="latin">opera</rend> gena<abbr type="topline" expand="nn">n</abbr>t. die <rend class="latin">Philosophen</rend>. &#8211; musste nochmal spielen.<lbr/>
+<rend class="latin">varierte</rend> die<lbr type="BD"/>&#160;<rend class="latin">aria</rend>&#160;<u>unser du<abbr type="topline" expand="mm">m</abbr>er Pöbel meint</u>&#160;<abbr expand="etc">p</abbr>: aus de<abbr type="topline" expand="nn">n</abbr> Pilgrime<lbr/>
+von <rend class="latin">Mecka</rend>. <u>9</u>:<h>t</h> sang<lbr type="BD"/> die <rend class="latin">lange</rend> das Neue <rend class="latin">Rondeau</rend> von mir.<lbr/>
+<u>10</u>. das lezte Stück von der ersten <rend class="latin">Sim<lbr type="BD"/>phonie</rend>.<lbr type="forced"/>
+Morgen giebt <rend class="latin">Mad:<h>selle</h></rend> Täuber <rend class="latin">academie</rend>, wori<abbr type="topline" expand="nn">n</abbr> ich auch spielen werde.<lbr/>
+künf<lbr type="BD"/>tigen do<abbr type="topline" expand="nn">n</abbr>erstag wird h<abbr type="curve">:</abbr>&#160;<rend class="latin">v: Daubrawaick</rend> und <rend class="latin">Gilowsky</rend> nach Salz<pc force="weak">=</pc><lbr/>burg reisen,<lbr type="BD"/> welche die Münchner oper, die 2 <rend class="latin">Exemplaren</rend> von<lbr/>
+meinen So<abbr type="topline" expand="nn">n</abbr>aten, nebst<lbr type="BD"/> einigen <rend class="latin">variazionen</rend> für meine schwester<lbr/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="2"/>
+wie auch meine schuld für die <rend class="latin">opera<lbr type="BD"/> copiatur</rend> mitbringen werden.<lbr/>
+&#8211; das Packet <rend class="latin">Musique</rend> habe richtig erhalten; &#8211;<lbr type="BD"/> ich danke ihnen<lbr/>
+dafür; &#8211; bitte wegen dem <rend class="latin"><u>Lauda sion</u></rend> nicht zu vergessen; und<lbr type="BD"/><lbr/>
+was wir halt noch gerne haben möchten, wäre, einige von ihren<lbr/>
+besten kirchen<lbr type="BD"/>stücken, mein liebster vater; &#8211; de<abbr type="topline" expand="nn">n</abbr> wir lieben<lbr/>
+uns mit allen möglichen<lbr type="BD"/> Meistern zu unterhalten; &#8211; mit<lbr/>
+alten und mit <rend class="latin">Modernen</rend>. &#8211; ich bitte sie also<lbr type="BD"/> uns recht bald<lbr/>
+etwas von <u>ihnen</u> zu schicken. &#8211; Nun muß ich schlüssen.<lbr/>
+Meine frau und ich küssen ihnen 1000mal die hände, und<lbr/>
+umarmen unsre<lbr type="BD"/> liebe schwester von herzen und sind Ewig<lbr/>
+dero<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>________</ts><tshtm>_________________________________________________</tshtm><tspdf>\hfill </tspdf>gehorsamste kinder<lbr type="BD"/><lbr type="forced"/>
+<ts>________</ts><tshtm>___________________________________________________</tshtm><tspdf>\hfill </tspdf>W: A: Mozart <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+</letter>
+</text>
+</MUP>

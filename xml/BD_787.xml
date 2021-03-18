@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2014">2014-5</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1356</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">US-CA</bibl>
+            <bibl type="source" subtype="RISM">US-CA (Harvard University</bibl>
+            <bibl type="source" subtype="RISM">Harvard College Library)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:40:36 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_787.mup">
+<letter bd="787"><NI src="US-CA"><HEADER id="1356">WOLFGANG AMADÉ MOZART AN LEOPOLD MOZART IN SALZBURG<lbr/>
+WIEN, 28. APRIL 1784</HEADER>
+<pg n="1"/>
+<ts>____</ts><rend class="latin">Mon trés cher Pére!</rend><ts>______</ts><tshtm>______________________________________________</tshtm><tspdf>\hfill </tspdf><rend class="latin"><u>Vienne</u> ce</rend> 28 <rend class="latin">avril</rend><lbr type="forced"/>
+<ts>______</ts><tshtm>___________________________________________________________________________________________________</tshtm><tspdf>\hfill </tspdf><uu>1784</uu>.<lbr type="forced"/>
+<lbr type="forced"/>
+Ich muß ihnen in E&#255;le schreiben. &#8211; Hr: Richter klavierspieller macht eine<lbr type="BD"/><lbr/>
+<rend class="latin">tour</rend> um nach Holland in sein vatterland zurückzukehren. &#8211; Ich habe<lbr/>
+ihm<lbr type="BD"/> nach linz an die gräfin thun ein schreiben mitgegeben. &#8211; da<lbr/>
+er lust hat auch<lbr type="BD"/> nach <rend class="latin">Salzbourg</rend> zu ko<abbr type="topline" expand="mm">m</abbr>en, so gab ich ihm auch<lbr/>
+nur 4 zeilen an sie, mein<lbr type="BD"/> bester vatter. &#8211; ich schreibe ihnen<lbr/>
+also nun daß er nicht lange nach Empfang<lbr type="BD"/> dieses ausbleiben<lbr/>
+wird. &#8211; er spiellt sehr viel, was <rend class="latin">Execution</rend> anbelangt &#8211;<lbr type="BD"/> allein &#8211; <lbr/>
+&#8211; wie sie hören werden &#8211; zu grob &#8211; zu mühsam &#8211; und ohne<lbr/>
+allem<lbr type="BD"/> geschmack und Empfindung. &#8211; übrigens der beste Mensch<lbr/>
+von der Welt &#8211;<lbr type="BD"/> ohne Mindesten Stolz &#8211; er sah unbeweglich<lbr/>
+auf meine finger, we<abbr type="topline" expand="nn">n</abbr> ich ihm<lbr type="BD"/> spiellte &#8211; da<abbr type="topline" expand="nn">n</abbr> sagte er allemal;<lbr/>
+mein gott! &#8211; was muß ich mich nicht be<lbr type="BD"/>mühen, daß ich schwitze, und<lbr/>
+&#8211; erhalte doch keinen be&#255;fall &#8211; und sie mein<lbr type="BD"/> freund, spiellen<lbr/>
+sich nur damit &#8211; Ja, <u>sagte ich</u>, ich musste mich auch bemühen,<lbr type="BD"/> um<lbr/>
+mich izt <u>nicht mehr</u> bemühen zu därfen &#8211; <rend class="latin">afin</rend> &#8211; er ist ein<lbr/>
+Ma<abbr type="topline" expand="nn">n</abbr>, welcher<lbr type="BD"/> i<abbr type="topline" expand="mm">m</abbr>er unter die guten klavierspieller gehört &#8211; <lbr/>
+und dabe&#255; &#8211; ein Ehrlicher<lbr type="BD"/> guter Ma<abbr type="topline" expand="nn">n</abbr> &#8211; und ich hoffe, daß<lbr/>
+ihn der Erzbischof vieleicht eher hören<lbr type="BD"/> wird, weil er ein <rend class="latin">Clavier<pc force="weak">=</pc><lbr/>ist</rend> ist &#8211; <rend class="latin">en depit de Moi</rend> &#8211; welcher <rend class="latin">depit</rend> mir aber<lbr type="BD"/> sehr<lbr/>
+erwünscht se&#255;n wird. &#8211; wegen <u>Menzl <rend class="latin">violinist</rend>en</u> ist es richtig. &#8211; <lbr/>
+und<lbr type="BD"/> er wird vermuthlich So<abbr type="topline" expand="nn">n</abbr>tag schon von hier absegeln. &#8211; durch<lbr/>
+diesen Weeg<lbr type="BD"/> sollen sie auch <rend class="latin">Musique</rend> von mir erhalten.<lbr/>
+Nun leben sie wohl. &#8211; wir küssen<lbr type="BD"/> ihn be&#255;de die hände, und um<pc force="weak">=</pc><lbr/>armen unsre liebe schwester von herz: und<lbr type="BD"/> sind Ewig dero geh kind<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>______</ts><tshtm>__________________________________________________________________</tshtm><tspdf>\hfill </tspdf>W C: Mozart <abbr expand="manu propria">mp</abbr>
+<pg n="2"/>
+<vacat/>
+</NI></letter>
+</text>
+</MUP>

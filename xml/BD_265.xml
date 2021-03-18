@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2011">2011-05</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=826</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">F-Lm</bibl>
+            <bibl type="source" subtype="RISM">F-Lm (Bibliothèque municipale)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:37:41 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_265.mup">
+<letter bd="265"><NI src="F-Lm"><HEADER id="826">WOLFGANG AMADÉ MOZART AN MARIA ANNA UND MARIA ANNA (NANNERL) MOZART IN SALZBURG<lbr/>
+MAILAND, 7. NOVEMBER 1772<lbr/>
+mit Nachschrift von Leopold Mozart</HEADER>
+<pg n="1"/>
+<add_note type="inline"><rend class="latin">Wolfgango Amadeo Mozart.</rend></add_note><ts>_______________________________</ts><tspdf>\hfill </tspdf>Ma&#255;land. den 7<h>ten</h> 9:<h><rend class="latin">ber:</rend></h><lbr type="forced"/>
+<ts>__________________________</ts><tshtm>__________________________________________________________</tshtm><tspdf>\hfill </tspdf>1772<lbr type="forced"/>
+Erschrecken sie nicht, da sie anstat der schrift meines <rend class="latin">papa</rend> meine finden;<lbr/>
+die<lbr type="BD"/>
+ursachen folgen: 1:<h>mo</h> sind wir be&#255;m hr: von <rend class="latin">Aste</rend> und ist der h<abbr type="curve">:</abbr><lbr/>
+<rend class="latin">Baron</rend><lbr type="BD"/>&#160;<rend class="latin">Cristani</rend> da, da haben sie so viell mit einander zu reden,<lbr/>
+daß er ohnmöglich zeit<lbr type="BD"/> hätte zu schreiben. und 2::<h>do</h> ist er<lbr/>
+zu = = = faul. wir sind den vierten hier<lbr type="BD"/> glücklich um mit<pc force="weak">=</pc><lbr/>tag angelangt, wir sind gesund. von unsern guten freünden<lbr/>
+ist alles auf <suppl hand="self" pos="supra">dem</suppl> lande und zu <rend class="latin">Mantua</rend> als der h<abbr type="curve">:</abbr> von Taste<lbr/>
+und seine fr:<lbr type="BD"/> gemahlin von welcher ich an sie und an meine<lbr/>
+schwester ein <rend class="latin">Compliment</rend><lbr type="BD"/> schreiben soll. h<abbr type="curve">:</abbr>&#160;<rend class="latin">Mislivececk</rend><lbr/>
+ist noch hier. von dem <rend class="latin">italieni</rend>schen krieg von<lbr type="BD"/> welchen in<lbr/>
+Teütschland starck gesprochen wird, und de<abbr type="topline" expand="nn">n</abbr> hiesigen<lbr/>
+schloß=befestigungen ist alles nichts wahr. verze&#255;hen<lbr/>
+sie mir meine schlechte schrift.<lbr type="BD"/> wen sie uns schreiben, so<lbr/>
+schreiben sie nur glatt an uns, dan hier ist nicht der<lbr/>
+brauch wie im Teütschland das man die brief herum<lbr/>
+trägt, sondern man mus<lbr type="BD"/> sie von der Post abhollen,<lbr/>
+und wir gehen alle Postäge hin um selbe abzuhollen.<lbr/>
+hier giebt es nichts neües, wir erwarten von <rend class="latin">salzbourg</rend><lbr/>
+neüekeiten. wir hoffen<lbr type="BD"/> sie werden den brief von <suppl hand="self" pos="infra">botzen</suppl><lbr/>
+erhalten haben. Ich weis nichts mehr, darum<lbr type="BD"/> will ich<lbr/>
+schliessen. unsere Empfehlung an alle gutte<lbr/>
+freunde und freündinen.<lbr type="BD"/> wir küssen die mama zu 100000<lbr/>
+|: mehr Nullen habe ich nicht hingebracht :|<lbr type="BD"/> mahl, und ich küsse<lbr/>
+der Mama die hände, und meine schwester umarme ich<lbr type="BD"/> lieber<lbr/>
+in <rend class="latin">persona</rend> als in der einbildung.<lbr type="forced"/>
+<lbr type="forced"/>
+<add_seal type="owner">B.C<lbr/>
+LILLE</add_seal>
+<pg n="2"/>
+<ts>_______________________________</ts><rend class="latin">Carissima sorella.</rend><lbr type="forced"/>
+<add_note schr_id="57010"><ts>______________________________________________________________</ts><rend class="latin">che voi già</rend></add_note>
+<rend class="latin">Spero che voi sarete stata dalla signora</rend>&#160;<encr expand="che voi gia">chl hsf gfm</encr><lbr/>
+<add_note schr_id="57010"><rend class="latin">sapete<ts>______________________</ts>la vedete<ts>________________</ts>complimento</rend></add_note>
+<rend class="latin"><encr expand="sapete">smpltl.</encr></rend>&#160;<rend class="latin">Vi prego se</rend>&#160;<rend class="latin"><encr expand="la vedete">lm oldltl</encr></rend>&#160;<rend class="latin">di farle un</rend>&#160;<rend class="latin"><encr expand="complimento">csapefalnts</encr></rend><lbr/>
+<add_note schr_id="57010"><rend class="latin">da<ts>___</ts>parte<ts>___</ts>mia</rend></add_note>
+<rend class="latin"><encr expand="da parte mia">dm pmrtl mfm.</encr></rend>&#160;<rend class="latin">spero, e non dubito punto che<lbr type="BD"/> voi</rend><lbr/>
+<rend class="latin">starete bene di salute. mi son scordato di darvi nuova,<lbr/>
+che abbiamo qui<lbr type="BD"/> trovato quel sig: belardo ballerino, che ab<pc force="weak">=</pc><lbr/>biamo consciuti in Haje ed in<lbr type="BD"/> amsterdam quello che<lbr/>
+attacò colla spada il ballerino il sig: Neri perché<lbr/>
+credeva che lui fosse cagione che non ebbe la permission<lbr/>
+di ballar in teatro.<lbr type="BD"/> addio. non scordarvi di me.<lbr/>
+io sono sempre il vostro<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_______________________________</ts><tspdf>\hfill </tspdf>fedele fratello amadeo Wolfgango<lbr type="forced"/>
+<ts>_____________________________________</ts><tspdf>\hfill </tspdf>Mozart <abbr expand="manu propria">mp</abbr></rend><lbr type="forced"/>
+<tspdf>\newpage</tspdf> 
+<NS type="NS" schr_id="39408">den Nahmenstag des Wolfg<abbr type="curve">:</abbr> hab<abbr v="en"/> wir in <rend class="latin">Alla</rend> be&#255; den 2 gebrüd<abbr v="er"/><lbr/>
+<rend class="latin">Pizzini</rend> lustig zu gebracht. wir hab<abbr v="en"/> uns auch in <rend class="latin">Verona</rend> aufgehalt<abbr v="en"/>,<lbr/>
+dessweg<abbr v="en"/> sind wir später in Mayland angelangt. hier ist i<abbr type="topline" expand="mm">m</abbr>er schön wetter,<lbr/>
+und auf der Reise hatt<abbr v="en"/> wir nur den tag nach <rend class="latin">Simon</rend>&#160;<abbr expand="und">u</abbr>&#160;<rend class="latin">Juda</rend> nachmittag<lbr/>
+stark<abbr v="en"/> Reg<abbr v="en"/>, das war alles. Lebt gesund! <rend class="latin">addio</rend>!<lbr type="forced"/>
+<lbr type="forced"/>
+unser Empf<abbr type="curve">:</abbr> an alle freunde <abbr expand="und">u</abbr> freindin<abbr v="en"/>.<lbr type="forced"/>
+<lbr type="forced"/>
+hier und in <rend class="latin">Verona</rend> hab<abbr v="en"/> wir <rend class="latin">opera buffa</rend> geseh<abbr v="en"/>.</NS>
+<lbr/>
+<add_note><rend class="latin">Lille</rend></add_note></NI></letter>
+</text>
+</MUP>

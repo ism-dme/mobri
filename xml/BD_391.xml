@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2012">2012-10</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=955</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:38:30 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_391.mup">
+<letter bd="391"><HEADER id="955">LEOPOLD MOZART AN WOLFGANG AMADÉ MOZART IN MANNHEIM<lbr/>
+SALZBURG, 15. DEZEMBER 1777<lbr type="forced"/>
+mit Nachschrift von Rosalie Joly</HEADER>
+<pg n="1"/>
+
+<ts>_____</ts><rend class="latin">Mon trés cher Fils!</rend><ts>_____</ts><tshtm>______________________________</tshtm><ts>______</ts><tspdf>\hfill </tspdf>Salzb d<abbr v="en"/> 15<h>t<abbr v="en"/></h>&#160;<rend class="latin">Decemb<abbr type="curve">:</abbr></rend><lbr type="forced"/>
+<ts>_______________________________________________</ts><add_num type="inline"><u>26.</u></add_num>_<tshtm>_________________________________________</tshtm><ts>__</ts><tspdf>\hfill </tspdf>1777<lbr type="forced"/>
+<lbr type="forced"/>
+Im Namen Gottes! Gedult! sonst ka<abbr type="topline" expand="nn">n</abbr> ich auch nichts sagen. die Sache<lbr/>
+muß<lbr type="BD"/> doch itzt vorbe&#255; se&#255;n &#8211; nicht da ich es schreibe &#8211; sond<abbr v="ern"/> da ihr dieses<lbr/>
+liest:<lbr type="BD"/> de<abbr type="topline" expand="nn">n</abbr> da wird wohl schon der 21<h>te</h> se&#255;n. der allmächtige gebe, daß es<lbr/>
+<add_note schr_id="57010"><ts>__________________________________________________________________________</ts>hast du nicht<ts>______</ts>zu bleiben,</add_note>
+nach<lbr type="BD"/> seinem allerheiligst<abbr v="en"/> Will<abbr v="en"/> gut abgegang<abbr v="en"/>. <u><encr expand="hast du nicht zu bleiben">umot dh nfcut zh belfbln</encr></u>;<lbr/>
+<add_note schr_id="57010">so<ts>_____</ts>wirst du ein gutes<ts>__</ts>Reisegeld<ts>__</ts>bekommen<ts>_____</ts>haben</add_note>
+<u><encr expand="so wirst du doch ein gutes Reisgeld bekommen haben">os wfrot dh dscu lfn ghtlo Rlfogled blksaaln mabln</encr></u>: du wirst ja deine<lbr/>
+<add_note schr_id="57010">Ausgaben<ts>__</ts>im Wirtshause<ts>_____________________________________________________</ts>In Mannheim</add_note>
+<u><encr expand="ausgaben im wirtshause">mhogmbln fa wfrtouahol</encr></u>&#160;<uu>benanntlich</uu> vorgewendet hab<abbr v="en"/>? <u><encr expand="in manheim">fn annulfa</encr></u><lbr/>
+<add_note schr_id="575010">ankommen zu können, würde<ts>___</ts>mir<ts>____</ts>dermalen das<ts>____</ts>liebste gewesen seyn;</add_note>
+<u><encr expand="ankommen zu können, würde mir dermahlen das liebste gewesen seyn">mnksaaln zh ks"nnln wh"rdl afr dlramueln dmo eflbotl glwloln olyn</encr></u>.<lbr/>
+<add_note schr_id="57010"><ts>_____________________________________________________________________________________________</ts>fortgefahren haben,</add_note>
+we<abbr type="topline" expand="nn">n</abbr><lbr type="BD"/> ich an deiner Stelle gewesen wäre, würde ich i<abbr type="topline" expand="mm">m</abbr>er <u><encr expand="fortgefahren haben">isrtglimurln umbln</encr></u><lbr/>
+<add_note schr_id="57010">den Kindern<ts>__</ts>das <rend class="latin">Rondò</rend><ts>__</ts>und<ts>____</ts>die<ts>__</ts>Variazionen<ts>__</ts>zu<ts>__</ts>lehren.<ts>_______________</ts>der Kurfürst</add_note>
+<u><encr expand="den Kindern das">dln Kfndlrn dmo</encr>&#160;<rend class="latin"><encr expand="Rondo">Rsnds</encr></rend>&#160;<encr expand="und die">hnd dfl</encr>&#160;<rend class="latin"><encr expand="Variazionen">Vmrfmzfsnln</encr></rend>&#160;<encr expand="zu lernen">zh elrnln</encr></u>. we<abbr type="topline" expand="nn">n</abbr> dir <u><encr expand="der Churfirst">dlr Cuhrifrot</encr></u><lbr type="BD"/>
+<add_note schr_id="57010">izt auch<ts>____</ts>keinen großen<ts>____</ts>Gehalt gegeben<ts>____________________________________</ts>bald<ts>_______</ts>besser</add_note>
+<u><encr expand="izt auch keinen grossen gehalt gegeben">fzt mucu klfnln grsooln glumet glglbln</encr></u> hätte; so würde es doch <u><encr expand="bald besser">baed bloolr</encr></u><lbr type="BD"/><lbr/>
+<add_note schr_id="57010"><ts>_____________________</ts>geworden seyn.</add_note>
+<u><encr expand="geworden seyn">glwsrdln slyn</encr></u>. Genug! man muß sich dem Will<abbr v="en"/> Gottes überlass<abbr v="en"/>:<lbr type="BD"/> allein auch<lbr/>
+<add_note schr_id="57010"><ts>_______________________________________________________________________________________</ts>spekuliren.</add_note>
+allezeit sein möglichstes thun; und dessweg<abbr v="en"/> i<abbr type="topline" expand="mm">m</abbr>er <rend class="latin"><encr expand="speculieren">oplcueflrln</encr></rend>.<lbr type="forced"/>
+<add_note schr_id="57010"><ts>______________________</ts>Ballette des<ts>___</ts>Herrn Cannabich<ts>______</ts>schon geschrieben</add_note>
+hast du da<abbr type="topline" expand="nn">n</abbr> die <u><rend class="latin"><encr expand="Ballette">Bmeelttl</encr></rend>&#160;<encr expand="des herren Cannabich schon geschrieben">dlo ulrrln Ca<abbr type="topline" expand="nn">n</abbr>abfcu ocusn glocurflbln</encr></u>? ich würde<lbr type="BD"/> mir<lbr/>
+sehr zeit dazu gelass<abbr v="en"/> hab<abbr v="en"/>. Ich war vom erst<abbr v="en"/> augenblick, als du<lbr type="BD"/> mir von der<lbr/>
+Sache Nachricht gabst der Meinung, und bins noch, daß die Sache<lbr type="BD"/> durch kein<abbr v="en"/> and<abbr v="ern"/><lbr/>
+<add_note schr_id="57010"><ts>____________________________________________________________________________________________________________________________</ts>die</add_note>
+Weeg zum Ende und Entschluß ko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/> ka<abbr type="topline" expand="nn">n</abbr>, und nun<lbr type="BD"/> hoffe geko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/> ist, als durch <u><encr expand="die">dfl</encr></u><lbr/>
+<add_note schr_id="57010">Kinder<ts>__________________________________________</ts>Gouvernante<ts>______________</ts>Gelegenheit<ts>____</ts>allda<ts>__</ts>mit</add_note>
+<u><encr expand="Kinder">Kfndlr</encr></u>, od<abbr v="er"/> vielmehr durch die<lbr type="BD"/>&#160;<rend class="latin"><encr expand="guvernante">ghvlrnantl</encr></rend> und durch die <u><encr expand="Gelegenheit alda mit">Glelglnulft medm aft</encr></u>
+<add_note schr_id="57010">dem Kurfürsten<ts>__</ts>selbst<ts>___</ts>zu sprechen<ts>______________________________</ts>Graf<ts>___</ts>Savioli</add_note>
+<u><encr expand="dem Churfirsten selbst zu sprechen">dla Cuhrifrotln olebot zh oprlculn</encr></u>, de<abbr type="topline" expand="nn">n</abbr> we<abbr type="topline" expand="nn">n</abbr> es auch <u><encr expand="graff">grmii</encr>&#160;<rend class="latin"><encr expand="savioli">omvfoef</encr></rend></u> gut<lbr/>
+mit dir meint, dess<abbr v="en"/> man<lbr type="BD"/> be&#255; dieser bösen Welt nie versichert ist, so<lbr/>
+<add_note schr_id="57010"><ts>______</ts>er nicht<ts>____</ts>allzeit<ts>__</ts>Gelegenheit</add_note>
+hat <u><encr expand="er nicht allzeit Gelegenhait">lr nfcut meezlft Glelglnhmft</encr></u> od<abbr v="er"/> auch nicht das Herz so oft von<lbr/>
+der Sache zu reden. Nun ka<abbr type="topline" expand="nn">n</abbr> ich dir weiter nichts mehr schreib<abbr v="en"/>. gestern gab<lbr/>
+h<abbr type="curve">:</abbr> zahlmeister das Beste, es war<lbr type="BD"/> auf der Scheibe die <u>Na<abbr type="topline" expand="nn">n</abbr>erl be&#255;m Clavier,</u> wie sie<lbr/>
+sitzt und spielt, der <u>Pi<abbr type="topline" expand="mm">m</abbr>perl</u><lbr type="BD"/> sitzt vor ihr auf dem Clavier und <u>wartet auf.</u><lbr/>
+alles recht schön gemahlt, natürlich, so gar die Kleidung der Na<abbr type="topline" expand="nn">n</abbr>erl<lbr/>
+genau getroffen, und auch d<abbr v="er"/> Pi<abbr type="topline" expand="mm">m</abbr>perl.<lbr type="BD"/> keine Verse war<abbr v="en"/> darbe&#255;, ich werde<lbr/>
+aber itzt hi<abbr type="topline" expand="nn">n</abbr>ach etwas darauf schreib<abbr v="en"/>.<lbr type="BD"/> Ich hab abermahl das <u>beste,</u><lbr/>
+und für die <rend class="latin">Ma<abbr type="topline" expand="mm">m</abbr>a</rend> 13 <rend class="latin">X</rend><h>r</h> gewo<abbr type="topline" expand="nn">n</abbr><abbr v="en"/>, weil mich<lbr type="BD"/> der Loosschuß für sie traf. dich mein<lbr/>
+liebes Weib bedauere, daß du so viel<lbr type="BD"/> kälte für täglich 24 <rend class="latin">X</rend><h>r</h> Einheitz=geld auszusteh<abbr v="en"/> hast: und<lbr/>
+ietzt muß es noch<lbr type="BD"/> ärger se&#255;n, da wir einige zeit die erstaunlichste Kälte hab<abbr v="en"/>. wäre ich an<lbr type="BD"/> deiner<lbr/>
+Stelle, ich würde iemand heimsuch<abbr v="en"/>, der eine warme Stube hat; und<lbr type="BD"/> we<abbr type="topline" expand="nn">n</abbr> ich zu hause wäre, würde<lbr/>
+ich mich in das bethe hineinsetz<abbr v="en"/>, mich mit<lbr type="BD"/> dem Rücken an die Kopfkisser anlein<abbr v="en"/>, und mich<lbr/>
+bis an den halb<abbr v="en"/> Leib<lbr type="BD"/> zudecken, da<abbr type="topline" expand="nn">n</abbr> in dieser Stellung lesen oder strick<abbr v="en"/>, od<abbr v="er"/> näh<abbr v="en"/>, od<abbr v="er"/><lbr/>
+gar<lbr type="BD"/> schlaff<abbr v="en"/>, oder mit der karten mein zukünftiges Glück od<abbr v="er"/> Unglück aufschlag<abbr v="en"/>.<lbr type="BD"/> ko<abbr type="topline" expand="mm">m</abbr>t von unge<pc force="weak">=</pc><lbr/>fehr iemand, so sagt man <suppl hand="self" pos="supra">ich</suppl> habe ein wenig Kopfweh <abbr expand="etc">p</abbr>:<lbr type="BD"/> od<abbr v="er"/> was anders <abbr expand="etc">p</abbr>: das würde ich<lbr/>
+gewiß thun, und keine Kälte Leiden. &#8211;<lbr type="BD"/> Nun seyd ihr 3 Monat, folglich ein viertjahr schon<lbr/>
+von uns entfernt; das<lbr type="BD"/> scheint mir schon ein jahr zu se&#255;n. darf ich wohl frag<abbr v="en"/>, ob der Wolfg<abbr type="curve">:</abbr><lbr/>
+<add_note schr_id="57010"><ts>________________</ts>das<ts>______________</ts>Beichten</add_note>
+nicht<lbr type="BD"/> auf <u><encr expand="das beichten">dmo blfcutln</encr> vergess<abbr v="en"/></u> hat? &#8211; &#8211; <tshtm>_______________________________</tshtm>Gott geht vor allem!<lbr/>
+von dem müssen<lbr type="BD"/> wir unser zeitliches Glück <tshtm>____________________________</tshtm>erwart<abbr v="en"/>, und für das<lbr/>
+ewige i<abbr type="topline" expand="mm">m</abbr>er Sorge trag<abbr v="en"/>:<lbr type="BD"/> junge Leute <tshtm>______________________________________</tshtm>hörn dergleich<abbr v="en"/> Sach<abbr v="en"/> nicht gern,<lbr/>
+ich weis es, ich war auch<lbr type="BD"/> jung; allein Gott se&#255; <tshtm>_______________________</tshtm>danck gesagt, ich kam doch<lbr/>
+be&#255; allen mein<abbr v="en"/> jugendlichen Narrenspossen i<abbr type="topline" expand="mm">m</abbr>er wieder zu mir selbst, flohe alle Gefahr<abbr v="en"/><lbr/>
+meiner<lbr type="BD"/> Seele, und hatte i<abbr type="topline" expand="mm">m</abbr>er <u>Gott</u> und meine <u>Ehre,</u> und die Folgen, die <u>gefährlich<abbr v="en"/><lbr type="BD"/> Folgen</u><lbr/>
+vor Augen. Neues giebt es hier itzt gar nichts. wir empf<abbr type="curve">:</abbr> uns sa<abbr type="topline" expand="mm">m</abbr>t<lbr type="BD"/> allen gut<abbr v="en"/> freund<abbr v="en"/>, kissen<lbr/>
+euch millionmahl und sind in beständiger &#8211; gedultiger Erwartung <tspdf>\newline </tspdf>&#160;<tspdf>________________________________</tspdf><tspdf>\hfill </tspdf>Euer Ma<abbr type="topline" expand="nn">n</abbr> und vatter <u>Mzt</u>&#160;<abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<ts>________________</ts><tshtm>____________________________________________________</tshtm><ts>____________________</ts><tspdf>\hfill </tspdf>Euer tochter <abbr expand="und">u</abbr> schwester <u>Na<abbr type="topline" expand="nn">n</abbr>erl</u><lbr type="forced"/>
+<u>von Haydns Reise ist wieder alles</u> stille.<lbr type="forced"/>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+
+<pg n="2"/>
+
+<anschrift rot="270"><rend class="latin">A Monsieur</rend><lbr type="forced"/>
+<rend class="latin">Monsieur Wolfgang Amadé</rend><lbr type="forced"/>
+<rend class="latin"><u>Mozart</u> Maître de Musique</rend><lbr type="forced"/>
+<ts>____</ts><tshtm>__________</tshtm><ts>__________</ts><rend class="latin">à</rend><lbr type="forced"/>
+im Pfälzischen<lbr type="forced"/>
+<u>Hofe.</u><ts>________________</ts><rend class="latin"><u>Manheim</u></rend><lbr type="forced"/>
+<add_note>frcoaug<abbr type="curve">.</abbr></add_note></anschrift><lbr/>
+<add_num rot="270"><rend class="latin">N</rend>:<h>o</h> 26:</add_num>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+
+<pg n="3"/>
+<NS type="Beilage" schr_id="76017">
+_<tshtm>________</tshtm><ts>___</ts>Bester wolferl,<ts>______________________</ts><add_ident type="inline" schr_id="57010">Z. 15 Dec. 1777.</add_ident><lbr type="BD"/><lbr type="forced"/>
+Es komt das neüe Jahr ich Soll nun <rend class="latin">gratuliren</rend>,<lbr type="BD"/><lbr type="forced"/>
+Vnd vielle schöne wünsch auf disses blad herschmüren,<lbr type="BD"/><lbr type="forced"/>
+allein das dueh ich nücht das wünschen ist ein tröck<lbr type="BD"/><lbr type="forced"/>
+Von dem Man gar nichts hat, nicht einmal einen schmöck<lbr type="BD"/><lbr type="forced"/>
+ich will dir Nur So Vüll mit wenig worden sagen,<lbr type="BD"/><lbr type="forced"/>
+du kanst es wider sagn, wan man dich drum würd fragen<lbr type="BD"/><lbr type="forced"/>
+das mich dein wohlsein freit, das dich Von herzen lieb<lbr type="BD"/><lbr type="forced"/>
+das auch abwessent dir, offt Meinen seegen gieb,<lbr type="BD"/><lbr type="forced"/>
+das deiner Mutter noch, hab keinen tag Vergessen<lbr type="BD"/><lbr type="forced"/>
+Vnd Nie Vergessen werd wie wür be&#255;sam geßessen<lbr type="BD"/><lbr type="forced"/>
+In Jung und alten jahren, geblaudert und golacht,<lbr type="BD"/><lbr type="forced"/>
+Und uns Zuweillen auch, offt recht hübsch lustig gmacht,<lbr type="BD"/><lbr type="forced"/>
+Nun So bin ich hald noch, und werd So alzeit bleiben<lbr type="BD"/><lbr type="forced"/>
+bis Man Meintwegen würd Vüll daussent daussent schreiben,<lbr type="BD"/><lbr type="forced"/>
+der hi<abbr type="topline" expand="mm">m</abbr>el gebe Euch Vüll &#8211; lang &#8211; und gsunde Jahr<lbr type="BD"/><lbr type="forced"/>
+Vergesset meiner nicht, ich bin der alte Nahr,<lbr type="BD"/><lbr type="forced"/>
+<ts>________________</ts><tshtm>_____________</tshtm>oder Nahrin <rend class="latin">Saletl</rend></NS>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+
+<pg n="4"/>
+<NS type="NS" schr_id="39408">
+Ob ihr diesen Neujahrswunsch von der Sallerl wohl werdet zusa<abbr type="topline" expand="mm">m</abbr>buch<pc force="weak">=</pc><lbr/>stabiern können? &#8211; &#8211; &#8211; Wir hab<abbr v="en"/> noch schon Zeit euch das neue<lbr/>
+Jahr zu<lbr type="BD"/> wünschen. Gott erhalte euch nur gesund, für dieses<lbr/>
+habt ihr auch hauptsächlich zu sorgen. Wir sind, Gott se&#255;<lbr/>
+dank gesagt, wohl auf, und iederman hat sich verwundert, daß ich<lbr/>
+mich wieder so gut erhohlt habe. Ich nehme noch<lbr type="BD"/> Täglich den <rend class="latin">Sago</rend>,<lbr/>
+aber itzt schon lange nur einmahl des tages, nä<abbr type="topline" expand="mm">m</abbr>lich<lbr type="BD"/> abends etwa<lbr/>
+um halbe 6 uhr: da ich ihn vorhero über 4 woch<abbr v="en"/> alle tage<lbr type="BD"/> 2 mahl nahm.<lbr/>
+Die Na<abbr type="topline" expand="nn">n</abbr>erl geht alle Tag in der <rend class="latin">Negligé</rend> in die 7 Messe zur<lbr type="BD"/> hl: Dre&#255;faltigk<abbr type="curve"></abbr> <abbr expand="etc">p</abbr>.<lbr/>
+und mit ihr die tresel, und nun auch die Jgf: Sandl. die<lbr type="BD"/> Menscherstuben<pc force="weak">=</pc><lbr/>thür versperr<abbr v="en"/> sie mit einem Vorhängschloß, und be&#255; der<lbr type="BD"/> Mizerl<pc force="weak">=</pc><lbr/>stiegen ka<abbr type="topline" expand="nn">n</abbr> niemand herauf, weil solche itzt i<abbr type="topline" expand="nn">n</abbr>wendigt mit einem<lbr type="BD"/><lbr/>
+Riegl versperrt ist. &#8211; Eben itzt ko<abbr type="topline" expand="mm">m</abbr>t die Na<abbr type="topline" expand="nn">n</abbr>erl |: <u>nachmittag<lbr/>
+um halbe<lbr type="BD"/> 4 uhr</u> :| vom Hagenauer, wo sie den <rend class="latin">P: Dominicus</rend> an<pc force="weak">=</pc><lbr/>getroff<abbr v="en"/>, der sie gebeth<abbr v="en"/>&#160;<u>seine Empfehlung zu schreib<abbr v="en"/>.</u> Die Na<abbr type="topline" expand="nn">n</abbr>erl<lbr/>
+ist den ganz<abbr v="en"/> tag mit<lbr type="BD"/> Gold und silber zupfen beschäftiget, folglich sonst i<abbr type="topline" expand="mm">m</abbr>er<lbr/>
+zu Hause. itzt eben<lbr type="BD"/> schickt die Freul: von Schiedenhof<abbr v="en"/> und last uns bitt<abbr v="en"/> auf<lbr/>
+ein Spiel zu ihr<lbr type="BD"/> zu ko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>: das ist nun das erste mahl, daß wir wohin geh<abbr v="en"/>,<lbr/>
+ausgeno<abbr type="topline" expand="mm">m</abbr><abbr v="en"/><lbr type="BD"/> 2 mahl war<abbr v="en"/> wir nach dem Nachtess<abbr v="en"/> be&#255;m Hagenauer.<lbr type="forced"/>
+<rend class="latin">à propos</rend>! &#8211; wird der <u>Bart</u> weg=geschnitt<abbr v="en"/>, &#8211; weg=gebre<abbr type="topline" expand="nn">n</abbr>t, od<abbr v="er"/> gar weg=barbiert? &#8211; 
+</NS>
+</letter>
+</text>
+</MUP>

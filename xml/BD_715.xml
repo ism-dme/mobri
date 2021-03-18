@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2014">2014-5</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1282</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:40:18 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_715.mup">
+<letter bd="715"><HEADER id="1282">WOLFGANG AMADÉ MOZART AN LEOPOLD MOZART IN SALZBURG<lbr/>
+WIEN, 28. DEZEMBER 1782</HEADER>
+<pg n="1"/>
+<add_num type="inline" impl="pencil">150</add_num><ts>____</ts><tshtm>______________________________________________________________________________</tshtm><tspdf>\hfill </tspdf><rend class="latin"><u>vie<abbr type="topline" expand="nn">n</abbr>e</u> ce</rend> 28 <rend class="latin">de decembre</rend>&#160;<uu>1782</uu><lbr type="forced"/>
+<rend class="latin">Mon trés cher Pére!</rend><lbr type="forced"/>
+<lbr type="forced"/>
+Ich muß in gröster E&#255;le schreiben, weil es schon halb 6 uhr ist, und ich mir<lbr type="BD"/> um 6<lbr/>
+uhr leute herbestellt habe um eine kleine <rend class="latin">Musique</rend> zu machen; &#8211; über<lbr type="BD"/>haupt habe<lbr/>
+ich so viel zu thun, daß ich oft nicht weis wo mir der kopf steht; &#8211;<lbr type="BD"/> der ganze<lbr/>
+vormittag bis 2 uhr geht mit <rend class="latin">lectionen</rend> herum; &#8211; da<abbr type="topline" expand="nn">n</abbr> Essen wir; &#8211;<lbr type="BD"/> nach<lbr/>
+tisch muß ich doch eine kleine Stunde meinem armen Magen zur <rend class="latin">digestion</rend><lbr type="BD"/><lbr/>
+vergö<abbr type="topline" expand="nn">n</abbr>en; da<abbr type="topline" expand="nn">n</abbr> &#8211; ist der einzige abend, wo ich etwas schreiben ka<abbr type="topline" expand="nn">n</abbr> &#8211; und<lbr type="BD"/><lbr/>
+der ist nicht sicher, weil ich öfters zu <rend class="latin">accademien</rend> gebeten werde; &#8211; nun fehlen<lbr type="BD"/><lbr/>
+noch 2 <rend class="latin">Concerten</rend> zu den <rend class="latin">Suscriptions Concerten</rend>. &#8211; die <rend class="latin">Concerten</rend> sind eben<lbr type="BD"/><lbr/>
+das Mittelding zwischen zu schwer, und zu leicht &#8211; sind sehr <rend class="latin">Brillant</rend> &#8211; <lbr/>
+an<lbr type="BD"/>genehm in die ohren &#8211; Natürlich, ohne in das leere zu fallen &#8211; <lbr/>
+hie und da &#8211; kö<abbr type="topline" expand="nn">n</abbr>en auch <u>ke<abbr type="topline" expand="nn">n</abbr>er allein</u>&#160;<rend class="latin">satisfaction</rend> erhalten &#8211; doch so &#8211; <lbr/>
+daß die nicht<lbr type="BD"/>ke<abbr type="topline" expand="nn">n</abbr>er damit zufrieden se&#255;n müssen, ohne zu wissen warum.<lbr/>
+Ich theile<lbr type="BD"/>&#160;<rend class="latin">Billetter</rend> aus &#8211; gegen Baare 6 <rend class="latin">Ducaten;</rend> &#8211; Nun vollende ich<lbr/>
+auch den klavier<lbr type="BD"/>auszug meiner oper, welcher in Stich herausko<abbr type="topline" expand="mm">m</abbr>en<lbr/>
+wird, und zugleich<lbr type="BD"/> arbeite ich an einer Sache die sehr schwer ist, das<lbr/>
+ist an einen Bardengesang<lbr type="BD"/> vom <rend class="latin">Denis</rend> über <rend class="latin">gibraltar;</rend> &#8211; das ist<lbr/>
+aber ein geheimnüss, de<abbr type="topline" expand="nn">n</abbr> eine ungarische<lbr type="BD"/> Da<abbr type="topline" expand="mm">m</abbr>e will den <rend class="latin">Denis</rend><lbr/>
+diese Ehre erweisen. &#8211; die ode ist erhaben, schön, alles<lbr type="BD"/> was sie<lbr/>
+wollen &#8211; allein &#8211; zu übertrieben schwülstig für meine feine<lbr/>
+Ohren &#8211;<lbr type="BD"/> aber was wollen sie! &#8211; das mittelding &#8211; das wahre in<lbr/>
+allen sachen ke<abbr type="topline" expand="nn">n</abbr>t und<lbr type="BD"/> schätzt man izt ni<abbr type="topline" expand="mm">m</abbr>er &#8211; um be&#255;fall zu<lbr/>
+erhalten muß man sachen schreiben<lbr type="BD"/> die so verständlich sind, daß<lbr/>
+es ein <rend class="latin">fiacre</rend> nachsingen kö<abbr type="topline" expand="nn">n</abbr>te, oder so unver<lbr type="BD"/>ständlich &#8211; daß <suppl hand="self" pos="infra">es</suppl><lbr/>
+ihnen, eben weil es kein vernünftiger Mensch verstehen<lbr type="BD"/> ka<abbr type="topline" expand="nn">n</abbr>, gerade<lbr/>
+eben deswegen gefällt; &#8211; es <suppl hand="self" pos="supra">ist</suppl> nicht dieses was ich mit ihnen<lbr type="BD"/> sprechen wollte,<lbr/>
+sondern ich hätte lust ein Buch &#8211; eine kleine <rend class="latin">Musical</rend>ische<lbr type="BD"/> kritick mit<lbr/>
+<rend class="latin">Exemplen</rend> zu schreiben &#8211; aber <rend class="latin"><uu>NB</uu>:</rend> nicht unter meinem Na<abbr type="topline" expand="mm">m</abbr>en. &#8211;<lbr type="BD"/>&#160;<lbr type="forced"/>
+hier ist ein Einschlus von der <rend class="latin">Baron</rend> Waldstätten, welche auch befürchtet<lbr/>
+es<lbr type="BD"/> möchte ihr ein 2:<h>tn</h> brief liegen bleiben; &#8211; de<abbr type="topline" expand="nn">n</abbr> sie müssen ihren<lbr/>
+lezten brief<lbr type="BD"/> nicht erhalten haben, weil sie gar keine Meldung davon<lbr/>
+gethan haben; &#8211; ich<lbr type="BD"/> habe sie in dem brief der verloren gegangen<lbr/>
+darüber befragt. &#8211; Nun <rend class="latin">adieu</rend><lbr type="BD"/> Nächstens mehr. Mein Weiberl und ich küssen ihnen<lbr/>
+1000mal die hände,<lbr type="BD"/> und umarmen unsere liebe schwester von herzen und sind Ewig ihre<lbr type="forced"/>
+<ts>________</ts><tshtm>_______________________________________________________________________________________________________</tshtm><tspdf>\hfill </tspdf>gehost: kinder<lbr type="BD"/><lbr type="forced"/>
+<ts>________</ts><tshtm>______________________________________________________________________________________________________</tshtm><tspdf>\hfill </tspdf>W: <rend class="latin">et</rend> C: Mzt <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="2"/>
+<add_note rot="270" impl="ink" schr_id="48817">28t<abbr v="en"/> 10<rend class="latin">ber</rend><lbr/>1782.</add_note>
+</letter>
+</text>
+</MUP>

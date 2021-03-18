@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2014">2014-5</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1309</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Verbleib unbekannt</bibl>
+            <bibl type="source" subtype="RISM">Verbleib unbekannt</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:40:24 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_741.mup">
+<letter bd="741"><NI src="Unbekannt"><HEADER id="1309">WOLFGANG AMADÉ MOZART AN JEAN GEORGES SIEBER IN PARIS<lbr/>
+WIEN, 26. APRIL 1783</HEADER>
+<pg n="1"/>
+<ts>__________</ts><tshtm>___________________________________________________________________</tshtm><tspdf>\hfill </tspdf><rend class="latin"><u>Vienne</u> ce</rend> 26 <rend class="latin">d'avril</rend><lbr type="forced"/>
+<ts>_______</ts><tshtm>____</tshtm><rend class="latin">Monsieur!</rend><ts>_____</ts><tshtm>____________________________________________________________________</tshtm><tspdf>\hfill </tspdf><uu>1783</uu><lbr type="forced"/>
+<lbr type="forced"/>
+Es sind nun bereits 2 Jahre daß ich in Wie<abbr type="topline" expand="nn">n</abbr> bin; &#8211; sie werden ver<pc force="weak">=</pc><lbr/>muthlich<lbr type="BD"/> wissen von meinen <rend class="latin">Sonaten</rend> auf <rend class="latin">Pianoforte</rend> mit begleitung<lbr/>
+einer <rend class="latin">Violin</rend>, welche<lbr type="BD"/> ich hier be&#255; <rend class="latin">Artaria</rend> und <rend class="latin">Compagnie</rend> habe Stechen<lbr/>
+lassen; &#8211; da ich aber mit<lbr type="BD"/> dem hiesigen Stiche nicht allzusehr zufrieden<lbr/>
+bin, und we<abbr type="topline" expand="nn">n</abbr> ich es auch wäre,<lbr type="BD"/> Meinem LandsMa<abbr type="topline" expand="nn">n</abbr>e in Paris auch<lbr/>
+einmal wieder möchte etwas zuko<abbr type="topline" expand="mm">m</abbr>en<lbr type="BD"/> lassen; so mache ihnen<lbr/>
+hiemit zu wissen daß ich 3 <rend class="latin">Clavier=Concerte</rend> fertig<lbr type="BD"/> habe, welche<lbr/>
+mit ganzen <rend class="latin">orchester</rend> als mit <rend class="latin">oboen</rend> und Horn &#8211; wie auch nur<lbr type="BD"/><lbr/>
+<u>à quatro</u>, kö<abbr type="topline" expand="nn">n</abbr>en <rend class="latin">Producirt</rend> werden; &#8211; <rend class="latin">Artaria</rend> will sie Stechen.<lbr/>
+allein sie, mein<lbr type="BD"/> freund, haben den vorzug; &#8211; ich will ihnen<lbr/>
+also, um alle weitläufigkeit zu<lbr type="BD"/> vermeiden, den geringsten<lbr/>
+Preis sagen; &#8211; sie geben mir 30 <rend class="latin">Louisd'or</rend> dafür,<lbr type="BD"/> und damit<lbr/>
+ist unser handel gemacht. &#8211; weiters schreibe ich nun an 6 <rend class="latin">quar<pc force="weak">=</pc><lbr/>tetten</rend><lbr type="BD"/> auf 2 <rend class="latin">violin</rend>, <rend class="latin">viola</rend> und <rend class="latin">Basso</rend> &#8211; we<abbr type="topline" expand="nn">n</abbr> sie diese auch<lbr/>
+Stechen wollen so gieb<lbr type="BD"/> ich sie ihnen auch. &#8211; mit diesen bin<lbr/>
+ich aber nicht so wohlfeil &#8211; diese 6 <rend class="latin">quarten</rend><lbr type="BD"/> ka<abbr type="topline" expand="nn">n</abbr> ich unter<lbr/>
+50 <rend class="latin">Louis d'or</rend> nicht geben; &#8211; mithin we<abbr type="topline" expand="nn">n</abbr> sie mit mir einen<lbr type="BD"/><lbr/>
+handel machen kö<abbr type="topline" expand="nn">n</abbr>en und wollen, so belieben sie mir<lbr/>
+nur zu antworten, so<lbr type="BD"/> werde ich ihnen in <rend class="latin">Paris</rend> eine<lbr/>
+<rend class="latin">adresse</rend> anweisen, alwo sie, gegen ihre bezahlung,<lbr type="BD"/> meine<lbr/>
+arbeit erhalten werden. &#8211; unterdessen verhaare ich dero<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_______</ts><tshtm>________________________________________________________</tshtm><tspdf>\hfill </tspdf>ergebenster die<abbr type="topline" expand="nn">n</abbr>er<lbr type="forced"/>
+<ts>_______</ts><tshtm>_____________________________________________</tshtm><tspdf>\hfill </tspdf>Wolfgang Amadè Mozart <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<pg n="2"/>
+<tspdf><lbr type="forced"/></tspdf>
+<rend class="latin">P: S:</rend> belieben sie nur über ihren Brief eine <suppl hand="self" pos="supra"><rend class="latin">Couvert</rend></suppl> zu machen,<lbr/>
+mit folgender <rend class="latin">Adresse</rend>.<lbr type="forced"/>
+<ts>___________</ts><tshtm>_______________________</tshtm><rend class="latin">À:<lbr type="forced"/>
+<ts>_____________</ts><tshtm>________________________</tshtm>Monsieur<lbr type="forced"/>
+<tshtm>________________</tshtm>Monsieur Le Baron Raymund de Wetzlar<lbr type="forced"/>
+<ts>_______________________</ts><tshtm>________________________</tshtm>à</rend><lbr type="forced"/>
+<tshtm>________</tshtm>auf der hohen brücke im<ts>____________</ts><tshtm>_____</tshtm><rend class="latin"><uu>Vienne</uu></rend><lbr type="forced"/>
+<tshtm>________</tshtm>kleinen Herborsteinischen hause.
+<pg n="3"/>
+<vacat/>
+<pg n="4"/>
+<anschrift rot="270"><rend class="latin">Monsieur<lbr type="forced"/>
+Monsieur Sieber, Editeur de Musique<lbr type="forced"/>
+rue St: honoré à<lbr type="BD"/> l'hôtel d'Aliger<lbr type="forced"/>
+à<lbr type="forced"/>
+<uu>Paris</uu></rend></anschrift>
+</NI></letter>
+</text>
+</MUP>

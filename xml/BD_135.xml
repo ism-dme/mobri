@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2020">2020-03</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=694</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Verbleib unbekannt (Vorlage: Abschrift um 1768 in D-B)</bibl>
+            <bibl type="source" subtype="RISM">Verbleib unbekannt, Vorlage: Abschrift um 1768 in D-B</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:36:55 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_135.mup">
+<letter bd="135">
+<NI src="unbekannt">
+<HEADER id="694">LEOPOLD MOZART AN LORENZ HAGENAUER IN SALZBURG<lbr/>
+WIEN, 30. JULI 1768</HEADER>
+<pg n="1"/>
+<ts>__________________________</ts><tspdf>\hfill </tspdf>Wienn den 30.<h>t<abbr v="en"/></h>&#160;<rend class="latin">Julij</rend>&#160;<u>1768.</u><lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____</ts>Sie haben alles wieder gut gemacht! &#8211; &#8211; <lbr/>
+Es war uns nur bange, ob nicht etwa<lbr type="BD"/><lbr/>
+von ihrem Hause iemand unbässlich wäre.<lbr/>
+Wir sind nun von dieser Seite um<lbr type="BD"/><lbr/>
+so vergnügter, als wir sehen, daß viel<pc force="weak">=</pc><lbr/>mehr das gute wohlse&#255;n und die Unter<pc force="inter">=</pc><lbr/>haltung im Garten an diesem stillschweigen<lbr/>
+Ursache ware. Auf einer anderen<lbr type="BD"/> Seite<lbr/>
+hingegen, nämlich unsern so langen Aufent<pc force="weak">=</pc><lbr/>halt in Wienn betreffend, sind wir höchst<lbr/>
+missvergnügt. ja, nichts als unsere Ehre<lbr/>
+hält uns zurücke,<lbr type="BD"/> sonst würden wir be<pc force="weak">=</pc><lbr/>reits lange in Salzburg se&#255;n. Denn<lbr/>
+wollten sie wohl, daß<lbr type="BD"/> man in ganz Wienn<lbr/>
+sagen sollte, der Wolfgang<abbr type="curve">:</abbr> hätte die<lbr/>
+<rend class="latin">opera</rend> nicht verfer<lbr type="BD"/>tigen können; oder, sie<lbr/>
+wäre so elend ausgefallen, daß man<lbr/>
+sie gar nicht hätte auf<lbr type="BD"/>führen können;<lbr/>
+oder er hätte Sie nicht gemacht, sondern<lbr/>
+<pg n="2"/>
+der Vatter <abbr expand="etc">p</abbr><lbr type="BD"/> wollten sie, daß man<lbr/>
+mit kaltem Blut erwarten sollte, daß<lbr/>
+derle&#255; Verleumdun<lbr type="BD"/>gen in alle Länder aus<pc force="weak">=</pc><lbr/>geschrieben würden. Würde dieses<lbr/>
+wohl zu unserer Ehre,<lbr type="BD"/> ja würde es zur<lbr/>
+Ehre unsers gnädigsten Fürsten se&#255;n?<lbr/>
+Sie werden sagen:<lbr type="BD"/>&#160;<u>was sagt den S:<h>e</h><lbr/>
+Ma&#255;estätt der Ka&#255;ser dazu?</u> &#8211; &#8211; Hier<lbr/>
+muß ich die Sache<lbr type="BD"/> nur kurz berühren, denn<lbr/>
+ausführlich läst es sich nicht beschreiben. doch<lbr/>
+sie<lbr type="BD"/> werden es einsehen. Hätte ich alles<lbr/>
+gewust, was ich nun weis; und hätte ich<lbr type="BD"/> Zu<pc force="weak">=</pc><lbr/>fälle vorsehen können, die sich eräugent ha<pc force="weak">=</pc><lbr/>ben, so würde der Wolfgang<abbr type="curve">:</abbr><lbr type="BD"/> gewiß kei<pc force="weak">=</pc><lbr/>ne Note geschrieben haben, sonderen längst<lbr/>
+zu Hause se&#255;n. Das Thea<lbr type="BD"/>ter ist<lbr/>
+verbacht, oder vielmehr einem gewissen<lbr/>
+<rend class="latin">Affligio</rend> überlassen; Dieser muß<lbr type="BD"/> jährlich<lbr/>
+einige 1000 f: an Leute bezahlen, die der<lbr/>
+Hof sonst bezahlen müste,<lbr type="BD"/> der Ka&#255;ser und<lbr/>
+ganze Ka&#255;serliche <rend class="latin">Familie</rend> zahlt nichts,<lbr/>
+ist fre&#255;. Folglich hat<lbr type="BD"/> diesem <rend class="latin">Affligio</rend><lbr/>
+<pg n="3"/>
+der Hof nicht ein Wort zu sagen, indem<lbr/>
+alles auf seine Gefahr<lbr type="BD"/> gehet, und er nun<lbr/>
+wircklich in Gefahr stehet, ins Verderben<lbr/>
+zu gerathen, wie<lbr type="BD"/> sie hinnach gleich hören<lbr/>
+werden.<lbr type="forced"/>
+<ts>_____</ts>S:<h>e</h> Ma&#255;estätt sagten unserm Wolf<pc force="weak">=</pc><lbr/>gang<abbr type="curve">:</abbr> ob er nicht eine <rend class="latin">opera</rend> schreiben<lbr type="BD"/> möchte,<lbr/>
+und daß allerhöchstdieselben ihn gerne be&#255;m<lbr/>
+<rend class="latin">Clavier</rend> die <rend class="latin">Opera</rend>&#160;<rend class="latin">dirri<lbr type="BD"/>gi</rend>ren sehen möchten;<lbr/>
+S:<h>e</h> Majestätt liessen solches auch dem<lbr/>
+<rend class="latin">Affligio</rend> melden,<lbr type="BD"/> der dann auch solches<lbr/>
+gegen bezahlung von 100. <rend class="latin">duccat</rend>en mit uns<lbr/>
+richtig<lbr type="BD"/> machte. Die <rend class="latin">opera</rend> sollte<lbr/>
+Anfangs auf Ostern gemacht werden;<lbr/>
+Allein der <amend value="Poet">Port</amend><lbr type="BD"/> war der erste, der es hin<pc force="weak">=</pc><lbr/>derte, indem er, um nur da und dort<lbr/>
+Veränderungen,<lbr type="BD"/> die nothwendig waren, vor<pc force="weak">=</pc><lbr/>zunehmmen, es immer verzögerte, so, daß<lbr/>
+man der<lbr type="BD"/> veränderten <rend class="latin">Arien</rend> erst zwe&#255;<lbr/>
+um Ostern von ihm erhalten konnte. Es<lbr/>
+wurde<lbr type="BD"/> auf Pfingsten, und dann auf die<lbr/>
+Zurückkunft S:<h>er</h> Majestätt aus Ungarn<lbr/>
+<pg n="4"/>
+vest<lbr type="BD"/>gesetzet. Allein, hier fiel die Larve<lbr/>
+vom Gesichte. &#8211; &#8211; &#8211; Dann unter<lbr/>
+dieser<lbr type="BD"/> Zeit haben alle <rend class="latin">Compositores</rend>, da<pc force="weak">=</pc><lbr/>runter <rend class="latin">Gluck</rend> eine Hauptperson ist, al<pc force="weak">=</pc><lbr/>les<lbr type="BD"/> untergraben, um den Fortgang die<pc force="weak">=</pc><lbr/>ser <rend class="latin">opera</rend> zu hindern. Die Sänger<lbr/>
+wurden<lbr type="BD"/> aufgeredet, das <rend class="latin">Orchester</rend> auf<pc force="weak">=</pc><lbr/>gehätzet, und alles angewendet um die<lbr/>
+Auffüh<lbr type="BD"/>rung dieser <rend class="latin">opera</rend> einzustellen.<lbr/>
+Die Sänger, die ohnehin kaum die No<pc force="weak">=</pc><lbr/>ten ken<lbr type="BD"/>nen, und darunter ein und ande<pc force="weak">=</pc><lbr/>rer alles gänzlich nach dem Gehöre ler<pc force="weak">=</pc><lbr/>nen muß,<lbr type="BD"/> sollten nun sagen, sie könn<pc force="weak">=</pc><lbr/>ten ihre <rend class="latin">Arien</rend> nicht singen, die sie doch<lbr/>
+vorhero be&#255; uns im Zimmer hörten, be<pc force="weak">=</pc><lbr/>gnehmten, <rend class="latin">applaudi</rend>rten, und sagten, daß<lbr/>
+sie<lbr type="BD"/> ihnen recht wären. das <rend class="latin">Orchester</rend><lbr/>
+sollte sich nun nicht gerne von einem Kna<pc force="weak">=</pc><lbr/>ben<lbr type="BD"/>&#160;<rend class="latin">dirrigi</rend>ren lassen &#38;c. und hundert<lbr/>
+solche Sachen. Entzwischen wurde von<lbr/>
+eini<lbr type="BD"/>gen ausgesprengt, die Musick se&#255;e<lbr/>
+keinen blauen Teufel werth; Von<lbr/>
+<conv><ts>_______________________________________</ts>andern,</conv>
+<pg n="5"/>
+andern,<lbr type="BD"/> die Musick se&#255;e nicht auf die<lbr/>
+Worte, und wieder das <rend class="latin">Metrum</rend> ge<pc force="weak">=</pc><lbr/>schrieben, in<lbr type="BD"/>dem der Knab nicht genug<lbr/>
+die jtaliänische Sprache verstehe. &#8211; &#8211; &#8211; <lbr/>
+Kaum<lbr type="BD"/> hörte ich dieses, so bewies ich an<lbr/>
+den ansehnlichsten Orten, daß der Mu<pc force="weak">=</pc><lbr/>sick<lbr type="BD"/>=Vatter <rend class="latin">Hasse</rend>, und der große <rend class="latin">Me<pc force="weak">=</pc><lbr/>tastasio</rend> sich darüber erklären, daß die<pc force="weak">=</pc><lbr/>jenigen<lbr type="BD"/> Verläumder, die dieses ausspreng<pc force="weak">=</pc><lbr/>en zu ihnen kommen sollen, um aus ih<pc force="weak">=</pc><lbr/>ren<lbr type="BD"/> Munde zu hören, daß 30. <rend class="latin">opern</rend><lbr/>
+in Wienn aufgeführet worden, die in<lbr/>
+keinem<lbr type="BD"/> Stücke der <rend class="latin">Opera</rend> dieses Knaben<lbr/>
+be&#255;kommen, die sie be&#255;de nicht anders<lbr/>
+als im<lbr type="BD"/> höchsten Grade bewunderten.<lbr/>
+Nun hieß es, nicht der Knab, sondern<lbr/>
+der Vatter<lbr type="BD"/> hat es gemacht. &#8211; &#8211; Hier fiel<lbr/>
+aber auch der <rend class="latin">Credit</rend> der Verläumder: denn<lbr/>
+sie<lbr type="BD"/> verfiehlen <rend class="latin">ab uno extremo ad aliud</rend>.<lbr/>
+und hier sassen sie gleich im Pfeffer. Ich<lbr type="BD"/><lbr/>
+ließ den nächsten besten Theil der Wercke<lbr/>
+des <rend class="latin">Metastasio</rend> nehmen, daß Buch<lbr type="BD"/> öffnen,<lbr/>
+die erste <rend class="latin">Aria</rend>, die in die hände fiel<lbr/>
+<pg n="6"/>
+dem Wolfgang<abbr type="curve">:</abbr> vorlegen; er ergrief<lbr type="BD"/><lbr/>
+die Feder, und schrieb, ohne sich zu bedencken,<lbr/>
+in Gegenwart vieler Personen<lbr type="BD"/> von An<pc force="weak">=</pc><lbr/>sehen, die Musick dazu mit vielen <rend class="latin">In<pc force="weak">=</pc><lbr/>strument</rend>en in der erstaunlichsten<lbr type="BD"/> Geschwin<pc force="weak">=</pc><lbr/>digkeit. Dieses that er be&#255;m Capell<pc force="weak">=</pc><lbr/>meister <rend class="latin">Bono</rend>, be&#255;m <rend class="latin">Abbate Meta<lbr type="BD"/>stasio</rend>,<lbr/>
+be&#255;m <rend class="latin">Hasse</rend> und be&#255; tit<abbr type="curve">:</abbr> Herzogen von<lbr/>
+<rend class="latin">Braganza</rend> und Fürsten von<lbr type="BD"/>&#160;<rend class="latin">Caunitz</rend>.<lbr/>
+Entzwischen ist wieder eine andere <rend class="latin">opera</rend> aus<pc force="weak">=</pc><lbr/>getheilt worden; und da<lbr type="BD"/> nun nichts mehr<lbr/>
+zu widersprechen ist, so soll des Wolfgang<abbr type="curve">:</abbr><lbr/>
+seine gleich<lbr type="BD"/> darauf gemacht werden. &#8211; &#8211; &#8211; <lbr/>
+Hundertmahl habe ich wollen zusammen<lbr type="BD"/><lbr/>
+packen und davon reisen; und wäre die<pc force="weak">=</pc><lbr/>se <rend class="latin">opera</rend> eine <rend class="latin">opera Seria</rend>, so wäre ich<lbr type="BD"/> den<lbr/>
+Augenblicke, ja den ersten Augenblick<lbr/>
+abgereist und hätte solche S:<h>r</h> hoch<lbr type="BD"/>fürstlichen<lbr/>
+Gnaden zu füssen gelegt: Allein, da<lbr/>
+es eine <rend class="latin">opera Buffa</rend> ist, und<lbr type="BD"/> zwar eine<lbr/>
+solche, die besondere <rend class="latin">caracters</rend> von <rend class="latin">Perso<pc force="weak">=</pc><lbr/>ne Buffe</rend> erfordert, so muß<lbr type="BD"/> ich unsere<lbr/>
+<pg n="7"/>
+Ehre hier retten, es koste was es wolle.<lbr/>
+Es stecket die Ehre unsers<lbr type="BD"/> gnädigsten<lbr/>
+LandesFürsten ebenfals darunter.<lbr/>
+S:<h>e</h> Hochfürstlichen Gnaden haben<lbr type="BD"/> keine<lbr/>
+Lügner, keine <rend class="latin">charlatans</rend>, keine Leutbetrie<pc force="weak">=</pc><lbr/>ger in ihren Diensten, die mit<lbr type="BD"/> Vorwissen<lbr/>
+und gnädigster höchstderselben Erlaubnis<lbr/>
+an fremde Orte gehen,<lbr type="BD"/> um den Leuten,<lbr/>
+gleich den Taschenspielern, einen blauen<lbr/>
+Dunst vor die Augen<lbr type="BD"/> zu machen; Nein:<lbr/>
+sondern ehrliche Männer, die zur Ehre<lbr/>
+ihres Fürsten und<lbr type="BD"/> ihres Vatterlandes der<lbr/>
+Welt ein Wunder verkündigen, welches<lbr/>
+Gott in Salz<lbr type="BD"/>burg hat lassen gebohren<lbr/>
+werden. Ich bin diese Handlung dem<lbr/>
+allmächtigen Gott schuldig, sonst wäre<lbr/>
+ich die undanckbarste Creatur: <u>und wenn<lbr/>
+ich iemals<lbr type="BD"/> schuldig bin die Welt dieses<lbr/>
+wundershalben zu überzeugen, so ist es<lbr/>
+eben<lbr type="BD"/> ietzt, da man alles, was nur ein<lbr/>
+Wunder heist lächerlich machet und alle<lbr type="BD"/> Wun<pc force="weak">=</pc><lbr/>der widerspricht.</u> Man muß sie demnach<lbr/>
+<pg n="8"/>
+überzeugen: und war es nicht<lbr type="BD"/> ein grosse freud[e]<lbr/>
+und ein grosser Sieg für mich, da ich<lbr/>
+einen <rend class="latin">voltairianer</rend> mit<lbr type="BD"/> einem Erstaunem<lbr/>
+zu mir sagen hörte: <u>Nun habe ich ein<pc force="weak">=</pc><lbr/>mahl in meinem<lbr type="BD"/> Leben ein Wunder ge<pc force="weak">=</pc><lbr/>sehen; daß ist das erste</u>! Weil nun<lbr/>
+aber dieses Wunder<lbr type="BD"/> zu sichtbahrlich, und<lbr/>
+folglich nicht zu wiedersprechen ist; so will<lbr/>
+man es unter<lbr type="BD"/>drucken: <u>Man will Gott<lbr/>
+die Ehre nicht lassen;</u> man denckt: es<lbr/>
+kommt nur noch<lbr type="BD"/> auf einige Jahre an,<lbr/>
+alsdann verfällt es ins natürliche und<lbr/>
+hört auf ein Wunder<lbr type="BD"/> Gottes zu se&#255;n.<lbr/>
+Man will es demnach den Augen der Welt<lbr/>
+entziehen: und wie<lbr type="BD"/> würde es sichtbahrer,<lbr/>
+als in einer grossen volckreichen Statt<lbr/>
+durch ein öffent<lbr type="BD"/>liches Specktakl? &#8211; &#8211; &#8211; <lbr/>
+Aber sollen wir uns über fremde Ver<pc force="weak">=</pc><lbr/>folgungen<lbr type="BD"/> wundern, da fast dergleichen<lbr/>
+in dem GeburtsOrt dieses Kindes ge<pc force="weak">=</pc><lbr/>schechen? &#8211; &#8211;<lbr type="BD"/> welche schande! welche Un<pc force="weak">=</pc><lbr/>menschlichkeit! Nun werden sie sich noch<lbr/>
+<conv><ts>__________________________________________</ts>wundern,</conv>
+<pg n="9"/>
+wundern,<lbr type="BD"/> warum Tit<abbr type="curve">:</abbr> der Fürst <rend class="latin">Cau<pc force="weak">=</pc><lbr/>nitz</rend> und andere grosse, ja S:<h>e</h> Maje<pc force="weak">=</pc><lbr/>stät der Kajser<lbr type="BD"/> selbst nicht befehlen,<lbr/>
+daß die <rend class="latin">opera</rend> aufgeführt wird. Erst<pc force="weak">=</pc><lbr/>lich können sie es<lbr type="BD"/> nicht befehlen, weil<lbr/>
+es pur das <rend class="latin">interesse</rend> des <rend class="latin">Sgr Affligio</rend> |: den<lbr/>
+einige Graf<lbr type="BD"/>&#160;<rend class="latin">Affligio</rend> heissen :| betrifft:<lbr/>
+<u>2:</u><h>do</h> würden sie es ihm zu einer ande<pc force="weak">=</pc><lbr/>ren Zeit <rend class="latin">respec<lbr type="BD"/>tive</rend> befehlen: allein da<lbr/>
+der Fürst <rend class="latin">Caunitz</rend>, wieder den willen<lbr/>
+S:<h>r</h> Majestätt<lbr type="BD"/> dem <rend class="latin">Affligio</rend> beredet hat,<lbr/>
+daß er französische Comoedianten hat<lbr/>
+kommen<lbr type="BD"/> lassen die ihn jährlich über 70000 f:<lbr/>
+kosten, und die ihn nun |: da sie den<lbr type="BD"/><lbr/>
+Zulauf nicht haben, den man gehoffet :| in<lbr/>
+Untergang bringen, und er<lbr type="BD"/>&#160;<rend class="latin">Affligio</rend>, die<lbr/>
+Schuld auf den Fürst <rend class="latin">Caunitz</rend> wältzet,<lbr/>
+dieser Fürst hingegen<lbr type="BD"/> sich Hofnung machte<lbr/>
+den Ka&#255;ser dahin zu bewegen, daß er<lbr/>
+an dem franzö<lbr type="BD"/>sischen Theater belieben<lbr/>
+haben, und dem Unkösten ihm <rend class="latin">Affligio</rend><lbr/>
+ersetzen<lbr type="BD"/> sollte; so liessen S:<h>e</h> Ma&#255;estätt<lbr/>
+<pg n="10"/>
+sich viele Wochen gar in keinem Speck<pc force="weak">=</pc><lbr/>takl<lbr type="BD"/>
+sehen. Sehen sie den verdrüss<pc force="weak">=</pc><lbr/>lichen Umstand, der sich zu gleicher Zeit<lbr type="BD"/><lbr/>
+eräugnen muste; und der auch dazu<lbr/>
+half, daß <rend class="latin">Affligio</rend> sich leicht bereden ließ<lbr type="BD"/><lbr/>
+die <rend class="latin">opera</rend> des Wolfgang<abbr type="curve">:</abbr> vom Halß<lbr/>
+zu schieben, um die 100. duccaten im<lbr type="BD"/> Sack<lbr/>
+zu behalten; und die anderer Seits ver<pc force="weak">=</pc><lbr/>hinderte, daß aus Furcht des<lbr type="BD"/> Ersatzes<lbr/>
+der 70000 f: Gulden niemand mit einem<lbr/>
+scharfen und befehlenden<lbr type="BD"/> Nachdruck mit<lbr/>
+<rend class="latin">Affligio</rend> sprechen wollte. Entzwischen ist<lbr/>
+doch alles dieses unter<lbr type="BD"/> der Hand gesche<pc force="weak">=</pc><lbr/>chen. <rend class="latin">Affligio</rend> schob den Verzug der<lbr/>
+<rend class="latin">opera</rend> auf die Sänger, und<lbr type="BD"/> sagte, sie<lbr/>
+könnten und wollten solche nicht singen;<lbr/>
+Die Sänger hingegen schoben es auf dem<lbr/>
+<rend class="latin">Affligio</rend>, und gaben vor, er hätte gesagt,<lbr/>
+und sich gegen sie er<lbr type="BD"/>kläret, daß er<lbr/>
+solche nicht aufführen werde: Sie könn<pc force="weak">=</pc><lbr/>ten sich ia ein und an<lbr type="BD"/>deres änderen<lbr/>
+lassen. Es soll also aufgeführet werd<abbr v="en"/>.<lbr/>
+<pg n="11"/>
+Sollte nun aber ein neue<lbr type="BD"/> Hinderniß sich<lbr/>
+äussern, das sich ietzt zeigen muß; so<lbr/>
+werde meine Klage an<lbr type="BD"/> S:<h>e</h> Majestätt<lbr/>
+den Ka&#255;ser und die Ka&#255;serin gelangen<lbr/>
+lassen, und eine solche<lbr type="BD"/> Genugthuung ver<pc force="weak">=</pc><lbr/>langen, die unsere Ehre vor ganz<lbr/>
+Wienn und der ganzen ehr<lbr type="BD"/>lichen Welt<lbr/>
+rettet; denn es würde keine Ehre für<lbr/>
+uns, ja für den Hof zu Salz<lbr type="BD"/>burg se&#255;n,<lbr/>
+wenn wir uns durch den uns verfolgen<pc force="weak">=</pc><lbr/>den Neid so platterdings<lbr type="BD"/> abtreiben,<lbr/>
+und den Bosshaften Platz liessen nach<lbr/>
+unserer Abreise dem un<lbr type="BD"/>wissenden <rend class="latin">Publico</rend><lbr/>
+vorzusagen |: wie es bereits geschechen :|<lbr/>
+daß der Wolf<lbr type="BD"/>gang: die <rend class="latin">opera</rend> gar<lbr/>
+nicht zu stande gebracht habe, oder daß<lbr/>
+sie so schlecht<lbr type="BD"/> ausgefallen, daß man<lbr/>
+solche gar nicht habe aufführen können <abbr expand="etc">p</abbr>&#160;<abbr expand="etc">p</abbr><lbr/>
+Sehen<lbr type="BD"/> sie, wie man sich in der Welt<lbr/>
+durchrauffen muß. Hat der Mensch<lbr/>
+kein <rend class="latin">Talent</rend>;<lbr type="BD"/> so ist er unglücklich genug:<lbr/>
+hat er <rend class="latin">Talent</rend>, so verfolget ihn der Neid<lbr/>
+nach dem<lbr type="BD"/> Maase seiner Geschicklichkeit.<lbr/>
+<pg n="12"/>
+Über alles dieses, was ich ihnen nun<lbr/>
+erzehlet<lbr type="BD"/> habe, fällt ietzt eine Sängerin,<lbr/>
+die <rend class="latin">Bernasconi</rend>, in einen starcken Cartharr,<lbr/>
+und<lbr type="BD"/> die <rend class="latin">Baglioni</rend> ist auch nicht gar wohl:<lbr/>
+dieses verhindert und verschiebt wieder<pc force="inter">=</pc><lbr/>um die Sache wenigsts auf 3. Wochen;<lbr/>
+so, daß ich mit dem äusersten Ver<lbr type="BD"/><pc force="weak">=</pc><lbr/>drusse, dergleichen ich auf unsern Rei<pc force="weak">=</pc><lbr/>sen keinen gehabt habe, den Ausgang<lbr type="BD"/><lbr/>
+dieser verhassten Sache abwarten muß.<lbr/>
+alle vernünftigen Menschen müssen<lbr type="BD"/> mit<lbr/>
+Schaam bemercken, daß es eine Schande<lbr/>
+für unsere Nation ist, daß wir<lbr type="BD"/> teut<pc force="weak">=</pc><lbr/>sche einen Teutschen zu unterdrücken su<pc force="weak">=</pc><lbr/>chen, dem fremde Nationen durch<lbr type="BD"/> die<lbr/>
+gröste Bewunderung, ja durch öffentliche<lbr/>
+Schriften haben Gerechtigkeit<lbr type="BD"/> widerfah<pc force="weak">=</pc><lbr/>ren lassen. Allein mit Gedult<lbr/>
+und Standhaftigkeit muß man die<lbr/>
+Leute<lbr type="BD"/> überzeugen, daß die Wieder<pc force="weak">=</pc><lbr/>sacher bosshafte Lügner, Verläumder,<lbr/>
+und Neidi<lbr type="BD"/>sche Creaturen sind, die über<lbr/>
+ihren Sieg in der faust lachen würden,<lbr/>
+<conv><ts>________________________________________</ts>wenn</conv>
+<pg n="13"/>
+wenn man<lbr type="BD"/> sich erschrecken, oder ermieden<lbr/>
+liesse, und aus Verdruss davon rei<pc force="weak">=</pc><lbr/>sete: Um<lbr type="BD"/> so mehr, als solche Leute<lbr/>
+in Wienn, die etwa eine Prinzessin<lbr/>
+oder einen Kajserl:<lbr type="BD"/> Printzen zu unter<pc force="weak">=</pc><lbr/>weisen haben, ja auch diejenigen, die<lbr/>
+nur die hiesige Luft<lbr type="BD"/> einschlucken, schon<lbr/>
+Stolz genug sind, weil hier der Sitz des<lbr/>
+Ka&#255;sers ist, Leute,<lbr type="BD"/> die auswärtigen<lbr/>
+Fürsten dienen, mit Verachtung anzu<pc force="weak">=</pc><lbr/>schauen, und von aus<lbr type="BD"/>wärtigen Fürsten<lbr/>
+höhnisch und niederträchtig zu sprechen.<lbr/>
+Nun glaube ich,<lbr type="BD"/> wissen sie meine Um<pc force="weak">=</pc><lbr/>stände; &#8211; &#8211; und dennoch habe es nur<lbr/>
+überhaupts er<lbr type="BD"/>zehlet. Ich würde auch<lbr/>
+diese Begebenheit an S:<h>e</h> hochfürstlichen<lbr/>
+Gnaden unsern<lbr type="BD"/> gnädigsten Herrn<lbr/>
+selbst berichtet haben, wenn ich höchst<pc force="weak">=</pc><lbr/>dieselbe mit einer so langen Geschichte<lbr/>
+von wichtigern Sachen zu stöhren, nicht<lbr/>
+anstand ge<lbr type="BD"/>nohmen hätte. Wir<lbr/>
+empfehlen uns Ihro hochwürden und Gna<pc force="weak">=</pc><lbr/>den gnädigen<lbr type="BD"/> Herrn BeichtVatter<lbr/>
+<pg n="14"/>
+alle, und bitten er möchte uns S:<h>r</h> hoch<pc force="weak">=</pc><lbr/>fürstlichen Gnaden<lbr type="BD"/> zu Füssen legen.<lbr/>
+Herr Joseph wird aus dieser Nach<pc force="weak">=</pc><lbr/>richt sehen, daß meine<lbr type="BD"/> Feinde in Salz<pc force="weak">=</pc><lbr/>burg es gut mit uns meinen, da sie<lbr/>
+aussprengen, der Wolfgang<abbr type="curve">:</abbr><lbr type="BD"/> hätte<lbr/>
+2000 f: für die <rend class="latin">opera</rend> bekommen.<lbr/>
+Die Briefe des Herrn Peissers werd<abbr v="en"/><lbr type="BD"/><lbr/>
+sie eines ganz anderen belehren: und<lbr/>
+wir werden wohl noch 50, und vielleicht<lbr type="BD"/><lbr/>
+100. <rend class="latin">ducca</rend>tten von ihm hohlen ehe wir<lbr/>
+nach Salzburg kommen. Meine Frau<lbr type="BD"/><lbr/>
+und Dochter dancken gehorsamlich al<pc force="weak">=</pc><lbr/>lerseits für die Glückwünsche. Sie brach<lbr type="BD"/>t<abbr v="en"/><lbr/>
+ihren Tag ausser der Statt be&#255; einem<lbr/>
+guten Freunde zu, dahin wir heute<lbr type="BD"/><lbr/>
+Abends wegen dem Geburtstag der<lbr/>
+Nannerl auf Morgen wieder einge<pc force="weak">=</pc><lbr/>laden<lbr type="BD"/> sind. Ò wir haben schon an<lbr/>
+das Nunthall gedacht!<lbr type="forced"/>
+<ts>_____</ts>Wer wird Fürst zu Berchtolsgaden<lbr/>
+werden? etwa der <rend class="latin">Baron Culmar</rend>? &#8211; &#8211; <lbr type="BD"/><lbr/>
+<pg n="15"/>
+<u>Gestern sagte mir iemand, daß herr<lbr/>
+Kieffl hier angekommen. Er wird<lbr/>
+mich<lbr type="BD"/> wegen der 4. <rend class="latin">duccat</rend>en gewiß<lbr/>
+nicht zu sehen verlangen</u>. Leben<lbr/>
+sie wohl, wir<lbr type="BD"/> empfehlen uns alle ihnen<lbr/>
+und allen guten Freunden, und bin<lbr/>
+der alte.
+<pg n="16"/>
+<vacat/>
+</NI>
+</letter>
+</text>
+</MUP>

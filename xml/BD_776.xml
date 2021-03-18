@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2014">2014-5</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1345</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">S-Smf (S. 1-2); Privatbesitz (S. 3)</bibl>
+            <bibl type="source" subtype="RISM">S-Smf (Stiftelsen Musikkulturens främjande), S. 1-2</bibl>
+            <bibl type="source" subtype="RISM">Privatbesitz, S. 3</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:40:32 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_776.mup">
+<letter bd="776"><HEADER id="1345">WOLFGANG AMADÉ MOZART AN LEOPOLD MOZART IN SALZBURG<lbr/>
+WIEN, 20. FEBRUAR 1784</HEADER>
+<pg n="1"/>
+<NI src="S-Smf">
+<ts>______</ts><tshtm>__________________________________________________________________________________</tshtm><tspdf>\hfill </tspdf><rend class="latin"><u>Vienne</u> ce</rend> 20 <rend class="latin">de <u>febrier.</u></rend><lbr type="forced"/>
+<ts>___</ts><tshtm>__</tshtm><rend class="latin">Mon trés cher Pére!</rend> &#8211; <add_note type="inline" schr_id="57010"><ts>________________________________________________________</ts>1784?</add_note><lbr type="forced"/>
+<lbr type="forced"/>
+Ich habe ihr leztes richtigst erhalten; &#8211; gestern war ich so glücklich den<lbr type="BD"/> Hr: fre&#255;<pc force="weak">=</pc><lbr/>hold ein <rend class="latin">Concert</rend> von seiner eigenen <rend class="latin">scomposition</rend> spiellen zu hören.<lbr type="BD"/> &#8211; in seinen<lbr/>
+spiell fand ich wenig, und vermisste viel; &#8211; seine ganze <rend class="latin">Bravour</rend><lbr type="BD"/> besteht in der<lbr/>
+dopelzunge &#8211; sonst hört man aber auch gar nichts &#8211; be&#255;m<lbr type="BD"/>&#160;<rend class="latin">Adagio</rend> war ich<lbr/>
+froh daß es sehr kurz war; &#8211; das <rend class="latin">Adagio</rend> hat er auch be&#255;<lbr type="BD"/> ihnen geblasen &#8211; <lbr/>
+de<abbr type="topline" expand="nn">n</abbr>, von anfang ko<abbr type="topline" expand="nn">n</abbr>ten sich die <rend class="latin">accompag</rend>nierenden nicht<lbr type="BD"/> darein finden, weil<lbr/>
+das stück in vierviertlstackt geschrieben war, und er es<lbr type="BD"/> im <rend class="latin">Alla Breve</rend> bließ &#8211; <lbr/>
+und, da ich da<abbr type="topline" expand="nn">n</abbr> mit eigner hand <rend class="latin">Alla Breve</rend> dazu<lbr type="BD"/> schrieb, er mir gestund, daß<lbr/>
+Papa in Salzburg auch darüber gezankt hätte. &#8211;<lbr type="BD"/> das <rend class="latin">Rondò</rend> sollte lustig<lbr/>
+se&#255;n &#8211; war aber das du<abbr type="topline" expand="mm">m</abbr>ste zeug von der Welt, &#8211;<lbr type="BD"/> be&#255;m Ersten <rend class="latin">Allegro</rend><lbr/>
+fand ich, daß we<abbr type="topline" expand="nn">n</abbr> Hr: fre&#255;hold die <rend class="latin">composition</rend> ordent<lbr type="BD"/>lich lernte, er kein<lbr/>
+schlechter <rend class="latin">Componist</rend> werden würde. &#8211; das Hr: Hafeneder<lbr type="BD"/> so frühzeitig gestorben,<lbr/>
+ist mir sehr leid; besonders aber weil sie nun die<lbr type="BD"/>&#160;<rend class="latin">seccatura</rend> auf dem Hals haben;<lbr/>
+dem fürsten ka<abbr type="topline" expand="nn">n</abbr> ich aber nicht unrecht geben;<lbr type="BD"/> ich würde an seinem Plaz<lbr/>
+schon vor dem Hafeneder das gethan haben; &#8211; ich<lbr type="BD"/> würde aber meinen befehl<lbr/>
+mit einer vermehrung des gehalts begleitet haben,<lbr type="BD"/> und befohlen, daß die<lbr/>
+buben zu ihnen ko<abbr type="topline" expand="mm">m</abbr>en sollten &#8211; oder hätte ihnen fre&#255;<rend class="latin">quartier</rend> im kapellhaus<lbr/>
+gegeben. &#8211; Nun werden in etwelchen tägen 2<lbr type="BD"/> Herrn nach Salzburg gehen,<lbr/>
+ein <rend class="latin">Vice=Controleur</rend> und ein koch; &#8211; diesen werde<lbr type="BD"/> vermuthlich eine <rend class="latin">Sonate</rend>,<lbr/>
+eine <rend class="latin">Simphonie</rend> und ein Neues <rend class="latin">Concert</rend> mit<lbr type="BD"/>geben. &#8211; die <rend class="latin">Simphonie</rend> in Spart,<lbr/>
+welche sie mit gelegenheit abschreiben<lbr type="BD"/> lassen, und mir wieder zurück schicken kö<abbr type="topline" expand="nn">n</abbr>en;<lbr/>
+auch weg=geben, und überall<lbr type="BD"/> machen lassen kö<abbr type="topline" expand="nn">n</abbr>en, wo sie wollen. &#8211; <lbr/>
+das <rend class="latin">Concert</rend> in <rend class="latin">spart</rend> &#8211; welches sie<lbr type="BD"/> auch, aber so bald möglich, <rend class="latin">copiren</rend> lassen,<lbr/>
+und wieder zurück schicken &#8211; und<lbr type="BD"/>&#160;<rend class="latin"><u>NB</u>:</rend> aber <u>keiner Seele</u> geben, de<abbr type="topline" expand="nn">n</abbr> ich<lbr/>
+hab es für die <u>frl</u>: Plo&#255;er gemacht, die<lbr type="BD"/> es mir gut bezahlte. &#8211; die <rend class="latin">Sonate</rend><lbr/>
+könen sie aber ganz behalten. &#8211; Nun muß<lbr type="BD"/> ich sie <suppl hand="self" pos="infra">um</suppl> etwas fragen, davon<lbr/>
+ich gar nichts verstehe, und nichts begreife. &#8211;<lbr type="BD"/> we<abbr type="topline" expand="nn">n</abbr> man auf seine eigene un<pc force="weak">=</pc><lbr/>kösten etwas drucken oder Stechen lässt, wie<lbr type="BD"/> macht man es de<abbr type="topline" expand="nn">n</abbr>, daß man<lbr/>
+da von dem Stecher nicht betrogen wird? &#8211; er<lbr type="BD"/> ka<abbr type="topline" expand="nn">n</abbr> Ja so vielle <rend class="latin">Exem</rend><pc force="weak">=</pc><lbr/><pg n="2" type="wordsep"/><rend class="latin">plairs</rend> abdrucken, als er nur will, und mich folglich Prel<lbr type="BD"/>len. &#8211; da müsste man<lbr/>
+Ja den leuten beständig auf den Hals sitzen &#8211; welches<lbr type="BD"/> aber be&#255; ihnen,<lbr/>
+als sie ihr Buch drucken liessen, nicht möglich war, weil sie in<lbr type="BD"/> Salzburg<lbr/>
+waren, und das Buch in Augsburg gedruckt wurde. &#8211; Ich hätte<lbr/>
+halt<lbr type="BD"/> lust, ferners hier, meine Sachen keinen Stecher mehr zu verkauffen,<lbr/>
+sondern<lbr type="BD"/> auf <rend class="latin">Prænumeration</rend> auf meine unkösten drucken, oder stechen zu<lbr/>
+lassen, wie<lbr type="BD"/> es die meisten machen, und sehr viel dabe&#255; <rend class="latin">Profiti</rend>ren;<lbr/>
+wegen <rend class="latin">Prænumeran<lbr type="BD"/>ten</rend> ist es mir nicht bange &#8211; es <suppl hand="self" pos="infra">ist</suppl> mir bereits<lbr/>
+von <rend class="latin">Paris</rend>, <suppl hand="self" pos="supra">und</suppl>&#160;<rend class="latin">Warschau</rend><lbr type="BD"/>&#160;<rend class="latin">prænumeration offrit</rend> worden. &#8211; ich bitte sie also<lbr/>
+mir über dieses auskunft<lbr type="BD"/> zu geben. &#8211; da<abbr type="topline" expand="nn">n</abbr> hätte ich noch eine Bitte.<lbr/>
+wäre es nicht möglich wenigsts<lbr type="BD"/> eine Copie von meinen Taufschein<lbr/>
+zu haben? &#8211; alles <rend class="latin">disputirt</rend> sich hier daß,<lbr type="BD"/> wie ich das erstemal hier<lbr/>
+war, ich wenigste 10 Jahr alt gewesen se&#255;n müsse. &#8211;<lbr type="BD"/> der ka&#255;ser hat vo<pc force="weak">=</pc><lbr/>riges Jahr in Augarten selbst es mir ins gesicht wieder=<lbr type="BD"/>sprochen. &#8211; <lbr/>
+h<abbr type="curve">:</abbr> von Strack glaubt es nun <u>auf mein wort</u>. &#8211; mit herzeigung<lbr type="BD"/><lbr/>
+meines taufscheins kö<abbr type="topline" expand="nn">n</abbr>te ich auf einmal alle Mäuller Stopfen. &#8211; <lbr/>
+Nun leben<lbr type="BD"/> sie wohl. &#8211; Meine frau und ich küssen ihn 1000mal die<lbr/>
+Hände, und um<lbr type="BD"/>armen unsre liebe schwester von Herzen und<lbr/>
+sind Ewig dero<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>________</ts><tshtm>_______________________________________________</tshtm><tspdf>\hfill </tspdf>gehorsamste kinder<lbr type="BD"/><lbr type="forced"/>
+<ts>________</ts><tshtm>________________________________________________</tshtm><tspdf>\hfill </tspdf>W: <rend class="latin">et</rend> C: Mozart <abbr expand="manu propria">mp</abbr><lbr/>
+</NI>
+<pg n="3"/>
+<NI src="Privat">
+<anschrift><rend class="latin">À<lbr type="forced"/>
+Monsieur<lbr type="forced"/>
+Monsieur Leopold de Mozart<lbr type="forced"/>
+Maitre de la Chapelle de S: A: R:<lbr type="forced"/>
+à<lbr type="forced"/>
+<uu>Salzbourg</uu></rend></anschrift>
+<lbr/>
+<add_note schr_id="48817" rot="180" impl="ink">20t<abbr v="en"/>&#160;<rend class="latin">fevruar</rend><lbr/>1784.</add_note>
+</NI>
+</letter>
+</text>
+</MUP>

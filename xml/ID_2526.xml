@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2020">2020-03</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=2526</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Verbleib unbekannt (Nachweis: J. A. Stargardt 2009, Katalog 691, Nr. 670)</bibl>
+            <bibl type="source" subtype="RISM">Verbleib unbekannt, Nachweis: J. A. Stargardt 2009, Katalog 691, Nr. 670</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:42:43 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/ID_2526.mup">
+<letter>
+<NI src="unbekannt">
+<HEADER id="2526">LEOPOLD MOZART, EMPFEHLUNGSSCHREIBEN FÜR SEBASTIAN WINTER<lbr/>
+PARIS, 2. MÄRZ 1764</HEADER>
+<pg n="1"/>
+<rend class="latin">Nous <persName key="0">Leopold Mozart</persName> Directeur de la Musique de S: A: Mgr<lbr/>
+le <persName key="0">Prince=Archevêque de Salzbourg</persName> certifions, que <persName key="0">Bastien<lbr/>
+Winter</persName> Friseur nous a servi très fidelement pendant l'espace d'un<lbr/>
+An. Il merite par ses bonnes qualités, qu'on s'y interesse pour<lbr/>
+Luy. Madame <persName key="0">La Princesse de Fürstemberg-Möskirch</persName>,<lbr/>
+La quelle il aurá l'Ho<abbr type="topline" expand="nn">n</abbr>eur de Servir, peut être assurée,<lbr/>
+qu'elle fait l'acquisition d'un des meilleurs Sujèts.<lbr type="forced"/>
+à Paris le 2 <u>Mars 1764.</u><lbr type="forced"/>
+<ts>___________________________________________</ts><tspdf>\hfill </tspdf>Mozart <abbr expand="manu propria">mp</abbr></rend>
+<pg n="2"/>
+<vacat/>
+</NI>
+</letter>
+</text>
+</MUP>

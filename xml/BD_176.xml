@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2011">2011-05</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=737</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Wn</bibl>
+            <bibl type="source" subtype="RISM">A-Wn (Österreichische Nationalbibliothek)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:37:08 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_176.mup">
+<letter bd="176"><NI src="A-Wn"><HEADER id="737">LEOPOLD MOZART AN MARIA ANNA MOZART IN SALZBURG<lbr/>
+ROM, 14. APRIL 1770<lbr/>
+mit Nachschrift von Wolfgang Amadé Mozart</HEADER>
+<pg n="1"/>
+<ts>_____________</ts><tshtm>__________________________________________________________</tshtm><tspdf>\hfill </tspdf><rend class="latin">Roma</rend> d<abbr v="en"/> 14<h>t<abbr v="en"/></h>&#160;<rend class="latin">aprilis</rend>&#160;<u>1770</u><lbr type="forced"/>
+<lbr type="forced"/>
+Den 11<h>t<abbr v="en"/></h> sind wir mitags glückl: hier angelanget. Man hätte mich leichter<lbr type="BD"/> bered<abbr v="en"/><lbr/>
+kö<abbr type="topline" expand="nn">n</abbr><abbr v="en"/>, daß ich nach Salzb<abbr type="curve">:</abbr> als nach Rom ko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/> werde, da wir<lbr type="BD"/> 5 Täge in dem ab<pc force="weak">=</pc><lbr/>scheulichst<abbr v="en"/> Regen, und kalt<abbr v="en"/> Winde von Florenz nach<lbr type="BD"/> Rom zu reisen hatt<abbr v="en"/>. In Rom<lbr/>
+selbst vernahm ich, daß sie seit 4 monat<abbr v="en"/><lbr type="BD"/> i<abbr type="topline" expand="mm">m</abbr>er Reg<abbr v="en"/> hatt<abbr v="en"/>, und wir hatt<abbr v="en"/><lbr/>
+wirklich die Probe, indem wir am Mittwoche und do<abbr type="topline" expand="nn">n</abbr>erstage be&#255; schön<abbr v="en"/><lbr/>
+wetter nach St: Peter in die <rend class="latin">Capellen<lbr type="BD"/> Sixti</rend> gieng<abbr v="en"/> das <rend class="latin">Miserere</rend> in der<lbr/>
+Mett<abbr v="en"/> zu hör<abbr v="en"/>, und im nahe Haus geh<abbr v="en"/><lbr type="BD"/> von einem so entsetzlich<abbr v="en"/><lbr/>
+Platzreg<abbr v="en"/> überfall<abbr v="en"/> wurd<abbr v="en"/>, daß unsere Mäntl<lbr type="BD"/> noch niemals so getauft<lbr/>
+word<abbr v="en"/>, als dieses mahl. von dieser abscheulich<abbr v="en"/><lbr type="BD"/> Reise will ich dir keine lange<lbr/>
+Beschreibung mach<abbr v="en"/>. Stelle dir nur ein meistens<lbr type="BD"/> ungebautes Land vor,<lbr/>
+und die abscheulichst<abbr v="en"/> Wirtshauser, Unflath, nichts zu<lbr type="BD"/> Essen als zum<lbr/>
+glück da und dort E&#255;er und <rend class="latin">Broccoli:</rend> und manchmahl mocht<abbr v="en"/><lbr type="BD"/> sie sich ein Gewiss<abbr v="en"/><lbr/>
+daraus mach<abbr v="en"/> E&#255;er am fasttage herzugeb<abbr v="en"/>. zum gut<abbr v="en"/><lbr type="BD"/> glücke hab<abbr v="en"/> wir in<lbr/>
+<rend class="latin">Viterbo</rend> noch gut zu nachtgespeiset und wohlgeschlaf<abbr v="en"/>.<lbr type="BD"/> alda sah<abbr v="en"/> wir die hl: <rend class="latin">Rosa</rend><lbr/>
+von <rend class="latin">Viterbo</rend>, die |: so wie die hl: <rend class="latin">Catharina di<lbr type="BD"/> Bologna</rend> in <rend class="latin">Bologna</rend> :| unverwesen zu<lbr/>
+seh<abbr v="en"/> sind. von d<abbr v="er"/> erst<abbr v="en"/> hab<abbr v="en"/> wir<lbr type="BD"/> fieberpulver und <rend class="latin">Reliqui<abbr v="en"/></rend>, von d<abbr v="er"/> zwe&#255;t<abbr v="en"/> eine<lbr/>
+gürtl zum angedenk<abbr v="en"/><lbr type="BD"/> mitgeno<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>. den 11<h>t<abbr v="en"/></h>, da wir ankam<abbr v="en"/> sind wir nach Tische in<lbr/>
+die St: Peterskirche und da<abbr type="topline" expand="nn">n</abbr> in die Mett<abbr v="en"/> gegang<abbr v="en"/>, den 12 hab<abbr v="en"/> wir die <rend class="latin">Functiones</rend>,<lbr type="BD"/> und<lbr/>
+da der Pabst be&#255; der Tafl der arm<abbr v="en"/> aufwartete, denselb<abbr v="en"/> so nahe geseh<abbr v="en"/>, daß wir<lbr/>
+oben an neb<abbr v="en"/> ihm stand<abbr v="en"/>. Es ist solches um so mehr zu<lbr type="BD"/> bewund<abbr v="ern"/>, da wir durch<lbr/>
+zwe&#255; mit geharrnischt<abbr v="en"/> Schweitzern bewachtete<lbr type="BD"/> Thür<abbr v="en"/> hineinko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>, und durch vielle<lbr/>
+100 Mensch<abbr v="en"/> uns durchdring<abbr v="en"/><lbr type="BD"/> musten, und <u><rend class="latin">NB</rend></u> noch keine Beka<abbr type="topline" expand="nn">n</abbr>tschaft hatt<abbr v="en"/>. allein<lbr/>
+die gute Kleidung, die<lbr type="BD"/> Teutsche sprache, meine gewöhnliche fre&#255;heit mit welcher<lbr/>
+ich mein<abbr v="en"/> Bedient<abbr v="en"/> in Teutscher sprache den schweitzern zu ruff<abbr v="en"/> ließ, daß sie Platz<lbr/>
+mach<abbr v="en"/> sollt<abbr v="en"/>, half uns aller Ort<abbr v="en"/> bald durch. Sie hielt<abbr v="en"/> den wolfg<abbr type="curve">:</abbr> für<lbr type="BD"/> ein<abbr v="en"/><lbr/>
+teutsch<abbr v="en"/>&#160;<rend class="latin">Cavallier</rend>, and<abbr v="er"/>e gar für ein<abbr v="en"/> Printz<abbr v="en"/>, und der Bediente ließ<lbr type="BD"/> sie auf dem<lbr/>
+gut<abbr v="en"/> glaub<abbr v="en"/>; und ich ward als sein Hofmeister angeseh<abbr v="en"/>. Eben<lbr type="BD"/> so gieng<abbr v="en"/><lbr/>
+wir zu der Tafl der <rend class="latin">Cardinäl<abbr v="en"/></rend>. da begab sich, daß der Wolfg<abbr type="curve">:</abbr> zwisch<abbr v="en"/> die Sessel<lbr/>
+zwener <rend class="latin">Cardinalen</rend> zu steh<abbr v="en"/> kam, der<abbr v="en"/> einer d<abbr v="er"/> <rend class="latin">Cardinal<lbr type="BD"/> Pallavicini</rend> war.<lbr type="forced"/>
+<pg n="2"/>
+dieser gab dem Wolfg<abbr type="curve">:</abbr> ein<abbr v="en"/> Wink, und sprach zu ihm: <u>Wollt<abbr v="en"/> sie nicht die<lbr type="BD"/> güte hab<abbr v="en"/></u><lbr/>
+<u>mir im vertrau<abbr v="en"/> zu sag<abbr v="en"/>, wer sie sind?</u> der Wolfg<abbr type="curve">:</abbr> sagte ihm<lbr type="BD"/> alles.<lbr/>
+der <rend class="latin">Cardinal</rend> antwortete ihm mit der gröst<abbr v="en"/> Verwunderung, und sagte:<lbr type="BD"/>&#160;<u>E&#255;, sind</u><lbr/>
+<u>sie der berühmte Knab, von dem mir so vieles geschrieb<abbr v="en"/> word<abbr v="en"/>.</u><lbr type="forced"/>
+auf dieses fragte der wolfg<abbr type="curve">:</abbr>&#160;<u>sind sie nicht der <rend class="latin">Cardinal Pallavicini</rend>?</u> &#8211; &#8211; <lbr type="forced"/>
+der<lbr type="BD"/>&#160;<rend class="latin">Cardinal</rend> antwortete: <u>ja, der bin ich, und Warum?</u> &#8211; &#8211; <lbr type="forced"/>
+der Wolfg<abbr type="curve">:</abbr> sagte ihm alsda<abbr type="topline" expand="nn">n</abbr>, <u>daß wir Briefe an S<h>e</h>: <rend class="latin">E<abbr type="topline" expand="mm">m</abbr>i</rend>nenz zu übergeb<abbr v="en"/><lbr/>
+hab<abbr v="en"/>, und unsere Aufwartung mach<abbr v="en"/> werd<abbr v="en"/>.</u> der <rend class="latin">Cardinal</rend> bezeigte ein<lbr type="BD"/> grosses<lbr/>
+Vergnügen darüber, sagte, daß der wolfg<abbr type="curve">:</abbr> gut italiänisch spreche, und<lbr type="BD"/> unter<lbr/>
+and<abbr v="ern"/> sagte er. <u>ik ka<abbr type="topline" expand="nn">n</abbr> auck ein benig deutsch sprecken.</u>&#160;<abbr expand="etc:">p:</abbr>&#160;<abbr expand="etc:">p:</abbr><lbr type="forced"/>
+da wir weg gieng<abbr v="en"/> küsste ihm der wolfg<abbr type="curve">:</abbr> die Hand, und der <rend class="latin">Cardinal</rend> nahm<lbr/>
+das <rend class="latin">Biret</rend> vom Haupt und machte ihm ein sehr höfl: <rend class="latin">Compliment</rend>.<lbr/>
+du wirst vielleicht oft von dem berühmt<abbr v="en"/>&#160;<u><rend class="latin">Miserer</rend>e</u> in Rom gehört hab<abbr v="en"/>,<lbr/>
+welches so hoch geachtet ist, daß den <rend class="latin">Musicis</rend> der <rend class="latin">Capellen</rend> unter der<lbr/>
+<rend class="latin">exco<abbr type="topline" expand="mm">m</abbr>unication</rend> verbott<abbr v="en"/> ist eine sti<abbr type="topline" expand="mm">m</abbr>e davon. aus der <rend class="latin">Capelle</rend> weg zu<lbr/>
+trag<abbr v="en"/>,<lbr type="BD"/> zu <rend class="latin">Copie</rend>r<abbr v="en"/>, od<abbr v="er"/> iemand<abbr v="en"/> zu geb<abbr v="en"/>. Allein, <u>wir hab<abbr v="en"/> es schon.</u><lbr/>
+der wolfg<abbr type="curve">:</abbr><lbr type="BD"/> hat es schon aufgeschrieb<abbr v="en"/>, und wir würd<abbr v="en"/> es in diesem Briefe<lbr/>
+nach Salzb<abbr type="curve">:</abbr><lbr type="BD"/> geschickt hab<abbr v="en"/>, we<abbr type="topline" expand="nn">n</abbr> unsere Gegenwarth, es zu mach<abbr v="en"/>, nicht<lbr/>
+nothwendig<lbr type="BD"/> wäre; allein die Art der <rend class="latin">production</rend> muß mehr dabe&#255; thun, als<lbr/>
+die <rend class="latin">Composition</rend><lbr type="BD"/> selbst, folglich werd<abbr v="en"/> wir es mit uns nach hause bring<abbr v="en"/>, und weil<lbr/>
+es eine<lbr type="BD"/> der Geheimnisse von Rom ist, so woll<abbr v="en"/> wir es nicht in and<abbr v="er"/>e Hände lass<abbr v="en"/>,<lbr/>
+<rend class="latin">ut non incurremus mediate vel im<abbr type="topline" expand="ee">e</abbr>diate in Censuram Ecclesiæ.</rend><lbr type="forced"/>
+die St. Peters Kirche hab<abbr v="en"/> wir schon rechtschaff<abbr v="en"/> durchsucht, und es soll<lbr type="BD"/> gewiß nichts<lbr/>
+unbeobachtet verbleib<abbr v="en"/>, was i<abbr type="topline" expand="mm">m</abbr>er hier zu seh<abbr v="en"/> ist. Morg<abbr v="en"/><lbr type="BD"/> werd<abbr v="en"/> wir |: we<abbr type="topline" expand="nn">n</abbr> Gott will :|<lbr/>
+S<h>e</h>: Heilligkeit <rend class="latin">pontifici</rend>r<abbr v="en"/> sehen. Du kannst<lbr type="BD"/> dir den Hochmuth der hiesigen<lbr/>
+<rend class="latin">abbate</rend> unmöglich vorstell<abbr v="en"/>. ieder, der nur<lbr type="BD"/> daß mindeste be&#255; einem <rend class="latin">Cardinal</rend><lbr/>
+zu thun hat glaubt sich so gut als der<lbr type="BD"/>&#160;<rend class="latin">Cardinal</rend> selbst zu se&#255;n. da nun jeder<lbr/>
+<rend class="latin">Cardinal</rend> mit 3 und 4 Wag<abbr v="en"/> <rend class="latin">Corteggio</rend><lbr type="BD"/> zu den Päbstl: Verrichtung<abbr v="en"/> fährt, deren<lbr/>
+ieder mit den <rend class="latin">Capellanis, Secretai</rend>r<abbr v="en"/><lbr type="BD"/> und Ca<abbr type="topline" expand="mm">m</abbr>erdienern angefüllt ist, und die alle<lbr/>
+den meist<abbr v="en"/> Platz ei<abbr type="topline" expand="nn">n</abbr>em<abbr v="en"/>, so<lbr type="BD"/> freue mich schon auf morg<abbr v="en"/>, durch alle diese<lbr/>
+<lbr/>
+<add_seal type="owner">Natio[...]liothek<lbr type="forced"/>Wien</add_seal>
+<pg n="3"/>
+Stoltze Herrn durchzugeh<abbr v="en"/>,<lbr type="BD"/> und sie, wer wir sind, in der unwissenheit zu lass<abbr v="en"/>, da<abbr type="topline" expand="nn">n</abbr><lbr/>
+wir hab<abbr v="en"/> uns noch<lbr type="BD"/> nirgends <rend class="latin">presen</rend>tiert, weil itzt die <rend class="latin">Functiones</rend> sind. am Montage<lbr/>
+werd<abbr v="en"/> wir<lbr type="BD"/> anfang<abbr v="en"/> unsere <u>20</u>&#160;<rend class="latin">Recomendation</rend>sschreib<abbr v="en"/> abzugeb<abbr v="en"/>.<lbr type="forced"/>
+So frohe ich bin, daß ihr nicht mit uns gereiset, so leid ist es mir, daß ihr<lbr/>
+alle<lbr type="BD"/> die Stätte <abbr expand="von">v</abbr> Itali<abbr v="en"/>, sonderheitl: aber Rom nicht sehet. Es ist u<abbr type="topline" expand="nn">n</abbr>ötig, ja<lbr/>
+unmöglich im kurz<abbr v="en"/> eine Beschreibung zu mach<abbr v="en"/>. Ich rathe dir noch einmahl<lbr/>
+<u>Ka&#255;slers Reisebeschreibung</u> zu lesen. Von <rend class="latin">Bologna</rend> und v[on] Fl[oren]z habe ich<lbr/>
+dir<lbr type="BD"/> geschrieb<abbr v="en"/>. Im deutsch<abbr v="en"/>&#160;<rend class="latin">Collegio</rend> sind wir im vorbe&#255;geh<abbr v="en"/> 2 Stund nach<lbr type="BD"/> unserer<lbr/>
+Ankunft gewesen, und den h<abbr type="curve">:</abbr>&#160;<abbr expand="von">v</abbr> Mölk in bester gesundheit, sa<abbr type="topline" expand="mm">m</abbr>t<lbr type="BD"/> and<abbr v="er"/><abbr v="en"/><lbr/>
+bekannt<abbr v="en"/> alda angetroff<abbr v="en"/>. Ich werde in Ansehung des h<abbr type="curve">:</abbr>&#160;<abbr expand="von">v</abbr> Mölk<lbr type="BD"/> den<lbr/>
+Wolfg<abbr type="curve">:</abbr> dem ganzen <rend class="latin">Collegio produci</rend>er<abbr v="en"/>, weil sie ihn gern hör<abbr v="en"/> möcht<abbr v="en"/>.<lbr/>
+Wir sind durch h<abbr type="curve">:</abbr>&#160;<rend class="latin">Abbate Marcobruni</rend> gleich in einem <rend class="latin">privat</rend> Hause<lbr type="BD"/> abge<pc force="weak">=</pc><lbr/>stieg<abbr v="en"/>: weil hier aber nur ein Zi<abbr type="topline" expand="mm">m</abbr>er ist, und wir 2 Zi<abbr type="topline" expand="mm">m</abbr>er<lbr/>
+hab<abbr v="en"/> müss<abbr v="en"/>, um Leute zu empfang<abbr v="en"/>, die uns besuch<abbr v="en"/>, so werd<abbr v="en"/> wir heute<lbr/>
+abends in<lbr type="BD"/> ein ansehnlichere Wohnung wandern. heute und gestern<lbr/>
+bin ich ein wenig ein<lbr type="BD"/>&#160;<rend class="latin">patient</rend>, da<abbr type="topline" expand="nn">n</abbr> ich habe 3 <rend class="latin">digestiv</rend>=pulver genohm<abbr v="en"/>,<lbr/>
+befinde mich aber |: gott<lbr type="BD"/> Lob :| gut. der Wolfg<abbr type="curve">:</abbr> befindet sich ebenfals<lbr/>
+gut, und schicket hier ein<abbr v="en"/>&#160;<rend class="latin">Contradance</rend>. Er wünschte, daß h<abbr type="curve">:</abbr>&#160;<rend class="latin">Cirillus</rend> hofma<abbr type="topline" expand="nn">n</abbr><lbr/>
+die Schritte dazu <rend class="latin">Componi</rend>r<abbr v="en"/><lbr type="BD"/> möchte; und zwar möchte er, daß, we<abbr type="topline" expand="nn">n</abbr> die<lbr/>
+2 violin, als vorsänger spiel<abbr v="en"/>, auch<lbr type="BD"/> nur 2 Person<abbr v="en"/> vortantz<abbr v="en"/> möcht<abbr v="en"/>,<lbr/>
+und da<abbr type="topline" expand="nn">n</abbr> allezeit, so oft die ganze <rend class="latin">Musique</rend><lbr type="BD"/> mit allen <rend class="latin">Instrument<abbr v="en"/></rend><lbr/>
+eintritt, die ganze <rend class="latin">Compagnie</rend> zusa<abbr type="topline" expand="mm">m</abbr>tanz<abbr v="en"/> soll. am<lbr type="BD"/> schönst<abbr v="en"/> wäre<lbr/>
+es we<abbr type="topline" expand="nn">n</abbr> es mit 5 paar Person<abbr v="en"/> gedanzt würde. das erste paar<lbr type="BD"/> fängt das<lbr/>
+erste <rend class="latin">Solo</rend> an. das 2<h>te</h> dantzt das 2<h>te</h> und so fort, weil 5 <rend class="latin">Solo</rend> und<lbr type="BD"/>&#160;<lbr/>
+5 <rend class="latin">tutti</rend> sind.<lbr type="forced"/>
+Nun ko<abbr type="topline" expand="mm">m</abbr>t die Zeit, die mir die meiste Unruhe macht, weil die Hitze ko<abbr type="topline" expand="mm">m</abbr>t;<lbr/>
+doch sagt mir iederman, daß <rend class="latin">Neapl</rend> unvergleichlich mehr Luft hat, und viel<lbr/>
+gesünder als Rom ist. Ich werde also alle mögliche vorsorge brauch<abbr v="en"/>, sonderheitl:<lbr/>
+wegen der übl<abbr v="en"/> Luft od<abbr v="er"/> <rend class="latin">malaria</rend> unsere Rückreise ohne Lebensgefahr<lbr type="BD"/> anzustell<abbr v="en"/>.<lbr/>
+<lbr/>
+<add_seal type="owner">National=Biblioth[ek]<lbr type="forced"/>[Wi]en</add_seal>
+<pg n="4"/>
+da nun alles auf die Witterung <suppl hand="self" pos="supra">anko<abbr type="topline" expand="mm">m</abbr>t</suppl>, und sonderlich auf<lbr type="BD"/> ein<abbr v="en"/> Stark<abbr v="en"/><lbr/>
+Reg<abbr v="en"/> und Wind, so kann nichts wed<abbr v="er"/> entschlüss<abbr v="en"/>; noch<lbr type="BD"/> schreib<abbr v="en"/>. H<abbr type="curve">:</abbr> Meisner<lbr/>
+ist in <rend class="latin">Neapl</rend>, wir hoff<abbr v="en"/> ihn in 3 bis 4 woch<abbr v="en"/> dort zu<lbr type="BD"/> seh<abbr v="en"/>. Bethet fleisig<lbr/>
+den Lieb<abbr v="en"/> Gott für unsere Gesundheit: an uns wird es<lbr type="BD"/> nicht fehl<abbr v="en"/>; da<abbr type="topline" expand="nn">n</abbr> ich<lbr/>
+ka<abbr type="topline" expand="nn">n</abbr> dich versichern, daß wir alle möglichste Sorge<lbr type="BD"/> hab<abbr v="en"/>, und d<abbr v="er"/> Wolfg<abbr type="curve">.</abbr><lbr/>
+auf seine Gesundheit so acht hat, als wäre er der<lbr type="BD"/> erwachsenste Mensch.<lbr/>
+Gott erhalte euch gleichfals gesund, machet meine<lbr type="BD"/> Empf<abbr type="curve">:</abbr> an alle gute<lbr/>
+freund und freundin<abbr v="en"/> und ich bin der alte<lbr type="forced"/>
+<ts>______</ts><tshtm>_______________________________________________________</tshtm><tspdf>\hfill </tspdf>Mzt <abbr expand="manu propria">mp.</abbr><lbr type="forced"/>
+Ich und der Wolfg<abbr type="curve">:</abbr> Kissen dich und die Na<abbr type="topline" expand="nn">n</abbr>erl 1000 Mahl.<lbr type="forced"/>
+<NS type="NS" schr_id="39409">Ich bin got lob und danck Samt meiner <rend class="latin">miserabl</rend>en feder ge<pc force="weak">=</pc><lbr/>sund, und küsse<lbr type="BD"/> die mama und die nanerl tausend oder 1000<lbr/>
+mahl. nb: ich wünschte nur das<lbr type="BD"/> meine schwester zu <rend class="latin">Rom</rend> wäre,<lbr/>
+dan ihr wurde diese stadt gewis wohlgefahlen, indem die<lbr/>
+<rend class="latin">peters</rend> kirchen <rend class="latin">Regulair</rend> und viele andere sachen<lbr/>
+zu <rend class="latin">Rom Regulaire</rend> sind. die schönsten blumen tragens<lbr/>
+iezt vorbe&#255;, den augenblicke sagte es<lbr type="BD"/> mir der papa.<lbr/>
+Ich bin ein nar, das ist bekandt, o ich habe eine noth,<lbr/>
+in unsern<lbr type="BD"/>&#160;<rend class="latin">quartier</rend> ist nur ein bet, das kan die mama<lbr/>
+sich leicht einbilden, das ich be&#255;m<lbr type="BD"/> papa keine ruhe habe,<lbr/>
+ich fre&#255; mich auf das neüe <rend class="latin">quartier:</rend> iezt hab ich<lbr/>
+Just<lbr type="BD"/> den hl: <rend class="latin">petrus</rend> mit den schlisselsamt den hl: <rend class="latin">paulus</rend><lbr/>
+mit den schwerdt<lbr type="BD"/> und samt den hl: <rend class="latin">lucas</rend> mit meiner<lbr/>
+schwester <rend class="latin">ec: ec:</rend> abgezeichnet, ich hab die<lbr type="BD"/> ehr gehabt den<lbr/>
+hl: p<rend class="latin">etrus</rend> seinen fus zu <rend class="latin">sanct</rend> <rend class="latin">pietro</rend> zu küssen, und<lbr/>
+weil ich<lbr type="BD"/> das unglück habe so klein zu se&#255;n, so hat man<lbr/>
+mich <suppl hand="self" pos="infra">dan</suppl> als den nehmlichen<lbr type="BD"/> alten fechsen<lbr type="forced"/>
+<ts>__________</ts><tshtm>_____________________________________________</tshtm><tspdf>\hfill </tspdf><rend class="latin">Wolfgang Mozart</rend><lbr type="forced"/>
+<ts>__________</ts><tshtm>______________________________________________</tshtm><tspdf>\hfill </tspdf>hinauf gehebt</NS></NI></letter>
+</text>
+</MUP>

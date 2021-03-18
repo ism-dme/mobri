@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2009">2009-08-20</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=346</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:35:59 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/Doc1820_3_mup.txt">
+<HEADER id="346">CARL THOMAS MOZART AN MARIA ALA PONZONE IN MAILAND<lbr/>
+MAILAND, 7. NOVEMBER 1823(?)</HEADER>
+
+
+<pg n="1"/>
+<ts>_____</ts>Hochgeehrte <rend class="latin">Marquise</rend>.<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____</ts>Mit dem größten Bedauern trägt mir<lbr/>
+<rend class="latin">Mad<h>e</h> Casella</rend> auf Ihnen zu melden daß sie heute<lbr/>
+Abend nicht das Vergnügen haben kann welches<lbr/>
+Sie ihr gnädigst zugedacht haben, indem sie heute<lbr/>
+einen Medizintag hat, und gestern Abend wieder<lbr/>
+extravagante Zufälle am Kopf zu leiden hatte.<lbr/>
+Im Allgemeinen ist sie jedoch viel beßer als in den<lbr/>
+verfloßenen Tagen; so zwar daß sie in der sichersten<lbr/>
+Hofnung ist künftigen Freytag nicht wie diesmal Ihre<lbr/>
+gütige Einladung abschlagen, und einem so großen<lbr/>
+<pg n="2"/>
+Vergnügen entsagen zu müßen, wie das ist in Ihrer Ge<pc force="weak">=</pc><lbr/>sellschaft zu seyn.<lbr type="forced"/>
+<ts>_____</ts>Ich hoffe, gnädige <rend class="latin">Marquise</rend>, daß Sie sich voll<pc force="weak">=</pc><lbr/>kommen wohl befinden, und ermahne Sie, da die Un<pc force="weak">=</pc><lbr/>glück verhängende Schwangerschaft der Gräfinn<lbr/>
+<rend class="latin">Alari</rend> unserm Daseyn ein schnelles Ende machen<lbr/>
+wird, diese Zeit recht zu benützen, und vergnügt<lbr/>
+zuzubringen.<lbr type="forced"/>
+<ts>_____</ts>Ich bitte viele Küße dem holden Philipp<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>__________</ts>Mit tiefster Ehrfurcht<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_______________________________</ts><tspdf>\hfill </tspdf> Unterth<abbr type="curve">.</abbr> Diener<lbr type="forced"/>
+7 9<u><h>ber</h></u><ts>___________________________</ts><tspdf>\hfill </tspdf> C. <rend class="latin">Mozart</rend>
+<pg n="3"/>
+<vacat/>
+<pg n="4"/>
+<anschrift rot="90" lang="fr"><rend class="latin">À Madame<lbr type="forced"/>
+Madame la Marquise <u>Ala Ponzone</u><lbr type="forced"/>
+née<lbr type="forced"/>
+Contesse Visconti Ciceri<lbr type="forced"/>
+Son Hôtel</rend></anschrift>
+
+</text>
+</MUP>

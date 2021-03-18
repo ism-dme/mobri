@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2014">2014-6</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1614</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:41:47 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_1044.mup">
+<letter bd="1044">
+<HEADER id="1614">WOLFGANG AMADÉ MOZART AN LEOPOLD MOZART IN SALZBURG<lbr/>
+WIEN, 4. APRIL 1787</HEADER>
+<pg n="1"/>
+<ts>___</ts><rend class="latin">Mon tres cher <persName key="39408">Pére</persName>!</rend> &#8211; &#8211; <lbr type="forced"/>
+<lbr type="forced"/>
+<lbr type="forced"/>
+Mir ist es sehr unangenehm daß durch die du<abbr type="topline" expand="mm">m</abbr>heit der <persName key="59534"><rend class="latin">storace</rend></persName> Mein brief<lbr type="BD"/> nicht in<lbr/>
+ihre hände geko<abbr type="topline" expand="mm">m</abbr>en ist; &#8211; ich schrieb ihnen unter andern dari<abbr type="topline" expand="nn">n</abbr><lbr type="BD"/> daß ich hofte<lbr/>
+sie würden mein leztes Schreiben erhalten haben &#8211; da sie aber<lbr type="BD"/> von diesem<lbr/>
+Schreiben gar keine Meldung machen |: es war der 2:<h>te</h> brief von<lbr type="BD"/> Prag :| so weis ich<lbr/>
+nicht was ich denken soll; es ist leicht möglich daß so ein<lbr type="BD"/> bedienter vom graf<lbr/>
+thun es für gut befunden hat, das Postgeld im Sack zu<lbr type="BD"/> stecken; &#8211; ich wollte<lbr/>
+doch lieber dopelt Postgeld zahlen, als meinen briefe<lbr type="BD"/> in unrechten händen wissen.<lbr/>
+&#8211; diese fasten ka<abbr type="topline" expand="mm">m</abbr>en <persName key="57984">Ramm</persName>, und <u>2 <rend class="latin">Fisher</rend></u><lbr type="BD"/> hieher &#8211; der <persName key="52123"><rend class="latin">Bassist</rend></persName> und der <persName key="52122"><rend class="latin">Obo</rend>ist</persName><lbr/>
+von <rend class="latin">London</rend>. &#8211; we<abbr type="topline" expand="nn">n</abbr> lezterer zu der zeit<lbr type="BD"/> als wir ihn in Holland ka<abbr type="topline" expand="nn">n</abbr>ten nicht<lbr/>
+besser geblasen hat als er izt bläst, so<lbr type="BD"/> verdient er gewis das <rend class="latin">Renomèe</rend> nicht<lbr/>
+welches er hat. &#8211; <u>Jedoch unter uns ge<lbr type="BD"/>sagt</u>. &#8211; ich war damals in den Jahren wo<lbr/>
+ich nicht im stande war ein urtheil<lbr type="BD"/> zu fällen &#8211; ich weis mich nur zu erinnern<lbr/>
+daß er mir ausserordentlich gefiel,<lbr type="BD"/> so wie der ganzn Welt; &#8211; man wird es freylich<lbr/>
+natürlich finden, we<abbr type="topline" expand="nn">n</abbr> man<lbr type="BD"/> anni<abbr type="topline" expand="mm">m</abbr>t daß sich der geschmack ausserordentlich geändert hat.<lbr/>
+&#8211; er wird nach<lbr type="BD"/> einer alten schule Spielen. &#8211; aber Nein! &#8211; er Spielt, mit einem<lbr/>
+Wort, wie ein<lbr type="BD"/> Elender <rend class="latin">scolar</rend> &#8211; Der <persName key="84799">Junge <u>Andrè</u></persName> der be&#255;m <persName key="52066"><rend class="latin">fiala</rend></persName> lernte <u>Spielt</u><lbr/>
+tausendmal bess<lbr type="BD"/>er &#8211; und da<abbr type="topline" expand="nn">n</abbr> seine konzerte! &#8211; von seiner eigenen <rend class="latin">Composition</rend> &#8211; <lbr/>
+&#8211; Jedes <rend class="latin">Ritornell</rend> dauert eine Viertelstunde &#8211; dann erscheint der Held &#8211; hebt<lbr/>
+einen ble&#255;ernen fus<lbr type="BD"/> nach dem andern auf &#8211; und Plumpst da<abbr type="topline" expand="nn">n</abbr> wechselweise damit zur Erde<lbr/>
+&#8211;<lbr type="BD"/> sein Ton ist ganz aus der Nase &#8211; und seine <rend class="latin">tenuta</rend> ein <rend class="latin">tremulant</rend> auf der<lbr type="BD"/> orgel.<lbr/>
+hätten sie sich dieses Bild vorgestellt? &#8211; und doch ists nichts als wahr<lbr type="BD"/>heit &#8211; aber<lbr/>
+wahrheit die ich nur <u>ihnen</u> sage. &#8211; <lbr type="forced"/>
+<pg n="2"/>
+diesen augenblick höre ich<lbr type="BD"/> eine Nachricht die mich sehr niederschlägt &#8211; um so mehr<lbr/>
+als ich aus<lbr type="BD"/> ihrem lezten vermuthen ko<abbr type="topline" expand="nn">n</abbr>te daß sie sich gottlob recht wohl be<lbr type="BD"/><pc force="weak">=</pc><lbr/>finden; &#8211; Nun höre aber daß sie wirklich krank se&#255;en!&#8211;  wie sehnlich<lbr type="BD"/> ich einer<lbr/>
+tröstenden Nachricht von ihnen selbst entgegen sehe, brauche ich<lbr type="BD"/> ihnen doch wohl<lbr/>
+nicht zu sagen; &#8211; und ich hoffe es auch gewis &#8211; obwohlen ich<lbr type="BD"/> es mir zur gewohnheit<lbr/>
+gemacht habe mir i<abbr type="topline" expand="mm">m</abbr>er in allen Dingen das schli<abbr type="topline" expand="mm">m</abbr><lbr type="BD"/>ste vorzustellen &#8211; <lbr/>
+da der tod |: genau zu ne<abbr type="topline" expand="mm">m</abbr>en :| der wahre Endzweck<lbr type="BD"/> unsers lebens ist, so habe<lbr/>
+ich mich seit ein Paar Jahren mit diesem wahren,<lbr type="BD"/> besten freunde des Menschen<lbr/>
+so beka<abbr type="topline" expand="nn">n</abbr>t gemacht, daß sein Bild nicht allein<lbr type="BD"/> nichts schreckendes mehr<lbr/>
+für mich hat, sondern recht viel beruhigendes und<lbr type="BD"/> tröstendes! &#8211; und ich<lbr/>
+danke meinem gott daß er mir das glück gegönnt hat mir<lbr type="BD"/> die gelegenheit<lbr/>
+|: sie verstehen mich :| zu verschaffen, ihn als den <u>schlüssel</u><lbr type="BD"/> zu unserer wahren<lbr/>
+glückseeligkeit ke<abbr type="topline" expand="nn">n</abbr>en zu lernen. &#8211; ich lege mich nie zu<lbr type="BD"/> bette ohne zu bedenken<lbr/>
+daß ich vielleicht |: so Jung als ich bin :| den andern<lbr type="BD"/> tag nicht mehr se&#255;n werde &#8211; <lbr/>
+und es wird doch kein Mensch von allen die<lbr type="BD"/> mich ke<abbr type="topline" expand="nn">n</abbr>en sagn kö<abbr type="topline" expand="nn">n</abbr>en daß ich<lbr/>
+im umgange Mürrisch oder trauerig wäre &#8211;<lbr type="BD"/> und für diese glückseeligkeit danke<lbr/>
+ich alle tage meinem Schöpfer, und wün<lbr type="BD"/>sche sie vom Herzen Jedem meiner Mit<pc force="weak">=</pc><lbr/>menschen. &#8211; Ich habe ihnen in dem<lbr type="BD"/> briefe |: so die <rend class="latin">storace</rend> eingepackt hat :| schon<lbr/>
+über diesen Punckt |: be&#255; gelegen<lbr type="BD"/>heit des trauerigen todfalls Meines liebsten besten<lbr/>
+freundes <persName key="53455">grafen von<lbr type="BD"/> Hatzfeld</persName> :| meine Denkungsart erklärt &#8211; er war eben 31 Jahr<lbr/>
+alt; wie ich &#8211;<lbr type="BD"/> ich bedauere <u>ihn</u> nicht &#8211; aber wohl herzlich mich und alle die,<lbr/>
+welche ihn so<lbr type="BD"/> genau ka<abbr type="topline" expand="nn">n</abbr>ten wie ich. &#8211; Ich hoffe und wünsche daß sie sich, wehrend<lbr/>
+ich<lbr type="BD"/> dieses schreibe besser befinden werden; sollten sie aber wieder alles vermuthen<lbr type="BD"/><lbr/>
+<pg n="3"/>
+nicht besser se&#255;n, so bitte ich sie be&#255; . . . . . . . mir es nicht zu verhehlen, son<lbr type="BD"/>dern mir<lbr/>
+die reine wahrheit zu schreibe[n] oder schreiben zu lassen, damit ich<lbr type="BD"/> so geschwind als<lbr/>
+es menschen möglich ist in ihren Armen se&#255;n kann; ich beschwöre sie be&#255; allem was<lbr/>
+&#8211; uns heilig ist. &#8211; Doch hoffe ich bald einen trost<lbr type="BD"/>reichen brief von ihnen zu erhalten,<lbr/>
+und in dieser angene<abbr type="topline" expand="mm">m</abbr>en hoffnung<lbr type="BD"/> küsse ich ihnen sa<abbr type="topline" expand="mm">m</abbr>t meinem <persName key="48818">Weibe</persName> und dem<lbr/>
+<persName key="48820"><rend class="latin">Carl</rend></persName> 1000mal die hände, und<lbr type="BD"/> bin Ewig<lbr type="forced"/>
+<lbr type="forced"/>
+<u>Wie<abbr type="topline" expand="nn">n</abbr></u> den 4:<h>t</h>&#160;<rend class="latin">April</rend>. <uu>1787</uu>.<lbr type="forced"/>
+<ts>______</ts><tshtm>_____________________________________________________</tshtm><tspdf>\hfill </tspdf>ihr gehorsamster Sohn<lbr type="BD"/><lbr type="forced"/>
+<ts>___</ts><tshtm>________________________________________________________</tshtm><tspdf>\hfill </tspdf><persName key="39408">W. A. Mozart</persName>&#160;<abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<lbr type="forced"/>
+<pg n="4"/>
+<anschrift rot="270"><rend class="latin">À<lbr type="forced"/>
+Monsieur<lbr type="forced"/>
+Monsieur Leopold de Mozart<lbr type="forced"/>
+Maitre de la Chapelle de<lbr type="BD"/> S: A: R:<lbr type="forced"/>
+à<lbr type="forced"/>
+<uu>Salzbourg:</uu></rend></anschrift>
+</letter>
+</text>
+</MUP>

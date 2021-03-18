@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2020">2020-03</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=650</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Verbleib unbekannt (Vorlage: Abschrift um 1768 in D-B)</bibl>
+            <bibl type="source" subtype="RISM">Verbleib unbekannt, Vorlage: Abschrift um 1768 in D-B</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:36:40 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_92.mup">
+<letter bd="92">
+<NI src="unbekannt">
+<HEADER id="650">LEOPOLD MOZART AN LORENZ HAGENAUER IN SALZBURG<lbr/>
+CHELSEA, 13. SEPTEMBER 1764</HEADER>
+<pg n="1"/>
+<add_num schr_id="57010" impl="crayon" color="red"><ts>_____________________</ts>26</add_num>
+<ts>________________________________________</ts><tspdf>\hfill </tspdf><rend class="latin">Chelsea</rend> be&#255; <rend class="latin">London</rend><lbr type="forced"/>
+<rend class="latin">Monsieur</rend><ts>____________________________</ts><tspdf>\hfill </tspdf>den 13.<h>t<abbr v="en"/></h>&#160;<rend class="latin">Sept<abbr type="curve">:</abbr></rend> 1764.<lbr type="forced"/>
+<add_empf schr_id="53262"><ts>_____________________________________</ts><u>d<abbr v="en"/> 2<h>t<abbr v="en"/></h> 8ber. Empfang<abbr v="en"/>,</u><lbr/>
+<ts>________________________________________</ts>d<abbr v="en"/> 12ten detto beantwortet.</add_empf>
+<lbr type="forced"/>
+<ts>_____</ts>Ich habe beobachtet, daß unsere Briefe<lbr/>
+allzeit 16. bis 17. Täge gelauffen sind:<lbr type="BD"/><lbr/>
+denn bisher hatte ich allzeit den 17.<h>t<abbr v="en"/></h> Tag<lbr/>
+ihr Schreiben richtig oder wenigst<lbr type="BD"/> den 18.<h>ten</h><lbr/>
+be&#255; Zeiten. Dissmahl ist es noch geschwinder<lbr/>
+zugegangen;<lbr type="BD"/> denn ich hatte ihr Schreiben<lbr/>
+schon den 11.<h>t<abbr v="en"/></h> und <rend class="latin">Mr: Tessier</rend> erhielt es den<lbr type="BD"/><lbr/>
+10.<h>t<abbr v="en"/></h> folglich, da sie unterm 2.<h>t<abbr v="en"/></h>&#160;<rend class="latin">aug<abbr type="curve">:</abbr></rend> geschrie<pc force="weak">=</pc><lbr/>ben, so war der Brief in 14.<lbr type="BD"/> Tägen hier.<lbr/>
+Genug! unsere <rend class="latin">Correspondenz</rend> gehet bis<lbr/>
+diese Stunde, obwohl wir<lbr type="BD"/> so entfernt sind,<lbr/>
+richtig. Vor die genaue Befolgung der heil:<lbr/>
+Messen, dancke<lbr type="BD"/> ich gehorsam<abbr type="curve">:</abbr> und berichte,<lbr/>
+daß ich mich von Tag zu Tage, obwohl sehr<lbr/>
+lang<lbr type="BD"/>sam, doch immer besser befinde; so<lbr/>
+daß ich wenigst sicher hofen darf, daß<lbr type="BD"/> ich<lbr/>
+keinen innerlichen <choice><orig>Hauptmängel</orig><corr hand="diff" schr_id="57010">Hauptmangel</corr></choice> habe. da<pc force="weak">=</pc><lbr/>mit sie aber doch den Ursprung<lbr type="BD"/> meiner<lbr/>
+Kranckheit wissen; so muß ich ihnen sagen,<lbr/>
+<pg n="2"/>
+das es hier eine Art von<lbr type="BD"/> einer Landkranck<pc force="weak">=</pc><lbr/>heit giebt, die man eine <u>Verkältung</u><lbr/>
+nennet, Desswegen<lbr type="BD"/> sehen sie hier fast<lbr/>
+gar keinen Menschen, der ein Sommerkleid<lbr/>
+trägt; sondern<lbr type="BD"/> alles trägt Tüchene Klei<pc force="weak">=</pc><lbr/>der. Diese so genannte Verkältung<lbr/>
+ist be&#255; Leuten,<lbr type="BD"/> die sohin innerlich nicht<lbr/>
+richtig sind, so gefährlich, daß be&#255; vielen<lbr/>
+ein <rend class="latin">Con<lbr type="BD"/>sumption</rend>, wie sie es hier nennen,<lbr/>
+daraus entstehet; ich nenne es aber <rend class="latin">Febrem<lbr type="BD"/><lbr/> 
+lentam:</rend> und für solche Leute ist der beste<lbr/>
+Rath, Engelland zu verlassen und<lbr type="BD"/> über<lbr/>
+das Meer zurück zu kehren; wo man<lbr/>
+dann viele <rend class="latin">Exempel</rend> hat, daß<lbr type="BD"/> solche be&#255; der<lbr/>
+Lands-Veränderung, sogleich sich besser be<pc force="weak">=</pc><lbr/>funden haben. Diese<lbr type="BD"/>&#160;<u>Verkältung</u><lbr/>
+habe ich unvermuthet erwischet, und zwar<lbr/>
+so: den 8. <rend class="latin">Julij</rend><lbr type="BD"/> abends um 6. Uhr sollten<lbr/>
+wir zum <rend class="latin">Mylord Taneth</rend> kommen. ich<lbr/>
+schickte vor 6. Uhr auf die Plätze, wo die<lbr/>
+Kutschen stehen; allein es <choice><orig>ware</orig><corr hand="diff" schr_id="57010">war</corr></choice> keine zu<lbr/>
+haben:<lbr type="BD"/> es war <choice><orig>Sontage</orig><corr hand="diff" schr_id="57010">Sonntag</corr></choice>; folglich waren alle<lbr/>
+<pg n="3"/>
+Kutschen weg. Es war der schönste und<lbr type="BD"/> heis<pc force="weak">=</pc><lbr/>seste Tag. ich ließ einen Tragsessel<lbr/>
+kommen; setzte be&#255;de Kinder hinein,<lbr type="BD"/> und<lbr/>
+ich gieng zufuß hinten darein, weil das<lbr/>
+Wetter so ausserordentlich schön<lbr type="BD"/>&#160;<choice><orig>ware</orig><corr hand="diff" schr_id="57010">war</corr></choice>:<lbr/>
+allein ich dachte nicht, wie geschwind hier<lbr/>
+die sesselträger gehen; ich er<lbr type="BD"/>fuhr es aber.<lbr/>
+ich kann <choice><orig>zimmlich</orig><corr hand="diff" schr_id="57010">ziemlich</corr></choice> gehen, sie wissen es, und<lbr/>
+das Fleisch hindert mich<lbr type="BD"/> im gehen keinesweegs.<lbr/>
+Kurz bis wir zu <rend class="latin">Mylord</rend>&#160;<choice><orig><rend class="latin">Teneth</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">Taneth</rend></corr></choice>&#160;<choice><orig>kammen</orig><corr hand="diff" schr_id="57010">kamen</corr></choice>,<lbr/>
+glaubte ich<lbr type="BD"/> öfters<suppl hand="diff" schr_id="57010" pos="inline">,</suppl> es wäre unmöglich mehr<lbr/>
+zu folgen: Denn <rend class="latin">London</rend> ist nicht Salz<pc force="weak">=</pc><lbr/>burg.<lbr type="BD"/> ich kam demnach in den grösten<lbr/>
+Schweis den man haben kann. ich hatte<lbr type="BD"/><lbr/>
+nichts als eine seidene <choice><orig>Veste</orig><corr hand="diff" schr_id="57010">Weste</corr></choice> an, doch einen<lbr/>
+Rock von Tuch; den ich gleich<lbr type="BD"/> in dem<lbr/>
+Hause des <rend class="latin">Mylord</rend>&#160;<choice><orig><rend class="latin">Teneth</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">Taneth</rend></corr></choice> zu knöpfte.<lbr/>
+allein das half nichts: der<lbr type="BD"/> Abend war<lbr/>
+frisch; alle Fenster waren offen. wir<lbr/>
+blieben bis 11. Uhr da, und<lbr type="BD"/> ich empfand<lbr/>
+mich gleich übel, und nach Hauße ließ ich mich<lbr/>
+<pg n="4"/>
+in einem zwe&#255;ten<lbr type="BD"/> tragsessel tragen.<lbr type="forced"/>
+Doch gieng ich bis den 14.<h>t<abbr v="en"/></h> noch so herum<lbr/>
+ohne mich recht zu geben. ich<lbr type="BD"/> suchte durch<lbr/>
+das schwitzen, so hier das allgemeine Mittel<lbr/>
+ist, dem Übel abzu<lbr type="BD"/>helfen; allein es wol<pc force="weak">=</pc><lbr/>lte nichts helfen. ich nahm eine leichte<lbr/>
+Laxier, allein<lbr type="BD"/> umsonst. Die Haupt<pc force="weak">=</pc><lbr/>sache aber <choice><orig>ware</orig><corr hand="diff" schr_id="57010">war</corr></choice>, das ich ein starckes Hals<pc force="weak">=</pc><lbr/>wehe hatte. Es<lbr type="BD"/> war die Mandl wie schar<pc force="weak">=</pc><lbr/>lach <choice><orig>entzindet</orig><corr hand="diff" schr_id="57010">entzündet</corr></choice>, und alle <choice><orig>Gurgelwässer</orig><corr hand="diff" schr_id="57010">Gurgelwasser</corr></choice><lbr/>
+halfen nichts.<lbr type="BD"/> Man muste mir Ader<pc force="weak">=</pc><lbr/>lassen: <choice><orig>dann</orig><corr hand="diff" schr_id="57010">denn</corr></choice> ich konnte kaum mehr<lbr/>
+<choice><orig>SuppenBrie</orig><corr hand="diff" schr_id="57010">Suppenbrühe</corr></choice><lbr type="BD"/> hinunter bringen. sehen sie<lbr/>
+hier das Gurgelwasser. <div type="recipe" xml:id="recipeBD92_1"><g ref="prescr.take">&#8478;</g>. <rend class="latin">Tinctur<lbr/>
+Rosar: leviter<lbr type="BD"/> acidul: c. Elix. Vitriol.</rend>&#160;<g ref="ounce.sign">&#8485;</g>iv<lbr/>
+<rend class="latin">Mellis Rosarum optim:</rend>&#160;<g ref="ounce.sign">&#8485;</g>i<g ref="semis.sign">&#223;</g>&#160;<rend class="latin">Spirit: Sulphu<pc force="weak">=</pc><lbr/>ris</rend>&#160;<u><rend class="latin">p</rend></u><lbr type="BD"/>&#160;<rend class="latin">Campanam gutt: X aquæ Hordeatæ</rend><lbr/>
+<g ref="ounce.sign">&#8485;</g>ij <u><rend class="latin">Misc: fiat gargorisma.</rend></u>
+<note corresp="#recipeBD92_1" type="expansion" xml:lang="la">Recipe. Tinctura Rosarum leviter acidulcis uncias quattuor. 
+Mellis Rosarum optimum unciam unam semis. Spiritus Sulphuricus per Campanam guttæ decem. aquæ Hordeatæ uncias duas. Misce fiat gargorisma.</note>
+<note corresp="#recipeBD92_1" type="translation" xml:lang="de"> Rosentinktur leicht mit Vitriolelixier angesäuert. 4 Unzen. Bester Rosenhonig 1 1/2 Unzen. Schwefelgeist 10 Tropfen. Gerstenwasser 2 Unzen. Mische zum Gurgelwasser.</note></div> Das<lbr/>
+Hals<lbr type="BD"/>wehe ließ nach der Aderlaß bald nach;<lbr/>
+allein ich hatte immer ein fieber,<lbr type="BD"/> keinen <rend class="latin">ap<pc force="weak">=</pc><lbr/>petit</rend>, und es war mir auch <choice><orig>verbotten</orig><corr hand="diff" schr_id="57010">verboten</corr></choice> nichts<lbr/>
+als schlechte <choice><orig>Suppenbrie</orig><corr hand="diff" schr_id="57010">Suppenbrühe</corr></choice><lbr type="BD"/> zu nehmen. Mein<lbr/>
+<conv><ts>_____________________________________________________</ts>Tranck</conv>
+<pg n="5"/>
+Tranck war die <rend class="latin">Ptysana</rend> und alzeit ein<lbr/>
+wenig <rend class="latin">Nitri dul:</rend><lbr type="BD"/> darunter: <u><rend class="latin">NB:</rend></u> die gros<pc force="weak">=</pc><lbr/>sen hitzen habe ich mir be&#255;m anfange<lbr/>
+des <choice><orig>Halswehe</orig><corr hand="diff" schr_id="57010">Halswehes</corr></choice><lbr type="BD"/> durch den <rend class="latin">Pulverem</rend>&#160;<choice><orig><rend class="latin">antis<pc force="weak">=</pc><lbr/>pasmad:</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">antispasmod:</rend></corr></choice>&#160;<rend class="latin">hallensem</rend> selbst gedämpfet, ehe<lbr/>
+der <rend class="latin">Me<lbr type="BD"/>dicus</rend> zu mir <choice><orig>kamm</orig><corr hand="diff" schr_id="57010">kam</corr></choice>. &#8211; &#8211; Nach<pc force="weak">=</pc><lbr/>dem gab mir der <rend class="latin">Medicus</rend> den 22:<h>ten</h><lbr/>
+<rend class="latin">Julij</rend>. <div type="recipe" xml:id="recipeBD92_2"><g ref="prescr.take">&#8478;</g>. <rend class="latin">Sal<lbr type="BD"/> absinth:</rend>&#160;<g ref="scruple.sign">&#8456;</g>j <rend class="latin">Succi Limon</rend>&#160;<g ref="alchem.drachm">&#658;</g>vi.<lbr/>
+<rend class="latin">aqu. Cimam: Simp: et puræ font: <abbr type="tilde" expand="ana">aa</abbr></rend>&#160;<g ref="ounce.sign">&#8485;</g><g ref="semis.sign">&#223;</g>.<lbr/>
+<rend class="latin">Spirit:<lbr type="BD"/> Mindereri</rend>&#160;<g ref="alchem.drachm">&#658;</g>i<g ref="semis.sign">&#223;</g>. <rend class="latin">nitri dulc. gutt xx</rend>.<lbr/>
+<rend class="latin"><amend value="Syrup:">Syrap:</amend></rend>&#160;<g ref="alchem.drachm">&#658;</g>ij. <rend class="latin">fiat haustus</rend>; 6.<h>ta</h>&#160;<rend class="latin">quâque hora</rend><lbr type="BD"/><lbr/>
+<rend class="latin">Su<abbr type="topline" expand="mm">m</abbr>endus</rend>.<note corresp="#recipeBD92_2" type="expansion" xml:lang="la">Recipe. Sal absinthi scrupulo uno. Succj Limon drachmas sex. aqua Cinnamoni simplex et puræ fontanæ: ana partes unciam semis. 
+Spiritus Minderei drachmam unam semis. nitri dulcis guttæ viginti. Syrupus drachmam duas. fiat haustus; 6.<h>ta</h> quâque hora Su<abbr type="topline" expand="mm">m</abbr>endus.</note>
+<note corresp="#recipeBD92_2" type="translation" xml:lang="de">Nimm Wermutsalz 1 Drachme. Limonensaft 6 Drachmen. einfaches Zimtwasser und reines Quellwasser je 1/2 Unze. 
+Minderers Geist 1 1/2 Drachmen. Süßer Salpetergeist 20 Tropfen. Sirup 2 Drachmen. Bereite einen Trank; alle 6 Stunden einzunehmen.</note></div>&#160;<amend value="Weil">Veil</amend> ich nun die vorige Nacht<lbr/>
+nichts geschlaffen hatte; so glaubte<lbr type="BD"/> er die<lbr/>
+Sache dadurch gut zu machen, und schrieb<lbr/>
+noch dazu: <div type="recipe" xml:id="recipeBD92_3"><rend class="latin">Ad&#255;ce haustui<lbr type="BD"/> Nocturno Tinct:<lbr/>
+Thebaic: gut:</rend> XV &#38; <rend class="latin">pulv: contrayero comp:</rend><lbr/>
+<rend class="latin">gr</rend>. XVI.<note corresp="recipeBD92_3" type="expansion" xml:lang="la">Ad&#255;ce haustui Nocturno Tinctura Thebaica guttæ quindecim et pulvis contrayero compositus grano sedecim.</note>
+<note corresp="recipeBD92_3" type="translation" xml:lang="de">Füge dem nächtlichen Trank hinzu Opiumtinktur 15 Tropfen. Und zusammengesetztes Contrajerva-Pulver 16 Gran.</note></div> Dieses<lbr type="BD"/> ward also dem vori<pc force="weak">=</pc><lbr/>gen, das ich alle 6. Stunden nehmen muste<lbr/>
+be&#255;gefüget, und muste vor schlaffen gehen<lbr/>
+genommen werden. ich <choice><orig>fiehl</orig><corr hand="diff" schr_id="57010">fiel</corr></choice> auch in einen<lbr type="BD"/><lbr/>
+starcken Schlaff: allein um 2. Uhr in<lbr/>
+der Nacht erwachte ich durch einen<lbr type="BD"/> erstaun<pc force="weak">=</pc><lbr/>lichen Schmerzen, den ich im Magen<lbr/>
+<pg n="6"/>
+empfand, und der so ausser<lbr type="BD"/>ordentlich<lbr/>
+war, daß ich glaubte ich könnte ihn<lbr/>
+nicht überstehen. Meine Frau<lbr type="BD"/> machte<lbr/>
+mir geschwind eine Suppen <choice><orig>briehe</orig><corr hand="diff" schr_id="57010">brühe</corr></choice> warm,<lbr/>
+und ich kam nachdem<lbr type="BD"/> wieder in Schlaff.<lbr/>
+Allein in der Nacht vom 23. bis auf<lbr/>
+den 24.<h>t<abbr v="en"/></h> schlief ich<lbr type="BD"/> abermahl keine <rend class="latin">minute</rend>;<lbr/>
+obwohl fast kein fieber mehr in <choice><orig>den</orig><corr hand="diff" schr_id="57010">dem</corr></choice> Puls<lbr/>
+<choice><orig>ware</orig><corr hand="diff" schr_id="57010">war</corr></choice>. der<lbr type="BD"/> H<abbr type="curve">:</abbr>&#160;<rend class="latin">Medicus</rend> gab mir also:<lbr/>
+<div type="recipe" xml:id="recipeBD92_4"><rend class="latin">aqu: alexiter</rend>. S. <g ref="ounce.sign">&#8485;j</g>. <rend class="latin">Nuc: Mosc:</rend>&#160;<g ref="alchem.drachm">&#658;</g>iij.<lbr/>
+<rend class="latin">Tinctur:<lbr type="BD"/> Thebaic: gut:</rend> XVIII. <rend class="latin">Syrup.<lbr/>
+Balsamic:</rend>&#160;<g ref="alchem.drachm">&#658;</g>ii<g ref="semis.sign">&#223;</g>. <u><rend class="latin">M: f: Haustg</rend>.</u><note corresp="#recipeBD92_4" type="expansion" xml:lang="la">aqua alexiter simplex unciam unam. Nux Moschata. drachmas tribus. 
+Tinctura Thebaica guttæ decem et octo. Syrupus Balsamicus drachmas duas semis. Misce fiat Haustus.</note>
+<note corresp="#recipeBD92_4" type="translation" xml:lang="de">Alexiterwasser 1 Unze. Muskatnuss 3 Drachmen. Opiumtinktur 18 Tropfen. Balsamsirup 2 1/2 Drachmen. Mische zu einem Trank.</note><lbr/></div>
+Doch es half nichts,<lbr type="BD"/> ich schlief auf diesen<lbr/>
+Tranck eben so wenig, sond<abbr v="er"/>en ich lag<lbr/>
+nur in einer<lbr type="BD"/> gewissen betäubung, die ich<lbr/>
+nicht beschreiben kann: ich <choice><orig>ware</orig><corr hand="diff" schr_id="57010">war</corr></choice> immer<lbr/>
+wache;<lbr type="BD"/> glaubte immer einzuschlaffen, und<lbr/>
+<choice><orig>ware</orig><corr hand="diff" schr_id="57010">war</corr></choice> nichts, als gewiß <choice><orig>dumme</orig><corr hand="diff" schr_id="57010">dumm</corr></choice>. Ich<lbr/>
+sahe mir<lbr type="BD"/> nicht mehr gleich; ich ware völlig,<lbr/>
+nach aller sage, <choice><orig>unerkäntlich</orig><corr hand="diff" schr_id="57010">unerke<abbr type="topline" expand="nn">n</abbr>tlich</corr></choice>. Ich <choice><orig>ware</orig><corr hand="diff" schr_id="57010">war</corr></choice><lbr type="BD"/><lbr/>
+gänzlich entkräftet, und der Magen war<lbr/>
+ganz verdorben; und da der <rend class="latin">Medicus</rend><lbr type="BD"/> den<lbr/>
+25.<h>t<abbr v="en"/></h>&#160;<choice><orig>kamm</orig><corr hand="diff" schr_id="57010">kam</corr></choice>, so war er etwas verlegen, und<lbr/>
+<pg n="7"/>
+sagte: ich wäre kein <rend class="latin">Subiectum</rend><suppl hand="diff" schr_id="57010" pos="inline">,</suppl><lbr type="BD"/> viele <rend class="latin">Me<pc force="weak">=</pc><lbr/>dicament</rend>en zu nehmen, ich sollte nun essen,<lbr/>
+und durch speisen nach<lbr type="BD"/> und nach <choice><orig>Sechen</orig><corr hand="diff" schr_id="57010">sehen</corr></choice> zu<lbr/>
+Kräften zu kommen; und so verlies er<lbr/>
+mich: Allein der<lbr type="BD"/> alte ehrliche <rend class="latin">Giordani</rend>,<lbr/>
+der Zeit meiner Kranckheit alle Tage 2.<lbr/>
+mahl <choice><orig>kamm</orig><corr hand="diff" schr_id="57010">kam</corr></choice><lbr type="BD"/> mich zu besuchen, ließ mich<lbr/>
+aufstehen, im Zimmer hin und her führen;<lbr/>
+einige<lbr type="BD"/> Zeit in einem Lehnsessl sitzend mei<pc force="weak">=</pc><lbr/>ne Suppe essen: und da ich essen<lbr type="BD"/> sollte,<lbr/>
+ohne <choice><orig>das</orig><corr hand="diff" schr_id="57010">daß</corr></choice> man <suppl hand="diff" schr_id="57010" pos="inline">dem</suppl> Magen zu hilfe gekommen,<lbr/>
+der so schwach und<lbr type="BD"/> elend <corr hand="diff" schr_id="57010" value="war">ware</corr>, daß ich nicht<lbr/>
+einmahl im Stand war mein Händlbiegel zu<lbr/>
+essen,<lbr type="BD"/> so brachte mir ein Freund, Namens<lbr/>
+<rend class="latin">Sipruntini</rend>, der ein gebohrener Jude ist<lbr type="BD"/> ein<abbr v="en"/><lbr/>
+<rend class="latin">Medicum</rend> seinen Vetter, der ein <choice><orig><rend class="latin">Portugä</rend><pc force="weak">=</pc><lbr/>sischer</orig><corr hand="diff" schr_id="57010"><rend class="latin">Portugie</rend>sischer</corr></choice> Jude war, und dieser <corr hand="diff" schr_id="57010" value="kam">kamm</corr><lbr type="BD"/> durch<lbr/>
+ein <choice><orig><rend class="latin">Rhebar:</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">Rhabarb:</rend></corr></choice> Pulver<suppl hand="diff" schr_id="57010" pos="inline">,</suppl> dazu er magenstär<pc force="weak">=</pc><lbr/>kende Sachen gemischet, und das<lbr type="BD"/> mir eine<lbr/>
+gelinde <rend class="latin">Evacuation</rend> gemacht, und durch<lbr/>
+einen gewissen Tranck, davon<lbr type="BD"/> ich 4. Täge<lbr/>
+alle Tag eine kleine <rend class="latin">Coffeé</rend> Schalle voll 3.<lbr/>
+mahl nehmen muste, und<lbr type="BD"/> ich ieden Tag<lbr/>
+<pg n="8"/>
+frisch <choice><orig>bekamm</orig><corr hand="diff" schr_id="57010">bekam</corr></choice>, meinen Magen wieder in so<lbr/>
+guten Stand, daß ich<lbr type="BD"/> nicht nur nach und<lbr/>
+nach mehr <rend class="latin">Appetit</rend> bekam, <choice><orig>sonderen</orig><corr hand="diff" schr_id="57010">sondern</corr></choice>, da<lbr/>
+ich in <rend class="latin">chelsea</rend><lbr type="BD"/> einige <choice><orig>Täge</orig><corr hand="diff" schr_id="57010">Tage</corr></choice>&#160;<choice><orig>ware</orig><corr hand="diff" schr_id="57010">war</corr></choice>, bald<lbr/>
+einen ordentlichen Hunger <choice><orig>spierte</orig><corr hand="diff" schr_id="57010">spürte</corr></choice>. So<lbr/>
+bald es recht<lbr type="BD"/> schön Wetter machte, muste<lbr/>
+ich mich in einem <choice><orig>Sessl</orig><corr hand="diff" schr_id="57010">Sessel</corr></choice> in den <rend class="latin">S:<h>t</h></rend>&#160;<choice><orig><rend class="latin">Jams</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">James</rend></corr></choice><lbr/>
+<rend class="latin">Park</rend><lbr type="BD"/> tragen lassen, und das geschahe den<lbr/>
+29.<h>t<abbr v="en"/></h>&#160;<rend class="latin">Julij</rend>; da muste ich an einen schönen<lbr type="BD"/><lbr/>
+Platz unter die Bäume gestellt werden,<lbr/>
+wo ich dann wie ein <choice><orig>Vogl</orig><corr hand="diff" schr_id="57010">Vogel</corr></choice> nach <choice><orig>den</orig><corr hand="diff" schr_id="57010">der</corr></choice><lbr type="BD"/> frischen<lbr/>
+Luft schnappte. Vom 29.<h>t<abbr v="en"/></h>&#160;<rend class="latin">Julij</rend> bis 4.<h>t<abbr v="en"/></h><lbr/>
+<rend class="latin">aug<abbr type="curve">:</abbr></rend> war abscheuliches<lbr type="BD"/> Regenwetter. Un<pc force="weak">=</pc><lbr/>ter dieser Zeit nahm ich des besagten <choice><orig><rend class="latin">He<pc force="weak">=</pc><lbr/>brai</rend>schen</orig><corr hand="diff" schr_id="57010"><rend class="latin">Hebräi</rend>schen</corr></choice>&#160;<rend class="latin">Medici</rend>&#160;<rend class="latin">ordini</rend>rte <rend class="latin">Medici</rend>nen. den<lbr/>
+5.<h>t<abbr v="en"/></h>&#160;<rend class="latin">aug<abbr type="curve">:</abbr></rend> ließ ich mich nach <rend class="latin">chelsea</rend> tragen<lbr/>
+um ein<lbr type="BD"/> Haus zu miethen, und den 6:<h>ten</h><lbr/>
+trug man mich hinaus solches zu bewohnen.<lbr type="BD"/><lbr/>
+<u>Nun wissen sie alles.</u> Noch eins! ich<lbr/>
+empfand in meinen gliederen nach dem<lbr type="BD"/> ich<lbr/>
+vom <choice><orig>Bethe</orig><corr hand="diff" schr_id="57010">Bette</corr></choice> Aufstand, ein gewisses anspan<pc force="weak">=</pc><lbr/>nen; so daß ich die hand und<lbr type="BD"/> Finger kaum<lbr/>
+<conv><ts>__________________________________</ts>ausspannen,</conv>
+<pg n="9"/>
+ausspannen, und keine Bewegung der Ner<pc force="weak">=</pc><lbr/>ven ohne schmerzen<lbr type="BD"/> machen konnte. Ich<lbr/>
+zeigte natürlicher Weise dem Jüdischen<lbr/>
+<rend class="latin">Medico</rend> die <rend class="latin">Recep</rend><lbr type="BD"/>ten der gebrauchten<lbr/>
+<rend class="latin">Medicament</rend>en; Er sagte gegen mich<lbr/>
+kein Wort dawieder:<lbr type="BD"/> Allein nach der<lbr/>
+Hand im weggehen <choice><orig>schmäehte</orig><corr hand="diff" schr_id="57010">schmähte</corr></choice> er wieder den<lbr/>
+<rend class="latin">Medicum</rend>, <choice><orig>dene</orig><corr hand="diff" schr_id="57010">den</corr></choice> er<lbr type="BD"/> nicht kennet, und sagte,<lbr/>
+daß er durch das 2.mahl mir gegebene<lbr/>
+<choice><orig><rend class="latin">oppium</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">opium</rend></corr></choice> die<lbr type="BD"/> Nerven angriffen habe.<lbr/>
+Der obbemelte <rend class="latin">Sipruntini</rend> ist ein grosser<lbr/>
+<rend class="latin">Virtuos</rend> auf<lbr type="BD"/> dem <rend class="latin">Violoncello</rend>, er ist eines<lbr/>
+Holländischen Juden Sohn. Er fand den<lbr/>
+Jüdischen<lbr type="BD"/> Glauben und ihre <choice><orig><rend class="latin">Cermoni</rend>en</orig><corr hand="diff" schr_id="57010"><rend class="latin">Ceremoni</rend>en</corr></choice> und<lbr/>
+<choice><orig>Gebothe</orig><corr hand="diff" schr_id="57010">Gebote</corr></choice>, nachdem er <rend class="latin">Itali</rend>en und <rend class="latin">Spani</rend>en<lbr type="BD"/><lbr/>
+durchgereiset<suppl hand="diff" schr_id="57010" pos="inline">,</suppl> lächerlich: er hat solchen glau<pc force="weak">=</pc><lbr/>ben demnach verlassen; doch weis<lbr type="BD"/> ich<lbr/>
+noch nicht, ob er sich tauffen lassen, und<lbr/>
+da ich nächstens von Glaubens<lbr type="BD"/>sachen mit<lbr/>
+ihm sprach, so fand ich aus allen seinen Re<pc force="weak">=</pc><lbr/>den, daß er sich der<lbr type="BD"/>mahlen begnüget<suppl hand="diff" schr_id="57010" pos="inline">,</suppl>&#160;<u>Einen<lbr/>
+Gott</u> zu glauben, <u>diesen</u> beförderst, dann<lbr/>
+seinen<lbr type="BD"/>&#160;<u>Nebenmenschen</u> wie sich selbst zu lieben,<lbr/>
+<pg n="10"/>
+und als ein ehrlicher Mann zu <choice><orig>leeben</orig><corr hand="diff" schr_id="57010">leben</corr></choice>.<lbr type="BD"/><lbr/>
+Ich gab mir Mühe ihm Begriffe von un<pc force="weak">=</pc><lbr/>serm Glauben be&#255;zubringen, und ich<lbr type="BD"/><lbr/>
+brachte es so weit, daß er nun mit mir<lbr/>
+eins ist, daß unter allen christlichen<lbr type="BD"/> Glau<pc force="weak">=</pc><lbr/>ben, der Catholische der beste ist. Ich wer<pc force="weak">=</pc><lbr/>de mit nächsten wieder eine<lbr type="BD"/>&#160;<rend class="latin">Attaque</rend> ma<pc force="weak">=</pc><lbr/>chen: dan man muß ganz gelinde dar<pc force="weak">=</pc><lbr/>ein gehen. Gedult! Vielleicht<lbr type="BD"/> werde ich<lbr/>
+noch <rend class="latin">Missionarius</rend> in Engelland. Ich bitte<lbr/>
+sie, haben sie die <choice><orig>Gütte</orig><corr hand="diff" schr_id="57010">Güte</corr></choice><lbr type="BD"/> und bitten sie<lbr/>
+einen Herrn <rend class="latin">Medicum</rend>, daß er mir fol<pc force="weak">=</pc><lbr/>gende <rend class="latin">recept</rend>en auf ein<lbr type="BD"/> klein <choice><orig>Blätchen</orig><corr hand="diff" schr_id="57010">Blättchen</corr></choice> Pa<pc force="weak">=</pc><lbr/>pier in Worte ausschreibe; nämlich die<lbr/>
+<rend class="latin">Composition</rend>, denn<lbr type="BD"/> hier solche unbekannt,<lbr/>
+und man weis von keinem <rend class="latin">Dispensat: Vien:</rend><lbr/>
+noch von<lbr type="BD"/> der <rend class="latin">Augustana</rend> etwas. <u>Es muß<lbr/>
+auch alles ausgeschrieben se&#255;n, <choice><orig><amend value="denn">die denn</amend></orig><corr hand="diff" schr_id="57010">denn</corr></choice> sie<lbr/>
+ver<lbr type="BD"/>stehen keine <rend class="latin">Signa chymica</rend>, weil die<lbr/>
+hiesigen Hh<abbr type="curve">:</abbr>&#160;<rend class="latin">Medici</rend> alles ausschreiben.</u><lbr type="BD"/><lbr/>
+Nämlich die folgenden bitte ausschreiben zu<lbr/>
+lassen.<lbr type="forced"/>
+<pg n="11"/>
+<table rules="all" rows="3" cols="3">
+<tr><td><div type="recipe" xml:id="recipeBD92_5"><rend class="latin"><g ref="prescr.take">&#8478;</g>: Cons: fl: farfar:</rend>&#160;<g ref="ounce.sign">&#8485;</g>ij<lbr type="forced"/>
+<g ref="alchem.powder">&#128843;</g>&#160;<rend class="latin">Haly rec:</rend>&#160;<g ref="alchem.drachm">&#658;</g>j.<lbr type="forced"/>
+<g ref="alchem.oil">&#128838;</g>&#160;<rend class="latin">amygd: dulc:</rend>&#160;<g ref="alchem.halfounce">&#128883;</g>.<lbr type="forced"/>
+<rend class="latin">Syr: d: liquirit</rend>&#160;<g ref="alchem.halfounce">&#128883;</g>.
+<note corresp="#recipeBD92_5" type="expansion" xml:lang="la">Recipe: Conserva florum Farfarae uncias duas<lbr/>
+Pulvis Haly drachmam unam<lbr/>
+Oleum amygdali dulcis unciam semis<lbr/>
+Syrupi dulcis liquiritiae unciam semis.</note>
+<note corresp="#recipeBD92_5" type="translation" xml:lang="de">Nimm: Getrocknete Huflattichblüten 2 Unzen<lbr/>
+Halysches Pulver 1 Drachme<lbr/>
+süßes Mandelöl 1/2 Unze<lbr/>
+Süßholzsirup 1/2 Unze</note><lbr/></div></td>
+<td colspan="2"><div type="recipe" xml:id="recipeBD92_6"><ts>___</ts><rend class="latin"><g ref="prescr.take">&#8478;</g>. Spec: decocti</rend><lbr type="forced"/>
+<ts>___</ts><rend class="latin">pectoral:</rend>&#160;<g ref="alchem.halfounce">&#128883;</g>.<lbr type="forced"/>
+<ts>___</ts><rend class="latin">fl: papav: rh:<lbr type="forced"/>
+<ts>___</ts>bellid: <abbr type="tilde" expand="ana">aa</abbr></rend> m<g ref="semis.sign">&#223;</g>.
+<note corresp="#recipeBD92_6" type="expansion" xml:lang="la">Recipe. Speciei decocti pectorali unciam semis<lbr/>
+florum papaveris rhoeados bellidis ana partes manipulum semis.</note>
+<note corresp="#recipeBD92_6" type="translation" xml:lang="de">Nimm. Ein Dekokt aus Kräutern für Brusttee 1/2 Unze<lbr/>
+Blütenblätter von Klatschrosenmohn und Gänseblümchen von jedem 1/2 Handvoll</note></div><lbr type="BD"/></td></tr>
+<tr><td><div type="recipe" xml:id="recipeBD92_7"><rend class="latin"><g ref="prescr.take">&#8478;</g></rend>. <g ref="alchem.water">&#128772;</g>&#160;<rend class="latin">Laxat: Vien:</rend>&#160;<g ref="ounce.sign">&#8485;</g>ij<lbr type="forced"/>
+<rend class="latin">Ma<abbr type="topline" expand="nn">n</abbr>: elect:</rend>&#160;<g ref="ounce.sign">&#8485;</g>i<g ref="semis.sign">&#223;</g>.<lbr type="forced"/>
+<g ref="alchem.earth">&#128771;</g>&#160;<rend class="latin">fol:</rend>&#160;<g ref="alchem.tartar">&#128831;</g>:<h>ri</h>&#160;<g ref="scruple.sign">&#8456;</g>ij.<lbr type="forced"/>
+<g ref="alchem.water">&#128772;</g>: <rend class="latin">Physagon</rend>&#160;<g ref="alchem.drachm">&#658;</g>j.
+<note corresp="#recipeBD92_7" type="expansion" xml:lang="la">Recipe: Aqua Laxativa Viennensis uncias duas<lbr/>
+Manna electa unciam unam semis<lbr/>
+Terra foliata Tartari scrupulos duos<lbr/>
+Aqua Physagona drachmam unam.</note>
+<note corresp="#recipeBD92_7" type="translation" xml:lang="de">Nimm: Wiener Laxierwasser 2 Unzen<lbr/>
+ausgewählte Manna 1 1/2 Unzen<lbr/>
+Kalium-Salz-Wasser 2 Scrupel<lbr/>
+Blähungen treibendes Wasser 1 Drachme</note></div></td>
+<td colspan="2"><div type="recipe" xml:id="recipeBD92_8"><rend class="latin"><ts>___</ts><g ref="prescr.take">&#8478;</g>. Aqu: Lax. Vien:<lbr type="forced"/>
+<ts>___</ts>Syrup: Rosat: Sol:</rend><lbr type="forced"/>
+<ts>___</ts><rend class="latin"><abbr type="tilde" expand="ana">aa</abbr></rend>&#160;<g ref="ounce.sign">&#8485;</g>.
+<note corresp="#recipeBD92_8" type="expansion" xml:lang="la">Recipe. Aqua Laxativa Viennensis<lbr/>
+Syrupus Rosatus Solitivus<lbr/>
+ana partes unciam unam.</note>
+<note corresp="#recipeBD92_8" type="translation" xml:lang="de">Nimm. Wiener Laxierwasser<lbr/>
+Rosensirup<lbr/>
+je eine 1 Unze.</note></div><lbr type="BD"/></td></tr>
+<tr><td><div type="recipe" xml:id="recipeBD92_9"><rend class="latin"><g ref="prescr.take">&#8478;</g></rend>. <g ref="alchem.water">&#128772;</g>&#160;<rend class="latin">papav:<lbr type="forced"/>
+Scabios: <abbr type="tilde" expand="ana">aa</abbr></rend>&#160;<g ref="ounce.sign">&#8485;</g>ij.<lbr type="forced"/>
+<g ref="alchem.powder">&#128843;</g>&#160;<rend class="latin">adtuss: inf:</rend>&#160;<g ref="alchem.drachm">&#658;</g>j<lbr type="forced"/>
+<g ref="alchem.antimony">&#128813;</g><rend class="latin">n&#255;: diaphor:</rend> <ts>__</ts><lbr type="forced"/>
+<g ref="caps.sign">Φ</g>:<h>tri</h> papav: <abbr type="tilde" expand="ana">aa</abbr> gr: XV. <lbr type="forced"/>
+<rend class="latin">Syr: Liquirit:</rend>&#160;<g ref="alchem.drachm">&#658;</g>ij.
+<note corresp="#recipeBD92_9" type="expansion" xml:lang="la">Recipe. Aqua papaveris<lbr/>
+Aqua Scabiosae: ana partes uncias duas<lbr/>
+Pulvis ad tussim infantum: drachmam unam<lbr/>
+Antimonium diaphoreticum<lbr/>
+Capita[?] trita papaveris: ana partes grana quindecim<lbr/>
+Syropus de Liquiritia: drachmas duas.</note>
+<note corresp="#recipeBD92_9" type="translation" xml:lang="de">Nimm. Mohnkapselwasser<lbr/>
+Skabiosenwasser je 2 Unzen<lbr/>
+Hustenpulver für Kinder 1 Drachme<lbr/>
+Schweißtreibender Spießglanz<lbr/>
+zerriebene Mohnkapseln je 15 Gran<lbr/>
+Süßholzsirup 2 Drachmen</note></div></td>
+<td><u><rend class="latin">NB</rend></u> von diesem<lbr/>
+habe schon die<lbr/>
+<rend class="latin">composition</rend> ge<pc force="weak">=</pc><lbr/>schriebner</td>
+<td><postxt loc="rm" rot="270"><ts>___</ts>hier weis man nicht<lbr type="forced"/>
+<ts>___</ts>was die <u><rend class="latin">Spec: decocti</rend></u><lbr type="forced"/>
+<ts>___</ts><rend class="latin">pect:</rend> noch was die<lbr type="forced"/>
+<ts>___</ts><u><rend class="latin">aqu: Lax: Vienn:</rend></u> ist.</postxt></td></tr>
+</table>
+<lbr type="forced"/>
+<u>Meine Frau bittet um ein Laxier<pc force="weak">=</pc><lbr/>Tranckl-<rend class="latin">Recept</rend> für sie; dann sie hat<lbr/>
+niemals<lbr type="BD"/> etwas <choice><orig>genohmen</orig><corr hand="diff" schr_id="57010">genommen</corr></choice>, und sie hat es<lbr/>
+höchst nothwendig.</u><lbr type="forced"/>
+Allein es muß alles ausgeschrieben wer<pc force="weak">=</pc><lbr/>den; denn ausser dem Gewicht Zeichen<lbr type="BD"/> ver<pc force="weak">=</pc><lbr/>stehen die hiesigen <choice><orig><rend class="latin">Apoteckers</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">Apotheker</rend></corr></choice> nichts. die<lbr/>
+ersten 4. <choice><orig><rend class="latin">Recept</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">Recepte</rend></corr></choice> so oben ge<lbr type="BD"/>schrieben habe,<lbr/>
+<pg n="12"/>
+sind meine Haus <choice><orig><rend class="latin">Recept</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">Recepte</rend></corr></choice>, theils zum Laxie<pc force="weak">=</pc><lbr/>ren, theils für<lbr type="BD"/> Husten und Brust Catharr.<lbr/>
+das letzte kleine ist für den Wolfgang<abbr type="curve">:</abbr><lbr/>
+Wenn<lbr type="BD"/> wir könnten das <rend class="latin">Recept</rend> vom<lbr/>
+<u><rend class="latin">Digestiv</rend>-Pulver</u> mit und ohne <choice><orig><rend class="latin">Rhebar:</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">Rhabarb:</rend></corr></choice><lbr/>
+be<lbr type="BD"/>kommen, so wäre es uns sehr lieb. Sie<lbr/>
+werden es selbst leicht einsehen, daß<lbr type="BD"/> uns<lbr/>
+dergleichen schon gewöhnliche <rend class="latin">Medicin</rend>en<lbr/>
+im falle nothwendig sind: denn<lbr type="BD"/> die hie<pc force="weak">=</pc><lbr/>sigen H<abbr type="curve">:</abbr> Hh<abbr type="curve">:</abbr>&#160;<rend class="latin">Medici tracti</rend>ren ihre<lbr/>
+<rend class="latin">patient</rend>en auf <choice><orig>ihr</orig><corr hand="diff" schr_id="57010">ihre</corr></choice> Art, wenn sie<lbr type="BD"/> gleich<lbr/>
+andere Teutsche vor sich haben, die von<lbr/>
+<choice><orig>ander</orig><corr hand="diff" schr_id="57010">anderer</corr></choice> Natur und <rend class="latin">teperamént</rend><lbr type="BD"/> sind.<lbr/>
+und wer wird be&#255; iedem kleinen Anfalle<lbr/>
+gleich zum <rend class="latin">Doctor</rend> lauffen? &#8211; &#8211;<lbr type="BD"/> die<lbr/>
+ganze Lebensart der Engelländer ist von<lbr/>
+der unsern, wie der Tag von der<lbr type="BD"/> Nacht,<lbr/>
+unterschieden. der gemeine Burger, die<lbr/>
+alle <u><rend class="latin">NB:</rend></u> vermögliche Leute<lbr type="BD"/> sind, und<lbr/>
+wo sie eine <choice><orig>Schneiders</orig><corr hand="diff" schr_id="57010">Schneider-</corr></choice> und SchusterFrau<lbr/>
+von keiner <rend class="latin">Mylady</rend> unter<lbr type="BD"/>scheiden, aus<pc force="weak">=</pc><lbr/>genommen, daß die erstere gemeiniglich<lbr/>
+noch schöner gekleidet<lbr type="BD"/> ist, als die letzte,<lbr/>
+<conv><ts>___________________________________________________________</ts>die</conv>
+<pg n="13"/>
+die wenn keine besondere Ursache ist, wenig<lbr/>
+Staat macht;<lbr type="BD"/> der <choice><orig>Burger</orig><corr hand="diff" schr_id="57010">Bürger</corr></choice>, sage ich, hat<lbr/>
+folgende Ordnung. Morgens trinckt<lbr/>
+er, seine ganze<lbr type="BD"/>&#160;<rend class="latin">Familie</rend>, so gar die<lbr/>
+Magd <rend class="latin">Theé</rend>, der über alle maassen stark<lbr/>
+und recht von der<lbr type="BD"/> Menge der Kräuter<lbr/>
+bitter ist; darein <choice><orig>schitten</orig><corr hand="diff" schr_id="57010">schütten</corr></choice> sie allzeit ein<lbr/>
+klein wenig Milch<lbr type="BD"/> oder Rahm und essen<lbr/>
+eine <choice><orig><rend class="latin">Mänge</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">Menge</rend></corr></choice>&#160;<choice><orig>butter Brod</orig><corr hand="diff" schr_id="57010">butter-Brod</corr></choice> dazu, welches<lbr/>
+auf <choice><orig>dinnen</orig><corr hand="diff" schr_id="57010">dünnen</corr></choice> Brod<lbr type="BD"/>schnitten schon auch <choice><orig>dinne</orig><corr hand="diff" schr_id="57010">dünne</corr></choice><lbr/>
+<choice><orig>aufgestrichener</orig><corr hand="diff" schr_id="57010">aufgestrichen</corr></choice> hergetragen wird. Ge<pc force="weak">=</pc><lbr/>meiniglich<lbr type="BD"/> werden auch einige <choice><orig>Butterbrod</orig><corr hand="diff" schr_id="57010">Butterbrod-</corr></choice><lbr/>
+schnitten vorgesetzt, die <choice><orig>sammt</orig><corr hand="diff" schr_id="57010">samt</corr></choice> dem dar<pc force="weak">=</pc><lbr/>auf gestrichenen Butter be&#255; der Glut<lbr/>
+gebähet sind. Der Herr vom Hauße<lbr/>
+lässt sich<lbr type="BD"/> dann gemeiniglich ein paar <choice><orig>Stunde</orig><corr hand="diff" schr_id="57010">Stunden</corr></choice><lbr/>
+hernach einen guten <rend class="latin">Pot Porter</rend> oder<lbr type="BD"/>&#160;<choice><orig><rend class="latin">Stroong-</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">Strong-</rend></corr></choice><lbr/>
+<rend class="latin">beer</rend> schmecken, welches das Starke Bier<lbr/>
+ist. Es giebt dre&#255;erle&#255; Bier<lbr type="BD"/>&#160;<u><rend class="latin">Porter</rend><lbr/>
+oder <rend class="latin">Strong-beer</rend></u>; so das starcke Bier<lbr/>
+ist: <u><rend class="latin">Ale</rend>;</u> so das leichte Bier heist:<lbr type="BD"/> und<lbr/>
+<u><rend class="latin">Purl</rend>,</u> nämlich Wermuth Bier. Um<lbr/>
+2. Uhr ist die Mittags Tafel; diese<lbr/>
+<pg n="14"/>
+be<lbr type="BD"/>stehet, oder in einem grossen <choice><orig>Schäffernen</orig><corr hand="diff" schr_id="57010">Schöpsenen</corr></choice><lbr/>
+Schlägel der <choice><orig>gebratten</orig><corr hand="diff" schr_id="57010">gebraten</corr></choice> ist, oder<lbr type="BD"/> in einem<lbr/>
+<u><choice><orig><rend class="latin"><amend value="Roasted">Boasted</amend></rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">Roasted</rend></corr></choice>&#160;<rend class="latin">Beef</rend>,</u> das ist <choice><orig>dem</orig><corr hand="diff" schr_id="57010">der</corr></choice> englischen Rinds<pc force="weak">=</pc><lbr/>bratten, der unter dem<lbr type="BD"/> Na<abbr type="topline" expand="mm">m</abbr>en <rend class="latin">Rost<lbr/>
+Biff</rend> in Teutschland bekannt ist; weil es<lbr/>
+nach der englischen Aus<lbr type="BD"/>sprache fast so lau<pc force="weak">=</pc><lbr/>tet. dazu haben sie gesottne <u>Erdäpfel,</u><lbr/>
+oder <u>Bohnen,</u> die<lbr type="BD"/> werden nichts <choice><orig>zugericht</orig><corr hand="diff" schr_id="57010">zugerichtet</corr></choice>,<lbr/>
+sonderen in einem besondern kleinen Ge<pc force="weak">=</pc><lbr/>schirre wird<lbr type="BD"/>&#160;<choice><orig>zerlassner heisser</orig><corr hand="diff" schr_id="57010">zerlassne heisse</corr></choice> Butter hin<pc force="weak">=</pc><lbr/>gestellt, davon ieder auf die herausge<pc force="weak">=</pc><lbr/>nommenen<lbr type="BD"/> ErdÄpfel oder Bohnen nach<lbr/>
+belieben <choice><orig>schittet</orig><corr hand="diff" schr_id="57010">schüttet</corr></choice>. Oder sie haben statt<lbr/>
+dieser<lbr type="BD"/> zuspeisse für eine <rend class="latin">delicatesse</rend> zu<lbr/>
+Zeiten <u><rend class="latin">Plumb-pudding</rend></u>, das ist in Teig<lbr/>
+ein<lbr type="BD"/>geschlagne Rosinen, oder auch rechte<lbr/>
+Äpfel. so eine Art <choice><orig>eines Torten</orig><corr hand="diff" schr_id="57010">einer Torte</corr></choice> vorstel<pc force="weak">=</pc><lbr/>len<lbr type="BD"/> soll; aber in der that elend und schlecht<lbr/>
+gemacht ist. Dieses lässt man gleich<lbr type="BD"/><lbr/>
+be&#255;m Pastetten Bäcker <choice><orig>hollen</orig><corr hand="diff" schr_id="57010">holen</corr></choice>, und isset<lbr/>
+es kalt. Sie essen auch <choice><orig>Zwibel</orig><corr hand="diff" schr_id="57010">Zwiebeln</corr></choice>, wie<lbr type="BD"/><lbr/>
+die Panduren. Gleichwie sie auch<lbr/>
+nicht nur die warme, sondern die gestockte<lbr type="BD"/><lbr/>
+<pg n="15"/>
+<choice><orig>Fette</orig><corr hand="diff" schr_id="57010">Fette</corr></choice> mit <rend class="latin">gusto</rend> hineinfressen. Die Kinder<lbr/>
+und die Magd trinken <u>leichtes Bier</u>,<lbr type="BD"/> und<lbr/>
+haben die Fre&#255;heit nach belieben zu dem<lbr/>
+<choice><orig>vässl</orig><corr hand="diff" schr_id="57010">Fässel</corr></choice> zu gehen den ganzen Tag<lbr type="BD"/> hindurch;<lbr/>
+denn hier trinckt niemand Wasser, Herr<lbr/>
+und Frau trincken Starck<lbr type="BD"/>bier. Um<lbr/>
+5. Uhr herum, wird abermahl mit dem<lbr/>
+nämlichen Umständen, wie<lbr type="BD"/> in der Fruhe<lbr/>
+<rend class="latin">Theé</rend> getruncken. Nachts gegen 8. oder<lbr/>
+9. Uhr wird der mittägige<lbr type="BD"/>&#160;<choice><orig>schäfferne</orig><corr hand="diff" schr_id="57010">schöpsene</corr></choice> Schlägl<lbr/>
+oder <rend class="latin">Roasted-Beef</rend> wieder aufgesetzt.<lbr/>
+Nun ist zu wissen noth<lbr type="BD"/>wendig, daß der<lbr/>
+Schlägl oder <choice><orig>Rindsbrathen</orig><corr hand="diff" schr_id="57010">Rindsbraten</corr></choice> am <choice><orig>Sontage</orig><corr hand="diff" schr_id="57010">So<abbr type="topline" expand="nn">n</abbr>tage</corr></choice><lbr/>
+warm auf den Tisch<lbr type="BD"/> kommt. Hernach wird<lbr/>
+immer die ganze Woche für iede Person<lbr/>
+nur ein klein<lbr type="BD"/>&#160;<choice><orig>schnittzgen</orig><corr hand="diff" schr_id="57010">schnittzchen</corr></choice> abgeschnitten, so<lbr/>
+lange es dauert, und Abends nehmen<lbr/>
+sie Speck<lbr type="BD"/> oder Käß oder Butter<suppl hand="diff" schr_id="57010" pos="inline">,</suppl> streichen<lbr/>
+es auf Brod und bächen oder rösten<lbr/>
+es. Mit einem<lbr type="BD"/> Worte sie essen wie<lbr/>
+die Panduren. Leute nun, die kost<pc force="weak">=</pc><lbr/>bahrer leben, deren es<lbr type="BD"/> genug giebt, hal<pc force="weak">=</pc><lbr/>ten was den <rend class="latin">Theé</rend> morgens und abends<lbr/>
+anbelanget die näm<lbr type="BD"/>liche Ordnung, nur das<lbr/>
+<pg n="16"/>
+auch <rend class="latin">Coffée</rend> und <rend class="latin">choccolate</rend>, mit Zimmet ge<pc force="weak">=</pc><lbr/>sottene<lbr type="BD"/> Weine, <rend class="latin">Rosolie</rend>, gefrornes <abbr expand="etc">p</abbr> und<lbr/>
+anderes gewis kostbares aufgesetzt wird.<lbr type="BD"/><lbr/>
+Diese Speisen um 4. Uhr auch um 5. Uhr<lbr/>
+zu Mittag, be&#255; iedem <choice><orig>Dellerwechseln</orig><corr hand="diff" schr_id="57010">Tellerwechseln</corr></choice><lbr type="BD"/> wer<pc force="weak">=</pc><lbr/>den auch Messer <choice><orig>Gabel</orig><corr hand="diff" schr_id="57010">Gabeln</corr></choice> und <choice><orig>Löffl</orig><corr hand="diff" schr_id="57010">Löffel</corr></choice> mit hin<pc force="weak">=</pc><lbr/>ausgegeben. Da wird man<lbr type="BD"/> |: wie in<lbr/>
+Teutschland :| <rend class="latin">tracti</rend>rt. Nachdem Tisch wird<lbr/>
+das <choice><orig>Tischtuche</orig><corr hand="diff" schr_id="57010">Tischtuch</corr></choice> abgenommen, und die kost<pc force="weak">=</pc><lbr/>bahren Früchte bleiben da; da wird<lbr/>
+ieder Person ein klein<lbr type="BD"/> Gläsl hingestellt,<lbr/>
+und in die Mitte werden viele <rend class="latin">Boutteli</rend>en<lbr/>
+mit Rheinwein,<lbr type="BD"/> Spanischenwein <abbr expand="etc">p</abbr> und anderen<lbr/>
+Weinen nebst <choice><orig><rend class="latin">Syder</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">Cyder</rend></corr></choice> gesetzet, davon man<lbr type="BD"/><lbr/>
+nach belieben selbst einschencken mag: denn<lbr/>
+es wird immer eine <rend class="latin">Boutel:</rend> nach<lbr type="BD"/> der an<pc force="weak">=</pc><lbr/>deren von einer Person zur anderen auf<lbr/>
+dem Tische herum geschoben;<lbr type="BD"/> so, daß ich<lbr/>
+mir einschencken oder die <rend class="latin">Boutel:</rend> weiterschie<pc force="weak">=</pc><lbr/>ben kann. <rend class="latin">Cyder</rend> ist<lbr type="BD"/> Äpfelwein oder<lbr/>
+Most. es sieht aus wie ein weisser <w lemma="T&#255;roller=wein"><choice><orig>T&#255;roller=</orig><corr hand="diff" schr_id="57010">T&#255;roler=</corr></choice><lbr/>
+wein</w>, und ist sehr<lbr type="BD"/> gut zu trincken, hat Geist,<lbr/>
+ist etwas weniges <choice><orig>säuerlicht</orig><corr hand="diff" schr_id="57010">säuerlich</corr></choice>, folglich sehr<lbr/>
+<conv><ts>_________________________________________</ts>angenehm,</conv>
+<pg n="17"/>
+angenehm,<lbr type="BD"/> und klar wie Gold; man<lbr/>
+sagt, er se&#255;e nicht ungesund. Wenn<lbr/>
+man auf<lbr type="BD"/>gestanden, kommt <rend class="latin">Coffée</rend>. Es<lbr/>
+wird auch <rend class="latin">Punch</rend> angetragen. Obwohl<lbr/>
+<rend class="latin">Punch</rend><lbr type="BD"/> mehrentheils um ein paar Stunde<lbr/>
+später, dabe&#255; auch <rend class="latin">Thee</rend> und <rend class="latin">Rosolie</rend><lbr/>
+oder<lbr type="BD"/>&#160;<rend class="latin">Liqueurs</rend> aufgetragen werden.<lbr/>
+dann ist spiel, spazierfart und Musick.<lbr/>
+Und die<lbr type="BD"/>&#160;<rend class="latin">Noblesse</rend>&#160;<rend class="latin">Soupi</rend>rt vor Mitternacht<lbr/>
+auch vor 1 und 2. Uhr nach Mitternacht<lbr type="BD"/> nicht.<lbr/>
+um 12. Uhr Mittags stehen sie auf. <rend class="latin">Opera</rend>,<lbr/>
+<rend class="latin">Concert</rend>en und <rend class="latin">Comoedi</rend>en<lbr type="BD"/> fangen vor 7 <formula type="mfrac"><mn>1</mn><mi>2</mi></formula><lbr/>
+Acht Uhr Abends nicht an. <u><rend class="latin">Punch</rend>.</u> wird<lbr/>
+Punsch ausgesprochen,<lbr type="BD"/> und ist ein <choice><orig>getranck</orig><corr hand="diff" schr_id="57010">getränck</corr></choice><lbr/>
+von Wasser, <choice><orig><rend class="latin">Rum</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">Rhum</rend></corr></choice>, Zucker und <rend class="latin">Limonien</rend><lbr/>
+gesotten. Wird<lbr type="BD"/> warm oder kalt getrun<pc force="weak">=</pc><lbr/>cken nach belieben. <choice><orig><rend class="latin">Rum</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">Rhum</rend></corr></choice> ist ein Art<lbr/>
+eines <choice><orig>Brandwein</orig><corr hand="diff" schr_id="57010">Brandweins</corr></choice>,<lbr type="BD"/> so aus einer Frucht in<lbr/>
+Westindien gebrannt wird und ein <rend class="latin">Specifi<pc force="weak">=</pc><lbr/>cum</rend> für den<lbr type="BD"/> Magen ist. <rend class="latin">Punch</rend> und<lbr/>
+eine Pfeife Toback ist <choice><orig>der englischen</orig><corr hand="diff" schr_id="57010">das englische</corr></choice>&#160;<rend class="latin">Ele<pc force="weak">=</pc><lbr/>ment</rend>. <suppl hand="diff" schr_id="57010" pos="inline">&#8211;</suppl> Der<lbr type="BD"/> Platz ist zu klein; die <choice><orig><rend class="latin">com<pc force="weak">=</pc><lbr/>pliments</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">complimente</rend></corr></choice> bilden sie sich ein: und ich bin<lbr/>
+der Alte.<lbr type="forced"/>
+<pg n="18"/>
+<rend class="latin">P: S:</rend> Darff ich bitten be&#255; Gelegenheit<lbr/>
+dem H<abbr type="curve">:</abbr>&#160;<abbr type="topline" expand="von">v</abbr>&#160;<rend class="latin">Kleynmayr</rend> nebst unsrer<lbr type="BD"/> al<pc force="weak">=</pc><lbr/>ler Empfehlung zu sagen, daß ich ihme<lbr/>
+zu der vorgenohmenen Standes<lbr type="BD"/>veränderung<lbr/>
+<rend class="latin">Million</rend> Seegen und Glück <choice><orig>winsche</orig><corr hand="diff" schr_id="57010">wunsche</corr></choice>? &#8211; &#8211; <lbr/>
+Gegenwärtiger Einschluss<lbr type="BD"/> ist ein <rend class="latin">Condolenz</rend><pc force="strong">-</pc><lbr/>Schreiben an H<abbr type="curve">:</abbr>&#160;<rend class="latin">Weiser</rend>. Meine Frau<lbr/>
+und Kinder empfehlen<lbr type="BD"/> sich. Meine Frau<lbr/>
+hatte ietzt viel zu thun zeit meiner Un<pc force="weak">=</pc><lbr/>bässlichkeit und viele<lbr type="BD"/> Sorgen, wie leicht<lbr/>
+sich einzubilden, und in <rend class="latin">Chelsea</rend> haben<lbr/>
+wir uns zwar<lbr type="BD"/> Anfangs von <rend class="latin">Traiteur</rend> das<lbr/>
+Essen bringen lassen: da es aber schlecht<lbr/>
+ware,<lbr type="BD"/> hat meine Frau selbst zu kochen<lbr/>
+angefangen, und wir befinden uns so<lbr/>
+gut<lbr type="BD"/> dabe&#255;, daß wir in der Statt, dahin<lbr/>
+wir kommende Woche zurückkehren<lbr type="BD"/> werden,<lbr/>
+auch selbst unsere Hauswirtschaft fortfüh<pc force="weak">=</pc><lbr/>ren werden. Vielleicht wird<lbr type="BD"/> meine Frau<lbr/>
+wieder fetter, denn dermahl ist sie ma<pc force="weak">=</pc><lbr/>ger geworden. Sie läst ihnen<lbr type="BD"/> sagen,<lbr/>
+daß sie noch weiter nichts englisch verstehet,<lbr/>
+als den Nachtwächter,<lbr type="BD"/> wenn er, zum<lbr/>
+<pg n="19"/>
+Exempl, ausruft, <u><rend class="latin">past ten a</rend>&#160;<choice><orig><rend class="latin">clok</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">clock</rend></corr></choice>,</u> es hat<lbr/>
+10. Uhr geschlagen,<lbr type="BD"/> oder eigentlich nach dem<lbr/>
+Englischen: <u>es ist <rend class="latin">passi</rend>rt 10. Uhr.</u> Allein<lbr/>
+sie saget es nur aus demuth: sie weis<lbr/>
+auch <rend class="latin">Good Morrow, Sir</rend>; <u>guten Morgen<lbr/>
+Herr</u>,<lbr type="BD"/> und <rend class="latin">How do ye do Sir</rend>, <u>wie befindet<lbr/>
+sich der Herr?</u> zu sagen; nicht weniger<lbr type="BD"/><lbr/>
+kan sie anworten: <choice><orig><rend class="latin">Verywell</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">Very well</rend></corr></choice>; <rend class="latin">at your<lbr/>
+Service</rend>, <u>sehr wohl zu ihnen diensten.</u><lbr type="BD"/> und<lbr/>
+wenn sie mit einer englischen Magd deutsch,<lbr/>
+und jene mit ihr englisch<lbr type="BD"/> spricht, da stelle<lbr/>
+ich mir alzeit das Gebäude des <rend class="latin">Babylo<pc force="weak">=</pc><lbr/>ni</rend>schen Thurms vor.<lbr type="BD"/> An Ende lachen be&#255;de<lbr/>
+zusammen, und <choice><orig>Spillen</orig><corr hand="diff" schr_id="57010">Spielen</corr></choice> eine <rend class="latin">Pantomima</rend>.<lbr type="forced"/>
+<lbr type="forced"/>
+Be&#255; H<abbr type="curve">:</abbr> Johannes bedancken wir uns we<pc force="weak">=</pc><lbr/>gen der vielen Bemühung. Wir lesen<lbr type="BD"/><lbr/>
+seine Zeitungen mit Begierde und Auf<pc force="weak">=</pc><lbr/>mercksamkeit.<lbr type="forced"/>
+<lbr type="forced"/>
+<pg n="20"/>
+<ts>____________</ts><u>Etwas für Sie allein.</u><lbr type="forced"/>
+<lbr type="forced"/>
+Was macht S<h>e</h> Hochf: Gnaden mit den 2 Madlen<lbr/>
+die von <rend class="latin">Venedig</rend> geko<abbr type="topline" expand="mm">m</abbr>en<lbr type="BD"/> sind? hat er ihnen schon<lbr/>
+eine besoldung ausgeworfen? &#8211; &#8211; Was macht denn<lbr type="BD"/><lbr/>
+die Fr: v: Robin&#255; ich höre nichts von ihr, wird die Frl: Josepha<lbr/>
+den <rend class="latin">doctor<lbr type="BD"/> Antoine Agliardi</rend> nicht he&#255;rath<abbr v="en"/>? hat der graf<lbr/>
+<rend class="latin">auersperg</rend> das bistum<lbr type="BD"/>&#160;<rend class="latin">Lavant</rend> zu behalt<abbr v="en"/> sich entschloss<abbr v="en"/>?<lbr/>
+ist der <rend class="latin">mr: Kalka<abbr type="topline" expand="mm">m</abbr>er</rend> be&#255; seiner<lbr type="BD"/> besoldung in <rend class="latin">passau</rend><lbr/>
+verblieb<abbr v="en"/> oder <rend class="latin">reduci</rend>ert word<abbr v="en"/>? dies sind Sachen<lbr type="BD"/> die ich<lbr/>
+in meinem schreiben nicht habe fragen woll<abbr v="en"/>; die<lbr/>
+Sie mir aber, ohne<lbr type="BD"/> dero ungelegenheit durch den hr:<lbr/>
+Johannes könn<abbr v="en"/> beantwort<abbr v="en"/> lassen. Daß<lbr type="BD"/> ich übrigens<lbr/>
+den ganzen Winter, wenigsten ganz gewiß hier ver<pc force="weak">=</pc><lbr/>bleibe, und<lbr type="BD"/> dieß meine Haubtärnten von einigen<lbr/>
+1000 fl:, wen gott will, se&#255;n muß, werd<abbr v="en"/><lbr type="BD"/> sie selbst vorgestellt<lbr/>
+hab<abbr v="en"/>. Ich bin nun da, wohin sich keiner von Salzburger<lbr type="BD"/> Hof<lbr/>
+noch zu wagen getraut hat, und wohin vielleicht keiner<lbr/>
+in zukunft gehen<lbr type="BD"/> wird. <u><rend class="latin">Aut Cæsar, aut nihil</rend></u> der weite weeg<lbr/>
+ist gemacht wenn ich einmahl<lbr type="BD"/> aus Engeland bin, sehe ich<lbr/>
+kein<abbr v="en"/>&#160;<rend class="latin">guinees</rend> mehr: Mann muß von der gelegen<lbr type="BD"/>heit <rend class="latin">profiti</rend>r<abbr v="en"/>.<lbr/>
+wenn uns der gütige Gott nur die gesundheit schenket;<lbr/>
+so<lbr type="BD"/> därf<abbr v="en"/> wir uns um die <rend class="latin">guineès</rend> nicht sorg<abbr v="en"/>. Es ist mir<lbr/>
+leid genug, das ich<lbr type="BD"/> itzt von demjenig<abbr v="en"/> zöhr<abbr v="en"/> muß, was<lbr/>
+ich hätte ersparen könn<abbr v="en"/>. doch wie<lbr type="BD"/> gott will: wir sind<lbr/>
+in Salzburg wie in <rend class="latin">London</rend> in seinen Händen. Er weis<lbr type="BD"/> meine<lbr/>
+gute absicht<abbr v="en"/>. Nun ko<abbr type="topline" expand="mm">m</abbr>en ein paar Monate wo ich<lbr/>
+genug zu thun<lbr type="BD"/> habe, um die <rend class="latin">Noblesse</rend> recht auf meine<lbr/>
+Seite zu bring<abbr v="en"/>. das kostet vieles<lbr type="BD"/> herum <choice><orig><rend class="latin">Callopi</rend>r<abbr v="en"/></orig><corr hand="diff" schr_id="57010"><rend class="latin">Gallopi</rend>r<abbr v="en"/></corr></choice> und bemühung.<lbr/>
+sollte ich aber meine absicht, die ich mir<lbr type="BD"/> ausgedacht erreich<abbr v="en"/>, so werde<lbr/>
+ich ein<abbr v="en"/> rechtschaffn<abbr v="en"/> fisch oder vielmehr<lbr type="BD"/>&#160;<choice><orig><rend class="latin">gineès</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">guineès</rend></corr></choice> fang mach<abbr v="en"/>.<lbr type="forced"/>
+<lbr type="forced"/>
+Wir empfehl<abbr v="en"/> uns der Jungfer Hausmeisterin, und wir dank<abbr v="en"/> für ihre gute<lbr type="BD"/><lbr/>
+aufsicht, und zweifl<abbr v="en"/> nicht, daß sie unsre better zu zeit<abbr v="en"/> hat an die<lbr/>
+Sonne<lbr type="BD"/> bring<abbr v="en"/> lass<abbr v="en"/>. wir werd<abbr v="en"/> nicht ermangeln ihr etwas von<lbr/>
+&#160;<additum>[... (ca. 3 Worte Textverlust)]</additum><lbr type="BD"/> mitzubring<abbr v="en"/>.<lbr type="forced"/>
+</NI>
+</letter>
+</text>
+</MUP>

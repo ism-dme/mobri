@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2020">2020-02</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=670</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Verbleib unbekannt (Vorlage: Abschrift um 1768 in D-B)</bibl>
+            <bibl type="source" subtype="RISM">Verbleib unbekannt, Vorlage: Abschrift um 1768 in D-B</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:36:46 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_111.mup">
+<letter bd="111">
+<NI src="unbekannt">
+<HEADER id="670">LEOPOLD MOZART AN LORENZ HAGENAUER IN SALZBURG<lbr/>
+LYON, 16. AUGUST 1766</HEADER>
+<pg n="1"/>
+<add_num schr_id="57010" impl="crayon" color="red"><ts>______________________</ts>38</add_num>
+<ts>_________________________________</ts><tspdf>\hfill </tspdf><rend class="latin">Lyon</rend> 16. <rend class="latin">Aôut</rend>&#160;<u>1766.</u><lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____</ts><rend class="latin">Monsieur</rend>!<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____</ts>Erschröcken sie nicht, daß ich ihnen<lbr/>
+aus <rend class="latin">Lyon</rend> schreibe: Be&#255; dem Empfang<lbr type="BD"/><lbr/>
+dieses wissen wir, mit der Hilfe Gottes,<lbr/>
+schon lange wie <rend class="latin">Geneve</rend> und die<lbr type="BD"/>&#160;<rend class="latin">genever</rend><pc force="strong">=</pc><lbr/>Sackuhren aussehen; denn in 2. oder<lbr/>
+3. Tägen gehen wir von hier<lbr type="BD"/> dahin ab.<lbr/>
+Wir sind von <rend class="latin">Paris</rend> nach <choice><orig><rend class="latin">Dyon</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">Dijon</rend></corr></choice> in <rend class="latin">Burgund</rend><lbr/>
+gegangen, wo wir<lbr type="BD"/> 14. Täge waren.<lbr type="forced"/>
+Es geschache solches wegen dem Prinzen von<lbr/>
+<choice><orig><rend class="latin">Condè</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">Condé</rend></corr></choice>, der uns dahin <rend class="latin">engagie</rend>rt<lbr type="BD"/> wegen<lbr/>
+der Versammlung der Staaten von <rend class="latin">Bur<pc force="weak">=</pc><lbr/>gund</rend>, welches alle 3. Jahre nur<lbr type="BD"/> geschiehet.<lbr/>
+Ich wollte ihnen noch vor unserer Abreise<lbr/>
+aus Paris schreiben:<lbr type="BD"/> allein es war um<pc force="weak">=</pc><lbr/>möglich; wenn es vor einer Reise auf<lbr/>
+die letzte hingehet, dann<lbr type="BD"/> giebt es all<pc force="weak">=</pc><lbr/>zeit am meisten zu thun. Haben Sie die 2.<lbr/>
+<rend class="latin">Coffre</rend>, und den mit<lbr type="BD"/> wax-<amend value="duch">durch</amend><lbr/>
+<pg n="2"/>
+überzogenen Verschlag, den ich den <rend class="latin">Ban<pc force="weak">=</pc><lbr/>quiers Popelier</rend> und <rend class="latin">Eberts</rend><lbr type="BD"/> in <rend class="latin">Paris</rend> behän<pc force="weak">=</pc><lbr/>diget, empfangen? ist es noch nicht in ihren<lbr/>
+Händen, so muß<lbr type="BD"/> es bald anlangen, denn<lbr/>
+ich habe es den 9.<h>t<abbr v="en"/></h>&#160;<rend class="latin">Julij</rend> um 5. Uhr abends<lbr/>
+übergeben,<lbr type="BD"/> und gegen 8. Uhr haben wir<lbr/>
+mit 6. Postpferd <rend class="latin">Paris</rend> verlassen. Ich<lbr/>
+habe nicht<lbr type="BD"/> unterlassen ihre und der ihrigen<lbr/>
+Gesundheit aus einem &#8211; &#8211; &#8211; nein, aus<lbr/>
+mehr<lbr type="BD"/> Gläsern <rend class="latin">Burgunder</rend> zu drincken;<lbr/>
+denn sie wissen, daß ich ein grimmiger<lbr type="BD"/><lbr/>
+Sauffer bin. Ô wie oft wünschte ich den<pc force="weak">=</pc><lbr/>ienigen Wein, den man uns zum<lbr type="BD"/> über<pc force="weak">=</pc><lbr/>fluße antrug, nach Salzburg in den Kel<pc force="weak">=</pc><lbr/>ler eines guten Freundes wünschen<lbr type="BD"/> zu kön<pc force="weak">=</pc><lbr/>nen. Auf das wenigste habe ich nun<lbr/>
+den Brunnen selbst in Augenschein<lbr type="BD"/> ge<pc force="weak">=</pc><lbr/>nommen, woraus man den guten <rend class="latin">Bur<pc force="weak">=</pc><lbr/>gunder</rend> Wein schöpfet, und kommt<lbr type="BD"/> uns ein<lbr/>
+Lust an einen zu drincken, so kostet es<lbr/>
+nichts, als einen kleinen Brief,<lbr type="BD"/> so ist er da!<lbr/>
+<pg n="3"/>
+Ich hätte fast lust ein Vässel so 240. <rend class="latin">Bou<pc force="weak">=</pc><lbr/>tellien</rend> hält zu bestellen.<lbr type="BD"/> Und wenn<lbr/>
+sie <rend class="latin">Lyoner</rend>-waaren wollen; so weis ich<lbr/>
+nun auch, wo man sich hin<lbr type="BD"/>wenden muß;<lbr/>
+ich habe mir diese 3. Wochen Bekannt<pc force="weak">=</pc><lbr/>schaft und Freunde genug<lbr type="BD"/> gemacht. Mei<pc force="weak">=</pc><lbr/>ner Frau, meiner Tochter und dem<lbr/>
+Meister <rend class="latin">Wolfgang</rend>&#160;<choice><orig>haben</orig><corr hand="diff" schr_id="57010">habe</corr></choice> neue<lbr type="BD"/> Kleider hier<lbr/>
+machen lassen, und auf mich habe ich auch<lbr/>
+nicht vergessen: die<lbr type="BD"/> Seiden waaren<lbr/>
+sind zwar dermahl etwas theuer; allein<lbr/>
+man muß doch nicht<lbr type="BD"/> umsonst in <rend class="latin">Lyon</rend><lbr/>
+gewesen se&#255;n. In <rend class="latin">geneve</rend> werden<lbr/>
+wir wohl 14. Täge wenigst<lbr type="BD"/> bleiben,<lbr/>
+dann gehen wir über <choice><orig><rend class="latin">Lusane</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">Lausane</rend></corr></choice> und <rend class="latin">Bern</rend><lbr/>
+durch die Schweitz hinaus.<lbr type="BD"/> Ob wir aber<lbr/>
+rechter Hand über <choice><orig><rend class="latin">Zürck</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">Zürch</rend></corr></choice>, oder lincker<pc force="weak">=</pc><lbr/>hand über <rend class="latin">Basel</rend> hinaus<lbr type="BD"/>gehen, weis ich<lbr/>
+nicht. Von da gehen wir geraden<lbr/>
+weg über Ulm nach <choice><orig><rend class="latin">Dischingen</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">Tischingen</rend></corr></choice> zu S:<h>r</h><lbr/>
+Durchleucht Fürst <rend class="latin">Taxis</rend>, so, wie wir es<lbr/>
+<pg n="4"/>
+mit <rend class="latin">Mr: Becke</rend>, den wir in<lbr type="BD"/>&#160;<rend class="latin">Paris</rend> ange<pc force="weak">=</pc><lbr/>troffen, abgeredet, und der auch da se&#255;n<lbr/>
+wird. Dann hoffe S:<h>e</h><lbr type="BD"/> Durchleucht den<lbr/>
+Bischoff von Augsburg, oder in Dillingen<lbr/>
+oder in Augsburg<lbr type="BD"/> anzutreffen, und nach<lbr/>
+einem kleinen <rend class="latin">Compliment</rend>, so wir S:<h>r</h><lbr/>
+Durchleucht dem<lbr type="BD"/> Churfürsten in Ba&#255;rn<lbr/>
+und Herzog <rend class="latin">Clemens</rend> machen werden,<lbr/>
+der Frau Hage<lbr type="BD"/>nauerin zu ihrem Nah<pc force="weak">=</pc><lbr/>mens Tage Glück zu wünschen. Aber<lbr/>
+alles mit der Hilfe<lbr type="BD"/> Gottes! &#8211; &#8211; Nun<lbr/>
+wissen sie; wenn wir be&#255;läufftig ein<pc force="weak">=</pc><lbr/>treffen wollen. Denn<lbr type="BD"/> was hätte es auch<lbr/>
+genützet, wenn wir um ein Monat, od<abbr v="er"/><lbr/>
+auch 2. eher zu<lbr type="BD"/> kommen von <rend class="latin">Paris</rend> nach<lbr/>
+Strassburg geloffen, und unser Geld ver<pc force="weak">=</pc><lbr/>zehret hätten,<lbr type="BD"/> ohne was einzunehmen, und<lbr/>
+dan wären wir doch zu einer Zeit in<lbr/>
+Salzburg<lbr type="BD"/>
+eingetroffen, wo seine Hochfürstl:<lbr/>
+Gnaden gemeiniglich Salzburg zu ver<pc force="weak">=</pc><lbr/>lassen,<lbr type="BD"/> und einige Reisen zu machen<lbr/>
+pflegen.<conv type="inline"><ts>_________________________________</ts>Man</conv><lbr type="forced"/>
+<pg n="5"/>
+Man hat uns sehr zugesetzt uns zu be<pc force="weak">=</pc><lbr/>reden, ietzt nach den französischen <w lemma="See=Häfen">See=<lbr/><lbr type="BD"/>
+Häfen</w>&#160;<rend class="latin">Marseille, Bourdeaux</rend>&#160;<abbr expand="etc">&#38;c</abbr>, zu<lbr/>
+reisen; und halten sie es etwa nicht<lbr/>
+für<lbr type="BD"/> einen Heldenmüthigen und gross<pc force="weak">=</pc><lbr/>müthigen Entschluß sich zu überwünden,<lbr/>
+den<lbr type="BD"/> Weeg nach <rend class="latin">Turin</rend>, der uns vor der<lbr/>
+Nase liegt, vorbe&#255; zu gehen? hätte<lbr/>
+uns nicht<lbr type="BD"/> die natürliche Laage, unsere<lbr/>
+Umstände, der allgemeine Zuruff aller<lbr/>
+Menschen,<lbr type="BD"/> und unser eigenes <rend class="latin">interesse</rend>,<lbr/>
+und ReisBegierde verführen sollen, ge<pc force="weak">=</pc><lbr/>rade der<lbr type="BD"/> Nasen nach, nach Italien zu<lbr/>
+gehen, und im frühe Jahre nach gesehe<pc force="weak">=</pc><lbr/>ner <rend class="latin">Festi<lbr type="BD"/>vitet</rend> der <rend class="latin">Ascensa</rend> in Venedig<lbr/>
+durch das <rend class="latin">Tyroll</rend> nach hause zu kehren?<lbr/>
+ist nicht<lbr type="BD"/> ietzt noch die Zeit, wo die Ju<pc force="weak">=</pc><lbr/>gend der Kinder alles in Verwunderung<lbr/>
+setzet?<lbr type="BD"/> Allein der Entschluss ist nun schon<lbr/>
+gefasst, ich habe versprochen nach Hause<lbr type="BD"/><lbr/>
+zu gehen, und ich werde auch mein Ver<pc force="weak">=</pc><lbr/>prechen halten. Ich bitte sie, lassen<lbr type="BD"/><lbr/>
+<pg n="6"/>
+sie mir <u>einen Gläserkasten machen,</u><lbr/>
+so, daß er dort Platz hat, wo sonst<lbr/>
+der<lbr type="BD"/> grosse Lehnsessl, neben dem Ofen<lbr/>
+stehet. Er darf folglich nicht gar<lbr/>
+gross se&#255;n.<lbr type="BD"/> Übrigens wird er etwa<lbr/>
+wie der ihrige. Ferner bitte an das<lbr/>
+<u>kleine <rend class="latin">Co<abbr type="topline" expand="mm">m</abbr>ot</rend><lbr type="BD"/> Kästl gute Schlösser</u> ma<pc force="weak">=</pc><lbr/>chen zu lassen, denn es ist kein Schloss<lbr/>
+daran. Wollen<lbr type="BD"/> sie mir auf gegen<pc force="weak">=</pc><lbr/>wärtiges antworten, so bitte es nur<lbr/>
+nach <rend class="latin">geneve</rend> zu <rend class="latin">addres<lbr type="BD"/>si</rend>ren, wie folgt:<lbr/>
+<u><rend class="latin">à Mr: Mozart chez Mr Huber à<lbr/>
+Geneve</rend>.</u> Meine Frau er<lbr type="BD"/>suchet sie<lbr/>
+nebst ihrer empfehlung sie möchten <u>ein<lbr/>
+Bettstatt machen lassen,</u> so,<lbr type="BD"/> wie dasie<pc force="weak">=</pc><lbr/>nige ist, welches in <rend class="latin">Cabinet</rend> stehet. al<pc force="weak">=</pc><lbr/>lein es darf nur ganz weis<lbr type="BD"/> bleiben,<lbr/>
+weil es für mein Mädl gehöret, und<lbr/>
+wir alsdann erst Vorhäng oder<lbr type="BD"/> Ver<pc force="weak">=</pc><lbr/>kleidung werden, darüber machen las<pc force="weak">=</pc><lbr/>sen. Wenn es nur ausgedrocknet gut<lbr type="BD"/><lbr/>
+<pg n="7"/>
+Holz ist. Oder es mag auch braun an<pc force="weak">=</pc><lbr/>gestrichen se&#255;n; Es ist eins. Wir<lbr/>
+empfehlen uns ihnen, ihrem ganzem<lbr/>
+Hause, und allen <amend value="unsern">unserm</amend> guten Freun<pc force="weak">=</pc><lbr/>den. ich<lbr type="BD"/> muß schlüssen die Post gehet<lbr/>
+ab. ich bin immer der alte.<lbr type="forced"/>
+<lbr type="forced"/>
+Ich weis daß sie damit Verlieb neh<pc force="weak">=</pc><lbr/>men, daß wir an dero NahmensFest<lbr/>
+ihnen<lbr type="BD"/> in Gedancken <rend class="latin">gratuli</rend>rt haben.<lbr/>
+Es bleibt be&#255; dem alten.<lbr/>
+<pg n="8"/>
+<vacat/>
+</NI>
+</letter>
+</text>
+</MUP>

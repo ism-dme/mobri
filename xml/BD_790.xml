@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2014">2014-5</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1359</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Verbleib unbekannt</bibl>
+            <bibl type="source" subtype="RISM">Verbleib unbekannt</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:40:37 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_790.mup">
+<letter bd="790"><NI src="Unbekannt"><HEADER id="1359">WOLFGANG AMADÉ MOZART AN LEOPOLD MOZART IN SALZBURG<lbr/>
+WIEN, 15. MAI 1784<lbr/>
+Abschrift von Ferdinand Bischoff, Graz, um 1870</HEADER>
+<pg n="1"/>
+<ts>________________</ts><tshtm>_________________________________________________________</tshtm><tspdf>\hfill </tspdf><rend class="latin">Vie<abbr type="topline" expand="nn">n</abbr>e ce</rend> 15 <rend class="latin">May</rend> 1784<lbr type="forced"/>
+<ts>_______</ts><rend class="latin">Mon trés cher Pére!</rend><lbr type="forced"/>
+<ts>____</ts><tshtm>__</tshtm>Ich habe heute dem Postwagen die <rend class="latin">Sinfonie</rend> so ich in Linz dem alten<lbr/>
+graf<lbr type="BD"/> Thun gemacht habe, sa<abbr type="topline" expand="mm">m</abbr>t 4 <rend class="latin">Concerten</rend> mitgegeben; &#8211; wegen<lbr/>
+der <rend class="latin">Sinfonie</rend><lbr type="BD"/> bin ich nicht heicklich, allein die 4 <rend class="latin">Concerte</rend> bitte ich bey<lbr/>
+sich im hause<lbr type="BD"/> abschreiben zu lassen, denn es ist den kopisten in<lbr/>
+Salzburg so wenig zu<lbr type="BD"/> trauen, als den in Wie<abbr type="topline" expand="nn">n</abbr>; &#8211; ich weiß ganz<lbr/>
+zuverläßig, daß Hofstetter des<lbr type="BD"/> Haydn <rend class="latin">Musique</rend> dopelt <rend class="latin">copiert</rend> &#8211; <lbr/>
+ich habe seine neuesten 3 <rend class="latin">Sinfonien</rend>&#160;<u>wirk<lbr type="BD"/>lich</u>. &#8211; da nun diese Neue<lbr/>
+<rend class="latin">Concerte</rend> die <rend class="latin">ex B</rend> und <rend class="latin">D</rend> niemand als <u>ich</u> &#8211; die<lbr type="BD"/>&#160;<rend class="latin">ex Eb</rend> und <rend class="latin">G</rend><lbr/>
+niemand als <u>ich</u> und Frl. von Ployer |: für welche sie geschrie<pc force="weak">-</pc><lbr/>ben<lbr type="BD"/> worden :| besitzt, so könnten sie nicht anderst als durch<lbr/>
+solchen betrug in<lbr type="BD"/> andere hände kommen; &#8211; ich selbst laße alles<lbr/>
+in meinen zimmer und in<lbr type="BD"/> meiner gegenwart abschreiben; &#8211; <lbr/>
+dem Menzl habe die <rend class="latin">Musique</rend> |: nach genauer Überlegung :| nicht<lbr/>
+anvertrauen wollen; &#8211; ferners glaubte ich und glaube<lbr type="BD"/> noch, daß<lbr/>
+sie wenig gebrauch davon werden machen können, indeme bis<lbr type="BD"/><lbr/>
+auf das <rend class="latin">Concert ex Eb</rend> |: welches <rend class="latin">a quattro</rend> ohne blas<rend class="latin">instru<pc force="weak">-</pc><lbr/>menten</rend> gemacht<lbr type="BD"/> werden kann :| die übrigen 3 ganz mit blas<pc force="weak">-</pc><lbr/><rend class="latin">instrumenten obligirt</rend> sind, und sie<lbr type="BD"/> selten dergleichen <rend class="latin">Musique</rend><lbr/>
+machen. &#8211; Übrigens weiß ich nicht was sie sich<lbr type="BD"/> dachten und nicht<lbr/>
+schreiben wollten, und um alles unangenehme zu ver<lbr type="BD"/>meiden<lbr/>
+schicke ich ihnen hiemit alles Neue was ich gemacht habe. &#8211; <lbr type="forced"/>
+Nichts<lbr type="BD"/> Neues weiß ich ihnen nichts zu schreiben, ausser daß der kay<pc force="weak">-</pc><lbr/>ser heute nach<lbr type="BD"/> Pest abreisen wollte, durch ein Rothlauf am Auge<lbr/>
+aber daran verhindert<lbr type="BD"/> wurde. &#8211; Wir sind beyde Gott lob und<lbr/>
+Dank gesund, und wünschen daß es<lbr type="BD"/> bey ihnen auch alle seyn<lbr/>
+möchten; wir küssen ihnen 1000mal die hände, und<lbr type="BD"/> umar<pc force="weak">-</pc><lbr/>men unsere liebe schwester vom Herzen und sind Ewig Dero<lbr type="forced"/>
+<lbr type="forced"/>
+bitte an h<abbr type="curve">:</abbr> Menzl meine Empfehlung.<ts>__</ts><tshtm>______________</tshtm><tspdf>\hfill </tspdf>gehorsame kinder<lbr type="BD"/><lbr type="forced"/>
+&#8211; er kennt alle 4 <rend class="latin">Concerte</rend> sehr gut.<ts>___</ts><tshtm>_________________</tshtm><tspdf>\hfill </tspdf>W. u. C. Mozart <abbr expand="manu propria">mp</abbr>
+<lbr/>
+<add_prov><ts>___________________________</ts>das Original (in IV) besitzt Oberfinanzrath Fr. <rend class="latin">Sailler</rend> in <rend class="latin">Gratz</rend></add_prov>
+</NI></letter>
+</text>
+</MUP>

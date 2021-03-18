@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2012">2012-10</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=944</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:38:25 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_380.mup">
+<letter bd="380"><HEADER id="944">LEOPOLD MOZART AN WOLFGANG AMADÉ MOZART IN MANNHEIM<lbr/>
+SALZBURG, 27. NOVEMBER 1777</HEADER>
+<pg n="1"/>
+<rend class="latin">Mon trés cher Fils</rend>!<add_num type="inline"><ts>_____________________________________</ts><u>21.</u></add_num><ts>________________________________</ts><tspdf>\hfill </tspdf>Salzb<abbr type="curve">:</abbr> d<abbr v="en"/> 27 <rend class="latin">Novemb<abbr type="curve"></abbr></rend>.<lbr type="forced"/>
+<ts>____________________________</ts><tshtm>____________________________________________________________________________</tshtm><ts>___________</ts><tspdf>\hfill </tspdf><u>1777</u><lbr type="forced"/>
+<lbr type="forced"/>
+<u>Dein Schreib<abbr v="en"/> vom 20<h>t<abbr v="en"/></h></u> diess auf einem blätl Papier, <u>weil keins mehr zu<lbr type="BD"/> Hause war,</u><lbr/>
+habe dienstags den 25<h>t<abbr v="en"/></h>, also schon den 5<h>t<abbr v="en"/></h> Tag erhalt<abbr v="en"/>. Allein<lbr type="BD"/> ich fand, wie gewöhnlich,<lbr/>
+nicht ein Wort dari<abbr type="topline" expand="nn">n</abbr>e ob ihr seit dem ein<abbr v="en"/> Brief<lbr type="BD"/> von mir erhalten, indem ihr doch<lbr/>
+den vom 13<h>t<abbr v="en"/></h> solltet empfang<abbr v="en"/> haben, da<lbr type="BD"/> es vom 13<h>t<abbr v="en"/></h> bis 20<h>t<abbr v="en"/></h> Sieben Täge sind. überhaupts<lbr/>
+habe schon einmahl euch<lbr type="BD"/> gesagt, daß bishero alle Post=täge geschrieben habe: und da ihr<lbr/>
+wisst, daß hier<lbr type="BD"/> die Post nur <u>Montags</u> und <u>Do<abbr type="topline" expand="nn">n</abbr>erstags</u> gehen. so könnt ihr sicher wissen<lbr/>
+ob<lbr type="BD"/> ihr alle Briefe erhalt<abbr v="en"/> habt, und es ist ja doch keine Mühe mit zwe&#255; oder<lbr type="BD"/> 3<lbr/>
+Wort<abbr v="en"/> gleich anfangs zu sag<abbr v="en"/>: dein Schreib<abbr v="en"/> von &#8211; &#8211; &#8211; habe erhalten.<lbr type="BD"/> Eben so wenig<lbr/>
+finde ich <u>nur ein Wort,</u> wohin euere Reise gehen wird, oder<lbr type="BD"/> was ihr sonst zu<lbr/>
+unternehm<abbr v="en"/> gedenket: ich mag von einem Brief zum andern<lbr type="BD"/> mir Hofnung<lbr/>
+machen, wie ich will; i<abbr type="topline" expand="mm">m</abbr>er &#8211; <u>Nichts</u> &#8211; nicht ein <u>Wort!</u> &#8211; die<lbr type="BD"/> Absicht der Reise,<lbr/>
+und zwar die nothwendige Absicht, war, ist, und muß se&#255;n<lbr type="BD"/><lbr/>
+<add_note schr_id="57010">einen Dienst<ts>_____________________________</ts>Geld zu erwerben</add_note>
+<u><encr expand="einen Dienst">lfnln Dflnot</encr></u> zu beko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/> oder <encr expand="Geld zu erwerben">Gled zh lrwlrbln</encr>. Bis itzt hat es weder<lbr/>
+zu dem einen, noch zu dem andern einiges ansehen; es wäre de<abbr type="topline" expand="nn">n</abbr>, daß es<lbr type="BD"/><lbr/>
+nur für mich ein Geheimniß seyn müsste. Von München hast du mir recht<lbr type="BD"/><lbr/>
+umständlich von allem Nachricht gegeben: da wuste ich nun wie die Sach<abbr v="en"/><lbr type="BD"/> stand<abbr v="en"/>;<lbr/>
+und weis bis itzt noch mich darnach zu richt<abbr v="en"/>, und auch auszudenken, was man,<lbr/>
+we<abbr type="topline" expand="nn">n</abbr> man wollte, für Maasregeln nehm<abbr v="en"/> könnte, um etwas<lbr type="BD"/> durchzusetz<abbr v="en"/>.<lbr type="forced"/>
+Von Augsp<abbr type="curve">:</abbr> hast du auch alles berichtet &#8211; nur dich aller Ort<abbr v="en"/> zu lange<lbr/>
+<add_note schr_id="57010"><ts>________________________________________________________________________________</ts>zu deinem Ruhm in<ts>____</ts>den Zeitungen</add_note>
+aufgehalt<abbr v="en"/> &#8211; wenigst laß man doch etwas <u><encr expand="zu deinem Ruhm in den zeitungen">zh dlflnlm Rhum fn dln zlfthngln</encr></u>.<lbr/>
+dort erwartete ich schon, auf meine gemachte Vorschläge, die Reise<lbr type="BD"/> betreffend, eine<lbr/>
+Antwort, wohin ihr reisen werdet, und warum dieses, &#8211;<lbr type="BD"/> und nicht jenes &#8211; &#8211; <lbr/>
+<add_note schr_id="57010"><ts>_________________________________________________________________________________________________</ts>goldene Uhr<ts>_________</ts>und</add_note>
+allein, &#8211; kein Wort! &#8211; &#8211; und itzt ko<abbr type="topline" expand="mm">m</abbr>t in Manheim<lbr type="BD"/> eine <u><encr expand="goldene uhr">gsedlnl hur</encr></u>, <encr expand="und">hnd</encr><lbr/>
+<add_note schr_id="57010"><ts>___</ts>kein Geld<ts>_________________________________</ts>Dreck</add_note>
+<encr expand="kein Geld">klfn Gled</encr>; &#8211; da sitz<abbr v="en"/> wir schon im <u><encr expand="Dreck">Drlck</encr></u>: und<lbr type="BD"/> de<abbr type="topline" expand="nn">n</abbr>och nicht eine Sylbe, wie ihr<lbr/>
+eure künftige Reise anstell<abbr v="en"/> wollt. &#8211; Ich<lbr type="BD"/> denke mir schier das Hirn aus dem<lbr/>
+Kopf &#8211; und schreibe mir die Augen blind; Ich<lbr type="BD"/> möchte für alles voraus sorgen:<lbr/>
+und ihr seht alles als eine Kleinigkeit an, seyd<lbr type="BD"/> gleichgültig, bindet mir<lbr/>
+die Hände euch zu rath<abbr v="en"/> und zu helfen, da ihr mir<lbr type="BD"/> nicht ein Wort sagt,<lbr/>
+wohin ihr nun reisen werdet. Ich will euch den klaren<lbr type="BD"/> Beweis einer un<pc force="weak">=</pc><lbr/>vergeblichen Unbeso<abbr type="topline" expand="nn">n</abbr>enheit machen. Da du mir nicht ein<lbr type="BD"/> Wort sagst, daß<lbr/>
+<add_note schr_id="57010">du in<ts>____</ts>Mannheim zu<ts>___</ts>bleiben<ts>__</ts>lust<ts>______________________________________________</ts>bei dem Kurfürsten</add_note>
+<u><encr expand="du in manheim zu bleiben lust">dh fn amnulfa zh belfbln ehot</encr></u> hättest, od<abbr v="er"/> daß du dessweg<abbr v="en"/>&#160;<u><encr expand="beym Churfiersten">blya Cuhriflrotln</encr></u><lbr/>
+<add_note schr_id="57010"><ts>___</ts>einige Meldung</add_note>
+<u><encr expand="einige meldung">lfnfgl Mledhng</encr></u> oder sonst ein<abbr v="en"/> Schritt gethan:<lbr type="BD"/> ist auf nichts, als auf eine<lbr/>
+fernere Reise zu gedenk<abbr v="en"/>. du wirst also,<lbr type="BD"/> wie ich schon in mein<abbr v="en"/> vorigen Briefen<lbr/>
+Meldung gethan habe, gedenken<lbr type="BD"/> nach Paris zu gehen. &#8211; du magst<lbr/>
+nun ein<abbr v="en"/> Weeg einschlagen, was du für<lbr type="BD"/> ein<abbr v="en"/> willst, so kannst du <u>wed<abbr v="er"/> wissen</u><lbr/>
+noch <u>gewis hoffen</u>, so viel Geld<lbr type="BD"/> unter weegs zu verdien<abbr v="en"/>, als zu dieser<lbr/>
+kostbaren Reise nötig ist. Ist euch<lbr type="BD"/> be&#255;den de<abbr type="topline" expand="nn">n</abbr> also der Gedanke niemals<lbr/>
+eingeko<abbr type="topline" expand="mm">m</abbr>en, daß man auf einem<lbr type="BD"/> Platz dieses weiten Weeges für ein<abbr v="en"/><lbr/>
+<add_note schr_id="57010"><ts>_______________________________________________________________</ts>Ihr seid izt erst in Mannheim</add_note>
+<rend class="latin">Credit</rend> auf allen fall sorgen muß? <encr expand="ihr seid izt erst in manheim">fur slfd fzt lrot fn amnulfa</encr>,<lbr/>
+und ihr seyd schon in dem fahl. We<abbr type="topline" expand="nn">n</abbr> ihr über<lbr type="BD"/> Maynz hinaus seyd, so könnt ihr<lbr/>
+aus Frankfort nichts mehr bezieh<abbr v="en"/>: nehmet<lbr type="BD"/> ihr nun itzt Geld in Manheim, so<lbr/>
+werdet ihr ja, mit Gottes Hilfe, in Frankfort, wo ohnehin nichts zu thun ist,<lbr/>
+nichts nehmen därffen. folglich ka<abbr type="topline" expand="nn">n</abbr><lbr type="BD"/> man hoff<abbr v="en"/>, daß ihr in Maynz,<lbr/>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="2"/>
+<rend class="latin">Coblenz</rend> und <rend class="latin">Bon</rend> be&#255; diesen 3 Churfürst<abbr v="en"/> so<lbr type="BD"/> viel machen werdet um nach <rend class="latin">Brüssl</rend> zu<lbr/>
+ko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>. Wir sind damals von <u><rend class="latin">Bon</rend></u><lbr type="BD"/> nach <u>Cöln,</u> von <u>Cölln</u> über <u>Jüllich</u> nach <u>Achen,</u><lbr/>
+von <u>Achen</u> nach <u>Lüttich</u> gegang<abbr v="en"/>: da<abbr type="topline" expand="nn">n</abbr> von Lüttich über <u><rend class="latin">Tirlemont</rend></u> nach <u><rend class="latin">Brüssl</rend>.</u><lbr type="forced"/>
+<u>Achen</u> und <u>Lüttich</u> sind theure Platze, wo im Winter in <u>Achen</u> gar niemand ist.<lbr type="BD"/><lbr/>
+den geradest<abbr v="en"/> Weeg finde in der LandCarthe, <u>wo die weege alle angemerkt<lbr type="BD"/> sind</u><lbr/>
+von <u>Cölln</u> gerade zu nach <u>Mastrich</u> so höchstens <u>14 deutsche</u> Meile betragen wird.<lbr/>
+von <u>Mastrich</u> gehet d<abbr v="er"/> weeg über <u><rend class="latin">Tongers</rend></u> (od<abbr v="er"/> <u>Tongern</u> auf<lbr type="BD"/> deutsch) &#8211; <u>St. <rend class="latin">Trou &#8211; Tirlemont</rend></u> -<pc force="weak">-</pc><lbr/>und <u><rend class="latin">Löwen</rend></u> schnurgerad nach <u><rend class="latin">Brüssl</rend>.</u> &#8211;<lbr type="BD"/> Es sind von <u>Mastrich</u><lbr/>
+nach <rend class="latin">Brüssl</rend> nicht mehr als <u>14 deutsche Meile.</u> folglich<lbr type="BD"/> von <u>Cölln</u> bis <u><rend class="latin">Brüssl</rend></u><lbr/>
+28 deutsche Meile. Es ist also um 3 Meile weiter von<lbr type="BD"/>&#160;<u>Cölln</u> nach <u><rend class="latin">Brüssl</rend>,</u> als von<lbr/>
+<u>Salzburg</u> nach <u>Augspurg,</u> wo 25 Meil<abbr v="en"/> sind. das<lbr type="BD"/> will also nicht viel sagen. -<pc force="weak">-</pc><lbr type="forced"/>Nun, da ihr mit der Post gehet, und euch also nach belieb<abbr v="en"/> aufhalt<abbr v="en"/> kö<abbr type="topline" expand="nn">n</abbr>t;<lbr type="BD"/> so wär<abbr v="en"/><lbr/>
+<u><rend class="latin">Mastrich</rend></u> und <u><rend class="latin">Löwen</rend></u> 2 Ort, sonderlich das letzte, wo viel Volk und<lbr type="BD"/> eine grosse<lbr/>
+<rend class="latin">universitet</rend> ist, wo etwa ein <rend class="latin">Concert</rend> aufzuführen wäre. das ist so zu<lbr type="BD"/> thun:<lbr/>
+man fragt den Wirth um den <u>Capellmeister, Musikdirecktor</u> des Orts;<lbr type="BD"/> od<abbr v="er"/> da<lbr/>
+kein solcher da ist, um den <u>berühmtesten Tonkünstler.</u> Man lässt sich<lbr type="BD"/> zu ihm<lbr/>
+führen, oder nach den Umständ<abbr v="en"/> seines Ranges, ihn zu sich bitt<abbr v="en"/>, und<lbr type="BD"/> spricht<lbr/>
+mit ihm; so weis man gleich ob die kösten des <rend class="latin">Concerts</rend> gross sind, ob<lbr type="BD"/> man ein<abbr v="en"/><lbr/>
+gut<abbr v="en"/> flügl beko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/> ka<abbr type="topline" expand="nn">n</abbr> &#8211; ob man ein <rend class="latin">Orchester</rend> beko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/><lbr type="BD"/> ka<abbr type="topline" expand="nn">n</abbr>, ob Liebhaber da<lbr/>
+sind &#8211; &#8211; man wird vielleicht also gleich zu iemand<lbr type="BD"/> geführt, der aus Lieb<pc force="weak">=</pc><lbr/>habere&#255; die Sache betreibt und sich a<abbr type="topline" expand="nn">n</abbr>i<abbr type="topline" expand="mm">m</abbr>t <abbr expand="etc">p</abbr>: kurz,<lbr type="BD"/> man findet geschwind die<lbr/>
+Wahrheit, ob was zu thun ist oder nicht &#8211; und dieß<lbr type="BD"/> in Reisekleider<abbr v="en"/>, ohne etwas<lbr/>
+abzupack<abbr v="en"/>: nur ein paar schöne Ringe angesteckt <abbr expand="etc">p</abbr>: das ist alles, we<abbr type="topline" expand="nn">n</abbr><lbr/>
+man etwa be&#255;m Besuche ein<abbr v="en"/> flügl antreff<abbr v="en"/><lbr type="BD"/> sollte und spiel<abbr v="en"/> wollte. und<lbr/>
+da an solchen Orten selt<abbr v="en"/> grosse Violinspieler<lbr type="BD"/> sind, könntest du ein für das<lbr/>
+<rend class="latin">accompagement</rend> leichtes <rend class="latin">Concert</rend> spiel<abbr v="en"/>: <u>allein<lbr type="BD"/> die Violin hängt am Nagl:</u> das<lbr/>
+bilde mir schon ein. &#8211; &#8211; auf Löven hätte ich<lbr type="BD"/> einiges vertrau<abbr v="en"/>: wo wir <u><rend class="latin">NB</rend></u> be&#255;m<lbr/>
+<u>Wilden ma<abbr type="topline" expand="nn">n</abbr></u> abstieg<abbr v="en"/> und sehr gut<lbr type="BD"/> gehalt<abbr v="en"/> wurd<abbr v="en"/>: indem wir 5 Person<abbr v="en"/> über<lbr/>
+Mittag <u>nur 2 f 30 xr</u> bezahlt<abbr v="en"/>.<lbr type="BD"/> auf Mastrich habe kein vertrau<abbr v="en"/>.<lbr type="forced"/>
+Nun auf das vorige weg<abbr v="en"/> einem <rend class="latin">Credit</rend> zu ko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>; so solltet ihr ja darauf<lbr type="BD"/><lbr/>
+gedacht haben mir von der fortsetzung euerer Reise zu schreiben, da ihr klar<lbr type="BD"/><lbr/>
+sehet, daß ihr in <rend class="latin">Brüssl</rend> ein<abbr v="en"/>&#160;<rend class="latin">Credit</rend> hab<abbr v="en"/> müsst, weil man alle Fälle ohnmöglich<lbr/>
+vorseh<abbr v="en"/> ka<abbr type="topline" expand="nn">n</abbr>, und da der Weeg so erstaunlich weit ist, so könnte<lbr type="BD"/> man ja die<lbr/>
+Sache nicht so geschwind mach<abbr v="en"/>, und ihr wäret da<abbr type="topline" expand="nn">n</abbr> in Gefahr<lbr type="BD"/> 2 od<abbr v="er"/> 3 woch<abbr v="en"/> herzu<pc force="weak">=</pc><lbr/>sitz<abbr v="en"/> und das Geld ohne Nutzen zu verzehren. den<lbr type="BD"/> and<abbr v="ern"/> Weeg über <u>Trier</u><lbr/>
+und <u>Luxenburg</u>, wovon ich euch letzlich geschrieben <u>getraue euch nicht zu rath<abbr v="en"/>,</u><lbr/>
+er möchte übl ausschlag<abbr v="en"/>, und ich wüsste nicht<lbr type="BD"/> ob an einem einzig<abbr v="en"/> dieser Orte<lbr/>
+etwas zu thun wäre. da hinunter am Rhein<lbr type="BD"/> sind doch <u>3 Churfürst<abbr v="en"/></u> und <u><rend class="latin">Brüssl</rend>:</u><lbr/>
+und vielleicht auch <u>Löven.</u> Die überlegung<lbr type="BD"/> und der gesunde Vernunft wird dich über<pc force="weak">=</pc><lbr/>zeugen, daß Nachdenken, und mühesam=standhafte vorsorg nothwendig ist; daß ich nicht<lbr/>
+aus unnötiger Besorgniß, aus furchtsam melankolischer Einbildung alles dieses schreibe,<lbr/>
+sondern<lbr type="BD"/> aus der Erfahrung rede. Nun erwarte wo ihr seyd, wo ihr hingehet &#8211; um die<lbr type="BD"/><lbr/>
+fernere veranstaltung mach<abbr v="en"/> zu kö<abbr type="topline" expand="nn">n</abbr><abbr v="en"/>. Mein Liebes Weib schreibt i<abbr type="topline" expand="mm">m</abbr>er<lbr type="BD"/> sehr wenig<lbr/>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+
+<pg n="3"/>
+und da sie uns doch Nachricht giebt, wo sie zum speisen eingeladen, so wissen wir doch,<lbr/>
+daß sie gesund ist &#8211; Gott gesegne es! und erhalte<lbr type="BD"/> euch beyde gesund!<lbr type="forced"/>
+
+wir sind, Gott se&#255; dank, gesagt, auch wohlauf, und leben so gut wir könn<abbr v="en"/><lbr type="BD"/> unter uns,<lbr/>
+da die Na<abbr type="topline" expand="nn">n</abbr>erl alles besorgt, und mein Tag so hingehet, theils mit<lbr type="BD"/> mein<abbr v="en"/> viel<abbr v="en"/><lbr/>
+Kirchendiensten, mit den <rend class="latin">Scolarn</rend>, euch da<abbr type="topline" expand="nn">n</abbr> zu schreib<abbr v="en"/>, und<lbr type="BD"/> abends mit<lbr/>
+der Na<abbr type="topline" expand="nn">n</abbr>erl von halbe 6 uhr bis halbe 9 uhr längstens be&#255;m<lbr type="BD"/>&#160;<rend class="latin">Clavier</rend> zu sitz<abbr v="en"/>.<lbr/>
+alles empfehlt sich &#8211; h<abbr type="curve">:</abbr>&#160;<rend class="latin">Bullinger</rend>, h<abbr type="curve">:</abbr> Göth, die eb<abbr v="en"/> be&#255;<lbr type="BD"/> mir sind. Jgf<abbr type="curve">:</abbr> Sallerl &#8211; <lbr/>
+Mitzerl; Hagenaurisch<abbr v="en"/>, Andretterisch<abbr v="en"/>, <rend class="latin">Gilowsky</rend><lbr type="BD"/> Cath<abbr type="curve">:</abbr> die fr. Mossha<abbr type="topline" expand="mm">m</abbr>erin<lbr/>
+das ist <rend class="latin">Controlor</rend>mariandl <abbr expand="etc">p</abbr><abbr expand="etc">p</abbr>: die nicht ein<lbr type="BD"/> mahl wuste, daß du weg=gereiset warest.<lbr/>
+wir Küssen euch millionmahl und<lbr type="BD"/> bin ewig der alte Ma<abbr type="topline" expand="nn">n</abbr> <abbr expand="und">u</abbr> Vatter<lbr type="forced"/>
+<ts>____________________________</ts><tshtm>______________________________________________________________________</tshtm><ts>________</ts><tspdf>\hfill </tspdf>Mzt <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+
+h<abbr type="curve">:</abbr>&#160;<rend class="latin">P: <u>Guethrath vice Rector</u></rend> ward abermahl vom Schlag gerührt und starb.<lbr type="forced"/>
+den 3<h>t<abbr v="en"/></h> od<abbr v="er"/> 4<h>t<abbr v="en"/></h>&#160;<rend class="latin">December</rend> wird die <u><rend class="latin">Copia</rend></u> deines <rend class="latin">Portraits</rend>, das unvergleichlich getroff<abbr v="en"/> word<abbr v="en"/>,<lbr/>
+mit dem h<abbr type="curve">:</abbr>&#160;<rend class="latin">Triendl</rend> nach Botzen, und von da nach<lbr type="BD"/>&#160;<rend class="latin">Bologna</rend> abreisen. dein Portrait<lbr/>
+ist schon in einer schwarz<abbr v="en"/> Rahme mit gut<lbr type="BD"/> vergolter Leiste aufgemacht.<lbr type="forced"/>
+<lbr type="forced"/>
+<lbr/>
+auf der Scheibe des letzt<abbr v="en"/> Schüss<abbr v="en"/>, war der Ritzen Bog<abbr v="en"/>, die <rend class="latin">Gilows</rend>kische<lbr type="BD"/><lbr/>
+Barbierstube und die Catherl schaute zum fenster heraus, ein langer Mensch<lbr type="BD"/><lbr/>
+macht ein Compliment hinauf, ein and<abbr v="er"/>er kleiner schlieft ihm unter dem<lbr type="BD"/> Arm<lbr/>
+durch und macht auch seine Verbeugung hinauf, aus dem Munde<lbr type="BD"/> des einen<lbr/>
+geh<abbr v="en"/> die Worte: <u>Dero gehorsa<abbr type="topline" expand="mm">m</abbr>ster diener mein Engl!</u> der and<abbr v="er"/>e<lbr type="BD"/> sagt: <u>unterthänig<pc force="weak">=</pc><lbr/>ster diener mein Schatz!</u> alles sehr gut gemacht. Ich<lbr type="BD"/> schrieb dazu:
+<lbr type="forced"/>
+<ts>_____</ts>Das Kätchen schaut zum fenster 'naus, da giebts viel Complimenten<lbr type="BD"/><lbr type="forced"/>
+<ts>_____</ts>Von Ca<abbr type="topline" expand="mm">m</abbr>erdienern, Truchseß, Räth, und wärns auch Studenten.<lbr type="forced"/>
+<ts>_____</ts>Am Dienstag ist das Nahmens Fest; da wird sich mancher streichen,<lbr type="BD"/><lbr type="forced"/>
+<ts>_____</ts>der kleine schlüpft gschwind unten durch, und wird das ziel erreich<abbr v="en"/>.
+<lbr type="forced"/>
+<tspdf>\newpage</tspdf> 
+Man erwartet alle Täge schlechte <rend class="latin">Co<abbr type="topline" expand="mm">m</abbr>oediant<abbr v="en"/></rend> aus einer Wienerischen<lbr type="BD"/> Vorstatt, dem<lbr/>
+Principal ward schon diesen So<abbr type="topline" expand="mm">m</abbr>er die Erlaubniß abgeschlag<abbr v="en"/>, <u>indem er zu schlecht<lbr/>
+wäre,</u> da nun aber <u>Wahr</u> und <u>Schopf</u> abgeschrieb<abbr v="en"/>,<lbr type="BD"/> so hat man diese selbst<lbr/>
+ansuch<abbr v="en"/> müss<abbr v="en"/>, die man ehemals nicht gewollt, und<lbr type="BD"/> obwohl man sie für zu schlecht<lbr/>
+hielt, itzt mit harter Mühe beko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>.<lbr type="forced"/>
+Gestern Nachts um 8 uhr kam ein <rend class="latin">Cancell</rend>ist von der Wienerisch<abbr v="en"/> Kriegskanzle&#255; zu<lbr/>
+uns, um uns vom h<abbr type="curve">:</abbr>&#160;<u>von Prean</u> ein <rend class="latin">Compt</rend>: abzuleg<abbr v="en"/>, er ist heut<lbr type="BD"/> wied<abbr v="er"/><lbr/>
+in d<abbr v="er"/> frühe mit dem Postwag<abbr v="en"/> nach Insprugg dem Ort seiner<lbr type="BD"/> besti<abbr type="topline" expand="mm">m</abbr>ung fort.<lbr/>
+Prean hat nun 1500 f gehalt und ist <u>wirkl: <rend class="latin">Registrator</rend>.</u><lbr type="BD"/> h<abbr type="curve">:</abbr>&#160;<rend class="latin">Grill</rend> hat 1000 f<lbr/>
+und ist <u>unter <rend class="latin">Registrator</rend>.</u><lbr/>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="4"/>
+
+<anschrift rot="270"><rend class="latin">A Monsieur<lbr type="forced"/>
+Monsieur Wolfgang Amadé<lbr type="forced"/>
+<u>Mozart</u> Maître de Musique<lbr type="forced"/>
+<ts>_____________</ts><tshtm>___________</tshtm>à</rend><lbr type="forced"/>
+im Pfälzischen<ts>_______</ts><u><rend class="latin">Manheim</rend></u><lbr type="forced"/>
+Hofe<lbr type="forced"/>
+<add_note>Frcoaug<abbr type="curve"></abbr></add_note></anschrift>
+<lbr/>
+<add_num rot="90"><rend class="latin">N:</rend><h>o</h> 21.</add_num>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+</letter></text>
+</MUP>

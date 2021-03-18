@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2014">2014-5</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1351</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">D-KA</bibl>
+            <bibl type="source" subtype="RISM">D-KA (Badische Landesbibliothek</bibl>
+            <bibl type="source" subtype="RISM">Musikabteilung)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:40:34 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_782.mup">
+<letter bd="782"><NI src="D-KA"><HEADER id="1351">LEOPOLD MOZART AN SEBASTIAN WINTER IN DONAUESCHINGEN<lbr/>
+SALZBURG, 3. APRIL 1784</HEADER>
+<pg n="1"/>
+<ts>________</ts><tshtm>___________________________________________________________________</tshtm><tspdf>\hfill </tspdf>Salzb<abbr type="curve">.</abbr> d<abbr v="en"/> 3<h>t<abbr v="en"/></h> April 1784<lbr type="forced"/>
+<lbr type="forced"/>
+Liebster h<abbr type="curve">:</abbr> Winter.<lbr type="forced"/>
+<lbr type="forced"/>
+Schreibe in E&#255;le und schicke die 4 <rend class="latin">Concert</rend><abbr v="en"/>, die, wie geschrieb<abbr v="en"/> habe, die<lbr type="BD"/><lbr/>
+letzt<abbr v="en"/> sind <rend class="latin"><abbr type="tilde">pr</abbr></rend>&#160;<u>4 duggatt<abbr v="en"/></u>. &#8211; Noch habe <u>6 <rend class="latin">Clavier=Sonaten</rend></u> für das<lbr/>
+<u>Clavier<lbr type="BD"/> allein</u>, die nicht bekannt, sondern nur für uns geschrieben sind.<lbr/>
+Sollte S:<h>r</h><lbr type="BD"/> Durchläucht, der wir uns unterthänigst empfehl<abbr v="en"/>, auch mit solchen<lbr/>
+gedient<lbr type="BD"/> se&#255;n, so ka<abbr type="topline" expand="nn">n</abbr> sie schreiben lassen. Leben sie wohl, ich muß schlüss<abbr v="en"/>,<lbr/>
+da<lbr type="BD"/> 4 Personen von München be&#255; mir sind, die den jung<abbr v="en"/> 15jährig<abbr v="en"/>&#160;<suppl hand="self" pos="supra"><rend class="latin">Marchand</rend></suppl><lbr type="BD"/> abhohl<abbr v="en"/>,<lbr/>
+der 3 jahre be&#255; mir in der <rend class="latin">Lection</rend> war und nun als ein <u>treflicher</u><lbr/>
+<u><rend class="latin">Violin</rend>spieler</u> und <u>Clavierspieler</u> zurück geht und auch in <u>der <rend class="latin">Composition</rend></u><lbr type="BD"/><lbr/>
+sehr weit geko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/> ist. Neb<abbr v="en"/> be&#255; hat er im Lateinisch<abbr v="en"/> nichts versäumet,<lbr type="BD"/><lbr/>
+ob er gleich italiänisch und französisch als seine Haupt=nebensache nicht ohne<lbr type="BD"/><lbr/>
+grossen fortgang gelernt hat. <rend class="latin">addio</rend>! ich bin und verbleibe der alte<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>________</ts><tshtm>___________________________________________________________</tshtm><tspdf>\hfill </tspdf>redlich ergebenste freund<lbr type="BD"/><lbr type="forced"/>
+<ts>________</ts><tshtm>______________________________________________________________________</tshtm><tspdf>\hfill </tspdf>Mozart <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<pg n="2"/>
+<add_empf schr_id="60645">Erhalt<abbr v="en"/> samt 3. <rend class="latin">Clav: Concert</rend><abbr v="en"/> d<abbr v="en"/> 10<h><uu>tn</uu></h>&#160;<rend class="latin">april</rend>&#160;<abbr type="topline"><u>784.</u></abbr><lbr/>
+Beantwortet u: inbemerkt<abbr v="en"/> Belauf pr: 20. f: samt einer groß<abbr v="en"/>&#160;<rend class="latin">Garnitour</rend><lbr/>
+Steinschnall<abbr v="en"/> vor den H<abbr type="curve"></abbr> <rend class="latin">Wolfgang Mozart</rend> in Wie<abbr type="topline" expand="nn">n</abbr> als ein <rend class="latin">Præsent</rend>,<lbr/>
+von Ihro Dhld dem Fürsten übersendet d<abbr v="en"/>: 13<h><uu>tn</uu></h>: obigen.<lbr/>
+<lbr/>
+<ts>_______________________________________</ts><rend class="latin">S:Winter</rend></add_empf>
+<add_note impl="pencil"><ts>______________________________________</ts>(Ka<abbr type="topline" expand="mm">m</abbr>erdiener des Fürsten<lbr/>
+<ts>_______________________________________</ts>Joseph Maria Beendict zu Fürstenberg.)</add_note>
+</NI></letter>
+</text>
+</MUP>

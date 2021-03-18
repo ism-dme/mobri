@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2020">2020-02</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=673</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Verbleib unbekannt (Vorlage: Abschrift um 1768 in D-B)</bibl>
+            <bibl type="source" subtype="RISM">Verbleib unbekannt, Vorlage: Abschrift um 1768 in D-B</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:36:48 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_114.mup">
+<letter bd="114">
+<NI src="unbekannt">
+<HEADER id="673">LEOPOLD MOZART AN LORENZ HAGENAUER IN SALZBURG<lbr/>
+MÜNCHEN, 22. NOVEMBER 1766</HEADER>
+<pg n="1"/>
+<tshtm><additum>[... (Schluss der Abschrift des Briefes vom 10. November 1766)]</additum></tshtm>
+<lbr/>
+<lbr/>
+<add_num type="inline" schr_id="57010"><ts>_________________</ts>41</add_num><ts>___</ts><tspdf>\hfill </tspdf>München den 22. <rend class="latin">Novb<abbr type="curve">:</abbr></rend><lbr type="forced"/>
+<ts>______________________________________________</ts><tspdf>\hfill </tspdf><u>1766.</u><lbr type="forced"/>
+<lbr type="forced"/>
+Nun bin ich selbst ungedultig. Bis<lbr/>
+ietzt war der Wolfgangerl unbässlich,<lbr/>
+nun<lbr type="BD"/> ist er gestern das erste mahl aus<pc force="weak">=</pc><lbr/>gegangen, und heute hat der Churfürst<lbr type="BD"/><lbr/>
+Musick, wo wir uns einfinden müssen.<lbr/>
+Die Ungedult, von der ich Meldung<lbr type="BD"/> mache,<lbr/>
+rühret von dem recht beschwerlichen Ge<pc force="weak">=</pc><lbr/>brauch her, den man am hie<lbr type="BD"/>sigen Hofe<lbr/>
+hat, die Leute hipsch lange aufzuhal<pc force="weak">=</pc><lbr/>ten. Ich kann sie versicheren,<lbr type="BD"/> daß ich<lbr/>
+mich be&#255; S:<h>r</h> Durchleucht gar nicht hätte<lbr/>
+sehen lassen, wenn ich es mit<lbr type="BD"/> Wohlan<pc force="weak">=</pc><lbr/>ständigkeit hätte thun können. Allein;<lbr/>
+<pg n="2"/>
+da seiner durchleucht be&#255; un<lbr type="BD"/>serer vori<pc force="weak">=</pc><lbr/>gen durchreise uns mit ausdrücklichen<lbr/>
+worten gemeldet, daß wir ihn<lbr type="BD"/> be&#255; un<pc force="weak">=</pc><lbr/>serer Rückreise besuchen sollen; da<lbr/>
+über das meine Kinder in einem<lbr type="BD"/> gros<pc force="weak">=</pc><lbr/>sen theil <rend class="latin">Europens</rend> so viel aufsehen ge<pc force="weak">=</pc><lbr/>macht; wie wollen sie, daß wir<lbr type="BD"/> S:<h>r</h><lbr/>
+durchleucht hätten vorbe&#255;gehen sollen?<lbr/>
+Mein Entschluss ist nun allezeit der<lbr type="BD"/> näm<pc force="weak">=</pc><lbr/>liche; kommenden Montag oder läng<pc force="weak">=</pc><lbr/>stens Diensttage hier abzureisen, den<lbr type="BD"/> er<pc force="weak">=</pc><lbr/>sten Tag bis nach Altenötting, und den<lbr/>
+zwe&#255;ten nur bis nach Laufen zu<lbr type="BD"/> gehen.<lbr/>
+Sollte ich aber gezwungen se&#255;n noch etwas<lbr/>
+mehrers zu verweilen, so<lbr type="BD"/> wird es ja |: wenn<lbr/>
+Gott will :| über ein paar täge nicht aus<pc force="weak">=</pc><lbr/>tragen. den kom<lbr type="BD"/>menden Erchtage<lbr/>
+den 25.<h>t<abbr v="en"/></h> werden sie den letzten Brief von<lbr/>
+mir erhalten, der<lbr type="BD"/> ihnen das gewisse mel<pc force="weak">=</pc><lbr/>den wird, und daraus sie hoffentlich se<pc force="weak">=</pc><lbr/>hen werden, daß<lbr type="BD"/> wir schon be&#255; dem Em<pc force="weak">=</pc><lbr/>pfang desselben auf der Reise sind;<lbr/>
+wenigst wünsche<lbr type="BD"/> ich es mit eben so viel<lbr/>
+<conv><ts>______________________________________</ts>Ungedult</conv>
+<pg n="3"/>
+Ungedult, als sie selbst.<lbr type="forced"/>
+<ts>_____</ts>Sie schreiben mir also für diesmal<lbr/>
+nicht mehr. &#8211; &#8211; ich hofe, mit der Hilfe<lbr type="BD"/><lbr/>
+Gottes, daß dieß mein vorletzter und<lbr/>
+künftiger mein dermal letzter Brief<lbr type="BD"/> se&#255;n<lbr/>
+soll. Wer Vernunft hat wird nie<pc force="weak">=</pc><lbr/>mahls glauben, daß ich irgendwo <rend class="latin">pour<lbr type="BD"/><lbr/>
+passer le tems</rend> sitzen bleibe, und mit<lbr/>
+einer ganzen <rend class="latin">Familie</rend> aus spaß mein<lbr type="BD"/><lbr/>
+geld verzehre.<lbr type="forced"/>
+<ts>_____</ts>Wir empfehlen uns ihnen und ihren<lbr/>
+sa<abbr type="topline" expand="mm">m</abbr>entlich angehörigen, meinen und<lbr type="BD"/> un<pc force="weak">=</pc><lbr/>sern gemeinschaftlichen Freunden, und bin<lbr/>
+der alte.<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____</ts>Das übrige, was sie mir gemeldtet ist<lbr/>
+alles wohl gethann: nur bitte sie dahin<lbr type="BD"/><lbr/>
+zu sorgen, daß entzwischen mein Flügl<lbr/>
+gestimmt, und wenn eine oder andere<lbr type="BD"/><lbr/>
+Seite gesprungen, daß solche <u>in der näm<pc force="weak">=</pc><lbr/>lichen Dicke <rend class="latin">NB</rend>:</u> aufgezogen, und<lbr/>
+<pg n="4"/>
+das<lbr type="BD"/> abgebrochene Theil mir zur Einsicht<lbr/>
+aufbehalten wird. Ich schmeichle mir,<lbr/>
+daß<lbr type="BD"/> herr Adlgasser oder Herr Spitzeder<lbr/>
+mir die Gefähligkeit erweisen werden,<lbr/>
+dafür Sorge zu haben. Übrigens soll<lbr/>
+nichts geändert, und sonderlich von den<lbr type="BD"/><lbr/>
+<rend class="latin">taugenten</rend> oder von dem Dockerl we<pc force="weak">=</pc><lbr/>der was abgeschnitten, noch zugesetzt,<lbr type="BD"/> son<pc force="weak">=</pc><lbr/>dern alles in <rend class="latin">Statu quo</rend> gelassen wer<pc force="weak">=</pc><lbr/>den. Der <rend class="latin">P: Jesuit</rend>, so in mei<pc force="weak">=</pc><lbr/>nem<lbr type="BD"/> Zimmer war, und auf dem Flügl<lbr/>
+spillen wollte, empfehlet sich ihnen.<lbr type="forced"/>
+<tspdf>\newpage</tspdf> 
+<pg n="5"/>
+<ts>_____</ts><u>für Sie alleine!</u><lbr type="forced"/>
+<lbr type="forced"/>
+Warum ich dem Egedacher allein nicht traue, und<lbr/>
+bitte, daß h<abbr type="curve">:</abbr>&#160;<rend class="latin">Adlgasser</rend> oder<lbr type="BD"/> h<abbr type="curve">:</abbr> Schitzeder dabe&#255; bleiben<lbr/>
+möchte, we<abbr type="topline" expand="nn">n</abbr> der flügl in ordnung gebracht<lbr type="BD"/> wird,<lbr/>
+habe grundliche Ursach<abbr v="en"/>, und ich habe eine abscheuliche<lbr/>
+Niederträchtig<lbr type="BD"/>keit von denselben auf der Reise ent<pc force="weak">=</pc><lbr/>deket, darüber sie sich gewis verwundern<lbr type="BD"/> werd<abbr v="en"/>.<lbr/>
+übrigens kann ich Ihnen nicht bergen, daß, je<lbr/>
+näher ich Salzburg<lbr type="BD"/> ko<abbr type="topline" expand="mm">m</abbr>e, je mehr ko<abbr type="topline" expand="mm">m</abbr>en mir schon<lbr/>
+kindische Schwäzere&#255;en zu Ohren. mit<lbr type="BD"/> welchen<lbr/>
+ich wünschte verschonet zu bleiben. ich war einige<lbr/>
+Jahre | gott lob |<lbr type="BD"/> von solchen possen ruhig und Fre&#255;,<lbr/>
+und will es noch fernes se&#255;n. Sonderlich<lbr type="BD"/> wird von<lbr/>
+unsern Empfang an hofe sehr wunderlich gesproch<abbr v="en"/>.<lbr/>
+Ich versichre<lbr type="BD"/> Sie, daß dieß mir gar fremde<lbr/>
+ko<abbr type="topline" expand="mm">m</abbr>en, und von einer <stroke hand="self">wunderlichen</stroke> Wirkung<lbr/>
+se&#255;n würde,<lbr type="BD"/> die mancher nicht vermuthen würde,<lbr/>
+denn nach grossen Ehren sind Grob<lbr type="BD"/>heit<abbr v="en"/>&#160;<rend class="latin">absolute</rend><lbr/>
+nicht zu verkoch<abbr v="en"/>.<lbr type="forced"/>
+<lbr type="forced"/>
+<tshtm><additum>[... (Teilabschrift des Briefes vom 10. November 1766)]</additum></tshtm>
+</NI>
+</letter>
+
+</text>
+</MUP>

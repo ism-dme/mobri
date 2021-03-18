@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2009">2009-08-20</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=37</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:25:55 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/Doc1806_1_mup.txt">
+<HEADER id="37">GEORG NIKOLAUS NISSEN AN CARL THOMAS MOZART IN MAILAND<lbr/>
+WIEN, 9. APRIL 1806<lbr/>
+mit Nachschrift von Constanze Mozart</HEADER>
+
+
+<pg n="1"/>
+<add_num type="inline" impl="ink"><rend class="latin">N<h><uu>o</uu></h></rend> 19</add_num><ts>______________________</ts><tspdf>\hfill </tspdf><rend class="latin">Wien</rend> 9. April 1806.<lbr type="forced"/>
+Mein lieber Carl,<lbr type="forced"/>
+da Ihre Mutter heute einen<lbr/>
+langen Brief an dh<abbr type="curve">.</abbr>&#160;<rend class="latin">Asioli</rend><lbr/>
+geschrieben hat, so findet sie dieses<lbr/>
+Mal keine Zeit Ihnen zu antworten.<lbr type="forced"/>
+<ts>_____</ts>Sie läßt Ihnen sagen, daß es<lbr/>
+nicht angeht von hieraus Kleider<lbr/>
+zu schikken, die nicht abgelegt<lbr/>
+werden, so lange sie nur getragen<lbr/>
+werden können. Damit Sie<lbr/>
+Sich Hosen schaffen können, schikt<lbr/>
+Ihnen <rend class="latin">Wolf</rend> mit einem freund<pc force="weak">-</pc><lbr/>lichen Grusse hierin den Betrag<lbr/>
+von 25. <abbr_cur expand="Gulden"><rend class="latin">fl</rend>.</abbr_cur>, welches der ganze Rest<lbr/>
+von seinem bisherigen Verdienst ist.<lbr type="forced"/>
+<pg n="2"/>
+Leben Sie recht wohl. Die<lbr/>
+Rechtschaffenheit und die Vernunft<lbr/>
+seyn Ihre beständigen Be<pc force="weak">-</pc><lbr/>gleiterinnen! Dann werden Sie<lbr/>
+recht wohl leben.<lbr type="forced"/>
+<ts>________________________</ts><tspdf>\hfill </tspdf>Ihr Nißen.<lbr type="forced"/>
+<lbr type="forced"/>
+<NS schr="CM">Schreibe mir doch ob graf <u>Kauniz</u><lbr/>
+welcher gesandter in Neapel<lbr/>
+war, iezt in <rend class="latin">Meiland</rend> ist, und ob<lbr/>
+er nach win ko<abbr type="topline" expand="mm">m</abbr>t. lebe wohl<lbr/>
+liebe in allem Deinem thuen<lbr/>
+und laßen Deine Mutter<lbr type="forced"/>
+<ts>____________________</ts><tspdf>\hfill </tspdf><rend class="latin">Mozart</rend></NS></text>
+</MUP>

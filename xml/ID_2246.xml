@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2016">2016-5</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=2246</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Verbleib unbekannt</bibl>
+            <bibl type="source" subtype="RISM">Verbleib unbekannt</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:42:41 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/ID_2246.mup">
+<HEADER id="2246">LEOPOLD MOZART, EXZERPT AUS "ÜBER DIE EINSAMKEIT"<lbr/>
+VON JOHANN GEORG ZIMMERMANN (TROPPAU 1785/86)<lbr/>
+SALZBURG, ZWISCHEN 1786 UND 1787</HEADER>
+
+<pg n="1"/>
+Eine merkwürdige Stelle aus Zi<abbr type="topline" expand="mm">m</abbr>ermanns'<lbr/>
+Schrift über die Einsamkeit (Th III S 46),<lbr/>
+<ts>_____</ts>Wir träumten von nichts als Aufklärung &#8211; <lbr/>
+&#8211; und glaubten durch das Licht der Vernunft die<lbr/>
+Gegend so aufgehellt zu haben, daß die <u>Schwär<pc force="weak">-</pc><lbr/>merey</u> sich gewiß nicht mehr zeigen<lbr/>
+werde. Allein wir sehen, schon steiget von der<lbr/>
+andern Seite des Horizonts die Nacht mit allen<lbr/>
+ihren Gespenstern wieder empor. Mit Schreck<abbr v="en"/><lbr/>
+sieht man, daß das Uebel so thätig und durch<pc force="weak">-</pc><lbr/>greifend ist, daß die Schwärmerey i<abbr type="topline" expand="mm">m</abbr>er wirket,<lbr/>
+und die Vernunft nur spricht. Mit Unrecht glaub<pc force="weak">-</pc><lbr/>te Lord Schaftesbury, Witz und Laune seyen die<lbr/>
+kräftigsten Gegenmittel wider den Fortgang<lbr/>
+des schädlichen <u>Aberglaubens</u>. Blosser Scherz<lbr/>
+vertreibt das Vorurtheil nur zum Scheine. <u>Aus<lbr/>
+Furcht, verspottet zu werden, sucht man höchstens<lbr/>
+seine Alberheit zu verheimlichen.</u>&#160;<u>Man spottet<lbr/>
+wohl selbst mit, wo dieser Ton herrschet; und<lbr/>
+ist in seinem geheimsten Schlafgemache,<lbr/>
+wie ich Beyspiele gesehen, nichts destoweniger<lbr/>
+Verführter oder verführender Schwermer.</u><lbr/>
+So, schreibt Zi<abbr type="topline" expand="mm">m</abbr>ermann 1786, schilderte mir ein<lbr/>
+Mann, <u>wie es in der Welt nicht viele giebt</u><lbr/>
+<pg n="2"/>
+ganz neuerlich die Lage der Vernunft<lbr/>
+in vielen <u>sehr aufgeklärten</u> Städt<abbr v="en"/> des<lbr/>
+protestantischen Deutschlands. &#8211; Ein<lbr/>
+Wort der Zeit, <rend class="latin">fiat applicatio</rend>
+</text>
+</MUP>

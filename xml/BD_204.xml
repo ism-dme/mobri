@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2011">2011-05</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=765</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Verbleib unbekannt (Nachweis: Sotheby's London, 25.5.2001, Katalog, Lot 135)</bibl>
+            <bibl type="source" subtype="RISM">Verbleib unbekannt, Nachweis: Sotheby's London, 25.5.2001, Katalog, Lot 135</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:37:18 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_204.mup">
+<letter bd="204"><NI src="Privat"><HEADER id="765">LEOPOLD MOZART AN MARIA ANNA MOZART IN SALZBURG<lbr/>
+CROCE DEL BIACCO, 21. AUGUST 1770<lbr/>
+mit Nachschrift von Wolfgang Amadé Mozart an Maria Anna (Nannerl) Mozart</HEADER>
+<pg n="1"/>
+<add_num>42</add_num>
+<ts>____________</ts><tshtm>____________________________________________________</tshtm><tspdf>\hfill </tspdf><rend class="latin">Bologna</rend> d<abbr v="en"/> 21<h>t<abbr v="en"/></h>&#160;<rend class="latin">aug<abbr type="curve">:</abbr></rend>&#160;<u>1770.</u><lbr type="forced"/>
+<lbr type="forced"/>
+Mein fuß ist, Gott Lob, vollko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/> gut. wir sind noch auf dem Landgut<lbr type="BD"/>&#160;<rend class="latin"><u>alla<lbr/>
+Croce del Biacco,</u></rend> welches dem <u><rend class="latin">Comte Bolognetti</rend></u> zugehöret, und auf<lbr type="BD"/> gewisse<lbr/>
+Jahre h<abbr type="curve">:</abbr> Gr: <rend class="latin">Pallavicini</rend> in Bestand hat. den 30<h>t<abbr v="en"/></h> diss wird das Jährliche<lbr/>
+grosse <rend class="latin">Fest</rend> se&#255;n, welches alle Jahr die Mitglied<abbr v="er"/> der <rend class="latin">Bologn<abbr type="curve">:</abbr> Philarmonisch<abbr v="en"/></rend><lbr/>
+Gesellschaft mit <rend class="latin">Vesper</rend> und Hochamt prächtigst halt<abbr v="en"/>. das werd<abbr v="en"/><lbr type="BD"/> wir hör<abbr v="en"/>,<lbr/>
+glaublich aber da<abbr type="topline" expand="nn">n</abbr> bald abreisen. wohin? &#8211; &#8211; das ist noch nicht<lbr type="BD"/> völlig richtig.<lbr/>
+entzwisch<abbr v="en"/> schreibe du allzeit auf <rend class="latin">Bologna</rend>, ich werde schon<lbr type="BD"/> Anstalt mach<abbr v="en"/>, daß<lbr/>
+ich die Briefe richtig erhalte. we<abbr type="topline" expand="nn">n</abbr> ich nach <rend class="latin">Pisa</rend>, <rend class="latin">Luca</rend>,<lbr type="BD"/>&#160;<rend class="latin">Livorno</rend> und <rend class="latin">Genua</rend>&#160;<suppl hand="self" pos="infra">gehe,</suppl><lbr/>
+so ko<abbr type="topline" expand="mm">m</abbr>e noch einmahl nach <rend class="latin">florenz</rend>. für den<lbr type="BD"/> glückwunsch des h<abbr type="curve">:</abbr>&#160;<rend class="latin">Dr: Agliardi</rend><lbr/>
+lasse mich bedank<abbr v="en"/> und ihm nebst meiner<lbr type="BD"/> Empfehl: sag<abbr v="en"/>, daß es nur, wie hofe,<lbr/>
+ein blind<abbr v="er"/> Lerm und gar nicht ernst<lbr type="BD"/> war; de<abbr type="topline" expand="nn">n</abbr> ich habe es mit warm<abbr v="en"/> über<pc force="weak">=</pc><lbr/>schläg<abbr v="en"/> von Wasser, wori<abbr type="topline" expand="nn">n</abbr><abbr v="en"/> ich<lbr type="BD"/>&#160;<u><rend class="latin">flores Sambucci</rend></u> gesott<abbr v="en"/>, vertrieb<abbr v="en"/>.<lbr type="forced"/>
+Die wenige wärme, so wir hier hatt<abbr v="en"/>, ist nach einem mit starkem Regen<lbr/>
+begleitet<abbr v="en"/> do<abbr type="topline" expand="nn">n</abbr>erwetter verschwund<abbr v="en"/>. den verflossen<abbr v="en"/> 18<h>t<abbr v="en"/></h> habe nicht<lbr type="BD"/> schreib<abbr v="en"/><lbr/>
+könn<abbr v="en"/>, weil ich mit der Gräfin <rend class="latin">Ex<abbr type="curve">:</abbr></rend> ausfahr<abbr v="en"/> muste, und da wir<lbr type="BD"/> späth<lbr/>
+nach Hause kam<abbr v="en"/>, war<abbr v="en"/> die Briefe des h<abbr type="curve">:</abbr> Feldmarschals schon in die<lbr type="BD"/> Statt ge<pc force="weak">=</pc><lbr/>schicket. die Unglücke die in der Insul <rend class="latin">St: Domenico</rend> das grosse<lbr/>
+Erdbeb<abbr v="en"/> angerichtet, wird euch all<abbr v="en"/> aus den Zeitung<abbr v="en"/> bekannt se&#255;n.<lbr/>
+die h<abbr type="curve">:</abbr> Kaufleute werd<abbr v="en"/> wohl dadurch Gelegenheit nehm<abbr v="en"/> mit dem Zuker<lbr/>
+aufzuschlag<abbr v="en"/>, weil die Zucker<rend class="latin">plantagen</rend> aldort zugrunde gerichtet word<abbr v="en"/>.<lbr/>
+Wir befind<abbr v="en"/> uns, Gott Lob, be&#255; feig<abbr v="en"/>, <rend class="latin">Mellonen</rend> und and<abbr v="er"/><abbr v="en"/> frücht<abbr v="en"/>,<lbr type="BD"/> die wir<lbr/>
+sehr mässig essen, sehr wohl. Abends, etwa 2 stund vor Tische,<lbr type="BD"/> essen wir<lbr/>
+eine gewisse frucht, die niehmals, als in gemäld<abbr v="en"/>, geseh<abbr v="en"/> habe,<lbr type="BD"/> und die ein<abbr v="en"/><lbr/>
+Geschmack wie <rend class="latin">Cuccu<abbr type="topline" expand="mm">m</abbr>ern</rend> hat, Es ist eine runde grosse frucht<lbr type="BD"/> mit<lbr/>
+einer grien<abbr v="en"/> schaale we<abbr type="topline" expand="nn">n</abbr> es von einand<abbr v="er"/> und in viele<lbr/>
+<pg n="2"/>
+stücke verschnitt<abbr v="en"/> wird, so sieht es sehr gut aus, de<abbr type="topline" expand="nn">n</abbr> es ist blass roth,<lbr/>
+namlich das i<abbr type="topline" expand="nn">n</abbr>ere<lbr type="BD"/> od<abbr v="er"/> d<abbr v="er"/> kern. man ne<abbr type="topline" expand="nn">n</abbr>t diese frucht <u><rend class="latin">angurie</rend></u>, auch<lbr/>
+<rend class="latin">Cuccu</rend><abbr type="topline" expand="mm">m</abbr>ern od<abbr v="er"/> Kirbes,<lbr type="BD"/> aber das sind die gut<abbr v="en"/> und nicht die wild<abbr v="en"/><lbr/>
+Kirbes. ma<abbr type="topline" expand="nn">n</abbr> isst sie mit Zucker<lbr type="BD"/> und Zi<abbr type="topline" expand="mm">m</abbr>et. Ich schlüsse, de<abbr type="topline" expand="nn">n</abbr><lbr/>
+ich habe noch 2 briefe, nach Mayland und<lbr type="BD"/> Rom, zu schreib<abbr v="en"/>. Wir kiss<abbr v="en"/><lbr/>
+euch be&#255;de 1000 mahl und bin dein alter<lbr type="forced"/>
+<ts>_______________</ts><tshtm>_______________________________________________________</tshtm><tspdf>\hfill </tspdf>Mozart <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<lbr type="forced"/>
+unsere Empf<abbr type="curve">:</abbr> an alle freunde und freundin<abbr v="en"/> in und ausser dem Hause.<lbr type="forced"/>
+<NS type="NS" schr_id="39409" adr_id="48817">Ich bin auch noch lebendig, und zwar sehr lustig. heünt kam mir die<lbr/>
+lust auf<lbr type="BD"/> einen eesel zu reitten, dan in <rend class="latin">italien</rend> ist es der brauch, und<lbr/>
+also habe ich<lbr type="BD"/> gedacht, ich mus es doch auch probieren. wir haben die<lbr/>
+ehre mit einen<lbr type="BD"/> gewissen <rend class="latin">Domenicaner</rend> umzugehen, welcher für hei<pc force="weak">=</pc><lbr/>lig gehalten wird, ich<lbr type="BD"/> zwar glauebe es nicht recht, dan er ni<abbr type="topline" expand="mm">m</abbr>t<lbr/>
+Zum frühstück oft Eine <rend class="latin">tassa<lbr type="BD"/> ciocolata</rend>, gleich darauf ein guts glas<lbr/>
+starcken spanischen wein, und ich habe<lbr type="BD"/> selbsten die ehre gehabt<lbr/>
+mit diesen heiligen zu speisen, welcher praf wein<lbr type="BD"/> und auf<lbr/>
+die lezt ein ganzes glas voll starcken wein be&#255; der tafel<lbr/>
+getruncken<lbr type="BD"/> hat, zwe&#255; gutte schnitz <rend class="latin">melooni</rend>, sperschig, biern,<lbr/>
+5 schallen <rend class="latin">Caffé</rend>, ein ganzes<lbr type="BD"/> deller voll Vögeln, zwe&#255; volle<lbr/>
+deller von milch mit <rend class="latin">lemonien</rend>; doch dieses<lbr type="BD"/> könte er mit fleis<lbr/>
+thun, aber ich glaube nicht, dan dieses wäre zu Viel, und aber<lbr type="BD"/> er<lbr/>
+ni<abbr type="topline" expand="mm">m</abbr>t vielle sachen zur <rend class="latin">Jausen</rend> auf nachmittag. <rend class="latin">addio.</rend> lebe wohl:<lbr/>
+küsse<lbr type="BD"/> der mama an statt meiner die hände. an alle die mich können<lbr/>
+mein <rend class="latin">Compliment</rend>.<lbr type="forced"/>
+<ts>_____</ts><tshtm>______________________________________________</tshtm><tspdf>\hfill </tspdf>wolfgang <rend class="latin">Mozart</rend>, <u>1770</u><lbr type="forced"/>
+<pg n="3"/>
+<rend class="latin">p: s:</rend><lbr type="forced"/>
+wir sind bekant worden, mit einem gewissen <suppl hand="self" pos="supra">teütschen</suppl>&#160;<rend class="latin">domenicaner</rend>, welcher<lbr type="BD"/> sich <u><rend class="latin">pater</rend></u><lbr/>
+<u><rend class="latin">Cantor</rend></u> nennt, er hatt mir gesagt, das ich ein <rend class="latin">Compliment</rend> an h<abbr type="curve">:</abbr><lbr/>
+<rend class="latin">Hagenauer</rend>&#160;<u>bildhauer</u> solle von ihn nach <rend class="latin">salzbour</rend> schreiben, dan er sagte<lbr/>
+mir,<lbr type="BD"/> das, als er zu <rend class="latin">Bologna</rend> ware, er ihm allzeit beichtete. <rend class="latin">addio.</rend></NS>
+<lbr type="forced"/>
+<NS type="NS" schr="LM=">h<abbr type="curve">:</abbr>&#160;<rend class="latin">Meuricoffre</rend> hat mir ein<abbr v="en"/> Befelch an euch be&#255;de überschrieb<abbr v="en"/>;<lbr/>
+er hat<lbr type="BD"/> uns gewiß vielle Höfl: in Neapl erwiesen; und schreibt<lbr/>
+mir noch i<abbr type="topline" expand="mm">m</abbr>er.</NS>
+<pg n="4"/>
+<anschrift rot="270"><rend class="latin">À Madame<lbr type="forced"/>
+Madame Marie Anne<lbr type="forced"/>
+Mozart<lbr type="forced"/>
+<ts>___________</ts>à<lbr type="forced"/>
+<u>per Mantova.</u><ts>_____</ts><u>Salzbourg</u></rend></anschrift><lbr/>
+<add_note schr_id="48817" rot="90"><rend class="latin">N:<h>o</h></rend> 36 aus <rend class="latin">Bologna</rend>.</add_note><lbr/>
+<add_sign>S.m. 8987</add_sign><lbr/>
+<add_seal type="owner">National-Bibliothek<lbr type="forced"/>Musik-<lbr type="forced"/>Samml.<lbr type="forced"/>Wien</add_seal></NI></letter></text>
+</MUP>

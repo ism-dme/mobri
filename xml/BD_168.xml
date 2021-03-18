@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2011">2011-05</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=729</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Verbleib unbekannt (Abschrift von Georg Nikolaus Nissen: A-Sm)</bibl>
+            <bibl type="source" subtype="RISM">Verbleib unbekannt, Abschrift von Georg Nikolaus Nissen: A-Sm</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:37:06 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_168.mup">
+<letter bd="168"><HEADER id="729">WOLFGANG AMADÉ MOZART AN MARIA ANNA (NANNERL) MOZART IN SALZBURG<lbr/>
+BOLOGNA, 24. MÄRZ 1770<lbr/>
+Abschrift von Georg Nikolaus Nissen, 1824</HEADER>
+
+<pg n="1"/>
+<add_num type="inline">168</add_num><ts>___</ts><add_note type="inline" schr_id="57010">N. 8 von W. A. M.</add_note><ts>__</ts><tspdf>\hfill </tspdf>24 März 1770.<ts>__________________________________</ts><add_num type="inline">23</add_num><lbr type="forced"/>
+O du Fleißige du!<lbr type="forced"/>
+Weil ich gar so lange faul war, so habe ich gedacht, es schadete<lbr/>
+nicht, wenn ich wieder eine kurze Zeit fleißig wäre. Alle Posttage,<lbr/>
+wann die teutschen Briefe kommen, schmeckt mir das Essen und<lbr/>
+Trinken viel besser. Ich bitte dich, schreibe mir, wer bei den<lbr/>
+Oratorien singt. Schreib mir auch wie der Titel von den <rend class="latin">Oratoriis</rend><lbr/>
+heißt. Schreibe mir auch, wie dir die haydnischen Menuette<lbr/>
+gefallen, ob sie besser als die erstern sind. daß Herr von Aman<lbr/>
+wieder gesund ist, freut mich von Grund meines Herzens: ich<lbr/>
+bitte dich, sage ihm, er soll sich wohl in Obacht nehmen: er soll keine<lbr/>
+starke Kommotion machen. Sage es ihm, ich bitte dich. Aber sage<lbr/>
+ihm auch, daß ich so oft an ihn denke, wie wir zu Triebenbach Handwerker<lbr/>
+gespielt haben, und da er durch den Schretbeutel und durch das<lbr/>
+Ischmachen, den Namen Schrattenbach <add_ident type="inline">(Name des <tspdf>\newline</tspdf>Fürsterzbischofs<lbr/>
+von Salzburg)</add_ident> vorstellte. Und sage ihm auch: daß ich so oft daran denke, da er oft<lbr/>
+gesagt hat zu mir folgende Worte: Wollen wir uns vertheilen? und da ich ihm allzeit<lbr/>
+antwortete: wie zwider! Aufs nächste werde ich dir ein Menuett, welchen M<h>r</h>&#160;<rend class="latin">Pick</rend><lbr/>
+auf dem Theater tanzte, schicken, und welchen dann in <rend class="latin">feste di ballo</rend> zu Mailand<lbr/>
+alle Leute tanzten, nur damit du daraus siehst, wie langsam die Leute tanzen.<lbr/>
+Der Menuett an sich selbst ist sehr schön. Er ist natürlich von Wien, also gewiß<lbr/>
+von Teller oder von Starzer. Er hat viele Noten. Warum? weil es ein<lbr/>
+theatralischer Menuett ist, der langsam geht. Die Menuette aber<lbr/>
+von Mailand oder die wälschen haben viele Noten, gehen langsam, und<lbr/>
+viel Takte. Z. B. der erste Theil hat 16 und der zweite 20 auch 24 Takte.<lbr/>
+Zu Parma lernten wir eine Sangerinn kennen und hörten sie auch<lbr/>
+recht schön in ihrem eignen Hause, nämlich die berühmte <rend class="latin">Bastardella</rend>,<lbr/>
+welche 1<h>o</h>. eine schöne Stimme, 2<h>o</h>. eine galante Gurgel, 3<h>o</h>. eine unglaubliche Höhe hat.<lbr type="forced"/>
+<pg n="2"/>
+<add_num type="inline">24.</add_num><tshtm>___</tshtm>Folgende Töne und Passagen hat sie in meiner Gegenwart gesungen.<lbr type="forced"/>
+<object type="mus" src="BD168_T"></object>
+<lbr type="forced"/>
+<additum>[... (Abschriften)]</additum></letter></text>
+</MUP>

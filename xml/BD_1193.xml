@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2014">2014-6</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1764</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">CH-Bu</bibl>
+            <bibl type="source" subtype="RISM">CH-Bu (Öffentliche Bibliothek der Universität Basel</bibl>
+            <bibl type="source" subtype="RISM">Musiksammlung)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:42:25 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_1193.mup">
+<letter bd="1193"><NI src="CH-Bu"><HEADER id="1764">WOLFGANG AMADÉ MOZART AN CONSTANZE MOZART IN BADEN BEI WIEN<lbr/>
+WIEN, 7. UND 8. OKTOBER 1791</HEADER>
+<pg n="1"/>
+<add_num impl="pencil"><ts>________________________________________________________________________________________</ts>10</add_num>
+<ts>__________</ts><tshtm>________</tshtm>liebstes, bestes Weibchen! &#8211; <lbr type="forced"/>
+<u>freytag um halb 11 uhr</u><lbr type="forced"/>
+<tshtm>_______</tshtm><u>Nacht.</u><lbr type="forced"/>
+<lbr type="forced"/>
+<add_note type="inline" schr_id="57010"><ts>__________________________________________</ts>(die Zauberflöte</add_note><lbr/>
+Eben ko<abbr type="topline" expand="mm">m</abbr>e ich von der Oper; &#8211; Sie war eben so voll wie<lbr/>
+allzeit. &#8211; das<lbr type="BD"/>&#160;<rend class="latin">Duetto</rend>&#160;<u>Mann</u> und <u>Weib</u>&#160;<abbr expand="etc">p</abbr>: und das<lbr/>
+Glöckchen Spiel im ersten Ackt wurde<lbr type="BD"/> wie gewöhnlich wieder<pc force="weak">=</pc><lbr/>hollet &#8211; auch im 2:<h>t</h> Ackt das knaben terzett &#8211; <lbr/>
+was<lbr type="BD"/> mich aber am meisten freuet, ist, der <u>Stille beifall</u>!<lbr/>
+&#8211; man sieht recht wie<lbr type="BD"/> sehr und i<abbr type="topline" expand="mm">m</abbr>er mehr diese Oper steigt.<lbr/>
+Nun meinen lebenslauf; &#8211; gleich<lbr type="BD"/> nach Deiner Abseeglung<lbr/>
+Spielte ich mit Hr: von Mozart | der die Oper beim<lbr type="BD"/> Schickaneder<lbr/>
+geschrieben hat :| 2 Parthien <rend class="latin">Billard</rend>. &#8211; dann verkauffte ich<lbr/>
+um 14<lbr type="BD"/> duckaten meinen kleper. &#8211; dann liess ich mir<lbr/>
+durch <rend class="latin">Joseph</rend> den <rend class="latin"><u>Primus</u></rend> rufen<lbr type="BD"/> und schwarzen koffé hollen,<lbr/>
+wobey ich eine herrliche Pfeiffe toback schmauchte;<lbr type="BD"/> dann<lbr/>
+<rend class="latin">Instrumenti</rend>rte ich fast das ganze <rend class="latin">Rondó</rend> vom Stadtler.<lbr/>
+in dieser zwischen<lbr type="BD"/>zeit ka<abbr type="topline" expand="mm">m</abbr> ein brief von Prag vom Stadler;<lbr/>
+&#8211; die Duscheckischen sind alle<lbr type="BD"/> wohl; &#8211; mir scheint Sie<lbr/>
+muß gar keinen brief von dir erhalten haben &#8211; und<lbr type="BD"/> doch kann<lbr/>
+ich es fast nicht glauben! &#8211; genug &#8211; Sie wissen schon alle<lbr/>
+die herr<lbr type="BD"/>liche aufnahme meiner teutschen Oper. &#8211; <lbr type="forced"/>
+<lbr/>
+<add_num impl="pencil">V. 849</add_num>
+<pg n="2"/>
+das sonderbareste dabei ist, das den abend als meine neue Oper<lbr/>
+mit so vielen<lbr type="BD"/> beifall zum erstenmale aufgeführt wurde, am<lbr/>
+nemlichen abend in Prag der<lbr type="BD"/>&#160;<rend class="latin">Tito</rend> zum leztenmale<lbr/>
+auch mit ausserordentlichen beifall aufgeführet worden. &#8211;<lbr type="BD"/>&#160;<postxt loc="bot">alle Stücke sind <rend class="latin">applaudirt</rend> worden. &#8211; </postxt> der<lbr/>
+<rend class="latin">Bedini</rend> sang besser als allezeit. &#8211;<lbr type="BD"/> das <rend class="latin">Duett</rend>chen <rend class="latin"><u>ex A</u></rend><lbr/>
+von die 2 Mädchens wurde wiederhollet &#8211; und gerne &#8211;<lbr type="BD"/> hätte<lbr/>
+man nicht die <rend class="latin">Marchetti</rend> geschonet &#8211; hätte man auch das<lbr/>
+<rend class="latin">Rondó repe<lbr type="BD"/>tirt.</rend> &#8211; dem <u>Stodla</u> wurde |: O böhmisches wunder!<lbr/>
+&#8211; schreibt er :| aus dem<lbr type="BD"/> Parterre und so gar aus dem <rend class="latin">Orchestre<lbr/>
+bravo</rend> zugerufen. ich hab mich aber<lbr type="BD"/> auch recht <u>angesetzt</u>,<lbr/>
+schreibt er; &#8211; auch schrieb er |: der <rend class="latin"><u>Stodla</u></rend> :| daß ihn<lbr/>
+<additum>[... (ca. 6 Wörter unkenntlich)]</additum><lbr type="BD"/> und nun einsehe daß er ein<lbr/>
+Esel ist &#8211; <additum>[... (ca. 3 Wörter unkenntlich)]</additum> versteht sich, nicht der <rend class="latin">Stodla</rend> &#8211; <lbr/>
+&#8211; der ist nur ein bissel ein Esel, nicht viel &#8211; aber der<lbr/>
+&#60;Süssmayer[?]&#62; &#8211; Ja<lbr type="BD"/> der, der ist ein rechter Esel. &#8211; <lbr type="forced"/>
+um halb 6 uhr gieng ich beim Stubenthor hinaus &#8211; und<lbr/>
+machte meinen <rend class="latin">favorit</rend><lbr type="BD"/> Spaziergang über die <rend class="latin">Glacis</rend><lbr/>
+ins theater &#8211; was sehe ich? &#8211; was rieche ich? &#8211; &#8211;<lbr type="BD"/>&#160;<lbr/>
+<rend class="latin">Don Primus</rend> ist es mit den <rend class="latin">Carbon</rend>adeln! &#8211; <rend class="latin">che gusto!</rend> &#8211; izt<lbr/>
+esse ich deine<lbr type="BD"/> Gesundheit &#8211; eben schlägt es 11 uhr; &#8211; vieleicht<lbr/>
+schläfst du schon? &#8211; St! St! St! &#8211;<lbr type="BD"/> ich will dich nicht aufwecken! &#8211; <lbr type="forced"/>
+<pg n="3"/>
+<u>Sa<abbr type="topline" expand="mm">m</abbr>stags den 8<h>t</h></u>. &#8211; du hättest mich gestern beim Nachtessen sehen<lbr/>
+sollen! &#8211;<lbr type="BD"/> das alte tischgeräth habe ich nicht gefunden, folglich<lbr/>
+habe ich ein schne=<lbr type="BD"/>blümelweisses hergegeben &#8211; und den dopelten<lbr/>
+leuchter mit wachs vor<lbr type="BD"/> meiner! &#8211; vermög des briefes vom<lbr/>
+<additum>[... (1 Wort unkenntlich)]</additum> sollen die wälschen schon hier durch<lbr type="BD"/> seyn &#8211; auch<lbr/>
+hat die Duscheck sicher <u>einen</u> brief von dir erhalten, denn<lbr/>
+er<lbr type="BD"/> schreibt; die <rend class="latin">affection</rend> war sehr mit des Mathies Nachschrift<lbr/>
+zufrieden, Sie<lbr type="BD"/> sagte: der <u>ESEL</u> &#8211; oder <rend class="latin">ESEL</rend> ge<pc force="weak">=</pc><lbr/><add_note type="inline" schr_id="57010"><ts>____________________________________________________</ts><rend class="latin">N. N.</rend></add_note><lbr/>
+fällt mir so wie er ist. &#8211; treibe den &#60;Süssmayer[?]&#62; daß<lbr type="BD"/><lbr/>
+er für &#60;Stadler[?])&#62; schreibt, denn er hat mich sehr darum gebeten.<lbr/>
+&#8211; Nun wirst du<lbr type="BD"/> wohl im besten Schwi<abbr type="topline" expand="mm">m</abbr>en seyn, da ich dieses<lbr/>
+schreibe. &#8211; der <rend class="latin">friseur</rend> ist<lbr type="BD"/>&#160;<rend class="latin">accurat</rend> um 6 uhr geko<abbr type="topline" expand="mm">m</abbr>en &#8211; und<lbr/>
+<rend class="latin">Primus</rend> hat schon um halb 6 uhr einge<lbr type="BD"/>feuert, und mich um <formula type="mfrac"><mn>3</mn><mi>4</mi></formula><lbr/>
+geweckt. &#8211; warum muß es izt eben regnen? &#8211; ich<lbr type="BD"/> hoffte<lbr/>
+daß du ein schönes Wetter haben solltest! &#8211; halte dich nur<lbr/>
+hübsch<lbr type="BD"/> warm, damit du dich nicht erkältest; ich hoffe daß<lbr/>
+dir das Baad einen guten<lbr type="BD"/> Winter machen wird &#8211; denn nur<lbr/>
+dieser Wunsch, daß du gesund bleiben möch<lbr type="BD"/>test, hiess mich<lbr/>
+dich antreiben nach Baaden zu gehen. &#8211; mir wird izt<lbr/>
+schon die<lbr type="BD"/> zeitlang um dich &#8211; das sah ich alles vor. &#8211; <lbr/>
+hätte ich nichts zu thun, so würde<lbr type="BD"/> ich gleich auf die 8 tage<lbr/>
+mit dir hinaus gegangen seyn; &#8211; ich habe aber<lbr type="BD"/>&#160;<u>daraus</u><lbr/>
+gar keine <u>bequemlichkeit</u> zum arbeiten; &#8211; und ich möchte<lbr/>
+<pg n="4"/>
+gerne, so viel<lbr type="BD"/> möglich, aller <u>verlegenheit</u> ausweichen; nichts<lbr/>
+angenehmers als wenn man<lbr type="BD"/> etwas ruhig leben kann, deswegen<lbr/>
+muß man fleissig seyn, und ich bin es<lbr type="BD"/> gerne. &#8211; <lbr type="forced"/>
+<add_note type="inline" schr_id="57010"><ts>______</ts><rend class="latin">N. N</rend><ts>______________________</ts>gieb in</add_note><lbr/>
+Dem &#60;Süssmayer gieb in&#62; meinem Namen ein paar tüchtige<lbr/>
+<add_note type="inline" schr_id="57010"><ts>_________________________________________________________</ts><rend class="latin">A.</rend></add_note><lbr/>
+Ohrfeigen, auch lasse ich<lbr type="BD"/> die <additum>[... (1 Wort unkenntlich)]</additum> | welche 1000mal küsse |<lbr/>
+bitten, ihm ein paar zu geben &#8211; lasst<lbr type="BD"/> ihm nur um gottes<lbr/>
+willen keinen Mangel leiden! &#8211; ich möchte um alles in der<lbr type="BD"/><lbr/>
+Welt heut oder morgen von ihm den vorwurf nicht haben<lbr/>
+als hättet ihr ihn nicht gehörig bedienet und verpfleget &#8211; <lbr/>
+&#8211; gebt ihm lieber mehr schläge als<lbr type="BD"/> zu wenig &#8211; <lbr type="forced"/>
+gut wär es, wenn ihr ihm einen krebsen an die Nase zwiktet,<lbr/>
+ein Aug aus<lbr type="BD"/>schlüget, oder sonst eine sichtbare Wunde verursachtet,<lbr/>
+damit der kerl nicht<lbr type="BD"/> einmal das, was er von euch empfangen,<lbr/>
+abläugnen kann; &#8211; <rend class="latin">adieu</rend> liebes<lbr type="BD"/> Weibchen! &#8211; der Wagen<lbr/>
+will abfahren. &#8211; ich hoffe heut gewis etwas von dir<lbr type="BD"/> zu lesen,<lbr/>
+und in dieser süssen Hofnung küsse ich dich 1000mal und<lbr/>
+bin<lbr type="BD"/> Ewig dein<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_______</ts><tshtm>_______________________________________________</tshtm><tspdf>\hfill </tspdf>dich liebender Mann<lbr type="forced"/>
+<ts>_______</ts><tshtm>____________________________________________________</tshtm><tspdf>\hfill </tspdf>W: A: Mozart <abbr expand="manu propria">mp</abbr>
+</NI></letter>
+</text>
+</MUP>

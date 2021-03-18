@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2012">2012-10</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=964</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:38:33 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_400.mup">
+<letter bd="400"><HEADER id="964">MARIA ANNA MOZART AN LEOPOLD MOZART IN SALZBURG<lbr type="forced"/>
+MANNHEIM, 3. UND 4. JANUAR 1778<lbr type="forced"/>
+mit Nachschrift von Wolfgang Amadé Mozart</HEADER>
+
+<pg n="1"/>
+<ts>_____</ts><tshtm>____________________________________________________________</tshtm><ts>_________</ts><tspdf>\hfill </tspdf>Manheim den 3<h>t<abbr v="en"/></h> Jener<lbr type="forced"/>
+<ts>_______________________________________</ts><add_num type="inline"><u>26.</u></add_num><ts>_____</ts><tshtm>___________________________________________</tshtm><ts>____</ts><tspdf>\hfill </tspdf>1778.<lbr type="forced"/>
+Mein lieber Mann<ts>___________________________________________________________________________</ts><add_note type="inline">8</add_note><lbr type="forced"/>
+<lbr type="forced"/>
+göstern als den 2<h>t<abbr v="en"/></h> habe dein<abbr v="en"/> einschlus an herrn Wendling erhalt<abbr v="en"/>,<lbr/>
+und<lbr type="BD"/> zu gleich erseh<abbr v="en"/> das ihr euch be&#255;de gesund befindet, wür<lbr/>
+sind gott se&#255; danck<lbr type="BD"/> auch gesund. hier ist es aber wegen den<lbr/>
+todesfahl des Churfürsten in bairen,<lbr type="BD"/> alles in dieffester thrauer,<lbr/>
+keine <rend class="latin">opera</rend> |: welches mir sehr leid ist :| <rend class="latin">comedi</rend>,<lbr type="BD"/> ball, <rend class="latin">academie</rend>,<lbr/>
+schlittenfahr<abbr v="en"/>, <rend class="latin">Music</rend>, alles ist eingestelt worden. den 31<lbr type="BD"/> abends<lbr/>
+um 7<h>ben</h> uhr ist der <rend class="latin">Curier</rend> von Münichen angeko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>, und hat<lbr/>
+die<lbr type="BD"/> thrauerige nachricht gebracht, das der Churfürst tags vorhero<lbr/>
+nachmitag<lbr type="BD"/> um 1 uhr gestorb<abbr v="en"/>. unser Churfürst aber ist noch<lbr/>
+am Neuen Jahrs abend<lbr type="BD"/> nachts um 10 uhr nacher Münichen ab<pc force="weak">=</pc><lbr/>gereiset, und ist iezt schon lange dorth<lbr type="BD"/> angeko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>, gott gebe<lbr/>
+das alles ein<abbr v="en"/> gueth<abbr v="en"/> ausgang nimbt, und keine<lbr type="BD"/> verdriesslich<pc force="weak">=</pc><lbr/>keit<abbr v="en"/> daraus entstehen, ich winsche es von herzen, dan er ist<lbr/>
+ein<lbr type="BD"/> gar gutter herr. hier ist es iezt so still und von herzen<lbr/>
+langweillig, und in<lbr type="BD"/> Münichen wird es noch mehr sein. das kan<lbr/>
+ich mir vorstellen. disen wintter<lbr type="BD"/> würd es zu Salzburg lustiger<lbr/>
+sein, dan der fasching wehret lang. wie geht es<lbr type="BD"/> dan der frau<lbr/>
+adlgasserin, <amend value="richte">riche</amend> ihr meine Empfehlung aus, ich lasse ihr von<lbr type="BD"/><lbr/>
+herzen <rend class="latin">contolieren</rend>, die arm<abbr v="en"/> kinder sind zu bedauren,<lbr/>
+die Victorl würd wohl<lbr type="BD"/> nicht be&#255; ihr bleib<abbr v="en"/>, und da hat sie recht.<lbr type="forced"/>
+heunt Sontags den 4<h>t<abbr v="en"/></h><ts>_____</ts>göstern abends habe dein<abbr v="en"/> brief von<lbr/>
+29<h>t<abbr v="en"/></h>&#160;<rend class="latin">december</rend> erhalt<abbr v="en"/>, und darinn<abbr v="en"/> mit Vergnieg<abbr v="en"/> gelesen,<lbr/>
+<add_note schr_id="57010"><ts>__________________</ts>Graf<ts>__</ts>Arco<ts>____________</ts>G Starhemberg</add_note>
+das der alt <encr expand="graf arko">grmi mrcs</encr>, den <encr expand="starenberg">otmrlnblrg</encr> so braf<lbr type="BD"/> gebuzt<lbr/>
+hat er meint es doch recht gueth mit uns, mir hat es in<lbr/>
+der Sellen wohl<lbr type="BD"/> gethann, das sie es einmahl erkenn<abbr v="en"/><lbr/>
+was sie in den Wolfgang verlohren<lbr type="BD"/> hab<abbr v="en"/>. das der herr<lbr/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal><lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="2"/>
+ha&#255;den ist organist be&#255; der heillig<abbr v="en"/> dre&#255;faltigkeit geworden,<lbr/>
+<add_note schr_id="57010"><ts>____________________________</ts>niederträchtig</add_note>
+ist von ihme sehr <encr expand="niderträchtig">nfdlrtrm"cutfg</encr> gehandlet, ist er denn nicht<lbr/>
+nach Italien gereisset, um Capellmeister zu werden,<lbr/>
+auf die weis ist wider nichts<lbr type="BD"/> daraus worden. was<lbr/>
+macht dan der Capellmeister <rend class="latin">Rust</rend> ist er noch in Salzburg<lbr type="BD"/><lbr/>
+und gesund worden, oder nicht. wird der herr von Schüden<pc force="weak">=</pc><lbr/>hofen disen<lbr type="BD"/> fasching nicht hochzeit halt<abbr v="en"/>, mit der freile nanerl<lbr/>
+und der herr von Melck<lbr type="BD"/> mit der freile peberl. ist der franz<lbr/>
+<rend class="latin">barisani</rend> noch zu Salzburg, richte unsere<lbr type="BD"/> Empfehlung an ihme<lbr/>
+aus. heunt erwarthet man mit Verlangen einen <rend class="latin">Curier</rend><lbr type="BD"/> von<lbr/>
+bairen, um zu erfahren ob der Curfürst glücklich angeko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/><lbr/>
+ist, und<lbr type="BD"/> was alles dorth passiert, gott gebe es das alles<lbr/>
+ein guettes end nihmet, ich<lbr type="BD"/> winsche es von herzen.<lbr type="forced"/>
+der <rend class="latin">gilovsk&#255;</rend> katel bitt mein<abbr v="en"/> Neu<abbr v="en"/> Jahrs wunsch und <rend class="latin">Compliment</rend><lbr/>
+entgeg<abbr v="en"/><lbr type="BD"/> abzulegen, wie auch an alle andere gutte freinde<lbr/>
+und freindin<abbr v="en"/>. es wehre<lbr type="BD"/> wohl sehr gutt wan du ein empfehlun<pc force="weak">=</pc><lbr/>gs schreib<abbr v="en"/> von wienn, an die Königin<lbr type="BD"/> köntest zu wegen bring<abbr v="en"/><lbr/>
+von andern Neuigkeit<abbr v="en"/> weis ich gar nichts zu<lbr type="BD"/> schreiben, dan hier<lbr/>
+bin ich nicht vill bekand, und du kennest auch nicht vill,<lbr type="BD"/> das<lbr/>
+es dich <rend class="latin">intresieren</rend> solte, aber von Salzburg ist mir alles bekant<lbr/>
+da kanst<lbr type="BD"/> du mir schan schreib<abbr v="en"/> was pa<rend class="latin">siert</rend>, und es gibt auch<lbr/>
+vill mehrer als hier. adio<lbr type="BD"/> lebts be&#255;de gesund ich kisse euch<lbr/>
+vill 100000 mahl und verbleibe wie alzeit<lbr type="BD"/> dein altes getreues<lbr/>
+<tshtm>____________________________________________________________________________________</tshtm>weib<lbr type="BD"/><lbr type="forced"/>
+<tshtm>________________________________________________________________</tshtm><ts>__</ts><tspdf>\hfill </tspdf>Marianna Mozartin<lbr type="forced"/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal><lbr type="forced"/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+
+
+<pg n="3"/>
+
+der Wolfgang ist noch nicht zu Haus, ob er so bald kombt<lbr/>
+das er noch etwas<lbr type="BD"/> weniges schreiben kann weis ich nicht.<lbr/>
+er hat vill zu thuen mit <rend class="latin">Componieren</rend>, dan die Zeit gehet<lbr/>
+geschwind vor be&#255;, und mues sie so gleichsam<lbr type="BD"/> stehlen.<lbr/>
+dan wan man an ein<abbr v="en"/> orth zum ess<abbr v="en"/> geht, an ein<abbr v="en"/><lbr/>
+andern schreibt<lbr type="BD"/> und le<rend class="latin">ction</rend> gibt, und in ein<abbr v="en"/><lbr/>
+trid<abbr v="en"/> orth schlafft, so kan es nicht anderß sein.<lbr type="forced"/>
+
+<NS type="NS" schr_id="39409">
+Ich hoffe daß sie sich be&#255;derseits recht wohl befinden; ich bin<lbr/>
+gott lob und danck<lbr type="BD"/> recht gesund und wohlauf. sie kö<abbr type="topline" expand="nn">n</abbr>en sich ganz<lbr/>
+natürlich vorstellen daß es<lbr type="BD"/> mich sehr verdrüsset das der Chfürst<lbr/>
+von ba&#255;ern gestorben ist. mein wunsch<lbr type="BD"/> ist nun dieser; daß der<lbr/>
+hiesige Chfürst ganz ba&#255;ern bekö<abbr type="topline" expand="mm">m</abbr>t, und sich nach<lbr type="BD"/> München<lbr/>
+zieht &#8211; &#8211; ich glaube sie würden auch damit zufrieden<lbr/>
+se&#255;n. heüt<lbr type="BD"/> mitags um 12 uhr ist <rend class="latin">Carl theodor</rend> be&#255; hof<lbr/>
+als herzog vom ba&#255;ern <rend class="latin">declarirt</rend><lbr type="BD"/> worden. zu München aber<lbr/>
+hat der graf daun obristallmeister gleich nach den tod<lbr/>
+des Chfürsten sich für den <u>hiesigen</u> huldigen lassen, und<lbr/>
+die <rend class="latin">dragoner</rend> in<lbr type="BD"/> der ganzen statt mit trompetten und Paucken<lbr/>
+herum reiten lassen, mit ausrufung. Es lebe unser Chfürst<lbr/>
+<rend class="latin">Carl theodor</rend>. we<abbr type="topline" expand="nn">n</abbr> es alles, wie ich wünsche<lbr type="BD"/> gut abläuft, so wird der<lbr/>
+h<abbr type="curve">:</abbr> graf <rend class="latin">Daun</rend> ein ziemlich schöns præsent beko<abbr type="topline" expand="mm">m</abbr>en.<lbr type="BD"/> sein <rend class="latin">adjutant</rend>, welchen<lbr/>
+er mit der todten=nachricht hieher geschickt hat | er<lbr type="BD"/> heist <rend class="latin">lilienau</rend> | hat<lbr/>
+von Chfürst: 3000 fl: beko<abbr type="topline" expand="mm">m</abbr>en. Nun leben sie recht wohl.<lbr type="BD"/> ich küsse ihnen<lbr/>
+1000 mahl die hände, und meine schwester umarme ich von<lbr type="BD"/> herzen und bin<lbr/>
+wolf: Mozart <abbr expand="manu propria">mp</abbr>. <rend class="latin">à tous mes amis des Compliments</rend>.
+</NS><lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal><lbr type="forced"/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+
+<pg n="4"/>
+
+<anschrift><rend class="latin">À<lbr type="forced"/>
+Monsieur<lbr type="forced"/>
+Monsieur Leopold Mozart<lbr type="forced"/>
+maitre de la Chapelle de<lbr type="BD"/> S: A: R:<lbr type="forced"/>
+L'archeveque de salzbourg<lbr type="forced"/>
+à</rend><lbr type="forced"/>
+<add_note><rend class="latin">fro <u>augspurg</u></rend></add_note>
+<rend class="latin"><u>Salzbourg.</u></rend></anschrift>
+<lbr/>
+<add_num impl="crayon" color="red" rot="270">N. 26</add_num>
+<add_num impl="crayon" color="red" rot="90">N. 26</add_num>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal><lbr type="forced"/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal></letter>
+</text>
+</MUP>

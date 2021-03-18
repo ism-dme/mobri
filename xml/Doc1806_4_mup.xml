@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2014">2014-8</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=40</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:25:56 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/Doc1806_4_mup.txt">
+<HEADER id="40">GEORG NIKOLAUS NISSEN AN CARL THOMAS MOZART IN MAILAND<lbr/>
+WIEN, 13. DEZEMBER 1806</HEADER>
+
+
+<pg n="1"/>
+<conv type="inline" lang="fr"><u><rend class="latin">Voyez l’enveloppe.</rend></u></conv><ts>_____</ts><tspdf>\hfill </tspdf><rend class="latin">À Vienne ce 13. de</rend><lbr type="forced"/>
+<add_num type="inline" impl="ink"><rend class="latin">N<h><uu>o</uu></h></rend> 20</add_num><ts>__________________________</ts><tspdf>\hfill </tspdf><rend class="latin">Déc. 1806.</rend><lbr type="forced"/>
+<ts>_____</ts><rend class="latin">Mon cher Charles,<lbr type="forced"/>
+Ayant reçu Votre lettre du 26. Nov.,<lbr/>
+je m’empresse d’y repondre après<lbr/>
+avoir pris les informations qui in<pc force="weak">-</pc><lbr/>téressent Votre ami et par-là<lbr/>
+Vous-même. Ni M. Bridi ni M.<lbr/>
+Coith ne se mêlent de cet objet;<lbr/>
+et c’est seulement aux parfumeurs<lbr/>
+qu’il faut s’adresser.<lbr/>
+Le dernier de ces négocians m’a<lbr/>
+recommandé le beaupère du Sur<pc force="weak">-</pc><lbr/>intendant de l’église luthérienne;<lbr/>
+et c’est de</rend>&#160;<suppl hand="self" pos="supra"><rend class="latin">ce</rend></suppl><rend class="latin">lui-</rend><suppl hand="self" pos="supra"><rend class="latin">ci</rend></suppl>&#160;<rend class="latin">que j’ai tiré la reponse<lbr/>
+qui suit:</rend><lbr type="forced"/>
+<rend class="latin">Der Debit dieser Waare ist hier so<lbr/>
+geringe, daß Jedermann, der eine<lbr/>
+so ansehnliche Quantität <u>kommen</u><lbr/>
+<u>ließe</u>, offenbar Gefahr liefe, dabey</rend><lbr/>
+<pg n="2"/>
+<rend class="latin">zu verlieren. Wären indessen<lbr/>
+die zwey Pfund auch schon hier<lbr/>
+auf dem Plaze, so würde man sie<lbr/>
+doch schwerlich theurer als um<lbr/>
+900. bis 1000. Gulden anbringen.<lbr/>
+Wenn sie meinem Schwiegervater<lbr/>
+bloss als Commissionsartikel zum<lbr/>
+Verkauf übergeben würden, so<lbr/>
+zweifle ich wohl nicht, dass er<lbr/>
+sie übernehmen würde.</rend><lbr type="forced"/>
+<ts>_____</ts><rend class="latin">Nous prenons tous la part la plus<lbr/>
+sincère à la santé du digne Conseiller.<lbr/>
+Puisse-t-il se retablir bientôt et<lbr/>
+solidement! L’esprit peut beaucoup<lbr/>
+sur le corps. C’est Vous qui pourrez<lbr/>
+par les attentions qu’il mérite à un<lbr/>
+si haut dégré, contribuer le plus à<lbr/>
+sa guérison. Présentez-lui toutes</rend><lbr/>
+<pg n="3"/>
+<rend class="latin">nos amitiés et tous nos voeux pour lui.<lbr type="forced"/>
+<ts>_____</ts>Avez Vous tiré quelque profit dé<pc force="weak">-</pc><lbr/>siré de la lettre du M<h><uu>is</uu></h> Rosales?<lbr/>
+Voilà ce sur quoi Vous Vous taisez abso<pc force="weak">-</pc><lbr/>lument. Dites nous de même, combien<lbr/>
+des envois de musique Vous avez<lbr/>
+reçu cette année de la part de Votre<lbr/>
+mère. Elle Vous en a fait tout au<lbr/>
+moins trois.<lbr type="forced"/>
+<ts>_____</ts>Elle Vous salue tendrement ainsi<lbr/>
+que le fait Votre frère. Ils ont la<lbr/>
+satisfaction d’avoir ici la famille de<lbr/>
+Pixis. Vous Vous rappellerez les deux jeunes<lbr/>
+artistes de ce nom, qui voyagent depuis<lbr/>
+leur 9.<h>e</h> année; natifs de Mannheim.<lbr type="forced"/>
+<ts>_____</ts>Wolfgang vient de composer la<lbr/>
+stance que Vous trouverez au bout<lbr/>
+de ma lettre, et que Votre mère me<lbr/>
+charge de Vous communiquer, à fin<lbr/>
+que Vous en fassiez autant. Vous</rend><lbr/>
+<pg n="4"/>
+<rend class="latin">verrez d’abord ce que c’est, et il ne<lbr/>
+me reste qu’à Vous dire qu’il en a<lbr/>
+été fait, je ne sai pourquoi, une<lbr/>
+soixantaine de compositions, et<lbr/>
+qu’une société, qui s’en fait une<lbr/>
+affaire, voudroit eu avoir et publier<lbr/>
+encore davantage. Ce seroit bien<lbr/>
+joli si deux fils de<lbr/>
+<tshtm>__________</tshtm>Mozart<lbr/>
+pouvoient faire agréer à la fois<lbr/>
+leur travail.<lbr type="forced"/>
+Je Vous embrasse et serai aussi<lbr/>
+longtems que Vous le mériterez,<lbr/>
+c’est sans doute dire à toujours,<lbr type="forced"/>
+<ts>_______________</ts>à Vous</rend><lbr type="forced"/>
+<ts>____________________</ts><tspdf>\hfill </tspdf><rend class="latin"><u>Nissen</u></rend>
+<lg type="poem" lang="it"><rend class="latin">In questa tomba oscura<lbr/>
+lasciami riposar.<lbr/>
+Quando vivevo, ingrata,<lbr/>
+dovevi a me pensar.<lbr/>
+Lascia; che l’ombre ignude<lbr/>
+godansi pace almen,<lbr/>
+e non bagnar mie ceneri<lbr/>
+d’inutile velen.</rend></lg>
+<ts>_______________</ts><tspdf>\hfill </tspdf><conv lang="fr"><rend class="latin"><u>Voyez l’enveloppe.</u></rend></conv></text>
+</MUP>

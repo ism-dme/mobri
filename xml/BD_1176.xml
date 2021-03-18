@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2014">2014-6</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1747</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:42:22 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_1176.mup">
+<letter bd="1176"><HEADER id="1747">WOLFGANG AMADÉ MOZART AN CONSTANZE MOZART IN BADEN BEI WIEN<lbr/>
+WIEN, 3. JULI 1791</HEADER>
+<pg n="1"/>
+<ts>______________</ts><tshtm>____________</tshtm>liebstes, Bestes HerzensWeibchen! &#8211; <lbr type="forced"/>
+<lbr type="forced"/>
+Ich habe deinen brief mit dem vom <rend class="latin">Montecucoli</rend> richtig erhalten, und daraus<lbr type="BD"/> mit<lbr/>
+vergnügen gesehen, daß du Gesund und wohl bist. &#8211; hab mir's wohl ein<lbr type="BD"/>gebildet<lbr/>
+du wirst 2mal nacheinander baaden, kriegst schon deine Schläge, wenn<lbr type="BD"/> ich wieder<lbr/>
+zu dir ko<abbr type="topline" expand="mm">m</abbr>e! &#8211; ich danke für das überschickte <rend class="latin">finale</rend> und kleider,<lbr type="BD"/> kann aber<lbr/>
+nicht begreifen daß du keinen brief dazu geschrieben hast &#8211; hab<lbr type="BD"/> alle<lbr/>
+Säcke im Rock und beinkleider durchgesucht &#8211; vieleicht daß ihn die brief<pc force="weak">=</pc><lbr/>trägerinn noch im Sack herumträgt! &#8211; mich freuet nur daß <u>du</u> dich wohl<lbr/>
+be<lbr type="BD"/>findest, liebes Weiberl &#8211; und verlasse mich darauf daß du meinen Rath<lbr/>
+folgen<lbr type="BD"/> wirst &#8211; dann kann ich doch ein bischen ruhiger seyn! &#8211; was meine<lbr/>
+Gesund<lbr type="BD"/>heit anbelangt befinde ich mich recht wohl &#8211; meine Geschäfte hoffe ich<lbr type="BD"/> werden<lbr/>
+auch so viel möglich gut gehen &#8211; ganz ruhig kann ich noch nicht<lbr type="BD"/> seyn &#8211; bis<lbr/>
+es nicht zu Ende ist &#8211; doch hoffe ich es bald zu enden.<lbr type="forced"/>
+<add_note schr_id="57010"><ts>______________________</ts><rend class="latin">N. N.</rend></add_note>
+Ich hoffe &#60;Süssmayer&#62; wird nicht vergessen daß was ich ihm herausgelegt,<lbr/>
+auch<lbr type="BD"/> gleich zu schreiben &#8211; auch hoffe ich mir heute die Stücke von meiner<lbr/>
+<add_note schr_id="57010"><ts>_______________________________________________________________________________</ts><rend class="latin">N. N.</rend></add_note>
+Par<lbr type="BD"/>titur | so ich verlanget | zu erhalten. &#8211; aus &#60;Süssmayers&#62; lateinischen<lbr/>
+briefe merke ich<lbr type="BD"/> daß ihr keinen Wein trinkt &#8211; das ist mir nicht recht.<lbr/>
+rede mit dem Thurner<lbr type="BD"/>Meister &#8211; er macht sich gewis ein vergnügen<lbr/>
+daraus, dir ihn auf meine Rech<lbr type="BD"/>nung zu geben; er ist ein gesunder<lbr/>
+Wein, und nicht theuer. das Wasser aber<lbr type="BD"/> ist zu schlecht: &#8211; <lbr type="forced"/>
+<pg n="2"/>
+gestern habe ich mit dem Obristlieutenant gespeist | bey Schickaneder | der<lbr type="BD"/> auch im<lbr/>
+<rend class="latin">Antoni</rend> Baad ist. &#8211; heute Speise ich bey Puchberg. &#8211; <rend class="latin">adieu</rend> schatzerl &#8211;<lbr type="BD"/> liebe<lbr/>
+Stanzi <rend class="latin">Marini</rend>, ich muß eilends schlüssen &#8211; eben höre ich 1 uhr schlagen<lbr/>
+ &#8211;<lbr type="BD"/> und du weist daß man bey Puchberg früh ist. &#8211; <rend class="latin">adieu</rend>. &#8211; Ewig dein<lbr type="forced"/>
+<ts>_________</ts><tshtm>_________________________________________________________________________________</tshtm><tspdf>\hfill </tspdf>Mozart <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+So<abbr type="topline" expand="nn">n</abbr>tag den 3:<h>t</h>&#160;<rend class="latin">Julliy</rend>. <uu>791</uu>.<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____</ts><tshtm>__</tshtm>küsse vielmal den <rend class="latin">Carl</rend> &#8211; und Peitsche den &#60;Süssmayer&#62;.
+<add_note type="inline" schr_id="57010"> den Tischnarren</add_note><lbr/>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+</letter>
+</text>
+</MUP>

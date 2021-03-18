@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2014">2014-5</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1263</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Verbleib unbekannt</bibl>
+            <bibl type="source" subtype="RISM">Verbleib unbekannt</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:40:13 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_696.mup">
+<letter bd="696"><NI src="Unbekannt"><HEADER id="1263">WOLFGANG AMADÉ MOZART AN MARTHA ELISABETH BARONIN VON<tspdf>\newline</tspdf> WALDSTÄTTEN IN WIEN<lbr/>
+WIEN, 28. SEPTEMBER 1782</HEADER>
+<pg n="1"/>
+<add_num type="inline">67</add_num><ts>_______________________________________________________________________________________________________________________</ts><add_num type="inline">5</add_num><lbr/>
+<ts>_________</ts><tshtm>____________________________________________________________________</tshtm><tspdf>\hfill </tspdf><rend class="latin"><u>Wie<abbr type="topline" expand="nn">n</abbr></u></rend> den 28:<h>tn</h>&#160;<rend class="latin">September</rend><lbr type="forced"/>
+<ts>___________</ts><tshtm>_______</tshtm><rend class="latin">Wertheste frau Baronin!</rend><ts>______</ts><tshtm>__________________________________________</tshtm><tspdf>\hfill </tspdf><uu>1782</uu>.<lbr type="forced"/>
+<lbr type="forced"/>
+Als Euer gnaden gestern die gnade hatten mich auf Morgen So<abbr type="topline" expand="nn">n</abbr>tags<lbr/>
+zum<lbr type="BD"/> speisen einzuladen, dachte ich nicht daran, daß ich schon vor 8 tägen<lbr/>
+mich auf<lbr type="BD"/> diesen tag <rend class="latin">Engagirt</rend> habe im Augarten zu speisen. &#8211; <lbr type="forced"/>
+<rend class="latin">Martin</rend> das <rend class="latin">Angerl</rend> welches in vielen Stücken mir <rend class="latin">obligirt</rend> zu se&#255;n glaubt,<lbr/>
+will<lbr type="BD"/> mich <rend class="latin">absolument</rend> mit einem <rend class="latin">Dinèe tracti</rend>ren; &#8211; ich glaubte es gestern<lbr/>
+noch<lbr type="BD"/> anders <rend class="latin">tourniren</rend> und folglich nach meinem Wunsch <rend class="latin">accomodiren</rend><lbr/>
+zu kö<abbr type="topline" expand="nn">n</abbr>en;<lbr type="BD"/> allein es war nicht möglich, weil das <rend class="latin">Angerl</rend> schon alles<lbr/>
+bestellt und <rend class="latin">arrangirt</rend><lbr type="BD"/> hatte, und folglich umsonst die <rend class="latin">depense</rend> machen<lbr/>
+müste; &#8211; mithin und dero<lbr type="BD"/>halben werden mich Euer gnaden dermalen<lbr/>
+<rend class="latin">pardoniren</rend>, und we<abbr type="topline" expand="nn">n</abbr> mir Euer<lbr type="BD"/> Gnaden <rend class="latin">permettiren</rend>, so werden wir<lbr/>
+zwe&#255; künftigen dienstag die Ehre haben<lbr type="BD"/> hochdieselben zu <rend class="latin">compli<pc force="weak">=</pc><lbr/>mentiren</rend> und zu <rend class="latin">veneriren</rend>, und die frl: <rend class="latin">v:</rend> Auer<lbr type="BD"/>ha<abbr type="topline" expand="mm">m</abbr>er zu kl&#255;<pc force="weak">=</pc><lbr/>stiren, we<abbr type="topline" expand="nn">n</abbr> sie ihr zi<abbr type="topline" expand="mm">m</abbr>er nicht besser wird <rend class="latin">fermi</rend>ren. &#8211;<lbr type="BD"/> Nun aber<lbr/>
+spass <rend class="latin">a part</rend>, wegen dem <rend class="latin">Concert</rend> welches ich im theater gespiellt,<lbr type="BD"/> möchte<lbr/>
+ich es doch unter 6 duckaten nicht hergeben, hingegen würde ich<lbr type="BD"/> die<lbr/>
+kösten der <rend class="latin">Copiatur</rend> über mich nehmen. &#8211; wegen dem schönen rothen<lbr type="BD"/><lbr/>
+<rend class="latin">frok</rend> welcher mich ganz grausam im herzen kitzelt, bittete ich halt<lbr/>
+recht<lbr type="BD"/> sehr mir recht sagen zu lassen <u>wo man ihn beko<abbr type="topline" expand="mm">m</abbr>t</u>, und <u>wie<lbr/>
+theuer</u>, de<abbr type="topline" expand="nn">n</abbr><lbr type="BD"/> daß hab ich ganz vergessen, weil ich nur die schönheit<lbr/>
+davon in betrachtung gezogen, und nicht den Preis. &#8211; de<abbr type="topline" expand="nn">n</abbr> so einen<lbr/>
+<rend class="latin">frok</rend> muß ich haben, damit es<lbr type="BD"/> der Mühe werthe ist die knöpfe<lbr/>
+<pg n="2"/>
+darauf zu setzen, mit welchen ich schon lange<lbr type="BD"/> in meinen gedanken schwanger<lbr/>
+gehe; &#8211; ich habe sie einmal, als ich mir zu<lbr type="BD"/> einem kleide knöpfe aus<pc force="weak">=</pc><lbr/>nahm, auf dem kohlmark in der Brandauischen<lbr type="BD"/> knöpf<rend class="latin">fabrique</rend><lbr/>
+<rend class="latin">vis a vis</rend> dem <rend class="latin">Milano</rend> gesehen. &#8211; diese sind Perlmutter, auf der<lbr type="BD"/><lbr/>
+seite etwelche weisse Steine herum, und in der Mitte ein schöner<lbr/>
+gelber Stein. &#8211;<lbr type="BD"/> Ich möchte alles haben was gut, ächt und schön<lbr/>
+ist! &#8211; woher ko<abbr type="topline" expand="mm">m</abbr>t es doch,<lbr type="BD"/> daß die, welche es nicht im Stande sind,<lbr/>
+alles auf so was verwenden möchten,<lbr type="BD"/> und die, welche es im<lbr/>
+Stande wären, es nicht thun? &#8211; Nun glaube ich ist es<lbr type="BD"/> schon längst<lbr/>
+über die zeit daß ich meinem geschmiere hätte ein Ende machen<lbr type="BD"/><lbr/>
+sollen, &#8211; <rend class="latin">j kiss your hands, and hoping to see you in good health<lbr/>
+the Tuesday<lbr type="BD"/> j am</rend><lbr type="forced"/>
+<lbr type="forced"/>
+<rend class="latin">Constanza</rend>, mein andertes ich, küsset<lbr type="forced"/>
+Euer gnaden 1000mal die hände,<ts>___</ts><tshtm>__________</tshtm><tspdf>\hfill </tspdf><rend class="latin">your most humble servant</rend><lbr type="forced"/>
+und der Auerha<abbr type="topline" expand="mm">m</abbr>er giebt sie ein<ts>___</ts><tshtm>__________________________</tshtm><tspdf>\hfill </tspdf>Mozart <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+busserl, davon darf aber ich nichts<lbr type="forced"/>
+wissen, sonst graust es mir gleich.<lbr type="forced"/>
+<pg n="3"/>
+<vacat/>
+<pg n="4"/>
+<anschrift rot="90"><rend class="latin">À<lbr type="forced"/>
+Madame<lbr type="forced"/>
+Madame La Baro<abbr type="topline" expand="nn">n</abbr>e de Waldstaetten<lbr type="forced"/>
+nèe de Scheffer.<lbr type="forced"/>
+à<lbr type="forced"/>
+<u>Leopoldstadt</u>.</rend></anschrift>
+</NI></letter>
+</text>
+</MUP>

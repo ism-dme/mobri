@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2015">2015-7</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=698</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">GB-Gu</bibl>
+            <bibl type="source" subtype="RISM">GB-Gu (Glasgow University Library)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:36:57 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_139.mup">
+<letter bd="139"><NI src="GB-Gu"><HEADER id="698">LEOPOLD MOZART AN JOSEPH II. IN WIEN, SPECIES FACTI<lbr/>
+WIEN, 21. SEPTEMBER 1768, VORSCHRIFT</HEADER>
+<pg n="1"/>
+<add_note schr_id="57010"><ts>_____</ts>Ohne Zweifel dem Kaiser übergeben.</add_note>
+<add_note><ts>____________________________________________________________</ts><rend class="latin">Köchel op.</rend> 51<lbr/>
+<ts>__________________________________________________________</ts>Über <rend class="latin">La Finta semplice</rend><lbr/>
+<ts>__________________________________________________________</ts>Komische Oper in 3 Akten<lbr/>
+<ts>__________________________________________________________</ts>componiert 1768 zu <rend class="latin">Wien</rend>.</add_note>
+<ts>________________________</ts><rend class="latin">Species facti</rend><lbr type="forced"/>
+<lbr type="forced"/>
+Nachdem viele des hiesigen Adels, so wohl durch auswärtige Nachricht<abbr v="en"/><lbr/>
+als durch eigene Untersuchung und angestellte Proben von dem ausseror<pc force="weak">=</pc><lbr/>dentlichen Talente meines Sohnes überzeuget war<abbr v="en"/>; so wurde es durch<pc force="weak">=</pc><lbr/>gehends als eine der bewunderungswürdigsten Begebenheit<abbr v="en"/> dieser und<lbr/>
+der vorigen Zeiten angesehen, wenn ein Knab von 12 Jahren eine <rend class="latin">Opera</rend><lbr/>
+schreiben, und selbst <rend class="latin">dirigi</rend>r<abbr v="en"/> sollte. Eine gelehrte Schrift aus Paris<lbr/>
+bestärkte diese Meinung, indem solche, nach einer ausführlich<abbr v="en"/> Be<pc force="weak">=</pc><lbr/>schreibung der <rend class="latin">Genie</rend> meines Sohnes behauptet: <u>es wäre kein Zweifel,<lbr/>
+dieses Kind werde in einem Alter von 12 Jahren auf einem oder dem<lbr/>
+andern Theater Italiens eine <rend class="latin">Opera</rend> schreiben</u>; und iederman glaubte<lbr/>
+ein Deutscher müste solch ein<abbr v="en"/> Ruhm nur seinem Vatterlande vorbehalt<abbr v="en"/>.<lbr/>
+Ich wurde hiezu einhellig aufgemuntert; Ich folgte der allgemein<abbr v="en"/><lbr/>
+Sti<abbr type="topline" expand="mm">m</abbr>e, und der Holländ<abbr type="curve">:</abbr> Minister h<abbr type="curve">:</abbr> Graf von Degenfeld war der<lbr/>
+erste, welcher dem Theater<rend class="latin">impressario Affligio</rend> den Vorschlag machte;<lbr/>
+weil ihm die Fehigkeit des Knaben schon in Holland sattsam bekannt<lbr/>
+ware. der Sänger <rend class="latin">Carattoli</rend> war der zwe&#255;te, der es dem <rend class="latin">Affligio</rend><lbr/>
+vortrug; und die Sache wurde be&#255; dem Leib<rend class="latin">medico Laugier</rend> in Gegen<pc force="weak">=</pc><lbr/>wart des jung<abbr v="en"/>&#160;<rend class="latin">Baron van Swieten</rend> und der zween Sänger <rend class="latin">Carattoli</rend><lbr/>
+und <amend value="Caribaldi">Caribali</amend> mit dem <rend class="latin">Impressario</rend> beschlossen, um so mehr, als alle,<lbr/>
+sonderbar aber die 2 Sänger mit grösstem Ausdruck behauptet<abbr v="en"/>, daß<lbr/>
+eine auch sehr mittelmässige Musik von einem so jung<abbr v="en"/> knab<abbr v="en"/><lbr/>
+wegen dem ausserordentlich wunderbar<abbr v="en"/>, und schon um dieses Kind im<lbr/>
+<rend class="latin">orchester</rend> be&#255;m <rend class="latin">Clavier</rend> sein Werk <rend class="latin">dirigi</rend>ren zu sehen, die ganze Statt<lbr/>
+ins Theater ziehen müste. Ich ließ also mein<abbr v="en"/> Sohn schreib<abbr v="en"/>.<lbr type="forced"/>
+<lbr type="forced"/>
+Sobald der erste <rend class="latin">Act</rend> fertig war, bath ich den <rend class="latin">Carattoli</rend> solch<abbr v="en"/><lbr/>
+zu hören und zu beurtheilen, um mich sicher zu stellen.<lbr/>
+Er kam, und seine Verwunderung war so groß, daß er gleich den<lbr/>
+folgenden Tag wieder be&#255; mir erschien, und den <rend class="latin">Caribaldi</rend> mit sich<lbr/>
+brachte. <rend class="latin">Caribaldi</rend>, nicht weniger erstaunt, führte ein paar Tage<lbr/>
+darauf den <rend class="latin">Poggi</rend> zu mir. Alle zeigten einen so ungemein<abbr v="en"/><lbr/>
+Beyfahl, daß sie alle, auf mein wiederhohltes fragen: <u>ob sie<lbr/>
+wohl glaubten daß es gut wäre? &#8211; ob sie dafür hielt<abbr v="en"/>, daß er fort<pc force="weak">=</pc><lbr/>fahren sollte</u>? &#8211; &#8211; sich über mein Misstrau<abbr v="en"/> ärgerten, und öfters<lbr/>
+<lbr/>
+<add_seal type="owner">GLASGOW<lbr/>
+UNIVERSITY<lbr/>
+LIBRARY:</add_seal>
+<pg n="2"/>
+mit vieler Bewegung ausrufften: <rend class="latin">cosa? &#8211; &#8211; come? questo è un por<pc force="weak">=</pc><lbr/>tento! questa opera andera alle Stelle! è una meraviglia! &#8211; non dubiti,<lbr/>
+che scrivi avanti</rend>! &#8211; &#38;c: sa<abbr type="topline" expand="mm">m</abbr>t einer Menge anderer Ausdrücke. das<lbr/>
+nämliche sagte mir nach der Hand <rend class="latin">Carattoli</rend> in seinem aigen<abbr v="en"/> Zi<abbr type="topline" expand="mm">m</abbr>er.<lbr type="forced"/>
+<lbr type="forced"/>
+Durch den Be&#255;fall der Sänger eines erwünscht<abbr v="en"/> Erfolges versichert ließ ich<lbr/>
+meinen Sohn in der Arbeit fortfahren; bath aber auch den Leib<rend class="latin">Medicum<lbr/>
+Logier</rend> mit dem <rend class="latin">Impressario</rend> der Bezahlung halber in meinem Nahmen<lbr/>
+Richtigkeit zu machen. Es geschahe; und <rend class="latin">Affligio</rend> versprach 100 <rend class="latin">ducca</rend>t<abbr v="en"/>.<lbr/>
+Um nun mein<abbr v="en"/> theuern Aufenthalt in Wie<abbr type="topline" expand="nn">n</abbr> zu verkürzen, machte ich damals<lbr/>
+den Antrag, daß die <rend class="latin">Opera</rend> noch vor der Abreise S:<h>r</h> Mayst<abbr type="curve">:</abbr> nach Hungarn<lbr/>
+aufgeführt werden möchte; allein einige Abänderung<abbr v="en"/>, die der Poet im<lbr/>
+Texte zu machen hatte, he<abbr type="topline" expand="mm">m</abbr>ten die <rend class="latin">Composition</rend>; und <rend class="latin">Affligio</rend> erklarte<lbr/>
+sich, daß er solche auf die Zurückkunft S:<h>r</h> Mayst<abbr type="curve">:</abbr> wolle aufführ<abbr v="en"/> lass<abbr v="en"/>.<lbr type="forced"/>
+<lbr type="forced"/>
+Nun lag die <rend class="latin">opera</rend> schon einige Wochen fertig. Man fieng zu <rend class="latin">Copi</rend>er<abbr v="en"/><lbr/>
+an; und der erste <rend class="latin">Act</rend> wurde den Sängern, gleich darauf auch der Zweyte<lbr/>
+ausgetheilt: da unterdess<abbr v="en"/> mein Sohn ein und andere Arie, ja so gar<lbr/>
+das <rend class="latin">Finale</rend> des ersten <rend class="latin">Acts</rend> bey verschieden<abbr v="en"/> Gelegenheit<abbr v="en"/> der <rend class="latin">Noblesse</rend><lbr/>
+beym Clavier <rend class="latin">produci</rend>ren musste, welches von allen bewundert ward,<lbr/>
+davon be&#255; T<abbr type="curve">:</abbr> Fürsten von <rend class="latin">Kauniz Affligio</rend> selbst ein Augen und Ohren<pc force="weak">=</pc><lbr/>zeug ware. Nun sollten die Proben ihren Anfang nehmen.<lbr type="forced"/>
+Allein, &#8211; wie hätte ich dieses vermuthen sollen! hier nahmen auch die Ver<pc force="weak">=</pc><lbr/>folgungen gegen mein<abbr v="en"/> Sohn ihren Anfang.<lbr type="forced"/>
+<lbr type="forced"/>
+Es geschieht sehr selten, daß eine <rend class="latin">Opera</rend> gleich be&#255; der ersten Probe<lbr/>
+vollko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/> gut ausfallen, und nicht hin und wieder eine Abänderung<lbr/>
+leiden sollte. Eben desswegen pflegt man anfangs be&#255; dem Flügl allein,<lbr/>
+und bis nicht die Sänger ihre Parthien, besonders die <rend class="latin">Finale</rend> wohl zusa<abbr type="topline" expand="mm">m</abbr><pc force="weak">=</pc><lbr/>studiert haben, niemals mit allen Instrument<abbr v="en"/> zu probiern.<lbr type="forced"/>
+Doch hier geschahe gerade das Gegentheil. Die Rollen waren noch nicht<lbr/>
+genug studiert, es war keine Probe der Sänger be&#255;m <rend class="latin">Clavier</rend> gemacht,<lbr/>
+die <rend class="latin">Finale</rend> nicht zusa<abbr type="topline" expand="mm">m</abbr>studiert, und de<abbr type="topline" expand="nn">n</abbr>och nahm man die Probe<lbr/>
+des ersten <rend class="latin">Acts</rend> mit dem ganzen <rend class="latin">Orchester</rend> vor, um nur der Sache<lbr/>
+<pg n="3"/>
+gleich anfangs ein geringes und verwirrtes Ansehen zu geben.<lbr/>
+Niemand, der zugegen war, wird es eine Probe ne<abbr type="topline" expand="nn">n</abbr><abbr v="en"/> ohne darüber<lbr/>
+zu erröthen; und das lieblose betragen derjenigen, den<abbr v="en"/> es ihr<lbr/>
+Gewissen sagen wird, will ich nicht anführen. Gott mag es ihn<abbr v="en"/><lbr/>
+verzeihen.<lbr type="forced"/>
+Nach der Probe sagte mir <rend class="latin">Affligio</rend>: <u>es wäre gut; doch, da ein und<lbr/>
+anderes zu hoch wäre, so müste da und dort einige Veränderung<lbr/>
+gemacht werden: ich möchte nur mit den Sangern sprechen; und<lbr/>
+da S:<h>r</h> Mayst<abbr type="curve">:</abbr> schon in 12 Tägen hier wären, so wollte er die <rend class="latin">Opera</rend><lbr/>
+in 4 oder längstens 6 Wochen aufführ<abbr v="en"/>, damit man Zeit hätte<lbr/>
+alles in gute Ordnung zu bringen. Ich sollte mich darüber gar<lbr/>
+nicht aufhalten; er se&#255; Ma<abbr type="topline" expand="nn">n</abbr> von seinem Worte, und werde in allem<lbr/>
+sein Versprech<abbr v="en"/> halt<abbr v="en"/>; es wäre nichts neues; auch be&#255; andern<lbr/>
+<rend class="latin">opern</rend> giengen Abanderungen vor <abbr expand="etc">etc</abbr>&#160;<abbr expand="etc">etc:</abbr></u><lbr type="forced"/>
+<lbr type="forced"/>
+Es wurde demnach dasjenige, was die Sänger verlangten, abge<pc force="weak">=</pc><lbr/>ändert, und in den ersten <rend class="latin">Act</rend> zwo neue Arien gemacht: unterdess<abbr v="en"/><lbr/>
+aber im Theater <rend class="latin">la Caschina</rend> aufgeführet. Nun war die besti<abbr type="topline" expand="mm">m</abbr>te<lbr/>
+Zeit verflossen, und ich hörte <rend class="latin">Affligio</rend> hätte abermahl eine andere<lbr/>
+<rend class="latin">opera</rend> austheilen lassen. Es gieng so gar die Rede: <rend class="latin">Affligio</rend><lbr/>
+werde die <rend class="latin">Opera</rend> gar nicht aufführ<abbr v="en"/>, er hätte sich verlaut<abbr v="en"/> lassen,<lbr/>
+<u>die Sänger könnt<abbr v="en"/> solche nicht singen</u>: die es doch selbst vorhero nicht nur<lbr/>
+gut geheissen, sondern bis in den Hi<abbr type="topline" expand="mm">m</abbr>el erhoben hatt<abbr v="en"/>.<lbr type="forced"/>
+Um mich auch wider dieses Geschwätz sicher zu stellen musste mein<lbr/>
+Sohn be&#255; dem jungen <rend class="latin">Baron van Swieten</rend> in Gegenwart des h<abbr type="curve">:</abbr> Grafen<lbr/>
+von <rend class="latin">Spork</rend>, des <rend class="latin">Duca de Braganza</rend> und anderer Musikverständig<abbr v="en"/><lbr/>
+die ganze <rend class="latin">Opera</rend> beym <rend class="latin">Clavier</rend>&#160;<rend class="latin">produci</rend>er<abbr v="en"/>. Alle verwunderten<lbr/>
+sich höchstens über das Vorgeben des <rend class="latin">Affligio</rend> und der Sänger;<lbr/>
+alle waren sehr geriert und erklärt<abbr v="en"/> sich einhellig, daß ein so unchristliches<lbr/>
+unwahrhaftes und bosshaftes Vorgeben nicht zu begreiff<abbr v="en"/> wäre; daß<lbr/>
+sie diese <rend class="latin">Opera</rend> mancher italiänisch<abbr v="en"/> vorzög<abbr v="en"/>, und daß, statt ein solches<lbr/>
+hi<abbr type="topline" expand="mm">m</abbr>lisches Talente zu ermuntern ein <rend class="latin">Cabale</rend> dahinter stecke, welches<lbr/>
+<lbr/>
+<add_seal type="owner">GLASGOW<lbr/>
+UNIVERSITY<lbr/>
+LIBRARY:</add_seal>
+<pg n="4"/>
+sichtbarlich nur dahin abziehle dem unschuldig<abbr v="en"/> Knab<abbr v="en"/> den Weeg zu<lbr/>
+seiner verdient<abbr v="en"/> Ehre und Glück abzuschneid<abbr v="en"/>.<lbr type="forced"/>
+Ich begab mich zum <rend class="latin">Impressario</rend>, die wahre der Sachen Beschaffenheit zu<lbr/>
+erfahren. Dieser sagte mir: <u>Er wäre niemals dagegen die <rend class="latin">Opera</rend><lbr/>
+aufzuführen; ich werde es ihm aber nicht verdenk<abbr v="en"/>, we<abbr type="topline" expand="nn">n</abbr> er auf sein <rend class="latin">interesse</rend><lbr/>
+sehe; man hätte ihm einig<abbr v="en"/> Zweifel be&#255;gebracht, daß solche vielleicht<lbr/>
+nicht gefahlen möchte; er habe die <rend class="latin">Caschina</rend>, und wolle nun auch die<lbr/>
+<rend class="latin">Buona figliuola</rend> probieren lassen, dann aber gleich des Knab<abbr v="en"/>&#160;<rend class="latin">opera</rend><lbr/>
+aufführen: sollte sie nun nicht, wie er wünschte, gefahlen, so wäre er<lbr/>
+wenigst schon mit zwo andern <rend class="latin">opern</rend> versehen</u>. Ich schützte mein<abbr v="en"/> be<pc force="weak">=</pc><lbr/>reits langen Aufenthalt vor, und dessen Verlängerung. Er erwiederte:<lbr/>
+<u>E&#255; was! 8 Täge mehr oder weniger, ich lasse es dann gleich vornehm<abbr v="en"/></u>.<lbr/>
+Be&#255; diesem blieb es nun. des <rend class="latin">Carattoli Arien</rend> waren geändert;<lbr/>
+mit <rend class="latin">Caribaldi</rend> alles richtig gemacht; desgleichen mit <rend class="latin">Poggi</rend> und <rend class="latin">Laschi</rend>&#160;<abbr expand="etc:">p:</abbr><lbr/>
+ieder versicherte mich öfter ins besondere: <u>er hätte nichts einzuwend<abbr v="en"/>;<lbr/>
+alles käme lediglich auf den <rend class="latin">Affligio</rend> an</u>. Entzwisch<abbr v="en"/> verfloß mehr als ein<lbr/>
+Monat. Der Copist sagte mir er hätte noch keine <rend class="latin">ordre</rend> die verändert<abbr v="en"/><lbr/>
+Arien abzuschreib<abbr v="en"/>; und da ich be&#255; der Hauptprobe der <rend class="latin">buona figliuola</rend><lbr/>
+vernahm, <rend class="latin">Affligio</rend> wollte wieder eine andere <rend class="latin">opera</rend> vornehm<abbr v="en"/>, stellte ich<lbr/>
+ihn selbst zur Rede. Hierauf gab er in meiner und des Poet<abbr v="en"/>&#160;<rend class="latin">Coltel<pc force="weak">=</pc><lbr/>lini</rend> Gegenwart dem Copisten Befehl, daß alles in zween Tägen aus<pc force="weak">=</pc><lbr/>getheilt, und die <rend class="latin">opera</rend> längstens in 14 Tagen mit dem <rend class="latin">Orchester</rend>&#160;<rend class="latin">probi</rend>ert<lbr/>
+werden solle.<lbr type="forced"/>
+Allein die Feinde des armen Kindes |: wer sie i<abbr type="topline" expand="mm">m</abbr>er sind :| haben es abermahl<lbr/>
+hintertrieben. Den nämlich<abbr v="en"/> Tag bekam der Copist Befehl mit dem Schreib<abbr v="en"/><lbr/>
+einzuhalt<abbr v="en"/>: und in einem paar Tage darauf erfuhr ich, &#8211; <rend class="latin">Affligio</rend> hätte nun<lbr/>
+beschlossen die <rend class="latin">Opera</rend> des Knaben gar nicht aufs Theater zu geben. Ich wollte<lbr/>
+Gewissheit der Sache haben, gieng zu ihm, und erhielt den Bescheid:<lbr type="forced"/>
+<u>Er hätte die Sänger zusa<abbr type="topline" expand="mm">m</abbr>beruffen, diese gestünd<abbr v="en"/> zwar ein, daß die <rend class="latin">opera</rend><lbr/>
+zwar unvergleichlich Componirt, aber nicht Theatralisch wäre, und folglich von</u><lbr/>
+<pg n="5"/>
+<u>ihnen nicht könnte aufgeführt werden</u>. diese Rede war mir ganz und<lbr/>
+gar unbegreifflich. De<abbr type="topline" expand="nn">n</abbr> sollten wohl die Sänger es wirklich wagen dasjenige<lbr/>
+ohne Schamroth zu werd<abbr v="en"/> zu veracht<abbr v="en"/>, was sie vorher bis an die Sterne<lbr/>
+erhoben, zu welchem sie den Knaben selbst aufgemuntert, und was<lbr/>
+sie dem <rend class="latin">Affligio</rend> selbst als gut angepriesen haben? &#8211; &#8211; Ich antwortete<lbr/>
+ihm: <u>er kö<abbr type="topline" expand="nn">n</abbr>e nicht verlangen, daß der Knab die grosse Mühe eine<lbr/>
+<rend class="latin">opera</rend> zu schreiben umsonst unternohm<abbr v="en"/> habe. Ich eri<abbr type="topline" expand="nn">n</abbr>erte ihn seines<lbr/>
+<rend class="latin">accords</rend>; ich gab ihm zu verstehen, daß er uns vier Monate herum<pc force="weak">=</pc><lbr/>gezogen, und uns in mehr als 160 <rend class="latin">ducca</rend>t<abbr v="en"/> Unkösten gebracht. Ich er<pc force="weak">=</pc><lbr/>i<abbr type="topline" expand="nn">n</abbr>erte ihn der von mir versaumt<abbr v="en"/> Zeit, und versicherte ihn, daß<lbr/>
+ich mich so wohl der 100 duccatt<abbr v="en"/>, die er mit dem Leib<rend class="latin">medico Laugier</rend><lbr/>
+<rend class="latin">accord</rend>irt hatte, als übrigen Unköst<abbr v="en"/> halber an ihn halt<abbr v="en"/> werde</u>.<lbr/>
+Auf diese meine billige Forderung ertheilte er mir eine Unver<pc force="weak">=</pc><lbr/>ständliche Antwort, die seine Verlegenheit verrieth, mit der er<lbr/>
+sich, weis nicht wie, von der ganzen Sache loszumach<abbr v="en"/> suchte, bis<lbr/>
+er endlich mich in den schändlichst lieblosen Ausdrücken verließ:<lbr/>
+<u>we<abbr type="topline" expand="nn">n</abbr> ich den knaben wollte <rend class="latin">prostitui</rend>rt haben, so werde er die <rend class="latin">opera</rend><lbr/>
+belachen und auspfeiffen lassen</u>. <rend class="latin">Coltellini</rend> hörte dieses alles.<lbr/>
+Dieses wäre also der <suppl hand="self" pos="supra">Lohn</suppl>, der meinem Sohne für seine grosse Bemühung<lbr/>
+eine <rend class="latin">opera</rend> zu schreiben |: <u>davon sein <rend class="latin">original</rend> 558 Seiten beträgt</u> :|<lbr/>
+für die versäumte Zeit und die gemachten Unkösten angeboth<abbr v="en"/><lbr/>
+wird? &#8211; &#8211; und wo bliebe endlich, was mir am meisten am Herzen<lbr/>
+lieget, die Ehre und der Ruhm meines Sohnes, da ich es nun nicht<lbr/>
+mehr wagen darf auf die Vorstellung der <rend class="latin">opera</rend> zu dringen, nach<pc force="weak">=</pc><lbr/>dem man mir deutlich genug zu verstehen gegeben hat, daß man<lbr/>
+sich alle Mühe geben würde solche elend genug zu <rend class="latin">produci</rend>ren;<lbr/>
+da man ferner bald vorgiebt, die Composition se&#255;e nicht zu sing<abbr v="en"/>, bald,<lbr/>
+sie se&#255;e nicht Theatralisch, bald, es se&#255;e nicht nach dem Texte, bald,<lbr/>
+er wäre nicht fähig gewesen eine solche Musik zuschreiben und was<lbr/>
+<lbr/>
+<add_seal type="owner">GLASGOW<lbr/>
+UNIVERSITY<lbr/>
+LIBRARY:</add_seal>
+<pg n="6"/>
+derle&#255; alberns und sich selbst widersprechendes Geschwätz i<abbr type="topline" expand="mm">m</abbr>er ist,<lbr/>
+welches doch alles be&#255; <amend value="">be&#255;</amend> einer genauen Untersuchung der Musikal:<lbr/>
+Kräften meines Kindes, um welches ich hauptsächlich zu seiner Ehre ange<pc force="weak">=</pc><lbr/>legentlichist und allerunterthänigist bitte, zur Schande der neidischen<lbr/>
+und ehrenrauberischen Verleumder, wie ein Rauch verschwind<abbr v="en"/>, und<lbr/>
+iederman überzeugen wird, daß es lediglich dahin abziehle, ein<lbr/>
+unschuldiges Geschöpf, dem Gott ein ausserordentliches Talent ver<pc force="weak">=</pc><lbr/>liehen, und welches andere Nationen bewundert und aufge<pc force="weak">=</pc><lbr/>muntert haben, in der Hauptstatt seines Deutschen Vatterlandes<lbr/>
+zu unterdrück<abbr v="en"/> und unglücklich zu machen.<lbr/>
+<lbr/>
+<lbr/>
+<add_note schr_id="57010"><ts>_____</ts>Hierauf<lbr/>
+<ts>__________</ts>Verzeichniß alles desjenigen p.<lbr/>
+<ts>__________</ts>Gedichte von Zabuesnigg und Andern.<lbr/>
+<ts>_____</ts>Anekdote von der Pompadur.</add_note>
+<lbr/>
+<add_note schr_id="48820">
+<rend class="latin">Von Leopold Mozart<lbr/>
+<ts>_____</ts>Vater<lbr/>
+des Wolfgang Amadè<lbr/>
+<ts>_____</ts>Mozart</rend></add_note>
+</NI>
+</letter></text>
+</MUP>

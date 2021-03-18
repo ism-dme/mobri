@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2014">2014-5</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1767</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Privatbesitz</bibl>
+            <bibl type="source" subtype="RISM">Privatbesitz</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:42:26 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_1196.mup">
+<letter bd="1196"><NI src="Unbekannt"><HEADER id="1767">WOLFGANG AMADÉ MOZART AN CONSTANZE MOZART IN BADEN BEI WIEN<lbr/>
+WIEN, 14. OKTOBER 1791<lbr/>
+Abschrift, um 1830</HEADER>
+<pg n="1"/>
+<ts>___________________</ts><tshtm>______________</tshtm>Liebstes bestes Weibchen<lbr type="forced"/>
+<lbr type="forced"/>
+Gestern Do<abbr type="topline" expand="nn">n</abbr>erstag den 13:<h>tn</h> ist Hofer mit mir hinaus zum <rend class="latin">Carl</rend>, wir<lbr/>
+speisten<lbr type="BD"/> daraus, da<abbr type="topline" expand="nn">n</abbr> fuhren wir herrein, um 6 Uhr hohlte ich <rend class="latin">Salieri</rend><lbr/>
+und die <rend class="latin">Cava<lbr type="BD"/>lieri</rend> mit den Wagen ab, und führte sie in die <rend class="latin">Loge</rend> &#8211; <lbr/>
+da<abbr type="topline" expand="nn">n</abbr> gieng ich geschwind<lbr type="BD"/> die Mama und den <rend class="latin">Carl</rend> abzuhohlen, welche<lbr/>
+unterdessen bei Hofer gelaßen<lbr type="BD"/> habe. du ka<abbr type="topline" expand="nn">n</abbr>st nicht glauben wie<lbr/>
+artig beide waren, &#8211; wie sehr ihnen nicht<lbr type="BD"/> nur meine Musick, sondern<lbr/>
+das Buch und alles zusa<abbr type="topline" expand="mm">m</abbr>en gefiel. &#8211; Sie sagten beyde daß sey ein<lbr/>
+<u>Operone</u> &#8211; würdig bei der größten <rend class="latin">festiviteet</rend> vor dem großten Mo<lbr type="BD"/>narchen<lbr/>
+aufzuführen. &#8211; und Sie würden sie gewis sehr oft sehen, den<lbr/>
+sie haben<lbr type="BD"/> noch kein schöneres und angenehmeres <rend class="latin">spectacel</rend> gesehen. &#8211; <lbr/>
+Er hörte und sah<lbr type="BD"/> mit aller Aufmerksamkeit und von der <rend class="latin">Sinfonie</rend><lbr/>
+bis zum letzten Chor, war<lbr type="BD"/> kein Stück, welches ihm nicht ein <rend class="latin">bravo</rend> oder<lbr/>
+<rend class="latin">bello</rend> entlockte, und sie ko<abbr type="topline" expand="nn">n</abbr>ten<lbr type="BD"/> fast nicht fertig werden, sich über<lbr/>
+diese Gefälligkeit bei mir zu bedanken Sie<lbr type="BD"/> waren allzeit gesi<abbr type="topline" expand="nn">n</abbr>t<lbr/>
+gestern in die Oper zu gehen. Sie hatten aber um 4 Uhr<lbr type="BD"/> schon<lbr/>
+hinein sitzen müssen &#8211; da sahen und hörten sie aber mit<lbr/>
+Ruhe. &#8211; Nach<lbr type="BD"/> dem Theater, ließ ich sie nach Hause führen, und ich<lbr/>
+<rend class="latin">supirte</rend> mit <rend class="latin">Carl</rend> bei<lbr type="BD"/> Hofer &#8211; dan fuhr ich mit ihm nach Hause, allwo<lbr/>
+wir beyde herrlich schliefen.<lbr type="BD"/> Dem <rend class="latin">Carl</rend> hab ich keine geringe Freude<lbr/>
+gemacht, daß ich ihm in die Oper abge<lbr type="BD"/>hohlt habe. &#8211; Er sieht<lbr/>
+herrlich aus &#8211; für die Gesundheit kö<abbr type="topline" expand="nn">n</abbr>te er kein besseres<lbr type="BD"/> Ort<lbr/>
+<pg n="2"/>
+haben, aber daß übrige ist leider Elend! &#8211; einen guten Bauern<lbr/>
+mögen sie<lbr type="BD"/> wohl der Welt erziehen! &#8211; aber genug, ich habe | weil<lbr/>
+Montag erst die großen<lbr type="BD"/>&#160;<rend class="latin">Studien</rend> |: daß Gott erbarm :| den <rend class="latin">Carl</rend><lbr/>
+bis So<abbr type="topline" expand="nn">n</abbr>tag nach Tisch ausgebeten;<lbr type="BD"/> ich habe gesagt daß du ihm<lbr/>
+gerne sehen möchtest &#8211; Morgen So<abbr type="topline" expand="nn">n</abbr>tag ko<abbr type="topline" expand="mm">m</abbr>e<lbr type="BD"/> ich mit ihm hinaus<lbr/>
+zu dir &#8211; dan ka<abbr type="topline" expand="nn">n</abbr>st du ihn behalten, oder ich führe ihn<lbr type="BD"/> So<abbr type="topline" expand="nn">n</abbr>tag nach<lbr/>
+Tisch wieder zu Hecker; &#8211; überlege es, wegen einen Monath,<lbr type="BD"/> ka<abbr type="topline" expand="nn">n</abbr><lbr/>
+er eben nicht verdorben werden, denke ich! &#8211; unterdessen kan die<lbr/>
+Ge<lbr type="BD"/>schichte wegen den Pieristen zu Stande ko<abbr type="topline" expand="mm">m</abbr>en, woran wirklich<lbr/>
+gearbeitet<lbr type="BD"/> wird. &#8211; übrigens ist er zwar nicht schlechter, aber auch<lbr/>
+um kein Haar besser<lbr type="BD"/> als er i<abbr type="topline" expand="mm">m</abbr>er war. er hat die nähmlichen<lbr/>
+Unform, plaget gerne wie sonst,<lbr type="BD"/> und lernt fast <u>noch weniger gern,</u><lbr/>
+weil er daraus nichts als vormittags 5<lbr type="BD"/> und nach Tisch 5 Stunden<lbr/>
+im Garten herum geht, wie er mir selbst ge<lbr type="BD"/>standen hat, mit<lbr/>
+einem Wort die Kinder thuen nichts, als Essen, trinken,<lbr type="BD"/> schlafen<lbr/>
+und spazieren gehen, eben ist <rend class="latin">Leitgeb</rend> und Hofer bei mir; &#8211; <lbr/>
+er<lbr type="BD"/>sterer bleibt bey mir beym Essen, ich haben meinen treuen<lbr/>
+Kamaraden<lbr type="BD"/>&#160;<rend class="latin">Primus</rend>, eben um ein Essen ins Bürgerspital geschickt; &#8211; <lbr/>
+mit den Kerl bin<lbr type="BD"/> ich recht zufrieden ein einziges Mahl hat er<lbr/>
+mich angesetzt, daß ich ge<lbr type="BD"/>zwungen war bei Hofer zu schlafen,<lbr/>
+welches mich sehr <rend class="latin">seckirte</rend>, weil sie mir<lbr type="BD"/> zu lange schlafen, ich bin am<lbr/>
+liebsten zu hause, weil ich meine Ordnung schon gewohnt bin dieß<lbr/>
+einzige mahl hat mich ordentlich übelen Humors<lbr type="BD"/> gemacht. Gestern<lbr/>
+ist mit der Reise nach <rend class="latin">Bernstorf</rend> der ganze Tag darauf<lbr type="BD"/> gegangen<lbr/>
+<pg n="3"/>
+darum ko<abbr type="topline" expand="nn">n</abbr>te ich dir nicht schreiben &#8211; aber daß du mir 2 Tage<lbr type="BD"/> nicht<lbr/>
+geschrieben, ist unverzeihlich, heute hoffe aber gewiß Nachricht von<lbr/>
+dir<lbr type="BD"/> zu erhalten. und Morgen selbst mit dir zu sprechen, und<lbr/>
+dich von Herzen zu<lbr type="BD"/>
+küssen.<lbr type="forced"/>
+Lebe wohl Ewig dein<ts>_____</ts><tshtm>__________________________</tshtm><tspdf>\hfill </tspdf>d: 14 8:<h>b</h> 791<lbr type="forced"/>
+<ts>______</ts><tshtm>______________________________</tshtm><tspdf>\hfill </tspdf>Mozart<lbr type="forced"/>
+die <rend class="latin">Sophie</rend> küsse ich tausendmahl mit <rend class="latin">N N</rend> mache was du willst <rend class="latin">adieu</rend>
+</NI></letter>
+</text>
+</MUP>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2012">2012-10</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=935</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">US-NYpm</bibl>
+            <bibl type="source" subtype="RISM">US-NYpm (The Morgan Library &amp; Museum)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:38:21 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_371.mup">
+<letter bd="371"><NI src="US-NYpm"><HEADER id="935">WOLFGANG AMADÉ MOZART AN MARIA ANNA THEKLA MOZART IN AUGSBURG<lbr/>
+MANNHEIM, DEN 13. NOVEMBER 1777</HEADER>
+<pg n="1"/>
+iezt schreib ihr einmahl einen gescheiden brief, du ka<abbr type="topline" expand="nn">n</abbr>st dessentwegen doch<lbr/>
+spass darein schreiben, aber so, dass du alle die briefe<lbr type="BD"/> richtig erhalten<lbr/>
+hast; so darf sie sich nicht mehr sorgen, und kü<abbr type="topline" expand="mm">m</abbr>ern.<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>__________________</ts><tshtm>____________</tshtm><ts>___________</ts><rend class="latin">Ma trés chére Niéce! Cousine! Fille</rend>!<lbr type="forced"/>
+<ts>__________________</ts><tshtm>____________</tshtm><ts>_________</ts><rend class="latin">Mére, Sœur, et Epouse!</rend><lbr type="forced"/>
+<lbr type="forced"/>
+Poz Hi<abbr type="topline" expand="mm">m</abbr>el Tausend <rend class="latin">sakristey</rend>, <rend class="latin">Croa</rend>ten schwere noth, teüfel, hexen, truden,<lbr/>
+kreüz=<tspdf>\newline</tspdf>&#160;<rend class="latin">Battalio</rend>n und kein End, Poz Element, luft, wasser, erd und feüer,<lbr/>
+<rend class="latin">Europa</rend>,<lbr type="BD"/>&#160;<rend class="latin">asia</rend>, <rend class="latin">affrica</rend> und <rend class="latin">America</rend>, <rend class="latin">jesuiter</rend>, <rend class="latin">Augustiner</rend>, <rend class="latin">Benedictiner</rend>,<lbr/>
+<rend class="latin">Capuciner</rend>,<lbr type="BD"/>&#160;<rend class="latin">minoriten</rend>, <rend class="latin">franziscaner</rend>, <rend class="latin">Dominicaner</rend>, Chartheüser, und<lbr/>
+heil: kreüzer herrn,<lbr type="BD"/>&#160;<rend class="latin">Canonici Regulares</rend> und <rend class="latin">iregulares</rend>, und alle<lbr/>
+bärnhäüter, spizbuben, hundsfütter, <rend class="latin">Cujonen</rend> und schwänz über<pc force="weak">=</pc><lbr/>einander, Eseln, büffeln, ochsen, Narrn,<lbr type="BD"/> dalcken und <rend class="latin">fexen</rend>! was<lbr/>
+ist das für eine Manier, 4 <rend class="latin">soldaten</rend> und 3 <rend class="latin">Bandelier</rend>? &#8211; &#8211; so ein<lbr/>
+<rend class="latin">Paquet</rend> und kein <rend class="latin">Portrait</rend>? &#8211; &#8211; ich war schon voll<lbr type="BD"/> begierde &#8211; &#8211; ich<lbr/>
+glaubte gewis &#8211; &#8211; de<abbr type="topline" expand="nn">n</abbr> sie schrieben mir ja unlängst selbst,<lbr type="BD"/> daß ich<lbr/>
+es gar bald, recht gar bald beko<abbr type="topline" expand="mm">m</abbr>en werde. Zweifeln sie vielleicht<lbr type="BD"/><lbr/>
+ob ich auch mein wort halten werde? &#8211; &#8211; das will ich doch nicht<lbr/>
+hoffen, daß<lbr type="BD"/> sie daran zweifeln! Nu, ich bitte sie, schicken sie mir es,<lbr/>
+je ehender, je lieber.<lbr type="BD"/> es wird wohl hoffentlich so se&#255;n, wie ich es mir<lbr/>
+ausgebeten habe, nemlich in<lbr type="BD"/> französischen aufzuge.<lbr type="forced"/>
+wie mir Ma<abbr type="topline" expand="nn">n</abbr>heim gefällt? &#8211; &#8211; so gut einen ein ort ohne bääsle gefallen<lbr/>
+kan.<lbr type="BD"/> Verze&#255;hen sie mir meine schlechte schrift, die feder ist schon alt, ich<lbr/>
+scheisse<lbr type="BD"/> schon wircklich bald 22 jahr aus den nemlichen loch, und ist doch noch<lbr/>
+nicht<lbr type="BD"/> verissen! &#8211; und hab schon so oft geschissen &#8211; &#8211; und mit den Zähnen den<lbr type="BD"/> dreck<lbr/>
+abbissen.<lbr type="forced"/>
+<pg n="2"/>
+Ich hoffe auch sie werden in gegentheil, wie es auch so ist, meine briefe<lbr type="BD"/> richtig<lbr/>
+erhalten haben. nemlich einen von hohenaltheim, und 2 von Ma<abbr type="topline" expand="nn">n</abbr>heim,<lbr/>
+und dieser; wie es auch so ist, ist der dritte von Ma<abbr type="topline" expand="nn">n</abbr>heim, aber im<lbr type="BD"/><lbr/>
+allen der 4:<h>te</h>, wie es auch so ist. Nun muß ich schliessen, wie es<lbr/>
+auch so ist,<lbr type="BD"/> de<abbr type="topline" expand="nn">n</abbr> ich bin noch nicht angezogen, und wir essen iezt gleich,<lbr/>
+damit wir hernach<lbr type="BD"/> wieder scheissen, wie es auch so ist; haben sie<lbr/>
+mich noch i<abbr type="topline" expand="mm">m</abbr>er so lieb, wie ich<lbr type="BD"/> sie, so werden wir niemahlen auf<pc force="weak">=</pc><lbr/>hören uns zu lieben, we<abbr type="topline" expand="nn">n</abbr> auch der löwe<lbr type="BD"/> rings=herum in Mauern<lbr/>
+schwebt, we<abbr type="topline" expand="nn">n</abbr> schon des zweifels harter Sieg nicht<lbr type="BD"/> wohl bedacht<lbr/>
+gewesen, und die tirranne&#255; der wütterer in abweg ist geschliechen,<lbr type="BD"/><lbr/>
+so frist doch <rend class="latin">Codrus</rend> der weis <rend class="latin">Philosophus</rend> oft roz für haber<lbr/>
+Muß, und die Rö<abbr type="topline" expand="mm">m</abbr>er, die stüzen meines arsches, sind i<abbr type="topline" expand="mm">m</abbr>er,<lbr/>
+sind stehts gewesen, und werden<lbr type="BD"/> i<abbr type="topline" expand="mm">m</abbr>er bleiben &#8211; &#8211; kastenfre&#255;.<lbr/>
+<tspdf>\newpage</tspdf><rend class="latin">Adieu, j'espére que vous aurés deja pris quelque<lbr type="BD"/> lection dans la<lbr/>
+langue française, et je ne doute point, que &#8211; &#8211; <u>Ecoutés:</u> que<lbr type="BD"/> vous saurés<lbr/>
+bientôt mieux le français, que moi; car il y a certainement deux<lbr type="BD"/> ans,<lbr/>
+que je n'ai pas ecrit un môt dans cette langue. adieu cependant.<lbr/>
+je vous baise vos mains, votre visage,<lbr/>
+vos genoux et votre &#8211; &#8211; afin, tout ce que vous<lbr type="BD"/> me permettés<lbr/>
+de baiser. je suis de tout mon cœur<lbr type="forced"/>
+<ts>________________________________________</ts><tspdf>\hfill </tspdf>votre</rend><lbr type="forced"/>
+<rend class="latin">Ma<abbr type="topline" expand="nn">n</abbr>heim le</rend> 13 <rend class="latin">Nomv:<ts>____________________________</ts><tspdf>\hfill </tspdf>trés affectioné Neveu et Cousin</rend><lbr type="forced"/>
+<ts>_____</ts>1777.<ts>______</ts><tshtm>_________________________________________</tshtm><tspdf>\hfill </tspdf><rend class="latin">Wolfg: Amadé Mozart</rend>&#160;<abbr expand="manu propria">mp</abbr>
+</NI></letter>
+</text>
+</MUP>

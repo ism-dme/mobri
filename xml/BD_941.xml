@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2014">2014-6</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1511</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Wst</bibl>
+            <bibl type="source" subtype="RISM">A-Wst (Wienbibliothek im Rathaus, Musiksammlung)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:41:16 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_941.mup">
+<letter bd="941"><NI src="A-Wst"><HEADER id="1511">LEOPOLD MOZART AN ARTARIA &#38; CO IN WIEN<lbr/>
+SALZBURG, 21. MÄRZ 1786</HEADER>
+<pg n="1"/>
+<add_sign impl="ink" color="red">H. J. N. 88764</add_sign>
+<ts>________</ts><tshtm>____________________________________________________________</tshtm><tspdf>\hfill </tspdf>Salzb<abbr type="curve">:</abbr> d<abbr v="en"/> 21 Merz<lbr type="forced"/>
+<ts>________</ts><tshtm>___________________________________________________________________________________</tshtm><tspdf>\hfill </tspdf>1786<lbr type="forced"/>
+<ts>__</ts>HochEdlgebohrner<lbr type="forced"/>
+Insonders Hochzuehrender Herr!<lbr type="forced"/>
+<lbr type="forced"/>
+Die ganze Sache die 21 f betreffend ist berichtiget, und der<lbr/>
+Fehler rührte von<lbr type="BD"/> einem neu<abbr v="en"/> Buchhalter her <abbr expand="etc">p</abbr>: Ich wünschte<lbr/>
+ihnen wegen der <u>Haydnisch<abbr v="en"/><lbr type="BD"/> Messe</u> dien<abbr v="en"/> zu kö<abbr type="topline" expand="nn">n</abbr><abbr v="en"/>: allein,<lbr/>
+da solche nur ein einziges mahl in unserer<lbr type="BD"/> Metropolitan<pc force="weak">=</pc><lbr/>kirche gemacht wurde; so hat er solche nicht aus Hand<abbr v="en"/><lbr/>
+ge<lbr type="BD"/>lassen, und will, wie höre, diese näml: Messe mit<lbr/>
+Begleitung von Violin<abbr v="en"/><lbr type="BD"/>&#160;<abbr expand="und">u</abbr> and<abbr v="ern"/> <abbr expand="etc">p</abbr>: abändern: sollte es<lbr/>
+aber dem ohngeacht möglich se&#255;n solche<lbr type="BD"/> zu erhalten,<lbr/>
+welches schwer halt<abbr v="en"/> wird, de<abbr type="topline" expand="nn">n</abbr> ich müsste es unter der<lbr/>
+Hand<lbr type="BD"/> beko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>, so soll es gewis an mir nicht fehl<abbr v="en"/> sie<lbr/>
+zu bedienen. Empfehle<lbr type="BD"/> mich übrigens zu fernerem<lbr/>
+Wohlwollen <abbr expand="und">u</abbr> bin<lbr type="forced"/>
+<ts>_____</ts><tshtm>_______________</tshtm><tspdf>\hfill </tspdf>Euer HochEdlgebohr<abbr v="en"/><lbr type="BD"/><lbr type="forced"/>
+<ts>_____</ts><tshtm>____________________________________________</tshtm><tspdf>\hfill </tspdf>ergebenster<lbr type="BD"/><lbr type="forced"/>
+<ts>_____</ts><tshtm>__________________________________________________</tshtm><tspdf>\hfill </tspdf>Mozart <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<pg n="2"/>
+<anschrift rot="90">
+<add_seal rot="90" type="post">SALZBURG</add_seal><lbr/>
+An<lbr type="forced"/>
+Herrn <rend class="latin">Artaria</rend><lbr type="forced"/>
+<abbr expand="und">u</abbr>&#160;<rend class="latin">Compag<abbr type="curve"></abbr></rend>:<lbr type="forced"/>
+in<lbr type="forced"/>
+<u>Wienn</u></anschrift>
+<lbr/>
+<lbr type="forced"/>
+<add_empf rot="180"><rend class="latin">Mozart</rend><lbr/>
+<rend class="latin">Salzburg</rend> 21 Merz <abbr type="topline">786</abbr>.</add_empf>
+<lbr/>
+<add_empf>Salzburg, den 21.<lbr/>
+<rend class="latin">Martii</rend>, 1786.<lbr/>
+<lbr/>
+p Joh. Ant. Kolb
+</add_empf>
+<lbr/>
+<add_seal type="owner">WIENER STADTBIBLIOTHEK</add_seal>
+</NI></letter>
+</text>
+</MUP>

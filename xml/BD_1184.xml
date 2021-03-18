@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2014">2014-5</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1755</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Verbleib unbekannt</bibl>
+            <bibl type="source" subtype="RISM">Verbleib unbekannt</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:42:24 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_1184.mup">
+<letter bd="1184"><NI src="Erstdruck"><HEADER id="1755">WOLFGANG AMADÉ MOZART AN CONSTANZE MOZART IN BADEN BEI WIEN<lbr/>
+WIEN, 7. JULI 1791</HEADER>
+<pg n="1"/>
+<ts>____________</ts><tshtm>___</tshtm>Liebstes, bestes Weibchen!<lbr type="forced"/>
+<ts>___</ts><tshtm>___</tshtm>Du wirst mir schon verzeihen, daß Du ietzt immer nur <u>einen</u> Brief von mir<lbr type="BD"/>
+bekömmst. Die Ursache ist: ich muß einen <rend class="latin">N. N.</rend> gefangen halten, darf ihn<lbr type="BD"/>
+nicht <rend class="latin">echapiren</rend> lassen &#8211; alle Tage um 7 Uhr früh bin ich schon bei ihm.<lbr type="forced"/>
+<ts>___</ts><tshtm>___</tshtm>Hoffe Du wirst mein gestriges Schreiben auch richtig erhalten haben &#8211; ich<lbr type="BD"/>
+war nicht beym Ballon, denn ich kann mir es <u>so</u> einbilden, und glaubte auch
+und wird diesmal auch nichts draus werden &#8211; aber nun ist Jubel unter den<lbr type="BD"/>
+Wienern! &#8211; so sehr sie bisher geschimpft haben, so loben sie nun. &#8211; <lbr type="forced"/>
+<ts>___</ts><tshtm>___</tshtm>Etwas kann ich in Deinem Brief nicht lesen und etwas verstehe ich nicht &#8211; <lbr type="BD"/>
+es heißt „Nun wird mein . . . . Mannerl gewis heut in der großen <rend class="latin"><u>Com</u>:</rend> auch<lbr type="BD"/>
+im Brader seyn” etc. etc. &#8211; Das Beiwort vor Mannerl kann ich nicht lesen &#8211; <lbr type="BD"/>
+das <rend class="latin"><u>Com</u>:</rend> vermuthe ich wird <rend class="latin">Compagnie</rend> heißen, &#8211; wen Du aber unter der<lbr type="BD"/>
+<u>großen <rend class="latin">Compagnie</rend></u> verstehest, weiß ich nicht.<lbr type="forced"/>
+<ts>___</ts><tshtm>___</tshtm>Dem Sauermayer lasse ich sagen, daß ich nicht Zeit hätte immer zu seinem<lbr type="BD"/>
+<rend class="latin">Primus</rend> zu laufen &#8211; und so oft ich hingekommen bin, war er nie zu Hause &#8211; <lbr type="BD"/>
+gieb ihm nur die 3 <rend class="latin">Flor<abbr type="topline" expand="ee">e</abbr>n</rend>, damit er nicht weint &#8211; <lbr type="forced"/>
+<ts>___</ts><tshtm>___</tshtm>Nun wünsche ich nichts als daß meine Sachen schon in Ordnung wären, nur<lbr type="BD"/>
+um wieder bey Dir zu seyn, Du kannst nicht glauben wie mir die ganze Zeit<lbr type="BD"/>
+her die Zeit lang um Dich war! &#8211; ich kann Dir meine Empfindung nicht<lbr type="BD"/>
+erklären, es ist eine gewisse Leere &#8211; die mir halt wehe thut, &#8211; ein gewisses<lbr type="BD"/>
+Sehnen, welches nie befriediget wird, folglich nie aufhört &#8211; immer fortdauert,<lbr type="BD"/>
+ja von Tag zu Tag wächst; &#8211; wenn ich denke wie lustig und kindisch wir in<lbr type="BD"/>
+Baaden beysammen waren &#8211; und welch traurige, langweilige Stunden ich hier<lbr type="BD"/>
+verlebe &#8211; es freuet mich auch meine Arbeit nicht, weil, gewohnt bisweilen<lbr type="BD"/>
+auszusetzen und mit Dir ein paar Worte zu sprechen, dieses Vergnügen nun<lbr type="BD"/>
+leider eine Unmöglichkeit ist &#8211; gehe ich ans Klavier und singe etwas aus der<lbr type="BD"/>
+Oper, so muß ich gleich aufhören &#8211; es macht mir zu viel Empfindung &#8211; <lbr type="BD"/>
+<rend class="latin">Basta!</rend> &#8211; wenn diese Stunde meine Sache zu Ende ist, so bin ich schon die<lbr type="BD"/>
+andere Stunde nicht mehr hier. &#8211; Neues weiß ich Dir nicht zu schreiben. Die<lbr type="BD"/>
+Illumination in Baaden war wohl ein Bischen übereilt! &#8211; weil die wahre<lbr type="BD"/>
+Nachricht eben das Gegentheil ist. Ich werde in der Hofapotheke fragen, viel<lbr type="BD"/>leicht
+können sie mir die Latwerge doch verschaffen, &#8211; dann schicke ich sie<lbr type="BD"/>
+Dir gleich; unterdessen (wenn es nöthig seyn sollte) würde ich Dir lieber<lbr type="BD"/>
+zum <u>Weinstein</u> als zum <u>Luftwasser</u> rathen. &#8211; <rend class="latin">Adjeu</rend> liebstes Weibchen<lbr type="forced"/>
+<ts>___</ts><tshtm>___</tshtm>Wien den 7ten Jul. 1791.<lbr type="forced"/>
+<ts>_____________</ts><tshtm>_______________________________________________________________________________________________</tshtm><tspdf>\hfill </tspdf>ewig Dein<lbr type="forced"/>
+<ts>_____________</ts><tshtm>______________________________________________________________________________________________________________</tshtm><tspdf>\hfill </tspdf>Mozart.
+</NI></letter>
+</text>
+</MUP>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2012">2012-06</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1962</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:42:35 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_1387.mup">
+<letter bd="1387"><HEADER id="1962">CONSTANZE NISSEN AN CARL THOMAS MOZART IN MAILAND<lbr/>
+WIEN, 7. MAI 1810<lbr/>
+mit Nachschrift von Georg Nikolaus Nissen</HEADER>
+<pg n="1"/>
+<tspdf>\newline</tspdf>
+<tspdf>\newline</tspdf>
+<add_num type="inline">N<h><uu>o</uu></h> 35</add_num><ts>___</ts>Lieber <rend class="latin">Karl</rend>!<ts>______</ts><tspdf>\hfill </tspdf>Wienn am 7 <rend class="latin">Maj</rend> 1810<lbr type="forced"/>
+<lbr type="forced"/>
+Ich eille dir zu sagen: daß ich so eben von <rend class="latin">Bridi</rend> ko<abbr type="topline" expand="mm">m</abbr>e und<lbr/>
+5 <symbol value="hash">#</symbol> für dich Bezahlt haben, damit du das <rend class="latin">Piano-Forte</rend> deines<lbr/>
+Vaters so gleich bekomst. Es gehet noch diese Woche <suppl hand="self" pos="supra">mit</suppl> dem<lbr/>
+<rend class="latin">Vetturino</rend>&#160;<stroke><rend class="latin">christofferus</rend></stroke>&#160;<suppl hand="diff" schr_id="57010" pos="supra"><rend class="latin">Christofforetti</rend></suppl> ab. Auch Bath ich Briedi dir bey<lbr/>
+seynem Freund <rend class="latin">credit</rend> zu verschaffen damit du, we<abbr type="topline" expand="nn">n</abbr> du<lbr/>
+<u>nicht</u>&#160;<u>soltest</u>&#160;<u>können</u>, nicht so gleich Bezahlen darfst<lbr/>
+dir Bleiben also nur noch 10. <stroke><symbol value="hash">#</symbol></stroke>&#160;<suppl hand="diff" schr_id="57010" pos="supra">Ducaten</suppl> und das <rend class="latin">embaliren</rend> zu<lbr/>
+bezahlen. du sihest daß ich Mütterlich mit dir verfahre<lbr/>
+und daß ich dir noch das glück verschaffe dein <rend class="latin">P: F:</rend> so<lbr/>
+geschwind wie möchlich in die Hände suche zu Bringen &#8211; <lbr/>
+wenn du es nur auch schon hettest, ich glaube es nicht mehr<lbr/>
+erleben zu können, so sehr wünsche ich es, weil ich weiß<lbr/>
+wie lieb es dir sey muß, und wie hart ich es, wenn<lbr/>
+es nicht für <u>dich</u> ware verließ, we<abbr type="topline" expand="nn">n</abbr> du es nur halb<lbr/>
+so lieb hast als ich es hatte so läßt du es <u>nie</u> von<lbr/>
+dir. &#8211; dein Bruder wird wohl ein wenig Eyfer<pc force="weak">=</pc><lbr/>sichtig daruber werden, um so mehr da er mir so<lbr/>
+oft schrieb daß er ein so schlechtes habe worauf er<lbr/>
+in gefahr sey die Finger zu Brechen; allein dies<lbr/>
+rührte mich nicht, indem er mehr geld als du hast<lbr/>
+hat und sich eins schaffen kan. indesen ist es nicht nöthig<lbr/>
+daß er etwas davon weiß, den er wird fest glauben<lbr/>
+daß ich es mit nach Dännemarck nehme, und dabei laßen<lbr/>
+<pg n="2"/>
+wir ihn so lange wie möchlich &#8211; die <rend class="latin">corall</rend>en haben mir<lbr/>
+viele freude gemacht, ich wünschte doch zu wißen wie<lbr/>
+theüer sie komen. und ersuche dich mir es im nachsten<lbr/>
+Briefe zu sagen. wegen dem schönen kleit wird dir<lbr/>
+<rend class="latin">Nissen</rend> wohl schon gesagt haben: daß ietzt gar keine aus<suppl hand="#DME"><pc force="strong">=</pc></suppl><lbr/>sicht ist hier so etwas anzubringen, indem man ietzt<lbr/>
+gar zu theüer leben muß, es ist unbegreiflich theüer<lbr/>
+zu leben; ich schrieb dir vor einem jahr wo es schon<lbr/>
+theüer war, allein ietz darfst du die Preiß die ich<lbr/>
+dir damahlen mittheilte gut mit 2 <rend class="latin">Moltepliciren</rend><lbr/>
+und das meiste davon mit 3. so zum Beyspiel<lbr/>
+salz war zu deiner zeit 4 <formula type="mfrac"><mn>1</mn><mi>4</mi></formula> ietz 12 <rend class="latin">x</rend> Butter 3 <rend class="latin">fl</rend> 48<lbr/>
+zu deiner zeit 48 x schweinenschmalz 1 <rend class="latin">fl</rend> 57 <rend class="latin">x</rend> Erdäpfel<lbr/>
+sonst 10. 15. auch 20 um ein kreuzer ietz 2 um einen<lbr/>
+kroschen in diesem Verhaltniß sind linzen arwes Bo<abbr type="topline" expand="nn">n</abbr>en<lbr/>
+mehl kriß, holz licht, kurz alles ist so, ich ka<abbr type="topline" expand="nn">n</abbr> nicht<lbr/>
+begreifen wie die armen mit dem leben davon<lbr/>
+komen. Es ist aber auch wahr daß die sterblich<pc force="weak">=</pc><lbr/>keit unter den armen sehr groß ist, ich mach<lbr/>
+gar nicht mehr davon reden den es thut mir zu<lbr/>
+wehe, und ich ka<abbr type="topline" expand="nn">n</abbr> leider auch nicht helfen. were ich<lbr/>
+Wittwe geblieben, so hatte ich schon lange vor hunger<lbr/>
+<pg n="3"/>
+sterben müßen, so hat aber der liebe Gott, so wie i<abbr type="topline" expand="mm">m</abbr>er<lbr/>
+mir auch hierinen geholfen, und nun gehe ich recht<lbr/>
+gerne von hier wo ich sonst so gerne war. &#8211; dein<lbr/>
+Bruder klagt in iedem Briefe, daß er keinen von Dir<lbr/>
+hat. schreibe ihm doch. adieu lebe wohl und schreibe<lbr/>
+mir bald damit ich deinen Brief in Wien er<suppl hand="#DME"><pc force="strong">=</pc></suppl><lbr/>halten kann. dein Vater der dich und deinen Bruder<lbr/>
+so wie i<abbr type="topline" expand="mm">m</abbr>er zährlich lieb, und mir auch diesmahl<lbr/>
+die 5 <symbol value="hash">#</symbol> für dich gab welche ich sonsten wie du leicht dencken<lbr/>
+kanst nicht geben konnte; wir beyde küßen dich zahrlich<lbr/>
+und hoffen bald auf Nachricht von dir.<lbr type="forced"/>
+<ts>____________________________________________________________________</ts><tspdf>\hfill </tspdf><rend class="latin">CNissen</rend><lbr type="forced"/>
+<NS type="NS" schr_id="57010"><ts>_____</ts>Leben Sie wohl, mein lieber Carl,<lbr type="forced"/>
+[Sie] bekommen noch Brief, ehe wir von hier reisen.<lbr type="forced"/>
+<ts>___________________________________________________</ts><tspdf>\hfill </tspdf>Ihr Vater Nissen<lbr type="forced"/>
+Was wir für die <rend class="latin">Clemenza</rend>, für die Kiste mit Musicalien<lbr/>
+und sonst für Sie ausgelegt hatten, dafür ist Ihre<lbr/>
+Schuld durch die gesandten Corallen <uu>völlig</uu> getilgt, und<lbr/>
+was ich Ihnen in meinem vorigen Briefe über diesen Gegen<pc force="weak">-</pc><lbr/>stand geschrieben habe, fällt weg und ist unkräftig<lbr/>
+geworden. Sie sind uns nichts mehr als Ihre Liebe schuldig.</NS>
+<pg n="4"/>
+<anschrift rot="270"><rend class="latin">Vienne.</rend><add_ident type="inline" impl="pencil"><ts>_____</ts>1810</add_ident><lbr type="forced"/>
+<rend class="latin">A Monsieur<lbr type="forced"/>
+Monsieur Mozart.<lbr type="forced"/>
+<lbr type="forced"/>
+<u>Italie.</u><ts>______</ts>Milan.</rend></anschrift><lbr type="forced"/>
+<add_seal type="post">MIL.<h>o</h> MAG.<h>o</h><lbr/>
+<ts>___</ts>19</add_seal></letter>
+
+
+</text>
+</MUP>

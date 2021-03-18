@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2014">2014-5</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1683</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Verbleib unbekannt</bibl>
+            <bibl type="source" subtype="RISM">Verbleib unbekannt</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:42:04 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_1113.mup">
+<letter bd="1113"><NI src="Erstdruck"><HEADER id="1683">WOLFGANG AMADÉ MOZART AN MICHAEL PUCHBERG IN WIEN<lbr/>
+WIEN, DEZEMBER 1789</HEADER>
+<pg n="1"/>
+<ts>__________</ts><tshtm>_______</tshtm>Verehrungswürdigster Freund<lbr type="forced"/>
+<ts>______________</ts><tshtm>_________</tshtm>und Ordensbruder!<lbr type="forced"/>
+<ts>____</ts>Erschrecken Sie nicht über den Inhalt dieses Briefes; &#8211; nur bei Ihnen &#8211; mein<lbr type="BD"/>
+Bester, da Sie mich und meine Umstände ganz kennen, habe ich das Herz mich
+ganz vertrauensvoll zu entdecken &#8211; künftigen Monat bekomme ich von der<lbr type="BD"/>
+Direction (nach ietziger Einrichtung) 200 Ducaten für meine Oper; &#8211;<lbr type="BD"/>
+können und wollen Sie mir 400 fl. bis dahin geben, so ziehen Sie Ihren Freund<lbr type="BD"/>
+aus der größten Verlegenheit und ich gebe Ihnen mein Ehrenwort, daß Sie<lbr type="BD"/>
+das Geld zur bestimmten Zeit baar und richtig mit allem Dank zurück haben<lbr type="BD"/>
+sollen; ich würde, troz meiner täglich großen Ausgaben, doch mich nach Mög<lbr type="BD"/>lichkeit
+bis dahin noch gedulten, wenn nicht Neujahr wäre, wo ich die Apothe<lbr type="BD"/>ken
+und Doctores (welche nicht mehr brauche) ganz zahlen muß, wenn ich<lbr type="BD"/>
+nicht meinem Credit schaden will; &#8211; besonders haben wir <rend class="latin">Hundschowsky</rend> auf<lbr type="BD"/>
+eine (wegen gewissen Ursachen) etwas unfreundliche Art von uns weg<lbr type="BD"/>
+gebracht, warum es mir nun doppelt am Herzen liegt ihn zu <rend class="latin">contentiren;</rend> &#8211;<lbr type="BD"/>
+bester Freund und Bruder! &#8211; ich weiß nur zu gut, was ich Ihnen alles schuldig<lbr type="BD"/>
+bin! &#8211; wegen den alten bitte ich Sie noch Gedult zu haben! &#8211; gewiß ist Ihnen<lbr type="BD"/>
+die Bezahlung, dafür stehe ich mit meiner Ehre. Ich bitte Sie nochmals, reißen<lbr type="BD"/>
+Sie mich nur diesmal aus meiner fatalen Lage, wie ich das Geld für die Oper<lbr type="BD"/>
+erhalte, so sollen Sie die 400 fl. ganz gewiß wieder zurück haben; &#8211; und diesen<lbr type="BD"/>
+Sommer hoffe ich gewis (durch die Arbeit für den König von Preußen) Sie<lbr type="BD"/>
+von meiner Ehrlichkeit ganz überzeugen zu können &#8211; Morgen kann vermöge<lbr type="BD"/>
+der Abrede Abends nichts seyn bey uns, &#8211; ich habe zu viele Arbeit, &#8211; wenn<lbr type="BD"/>
+Sie ohnedies Zisler sehen, so bitte es ihm zu sagen &#8211; Donnerstag aber lade ich<lbr type="BD"/>
+Sie (aber nur Sie allein) um 10 Uhr Vormittag zu mir ein, zu einer kleinen<lbr type="BD"/>
+Oper=Probe; &#8211; nur Sie und <u>Haydn</u> lade ich dazu. &#8211; Mündlich werde ich Ihnen<lbr type="BD"/>
+<rend class="latin">Cabalen</rend> von <rend class="latin">Salieri</rend> erzählen, die aber alle schon zu Wasser geworden sind &#8211; <lbr type="BD"/><rend class="latin">adjeu</rend>.<lbr/>
+<ts>_______</ts><tshtm>________________________________________________________</tshtm><tspdf>\hfill </tspdf>Ewig Ihr<lbr type="BD"/><lbr type="forced"/>
+<ts>___________________</ts><tshtm>_______________________________________________________</tshtm><tspdf>\hfill </tspdf>dankbarer Freund und Br:<lbr type="BD"/><lbr type="forced"/>
+<ts>___________________</ts><tshtm>_________________________________________________________________</tshtm><tspdf>\hfill </tspdf>W. A. Mozart.<lbr type="forced"/>
+<add_note schr_id="57866"><ts>____</ts>300 fl. überschickt.</add_note>
+</NI></letter>
+</text>
+</MUP>

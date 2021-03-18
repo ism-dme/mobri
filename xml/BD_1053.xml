@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2014">2014-6</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1623</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Verbleib unbekannt (Nachweis: Christie's Paris, 26.11.2003, Lot 174)</bibl>
+            <bibl type="source" subtype="RISM">Verbleib unbekannt, Nachweis: Christie's Paris, 26.11.2003, Lot 174</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:41:49 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_1053.mup">
+<letter bd="1053"><NI src="Unbekannt"><HEADER id="1623">WOLFGANG AMADÉ MOZART AN GOTTFRIED VON JACQUIN IN WIEN<lbr/>
+WIEN, NACH DEM 28. MAI 1787</HEADER>
+<pg n="1"/>
+<add_note impl="pencil"><ts>___________________________</ts><rend class="latin">Lettre auth. à Geoffroy Jacquin</rend></add_note>
+liebster freund! &#8211; Ich bitte sie dem Hr: Exne zu<lbr/>
+sagen er möchte morgen<lbr type="BD"/> um 9 uhr ko<abbr type="topline" expand="mm">m</abbr>en, um<lbr/>
+meiner frau Aderzulassen. &#8211; hier schicke ihnen<lbr/>
+ihren<lbr type="BD"/>&#160;<rend class="latin">Amynt</rend> und das kirchen lied &#8211; die <rend class="latin">Sonate</rend> haben<lbr/>
+sie die güte ihrer frl:<lbr type="BD"/> Schwester nebst meiner Empfehlung<lbr/>
+zu geben; &#8211; sie möchte sich aber gleich<lbr type="BD"/> darüber machen,<lbr/>
+de<abbr type="topline" expand="nn">n</abbr> sie se&#255;e etwas schwer. &#8211; <rend class="latin">adieu</rend>. &#8211; <lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_________</ts><tshtm>_________________________________________</tshtm><tspdf>\hfill </tspdf>ihr wahrer freund<lbr type="BD"/><lbr type="forced"/>
+<ts>_________</ts><tshtm>_____________________________________________</tshtm><tspdf>\hfill </tspdf>Mozart <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<lbr type="forced"/>
+Ich benachrichtige sie daß ich heute als ich nach haus ka<abbr type="topline" expand="mm">m</abbr><lbr/>
+die trauerige<lbr type="BD"/> Nachricht von dem tode meines besten vaters<lbr/>
+beka<abbr type="topline" expand="mm">m</abbr>. &#8211; Sie kö<abbr type="topline" expand="nn">n</abbr>en sich<lbr type="BD"/> meine lage vorstellen! &#8211; <lbr type="forced"/>
+<tshtm><lbr type="forced"/></tshtm>
+<add_num impl="pencil">36</add_num>
+<add_note type="inline" impl="ink"><rend class="latin">geb</rend>. 27. <rend class="latin">Juni</rend> 1756, + 5 Dez. 1792</add_note><add_note type="inline" impl="pencil"><ts>______________</ts>29 Mai 1787<lbr/>
+<ts>______________________________________________________________________</ts>O. Jahn 2 718<lbr/>
+<ts>_________________________________________________________________________________</ts>II 12</add_note>
+<pg n="2"/>
+<anschrift><rend class="latin">à Monsieur Monsieur Geoffroy de Jaquin chez lui</rend></anschrift>
+</NI></letter>
+</text>
+</MUP>

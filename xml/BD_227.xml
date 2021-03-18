@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2011">2011-05</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=788</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Verbleib unbekannt</bibl>
+            <bibl type="source" subtype="RISM">Verbleib unbekannt</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:37:27 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_227.mup">
+<letter bd="227"><NI src="D-B"><HEADER id="788">LEOPOLD MOZART AN MARIA ANNA MOZART IN SALZBURG<lbr/>
+MAILAND, 5. JANUAR 1771</HEADER>
+<pg n="1"/>
+<add_note schr=""><rend class="latin">Leop. M. an seine frau.</rend> 5/1. 71.</add_note>
+<ts>___________________________</ts><tspdf>\hfill </tspdf><u>Ma&#255;land</u> d<abbr v="en"/> 5<h><uu>t</uu></h>&#160;<rend class="latin">Janu<abbr type="curve"></abbr> a<abbr type="topline" expand="nn">n</abbr>o</rend> hint<abbr v="en"/> wie vorn, und<lbr type="forced"/>
+<ts>___________________________</ts><tspdf>\hfill </tspdf>in der mitte doppelt (1771)<lbr type="forced"/>
+Kaum finde so viel Zeit dir zu schreib<abbr v="en"/>, de<abbr type="topline" expand="nn">n</abbr> täglich geh<abbr v="en"/> wir in die<lbr/>
+<rend class="latin">Opera</rend> folglich um halbe 2 od<abbr v="er"/> gar 2 Uhr in d<abbr v="er"/> Nacht schlaff<abbr v="en"/>, weil<lbr/>
+wir nach d<abbr v="er"/> <rend class="latin">Opera</rend> auch etwas ess<abbr v="en"/> woll<abbr v="en"/>; in der frühe steh<abbr v="en"/> wir<lbr/>
+also späth auf und der ohnehin itzt sehr kurze Tag wird demnach<lbr/>
+noch kürzer. Wir hätt<abbr v="en"/> so viele Besuche zu mach<abbr v="en"/>, daß wir nicht wiss<abbr v="en"/>,<lbr/>
+wie wir zurecht ko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/> werd<abbr v="en"/>. Am Do<abbr type="topline" expand="nn">n</abbr>erstag speist<abbr v="en"/> wir bey d<abbr v="er"/> <rend class="latin">Ma<pc force="weak">=</pc><lbr/>dame</rend>&#160;<abbr expand="von">v</abbr>. <rend class="latin">Asteburg</rend>, od<abbr v="er"/> ehemals Trogermariandl, die uns mit <u>Le<pc force="weak">=</pc><lbr/>berknödl und Sauerkraut, so sich der Wolfg<abbr type="curve">:</abbr> ausgebett<abbr v="en"/>,</u> nebstbe&#255;<lbr/>
+aber mit and<abbr v="ern"/> gut<abbr v="en"/> speisen darunter ein herrlicher <rend class="latin">Capaun</rend> und<lbr/>
+<rend class="latin">Fasan</rend> war, aufs prächtigste bewirthet hat. Gestern war eine<lbr/>
+kleine <rend class="latin">Accademie</rend> be&#255; S<h><uu>r</uu></h>&#160;<rend class="latin">Exll<abbr type="curve">:</abbr></rend> Graf <rend class="latin">Firmian</rend>, wo <u>h<abbr type="curve">:</abbr>&#160;<rend class="latin">D<h><uu>r</uu></h> Prittj</rend></u><lbr/>
+eine <rend class="latin">Cantate</rend> gesung<abbr v="en"/> und dem Wolfg<abbr type="curve">:</abbr> ein neues schönes und<lbr/>
+schweres <rend class="latin">Concert</rend> zum spiel<abbr v="en"/> vorgelegt. Er hat uns <rend class="latin">Compl</rend>: von<lbr/>
+euch ausgericht, und alles erzehlet was vorgegang<abbr v="en"/> und die<lbr/>
+Na<abbr type="topline" expand="nn">n</abbr>erl sehr angerühmt. Heute speisen wir wied<abbr v="er"/>um bey S<h><uu>r</uu></h><lbr/>
+<rend class="latin">Excll<abbr type="curve"></abbr></rend>; und ko<abbr type="topline" expand="mm">m</abbr>end<abbr v="en"/> 11<h><uu>t<abbr v="en"/></uu></h> od<abbr v="er"/> 12<h>t<abbr v="en"/></h> werd<abbr v="en"/> wir nach <rend class="latin">Turin</rend> geh<abbr v="en"/>, uns<lbr/>
+aber nur etwa 8 Tage alda aufhalt<abbr v="en"/> und da<abbr type="topline" expand="nn">n</abbr> nach Ma&#255;land<lbr/>
+zurücke kehr<abbr v="en"/>, wo wir erst alles recht zusa<abbr type="topline" expand="mm">m</abbr> pack<abbr v="en"/>, und nach<lbr/>
+<rend class="latin">Venedig</rend> geh<abbr v="en"/> werd<abbr v="en"/>. Es wird aber unser Aufenthalt in Ma&#255;<pc force="weak">=</pc><lbr/>land alsda<abbr type="topline" expand="nn">n</abbr> doch über 4 Täge sich nicht erstreck<abbr v="en"/>: und da<abbr type="topline" expand="nn">n</abbr> werd<abbr v="en"/><lbr/>
+wir die 2<h><uu>te</uu></h>&#160;<rend class="latin">Opera</rend> hier aufführ<abbr v="en"/> seh<abbr v="en"/>. Die <rend class="latin">Opera</rend> unseres Sohnes<lbr/>
+gehet mit allgemein<abbr v="en"/> Be&#255;fall forth, und, wie die <rend class="latin">Itali</rend>ener sag<abbr v="en"/>:<lbr/>
+ist <u><rend class="latin">alle Stelle!</rend></u> nun sind wir schon seit der 3<h><uu>t<abbr v="en"/></uu></h> Aufführung bald im<lbr/>
+<pg n="2"/>
+<rend class="latin">Parterre</rend>, bald in d<abbr v="en"/>&#160;<rend class="latin">Lochen</rend> od<abbr v="er"/> <rend class="latin">Balchi</rend> zuhörer und Zusehern, wo<lbr/>
+iederman mit dem <rend class="latin">Sgr. Maestro</rend> zu red<abbr v="en"/> und ihn in d<abbr v="er"/> nähe zu<lbr/>
+seh<abbr v="en"/> begierig ist: Die ganze Zeit d<abbr v="er"/> <rend class="latin">opera</rend> geh<abbr v="en"/> wir bald da bald<lbr/>
+dort hin, wo es uns beliebt. dann d<abbr v="er"/> <rend class="latin">Maestro</rend> ist nur verbund<abbr v="en"/><lbr/>
+3 Abend die <rend class="latin">opera</rend> im <rend class="latin">orchester</rend> zu <rend class="latin">dirigier<abbr v="en"/></rend>; wo be&#255;m 2<h><uu>ten</uu></h><lbr/>
+<rend class="latin">Clavier</rend> d<abbr v="er"/> <rend class="latin">Maestro Lampugnani accompagniert</rend>, welcher, da der<lbr/>
+Wolfg<abbr type="curve">:</abbr> nicht mehr spielt nun das erste, der <rend class="latin">Maestro Melchior<lbr/>
+Chiesa</rend> aber das zweyte <rend class="latin">Clavier</rend> spielt. We<abbr type="topline" expand="nn">n</abbr> man mir <suppl hand="self" pos="supra">vor</suppl> ungefehr<lbr/>
+15 od<abbr v="er"/> 18 Jahr<abbr v="en"/>, da <rend class="latin">Lampugnani</rend> in Engelland und <rend class="latin">Melchior Chiesa</rend><lbr/>
+in Italien so vieles geschrieb<abbr v="en"/>, und ich ihre <rend class="latin">Opera Arien</rend> und<lbr/>
+<rend class="latin">Sinfoni<abbr v="en"/></rend> geseh<abbr v="en"/>, damals gesagt hätte, diese Männer werd<abbr v="en"/> d<abbr v="er"/><lbr/>
+Musick deines Sohnes dien<abbr v="en"/> und we<abbr type="topline" expand="nn">n</abbr> er vom <rend class="latin">Clavier</rend> wegge<pc force="weak">=</pc><lbr/>het, hinsitz<abbr v="en"/> und seine Musik <rend class="latin">accompagnier<abbr v="en"/></rend> müss<abbr v="en"/>, so würde ich<lbr/>
+ein<abbr v="en"/> solch<abbr v="en"/> als ein<abbr v="en"/> Narr<abbr v="en"/> ins Narrenspittal verwies<abbr v="en"/> hab<abbr v="en"/>.<lbr/>
+Wir seh<abbr v="en"/> also, was die Allmacht Gottes mit uns Mensch<abbr v="en"/> machet,<lbr/>
+we<abbr type="topline" expand="nn">n</abbr> wir seine Talent, die er uns gnädigst mittheilet nicht<lbr/>
+vergrab<abbr v="en"/>.<lbr type="forced"/>
+Schreibe du ordentlich alle Fre&#255;tage und schicke, wie sonst, die<lbr/>
+Briefe an h<abbr type="curve">:</abbr>&#160;<rend class="latin">Troger</rend>, bis ich dir etwas anders anordne.<lbr type="forced"/>
+Ich möchte so gar gerne wiss<abbr v="en"/>, we<abbr type="topline" expand="nn">n</abbr> da<abbr type="topline" expand="nn">n</abbr> eigentlich die <rend class="latin">Secunditz</rend><lbr/>
+seiner Hochf<abbr type="curve">:</abbr> Gnad<abbr v="en"/> unsers Gnädigst<abbr v="en"/> Herrn seyn wird. schreibe<lbr/>
+mir es, we<abbr type="topline" expand="nn">n</abbr> du es erfahr<abbr v="en"/> kannst: es wäre mir weg<abbr v="en"/> viel<abbr v="en"/><lbr/>
+Ursach<abbr v="en"/> zu wiss<abbr v="en"/> nothwendig.<lbr type="forced"/>
+Hier schlüsse die hiesige Zeitungen, die eb<abbr v="en"/> beko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/> habe. ganz<lbr/>
+am Ende werdet ihr die <rend class="latin">Opera</rend> find<abbr v="en"/>.<lbr type="forced"/>
+<pg n="3"/>
+An ganz Salzbg<abbr type="curve">:</abbr> meine <rend class="latin">Compl:</rend> wir küss<abbr v="en"/> euch 1000000 mahl<lbr/>
+und bin d<abbr v="er"/> alte<lbr type="forced"/>
+<ts>_________________________________________</ts><tspdf>\hfill </tspdf>Mozart <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+Diese Zeitung<abbr v="en"/> bitte S<h><uu>r</uu></h> Hochfstl: Gnad<abbr v="en"/> zu schick<abbr v="en"/>, du darfst es<lbr/>
+nur zu S<h><uu>r</uu></h>&#160;<rend class="latin">Excll<abbr type="curve">:</abbr></rend> Obersthofmeister trag<abbr v="en"/>.</NI></letter>
+</text>
+</MUP>

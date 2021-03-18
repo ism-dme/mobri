@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2009">2009-08-20</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=85</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:29:21 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/Doc1826_7_mup.txt">
+<HEADER id="85">JOHANN FEUERSTEIN AN ANTON JÄHNDL IN SALZBURG<lbr/>
+STEDTEN AN DER ILM, 28. FEBRUAR 1826</HEADER>
+
+
+<pg n="1"/>
+Dem Herrn Chorregenten Jähndel, Salzburg.<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>__________</ts>Wohlgeborener,<ts>_____________________________</ts><tspdf>\hfill </tspdf>Stedten bei Weimar<lbr type="forced"/>
+<ts>_____</ts>Hochgeehrtester Herr!<ts>_____________________________</ts><tspdf>\hfill </tspdf>d. 28 Febr. 1826.<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____</ts>Durch die Güte des Herrn geh. Etatsrath von Nissen<lbr/>
+ist mir bekannt, auf welche Weise Sie in Ihrer Musikaliensamlung<lbr/>
+sämtliche kirchliche Compositionen von <rend class="latin">W. A. Mozart</rend> und <rend class="latin">Mich. Ha&#255;dn</rend> haben.<lbr/>
+Es ist mir an manchen von diesen Stüken gelegen, sie in treuer Abschrift<lbr/>
+zu besitzen, <abbr expand="und">u</abbr> Sie lassen mich die Überzeugung hegen, daß ich durch<lbr/>
+Ihre Güte solche erhalten kann. So sehr gern ich ein Verzeichniß von<lbr/>
+dem, was ich schon habe, beigelegt hätte, so wollte sich dies doch weniger<lbr/>
+thun lassen, da ich ganz besonders von <rend class="latin">Mich. Haydn</rend> sehr wenig habe<lbr/>
+<abbr expand="und">u</abbr> doch weiß, wie sehr viel er für die Kirche componirt hat; so habe ich sein<lbr/>
+letztes Requiem, <abbr expand="und">u</abbr> 2 Messen in C<h><u>dur</u></h> bei <rend class="latin">Schott</rend> gestochen. Von Mozart habe ich<lbr/>
+zwar mehr, doch meistens nur, was in Deutschland gedrukt od. gestochen ist. Vie<pc force="weak">=</pc><lbr/>le Mozartsche Kirchencompositionen können mir sogar noch ganz unbekannt<lbr/>
+sein, da es eben hier weit ist von den Orten, wo er lebte <abbr expand="und">u</abbr> arbeitete.<lbr type="forced"/>
+<ts>_____</ts>Daher ersuche ich Sie, mir gütigst ein Verzeichniß von den Kirchen<pc force="weak">=</pc><lbr/>musiken W. A. Mozarts <abbr expand="und">u</abbr>&#160;<rend class="latin">Mich. Ha&#255;dns</rend>, von denen Sie mir gute Ab<pc force="weak">=</pc><lbr/>schriften geben können, machen zu lassen (jedoch ausgeschlossen, was hie <abbr expand="und">u</abbr> da<lbr/>
+in Deutschland gedrukt erschienen ist <suppl hand="self" pos="supra">so weit Sie es wissen</suppl>), <abbr expand="und">u</abbr> wenn sichs bei denen von <rend class="latin">M. Ha&#255;dn</rend><lbr/>
+thun ließe, wünschte ich auch eine chronologische Bezeichnung der Stücke,<lbr/>
+weil ich sie schwerlich alle bestellen werde. Sie sollen sie ja alle haben?<lbr type="forced"/>
+<pg n="2"/>
+<ts>_____</ts>Es ist mir nirgends ein genaues Verzeichniß von <rend class="latin">M. Ha&#255;dn’s</rend> Compositionen<lbr/>
+bekannt, <abbr expand="und">u</abbr> ich kann vielen Verehrern von ihm sehr gefällig sein, we<abbr type="topline" expand="nn">n</abbr><lbr/>
+ich solches mit ihnen theile, daher ich es vollständig wünsche. Ja, kann es leicht<lbr/>
+sein, so lassen Sie mir in dem gehofften Verzeichnisse auf der andern Seite die an<pc force="weak">=</pc><lbr/>fangstacte angeben, damit man sie genau anzugeben <abbr expand="und">u</abbr> zu unterscheiden wisse.<lbr/>
+De<abbr type="topline" expand="nn">n</abbr> es ka<abbr type="topline" expand="nn">n</abbr> leicht sein, daß er 8 Messen in C<h><u>dur</u></h> geschrieben, wie be<abbr type="topline" expand="nn">n</abbr>e<abbr type="topline" expand="nn">n</abbr>t man<lbr/>
+diese besonders? &#8211; Darin werden Sie mir wohl beisti<abbr type="topline" expand="mm">m</abbr>en. Auf gleiche<lbr/>
+Weise bitte ich es mit den Composit. Mozarts, deren wohl nicht so sehr<lbr/>
+viel für Kirche sind, machen zu lassen. Nach diesen Verzeichnissen, die<lbr/>
+Sie mir gewiß baldigst zuko<abbr type="topline" expand="mm">m</abbr>en lassen wollen, will ich Ihnen meine<lbr/>
+Bestellungen für Abschriften machen, die Sie mir sicher ebenso gern<lbr/>
+besorgen lassen werden. &#8211; Alles, was Sie für mich thun, bitte ich mir zu<lbr/>
+berechnen, um Meinetwillen sollen Sie keinen Heller bezahlen, ich<lbr/>
+vergüte Ihnen alles, auch selbst Briefauslage <abbr expand="und">u</abbr>&#160;<abbr expand="dergleichen">dgl.</abbr>, was hier auch schon<lbr/>
+vorkö<abbr type="topline" expand="mm">m</abbr>t, da der Brief nicht bis Salzburg frei gemacht werden kann,<lbr/>
+Schreiben Sie daher alles, auch das nicht zu umgehende Porto auf meine Rech<pc force="weak">-</pc><lbr/>nung, die ich dann Ihnen i<abbr type="topline" expand="mm">m</abbr>er, so oft Sie wünschen, bezahlen<lbr/>
+werde, auch selbst will ich Ihnen einen Vorschuß machen.<lbr type="forced"/>
+<ts>_____</ts>Haben Sie Nachsicht, hochgeehrtester Herr, mit meiner Dreistigkeit<lbr/>
+bei unserer gänzlichen Unbeka<abbr type="topline" expand="nn">n</abbr>tschaft, Sie bedenken vielmehr,<lbr/>
+worum sichs handelt, <abbr expand="und">u</abbr> dann denke ich, kennen wir uns<lbr/>
+schon etwas, <abbr expand="und">u</abbr> finden weniger Anstoß.<lbr type="forced"/>
+<ts>_____</ts>Von den beiden angegebnen Componisten will ich <u>alles</u> ke<abbr type="topline" expand="nn">n</abbr>en, auch selbst<lbr/>
+wenn von Ihnen ganz unbedeutende Sachen dasein sollten. &#8211; Sollten<lbr/>
+Sie mich etwa noch auf einiges Andre in der Art aufmerksam machen können,<lbr/>
+so bitte ich recht sehr darum, Sie haben sicher außer den angegebnen<lbr/>
+noch sehr viele schöne <abbr expand="und">u</abbr> meisterhafte Sachen.<lbr type="forced"/>
+<pg n="3"/>
+Nehmen Sie zum Schlusse die Versicherung, meiner vollko<abbr type="topline" expand="mm">m</abbr>nen<lbr/>
+Hochachtung <abbr expand="und">u</abbr> Ergebenheit, mit der ich bin<lbr type="forced"/>
+<ts>_______________________________</ts><tspdf>\hfill </tspdf><abbr expand="Euer">Ew.</abbr> Wohlgeboren<lbr type="forced"/>
+<ts>________________________________________________________</ts><tspdf>\hfill </tspdf><u>D. Feuerstein.</u><lbr/>
+<pg n="4"/>
+<add_note schr="Anton Jähndl"><formula type="mfrac"><mn>31</mn><mi>7</mi></formula> 1751 A<abbr type="topline" expand="nn">n</abbr>a Mozart<lbr type="forced"/>
+Granatenschnur.</add_note><lbr type="forced"/>
+<add_note schr="Anton Jähndl" loc="top" rot="180">Daß</add_note><lbr type="forced"/>
+<add_note schr="Anton Jähndl" loc="lm" rot="270"> Theu<lbr/>
+Co<abbr type="topline" expand="mm">m</abbr>ission in Amtssachen</add_note><lbr type="forced"/>
+<anschrift rot="270">Sr. Wohlgeboren<lbr type="forced"/>
+dem Herrn Chorregenten <rend class="latin">Jähndel</rend><lbr type="forced"/>
+frei bis Oesg<ts>___</ts><u><rend class="latin">Salzburg</rend>.</u><lbr type="forced"/>
+Im sonstig<abbr v="en"/> Erzstift<lbr type="forced"/>
+gleich<abbr v="en"/> Namens.</anschrift><lbr type="forced"/>
+<add_note schr="Anton Jähndl" loc="lm" rot="270">An<ts>___________</ts>Thematisches</add_note><lbr type="forced"/>
+<add_seal type="post">WEIMAR<lbr type="forced"/>
+1 MAR 1826</add_seal><lbr type="forced"/>
+<add_seal type="post"><additum>[... (unleserlich)]</additum> SALZBURG<lbr type="forced"/>
+13 MAR 1[826]</add_seal></text>
+</MUP>

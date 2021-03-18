@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2011">2011-05</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=805</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:37:33 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_244.mup">
+<letter bd="244"><HEADER id="805">LEOPOLD MOZART AN MARIA ANNA MOZART IN SALZBURG<lbr/>
+MAILAND, 7. SEPTEMBER 1771</HEADER>
+<pg n="1"/>
+<ts>______________________________________________</ts><tspdf>\hfill </tspdf>Mayland. d<abbr v="en"/> 7 <rend class="latin">Settemb<abbr type="curve">:</abbr></rend>&#160;<u>1771.</u><lbr type="forced"/>
+<lbr type="forced"/>
+Endlich hat uns der Hi<abbr type="topline" expand="mm">m</abbr>el mit einem klein<abbr v="en"/> Reg<abbr v="en"/> ein paar Täge nacheinand<abbr v="er"/><lbr/>
+erquicket. deine wenig<abbr v="en"/> Zeil<abbr v="en"/> habe erhalt<abbr v="en"/>; und es war sehr hauswirtschaftlich<lbr/>
+gedacht, das du auf die erste Seite wenig, auf die zwote aber gar<lbr type="BD"/>
+nichts geschrieb<abbr v="en"/>,<lbr/>
+de<abbr type="topline" expand="nn">n</abbr> so viele 1000 Buchstab<abbr v="en"/> könnt<abbr v="en"/> ein<abbr v="en"/> Brief so beschwer<abbr v="en"/>, daß man ihn mit 6 Pferd<abbr v="en"/><lbr/>
+nach Mayland führ<abbr v="en"/> müste. Hi<abbr type="topline" expand="mm">m</abbr>el!<lbr type="BD"/> welche unköst<abbr v="en"/>! Die leer<abbr v="en"/> Papiere<lbr/>
+sind i<abbr type="topline" expand="mm">m</abbr>er ringer zu führ<abbr v="en"/> als die<lbr type="BD"/> überschrieben<abbr v="en"/>. <tshtm>_____</tshtm>Mein<abbr v="en"/> Brüd<abbr v="ern"/> antworte ich<lbr/>
+geradezu nach Augspurg. Ich<lbr type="BD"/> werde mich in ihr<abbr v="en"/> nichts bedeutend<abbr v="en"/> Handl nicht<lbr/>
+viel einmischen. Wir hab<abbr v="en"/><lbr type="BD"/> itzt den Kopf mit and<abbr v="er"/><abbr v="en"/> sach<abbr v="en"/> voll: indem die Poesie<lbr/>
+späth angelangt und<lbr type="BD"/> noch zur änderung ein und and<abbr v="er"/>es bis vor 2 Täg<abbr v="en"/> in<lbr/>
+den Händ<abbr v="en"/> des Poet<abbr v="en"/><lbr type="BD"/> geblieb<abbr v="en"/>. Es wird hoffe gut ausfall<abbr v="en"/>: allein der Wolfg<abbr type="curve">:</abbr><lbr/>
+hat nun die Hände voll<lbr type="BD"/> zu schreib<abbr v="en"/>, da er auch das <rend class="latin">Ballet</rend>, so die zwe&#255; <rend class="latin">act</rend><lbr/>
+od<abbr v="er"/> theile mit einand<abbr v="er"/><lbr type="BD"/> verbindet, <rend class="latin">Componier</rend><abbr v="en"/> muß. Daß der Erzh<abbr type="curve">:</abbr><lbr/>
+<rend class="latin">Maximilian</rend> Domh<abbr type="curve">:</abbr> geword<abbr v="en"/><lbr type="BD"/> war mir nichts ausserordentl: ich habe es<lbr/>
+ja seit meiner Rückkehr aus <rend class="latin">Itali</rend><abbr v="en"/><lbr type="BD"/> aller Ort<abbr v="en"/> in Salzb<abbr type="curve">:</abbr> gesagt, daß es<lbr/>
+gescheh<abbr v="en"/>&#160;<amend value="wird">wird<abbr v="en"/></amend>. das übrige wird sich auch<lbr type="BD"/> geb<abbr v="en"/>: nur gedult! mir ist<lbr/>
+leid, daß ich nicht alles schreib<abbr v="en"/> ka<abbr type="topline" expand="nn">n</abbr>. Salzburg<lbr type="BD"/> ist nicht der einzige<lbr/>
+Gegenstand dieses erst<abbr v="en"/> Schrittes! &#8211; <ts>____</ts>&#8211; <ts>_____</ts>&#8212; <ts>_____</ts>&#8212; <ts>_____</ts>&#8212; <lbr type="forced"/>
+Ich hofe<lbr type="BD"/> ihr seyd gesund, und zweifle nicht die Na<abbr type="topline" expand="nn">n</abbr>erl wird fortfahr<abbr v="en"/> ihre<lbr/>
+KräuterSupp<abbr v="en"/> zu nehm<abbr v="en"/>; da<abbr type="topline" expand="nn">n</abbr> sie hat erfahr<abbr v="en"/>, daß sie ihr dien<abbr v="en"/>.<lbr type="forced"/>
+We<abbr type="topline" expand="nn">n</abbr> h<abbr type="curve">:</abbr>&#160;<rend class="latin">Secretair Troger</rend> noch in Salzb<abbr type="curve">:</abbr> so gieb ihm ein paar schachterl<lbr/>
+von den berühmt<abbr v="en"/> Spilman Hansl Pillul<abbr v="en"/> mit. sollte er aber schon<lbr/>
+abgereiset se&#255;n, wie<lbr type="BD"/> vermuthe, so erkundiget euch fleisig in den<lbr/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal><lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="2"/>
+wirtshausern und auf der Post,<lbr type="BD"/> de<abbr type="topline" expand="nn">n</abbr> es werd<abbr v="en"/> sond<abbr v="er"/> zweifel noch<lbr/>
+verschiedene durch <rend class="latin">Salzb<abbr type="curve">:</abbr></rend> nach Mayland<lbr type="BD"/> reis<abbr v="en"/>: und ied<abbr v="er"/> wird es<lbr/>
+mit nehm<abbr v="en"/>, genug, daß ihr die <rend class="latin">Adresse</rend> darauf macht<lbr type="BD"/> be&#255; S:<h>r</h><lbr/>
+<rend class="latin">Ex<abbr type="curve">:</abbr></rend> Graf <abbr expand="von">v</abbr>&#160;<rend class="latin">Firmian</rend> abzugeben. od<abbr v="er"/> <rend class="latin"><u>al Ill<h>mo</h>: Sgr: Pad<h>re</h>:</u><lbr/>
+<u>Colldss<h>mo</h>: il Sgr: Leopoldo Troger Secretario Reggio nello Stato<lbr/>
+Stato della Lombardia</u>&#160;<tshtm>_____</tshtm>à <lbr/>
+<tshtm>______________________________________________</tshtm>Milano<lbr/>
+in Casa di S: Ecc: Il Sgr. Conte di Firmian.</rend><lbr type="forced"/><lbr type="BD"/>
+<lbr/> 
+Diese Pillul<abbr v="en"/> sind mir nothwendig, de<abbr type="topline" expand="nn">n</abbr> ich weis daß sie mir dien<abbr v="en"/>,<lbr/>
+we<abbr type="topline" expand="nn">n</abbr><lbr type="BD"/> mir, weg<abbr v="en"/> den Verstopfung<abbr v="en"/>, mein schwindl ko<abbr type="topline" expand="mm">m</abbr>t: und ich<lbr/>
+hatte ihn seit<lbr type="BD"/> meiner Abreise von Salzb<abbr type="curve">:</abbr> meistens, doch nicht<lbr/>
+so hefftig, zum Erbrech<abbr v="en"/> oder<lbr type="BD"/> gezwung<abbr v="en"/> zu se&#255;n mich in das<lbr/>
+bette zu leg<abbr v="en"/>. da ich nun erst 3 täge die<lbr type="BD"/> Pillul<abbr v="en"/> nehme<lbr/>
+verspiere ich, daß mir d<abbr v="er"/> Kopf leichter wird. ich hab aber<lbr type="BD"/> leid<abbr v="er"/><lbr/>
+nur noch 8<h>te</h>. wir küss<abbr v="en"/> euch viel 1000000 mahl <abbr expand="und">u</abbr> bin<lbr type="forced"/>
+<ts>______________________________________________________________________</ts><tspdf>\hfill </tspdf>d<abbr v="er"/> alte<lbr type="forced"/>
+<ts>______________________________________________________________________</ts><tspdf>\hfill </tspdf><rend class="latin">LMozart</rend>&#160;<abbr expand="manu propria">mp</abbr>.<lbr type="forced"/>
+Weil die Na<abbr type="topline" expand="nn">n</abbr>erl nichts geschrieb<abbr v="en"/>, so schreibt d<abbr v="er"/> Wolfg<abbr type="curve">:</abbr> auch nichts.<lbr type="forced"/>
+Wir empf<abbr type="curve">:</abbr> uns all<abbr v="en"/> gut<abbr v="en"/> freund<abbr v="en"/> und freundin<abbr v="en"/>.<lbr type="forced"/>
+hast du die <u>Besoldung für den Monat august</u> beko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>? &#8211; <lbr/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal><lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal></letter>
+</text>
+</MUP>

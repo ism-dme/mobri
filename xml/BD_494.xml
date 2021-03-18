@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2012">2012-12</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1058</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:39:08 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_494.mup">
+<letter bd="494"><HEADER id="1058">WOLFGANG AMADÉ MOZART AN LEOPOLD MOZART IN SALZBURG<lbr/>
+NANCY, 3. OKTOBER 1778</HEADER>
+<pg n="1"/>
+<add_num type="inline" impl="pencil"><u>59</u></add_num><ts>_______</ts><tshtm>____________________________________________________________________________________</tshtm><tspdf>\hfill </tspdf><rend class="latin">Nancy ce</rend> 3:<h>ten</h>&#160;<u><rend class="latin">octob</rend></u>:<lbr type="forced"/>
+<ts>_________________</ts><tshtm>________________</tshtm><rend class="latin">Mon Trés cher Pére!</rend><add_num type="inline" impl="pencil"><ts>_____________</ts>52</add_num><ts>___</ts><tshtm>_________________</tshtm><tspdf>\hfill </tspdf><u>1778.</u><lbr type="forced"/>
+<lbr type="forced"/>
+Ich bitte sie um verze&#255;hung daß ich ihnen nicht in <rend class="latin">Paris</rend> noch meine abreise<lbr type="BD"/> gemeldet<lbr/>
+habe, allein, das ding war über all mein vermuthen, me&#255;nen, und<lbr type="BD"/> willen so über<pc force="weak">=</pc><lbr/>eilt, daß ich es ihnen nicht beschreiben kan; &#8211; den lezten<lbr type="BD"/> augenblick habe ich noch<lbr/>
+meine <rend class="latin">Bagage</rend> anstatt zum <rend class="latin">Burreau</rend> der <rend class="latin">Diligence</rend>,<lbr type="BD"/> zum graf Sückingen bringen<lbr/>
+lassen, und noch etliche täge in <rend class="latin">Paris</rend> verbleiben<lbr type="BD"/> wollen &#8211; und ich hätte es be&#255;<lbr/>
+meiner Ehre gethan, we<abbr type="topline" expand="nn">n</abbr> ich nicht &#8211; auf sie<lbr type="BD"/> gedacht hätte &#8211; de<abbr type="topline" expand="nn">n</abbr> ich wollte ihnen<lbr/>
+keinen verdruß machen, &#8211; von diesen<lbr type="BD"/> sachen werden wir in Salzburg mit<lbr/>
+mehrer gelegenheit sprechen kö<abbr type="topline" expand="nn">n</abbr>en; &#8211;<lbr type="BD"/> Nur etwas; &#8211; stellen sie sich vor,<lbr/>
+der <rend class="latin">M:<h>r</h> gri<abbr type="topline" expand="mm">m</abbr></rend> hat mir vorgelogen, daß ich<lbr type="BD"/> mit der <rend class="latin">Dilligence</rend> gehen, und<lbr/>
+in 5 tägen zu strassburg ancko<abbr type="topline" expand="mm">m</abbr>en werde; &#8211;<lbr type="BD"/> den lezten tag wuste ich erst,<lbr/>
+daß es ein anderer wagen ist, der schritt für<lbr type="BD"/> schritt gehet, keine Pferde wechselt,<lbr/>
+und 10 täge braucht; &#8211; da kö<abbr type="topline" expand="nn">n</abbr>en sie<lbr type="BD"/> sich meinen zorn leicht vorstellen; &#8211; <lbr/>
+doch liesse ich ihn nur be&#255; meinen<lbr type="BD"/> guten freünden aus, und be&#255; ihm aber<lbr/>
+stellte ich mich ganz lustig und ver<lbr type="BD"/>gnügt; &#8211; als ich in wagen ka<abbr type="topline" expand="mm">m</abbr>, hörte<lbr/>
+ich die angenehme nachricht, daß wir<lbr type="BD"/> 12 täge reisen werden; &#8211; da sehen<lbr/>
+sie die grosse vernunft des herrn <rend class="latin">Baron v: gri<abbr type="topline" expand="mm">m</abbr></rend>! &#8211; um mir zu<lbr/>
+sparren schickte er mich mit diesem langsamen wagen,<lbr type="BD"/> und dachte nicht<lbr/>
+darauf, daß die kösten doch auf das nemliche hinaus=laufen,<lbr type="BD"/> inde<abbr type="topline" expand="mm">m</abbr><lbr/>
+man öfter in wirths=häüsern verzehren muß; &#8211; Nun, izt ist es schon<lbr type="BD"/><lbr/>
+vorbe&#255;; &#8211; waß mich be&#255; der ganzen sach am meisten verdrossen hat,<lbr/>
+ist, daß<lbr type="BD"/> er es <suppl hand="self" pos="infra">mir</suppl> nicht gleich gesagt hat; &#8211; Er hat halt sich gesparrt, und<lbr/>
+nicht mir; &#8211;<lbr type="BD"/> de<abbr type="topline" expand="nn">n</abbr> er hat die reise |: ohne Verpflegung :| bezahlt &#8211; we<abbr type="topline" expand="nn">n</abbr> ich aber<lbr/>
+noch 8<lbr type="BD"/> oder 10 täge in <rend class="latin">Paris</rend> geblieben wäre, so hätte ich mich im stande ge<pc force="weak">=</pc><lbr/>sezt,<lbr type="BD"/> meine reise selbst und gelegen machen zu kö<abbr type="topline" expand="nn">n</abbr>en; &#8211; <lbr type="forced"/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="2"/>
+Ich habe nun 8 tage in diesen wagen ausgehalten; länger wäre ich es aber<lbr type="BD"/><lbr/>
+nicht im stande &#8211; nicht wegen der <rend class="latin">strapaz</rend>, de<abbr type="topline" expand="nn">n</abbr> der wagen ist gut gehenckt,<lbr type="BD"/> sondern<lbr/>
+nur wegen den schlafen; alle tage um 4 uhr weg, mithin um 3 uhr<lbr type="BD"/> aufstehen;<lbr/>
+2 mal habe ich die Ehre gehabt um 1 uhr nachts aufzustehen, weil<lbr type="BD"/> der wagen<lbr/>
+um 2 uhr weg=gieng; sie wissen daß ich im wagen nicht schlafen<lbr type="BD"/> ka<abbr type="topline" expand="nn">n</abbr> &#8211; <lbr/>
+mithin kö<abbr type="topline" expand="nn">n</abbr>te ich es ohne gefahr kranck zu werden, nicht so fort<lbr type="BD"/>setzen; &#8211; und<lbr/>
+da<abbr type="topline" expand="nn">n</abbr>, war einer unserer reise=gefährten sehr starck mit fran<lbr type="BD"/>zosen begabt;<lbr/>
+er laugnete es auch nicht &#8211; mithin, das ist schon genug für<lbr type="BD"/> mich, um lieber, we<abbr type="topline" expand="nn">n</abbr><lbr/>
+es darauf anko<abbr type="topline" expand="mm">m</abbr>t die <rend class="latin">Post</rend> zu nehmen; das hat<lbr type="BD"/> es aber nicht nöthig, de<abbr type="topline" expand="nn">n</abbr> ich<lbr/>
+habe doch das glück gehabt einen Ma<abbr type="topline" expand="nn">n</abbr> darun<lbr type="BD"/>ter zu finden, der mir ansteht;<lbr/>
+einen teütschen; einen kaufma<abbr type="topline" expand="nn">n</abbr>, der zu<lbr type="BD"/>&#160;<rend class="latin">Paris</rend> wohnt, und mit Englischen waaren<lbr/>
+handelt; &#8211; Ehe wir in die kutsche<lbr type="BD"/> stiegen, haben wir uns schon ein wenig ge<pc force="weak">=</pc><lbr/>sprochen; und von diesen augen<lbr type="BD"/>blick blieben wir i<abbr type="topline" expand="mm">m</abbr>er be&#255;sa<abbr type="topline" expand="mm">m</abbr>en; &#8211; wir<lbr/>
+speisten nicht mit der <rend class="latin">Com<lbr type="BD"/>pagnie</rend>, sondern in unserer ka<abbr type="topline" expand="mm">m</abbr>er, und schlaften<lbr/>
+auch so; &#8211; ich bin um<lbr type="BD"/> diesen Ma<abbr type="topline" expand="nn">n</abbr> auch froh, weil er viell gereiset ist,<lbr/>
+mithin die sache versteht &#8211;<lbr type="BD"/> dieser hat sich auch auf den wagen <rend class="latin">enuirt</rend>,<lbr/>
+und wir sind miteinand von wagen<lbr type="BD"/> weg, und gehen Morgen, mit einer<lbr/>
+guten gelegenheit, das nicht viell kost,<lbr type="BD"/> nach strassburg; &#8211; dort hoffe<lbr/>
+ich einen brief von ihnen zu trefen, und dadurch<lbr type="BD"/> meine weitere reise<lbr/>
+zu erfahren; &#8211; ich hofe sie werden meine briefe alle er<lbr type="BD"/>halten haben,<lbr/>
+ich habe die ihrigen richtig empfangen; ich bitte um verze&#255;<lbr type="BD"/>hung daß ich nicht viell<lbr/>
+schreiben ka<abbr type="topline" expand="nn">n</abbr>, weil ich, we<abbr type="topline" expand="nn">n</abbr> ich nicht in einer<lbr type="BD"/> stadt bin wo ich gut bekandt bin,<lbr/>
+niemal gutes <rend class="latin">humors</rend> bin; &#8211; doch glaube<lbr type="BD"/> ich, daß, we<abbr type="topline" expand="nn">n</abbr> ich hier bekandt wäre,<lbr/>
+gerne hier bleiben würde, inde<abbr type="topline" expand="mm">m</abbr>e die<lbr type="BD"/> stadt in der that <rend class="latin">charmant</rend> ist; &#8211; <lbr/>
+schöne häüser, schöne breite gässe, und <rend class="latin">superbe</rend><lbr type="BD"/> Plätze; &#8211; nur noch etwas<lbr/>
+Muß ich sie bitten; &#8211; daß ich einen guten grossen<lbr type="BD"/> kasten in mein zi<abbr type="topline" expand="mm">m</abbr>er<lbr/>
+beko<abbr type="topline" expand="mm">m</abbr>e, damit ich alle meine sachen be&#255; mir haben ka<abbr type="topline" expand="nn">n</abbr>; &#8211; we<abbr type="topline" expand="nn">n</abbr> ich das kleine<lbr/>
+<rend class="latin">Clavierl</rend>, daß der <rend class="latin">fischetti</rend> und <rend class="latin">Rust</rend> gehabt hat,<lbr type="BD"/> zu meinem schreibtisch haben<lbr/>
+kö<abbr type="topline" expand="nn">n</abbr>te, wäre es mir sehr lieb, inde<abbr type="topline" expand="mm">m</abbr>e es mir<lbr type="BD"/> besser taugt, als das kleine<lbr/>
+von stein; &#8211; neües bringe ich ihnen nicht viell<lbr type="BD"/> mit von meiner <rend class="latin">Musique</rend>,<lbr/>
+de<abbr type="topline" expand="nn">n</abbr> ich habe nicht viell gemacht; &#8211; die 3 <rend class="latin">Quar<lbr type="BD"/>tetti</rend> und das flauten <rend class="latin">Concert</rend><lbr/>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="3"/>
+für den <rend class="latin">M<h>r</h>: de jean</rend> habe ich nicht, de<abbr type="topline" expand="nn">n</abbr> er hat<lbr type="BD"/> es, als er nach <rend class="latin">Paris</rend> gieng in den<lbr/>
+unrechten kufer gethan, und ist folglich<lbr type="BD"/> zu Ma<abbr type="topline" expand="nn">n</abbr>heim geblieben; &#8211; er hat mir<lbr/>
+aber versprochen, daß er mir es, so<lbr type="BD"/> bald er nach Ma<abbr type="topline" expand="nn">n</abbr>heim ko<abbr type="topline" expand="mm">m</abbr>en<lbr/>
+wird, schicken wird; &#8211; ich werde schon den<lbr type="BD"/> wendling <rend class="latin">Co<abbr type="topline" expand="mm">m</abbr>ission</rend> geben; &#8211; <lbr/>
+mithin werde ich nichts fertiges mitbringen<lbr type="BD"/> als meine <rend class="latin">Sonaten</rend>; &#8211; de<abbr type="topline" expand="nn">n</abbr> die<lbr/>
+2 <rend class="latin">ouverturen</rend> und <rend class="latin">sinfonie Concertante</rend> hat<lbr type="BD"/> mir der <rend class="latin">Le Gros</rend> ab<pc force="weak">=</pc><lbr/>kauft; &#8211; er meint er hat es allein, es ist aber nicht wahr;<lbr/>
+ich<lbr type="BD"/> hab sie noch frisch in meinen kopf, und werde sie, sobald ich<lbr/>
+nach hause<lbr type="BD"/> ko<abbr type="topline" expand="mm">m</abbr>e, wieder aufsetzen; &#8211; die Münchner <rend class="latin">Co<abbr type="topline" expand="mm">m</abbr>edianten</rend><lbr/>
+werden nun<lbr type="BD"/> natürlicher weise schon spielen? &#8211; gefallen sie? &#8211; <lbr/>
+gehen die leüte hinein? &#8211;<lbr type="BD"/> von den Singspiellen wird wohl<lbr/>
+das fischermädchen |: <rend class="latin">la pescatrice</rend> von <rend class="latin">Pic<lbr type="BD"/>cini</rend> :| oder das bauer<pc force="weak">=</pc><lbr/>mädchen be&#255; hof |: <rend class="latin">la Contadina in Corte</rend> von <rend class="latin">sacchini</rend> :|<lbr type="BD"/> das<lbr/>
+Erste se&#255;n? &#8211; die erste singerin wird die <u>kayserin</u> se&#255;n;<lbr/>
+das ist das<lbr type="BD"/> mädchen wovon ich ihnen von München geschrieben &#8211; ich<lbr/>
+ke<abbr type="topline" expand="nn">n</abbr>e sie nicht &#8211;<lbr type="BD"/> ich habe sie nur gehört; &#8211; damals war sie das<lbr/>
+drittemal auf den theatre, und<lbr type="BD"/> erst 3 wochen daß <suppl hand="self" pos="infra">sie</suppl> die <rend class="latin">Musique</rend><lbr/>
+gelernt hat; &#8211; Nun leben sie recht wohl; &#8211;<lbr type="BD"/> ich habe keine<lbr/>
+ruhige stunde, bis ich nicht wieder alles sehe, was ich liebe &#8211;<lbr type="BD"/>&#160;<lbr/>
+Meine liebe schwester umarme ich von ganzem herzen, und<lbr/>
+ihnen küsse ich<lbr type="BD"/> 1000mahl die hände und bin dero gehorsamster<lbr/>
+sohn,<lbr type="forced"/>
+<lbr type="forced"/>
+meine Empfehlung an alle gute<lbr type="forced"/>
+freünde und freündinen &#8211; besonders<lbr type="forced"/>
+aber an unsern wahren und lieben<lbr type="forced"/>
+freünd <rend class="latin">Bullinger</rend>.<ts>____________</ts><tshtm>___________________________________</tshtm><tspdf>\hfill </tspdf><u>wolfgang Amadè Mozart <abbr expand="manu propria">mp</abbr></u><lbr type="forced"/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="4"/>
+<tspdf>\newpage</tspdf> 
+<add_empf rot="270" schr_id="39408"><u>den 13 <rend class="latin">oct:</rend> empf<abbr type="curve">:</abbr></u></add_empf>
+<add_num rot="270"><u><rend class="latin">N:<h>o</h></rend> 51</u></add_num>
+<add_num rot="90"><u>N:<h>o</h> 51</u></add_num><lbr/>
+<anschrift rot="90">
+<add_seal type="post">NANCY</add_seal><lbr/>
+<rend class="latin">| Haute allemagne | À<lbr type="forced"/>
+Monsieur<lbr type="forced"/>
+Monsieur Leopold Mozart<lbr type="forced"/>
+maitre<lbr type="BD"/> de la Chapelle de S: A: R:<lbr type="forced"/>
+L'archeveque de Salzbourg<ts>___</ts><lbr type="forced"/>
+<ts>_____________________</ts><tshtm>________________</tshtm>à<lbr type="BD"/><lbr type="forced"/>
+Par strassbourg<lbr type="forced"/>
+<u>augspourg</u><ts>_________</ts><tshtm>___________</tshtm><u>Salzbourg</u></rend></anschrift>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+</letter>
+</text>
+</MUP>

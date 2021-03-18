@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2012">2012-12</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1075</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">GB-Lbl</bibl>
+            <bibl type="source" subtype="RISM">GB-Lbl (The British Library Music Collections)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:39:14 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_511.mup">
+<letter bd="511"><NI src="GB-Lbl"><HEADER id="1075">WOLFGANG AMADÉ MOZART AN MARIA ANNA THEKLA MOZART IN AUGSBURG<lbr/>
+KAISHEIM, 23. DEZEMBER 1778</HEADER>
+<pg n="1"/>
+<ts>______________________</ts><tshtm>_____________________________________________________________________</tshtm><tspdf>\hfill </tspdf>ka&#255;sersheim den 23<h>ten</h>: <u><rend class="latin">dec</rend></u>.<lbr type="forced"/>
+<ts>______________________________</ts><rend class="latin">Ma trés cher Cousine!</rend><ts>_______</ts><tshtm>_____________________________________</tshtm><tspdf>\hfill </tspdf><u>1778.</u><lbr type="forced"/>
+<lbr type="forced"/>
+in gröster E&#255;l &#8211; und mit vollkomenster Reüe und leid, und steifen vor<lbr type="BD"/>satz<lbr/>
+schreibe ich ihnen, und giebe ihnen die Nachricht, daß ich morgen schon<lbr type="BD"/> nach München<lbr/>
+abreise; &#8211; liebstes bäsle, se&#255; kein häsle &#8211; ich wäre sehr gerne<lbr type="BD"/> nach augsburg<lbr/>
+das versichere ich sie, allein der h<abbr type="curve">:</abbr> Reichs=Prälat hat mich<lbr type="BD"/> nicht weg=gelassen,<lbr/>
+und ich ka<abbr type="topline" expand="nn">n</abbr> ihn nicht hassen, de<abbr type="topline" expand="nn">n</abbr> das wäre wieder das<lbr type="BD"/> gesez gottes und der<lbr/>
+Natur, und wers nicht glaubt ist eine h&#8211;r; mithin ist<lbr type="BD"/> es halt einmal<lbr/>
+so, &#8211; vielleicht ko<abbr type="topline" expand="mm">m</abbr>e ich von münchen auf einen sprung<lbr type="BD"/> nach <rend class="latin">Augsburg</rend>;<lbr/>
+allein es ist nicht so sicher; &#8211; we<abbr type="topline" expand="nn">n</abbr> sie so viell freüd haben<lbr type="BD"/> mich zu sehen<lbr/>
+wie ich ihnen, so ko<abbr type="topline" expand="mm">m</abbr>en sie nach München in die werthe<lbr type="BD"/> stadt &#8211; schauen<lbr/>
+sie daß sie vorm Neüen jahr noch dri<abbr type="topline" expand="nn">n</abbr>e sind, so will ich sie<lbr type="BD"/> da<abbr type="topline" expand="nn">n</abbr> betrachten<lbr/>
+vorn und hind &#8211; will sie überall herum führen, auch we<abbr type="topline" expand="nn">n</abbr>s<lbr type="BD"/> nothwendig ist<lbr/>
+kristiren &#8211; doch nur eines ist mir leid, daß ich sie nicht ka<abbr type="topline" expand="nn">n</abbr><lbr type="BD"/>&#160;<rend class="latin">logiren</rend>: weil<lbr/>
+ich in keinen wirthshaus bin, sondern wohne be&#255; &#8211; ja wo? &#8211; das<lbr type="BD"/><lbr/>
+möcht ich wissen; &#8211; Nun <rend class="latin">spassssss à part</rend> &#8211; just dessentwegen ist es für mich<lbr type="BD"/><lbr/>
+sehr nothwendig daß sie ko<abbr type="topline" expand="mm">m</abbr>en &#8211; sie werden vielleicht eine grosse<lbr/>
+Rolle zu<lbr type="BD"/> spiellen beko<abbr type="topline" expand="mm">m</abbr>en &#8211; also ko<abbr type="topline" expand="mm">m</abbr>en sie gewis, sonst ist ein schiss;<lbr/>
+ich werde<lbr type="BD"/> alsdan in eigner hoherperson ihnen <rend class="latin">Complimenti</rend>ren, ihnen den<lbr/>
+arsch Pet<lbr type="BD"/>schieren, ihre hände küssen, mit der hintern büchse schiessen,<lbr/>
+ihnen <rend class="latin">Embras<lbr type="BD"/>siren</rend>, sie hinten und vorn kristiren, ihnen, was ich ihnen etwa<lbr/>
+alles schuldig<lbr type="BD"/> bin, haarklein bezahlen, und einen wackeren furz<lbr/>
+lassen erschallen, und viel<lbr type="BD"/>leicht auch etwas lassen fallen &#8211; Nun<lbr type="forced"/>
+adieu &#8211; mein Engel mein herz<ts>______________________</ts><add_note type="inline" impl="pencil">Kaisersheim 23 <rend class="latin">Dec</rend> 1778</add_note><lbr type="forced"/>
+<tshtm>______________</tshtm>ich warte auf sie mit schmerz<lbr type="forced"/>
+<lbr type="forced"/>
+schreiben sie mir nur gleich nach München <u><rend class="latin">Poste restante</rend></u><lbr type="forced"/>
+ein kleines briefchen von 24 bögen, aber<ts>_____</ts><tshtm>____________________</tshtm><tspdf>\hfill </tspdf><rend class="latin">votre sincere Co[usin]</rend><lbr type="forced"/>
+schreiben sie nicht hinein wo sie <rend class="latin">logiren</rend> werden,<ts>____</ts><tshtm>_______________</tshtm><tspdf>\hfill </tspdf><rend class="latin">W: A[: Mozart]</rend><lbr type="forced"/>
+damit ich sie, und sie mich nicht finden; &#8211; <lbr type="forced"/>
+<lbr type="forced"/>
+<pg n="2"/>
+<rend class="latin">P: S:</rend> Scheis = dibitari der pfarer zu Rodempl<lbr type="forced"/>
+hat sein köchin im arsch geleckt, ein andern zum Exempl;<lbr type="forced"/>
+<tshtm>__________________________</tshtm><rend class="latin">Vivat &#8211; vivat</rend> &#8211; <lbr/>
+<lbr/>
+<add_seal type="owner">British<lbr/>
+Library</add_seal></NI></letter>
+</text>
+</MUP>

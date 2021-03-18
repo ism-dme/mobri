@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2020">2020-02</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=626</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Verbleib unbekannt (Vorlage: Abschrift um 1768 in D-B)</bibl>
+            <bibl type="source" subtype="RISM">Verbleib unbekannt, Vorlage: Abschrift um 1768 in D-B</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:36:34 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_68.mup">
+<letter bd="68">
+<NI src="unbekannt">
+<HEADER id="626">LEOPOLD MOZART AN LORENZ HAGENAUER IN SALZBURG<lbr/>
+BRÜSSEL, 4. NOVEMBER 1763</HEADER>
+<pg n="1"/>
+<ts>__________</ts><u>etwas für Sie allein</u><ts>_____</ts><tspdf>\hfill </tspdf>Brüssl, d<abbr v="en"/> 4 9<h><rend class="latin">ber</rend></h> 1763<lbr type="forced"/>
+<lbr type="forced"/>
+Sie hatten die Gütte und das unverdiente Vertrauen<lbr/>
+für mich, mir einen <rend class="latin">credit</rend><lbr type="BD"/> brief an <rend class="latin">Mr</rend>: <choice><orig><rend class="latin">Calligarj</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">Calligari</rend></corr></choice> mit<pc force="weak">=</pc><lbr/>zugeben, und zwar auf 500 fl:. Dieser zertheilte<lbr/>
+<add_note schr_id="39408" ><ts>_____________________________________________________</ts>32 X<h><uu>r</uu></h></add_note>
+mir<lbr type="BD"/> den <rend class="latin">Credit</rend> Brief, und gab mir ein<abbr v="en"/>&#160;<rend class="latin">credit</rend>brief nach<lbr/>
+Strassburg mit 300 fl: und<lbr type="BD"/> ein<abbr v="en"/> andern nach Frankfurt zu<lbr/>
+200 fl: in Frankfurt empfieng ich 100 fl:, die<lbr type="BD"/> ursache dess<abbr v="en"/><lbr/>
+habe ich ihnen in meinem schreiben aus <rend class="latin">Coblenz</rend> gemelde[t.]<lbr/>
+Nun<lbr type="BD"/> sind wir schon bald 3 wochen in Brüssel aufgehalten,<lbr/>
+und der Prinz <rend class="latin">Carl</rend> hat<lbr type="BD"/> mit mir selbst gesprochen, und<lbr/>
+gesagt, daß er in einigen Tagen meine Kinder<lbr type="BD"/><lbr/>
+hören will, und doch ist noch nichts geschehen. ja,<lbr/>
+es hat das Ansehen, daß gar<lbr type="BD"/> nichts daraus wird,<lbr/>
+denn der Hr: Prinz thut nichts als Jagen, fressen<lbr/>
+und<lbr type="BD"/> sauffen, und am Ende ko<abbr type="topline" expand="mm">m</abbr>t heraus, daß<lbr/>
+er kein geld hat. Entzwischen habe<lbr type="BD"/> ich mit guter<lbr/>
+art von hier weder abreisen, noch ein <rend class="latin">concert</rend> geben<lbr/>
+könn<abbr v="en"/>, weil<lbr type="BD"/> ich, auf das eigne Wort des Prinz<abbr v="en"/>, sein<abbr v="en"/><lbr/>
+Entschluß habe abwarten müssen.<lbr type="BD"/> Es ist anbe&#255; leicht<lbr/>
+zu erachten, daß ich eine rechtschaffne <choice><orig>zeche</orig><corr hand="diff" schr_id="57010">zech</corr></choice> in <rend class="latin">hotel</rend> werde<lbr/>
+zu<lbr type="BD"/> bezahlen haben. und zur Reise nach <rend class="latin">paris</rend> muß ich<lbr/>
+wenigst 200 fl: in Sack<lbr type="BD"/> haben. die 2 kleinen Räder<lbr/>
+und vordere axe habe auch müssen neu machen<lbr type="BD"/> lass<abbr v="en"/>.<lbr/>
+sonst hätte etwa die Ehre gehabt in der <choice><orig><rend class="latin">Piccardie</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">Picardie</rend></corr></choice> auf<lbr/>
+dem gepflastert<abbr v="en"/><lbr type="BD"/> Weg sitzen zu bleiben. Nun habe<lbr/>
+zwar verschiedene kostbare Present<abbr v="en"/> hier<lbr type="BD"/> beko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>,<lbr/>
+die aber nicht zu geld machen will.<lbr type="forced"/>
+der Wolfgangerl hat 2 <rend class="latin">Magnifique</rend> degen beko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>,<lbr/>
+<pg n="2"/>
+deren einer von Erz<lbr type="BD"/>bischoff v: <rend class="latin">Mecheln</rend> graf<abbr v="en"/> v: Frankenberg,<lbr/>
+ist. der 2<h>te</h> vom <rend class="latin">general<lbr type="BD"/> comte de ferraris</rend>. das Mädl<lbr/>
+hat Niderländer spitzen vom Erbischoff beko<abbr type="topline" expand="mm">m</abbr><lbr type="BD"/><abbr v="en"/>. von<lbr/>
+andern <rend class="latin">Cavalie</rend>r<abbr v="en"/>&#160;<choice><orig><rend class="latin">salouppe</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">salopp</rend>en</corr></choice>&#160;<choice><orig>Mäntl</orig><corr hand="diff" schr_id="57010">Mäntel</corr></choice>&#160;<abbr expand="etc:">ecc:</abbr> von <choice><orig><rend class="latin">tabbatier</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">tabatieres</rend></corr></choice> und<lbr type="BD"/><lbr/>
+<choice><orig><rend class="latin">ettvj</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">[e]tuis</rend></corr></choice> und solch<abbr v="en"/> Zeug könnt<abbr v="en"/> wir bald ein<abbr v="en"/> Stand aufricht<abbr v="en"/>.<lbr/>
+Nun habe<lbr type="BD"/> zwar Hofnung künftig<abbr v="en"/> Montag da ein grosses<lbr/>
+<rend class="latin">Concert</rend> se&#255;n wird, eine<lbr type="BD"/> gute beute von grossen thalern<lbr/>
+und <rend class="latin">louis d'or</rend> zu machen. weil man sich<lbr type="BD"/> aber<lbr/>
+alzeit sicher stellen muß, so bitte die gütte für<lbr/>
+mich zu haben, und<lbr type="BD"/> durch Hr: Hafner, dem mich<lbr/>
+höfflichst empfehle, oder jemand andern die<lbr type="BD"/> Sache so<lbr/>
+zu veranstalt<abbr v="en"/>, daß ich nach <rend class="latin">paris</rend> ein<abbr v="en"/>&#160;<rend class="latin">Credit</rend> Brief<lbr/>
+erhalte, um<lbr type="BD"/> wenn ich zur höchsten Noth hier mehr geld<lbr/>
+nötig hätte und ein Schuld machen<lbr type="BD"/> müste, solche gleich<lbr/>
+be&#255; meiner ankunft in <rend class="latin">paris</rend> nach Brüssel übermachen<lbr type="BD"/><lbr/>
+könnte. Ich habe zwar noch ein<abbr v="en"/>&#160;<rend class="latin">Credit</rend> Brief von h<abbr type="curve">:</abbr> Bürger<pc force="weak">=</pc><lbr/>meister <rend class="latin">Paul<lbr type="BD"/> Kahr et fils</rend> aus <choice><orig>Achen</orig><corr hand="diff" schr_id="57010">Aachen</corr></choice> an <rend class="latin">Madame veuve<lbr/>
+Matt Nettinè</rend> in Brüssel für 100 fl:, allein hiemit ist es<lbr/>
+auch alles, und ich kann nicht wissen, was uns vorfahl<abbr v="en"/><lbr type="BD"/><lbr/>
+könnte. Ich hofe, und bin fast versichert, <choice><orig>das</orig><corr hand="diff" schr_id="57010">daß</corr></choice>&#160;<rend class="latin">paris</rend><lbr/>
+alles <rend class="latin">Multiplicando</rend> ersetzet.<lbr type="BD"/> Ich <choice><orig>habe</orig><corr hand="diff" schr_id="57010">hatte</corr></choice> noch einen <rend class="latin">Credit</rend><lbr/>
+ und <rend class="latin">recomendations</rend> Brief vom h<abbr type="curve">:</abbr>&#160;<rend class="latin">provino</rend>, er ist<lbr type="BD"/> aber in<lbr/>
+aachen ausgelosch<abbr v="en"/>; <choice><orig>den</orig><corr hand="diff" schr_id="57010">denn</corr></choice> h<abbr type="curve">:</abbr>&#160;<rend class="latin">Eschweiler</rend>, an den ich ihn in<lbr/>
+Cölln<lbr type="BD"/>
+hatte, gab mir ihn an h<abbr type="curve">.</abbr>&#160;<rend class="latin">pastor</rend> und Sohn nach Achen.<lbr/>
+Dieser h<abbr type="curve">:</abbr>&#160;<rend class="latin">pastor</rend> ist ein<lbr type="BD"/>&#160;<choice><orig>duch</orig><corr hand="diff" schr_id="57010">Tuch</corr></choice>&#160;<rend class="latin">Fabricant</rend>, und hat folglich weder<lbr/>
+nach Frankreich noch brüssel einige<lbr type="BD"/>&#160;<rend class="latin">Correspondenz</rend>.<lbr type="forced"/>
+In der <choice><orig>schachtl</orig><corr hand="diff" schr_id="57010">schachtel</corr></choice>, in welcher unsere <rend class="latin">Peruische</rend> Kostbarkeit<abbr v="en"/><lbr/>
+und Schätze sind,<lbr type="BD"/> werden Sie 200 fl: ba&#255;rische thaller<lbr/>
+finden. nehmen sie solche zu sich, und<lbr type="BD"/> schreiben sie mir<lbr/>
+<pg n="3"/>
+solche gut, bis ich und meine Kinder ihn<abbr v="en"/> seiner Zeit<lbr/>
+für<lbr type="BD"/> alles Rechenschafft ablegen, und für ihre<lbr/>
+viele Gütte danken werden.<lbr type="forced"/>
+We<abbr type="topline" expand="nn">n</abbr> Salzburg sich über meine Kinder verwundert hat, so<lbr/>
+wird, wenn gott<lbr type="BD"/> uns zurück komen läst, alles erstaun<abbr v="en"/>,<lbr/>
+<u><rend class="latin">a propos</rend></u> sind die <rend class="latin">portraits</rend> meiner<lbr type="BD"/> Kinder noch nicht in<lbr/>
+ihren händen? &#8211; &#8211; &#8211; ist <rend class="latin">Md: spiseder</rend> glücklich entbun<lbr type="BD"/>d<abbr v="en"/><lbr/>
+word<abbr v="en"/>? &#8211; &#8211;. ist die frau gemahlin nicht etwa in der<lbr/>
+Hofnung? Wer ist<lbr type="BD"/> bischoff von <choice><orig><rend class="latin">Secau</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">Seckau</rend></corr></choice>? wie lebt ihr h<abbr type="curve">:</abbr><lbr/>
+Sohn Joseph in <rend class="latin">venedig</rend>? kann der <rend class="latin">tibonj</rend><lbr type="BD"/> teutsch?<lbr type="forced"/>
+<lbr type="forced"/>
+Heunte den 4<h>t<abbr v="en"/></h> 9<h><rend class="latin">ber</rend></h> da eben den Brief auf die Post schick<abbr v="en"/><lbr/>
+wollte, erhalte dero<lbr type="BD"/> schreib<abbr v="en"/>, sa<abbr type="topline" expand="mm">m</abbr>t den Einschluß von<lbr/>
+der <rend class="latin">Mlle joli</rend>, Ich werde ihr von <rend class="latin">paris</rend> ant<lbr type="BD"/>wort<abbr v="en"/>;<lbr/>
+entzwisch<abbr v="en"/> lasse ich mich und die meinigen ihrer<lbr/>
+Herrschaft unter<lbr type="BD"/>thänig empfehl<abbr v="en"/>. ihr aber für ihre<lbr/>
+freundschafftliche bemühung verbindlichst<lbr type="BD"/> dank<lbr/>
+sagen. Nun därf<abbr v="en"/> Sie wenn Sie mir nach <rend class="latin">paris</rend><lbr/>
+schreib<abbr v="en"/>, die in meinen<lbr type="BD"/> brief angezeigte <rend class="latin">adresse</rend><lbr/>
+nicht mehr gebrauch<abbr v="en"/>. sondern, könn<abbr v="en"/> solche zu<lbr/>
+der<lbr type="BD"/> gräfin von <rend class="latin">van: ek addresi</rend>r<abbr v="en"/>. ich hatte bereits<lbr/>
+zur Vorsorge um ein <choice><orig><rend class="latin"><amend value="quartier">quatir</amend></rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">quartier</rend></corr></choice><lbr type="BD"/> sorgen lass<abbr v="en"/>, welches<lbr/>
+nun mit heuntiger Post wieder abschreibe. zugleich<lbr/>
+aber<lbr type="BD"/> der gräfin <rend class="latin">vanek</rend> selbst schreibe.<lbr type="forced"/>
+Hier haben Sie ein <rend class="latin">Modell</rend> der <rend class="latin">brabanti</rend>sch<abbr v="en"/> und<lbr/>
+französisch<abbr v="en"/> Sprache. sonst<lbr type="BD"/> hört man hier nichts, ausser<lbr/>
+einige Deutsche, die von wienn hier am hofe sind.<lbr type="BD"/><lbr/>
+Heut ist fre&#255;ball auf dem <rend class="latin">theater in Masquera</rend><lbr/>
+wir werd<abbr v="en"/> aber als fremde<lbr type="BD"/> ohne <rend class="latin">Masquera</rend> hinfahr<abbr v="en"/>.<lbr/>
+h<abbr type="curve">:</abbr> graf <rend class="latin">Coronini</rend> unser bester Freund, der alle<lbr type="BD"/> täg<lbr/>
+zu uns ko<abbr type="topline" expand="mm">m</abbr>t, ist <rend class="latin">comisarius</rend>.<lbr/>
+<pg n="4"/>
+<vacat/>
+</NI>
+</letter>
+</text>
+</MUP>

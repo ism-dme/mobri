@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2014">2014-6</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1720</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Privatbesitz</bibl>
+            <bibl type="source" subtype="RISM">Privatbesitz</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:42:14 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_1149.mup">
+<letter bd="1149"><NI src="Unbekannt"><HEADER id="1720">WOLFGANG AMADÉ MOZART AN MICHAEL PUCHBERG IN WIEN<lbr/>
+WIEN, NACH DEM 20. APRIL 1791</HEADER>
+<pg n="1"/>
+Ich hoffe Orsler wird die Schlüsseln zurückgebracht haben; es war also nicht<lbr type="BD"/> meine Schuld.<lbr/>
+Hoffe auch er wird Sie vorläuffig in meinem Namen auf heute<lbr type="BD"/> um <u>eine Violin</u>, und<lbr/>
+<u>2 Bratschen</u> ersuchet haben &#8211; es gehört zu einem <rend class="latin">á quattro</rend><lbr type="BD"/> be&#255; Greiner; daß mir<lbr/>
+<u>daran</u> liegt, wissen sie ohnehin. &#8211; wenn Sie abends zur<lbr type="BD"/> Musick hinko<abbr type="topline" expand="mm">m</abbr>en wollen,<lbr/>
+so sind Sie von ihm und von mir höflichst dazu<lbr type="BD"/> eingeladen. &#8211; <lbr type="forced"/>
+<ts>_________</ts><tshtm>________________________________________________________________________</tshtm><tspdf>\hfill </tspdf>Mozart <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<rend class="latin">P: S:</rend> bitte um Vergebung daß ich das bewusste<lbr type="forced"/>
+vermög meinen gegebenen Wort nicht zurückgestellt<lbr type="forced"/>
+habe, allein <u>Stadtler</u>, welcher anstatt meiner | weil ich so viel zu thun habe :|<lbr type="BD"/><lbr type="forced"/>
+zur <rend class="latin">Cassa</rend> gehen sollte, vergaß auf den ganzen 20<h>t</h>: Aprill &#8211; folglich<lbr type="forced"/>
+muß ich nun 8 tage noch warten.<lbr type="forced"/>
+<lbr/>
+<add_num>K 21</add_num>
+<pg n="2"/>
+<add_prov schr_id="59362">von <rend class="latin">Carl Mozart</rend> zum Andenken.<lbr/>
+<ts>___</ts><rend class="latin">Mayland</rend> am 1:<h>ten</h>&#160;<rend class="latin">October</rend> 1818.<lbr/>
+<ts>___________________________</ts><rend class="latin">W<h>m</h> Speyer</rend></add_prov>
+<lbr/>
+<anschrift rot="270"><rend class="latin">Pour<lbr type="forced"/>
+Monsieur de <u>Puchberg</u>.<lbr type="forced"/>
+<uu>Chez Lui</uu>.</rend></anschrift>
+</NI></letter>
+</text>
+</MUP>

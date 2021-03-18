@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2013">2013-9</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1150</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:39:37 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_584.mup">
+<letter bd="584"><HEADER id="1150">WOLFGANG AMADÉ MOZART AN LEOPOLD MOZART IN SALZBURG<lbr/>
+WIEN, VOR DEM 24. MÄRZ 1781</HEADER>
+<pg n="1"/>
+<rend class="latin">Copie du Billet autographe de sa May::<h>te</h> l'Empereur au<lbr/>
+P:<h>r</h> de Kaunitz Ritt<lbr type="BD"/>berg dans une böette de tous les portraits<lbr/>
+de la famille Imperiale du 14 mars<lbr type="BD"/>&#160;<u>1781</u>.<lbr type="forced"/>
+<lbr type="forced"/>
+Mon cher Prince, Je n'ai pas pû resister à l'envie de vous<lbr/>
+envoier cette<lbr type="BD"/> tabatiere, que je viens de recevoir de Bruxelle,<lbr/>
+et qui avait etè donnè par feue<lbr type="BD"/> sa Majestè au Pr: Charle;<lbr/>
+quelque vilaine inco<abbr type="topline" expand="mm">m</abbr>ode qu'elle soit; il m'à parû<lbr type="BD"/> qu'elle<lbr/>
+etait faite uniquement pour sejourner sur votre table, et<lbr/>
+pour vous<lbr type="BD"/> rapeller par fois les Phisionomies de Personnes,<lbr/>
+qui toutes ensemble et chacune<lbr type="BD"/> en particulier vous<lbr/>
+doivent beaucoup de reco<abbr type="topline" expand="nn">n</abbr>aissance pour les services<lbr type="BD"/> essen<pc force="weak">=</pc><lbr/>tiels, que vous leurs avés rendû; Je n'en fais qu'une<lbr/>
+partie, mais je ne<lbr type="BD"/> crains point d'etre leur interprete,<lbr/>
+assurè qu'ils pensent tous come moi à ce sujet. à Dieu;<lbr/>
+pardonnés cette folie à l'amitiè raisonnè que vous<lbr/>
+me co<abbr type="topline" expand="nn">n</abbr>aissés<lbr type="BD"/> inviolablement pour vous.<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>________</ts><tshtm>_________________________________________________</tshtm><tspdf>\hfill </tspdf><u>Joseph</u>.<lbr type="BD"/></rend><lbr type="forced"/>
+<lbr type="forced"/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="2"/>
+<ts>________________</ts><rend class="latin">Reponse du Pr: Kaunitz Rittberg.<lbr type="forced"/>
+<lbr type="forced"/>
+Par les Expressions du Billet authographe dont V: M:<lbr/>
+Imperiale a eu la Bontè<lbr type="BD"/> d'accompagner la Böette,<lbr/>
+qu'elle à daignè m'envoièr, et qui contient le<lbr/>
+precieux<lbr type="BD"/> receuil des Portraits de toute la famille<lbr/>
+Imperiale: Elle vient de recompenser de<lbr type="BD"/> la façon du<lbr/>
+monde qui pourrait être la plus agreable à mon<lbr/>
+coeur, les services<lbr type="BD"/> que J'eu pû avoir le Bonheur de<lbr/>
+rendre à son Auguste Maison depuis quarante<lbr type="BD"/> ans<lbr/>
+il ne me reste à desirer que de les voir ho<abbr type="topline" expand="nn">n</abbr>orer des<lbr/>
+sentimens que V: M:<lbr type="BD"/> veut bien leur accorder, et il ne<lbr/>
+manque plus rien moienant cela à mon entiere<lbr type="BD"/> satis<pc force="weak">=</pc><lbr/>faction, qui est d'autant plus vive que les traits de<lbr/>
+ce genre ne peuvent<lbr type="BD"/> manquer de transmettre les<lbr/>
+Noms de votre Maj:<h>tè</h> à la posterité, dans le sens<lbr type="BD"/> de<lbr/>
+ceux de trajan, de Marc aurel, et de Henri quatre,<lbr/>
+dons Jusqu' à nos Jours<lbr type="BD"/> ont beni la memoire et<lbr/>
+prononcè encore les Noms avec autant de Veneration,<lbr type="BD"/><lbr/>
+que d'Attendrissement, Je ne puis en temoigner ma<lbr/>
+reco<abbr type="topline" expand="nn">n</abbr>aissance à <suppl hand="self" pos="supra">V:</suppl> M:<lbr type="BD"/> Imperiale qu'en continuant et<lbr/>
+en redoublant même s'il est possible de zele pour<lbr type="BD"/><lbr/>
+son service, et d'attachement pour sa Personne,<lbr/>
+J'y prend bien plus d'interret, qu'à<lbr type="BD"/> moi même, et<lbr/>
+co<abbr type="topline" expand="mm">m</abbr>e Je crois, qu'il ne se trouverà peut être Jamais<lbr/>
+l'occasion<lbr type="BD"/> plus propre à do<abbr type="topline" expand="nn">n</abbr>er de V: M: Jm:<h>le</h><lbr/>
+l'opinion, que Je desire que toute la terre<lbr type="BD"/> puisse<lbr/>
+prendre d'elle, que ne c'est le contenû de son gracieux<lbr/>
+Billet, que Je ne<lbr type="BD"/> saurais lui cacher, que Je desirerais<lbr/>
+fort, qu'elle trouva bon, qu'il ne reste pas<lbr type="BD"/> ignorè:<lbr/>
+Je ne ferai cependant rien à cet égard, avant</rend><lbr/>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="3"/>
+<rend class="latin">d'en avoir obtenû la<lbr type="BD"/> permission, si ce n'est un fide<pc force="weak">=</pc><lbr/>co<abbr type="topline" expand="mm">m</abbr>is dans ma famille de la Boëtte ainsi que<lbr type="BD"/> de ce<lbr/>
+respectable Billet. Je suplie V: M: Jm:<h>le</h> de vouloir<lbr/>
+bien accueillir en<lbr type="BD"/> attendant avec Bontè et l'assurance<lbr/>
+respecteuse de ma vive reco<abbr type="topline" expand="nn">n</abbr>aissance et<lbr type="BD"/> de mon<lbr/>
+attachement sans Bornes pour sa Perso<abbr type="topline" expand="nn">n</abbr>es, qui<lbr/>
+ne finera qu'avec<lbr type="BD"/> moi<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>___________</ts><tshtm>_____________________________________</tshtm><tspdf>\hfill </tspdf><u>Kaunitz</u>:</rend><lbr type="forced"/>
+<lbr type="forced"/>
+Ich glaubte, weil ich eben |: be&#255; M.d<h>me</h> La motte :| die<lbr/>
+gelegenheit hatte, diese<lbr type="BD"/> 2 schöne <rend class="latin">billets</rend> abzuschreiben,<lbr/>
+es thun zu müssen. &#8211; Mad.<h>elle</h> La motte ist<lbr type="BD"/><lbr/>
+nicht mehr be&#255; der Gräfin Schönborn. &#8211; <lbr type="forced"/>
+sie <suppl hand="self" pos="supra">hat</suppl> uns geschrieben, und zwar auf alle<lbr/>
+Punkte wegen gr: Rosenberg und<lbr type="BD"/> Baron küenma&#255;r<lbr/>
+geantwortet &#8211; sie schwört es; &#8211; läst sich nebst<lbr/>
+ihrer Mama<lbr type="BD"/> ihnen be&#255;den 1000mahl Empfehlen, wie auch<lbr/>
+h<abbr type="curve">.</abbr> v: <rend class="latin">vogter</rend> |: der in Ma&#255;land<lbr type="BD"/> war :| &#8211; wird aber<lbr/>
+bald mit der Erzherzogin <rend class="latin">Marie a<abbr type="topline" expand="nn">n</abbr>e</rend> nach klagenfuhrt<lbr type="BD"/><lbr/>
+vereisen. <rend class="latin">Adieu</rend> &#8211; ich küsse ihn 1000mhl die hände,<lbr/>
+und meine schwester um<lbr type="BD"/>arme ich von herzen ud bin<lbr type="forced"/>
+<additum>[... (Textverlust)]</additum><lbr/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="4"/>
+<add_num impl="pencil" schr_id="39408" rot="90"><u>N°. 2</u></add_num>
+<lbr/>
+<anschrift rot="90"><rend class="latin">À<lbr type="forced"/>
+Monsieur<lbr type="forced"/>
+Monsieur Leopold Mozart<lbr type="forced"/>
+maitre de la Chapelle de<lbr type="BD"/> S: A: R.<lbr type="forced"/>
+l'Archeveque de et à<lbr type="forced"/>
+<u>Salzbourg</u>.</rend></anschrift>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+</letter>
+</text>
+</MUP>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2014">2014-6</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1503</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Verbleib unbekannt</bibl>
+            <bibl type="source" subtype="RISM">Verbleib unbekannt</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:41:13 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_933.mup">
+<letter bd="933"><NI src="Druck"><HEADER id="1503">WOLFGANG AMADÉ MOZART AN LEOPOLD MOZART IN SALZBURG<lbr/>
+WIEN, NACH DEM 19. FEBRUAR 1786<lbr/>
+Flugblatt</HEADER>
+<pg n="1"/>
+„Man kann mich haben, ohne mich zu sehen.<lbr type="forced"/>
+„Man kann mich tragen, ohne mich zu fühlen.<lbr type="forced"/>
+„Man kann mich geben, ohne mich zu haben.<lbr type="forced"/>
+<ts>________</ts><tshtm>______</tshtm>D. e. e. h. i. n. ö. r. r.<lbr type="forced"/>
+<pg n="2"/>
+<tspdf><lbr type="forced"/></tspdf>
+1) Rede viel &#8211; und rede schlecht; doch das letzte giebt sich selbst; es werden<lbr type="BD"/>
+alle Augen und Ohren auf dich gerichtet seyn. 4) Ein offenbares Laster ist mir<lbr type="BD"/>
+lieber, als eine zweydeutige Tugend; ich weiß wenigstens, woran ich mich<lbr type="BD"/>
+halten soll. 5) Ein Heuchler, der die Tugend nachahmen will, kann sie nur mit<lbr type="BD"/>
+Wasserfarben nachahmen. 10) Es schickt sich nicht für jedermann, bescheiden<lbr type="BD"/>
+zu seyn: nur großen Männern kömmt es zu, es zu seyn. 11) Bist du arm, aber<lbr type="BD"/>
+geschickt, so bewaffne dich mit Geduld; arbeite. Wirst du nicht reich, so<lbr type="BD"/>
+bleibst du wenigstens ein geschickter Mann. &#8211; Bist du ein Esel, aber reich, so<lbr type="BD"/>
+benütze deine Vorzüge; faulenze; wirst du nicht arm, so bleibst du wenig<lbr type="BD"/>stens
+ein Esel. 12) Man lobt ein Frauenzimmer auf die gewisseste und zärt<lbr type="BD"/>lichste Art,
+wenn man ihr Böses von ihren Nebenbuhlerinnen sagt. Wie viele<lbr type="BD"/>
+Männer sind nicht in diesem Stücke Weiber? 14) Bist du ein armer Dumm<lbr type="BD"/>kopf
+&#8211; so werde K &#8211; &#8211; r. Bist du ein reicher Dummkopf, so werde ein Pächter.
+Bist du ein adelicher, aber armer Dummkopf &#8211; so werde, was du kannst, für<lbr type="BD"/>
+Brod. Bist du aber ein reicher, adelicher Dummkopf, so werde, was du willst;<lbr type="BD"/>
+nur kein Mann vom Verstande &#8211; das bitte ich mir aus.<lbr type="forced"/>
+</NI></letter>
+</text>
+</MUP>

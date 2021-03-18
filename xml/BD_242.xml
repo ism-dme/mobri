@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2011">2011-05</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=803</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:37:32 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_242.mup">
+<letter bd="242"><HEADER id="803">LEOPOLD MOZART AN MARIA ANNA MOZART IN SALZBURG<lbr/>
+MAILAND, 24. AUGUST 1771<lbr/>
+mit Nachschrift von Wolfgang Amadé Mozart an Maria Anna (Nannerl) Mozart</HEADER>
+<pg n="1"/>
+<ts>________________________</ts><tshtm>_______________________________________________________________________</tshtm><tspdf>\hfill </tspdf>Ma&#255;land d<abbr v="en"/> 24<h>t<abbr v="en"/></h><lbr type="forced"/>
+<ts>________________________</ts><tshtm>______________________________________________________________________________</tshtm><tspdf>\hfill </tspdf><rend class="latin">august</rend>&#160;<u>1771.</u><lbr type="forced"/>
+<lbr type="forced"/>
+Am Mittwoche d<abbr v="en"/> 21<h>t<abbr v="en"/></h> diess abends nach 7 uhr sind wir glückl: hier angelangt;<lbr/>
+wir hielt<abbr v="en"/> uns den ganz<abbr v="en"/> Montag be&#255; <rend class="latin">Sgr: Lugiati</rend> in <rend class="latin">Verona</rend> auf, wo ich<lbr type="BD"/> an dich<lbr/>
+geschrieb<abbr v="en"/>, und du mein schreib<abbr v="en"/> sond<abbr v="er"/> zweifl wirst erhalt<abbr v="en"/><lbr type="BD"/> hab<abbr v="en"/>. am Dienstage<lbr/>
+gieng<abbr v="en"/> wir nach <rend class="latin">Brescia</rend>, wo wir, da wir um 3 uhr<lbr type="BD"/> nachmittag anlangt<abbr v="en"/>, auf anhalt<abbr v="en"/><lbr/>
+guter Freunde des <rend class="latin">Lugiati</rend>sch<abbr v="en"/> Hauses<lbr type="BD"/> |: an die ich vom <rend class="latin">Lugiato</rend> etliche Hundert<lbr/>
+guld<abbr v="en"/> mitbrachte :| den abend verbleib<abbr v="en"/> must<abbr v="en"/>, und am Mittwoche morgens erst nach<lbr/>
+<rend class="latin">Mayland</rend> abreiset<abbr v="en"/>,<lbr type="BD"/> und unter wegs zu <rend class="latin">Canonico</rend> ein<abbr v="en"/> uns bekannt<abbr v="en"/>&#160;<rend class="latin">Speditore</rend> be<pc force="weak">=</pc><lbr/>sucht<abbr v="en"/> und<lbr type="BD"/> zu mittag speist<abbr v="en"/>. Ich muß dir sag<abbr v="en"/>, daß die <rend class="latin">Poesie</rend> von Wie<abbr type="topline" expand="nn">n</abbr><lbr/>
+noch nicht<lbr type="BD"/> angelanget ist. Man erwartet sie mit entsetzlicher Begierde, indem<lbr/>
+man sonst<lbr type="BD"/> mit verfertigung d<abbr v="er"/> Kleid<abbr v="er"/> und ausziehrung, veränd<abbr v="er"/>ung <abbr expand="etc:">p:</abbr> des Theaters<lbr type="BD"/> nicht<lbr/>
+ka<abbr type="topline" expand="nn">n</abbr> fertig werd<abbr v="en"/>. den 15<h>t<abbr v="en"/></h>&#160;<rend class="latin">octobris</rend> wird der Erzherzog in Mayland<lbr type="BD"/> eintreff<abbr v="en"/>,<lbr/>
+be&#255; der <rend class="latin">Dom</rend>kirche absteig<abbr v="en"/>, und also gleich hineintrett<abbr v="en"/> und<lbr type="BD"/> sich vermehl<abbr v="en"/>, da<abbr type="topline" expand="nn">n</abbr><lbr/>
+der Handkuß se&#255;, nachdem grosses <rend class="latin">Souppée</rend>, und alsda<abbr type="topline" expand="nn">n</abbr> <u>gute Nacht!</u><lbr type="forced"/>
+den tag darauf fang<abbr v="en"/> die Feyerlichkeit<abbr v="en"/> an, die seiner Zeit bericht<abbr v="en"/> werde;<lbr/>
+unterdess<abbr v="en"/> habe 20000 Pfund Waxkertz<abbr v="en"/> geseh<abbr v="en"/>, die bereit lieg<abbr v="en"/>, die dom<pc force="weak">=</pc><lbr/>kirche, den Hof <abbr expand="etc:">p:</abbr> und anderes den 15<h>t<abbr v="en"/></h>&#160;<rend class="latin">octb<abbr type="curve">:</abbr></rend> zu beleucht<abbr v="en"/>.<lbr type="forced"/>
+Gestern hab<abbr v="en"/> wir be&#255; <rend class="latin">Sgr: Germani</rend> in gesellschaft des Kays<abbr type="curve">:</abbr> Ca<abbr type="topline" expand="mm">m</abbr>erfouriers<lbr/>
+h<abbr type="curve">:</abbr>&#160;<rend class="latin">Zi<abbr type="topline" expand="nn">n</abbr>er</rend> gespeiset, der in 8 tag wird nach Wie<abbr type="topline" expand="nn">n</abbr> zurückgeh<abbr v="en"/>, und<lbr/>
+mit dem<lbr type="BD"/> Erzh<abbr type="curve">:</abbr> wied<abbr v="er"/> hereinko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/> wird. Wen Du schreibst, ka<abbr type="topline" expand="nn">n</abbr>st den<lbr/>
+Brief glatt<lbr type="BD"/> auf mich lauff<abbr v="en"/> lass<abbr v="en"/>, ich werde ihn auf d<abbr v="er"/> Post schon abhohl<abbr v="en"/>,<lbr/>
+bis h<abbr type="curve">:</abbr><lbr type="BD"/> von Troger herein ko<abbr type="topline" expand="mm">m</abbr>t, da<abbr type="topline" expand="nn">n</abbr> kanst also schreib<abbr v="en"/>.<lbr type="forced"/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal><lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="2"/>
+<rend class="latin">Al Ill:<h>mo</h> Sgre: Pad:<h>e</h> Colendss:<h>mo</h> il Sgr: D: Leopoldo Troger Secretario Reggio<lbr/>
+del governo della Lombardia</rend>&#160;<lbr/>
+<tshtm>________________________________________________________</tshtm>à <lbr/>
+<tshtm>_____________________________________________________________</tshtm><rend class="latin">Milano.</rend><lbr type="forced"/>
+h<abbr type="curve">:</abbr> Haushofmeister <rend class="latin">Ferdinando Germani</rend> ist <rend class="latin">Controlor</rend> des Durchlauchtg<abbr v="en"/><lbr/>
+Brautpaars geword<abbr v="en"/>, und wird be&#255; der Ankunft des Hofes gleich sein<abbr v="en"/><lbr/>
+dienst<lbr type="BD"/> antrett<abbr v="en"/>. Er und Sie empf<abbr type="curve">:</abbr> sich; wie auch H<abbr type="curve">:</abbr>&#160;<abbr expand="von">v</abbr>&#160;<rend class="latin">Aste</rend> und<lbr/>
+<rend class="latin">Madame</rend>. Lebts<lbr type="BD"/> beyde gesund wir Kiss<abbr v="en"/> euch viel 100000000 mahl<lbr/>
+und bin, nebst unserer<lbr type="BD"/> empf<abbr type="curve">:</abbr> an alle freunde und freundin<abbr v="en"/>, dein<lbr type="forced"/>
+<ts>___________________________________________________________________</ts><tspdf>\hfill </tspdf>alter<lbr type="forced"/>
+<NS type="NS" schr_id="39409" adr_id="48817"><ts>_____________</ts>Allerliebste schwester!</NS>
+<ts>_________________</ts><tshtm>___________________________________________________________</tshtm><tspdf>\hfill </tspdf>Mozart <abbr expand="manu propria">mp</abbr>
+<NS type="NS" schr_id="39409" adr_id="48817">wir haben auf der Reise vielle hiz ausgestanden, und der staub hat uns be<pc force="weak">=</pc><lbr/>ständig <rend class="latin">impertinent sechirt</rend>, daß wir gewiß ersticket und verschmachtet<lbr/>
+wären,<lbr type="BD"/> wen wir nicht gescheider gewesen wären. hier hat es ein<lbr/>
+ganzes monath durch<lbr type="BD"/> |: sagen die Ma&#255;länder :| nicht gerenget,<lbr/>
+heünt hat es angefangen ein wenig zu<lbr type="BD"/> tröpfeln, iezt aber<lbr/>
+scheünt wieder die so<abbr type="topline" expand="nn">n</abbr>e, und es ist wieder sehr warm. was<lbr type="BD"/> du<lbr/>
+mir versprochen hast |: du weist schon was . . . . o du lieb du! :|<lbr/>
+halte gewis,<lbr type="BD"/> ich bitte dich, ich werde dir gewis verbunden se&#255;n.<lbr/>
+die prinzessin hatte neülich<lbr type="BD"/> das geschäftige chatherl oder das = <pc force="weak">=</pc><lbr/>schmeissen; sonst weis ich nichts neues.<lbr type="BD"/> schreibe du mir was neües.<lbr/>
+Meine <rend class="latin">Complimenten</rend> an alle gute freünd und<lbr type="BD"/> freündinen,<lbr/>
+und Meinen handkus an die Mama. Jezt blas ich Just vor<lbr/>
+hitz!<lbr type="BD"/> nun reis ich daß leibel auf. <rend class="latin">Addio</rend>. lebe wohl:<lbr type="forced"/>
+<ts>__________________________________________________________________</ts><tspdf>\hfill </tspdf>wolfgang<lbr type="forced"/>
+oben unser ist ein <rend class="latin">violinist</rend>, unter unser auch einer, neben unser<lbr/>
+ein singmeister der <rend class="latin">lection</rend> gibt, in dem lezten Zi<abbr type="topline" expand="mm">m</abbr>er gegen<lbr/>
+unser ist ein <rend class="latin">hautboist</rend>.<lbr type="BD"/> daß ist lustig zum <rend class="latin">Componiern</rend>!<lbr/>
+giebt einen viell gedancken.</NS><lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal><lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal></letter>
+</text>
+</MUP>

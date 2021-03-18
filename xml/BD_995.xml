@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2016">2016-1</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1565</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:41:33 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_995.mup">
+<letter bd="995"><HEADER id="1565">LEOPOLD MOZART AN MARIA ANNA VON BERCHTOLD ZU SONNENBURG IN ST. GILGEN<lbr/>
+SALZBURG, 2. UND 3. NOVEMBER 1786</HEADER>
+<pg n="1"/>
+Der Leopoldl ist gesund!<ts>_______</ts><tshtm>________________________________</tshtm><tspdf>\hfill </tspdf>Salzb<abbr type="curve">:</abbr> d<abbr v="en"/> 2<h>t<abbr v="en"/></h>&#160;<rend class="latin">Nov<abbr type="curve">:</abbr></rend><lbr type="BD"/><lbr type="forced"/>
+<ts>___________</ts><tshtm>____________________________________________________________________________</tshtm><tspdf>\hfill </tspdf><u>1786</u>.<lbr type="forced"/>
+<lbr type="forced"/>
+Hoffe zwar morgen oder übermorgen dein<abbr v="en"/> Herrn mit dem Wolfg<abbr type="curve">:</abbr> hier zu<lbr type="BD"/><lbr/>
+sehen; für allen Fahl aber schreibe dir doch ein paar Zeihl<abbr v="en"/>, da ich schon<lbr type="BD"/> mit dir<lbr/>
+zu sprech<abbr v="en"/>&#160;<abbr expand="und">u</abbr> dich zu seh<abbr v="en"/> das Vergnüg<abbr v="en"/> nicht hab<abbr v="en"/> ka<abbr type="topline" expand="nn">n</abbr>. Der<lbr type="BD"/> Erzbischof wollte<lbr/>
+als morgen gewis abreisen, heute aber erfuhr man, daß er<lbr type="BD"/> unbässlich<lbr/>
+wäre, und gestern Nachts bis 1 uhr öfters <suppl hand="self" pos="supra">sich</suppl> erbroch<abbr v="en"/> hätte. ob<lbr type="BD"/> er nun<lbr/>
+später abreiset, od<abbr v="er"/> etwa gar hier bleibt, &#8211; ob die Unbässlichkeit gros<lbr type="BD"/> od<abbr v="er"/><lbr/>
+klein ist &#8211; das hat man zu erwart<abbr v="en"/>: unterdess<abbr v="en"/> sind schon ein Koch<lbr type="BD"/> und,<lbr/>
+weis nicht h<abbr type="curve">:</abbr>&#160;<rend class="latin">Benicke</rend>, od<abbr v="er"/> sonst iemand vorgestern Nachmittag voraus<lbr type="BD"/><lbr/>
+abgereiset. Diese Reise freuet d<abbr v="en"/> Erzb<abbr type="curve">:</abbr> ohnehin nicht.<lbr type="forced"/>
+<lbr type="forced"/>
+Wie die Narrheit mit dem jung<abbr v="en"/>&#160;<rend class="latin">Gilowsky</rend> ablauf<abbr v="en"/> wird, bin in<lbr/>
+begieriger<lbr type="BD"/> Erwartung. be&#255;m Oberbereitter wurde sie einquartiert<lbr/>
+in der Hofnung, daß<lbr type="BD"/> der alte <rend class="latin">Gilowsky</rend> leicht werde dahin zu bring<abbr v="en"/><lbr/>
+se&#255;n, sie ins Hauß zu nehm<abbr v="en"/><lbr type="BD"/> und auch ihr zu fress<abbr v="en"/> zu geb<abbr v="en"/>, ob gleich<lbr/>
+der h<abbr type="curve">:</abbr> Sohn auch nichts bezahlt.<lbr type="BD"/> Nun will aber der alte Herr<lbr/>
+sie nicht einmal seh<abbr v="en"/>, und hat recht, damit der<lbr type="BD"/> Erzb<abbr type="curve">:</abbr> sieht, daß er<lbr/>
+nicht mit dieser Narrheit einverstand<abbr v="en"/> ist, und auch dess<lbr type="BD"/>weg<abbr v="en"/> auf<lbr/>
+ihn ungnädig se&#255;n möchte. unterdess<abbr v="en"/> ist die Catherl so närrisch<lbr type="BD"/><lbr/>
+und lauft herum Geld für ihr<abbr v="en"/> Brudern auszuborg<abbr v="en"/>. beko<abbr type="topline" expand="mm">m</abbr>t<lbr/>
+aber nichts!<lbr type="BD"/> Sie wollte vom Triendl etwas auf den Herr<abbr v="en"/> Hafner,<lbr/>
+der nicht hier war, heraus<lbr type="BD"/> schwätz<abbr v="en"/>, aber vergebens! Nun ist h<abbr type="curve">:</abbr> Hafner<lbr/>
+wieder angeko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>, <abbr expand="und">u</abbr> hat<lbr type="BD"/> erzehlt, daß des <rend class="latin">Gilowsky</rend> Geliebte ihm gar<lbr/>
+nach Strasburg geschrieb<abbr v="en"/> habe<lbr type="BD"/>&#160;<abbr expand="etc">p</abbr> &#8211; &#8211; du siehst, daß die Catherl durch<lbr/>
+solche ohnüberlegte <rend class="latin">Seccatu</rend>r<abbr v="en"/> sich<lbr type="BD"/> be&#255; ihr<abbr v="en"/> Gutthätern verhast macht,<lbr/>
+die sie doch seiner Zeit selbst braucht.<lbr type="forced"/>
+<lbr type="BD"/><lbr type="forced"/>
+<u>Den 3<h>t<abbr v="en"/></h>&#160;<rend class="latin">Nov<abbr type="curve"></abbr></rend></u><rend class="latin">:</rend> Der Both kam um halbe 12 uhr. wir hatt<abbr v="en"/><lbr/>
+allenfals auf Mittag<lbr type="BD"/> natürl: etwas mehrers angetrag<abbr v="en"/>.<lbr/>
+Nun erwarte sie morg<abbr v="en"/> nach Tisch. &#8211; Der<lbr type="BD"/> Erzb<abbr type="curve">:</abbr> ist heut frühe um<lbr/>
+halbe 9 fortgereiset. er hatte nur ein bisch<abbr v="en"/> den<lbr type="BD"/> Mag<abbr v="en"/> verdorb<abbr v="en"/>.<lbr/>
+der Leopold <abbr expand="und">u</abbr> ich küssen dich von Herz<abbr v="en"/>, und ich bin<lbr type="BD"/> ewig dein<lbr/>
+redlicher Vatter<ts>___</ts><tspdf>_________________</tspdf><tspdf>\hfill </tspdf>Mozart <abbr expand="manu propria">mp</abbr>.<lbr/>
+<lbr type="forced"/>
+<postxt loc="rm" rot="0">Heute morgens ist eine<lbr/>
+Lederer Lackner tochter gestorb<abbr v="en"/>.<lbr/>
+Die Mundbeckin<lbr type="BD"/> Fe&#255;rlin ist alle<lbr/>
+tag zum Sterb<abbr v="en"/>, sie hat sich be<pc force="weak">=</pc><lbr/>flissen in die Seeligkeit<lbr/>
+hinein<lbr type="BD"/>zutrinken.</postxt>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="2"/>
+<postxt loc="lm" rot="90">Der <u>Heinrich</u> empfehlt sich. &#8211; die Nandl <abbr expand="und">u</abbr> Tresel küssen die Hände. dem<lbr type="BD"/>&#160;<rend class="latin">Carl</rend> gratuliere zum<lbr/>
+Namenstag, und die Lenerl grüsse ich. &#8211; der Graf <rend class="latin">Lodron</rend><lbr type="BD"/> |: <rend class="latin">mo<abbr type="topline" expand="mm">m</abbr>olo</rend> :| ist hier um als Land<pc force="weak">=</pc><lbr/>marschall Possession zu nehm<abbr v="en"/>, geht<lbr type="BD"/> nach <u>Gmünd</u> wied<abbr v="er"/> seine Frau abzuhohl<abbr v="en"/>: er hat sich aber schon so schlecht<lbr type="BD"/> aufgeführt,<lbr/>
+be&#255;m Hofwirth, wie ein Narr, gedanzt: geht nachts zum Sauer<lbr type="BD"/>wein in die saubere Gesellschaft; daß man schlechte Folg<abbr v="en"/><lbr/>
+voraussehen<lbr type="BD"/> ka<abbr type="topline" expand="nn">n</abbr>. &#8211; Mit dem h<abbr type="curve">:</abbr> Zahlmeister habe nicht Wort noch gesprochen.</postxt><lbr/>
+<postxt loc="rm" rot="270">Ich befinde mich in so weit was meine<lbr/>
+Brust belangt recht wohl, schlaffe gut,<lbr type="BD"/> und<lbr/>
+habe mehr als gut<abbr v="en"/>&#160;<rend class="latin">appetit</rend>. allein, das gewisse<lbr/>
+saussen im kopf habe<lbr type="BD"/> noch, wie sonst; oft einen ganz<abbr v="en"/> tag<lbr/>
+gar nicht, od<abbr v="er"/> wenig, manchmahl<lbr type="BD"/> wieder fast den ganz<abbr v="en"/> tag. Morgens <u>we<abbr type="topline" expand="nn">n</abbr> aufstehe</u> niemals. Wer ka<abbr type="topline" expand="nn">n</abbr>s<lbr type="BD"/> errath<abbr v="en"/><lbr/>
+wo es herko<abbr type="topline" expand="mm">m</abbr>t? &#8211; &#8211; Vom Geblüt ists nicht. Vielleicht sinds Winde?<lbr type="BD"/> Vielleicht ko<abbr type="topline" expand="mm">m</abbr>ts vom Magen? od<abbr v="er"/> Schwäche d<abbr v="er"/> Nerven?</postxt>&#160;<postxt loc="rm" rot="90">od<abbr v="er"/> feuchtig<lbr type="BD"/>keit? &#8211; ich habe<lbr/>
+kein<abbr v="en"/> Schmerzen: also Gedult!<lbr/>
+Lebewohl.</postxt><lbr/>
+<anschrift rot="270"><rend class="latin">A Madame<lbr type="forced"/>
+Madame de So<abbr type="topline" expand="nn">n</abbr>enbourg<lbr type="forced"/>
+à<lbr type="forced"/>
+<u>St. Gilgen</u></rend></anschrift>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+</letter>
+</text>
+</MUP>

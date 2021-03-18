@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2020">2020-05</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1176</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">CH-Bps</bibl>
+            <bibl type="source" subtype="RISM">CH-Bps (Paul Sacher Stiftung</bibl>
+            <bibl type="source" subtype="RISM">Bibliothek)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:39:48 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_610_orig.mup">
+<letter bd="610">
+<NI src="Ch-Bps">
+<HEADER id="1176">WOLFGANG AMADÉ MOZART AN MARIA ANNA (NANNERL) MOZART IN SALZBURG<lbr/>
+WIEN, 4. JULI 1781</HEADER>
+<pg n="1"/>
+<ts>___________</ts><tshtm>_______________________________________________</tshtm><tspdf>\hfill </tspdf><rend class="latin"><u>Vienne</u> ce</rend> 4 <rend class="latin">de Jullet</rend>&#160;<u>1781</u><lbr type="forced"/>
+<ts>_____</ts><rend class="latin">Ma trés chére <persName key="48817">Soeur</persName></rend>!<lbr type="forced"/>
+<lbr type="forced"/>
+Mich freuet es sehr, we<abbr type="topline" expand="nn">n</abbr> die Bänder nach deinem Geschmak waren; &#8211; was<lbr type="BD"/> den<lbr/>
+Preis der gemahlten und ungemahlten Bänder anbelanget, werde mich<lbr type="BD"/> erkundigen,<lbr/>
+de<abbr type="topline" expand="nn">n</abbr> dermalen weis ich es nicht, weil <persName key="49379">Frll: v: Auerha<abbr type="topline" expand="mm">m</abbr>er</persName>, welche<lbr type="BD"/> die güte hatte<lbr/>
+mir selbe zu verschaffen, keine Bezahlung annahm, sondern<lbr type="BD"/> mich gebeten,<lbr/>
+ich möchte dir von ihr unbekanterweis alles Schöne entrich<lbr type="BD"/>ten, mit der ver<pc force="weak">=</pc><lbr/>sicherung, daß es ihr allzeit sehr angenehm sein wird, dir<lbr type="BD"/> etwas gefälliges<lbr/>
+erweisen zu kö<abbr type="topline" expand="nn">n</abbr>en. &#8211; ich habe ihr auch schon eine gegen<lbr type="BD"/> Empfehlung von dir<lbr/>
+entrichtet. &#8211; liebste <persName key="48817">schwester</persName>! &#8211; Ich habe lezthin schon<lbr type="BD"/> unsern lieben <persName key="39408">Vatter</persName><lbr/>
+geschrieben, daß, we<abbr type="topline" expand="nn">n</abbr> du etwas gerne von Wie<abbr type="topline" expand="nn">n</abbr><lbr type="BD"/> hättest, es se&#255;e was es wolle,<lbr/>
+ich dich gewis mit wahrem vergnügen damit<lbr type="BD"/> bedienen werde; &#8211; und nun wieder<pc force="weak">=</pc><lbr/>holle ich es mit dem Be&#255;satz, daß es mich<lbr type="BD"/> sehr verdrüssen würde, we<abbr type="topline" expand="nn">n</abbr> ich<lbr/>
+hören müsste, daß du Jemand andern in<lbr type="BD"/> Wie<abbr type="topline" expand="nn">n</abbr> <rend class="latin">Co<abbr type="topline" expand="mm">m</abbr>ission</rend> gäbest.<lbr type="forced"/>
+Mich freuet es in der Seele we<abbr type="topline" expand="nn">n</abbr> Du dich wohl<lbr type="BD"/>auf befindest; ich bin Gott<lbr/>
+lob und dank gesund und vergnügt; &#8211; Meine<lbr type="BD"/> einzige unterhaltung besteht<lbr/>
+im Theater; ich wollte dir wünschen hier ein<lbr type="BD"/> Trauerspiell zu sehen! &#8211; überhaupt<lbr/>
+kenne ich kein Theater wo man alle arten<lbr type="BD"/> schauspielle <u>vortreflich</u> auführt; aber<lbr/>
+hier ist es; &#8211; Jede Rolle &#8211; die mindeste,<lbr type="BD"/> schlechteste Rolle ist gut &#8211; und <u>doppelt</u><lbr/>
+besetzt. &#8211; <lbr type="forced"/>
+Nun möchte ich auch gerne<lbr type="BD"/> wissen wie es mit dir und dem Bewusten guten<lbr/>
+Freund steht? &#8211; schreibe mir<lbr type="BD"/> doch darüber. oder habe ich Dein Vertrauen<lbr/>
+in dieser Sache verloren? &#8211; über<lbr type="BD"/>haupt bitte ich dich, schreibe mir öfters, 
+<pg n="2"/>
+versteht sich, we<abbr type="topline" expand="nn">n</abbr> du nichts bessers<lbr type="BD"/> zu thun weist, de<abbr type="topline" expand="nn">n</abbr> ich möchte gar zu gerne<lbr/>
+bisweilen Neuekeiten lesen, und<lbr type="BD"/> du bist Ja das lebendige Salzburger<pc force="strong">=</pc><lbr/>Protocol, de<abbr type="topline" expand="nn">n</abbr> du schreibst Ja alles auf,<lbr type="BD"/> was sich i<abbr type="topline" expand="mm">m</abbr>er ereignet, und mithin &#8211; <lbr/>
+&#8211; schreibe es halt mir zu Gefallen zwe&#255;<lbr type="BD"/>mal auf. &#8211; aber du must nicht böse<lbr/>
+werden we<abbr type="topline" expand="nn">n</abbr> ich dich zu weilen lange<lbr type="BD"/> auf antwort warten lasse.<lbr type="forced"/>
+wegen etwas Neues auf das klavier will ich dir sagen, daß ich 4 <rend class="latin">Sonaten</rend><lbr/>
+in<lbr type="BD"/> stich geben werde, da ist diese <rend class="latin">ex C</rend> und <rend class="latin">B</rend> dabe&#255;, und die andern zwe&#255;<lbr/>
+nur Neu. &#8211;<lbr type="BD"/> da<abbr type="topline" expand="nn">n</abbr> habe ich 3 <rend class="latin">arien</rend> mit <rend class="latin">variazionen</rend> geschrieben, die kö<abbr type="topline" expand="nn">n</abbr>te ich dir<lbr/>
+fre&#255;lich<lbr type="BD"/> schiken; aber es ist mir nicht der Mühe werth; ich will lieber warten<lbr/>
+bis was zusa<abbr type="topline" expand="mm">m</abbr>en kö<abbr type="topline" expand="mm">m</abbr>t. &#8211; Nun wird wohl bald das schützenmahl se&#255;n? &#8211; <lbr/>
+Ich<lbr type="BD"/> bitte <rend class="latin">solemniter</rend> die Gesundheit eines getreuen schützen zu trinken.<lbr/>
+we<abbr type="topline" expand="nn">n</abbr><lbr type="BD"/> mich einmal wieder das Bestgeben trift, so bitte es mir zu schreiben,<lbr/>
+ich will<lbr type="BD"/> eine Scheibe malen lassen. &#8211; <lbr type="forced"/>
+Nun lebe recht wohl, liebste, beste, <persName key="48817">schwester</persName>,<lbr type="BD"/> und se&#255;e versichert daß ich<lbr/>
+stehts se&#255;n werde dein<lbr type="forced"/>
+<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_______________________________________</ts><tspdf>\hfill </tspdf>Wahrer freund und aufrichtiger Bruder<lbr type="forced"/>
+<ts>_____________</ts><tshtm>_______________________________</tshtm><tspdf>\hfill </tspdf><persName key="39409">Wolfgang Amadè Mozart</persName>&#160;<abbr expand="manu propria">mp</abbr>
+</NI>
+</letter>
+</text>
+</MUP>

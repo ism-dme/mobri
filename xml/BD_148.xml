@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2011">2011-05</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=707</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:37:00 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_148.mup">
+<letter bd="148"><HEADER id="707">LEOPOLD MOZART AN MARIA ANNA MOZART IN SALZBURG<lbr/>
+INNSBRUCK, 15. DEZEMBER 1769</HEADER>
+<pg n="1"/>
+<add_ident schr_id="57010"><ts>______________________________</ts>An seine Frau</add_ident>
+<add_ident type="inline" schr_id="57010"><ts>____________________</ts>X</add_ident><ts>___________</ts><u>Insprugg.</u><ts>_________</ts><tspdf>\hfill </tspdf>Fre&#255;tags um 6 uhr abends.<lbr type="forced"/>
+<add_ident schr_id="57010"><ts>_______________________________________________________________________________________________</ts>1769</add_ident><lbr type="forced"/>
+<lbr type="forced"/>
+Wir sind schon eine halbe Stund hier. Mittags war<abbr v="en"/> wir in Schwatz;<lbr/>
+die gegend nahe geg<abbr v="en"/> Insprugg schien mir etwas dem wege nach<lbr/>
+Hallein be&#255; Kaltenhaus<abbr v="en"/> herum gleich zu se&#255;n; so wie Insprugg selbst<lbr/>
+eine dergleich<abbr v="en"/> Lage hat. sonst weis noch nichts zu sag<abbr v="en"/>. Wir sind,<lbr/>
+Gott Lob, wohl auf. wir Logir<abbr v="en"/> be&#255;m <u>weisen Kreutz</u>. we<abbr type="topline" expand="nn">n</abbr> du mir<lbr/>
+etwas zu schreib<abbr v="en"/> hast, so ka<abbr type="topline" expand="nn">n</abbr>st den Brief hieher lauff<abbr v="en"/> lass<abbr v="en"/>: sollte<lbr/>
+ich unterdess<abbr v="en"/> abreis<abbr v="en"/>, so melde ich es schon vorhero auf dem Posta<abbr type="topline" expand="mm">m</abbr>t,<lbr/>
+daß die Briefe nach Botz<abbr v="en"/> geh<abbr v="en"/> soll<abbr v="en"/>. Mache nur die <rend class="latin">Adresse</rend>:<lbr type="forced"/>
+<rend class="latin"><u>à Mr: Mozart Maître de Chapelle de la Musique de S: A: S: Le Prince<lbr/>
+Archevêque de Salzbourg.</u></rend><lbr type="forced"/>
+Ich habe in gedank<abbr v="en"/> das schlüsserl zum <rend class="latin">Clavicord</rend> an meiner Uhr<lbr/>
+mit fort geno<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>: hier sende es zurück, weil es u<abbr type="topline" expand="nn">n</abbr>otig ist solches<lbr/>
+so weit mit herum zu schlepp<abbr v="en"/>. Sorge, daß es nicht verlor<abbr v="en"/> wird.<lbr/>
+Lebe wohl! Lebt alle wohl! der Wolfg<abbr type="curve">:</abbr> und ich Kiss<abbr v="en"/> dich und<lbr/>
+die Na<abbr type="topline" expand="nn">n</abbr>erl und bin dein alter Mzt <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<lbr type="forced"/>
+Diesen Brief gieb gleich auf die WienerPost.<lbr/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal><lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="2"/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal></letter></text>
+</MUP>

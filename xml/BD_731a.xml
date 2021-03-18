@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2014">2014-5</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1299</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">CH-Bps</bibl>
+            <bibl type="source" subtype="RISM">CH-Bps (Paul Sacher Stiftung</bibl>
+            <bibl type="source" subtype="RISM">Bibliothek)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:40:22 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_731a.mup">
+<letter bd="731a"><NI src="CH-Bps"><HEADER id="1299">WOLFGANG AMADÉ MOZART AN MARTHA ELISABETH BARONIN VON<tspdf>\newline</tspdf> WALDSTÄTTEN IN WIEN<lbr/>
+WIEN, 22. MÄRZ 1783</HEADER>
+<pg n="1"/>
+<ts>________________</ts><tshtm>__________</tshtm>Hochschätzbareste<lbr type="forced"/>
+<ts>___________________</ts><tshtm>___________</tshtm>gnädige Frau Baronin!<lbr type="forced"/>
+<lbr type="forced"/>
+Nehme mir hiemit die fre&#255;heit Euer gnaden zu meiner <rend class="latin">Academie</rend><lbr/>
+künftigen So<abbr type="topline" expand="nn">n</abbr>tage mit einer <rend class="latin">Loge</rend> aufzuwarten; bitte aber<lbr/>
+es nicht so zu machen wie in vorigem Jahre, de<abbr type="topline" expand="nn">n</abbr> in der that,<lbr/>
+Euer gnaden würden mich dadurch zu sehr beschämen, da sie mir<lbr/>
+nicht im geringsten gestatten wollten, meine schuldige dankbarkeit<lbr/>
+nur in <u>etwas</u> zeigen zu därfen, &#8211; zumehro da Euer gnaden<lbr/>
+selbst wissen, daß we<abbr type="topline" expand="nn">n</abbr> ich auch der reicheste Ma<abbr type="topline" expand="nn">n</abbr> in Wie<abbr type="topline" expand="nn">n</abbr> wäre,<lbr/>
+und die Wichtigste <rend class="latin">Charge</rend> begleitete, folglich doch i<abbr type="topline" expand="mm">m</abbr>er im<lbr/>
+Stande se&#255;n würde dienste von wichtigkeit erweisen zu kö<abbr type="topline" expand="nn">n</abbr>en,<lbr/>
+doch niemalen im Stande se&#255;n würde alle die guthaten und<lbr/>
+freundStücke erwiedern zu kö<abbr type="topline" expand="nn">n</abbr>en, mit welchen Euer gnaden<lbr/>
+mich ganz überschüttet haben! &#8211; da ich nun be&#255;des nicht bin,<lbr/>
+wie ohnmächtig &#8211; wie unbedeutend muß ich mich nicht fühlen!<lbr/>
+&#8211; Ich bitte Euer gnaden also meine fre&#255;heit ihnen mit<lbr/>
+einer <rend class="latin">Loge</rend> aufzuwarten nicht übel zu nehmen, und da<lbr/>
+mein Weibe und ich ihnen 1000mal die hände küssen,<lbr/>
+und uns in dero fernern gnaden und Freundschaft Em<pc force="weak">=</pc><lbr/>pfehlen, verharren wir be&#255;de mit aller Hochachtung<lbr type="forced"/>
+<ts>_________________________</ts>gnädige frau Baronin<lbr type="forced"/>
+<lbr type="forced"/>
+<u>von haus</u> den 22<h>t</h>: März<ts>_____</ts><tshtm>________________</tshtm><tspdf>\hfill </tspdf>dero gehorsamste kinder<lbr type="forced"/>
+<tshtm>______________________</tshtm><uu>1783</uu><ts>_____</ts><tshtm>_______________________</tshtm><tspdf>\hfill </tspdf>W: <rend class="latin">et</rend> C: Mozart <abbr expand="manu propria">mp</abbr>
+<pg n="2"/>
+<vacat/>
+</NI></letter>
+</text>
+</MUP>

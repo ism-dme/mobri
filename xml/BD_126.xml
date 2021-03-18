@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2020">2020-02</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=685</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Verbleib unbekannt (Vorlage: Abschrift um 1768 in D-B)</bibl>
+            <bibl type="source" subtype="RISM">Verbleib unbekannt, Vorlage: Abschrift um 1768 in D-B</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:36:53 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_126.mup">
+<letter bd="126">
+<NI src="unbekannt">
+<HEADER id="685">LEOPOLD MOZART AN LORENZ HAGENAUER IN SALZBURG<lbr/>
+WIEN, 13. FEBRUAR 1768</HEADER>
+<pg n="1"/>
+<add_num impl="crayon" color="red" schr_id="0"><ts>_______________________________________________________________</ts>N 3</add_num>
+<ts>_____________________</ts><tspdf>\hfill </tspdf>Wienn den 13:<h>t<abbr v="en"/></h> Febr<abbr type="curve">:</abbr>&#160;<u>1768.</u><lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____</ts>Zweifle keinesweges mein letztes wer<pc force="weak">=</pc><lbr/>den sie erhalten haben; so wie ich das<lbr type="BD"/><lbr/>
+vom herrn Joseph mit denen Einschlüssen<lbr/>
+richtig empfangen. Daß sie selten<lbr type="BD"/><lbr/>
+selbst schreiben, darüber därffen sie<lbr/>
+mir keine Entschuldigung machen! Sie<lbr type="BD"/> sol<pc force="weak">=</pc><lbr/>len es nicht thun; denn sie kennen mich.<lbr/>
+Wenn sie, unsere liebe beste freun<lbr type="BD"/>din<lbr/>
+Frau Hagenauerin und das ganze Haus<lbr/>
+sich wohl befinden, dann sind wir<lbr type="BD"/> zu<suppl hand="#DME"><pc force="strong">=</pc></suppl><lbr/>frieden und vergnügt, es mag uns die<lbr/>
+Nachricht vom Vater, Sohn oder<lbr type="BD"/> heiligen<lbr/>
+Geist kommen. Ich hoffe auch, sammt<lbr/>
+den Meinigen, daß dieses<lbr type="BD"/> Schreiben sie<lbr/>
+alle Gesund antreffen werde, so wie wir,<lbr/>
+ausser einigen Catharr<lbr type="BD"/> und strauchen, al<pc force="weak">=</pc><lbr/>le wohl auf sind. Herr <rend class="latin">Baron</rend> von <rend class="latin">Chri<pc force="weak">=</pc><lbr/>stani</rend>, der bereits, einige<lbr type="BD"/> Stunden vor diesem<lbr/>
+<pg n="2"/>
+Schreiben, in Salzburg wird eingetroffen<lbr/>
+se&#255;n, wird ihnen<lbr type="BD"/> davon Zeugniß geben<lbr/>
+können.<lbr type="forced"/>
+<ts>_____</ts>Ich wünschete sehr, daß ich <u>die einge<pc force="weak">=</pc><lbr/>bundene Violinschule,</u> so unter meinem<lbr type="BD"/><lbr/>
+Bücheren stehen oder liegen wird, könnte<lbr/>
+herunter bekommen, da be&#255; Gelegen<lbr type="BD"/>heit<lbr/>
+der hieher kommenden Salzburg<abbr type="curve">:</abbr> Ge<pc force="weak">=</pc><lbr/>sandtschaft, solche leicht könnte mit<lbr type="BD"/> kom<pc force="weak">=</pc><lbr/>men. ja ich sollte noch ein paar un<pc force="weak">=</pc><lbr/>gebundene haben: Allein, Gott weis, wo<lbr/>
+die Kupfer dazu liegen! Ich glaube<lbr/>
+<u>unten</u> im Gläser Kasten. Die Ta<pc force="weak">=</pc><lbr/>belle<lbr type="BD"/> wird schon be&#255; iedem Buche liegen,<lbr/>
+und, wasfür Kupfer dazu gehören,<lbr/>
+sieht<lbr type="BD"/> man aus dem eingebundenen.<lbr/>
+Es werden auch <rend class="latin">Errata</rend> blättl und der<lbr/>
+Bericht<lbr type="BD"/> an den Buchbinder zu finden<lbr/>
+se&#255;n. Kann es se&#255;n, so ist es gut, wo<lbr/>
+nicht, so<lbr type="BD"/> bitte mir nur das eingebunde<pc force="weak">=</pc><lbr/>ne zu schicken. Es kann aber auch<lbr/>
+<pg n="3"/>
+se&#255;n, daß ich die<lbr type="BD"/> Kupfer schon in die<lbr/>
+etliche <rend class="latin">Exemplar</rend>, die noch da sind, ein<pc force="weak">=</pc><lbr/>gelegt habe. Ich weis<lbr type="BD"/> es einmahl<lbr/>
+nicht mehr. Schicken sie es nur of<pc force="weak">=</pc><lbr/>fen, und nicht verpetschiert. dem<lbr type="BD"/> herrn<lbr/>
+Buchführer Klett, bin ich 15 f: für die<lbr/>
+2. grossen Theile des Englischen<lbr type="BD"/>&#160;<rend class="latin">Dictio<pc force="weak">=</pc><lbr/>naire</rend> schuldig. wenn er sie fordert, so<lbr/>
+bitte solche gegen Quittung zu<lbr type="BD"/> bezahlen.<lbr/>
+Er möchte einige <rend class="latin">Exemplar</rend> von der<lbr/>
+<rend class="latin">violin</rend> Schule haben, wenn sie<lbr type="BD"/> da sind,<lbr/>
+kann man sie ihm geben: aber anders<lbr/>
+nicht als für 2 f: allein ich<lbr type="BD"/> zweifle,<lbr/>
+ob sie, wegen der Kupfer, in Ordnung<lbr/>
+zu bringen sind. <u>Ich sollte selbst<lbr type="BD"/> 3.<lbr/>
+oder 4. Stück hier haben.</u> Ich könnte<lbr/>
+wohl 30. Stuck brauchen, allein ich<lbr type="BD"/> weis,<lbr/>
+daß sie nicht da sind. <tshtm>_____</tshtm>An Herrn<lbr/>
+Lotter habe geschrieben; ich weis nicht<lbr type="BD"/> wa<pc force="weak">=</pc><lbr/>rum ich keine Antwort erhalte. Ich schreibe<lbr/>
+unter heuntigen dato wieder<lbr type="BD"/> an ihn, und<lbr/>
+muß mit Ernst an die Sache gehen.<lbr type="forced"/>
+<pg n="4"/>
+<ts>_____</ts>Neuigkeiten kann ich ihnen nichts schrei<pc force="weak">=</pc><lbr/>ben; als <rend class="latin">opern, Redouten, Ball, Com<pc force="inter">=</pc><lbr/>moedien</rend>&#160;<abbr expand="etc">p</abbr> wie zu Salzburg, allein <u><rend class="latin">NB</rend>:</u><lbr/>
+die <rend class="latin">Ball</rend> sind auch theils ohne<lbr type="BD"/>&#160;<rend class="latin">masquera</rend><lbr/>
+theils mit Verkleidung aber ohne <rend class="latin">Visier</rend>.<lbr/>
+daß tit<abbr type="curve">:</abbr> Herr Graf Otto<lbr type="BD"/> Hochzeiter ist,<lbr/>
+wird ihnen schon bekannt se&#255;n. Er nimmt<lbr/>
+eine Gräfin von<lbr type="BD"/>&#160;<choice><orig>Starmberg</orig><corr hand="diff" schr_id="57010">Starhemberg</corr></choice>, und wird<lbr/>
+nach Grätz angestellt. Vor einigen Ta<pc force="weak">=</pc><lbr/>gen ward die<lbr type="BD"/> Sache zur gänzlichen Richtig<pc force="weak">=</pc><lbr/>keit gebracht, und die he&#255;rathsPackten<lbr/>
+unter<lbr type="BD"/>zeichnet. <ts>_____</ts>Leben sie alle wohl,<lbr/>
+be&#255; Durchlesung dieses Schreibens werd<abbr v="en"/><lbr/>
+sie<lbr type="BD"/> wohl schon die Ohren spitzen, um den<lbr/>
+Klang der grossen Glocke nicht zu<lbr type="BD"/> über<pc force="weak">=</pc><lbr/>hören. Ich bin der alte.<lbr type="forced"/>
+<lbr type="forced"/>
+Der Wolfgang schicket hier dieses Rätsel<lbr/>
+den herrn Adlgasser, weil wir so<lbr type="BD"/> unge<pc force="weak">=</pc><lbr/>schickt waren sein Rätsel nicht aufzulösen.<lbr/>
+Wir empfehlen uns allen<lbr type="BD"/> guten Freunden.<lbr type="forced"/>
+</NI>
+</letter>
+</text>
+</MUP>

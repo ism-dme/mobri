@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2019">2019-12</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=570</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">D-Asa</bibl>
+            <bibl type="source" subtype="RISM">D-Asa (Stadtarchiv)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:36:18 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_13.mup">
+﻿<letter bd="13">
+<NI src="D-Asa">
+<HEADER id="570">LEOPOLD MOZART AN JOHANN JAKOB LOTTER IN AUGSBURG<lbr/>
+SALZBURG, 24. NOVEMBER 1755</HEADER>
+<pg n="1"/>
+<ts>_________________________________________</ts><tspdf>\hfill </tspdf>Salzb<abbr type="curve">:</abbr> d<abbr v="en"/> 24 <rend class="latin">Novb<abbr type="curve">:</abbr></rend><lbr type="forced"/>
+<ts>____________________________</ts><tshtm>______________________________</tshtm><tspdf>\hfill </tspdf>1755.<lbr type="forced"/>
+<ts>__________</ts><rend class="latin"><persName key="76865">Monsieur</persName> mon tres cher<lbr type="forced"/>
+<ts>_______________________</ts>amy</rend><lbr type="forced"/>
+<lbr type="forced"/> 
+Ich erhalte dero Trostschreiben, nachdem sie meine<lbr/>
+Gedult abermal 14 Täge<lbr type="BD"/> gepriefet haben. Wenn<lbr/>
+sie auch so Thun, wie sie schreiben |: wie ich auch ohne<lbr type="BD"/><lbr/>
+Beleidung der Freundschaft ni<abbr type="topline" expand="mm">m</abbr>er anders glaub<abbr v="en"/> darf :|<lbr/>
+so ist es gar richtig, daß sie ihr Wort genau halten<lbr/>
+werd<abbr v="en"/>: de<abbr type="topline" expand="nn">n</abbr> die Noten Exempl nä<abbr type="topline" expand="mm">m</abbr><abbr v="en"/> die<lbr type="BD"/> mereste<lbr/>
+Zeit weg. Hier sind die <rend class="latin">Hautb:</rend> und <rend class="latin">Fagott</rend><lbr/>
+zur Baurenmusik. Das will<lbr type="BD"/> ich sie noch er<pc force="weak">=</pc><lbr/>suchen; daß sie mir kein Exemplar von Hand<abbr v="en"/><lbr/>
+geb<abbr v="en"/>: de<abbr type="topline" expand="nn">n</abbr> ich<lbr type="BD"/> will sie alle vorher in Hand<abbr v="en"/><lbr/>
+hab<abbr v="en"/>. Ja ich muß es so mach<abbr v="en"/>: de<abbr type="topline" expand="nn">n</abbr> der<lbr type="BD"/> Erz<pc force="weak">=</pc><lbr/>bischof weis schon darum, und bin <rend class="latin">Resptve</rend> nur<lbr/>
+noch halb Herr davon:<lbr type="BD"/> wenigst, wie es dermal<lbr/>
+<pg n="2"/>
+aussiehet. und sie därff<abbr v="en"/> Keck glaub<abbr v="en"/>, ohne das<lbr/>
+sie<lbr type="BD"/> mir eine <u>Schneelahne</u> zumuthen, daß dieses nicht<lbr/>
+das letzte se&#255;n wird, so ich<lbr type="BD"/> unter die Presse giebe:<lbr/>
+de<abbr type="topline" expand="nn">n</abbr>, <u>ihnen im gröst<abbr v="en"/> Vertrau<abbr v="en"/> gesagt,</u> man hat<lbr/>
+mir<lbr type="BD"/> einen Brief von weitem Orte her zugeschrieb<abbr v="en"/>,<lbr/>
+wo man mir berichtet, daß<lbr type="BD"/> man meine Violinschule<lbr/>
+mit Begirde erwartet, und daß man gedenket<lbr/>
+mich als<lbr type="BD"/> ein Mitglied, &#8211; &#8211; erschreken sie nicht! &#8211; &#8211; <lbr/>
+od<abbr v="er"/> &#8211; &#8211; lach<abbr v="en"/> sie nicht &#8211; &#8211; mich<lbr type="BD"/> als ein Mitglied<lbr/>
+der Correspondirend<abbr v="en"/> Societät Musik<abbr type="curve">:</abbr> Wissenschaft<abbr v="en"/><lbr/>
+ggst<lbr type="BD"/> zu erne<abbr type="topline" expand="nn">n</abbr><abbr v="en"/>. Potz plund<abbr v="er"/>! Das spritzt.<lbr/>
+Schwätz<abbr v="en"/> sie aber ja nicht aus d<abbr v="er"/><lbr type="BD"/> Schule: de<abbr type="topline" expand="nn">n</abbr> es<lbr/>
+<pg n="3"/>
+möchten nur winde se&#255;n. Ich einmal hab mein<lbr/>
+lebstag nicht<lbr type="BD"/> einmal daran gedacht; das weis ich als<lbr/>
+ein ehrlicher Ma<abbr type="topline" expand="nn">n</abbr> zu sag<abbr v="en"/>. empfehl<abbr v="en"/><lbr type="BD"/> sie mich dero<lbr/>
+gut<abbr v="en"/> und ehrlichst<abbr v="en"/> frau<abbr v="en"/>, und fahren sie fort<lbr/>
+in ihrem gut<abbr v="en"/><lbr type="BD"/> vorhab<abbr v="en"/> und fleise: da<abbr type="topline" expand="nn">n</abbr> etwas<lbr/>
+auf die letzte zu spahr<abbr v="en"/> ist gefährlich. ich<lbr type="BD"/> bin<lbr/>
+übrigens in E&#255;ll<lbr type="forced"/>
+<ts>__________________________</ts>dero<lbr type="BD"/><lbr type="forced"/>
+<ts>_______________________________________</ts><tspdf>\hfill </tspdf>Ergebenstr Dr<lbr type="BD"/><lbr type="forced"/>
+<ts>____________________</ts><tshtm>___________________</tshtm><tspdf>\hfill </tspdf><persName key="39408"><rend class="latin">Leopold Mozart</rend></persName>&#160;<abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<pg n="4"/>
+<add_empf>1755. d<abbr v="en"/> 24. <rend class="latin">Nov.</rend> aus Salzburg, von<lbr/>
+h<abbr type="curve">:</abbr>&#160;<rend class="latin">Leopold P: S: Mozart</rend>.</add_empf>
+<lbr/>
+Es hat mich be&#255; meinem Aldase&#255;n ein gewisser <persName key="84665">Cantorist</persName> |: od<abbr v="er"/> wer<lbr/>
+er ist :|<lbr type="BD"/> ersucht, er möchte mir einige <rend class="latin">Flutotravers Concerte</rend> abhandl<abbr v="en"/>.<lbr/>
+Es ist d<abbr v="er"/>jenige,<lbr type="BD"/> welcher die Töne von den Schlittengeleüthe abge<pc force="weak">=</pc><lbr/>langet und ausgesucht hat.<lbr type="BD"/> hier will ich den Anfang des erst<abbr v="en"/><lbr/>
+<u><rend class="latin">Allegro</rend></u> eines jeden <u><rend class="latin">Concerts</rend></u> hersetz<abbr v="en"/>.<lbr type="BD"/> ob er nicht etwa schon<lbr/>
+etwas be&#255; hand<abbr v="en"/> hat?<lbr type="forced"/>
+<object type="mus" src="briefe_BD_13_NBsp_1-300"></object><lbr type="forced"/>
+<rend class="latin">à</rend> 2 <rend class="latin">Violini</rend>, <rend class="latin">Viola<lbr type="forced"/>
+e Basso</rend><lbr type="BD"/><lbr type="forced"/>
+<object type="mus" src="briefe_BD_13_NBsp_2-300"></object><lbr type="forced"/>&#160;<rend class="latin">à</rend> 2 <rend class="latin">Violini</rend>, <rend class="latin">Viola<lbr type="forced"/>
+e Basso</rend><lbr type="BD"/><lbr type="forced"/>
+<object type="mus" src="briefe_BD_13_NBsp_3-300"></object><lbr type="forced"/>&#160;<rend class="latin">à</rend> 2 <rend class="latin">Violini</rend>, <rend class="latin">Viola<lbr type="forced"/>
+e Basso</rend><lbr type="BD"/><lbr type="forced"/>
+<object type="mus" src="briefe_BD_13_NBsp_4-300"></object><lbr type="forced"/>&#160;<rend class="latin">à</rend> 2 <rend class="latin">Violini</rend>, <rend class="latin">Viola<lbr type="forced"/>
+e Basso</rend><lbr type="BD"/><lbr type="forced"/>
+<object type="mus" src="briefe_BD_13_NBsp_5-300"></object><lbr type="forced"/>&#160;<rend class="latin">à</rend> 2 <rend class="latin">Violini</rend>, <rend class="latin">Viola</rend>,<lbr type="forced"/>
+2 <rend class="latin">Corni e Basso</rend><lbr type="BD"/><lbr type="forced"/>
+<u><rend class="latin">NB</rend></u> die <rend class="latin">Corni</rend> haben<lbr type="forced"/>
+<rend class="latin">Solo</rend><lbr type="BD"/> darunter.<lbr type="forced"/>
+So fängt sich das Violin 1<h>mo</h> an. Er darf mir<lbr/>
+also nur den Anfang schreib<abbr v="en"/>,<lbr type="BD"/> welches er <add_note schr_id="0" type="inline">F ist schon vorhanden.</add_note><lbr/>
+von diesen <rend class="latin">Concert<abbr v="en"/></rend> will. Ich kan ihm auch<lbr/>
+14 <rend class="latin">à tre</rend>. nämlich<abbr v="en"/><lbr type="BD"/>&#160;<rend class="latin"><u>а Flutotrav<abbr type="curve">:</abbr> Violino</u> e <u>Violoncello</u></rend> schick<abbr v="en"/>, wenn er den<lbr/>
+Anfang wiss<abbr v="en"/> will,<lbr type="BD"/> so will ihm solche be&#255; nächster Gelegenheit <rend class="latin">notie</rend>r<abbr v="en"/>.<lbr type="forced"/>
+<u>Bitte den Einschluss zu bestell<abbr v="en"/></u>.<lbr type="forced"/>
+</NI>
+</letter>
+</text>
+</MUP>

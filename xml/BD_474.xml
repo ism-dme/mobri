@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2012">2012-12</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1038</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">CH-Bps</bibl>
+            <bibl type="source" subtype="RISM">CH-Bps (Paul Sacher Stiftung</bibl>
+            <bibl type="source" subtype="RISM">Bibliothek)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:39:01 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_474.mup">
+<letter bd="474"><NI src="unbekannt"><HEADER id="1038">LEOPOLD MOZART AN DEN SALZBURGISCHEN HOFRAT<lbr/>
+SALZBURG, 7. AUGUST 1778</HEADER>
+<pg n="1"/>
+<ts>________</ts><tshtm>______</tshtm>Hochwürdig, Hoch und Wohlgebohrne, Hochgelehrte<lbr type="BD"/><lbr type="forced"/>
+<ts>________</ts><tshtm>___________</tshtm>des Hochfürstl: Hochlöbl: Hofraths in Salzburg<lbr type="BD"/><lbr type="forced"/>
+<ts>________</ts><tshtm>________________</tshtm>Hoch und Wohlverordnete Herrn, Herrn<lbr type="BD"/><lbr type="forced"/>
+<ts>________</ts><tshtm>________________</tshtm>HofrathsPresident, HofCanzler, Direktor<lbr type="BD"/><lbr type="forced"/>
+<ts>________</ts><tshtm>_________________________</tshtm>und andere Herrn Hofräthe!<lbr type="forced"/>
+<lbr type="forced"/>
+Der unverhofte sehr betrübte Tod meiner seel. Frau in Paris zog<lbr/>
+die Noth<lbr type="BD"/>wendigkeit der gewöhnlichen hohen obrigkeitlichen Sperre nach<lbr/>
+sich, die auch<lbr type="BD"/> ordentlich vorgegangen. Da nun aber meine seel. Frau,<lbr/>
+als ich mich mit ihr<lbr type="BD"/> ehlich verband, nicht das geringste Vermögen hatte,<lbr/>
+an ein in zukunft zu er<lbr type="BD"/>werbendes aber, be&#255; geringem Gehalt, nicht<lbr/>
+zu gedenken war, die Kleidungs<lbr type="BD"/>stücke und wenig übriges sie mit<lbr/>
+sich geno<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>, folglich von ihr nicht das<lbr type="BD"/> geringste hinterlassen worden:<lbr/>
+als bitte Euer Hochwürden, Hoch und Wohl<lbr type="BD"/>gebohrn Hochgräfl auch Fre&#255;h<abbr type="curve">:</abbr> Gnad<abbr v="en"/><lbr/>
+und Gnaden gehorsa<abbr type="topline" expand="mm">m</abbr>st die Sperre<lbr type="BD"/> gnädig abnehmen zu lassen, mich<lbr/>
+aber auch, da nicht die geringste Verlassen<lbr type="BD"/>schaft vorhanden, mit den<lbr/>
+sonst damit verknüpften Unkösten gnädig zu ver<lbr type="BD"/>schonen. Da ich übrigens<lbr/>
+<pg n="2"/>
+wenn iemand eine gegründete forderung sollte zu<lbr type="BD"/>
+machen haben, mich als Bezahler erkläre &#8211; anbey aber mich zu fürwehrenden<lbr type="BD"/>
+Hohen Gnaden gehorsammst empfehle<lbr type="forced"/>
+<tshtm>___________</tshtm>Euer Hochwürden Hochgräfl: auch Hochfreyl: Gnaden und Gnaden<lbr type="forced"/>
+<ts>_________</ts><tshtm>_____________________________</tshtm><tspdf>\hfill </tspdf>untertahnig gehorsammster<lbr type="BD"/><lbr type="forced"/>
+<ts>__________</ts><tshtm>______________________________________</tshtm><tspdf>\hfill </tspdf>Leopold Mozart<lbr type="BD"/><lbr type="forced"/>
+<ts>__________</ts><tshtm>__________________________</tshtm><tspdf>\hfill </tspdf>Hochfürstl: Vicekapellmeister</NI></letter>
+</text>
+</MUP>

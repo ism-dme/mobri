@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2011">2011-05</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=785</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">US-Wc</bibl>
+            <bibl type="source" subtype="RISM">US-Wc (Library of Congress, Music Division)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:37:25 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_224.mup">
+<letter bd="224"><NI src="US-Wc"><HEADER id="785">LEOPOLD MOZART AN MARIA ANNA MOZART IN SALZBURG<lbr/>
+MAILAND, 22. DEZEMBER 1770<lbr/>
+mit Nachschrift von Wolfgang Amadé Mozart an Maria Anna (Nannerl) Mozart</HEADER>
+<pg n="1"/>
+<ts>_________________</ts><tshtm>_____________________________________________</tshtm><tspdf>\hfill </tspdf>Mayland d<abbr v="en"/> 22 <rend class="latin">Decemb<abbr type="curve"></abbr></rend><lbr type="forced"/>
+<ts>______</ts>Glückseeligs Neues Jahr!<ts>__________________________________________</ts><tspdf>\hfill </tspdf>1770<lbr type="forced"/>
+<lbr type="forced"/>
+Ich schreibe zwar mit der Hilf Gottes dieses Jahr noch einmahl; allein<lbr/>
+der<lbr type="BD"/> Brief wird alsdann ein paar täge zu späth eintreff<abbr v="en"/>. d<abbr v="en"/> 19<h>t<abbr v="en"/></h> war<lbr/>
+die erste<lbr type="BD"/> Probe auf dem Theater, da sie den 17 bevor im RedutSaal<lbr/>
+war, Es gieng,<lbr type="BD"/> Gott Lob, recht gut; gestern abends war eine<lbr/>
+<rend class="latin">Recit:</rend> Probe, und heute nach<lbr type="BD"/>&#160;<rend class="latin">ave Maria</rend> wird eine zwe&#255;te Probe<lbr/>
+auf dem Theater, und Montags die Hauptprobe se&#255;n. Nun weist<lbr/>
+du aus mein<abbr v="en"/> vorig<abbr v="en"/> und diesem schreib<abbr v="en"/>, daß in<lbr type="BD"/> allem 5 Prob<abbr v="en"/> war<abbr v="en"/>,<lbr/>
+nämlich <u>eine</u> mit wenig Violin<abbr v="en"/>, eine grosse im<lbr type="BD"/> RedutSaale und<lbr/>
+3 auf dem Theater. wie der Abend vom 26<h>t<abbr v="en"/></h> ablauff<abbr v="en"/> wird,<lbr/>
+werde dir gleich bericht<abbr v="en"/>. mein trost ist, daß ich sehe, daß so wohl<lbr/>
+die<lbr type="BD"/>&#160;<rend class="latin">Recitanti</rend> als das <rend class="latin">Orchester</rend> zu fried<abbr v="en"/> ist; und ich habe, Gott Lob,<lbr/>
+auch selbst<lbr type="BD"/> noch ohr<abbr v="en"/>. Ich stellte mich be&#255; der Probe ganz zurück<lbr/>
+unter den HauptEingang<lbr type="BD"/> um es in der ferne recht zu hör<abbr v="en"/>. Vielleicht<lbr/>
+war<abbr v="en"/> aber meine Ohren zu<lbr type="BD"/> parthe&#255;isch! unterdess<abbr v="en"/> seh<abbr v="en"/> und hör<abbr v="en"/> wir<lbr/>
+daß unsere gut<abbr v="en"/> freunde<lbr type="BD"/> Lustig und vergnügt sind, und meinem<lbr/>
+Sohn mit freud<abbr v="en"/>&#160;<rend class="latin">gra</rend>tulier<abbr v="en"/>, die<lbr type="BD"/> üblgesinnt<abbr v="en"/> hingeg<abbr v="en"/> sind nun stu<abbr type="topline" expand="mm">m</abbr>.<lbr/>
+die gröst<abbr v="en"/> und ansehnlichst<abbr v="en"/><lbr type="BD"/> Capellmeister dieser Statt, die alles<lbr/>
+vertrau<abbr v="en"/> hab<abbr v="en"/>, nämlich <rend class="latin">Sgr: <u>Fioroni</u></rend><lbr type="BD"/> und <u><rend class="latin">Sa<abbr type="topline" expand="mm">m</abbr>artino</rend></u> sind unsere<lbr/>
+wahr<abbr v="en"/> freunde, wie auch <rend class="latin">Lampugnani, Piazza,<lbr type="BD"/> Colombo</rend>&#160;<abbr expand="etc:">p:</abbr><lbr/>
+folglich wird der Neid, od<abbr v="er"/> vielmehr der Unglaub<abbr v="en"/> und die<lbr type="BD"/> schlecht<abbr v="en"/> vor<pc force="weak">=</pc><lbr/>urtheile, die einige weg<abbr v="en"/> d<abbr v="er"/> <rend class="latin">Composition</rend> unseres Sohnes<lbr type="BD"/> hatt<abbr v="en"/>, wenig schad<abbr v="en"/><lbr/>
+könn<abbr v="en"/>, wenigst hoffe, daß es das böse Schicksaal des<lbr type="BD"/>&#160;<rend class="latin">Sgr: Jomelli</rend> nicht<lbr/>
+<pg n="2"/>
+hab<abbr v="en"/> wird, dess<abbr v="en"/>&#160;<suppl hand="self" pos="supra">zwe&#255;te</suppl>&#160;<rend class="latin">opera</rend> in <rend class="latin">Neapl</rend>, itzt so <rend class="latin">à terra</rend><lbr type="BD"/> gegang<abbr v="en"/>, daß<lbr/>
+man gar eine and<abbr v="er"/>e dafür einsetz<abbr v="en"/> will. dieß ist nun ein<lbr/>
+so<lbr type="BD"/> berühmter Meister, aus dem die <rend class="latin">Itali</rend>äner ein<abbr v="en"/> erschröcklich<abbr v="en"/><lbr/>
+Lerm<abbr v="en"/><lbr type="BD"/> mach<abbr v="en"/>. Es war aber auch ein wenig närrisch, daß er<lbr/>
+in einem Jahre 2 <rend class="latin">opern</rend><lbr type="BD"/> auf dem nämlich <rend class="latin">Theater</rend> zu<lbr/>
+schreib<abbr v="en"/> unterno<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>, um so mehr; als er hat<lbr type="BD"/> merk<abbr v="en"/> müss<abbr v="en"/>,<lbr/>
+daß seine erste <rend class="latin">opera</rend> |: die wir sah<abbr v="en"/> :| kein<abbr v="en"/> groß<abbr v="en"/> Be&#255;fall<lbr/>
+hatte.<tshtm>_____</tshtm> Nun wisset ihr wenigst, vom 26 angefang<abbr v="en"/>, daß<lbr/>
+wir alle abend eine<lbr type="BD"/> Stund nach <rend class="latin">Ave Maria</rend> bis etwa 11 uhr<lbr/>
+od<abbr v="er"/> fast 12 uhr in d<abbr v="er"/> <rend class="latin">opera</rend> sind:<lbr type="BD"/> nur die Fre&#255;tage ausge<pc force="weak">=</pc><lbr/>no<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>. In 14 täg<abbr v="en"/> längstens werde dir meine Reise<lbr type="BD"/> nach<lbr/>
+<rend class="latin">Turin</rend> bericht<abbr v="en"/> könn<abbr v="en"/>. da<abbr type="topline" expand="nn">n</abbr> wird es geschwind über und über geh<abbr v="en"/>,<lbr/>
+daß wir die letzt<abbr v="en"/> täge des faschings in <rend class="latin">Venedig</rend> zu bring<abbr v="en"/> könn<abbr v="en"/>.<lbr/>
+die Briefe<lbr type="BD"/> des h<abbr type="curve">:</abbr> Hafners lasse nur an ein<abbr v="en"/> freund nach <rend class="latin">Venedig</rend><lbr/>
+lauff<abbr v="en"/>, und berichte<lbr type="BD"/> mir, wer sie hat. unterdess<abbr v="en"/> hofe auch etwas<lbr/>
+von einer sichern <rend class="latin">privat</rend>=wohnung zu hör<abbr v="en"/>, <u><rend class="latin">NB</rend></u>&#160;<u>einer sicher<abbr v="en"/> wohnung.</u><lbr/>
+da<abbr type="topline" expand="nn">n</abbr> im Wirthshaus bin kein<lbr type="BD"/> liebhaber abzusteig<abbr v="en"/>, we<abbr type="topline" expand="nn">n</abbr> es nicht<lbr/>
+se&#255;n muß. Lebts Be&#255;de wohl, wir küss<abbr v="en"/><lbr type="BD"/> euch Viel 100000<lbr/>
+mahl <abbr expand="und">u</abbr> bin allzeit dein alter<ts>___</ts>Mozart <abbr expand="manu propria">mp</abbr>.<lbr type="forced"/>
+<lbr type="forced"/>
+an alle freunde und freundin<abbr v="en"/> unser <rend class="latin">Complt:</rend>&#160;<abbr expand="und">u</abbr> glückseligs<lbr/>
+Neues Jahr.<lbr type="forced"/>
+<pg n="3"/>
+ihr könnt euch den Wolfg<abbr type="curve">:</abbr> in einem Roth <rend class="latin">Scarlatin</rend> kleid<lbr/>
+mit goldn<abbr v="en"/> Bord<abbr v="en"/>,<lbr type="BD"/> hi<abbr type="topline" expand="mm">m</abbr>elblau<abbr v="en"/>&#160;<rend class="latin">attlas</rend> futter vorstell<abbr v="en"/>.<lbr/>
+heut fängt d<abbr v="er"/> schneid<abbr v="er"/> an zu arbeit<abbr v="en"/>.<lbr type="BD"/> dieß kleid wird er<lbr/>
+die ersten 3 täge, da er be&#255;m <rend class="latin">Clavier</rend> sitzt, trag<abbr v="en"/>.<lbr type="forced"/>
+dasjenige,<lbr type="BD"/> so zu Salzb<abbr type="curve">.</abbr> gemacht word<abbr v="en"/>, ist um eine stehende<lbr/>
+Hand zu kurz, und allerdings zu enge und zu klein.<lbr type="forced"/>
+<NS type="NS" schr_id="39409"><rend class="latin">Sinfonia</rend><lbr type="forced"/>
+<object type="mus" src="BD224_T"></object><lbr type="forced"/><lbr type="BD"/>
+frag nach ob sie zu <rend class="latin">salzbourg</rend> diese <rend class="latin">sinfonie</rend> von <rend class="latin">Mislievecek</rend><lbr/>
+haben oder<lbr type="BD"/> nicht, dan wan sie es nicht haben, so werden<lbr/>
+wir sie mitbringen.</NS>
+<pg n="4"/>
+<anschrift rot="270"><rend class="latin">À Madame<lbr type="forced"/>
+Madame Marie Anne<lbr type="forced"/>
+Mozart<lbr type="forced"/>
+<ts>___________</ts>à<lbr type="forced"/>
+<u>par Mantova</u><ts>_______</ts><u>Salzbourg</u></rend></anschrift><lbr/>
+<add_note schr_id="48817" rot="90"><rend class="latin">N:<h>o</h></rend> 53 aus Me&#255;land</add_note></NI></letter>
+</text>
+</MUP>

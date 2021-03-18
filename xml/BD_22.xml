@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2019">2019-12</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=579</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">D-Asa</bibl>
+            <bibl type="source" subtype="RISM">D-Asa (Stadtarchiv)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:36:21 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_22.mup">
+﻿<letter bd="22">
+<NI src="D-Asa">
+<HEADER id="579">LEOPOLD MOZART AN JOHANN JAKOB LOTTER IN AUGSBURG<lbr/>
+SALZBURG, 9. FEBRUAR 1756</HEADER>
+<pg n="1"/>
+<add_empf pos="lm" rot="90">1756. d<abbr v="en"/> 9. <rend class="latin">Febr</rend>. aus <rend class="latin">Salz</rend>burg, von<lbr/>
+h<abbr type="curve">.</abbr>&#160;<rend class="latin">Leopold Mozart</rend>.</add_empf>
+<ts>______________________________________</ts><tshtm>____________________________________</tshtm><tspdf>\hfill </tspdf><rend class="latin">Salzb<abbr type="curve">:</abbr></rend> d<abbr v="en"/> 9 <rend class="latin">feb<abbr type="curve">:</abbr></rend> 1756<lbr type="forced"/>
+<ts>__________</ts><rend class="latin"><persName key="76865">Monsieur</persName> mon tres cher amy</rend><lbr type="forced"/>
+<add_note type="inline"><uu>NB.</uu></add_note>
+<lbr type="forced"/>
+Hier ist der (J) bog<abbr v="en"/> zurück. Ich bitte dahin zu seh<abbr v="en"/>, daß allemal ein saube<lbr type="BD"/>rer<lbr/>
+Corrigirter und abgedruckter bog<abbr v="en"/> d<abbr v="er"/> vorig<abbr v="en"/>&#160;<rend class="latin">Correc</rend>tur mit dem neuzu<lbr type="BD"/> Corrigirnd<abbr v="en"/><lbr/>
+Bog<abbr v="en"/> mitko<abbr type="topline" expand="mm">m</abbr>t, den ich an die schon beyhand<abbr v="en"/> habende<lbr type="BD"/> bog<abbr v="en"/> anstoss<abbr v="en"/> kan.<lbr type="forced"/>
+<u>de<abbr type="topline" expand="nn">n</abbr> zum Exempl</u>. in dieser <rend class="latin">Correc</rend>tur ist <rend class="latin">pag</rend>. 68. § 8. der § 4 dieses<lbr/>
+Haupt<lbr type="BD"/>stückes <rend class="latin">allegi</rend>ret. <rend class="latin">p</rend>: 69 ist §. 9. der 9<h>te</h> § des vorig<abbr v="en"/> Hauptstückes<lbr/>
+<rend class="latin">Citi</rend>ret. wenn ich nun den (H) bog<abbr v="en"/> mit beko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/> hätte, so hätte ich nachseh<abbr v="en"/><lbr/>
+kö<abbr type="topline" expand="nn">n</abbr><abbr v="en"/> ob<lbr type="BD"/> ich nicht falsch <rend class="latin">Citi</rend>rt habe, od<abbr v="er"/> ob in der <rend class="latin">allegation</rend> dieser<lbr/>
+zween § kein<lbr type="BD"/> fehler steket. ferner ist es auch gut daß ich sehe<lbr/>
+ob die <rend class="latin">Conexion</rend> von einem<lbr type="BD"/> Bog<abbr v="en"/> sowohl weg<abbr v="en"/> der <rend class="latin">pagina</rend> zahl<abbr v="en"/>, als weg<abbr v="en"/> der<lbr/>
+§. auch weg<abbr v="en"/> des<lbr type="BD"/>&#160;<rend class="latin">Custos</rend> richtig ist. und ergiebt sich etwa noch ein kleiner fehler,<lbr/>
+so kan ich ihn<lbr type="BD"/> noch in Zeit<abbr v="en"/> eri<abbr type="topline" expand="nn">n</abbr>er<abbr v="en"/>, und das hat eb<abbr v="en"/> so dann nichts auf sich,<lbr/>
+we<abbr type="topline" expand="nn">n</abbr> er<lbr type="BD"/> gleich in meinem be&#255; hand<abbr v="en"/> habend<abbr v="en"/>&#160;<rend class="latin">Exem</rend>plar stek<abbr v="en"/> bleibt.<lbr type="forced"/>
+<pg n="2"/>
+Ich hoffe alle Posttage ein<abbr v="en"/> Bog<abbr v="en"/>. de<abbr type="topline" expand="nn">n</abbr> zwene auf einmal, wie sie ver<lbr type="BD"/>sproch<abbr v="en"/><lbr/>
+hab<abbr v="en"/>, habe ich ohnedem niemals zu seh<abbr v="en"/> das glük gehabt. Mein<lbr type="BD"/><lbr/>
+<u>zwölftes Hauptstück</u> soll sie gewiss nichts aufhalt<abbr v="en"/>: de<abbr type="topline" expand="nn">n</abbr> ich kan es<lbr/>
+nicht ins<lbr type="BD"/> reine bring<abbr v="en"/>, bis ich nicht weg<abbr v="en"/> der Abänd<abbr v="er"/>ung<abbr v="en"/> des Bog<abbr v="en"/>=stiches alles<lbr/>
+in<lbr type="BD"/> Händ<abbr v="en"/> habe um einige § zu wiss<abbr v="en"/> auf die ich mich bezieh<abbr v="en"/> muß. das<lbr/>
+kan<lbr type="BD"/> ich aber sicher sag<abbr v="en"/>, daß alles, was sie noch von mir <rend class="latin">Mspt</rend> beko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>,<lbr/>
+in etwa<lbr type="BD"/> höchstens 6 meinig<abbr v="en"/> Bög<abbr v="en"/> besteh<abbr v="en"/> wird. wovon in 5 bög<abbr v="en"/> kaum 6 ganz<lbr type="BD"/><lbr/>
+kleine Exempl, ja oft nur ein paar Not<abbr v="en"/> sind. übrigens benachrichte &#8211; <lbr/>
+daß d<abbr v="en"/><lbr type="BD"/> 27 <rend class="latin">Januarii</rend> abends um 8 uhr die <persName key="48815">meinige</persName> mit einem <persName key="39409">Bub<abbr v="en"/></persName> zwar glücklich<lbr type="BD"/><lbr/>
+entbund<abbr v="en"/> word<abbr v="en"/>. die <u>Nachgeburt</u> aber hat man ihr wegnehm<abbr v="en"/> müss<abbr v="en"/>. Sie<lbr type="BD"/> war<lbr/>
+folglich erstaunlich schwach. Itzt aber |: Gott se&#255; dank :| befind<abbr v="en"/> sich<lbr type="BD"/> kind <abbr expand="und">u</abbr> Mutter<lbr/>
+gut. Sie empfehlt sich be&#255;d<abbr v="er"/>se&#255;ts. der Bub heißt <u><rend class="latin">Joa<abbr type="topline" expand="nn">n</abbr>es</rend><lbr type="BD"/>&#160;<rend class="latin">Chrisostomus</rend></u>, <u><rend class="latin">Wolfgang</rend></u>, <u>Gottlieb.</u><lbr/>
+Ich hoffe sie werd<abbr v="en"/> mich ni<abbr type="topline" expand="mm">m</abbr>er 3 Post<lbr type="BD"/>täge wart<abbr v="en"/> lass<abbr v="en"/>. de<abbr type="topline" expand="nn">n</abbr> ich bin <rend class="latin">desperat</rend>, da ich<lbr/>
+sehe, daß es i<abbr type="topline" expand="mm">m</abbr>er stecket.<lbr type="BD"/> das <u>Geld kan mir ja d<abbr v="er"/> h<abbr type="curve">:</abbr> Brud<abbr v="er"/> mitbring<abbr v="en"/></u>.<lbr type="forced"/>
+<ts>________________________</ts><rend class="latin">addio</rend><ts>____</ts><tshtm>_____________</tshtm><tspdf>\hfill </tspdf><persName key="39408"><rend class="latin">Leopold Mozart</rend></persName>&#160;<abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+</NI>
+</letter>
+</text>
+</MUP>

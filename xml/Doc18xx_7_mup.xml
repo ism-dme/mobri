@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2009">2009-08-20</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=504</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:36:10 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/Doc18xx_7_mup.txt">
+<HEADER id="504">KARL EDUARD BAUERNSCHMID, NOTIZEN ÜBER MOZART-AUTOGRAPHE SEINER SAMMLUNG<lbr/>
+WIEN, VOR 1875</HEADER>
+
+<pg n="1"/>
+<add_num impl="pencil"><ts>___________________</ts>27<ts>__</ts>25<ts>____________________________________________________________________________</ts>8<h><u>a</u></h></add_num>
+<u>2. Autographe</u> Von diesen beiden unschäzbaren Reliquien erhielt ich das <u>Erste</u><lbr/>
+unmittelbar aus den Händen der Witwe des großen Mannes durch Vermitt<pc force="weak">=</pc><lbr/>lung des H<abbr type="curve"></abbr> <rend class="latin">Neundlinger</rend> eines gebornen Salzburgers. Es ist das Fragment<lbr/>
+eines Tagebuches des damals Fünfzehnjährigen Wolfgang, beglaubigt durch<lbr/>
+die Unterschrift der Frau <rend class="latin">Constanzia v. Nissen</rend>. <u>Das Zweite</u> ist ein <rend class="latin">Billet</rend><lbr/>
+Mozarts mit dessen Unterschrift. Höchst interessant ist es für Kenner, daß<lbr/>
+die Adresse auf diesem Billet ebenfalls von der Hand der damals jugendlichen<lbr/>
+<abbr expand="und">u</abbr> gefeierten <rend class="latin">Constanzia</rend> herrührt, welche beka<abbr type="topline" expand="nn">n</abbr>tlich oftmals ihrem Gatten<lbr/>
+Secretairsdienste leistete. Die Beglaubigung auf dem 1. Autograph enthält<lbr/>
+dieselben Züge, reinlich aber zitternd von der hohen Siebzigeri<abbr type="topline" expand="nn">n</abbr>, um fünfzig<lbr/>
+<tshtm>______________________________________________________________</tshtm>Jahr später geschrieben.<lbr type="forced"/>
+<add_num type="inline" impl="pencil"><stroke>25</stroke></add_num><tshtm>___</tshtm><ts>_____</ts><rend class="latin">Mozart</rend> |Wolfgang Amadeus|<lbr type="forced"/>
+<add_num type="inline" impl="pencil"><tshtm>____</tshtm>332</add_num><ts>____</ts>Tonsezer.<ts>________</ts><add_num type="inline" impl="pencil">23</add_num><lbr type="forced"/>
+<ts>_____</ts>Auszug aus seinem jugendlichen Tagebuch.<lbr type="forced"/>
+<ts>_____</ts>Bestättigt <abbr expand="und">u</abbr> erhalten von dessen Witwe<lbr type="forced"/>
+<ts>_____</ts>der Staatsräthi<abbr type="topline" expand="nn">n</abbr> von <rend class="latin">Nissen</rend>.<lbr type="forced"/>
+<ts>_____</ts>Geboren am 27 Jä<abbr type="topline" expand="nn">n</abbr>er 1756 † 5 Dec. <abbr type="topline" expand="1791">791</abbr><lbr type="forced"/>
+<ts>_____</ts><u>NB</u> Der Vater Mozart’s war <u><rend class="latin">Leopold Mozart</rend></u>,<lbr type="forced"/>
+<ts>_____</ts>geboren zu Augsburg .<abbr type="topline" expand="1719">719</abbr>.<lbr type="forced"/>
+<ts>_____</ts><u>NB</u> Die Schwester Mozarts, <u>Maria Anna</u><lbr type="forced"/>
+<ts>_____</ts>vermählte Reichsfreiinn von <u><rend class="latin">Berchtold</rend></u><lbr type="forced"/>
+<ts>_____</ts>wurde 1751 zu Salzburg geboren.<lbr type="forced"/>
+<ts>_____</ts><u>NB</u> Der Sohn Mozarts <u><rend class="latin">Wolfgang Amadeus</rend></u><lbr type="forced"/>
+<ts>_____</ts>ist am 26 Juli 1791 zu Wien geboren.<lbr type="forced"/>
+<lbr type="forced"/>
+<postxt loc="lm" rot="90" div="fr"><u><rend class="latin">C’est le morceau le plus précieus<lbr/>
+de ma colletion!</rend></u></postxt><lbr/>
+<lbr/>
+<add_prov lang="de" loc="rm" rot="90" impl="ink"><rend class="latin"><u>Aus Sammlung K. E. Bauernschmid</u><lbr/>
+Am 10. Juni 1918 bei der Auktion D.<h>r</h> Jg. Schwaz<lbr/>
+<u>nur</u> das Tagebuch-fragment erworben<lbr/>
+um 160 <abbr_cur expand="Kronen">Kr.</abbr_cur>+ 10<symbol value="percent">%</symbol> Aufgeld.<lbr type="forced"/>
+
+<ts>_________________________</ts>Levickj<lbr type="forced"/>
+Das Billet an Jacquin erwarb Kunsthändler Heck um 520 <abbr_cur expand="Kronen">Kr.</abbr_cur></rend></add_prov><lbr type="forced"/>
+<lbr type="forced"/>
+<table rules="none" cellpadding="5" rows="1" cols="2"><tr><td>1. Durch Frau von <rend class="latin">Nissen</rend> verwittwete <rend class="latin">Mozart</rend>.<lbr type="forced"/>
+2. Durch Herrn Kapellmeister Glöggl.</td><td>Der zweite Sohn<lbr type="forced"/>
+Mozart’s ist bei der<lbr type="forced"/>
+Staatsbuchhaltung in<lbr type="forced"/>
+Mailand angestellt.</td></tr></table>
+<add_seal>Mozarteums-Bibliothek<lbr type="forced"/>
+SALZBURG<lbr type="forced"/>
+<u><rend class="latin">N<h><u>o</u></h></rend> 14</u></add_seal>
+<pg n="2"/>
+<vacat/>
+<pg n="3"/>
+<add_note>332<lbr type="forced"/>
+<u>2 <rend class="latin">Stücke</rend></u><lbr type="forced"/>
+<ts>___</ts><rend class="latin">H</rend></add_note>
+<pg n="4"/>
+<vacat/>
+</text>
+</MUP>

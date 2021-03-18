@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2011">2011-05</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=813</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">I-Bas</bibl>
+            <bibl type="source" subtype="RISM">I-Bas (Archivio di Stato</bibl>
+            <bibl type="source" subtype="RISM">Biblioteca)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:37:36 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_252.mup">
+<letter bd="252" lang="it"><NI src="I-Bas"><HEADER id="813">LEOPOLD MOZART AN GIOVANNI LUCA PALLAVICINI IN BOLOGNA<lbr/>
+MAILAND, 30. OKTOBER 1771</HEADER>
+<pg n="1"/>
+<ts>_____</ts><rend class="latin">Eccelenza!<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____</ts>Padre e figlio rendiamo umilmente grazie à V: E: della <amend value="gentilissima">genzilissima</amend><lbr/>
+e gratiosissima memoria conservata per noi, e per ubbidir<lbr/>
+alla desideriosa brama<lbr type="BD"/> di V: E: ho l'onore ed il piacer di dar<lbr/>
+la buona nuova che la Serenata del mio<lbr type="BD"/> figlio ebbe tutto il<lbr/>
+desiderato incontro e l'approbazione universale, piu non<lbr/>
+posso spiegarmi per non incorrere nel <u>propria Laus sordet</u>:<lbr/>
+essendo io il<lbr type="BD"/> Cicerone chi parla in questo caso <u>pro domo sua</u>.<lbr/>
+Il mio Figlio la fece in Milano in 15 Giorni, non poteva com<pc force="weak">=</pc><lbr/>minciar prima<lbr type="BD"/> trovandosi la Poesia per l'approbazione à Vie<abbr type="topline" expand="nn">n</abbr>a<lbr/>
+d'onde fú rimandata al<lbr type="BD"/> ultimo punto. Il Sgr Tibaldi, chi fece<lbr/>
+l'onore al mio figlio di venire tutte le<lbr type="BD"/> mattine à vederlo scrivere,<lbr/>
+potrá dar à V: E: un racconto authentico.</rend><lbr type="forced"/>
+<pg n="2"/>
+<rend class="latin">Vostra Eccelenza ci conservi le sue valorosissime Grazie,<lbr/>
+e rassegnando à V: E:<lbr type="BD"/> come anche alla Eccellss:<h>ma</h> Sgr<h>a</h>: Contessa<lbr/>
+ed Ill:<h>mo</h> Sgr<h>e</h> Figlio i nostri ossequi<lbr type="BD"/> e rispetti mi protesto<lbr/>
+unito col mio figlio di tutta veneratione e pieno Core<lbr type="forced"/>
+<ts>________________________</ts>di Vostra Eccelenza<lbr type="forced"/>
+<lbr type="forced"/>
+Milano 30 d'ottobre<lbr type="forced"/>
+<ts>______________</ts><u>1771</u><ts>_________________</ts><tshtm>_________________________</tshtm><tspdf>\hfill </tspdf>Devotiss:<h>mo</h> ed oblg<h>ssmo</h><lbr type="forced"/>
+<ts>____________________</ts><tshtm>_________________________________________________________</tshtm><tspdf>\hfill </tspdf>Servo<lbr type="forced"/>
+da quì un a<abbr type="topline" expand="nn">n</abbr>o torniamo, se Dio Vuole, à Milano,<ts>_____________</ts><tspdf>\hfill </tspdf>Leopoldo Mozart mp<lbr type="forced"/>
+dove il mio figlio scrivera la prima opera del Carnevale<lbr type="forced"/>
+1773, e doppo le prime 3 Sere della representatione correremo<lbr type="forced"/>
+per posta à Venezia per Scriverlí la Seconda opera à S: Benedetto.</rend><lbr type="forced"/>
+<pg n="3"/>
+<vacat/>
+<pg n="4"/>
+<add_sign type="inline" impl="pencil"><rend class="latin">Lettere N.<h>o</h> 1</rend></add_sign>&#160;<add_empf type="inline"><ts>_________________________</ts><rend class="latin"><u>1771</u> de 30 Ottobre</rend></add_empf>
+<add_empf><ts>________________________________________</ts><rend class="latin">Milano | Leopoldo Mozart |</rend></add_empf><lbr type="forced"/>
+<add_note><additum>Pos[... (unleserlich)]</additum> 6</add_note>
+</NI></letter></text>
+</MUP>

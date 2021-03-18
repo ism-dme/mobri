@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2014">2014-5</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1672</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Privatbesitz</bibl>
+            <bibl type="source" subtype="RISM">Privatbesitz</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:42:00 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_1102.mup">
+<letter bd="1102"><NI src="Privat"><HEADER id="1672">WOLFGANG AMADÉ MOZART AN CONSTANZE MOZART IN WIEN<lbr/>
+BERLIN, 23. MAI 1789</HEADER>
+<pg n="1"/>
+<add_num><ts>_____________________________________________________________________________________________________________________________________________________</ts>10</add_num>
+<ts>___________</ts><tshtm>______________________________________________________________________________________________________</tshtm><tspdf>\hfill </tspdf><u>Berlin</u> den 23:<h>t</h> Ma&#255;<lbr type="forced"/>
+<add_num type="inline">72</add_num><ts>___________________</ts><tshtm>______________</tshtm>liebstes, bestes, theuerstes Weibchen! &#8211; <ts>____</ts><tshtm>__________________________________</tshtm><tspdf>\hfill </tspdf><uu>1789</uu>.<lbr type="forced"/>
+<lbr type="forced"/>
+Mit Ausserordentlichem vergnügen habe dein liebes Schreiben vom 13:<h>t</h> hier<lbr type="BD"/> erhalten;<tspdf>~</tspdf> &#8211; <lbr type="forced"/>
+diesen augenblick aber erst dein vorhergehendes vom 9:<h>ten</h> weil<lbr type="BD"/> es von <rend class="latin">Leipzig retour</rend><lbr/>
+nach <rend class="latin">Berlin</rend> machen musste. &#8211; das erste ist daß ich dir alle<lbr type="BD"/> briefe so ich dir ge<pc force="weak">=</pc><lbr/>schrieben herzähle, und dann die deinigen so ich erhalten. &#8211; <lbr type="BD"/><lbr type="forced"/>
+ich schrieb dir den 8:<h>t</h>&#160;<rend class="latin">april</rend> von der Post=<rend class="latin">station</rend>&#160;<rend class="latin">budwitz</rend>. &#8211; <lbr type="forced"/>
+<table rules="none"><tr><td><ts>______________________</ts>den 10:<h>t</h> &#8211; von Prag.<lbr type="BD"/></td></tr>
+<tr><td><ts>_____________________</ts>den 13:<h>t</h> von <rend class="latin">Dresden.</rend><lbr type="BD"/></td></tr>
+<tr><td><ts>______________</ts>und den 17:<h>t</h> von <rend class="latin">Dresden.</rend><lbr type="BD"/></td></tr>
+<tr><td><ts>__________________</ts>den 22:<h>t</h> | französisch :| von <rend class="latin">Leipzig.</rend><lbr type="BD"/></td></tr>
+<tr><td><ts>__________________</ts>den 28:<h>t</h> von Potsdam<lbr type="BD"/></td></tr>
+<tr><td><ts>______________</ts>und den 5:<h>t</h>&#160;<rend class="latin">May</rend> von Potsdam<lbr type="BD"/></td></tr>
+<tr><td><ts>________________</ts>den 9:<h>t</h>&#160;<tshtm>_______</tshtm>von <rend class="latin">Leipzig.</rend><lbr type="BD"/></td></tr>
+<tr><td><ts>_______________</ts>und 16:<h>t</h>&#160;<tshtm>______</tshtm>von <rend class="latin">Leipzig.</rend><lbr type="BD"/></td></tr>
+<tr><td><ts>_______________</ts>den 19:<h>t</h>&#160;<tshtm>___</tshtm>von <rend class="latin">Berlin</rend><lbr type="BD"/></td></tr>
+<tr><td><ts>____________</ts>und izt den 23:<h>t</h> &#8211; das sind also 11 briefe.<lbr type="BD"/></td></tr></table>
+<lbr/>
+<table rules="none"><tr><td>ich erhielte von dir den von 8:<h>t</h>&#160;<rend class="latin">april.</rend></td><td>| den 15:<h>t</h>&#160;<rend class="latin">april</rend> in <rend class="latin">Dresden.</rend> :|<lbr type="BD"/></td></tr>
+<tr><td><tshtm>_____________________________</tshtm>den von 13:<h>t</h> &#8211; </td><td>| den 21:<h>t</h> &#8211; in <rend class="latin">Leipzig</rend> :|.<lbr type="BD"/></td></tr>
+<tr><td><tshtm>____________________</tshtm>den von 24:<h>t</h> &#8211; </td><td>| den 8:<h>t</h>&#160;<rend class="latin">May</rend>. in <rend class="latin">Leipzig.</rend>&#160;<tshtm>__</tshtm>be&#255; meiner<lbr type="BD"/>&#160;<rend class="latin">Retour</rend><lbr type="BD"/></td></tr>
+<tr><td><tshtm>____________________</tshtm>den von 5:<h>t</h>&#160;<rend class="latin">May</rend>. </td><td>| den 14:<h>t</h> &#8211; in <rend class="latin">Leipzig</rend>. :|</td></tr>
+<tr><td><tshtm>____________________</tshtm>den von 13:<h>t</h> &#8211; </td><td>| den 20:<h>t</h> in <rend class="latin">Berlin</rend>.<lbr type="BD"/></td></tr>
+<tr><td><tshtm>________________</tshtm>und den von 9:<h>t</h></td><td>| den 22:<h>t</h> in <rend class="latin">Berlin</rend>.</td></tr></table>
+also 6 briefe.<lbr type="forced"/>
+zwischen den 13:<h>t</h> und 24:<h>t</h> april ist, wie du Siehst eine lücke,<lbr/>
+da muß nun ein<lbr type="BD"/> briefe von dir verloren gegangen se&#255;n &#8211; durch<lbr/>
+dies musste 17 tage ohne briefe<lbr type="BD"/> se&#255;n! &#8211; wenn du also auch 17 tage in<lbr/>
+diesen umständen leben musstest, so<lbr type="BD"/> muß auch einer von meinen briefen<lbr/>
+verloren gegangen se&#255;n; &#8211; gott lob, wir<lbr type="BD"/> haben diese fatalitäten nun<lbr/>
+bald überstanden; &#8211; an <u>deinem Halse hangend</u><lbr type="BD"/> werde ich es dir dann erst<lbr/>
+recht erzählen wie es mir damals war! &#8211; doch &#8211;<lbr type="BD"/> du kennst meine<lbr/>
+liebe zu dir! &#8211; wo glaubst du daß ich dieses schreibe? &#8211; im<lbr type="BD"/> gasthofe<lbr/>
+auf meinem zi<abbr type="topline" expand="mm">m</abbr>er? &#8211; Nein; &#8211; im thiergarten in einem Wirths<lbr type="BD"/>hause<lbr/>
+<pg n="2"/>
+| in einem garten hause mit schöner aussicht | alwo ich heute ganz <u>alleine</u><lbr type="BD"/><lbr/>
+Speisste; um mich nur ganz alleine mit dir beschäftigen zu können; &#8211; <lbr/>
+die<lbr type="BD"/> königin will mich dienstag hören; <u>da ist aber nicht viel zu machen</u>.<lbr/>
+ich liess<lbr type="BD"/> mich nur melden, weil es hier gebräuchlich ist, und Sie es<lbr/>
+übel ne<abbr type="topline" expand="mm">m</abbr>en<lbr type="BD"/> würde. &#8211; Mein liebstes Weibchen, du must dich be&#255;<lbr/>
+meiner Rückunft schon<lbr type="BD"/> mehr auf <u>mich</u> freuen, als auf das <u>gelde</u>. &#8211; <lbr/>
+100 friedrichs'dor sind nicht 900 fl<lbr type="BD"/> sondern 700 fl; &#8211; wenigstens hat man<lbr/>
+mir es hier so gesagt. &#8211; 2:<h>ts</h> hat<lbr type="BD"/>&#160;<rend class="latin">Lichnowsky</rend> mich weil er eilen musste<lbr/>
+früh verlassen, und ich folglich | in dem<lbr type="BD"/> theuern orte Potsdam | selbst<lbr/>
+zehren müssen; &#8211; 3:<h>ts</h> habe ich &#60;ihm&#62; 100 fl:<lbr type="BD"/> lehnen müssen, weil sein<lbr/>
+beutel abnahm &#8211; ich konnte es &#60;ihm&#62; nicht gut abschlagen, du weist<lbr/>
+warum. &#8211; 4<h>t</h> ist die <rend class="latin">academie</rend> in <rend class="latin">leipzig</rend>, so wie ich es<lbr type="BD"/> i<abbr type="topline" expand="mm">m</abbr>er sagte,<lbr/>
+schlecht ausgefallen, habe also mit Rückwege 32 Meilen fast um<lbr type="BD"/>sonst<lbr/>
+gemacht; daran ist <rend class="latin">Lichnowsky</rend> ganz alleine schuld, dann er liess mir<lbr type="BD"/><lbr/>
+keine Ruhe, ich musste wieder nach <rend class="latin">Leipzig</rend>. &#8211; doch &#8211; davon das mehrere<lbr type="BD"/><lbr/>
+mündlich; &#8211; hier ist <u>1:<h>t</h></u> mit einer <rend class="latin">academie</rend> nicht viel zu machen, und<lbr/>
+<u>2:<h>ts</h> &#8211;</u><lbr type="BD"/> sieht es der könig nicht gerne. &#8211; du must schon <u>mit mir</u><lbr/>
+mit <u>diesem</u> zu<lbr type="BD"/>frieden se&#255;n, daß ich so glücklich bin be&#255;m könige in<lbr/>
+gnaden zu stehen; &#8211;<lbr type="BD"/> was ich dir da geschrieben, bleibt unter uns. &#8211; <lbr/>
+donnerstag den 28:<h>t</h> gehe ich<lbr type="BD"/> nach dresden ab, alwo ich übernachten werde.<lbr/>
+den 1:<h>t</h>&#160;<rend class="latin">Juny</rend> werde ich in Prag<lbr type="BD"/> schlafen, und den 4:<h>t</h> &#8211; den 4:<h>t</h>? &#8211; <lbr/>
+<u>be&#255; meinem liebsten weiberl</u>; &#8211; &#60;richte<lbr type="BD"/> dein liebes schönstes nest recht<lbr/>
+sauber her, denn mein bübderl verdient es in<lbr type="BD"/> der That, er hat sich<lbr/>
+recht gut aufgeführt und wünscht sich nichts als dein<lbr type="BD"/> schönstes [...] zu besitzen.<lbr/>
+stelle dir den Spitzbuben vor, dieweil ich so<lbr type="BD"/> schreibe schleicht er<lbr/>
+sich auf den Tisch und [zeigt] mir mit [fragen] ich aber nicht<lbr type="BD"/> faul [geb] ihm<lbr/>
+einen derben Nasenstüber &#8211; der [bursch] ist aber nur [...] jetzt<lbr type="BD"/> brennt<lbr/>
+[auch] der Schlingel noch mehr und läßt sich fast nicht bändigen.&#62;<lbr/>
+ich<lbr type="BD"/> hoffe doch du wirst mir auf die erste Post entgegen fahren? &#8211; <lbr/>
+ich werde den<lbr type="BD"/> 4:<h>t</h> dort zu Mittage eintreffen; &#8211; Hofer | den ich 1000<lbr/>
+mal umarme :| hoffe ich<lbr type="BD"/> wird wohl auch dabe&#255; se&#255;n; &#8211; wenn h<abbr type="curve">:</abbr> und<lbr/>
+<pg n="3"/>
+fr: von Puchberg auch mitführen,<lbr type="BD"/> dann wäre alles be&#255;sa<abbr type="topline" expand="mm">m</abbr>en was ich wünschte.<lbr/>
+vergesse auch den <rend class="latin">Carl</rend> nicht. &#8211;<lbr type="BD"/> Nun aber das nothwendigste; &#8211; du must<lbr/>
+einen vertrauten Menschen |: <rend class="latin">Sat<lbr type="BD"/>mann</rend> oder so Jemand :| mitnehmen,<lbr/>
+welcher dann in meinem Wagen mit<lbr type="BD"/> meiner <rend class="latin">Bagage</rend><lbr/>
+auf die Mauth fährt, damit <u>ich</u> nicht diese unöthige<lbr/>
+<rend class="latin">seccatura</rend><lbr type="BD"/> habe, sondern mit euch lieben leuten nach<lbr/>
+hause fahren kann. &#8211; aber gewis! &#8211; <lbr type="forced"/>
+Nun <rend class="latin">adieu</rend> &#8211; ich küsse dich Millionenmal<lbr/>
+und bin Ewig<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_______</ts><tshtm>___________________________________________________________</tshtm><tspdf>\hfill </tspdf>dein getreuester gatte<lbr type="BD"/><lbr type="forced"/>
+<ts>_______</ts><tshtm>_____________________________________________________________</tshtm><tspdf>\hfill </tspdf>W: A: Mozart <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<pg n="4"/><tspdf>\newpage </tspdf>
+<anschrift rot="90"><rend class="latin">À<lbr type="forced"/>
+Madame<lbr type="forced"/>
+Madame Constance de Mozart<lbr type="forced"/>
+née de Weber<lbr type="forced"/>
+<ts>_______________</ts><tshtm>__________</tshtm>à</rend><lbr type="BD"/><lbr type="forced"/>
+<u>auf dem hohen Markt</u><lbr type="forced"/>
+<u>im walseckischen hause</u><ts>__</ts><tshtm>__</tshtm><rend class="latin"><uu>Vienne</uu>.</rend><lbr type="forced"/>
+<u>be&#255; h<abbr type="curve">:</abbr> von<lbr type="BD"/> Puchberg</u>.</anschrift>
+</NI></letter>
+</text>
+</MUP>

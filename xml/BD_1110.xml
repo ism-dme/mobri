@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2014">2014-5</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1680</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Verbleib unbekannt</bibl>
+            <bibl type="source" subtype="RISM">Verbleib unbekannt</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:42:03 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_1110.mup">
+<letter bd="1110"><NI src="Erstdruck"><HEADER id="1680">WOLFGANG AMADÉ MOZART AN CONSTANZE MOZART IN BADEN BEI WIEN<lbr/>
+WIEN, VOR DEM 19. AUGUST 1789</HEADER>
+<pg n="1"/>
+<ts>___________</ts><tshtm>_______</tshtm>Allerliebstes Weibchen! &#8211; <lbr type="forced"/>
+<ts>____</ts>Mit Vergnügen erhielt ich Dein liebes Schreiben &#8211; hoffe daß Du gestern mein<lbr type="BD"/>
+2tes sammt <rend class="latin">Decoctum</rend>, Latwerge und Ameiseyer wirst erhalten haben. &#8211; Morgen<lbr type="BD"/>
+früh 5 Uhr segle ich ab &#8211; wenn es nicht wäre blos um das Vergnügen zu<lbr type="BD"/>
+haben, Dich wieder zu sehen und wieder zu umarmen, so würde ich noch nicht<lbr type="BD"/>
+hinausfahren, weil man ietzt bald <rend class="latin">Figaro</rend> geben wird, wozu ich einige Ab<lbr type="BD"/>änderungen
+zu machen habe und folglich bei den Proben nothwendig bin &#8211;<lbr type="BD"/>
+ich werde wohl auf den 19ten wieder herein müssen &#8211; aber bis 19ten hier zu<lbr type="BD"/>
+bleiben <u>ohne Dich</u>, das wäre mir unmöglich; &#8211; liebes Weibchen! &#8211; ich will<lbr type="BD"/>
+ganz aufrichtig mit Dir sprechen, &#8211; Du hast gar keine Ursache traurig zu<lbr type="BD"/>
+seyn &#8211; Du hast einen Mann der Dich liebt, der Dir alles, was er nur im Stande<lbr type="BD"/>
+ist, thut &#8211; was Deinen Fuß anbelangt, brauchst Du nur Gedult zu haben, es<lbr type="BD"/>
+wird gewis ganz gut gehen; &#8211; mich freut es ja, wenn Du lustig bist &#8211; gewis &#8211;<lbr type="BD"/>
+nur wünschte ich daß Du Dich bisweilen nicht so gemein machen möchtest &#8211;<lbr type="BD"/>
+mit N. N. machst Du mir zu freye . . . ebenso mit N. N. als er noch in Baaden<lbr type="BD"/>
+war, &#8211; bedenke nur daß N. N. mit keinem Frauenzimmer, die sie vielleicht<lbr type="BD"/>
+besser kennen als Dich, so grob sind, als mit Dir, selbst N. N. der sonst ein<lbr type="BD"/>
+artiger Mensch ist und besonders für Frauenzimmer hochachtungsvoll ist,
+selbst er muß dadurch verleitet worden seyn, in seinem Briefe die abscheulich<lbr type="BD"/>sten
+und gröbsten Sottisen zu schreiben &#8211; ein Frauenzimmer muß sich immer<lbr type="BD"/>
+in Respekt erhalten &#8211; sonst kömmt sie in das Gerede der Leute &#8211; meine Liebe! &#8211;<lbr type="BD"/>
+verzeihe mir daß ich so aufrichtig bin, alleine meine Ruhe erheischt es sowohl<lbr type="BD"/>
+als unsre beiderseitige Glückseeligkeit &#8211; erinnere Dich nur daß Du mir einmal<lbr type="BD"/>
+selbst eingestanden hast, daß Du zu <u>nachgebend seyst</u> &#8211; Du kennst die Folgen<lbr type="BD"/>
+davon &#8211; erinnere Dich auch des Versprechens welches Du mir thatst &#8211; O Gott!<lbr type="BD"/>
+&#8211; versuche es nur, meine Liebe! &#8211; sey lustig und vergnügt und gefällig mit<lbr type="BD"/>
+mir &#8211; quäle Dich und mich nicht mit unnöthiger Eifersucht &#8211; habe Vertrauen<lbr type="BD"/>
+in meine Liebe, Du hast ja doch Beweise davon! &#8211; und Du wirst sehen wie<lbr type="BD"/>
+vergnügt wir seyn werden, glaube sicher, nur das kluge Betragen einer Frau<lbr type="BD"/>
+kann dem Mann Fesseln anlegen &#8211; <rend class="latin">adjeu</rend> &#8211; morgen küsse ich dich von Herzen.<lbr type="forced"/>
+<ts>__________</ts><tshtm>______________________________________________________________________________________________________________</tshtm><tspdf>\hfill </tspdf>Mozart.
+</NI></letter>
+</text>
+</MUP>

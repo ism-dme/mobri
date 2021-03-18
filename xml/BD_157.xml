@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2011">2011-05</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=718</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:37:02 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_157.mup">
+<letter bd="157"><HEADER id="718">LEOPOLD MOZART AN MARIA ANNA MOZART IN SALZBURG<lbr/>
+MAILAND, 26. JANUAR 1770</HEADER>
+
+<pg n="1"/>
+<add_note schr_id="57010">Zeit.blatt v. Mantua.</add_note>
+<add_note type="inline" schr_id="57010">Poesie von einer Dame in M.,</add_note><ts>__________________</ts><tspdf>\hfill </tspdf><u>Ma&#255;land</u> d<abbr v="en"/> 26<h>t<abbr v="en"/></h>&#160;<u>Je<abbr type="topline" expand="nn">n</abbr>er 1770.</u><lbr type="forced"/>
+<add_note schr_id="57010"><ts>_______</ts><rend class="latin">Signora Sartoretti</rend>!</add_note>
+<tspdf>\newline</tspdf>
+Dein Schreib<abbr v="en"/> vom 12<h>t<abbr v="en"/></h> habe von h<abbr type="curve">:</abbr> Troger richtig empfang<abbr v="en"/>. d<abbr v="en"/> 23<h>t<abbr v="en"/></h> Mittags<lbr/>
+langt<abbr v="en"/> wir in Ma&#255;land an, den 24<h>t<abbr v="en"/></h> kam dein Brief, und zugleich auch dein<lbr/>
+erstes Schreib<abbr v="en"/>, welches, auf mein Ersuch<abbr v="en"/>, h<abbr type="curve">:</abbr> Anton von Gu<abbr type="topline" expand="mm">m</abbr>er auf der<lbr/>
+Post in Botz<abbr v="en"/> hat such<abbr v="en"/> lass<abbr v="en"/>, und mir eingeschicket hat. Du beklagest dich,<lbr/>
+daß du 3 woch<abbr v="en"/> von mir kein Schreib<abbr v="en"/> erhalt<abbr v="en"/>, da ich dir doch von <rend class="latin">Verona</rend><lbr/>
+und von Mantua geschrieb<abbr v="en"/> habe. das erste von <rend class="latin"><u>Verona</u></rend> hättest du bereits<lbr/>
+erhalt<abbr v="en"/> soll<abbr v="en"/>, indem ich es d<abbr v="en"/>&#160;<u>7<h>t<abbr v="en"/></h> Je<abbr type="topline" expand="nn">n</abbr>er</u> alda auf die Post gegeb<abbr v="en"/>. das 2<h>te</h><lbr/>
+ko<abbr type="topline" expand="nn">n</abbr>te noch nicht in Salzb<abbr type="curve">:</abbr> se&#255;n, den ich gab es erst <u>den 15<h>t<abbr v="en"/></h> zu </u><rend class="latin"><u>Mantua</u></rend><lbr/>
+auf die Post. Den 10<h>t<abbr v="en"/></h> sind wir Mittags von <rend class="latin">Verona</rend> abgereist und abends<lbr/>
+in Mantua eingetroff<abbr v="en"/>, das habe ich dir, glaublich, schon geschrieb<abbr v="en"/>. Ich wünschte<lbr/>
+daß du den ort geseh<abbr v="en"/> hättest, wo die <rend class="latin">accademia</rend> war: nämlich das so genannte<lbr/>
+<rend class="latin"><u>Theatrino della Academia Philarmonica</u></rend>. Ich habe in meinem Leb<abbr v="en"/> von dieser<lbr/>
+Art nichts schöners gesehen; und da ich hoffe, <u>daß du alle briefe fleisig auf<pc force="weak">=</pc><lbr/>behalt<abbr v="en"/> wirst,</u> so werde dir solches seiner Zeit beschreib<abbr v="en"/>. Es ist kein <rend class="latin">Theater</rend>,<lbr/>
+sondern ein wie die <rend class="latin">opern</rend>Hauser gebauter Saal mit <rend class="latin">Logen</rend>; wo das<lbr/>
+<rend class="latin">Theater</rend> stehen soll, ist eine Erhehung für die Musik, und hinter<lbr/>
+der Musik abermahl eine, wie <rend class="latin">Logen</rend>, gebaute <rend class="latin">gallerie</rend> für die Zuhörer.<lbr/>
+Die Menge d<abbr v="er"/> Menschen, &#8211; &#8211; das zuruffen, klatschen, Lerm<abbr v="en"/>, und <rend class="latin">Bravo</rend><lbr/>
+über <rend class="latin">Bravo</rend>, &#8211; kurz, das allgemeine Zuruff<abbr v="en"/>, und die Bewunderung<lbr/>
+so die Zuhörer zeigt<abbr v="en"/> ka<abbr type="topline" expand="nn">n</abbr> ich dir nicht genug beschreib<abbr v="en"/>.<lbr type="forced"/>
+Ich zweifle nicht es werd<abbr v="en"/> unterdess<abbr v="en"/> einige Nachricht<abbr v="en"/> so wohl von <rend class="latin">Roveredo</rend>,<lbr/>
+als von <rend class="latin">Verona</rend> und <rend class="latin">Mantova</rend> nach Salzb<abbr type="curve">:</abbr> geko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/> se&#255;n. Melde, nebst<lbr/>
+meiner unterthänigst<abbr v="en"/> Empfehlung, be&#255; S:<h>r</h>&#160;<rend class="latin">Ex<abbr type="curve">:</abbr></rend> Graf<abbr v="en"/> und Gräfin <abbr expand="von">v</abbr>&#160;<rend class="latin">Arco</rend>, daß<lbr/>
+wir in dem Gräfl: <rend class="latin">Eugenio Arcoisch<abbr v="en"/></rend> hause in Mantua alle gnad<abbr v="en"/> und Höflich<pc force="weak">=</pc><lbr/>keit<abbr v="en"/> empf<abbr type="curve">:</abbr> hab<abbr v="en"/>. Hingeg<abbr v="en"/> haben wir nicht das Glück gehabt be&#255; T<abbr type="curve">:</abbr> h<abbr type="curve">:</abbr><lbr/>
+Fürst<abbr v="en"/> von <rend class="latin">Taxis</rend> zur <rend class="latin">audienz</rend> zu ko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>. daß sie nothwendig briefe zu<lbr/>
+schreib<abbr v="en"/> hatte habe dir bereits <abbr expand="von">v</abbr> Mantua geschrieb<abbr v="en"/>. den Tag darauf gieng<abbr v="en"/><lbr/>
+wir vormittag hin. Sie war<abbr v="en"/> aber be&#255;de in die Kirche: wir gieng<abbr v="en"/> ebenfals<lbr/>
+in die Kirche; und nachdem sie nach Hause gefahr<abbr v="en"/>, so folgt<abbr v="en"/> wir der Kutsche<lbr/>
+etwa auf 50 Schritte nach, so, daß, da wir im Hause war<abbr v="en"/>, d<abbr v="er"/> Kutscher<lbr/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal><lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="2"/>
+im Hofe umwand. Allein, da wir uns in demselb<abbr v="en"/> Augenblicke meld<abbr v="en"/><lbr/>
+liess<abbr v="en"/>, hiess es: der Fürst hätte itzt nothwendige Verrichtung<abbr v="en"/> &#8211; &#8211; <lbr/>
+und könnte uns nicht sprech<abbr v="en"/>, wir müst<abbr v="en"/> gleichwohl ein anders mahl<lbr/>
+ko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>. Das Gesicht, die zitterende Sti<abbr type="topline" expand="mm">m</abbr>e des Bedient<abbr v="en"/> und seine halb<pc force="weak">=</pc><lbr/>gebrochn<abbr v="en"/> Worte zeigt<abbr v="en"/> mir gleich, daß der h<abbr type="curve">:</abbr> Fürst keine Lust uns<lbr/>
+zu seh<abbr v="en"/> habe; behüte mich der Hi<abbr type="topline" expand="mm">m</abbr>el, daß ich iemand in sein<abbr v="en"/> Geschäft<abbr v="en"/> stöhr<abbr v="en"/><lbr/>
+sollte: sonderlich da ich noch über dieß dessweg<abbr v="en"/> weit lauff<abbr v="en"/> oder ein<abbr v="en"/><lbr/>
+Lehnwag<abbr v="en"/> bezahl<abbr v="en"/> sollte. Zum Glücke hab<abbr v="en"/> wir be&#255;de, dadurch,<lbr/>
+daß wir uns nicht in der Nähe geseh<abbr v="en"/>, nichts verlor<abbr v="en"/> |: da<abbr type="topline" expand="nn">n</abbr> wir sah<abbr v="en"/> uns<lbr/>
+in d<abbr v="er"/> <rend class="latin">opera</rend> in d<abbr v="er"/> ferne :| sondern ich ersparte das Geld hinzufahr<abbr v="en"/>,<lbr/>
+und S: <rend class="latin">E.</rend> h<abbr type="curve">:</abbr> Fürst die Angst, die er etwa hatte, verbund<abbr v="en"/> zu se&#255;n uns<lbr/>
+einige kleine Höflichkeit<abbr v="en"/>, für die am Salzb<abbr type="curve">:</abbr> Hofe und von d<abbr v="er"/> Salzb<abbr type="curve">.</abbr>&#160;<rend class="latin">Noblesse</rend><lbr/>
+empf<abbr type="curve">:</abbr> Ehr<abbr v="en"/>, wieder entgeg<abbr v="en"/> zu erweisen. Dieses schreibe dir nur zu<lbr/>
+deiner Wissenschaft, nicht daß es mir Le&#255;d thut, de<abbr type="topline" expand="nn">n</abbr> ich möchte eben auch nicht<lbr/>
+daß iemand in Salzb<abbr type="curve">:</abbr> glaub<abbr v="en"/> sollte, als hätte ich an d<abbr v="er"/> gut<abbr v="en"/> Art, mein<abbr v="en"/> Besuch dem<lbr/>
+Fürst<abbr v="en"/> zu mach<abbr v="en"/>, es ermangeln lass<abbr v="en"/>.<lbr type="forced"/> 
+Hier schlüsse dir abermahl eine Po&#235;sie be&#255;, die von einer <rend class="latin">Dame</rend>&#160;<suppl hand="self" pos="supra"><rend class="latin">Sig<h>ra</h>: Sartoretti</rend></suppl> ko<abbr type="topline" expand="mm">m</abbr>t, be&#255; der<lbr/>
+wir in <rend class="latin">Mantua</rend> zu Gast war<abbr v="en"/>. den Tag darauf kam d<abbr v="er"/> Bediente und brachte<lbr/>
+auf einer schön<abbr v="en"/> schaale einen ungemein schön<abbr v="en"/> Blumenstraus, an dem unt<abbr v="en"/> rothe<lbr/>
+bänder und in der Mitte der bänder eine <rend class="latin">Medaille</rend> von 4 Duccatt<abbr v="en"/> einge<pc force="weak">=</pc><lbr/>flocht<abbr v="en"/> lag; oben darauf war die <rend class="latin">Pœsie</rend> so hier <rend class="latin">Copie</rend>rt folget.<lbr type="forced"/>
+Ich ka<abbr type="topline" expand="nn">n</abbr> dich versichern, daß noch an iedem Orte durchaus die Liebst<abbr v="en"/> Leute<lbr/>
+gefund<abbr v="en"/> habe, und aller Ort<abbr v="en"/> fand<abbr v="en"/> wir unsere besond<abbr v="er"/><abbr v="en"/> Leute, die bis den<lbr/>
+letzt<abbr v="en"/> Augenblick unserer Abreise be&#255; uns waren, und alle ihre Kräft<abbr v="en"/> ange<pc force="weak">=</pc><lbr/>wandt uns den Aufenthalt angenehm zu mach<abbr v="en"/>. Also war<lbr/>
+z: E: das Grafl: Spaurische Hause <u>in Insprugg.</u> der <rend class="latin">Baron Pizzini</rend>, Graf<lbr/>
+<rend class="latin">Lodron, Cristani, Cosmi</rend>&#160;<abbr expand="etc">p</abbr>&#160;<u>in <rend class="latin">Roveredo</rend></u>. <rend class="latin">Il Conte Carlo Emilij,</rend><lbr/>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="3"/>
+<rend class="latin">Marchese Carlotti, comte Justi</rend>, das Hauß <rend class="latin">Luggiatti</rend>, und absond<abbr v="er"/>l: h<abbr type="curve">:</abbr><rend class="latin">Locatelli</rend><lbr/>
+<u>in <rend class="latin">Verona</rend></u>. Da<abbr type="topline" expand="nn">n</abbr> in <rend class="latin"><u>Mantua</u></rend> das Graf <rend class="latin">Arcoi</rend>sche Hauß, und absond<abbr v="er"/>l:<lbr/>
+ein gewisser <rend class="latin">Sigr: Bettinelli</rend>, welcher samt seinem Brud<abbr v="er"/>, und seines<lbr/>
+Bruders Frau völlig zu unsern Dienst<abbr v="en"/> war<abbr v="en"/>. Die Frau war wirklich, wie<lbr/>
+eine Mutter für den Wolfgangl. besorget, und wir verliess<abbr v="en"/> einand<abbr v="er"/> mit weinend<abbr v="en"/><lbr/>
+Aug<abbr v="en"/>. hier schlüsse auch die Zeitung von <rend class="latin">Mantua</rend> be&#255;, die wir erst hier<lbr/>
+in Mayland beko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>. Auch findest du, die Ordnung der Musik gedruckter,<lbr/>
+was in der <rend class="latin">Accademia</rend> gemacht word<abbr v="en"/>. du must aber wiss<abbr v="en"/>, daß wed<abbr v="er"/><lbr/>
+diese <rend class="latin">accademia</rend> in Mantua, noch die in <rend class="latin">Verona</rend> fürs Geld gemacht wird;<lbr/>
+sondern alles gehet fre&#255; hinein. in <rend class="latin">Verona</rend> nur die <rend class="latin">Noblesse</rend>, weil es von<lbr/>
+ihn<abbr v="en"/> nur allein unterhalt<abbr v="en"/> wird: in <rend class="latin">Mantua</rend> aber, <rend class="latin">Noblesse, Militaire</rend><lbr/>
+und ansehnliche Burgerschaft; weil es von S:<h>r</h> Mayst<abbr type="curve">.</abbr> der Kayserin<lbr/>
+eine Stiftung hat. Du wirst aber daraus leicht schlüss<abbr v="en"/>, daß wir in Itali<abbr v="en"/><lbr/>
+nicht reich werd<abbr v="en"/>, und du weist, daß genug gethan ist, we<abbr type="topline" expand="nn">n</abbr> man seine Reiseköst<abbr v="en"/><lbr/>
+machet. Diese habe auch allzeit gemacht: und du ka<abbr type="topline" expand="nn">n</abbr>st versichert se&#255;n, daß,<lbr/>
+ob wir gleich nur 2 Person<abbr v="en"/> sind, de<abbr type="topline" expand="nn">n</abbr>och die Reiseköst<abbr v="en"/> nicht klein sind: de<abbr type="topline" expand="nn">n</abbr> wir hab<abbr v="en"/> bereits<lbr/>
+in die <u>70 duccatt<abbr v="en"/></u> ausgegeb<abbr v="en"/>. Es werd<abbr v="en"/> aber auch schon |: da dieses schreibe :| 6 Woch<abbr v="en"/><lbr/>
+vorbe&#255; se&#255;n, daß wir Salzb<abbr type="curve">:</abbr> verlass<abbr v="en"/> hab<abbr v="en"/>, und we<abbr type="topline" expand="nn">n</abbr> man gleich <rend class="latin">à pasto</rend> Lebet, und<lbr/>
+über dieses vielmahls, ja meistens nicht zu Hause speiset, so ist doch das Nacht<pc force="weak">=</pc><lbr/>ess<abbr v="en"/>, zi<abbr type="topline" expand="mm">m</abbr>er, Holz <abbr expand="etc:">p:</abbr> alles so theuer, daß man unter 6 duccatt<abbr v="en"/> aus keinem<lbr/>
+WirthsHause ko<abbr type="topline" expand="mm">m</abbr>t, wo man 9 bis 11 täge sich aufhält. Ich danke vielmahl<lbr/>
+meinem Gott, daß ich euch zu Hause gelass<abbr v="en"/>. Erstens würdet ihr die kälte nicht<lbr/>
+hab<abbr v="en"/> aussteh<abbr v="en"/> könn<abbr v="en"/>. zwe&#255;tens hätte es erstaunlich Geld gekostet, und wir hätt<abbr v="en"/><lbr/>
+die Freyheit d<abbr v="er"/> wohnung nicht gehabt, die wir itzt hab<abbr v="en"/>: da wir itzt in Mayland<lbr/>
+<u>im Kloster d<abbr v="er"/> Augustiner di </u><rend class="latin"><u>S: Marco</u></rend><u> wohn<abbr v="en"/>;</u> nicht, daß wir etwa alda fre&#255;<lbr/>
+sind, nein! sond<abbr v="ern"/>, daß wir alda beque<abbr type="topline" expand="mm">m</abbr>, sicher, und nahe be&#255; S:<h>r</h>&#160;<rend class="latin">Ex<abbr type="curve">:</abbr></rend><lbr/>
+Graf <rend class="latin">Firmian</rend> wohnen kö<abbr type="topline" expand="nn">n</abbr><abbr v="en"/>. wir hab<abbr v="en"/> 3 grosse Gastzi<abbr type="topline" expand="mm">m</abbr>er. in dem erst<abbr v="en"/> Zi<abbr type="topline" expand="mm">m</abbr>er<lbr/>
+Bre<abbr type="topline" expand="nn">n</abbr><abbr v="en"/> wir feuer, speisen, und geb<abbr v="en"/>&#160;<rend class="latin">audienz:</rend> im Zwe&#255;t<abbr v="en"/> schlafe ich, und stehet<lbr/>
+das <rend class="latin">Coffre</rend>; im dritt<abbr v="en"/> schläft der Wolfg<abbr type="curve">:</abbr> und die and<abbr v="er"/>e kleine <rend class="latin">bagage</rend>&#160;<abbr expand="etc:">p:</abbr><lbr/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal><lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="4"/> 
+wir schlaff<abbr v="en"/> ied<abbr v="er"/> auf 4 gut<abbr v="en"/> Materatz<abbr v="en"/>, und alle Nacht wird das Bette eingewärmt;<lbr/>
+so daß der Wolfg<abbr type="curve">:</abbr> be&#255;m schlaffengeh<abbr v="en"/> allzeit in seinem Vergnüg<abbr v="en"/> ist. wir hab<abbr v="en"/><lbr/>
+ein<abbr v="en"/> aigen<abbr v="en"/> Bruder <rend class="latin">frater Alphonso</rend> zu unserer Bedienung, und wir sind hier<lbr/>
+recht gut. wie lange wir aber hier bleib<abbr v="en"/> werd<abbr v="en"/>, ka<abbr type="topline" expand="nn">n</abbr> dir nicht sag<abbr v="en"/>. S<h>e</h>: <rend class="latin">Ex<abbr type="curve">:</abbr></rend> h<abbr type="curve">:</abbr><lbr/>
+Graf sind an einem Catharr unbässlich, und wollt<abbr v="en"/> gerne eine <rend class="latin">Accademia</rend> in<lbr/>
+ihrem Hause geb<abbr v="en"/> und d<abbr v="en"/> Herzog <abbr expand="von">v</abbr>&#160;<rend class="latin">Modena</rend> dazu einlad<abbr v="en"/>, ich konnte dem<pc force="weak">=</pc><lbr/>nach die ander<abbr v="en"/> Briefe noch nicht überreich<abbr v="en"/>; weil dieß zuerst gescheh<abbr v="en"/> muß.<lbr/>
+die <rend class="latin">Accademie</rend> wird aber glaublich künftig<abbr v="en"/> Erchtag od<abbr v="er"/> Mittwoch se&#255;n, indem sich<lbr/>
+S<h>e</h>: <rend class="latin">Ex<abbr type="curve">:</abbr></rend> schon etwas besser befindet. Ich hab dir geschrieb<abbr v="en"/>, daß der Wolfg<abbr type="curve">:</abbr><lbr/>
+Rothe Hände und ein rothes Gesicht von d<abbr v="er"/> Kälte und vom Feuer beko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/> hat.<lbr/>
+alles ist wied<abbr v="er"/> gut. Die <rend class="latin">Madame Sartoretti</rend> in <rend class="latin">Mantua</rend> hat ihm eine<lbr/>
+<rend class="latin">Pomade</rend> gegeb<abbr v="en"/> abends die Hände zu schmier<abbr v="en"/>, und in 3 Tag<abbr v="en"/>, war es besser:<lbr/>
+nun sieht er wie vorhero aus. <u>wir war<abbr v="en"/> übrigens, Gott Lob, i<abbr type="topline" expand="mm">m</abbr>er gesund</u>, und<lbr/>
+die Luftveränderung hat dem Wolfg<abbr type="curve">:</abbr> nur ein<abbr v="en"/> Strauch<abbr v="en"/> verursachet, der auch<lbr/>
+längst vorbe&#255; ist. Den h<abbr type="curve">:</abbr> Meissner werd<abbr v="en"/> wir schwerlich in <rend class="latin">Florenz</rend> <rend class="latin">reciti</rend>er<abbr v="en"/> seh<abbr v="en"/>,<lbr/>
+weil nicht nur hier unser Aufenthalt etwas lange se&#255;n wird, sond<abbr v="ern"/>, weil wir,<lbr/>
+da <rend class="latin">Torino</rend> so nahe ist, ohnfehlbar ein<abbr v="en"/> sprung dahin mach<abbr v="en"/> werd<abbr v="en"/>. In Parma<lbr/>
+und <rend class="latin">Bologna</rend> halt<abbr v="en"/> wir uns auch ein wenig auf, folglich werd<abbr v="en"/> wir glaublich<lbr/>
+erst anfangs der Fast<abbr v="en"/> nach <rend class="latin">Florenz</rend> ko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>.<lbr type="forced"/>
+Was das Pferd anbelanget, so magst du es verkauff<abbr v="en"/> wie du willst oder aus<pc force="weak">=</pc><lbr/>spiel<abbr v="en"/> lass<abbr v="en"/> oder gar verschenk<abbr v="en"/>, ich will, daß es S<h>r</h>: Hochf<abbr type="curve">:</abbr> Gnad<abbr v="en"/> aus dem Stall<lbr/>
+ko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/> solle. der alte Sattl <abbr expand="etc:">p:</abbr> ist im Stall, d<abbr v="er"/> <u>HofStaller</u> muß es wiss<abbr v="en"/>.<lbr type="forced"/>
+We<abbr type="topline" expand="nn">n</abbr> man es mit dem neu<abbr v="en"/> Sattl und Zaum verkauff<abbr v="en"/> ka<abbr type="topline" expand="nn">n</abbr>, so kan es vielleicht<lbr/>
+theurer verkauft werd<abbr v="en"/>. <u>Mein<abbr v="en"/> Wag<abbr v="en"/></u> kannst du auch verkauff<abbr v="en"/> lass<abbr v="en"/>. Er wird<lbr/>
+nicht besser: und keine grosse Reise mach<abbr v="en"/> wir ni<abbr type="topline" expand="mm">m</abbr>ermehr. verkaufe ihn so gut<lbr/>
+du kannst, er hat seine dienste gethann. Das Riemwerk ist noch gut. er hat mich<lbr/>
+anfangs nur <u>23 duccatt<abbr v="en"/></u> gekostet. Rede mit Leut<abbr v="en"/>, die es versteh<abbr v="en"/>. mir ist alles<lbr/>
+recht: aber ehe man ihn feil biethet, muß er gebutzt werd<abbr v="en"/>. Alle briefe so<lbr/>
+du künftig schreibst <u><rend class="latin">addressi</rend>ere an <rend class="latin">Mr: Troger</rend></u>, so wie du letztlich gethann.<lbr/>
+Meine Empfehlung an alle freunde und freundin<abbr v="en"/> in und ausser dem hause.<lbr/>
+ich bin dein alter redlicher<lbr type="forced"/>
+<ts>___________</ts><tshtm>__________________________________________________________</tshtm><tspdf>\hfill </tspdf><u>L Mzt <abbr expand="manu propria">mp</abbr></u><lbr type="forced"/>
+Wir küssen Euch be&#255;de 10<ovl>00</ovl> Mahl.<lbr/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal><lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal></letter></text>
+</MUP>

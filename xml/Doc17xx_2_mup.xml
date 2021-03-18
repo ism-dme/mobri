@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2014">2014-8</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=20</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:25:49 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/Doc17xx_2_mup.txt">
+<HEADER id="20">MAGISTRAT DER STADT SALZBURG, LISTE DER BEWOHNER DES TANZMEISTERHAUSES<lbr/>
+SALZBURG, VOR 1795</HEADER>
+
+<pg n="1"/>
+<table rows="8" cols="3">
+<tr><td><rend class="latin">Auf<lbr type="forced"/>die<lbr type="forced"/>Frag=<lbr type="forced"/>stücke.</rend></td>
+<td><rend class="latin">Im Tanzmeister Hause.<ts>_________________________________</ts></rend><lbr type="forced"/>
+<ts>____________________________</ts><add_num type="inline" impl="pencil">585</add_num></td>
+<td><rend class="latin">Darin woh=<lbr type="forced"/>nende Perso=<lbr type="forced"/><ts>_____</ts>nen</rend>.</td></tr>
+<tr><td><ts>__</ts></td><td><rend class="latin">Uber zwey Stiegen vorn und</rend><lbr type="forced"/>hinten hinaus.</td><td><rend class="latin">Unter<ts>___</ts>Von<ts>____</ts>Von<lbr type="forced"/>
+16<ts>________</ts>16<ts>_____</ts>60<lbr type="forced"/>
+Jahren.<ts>__</ts>bis<ts>___</ts>und<lbr type="forced"/>
+<ts>____________</ts>59<ts>_____</ts>darü<pc force="weak">=</pc><lbr type="forced"/><ts>__________</ts>Jahren<ts>___</ts>ber.</rend></td></tr>
+<tr><td><ts>__</ts></td><td><rend class="latin">Eigenthümer.</rend> H<abbr type="curve">.</abbr> Ign. Raab, K.K.<lbr type="forced"/><ts>___</ts>Hof und GerichtsAdvok. in Wien.</td><td><ts>__</ts><add_num color="red" impl="crayon">395</add_num></td></tr>
+<tr><td>1</td><td>Tit<abbr type="curve">.</abbr> Frau Gräfinn von Kuenburg, geb.<lbr type="forced"/>Freyinn von Rollingen, Wittfrau, von<lbr type="forced"/>
+Mainz gebürtig, 76 Jahre alt,</td><td><ts>__</ts></td></tr>
+<tr><td>2-5</td><td><ts>_________</ts>&#8212;<ts>________</ts>&#8212;<ts>________</ts>&#8212;<ts>________</ts>&#8212;</td><td><ts>__</ts></td></tr>
+<tr><td>6</td><td>Ein Bedienter, Georg Hofer, von<lbr type="forced"/>Wetterfeld aus der obern Pfalz gebür=<lbr type="forced"/>tig, 50 Jahre alt,</td><td><ts>__</ts></td></tr>
+<tr><td>7</td><td>Eine Ka<abbr type="topline" expand="mm">m</abbr>er Jungfer, Amalie Geisler,<lbr type="forced"/>
+aus Woschitz in Böhmen, 26 Jahre alt,<lbr type="forced"/>
+Ein Stuben Mädchen Vicktor. Tiefen<pc force="weak">=</pc><lbr type="forced"/>thalerinn, 26 Jahre alt, von hier,<lbr type="forced"/>
+Eine Köchinn, Kordula Danaltli<abbr type="topline" expand="nn">n</abbr>,<lbr type="forced"/>
+von Feldkirchen im I<abbr type="topline" expand="nn">n</abbr>viertel, 32 Jahre<lbr type="forced"/>alt</td><td><ts>__</ts></td></tr>
+<tr><td><ts>__</ts></td><td><ts>_________________________________________________</ts>Hinüber</td><td><ts>___</ts>&#8211;<ts>________</ts>4<ts>_________</ts>1</td></tr></table>
+<tspdf>\newpage</tspdf>
+<pg n="2"/>
+<table rows="8" cols="3">
+<tr><td><rend class="latin">Auf<lbr type="forced"/>die<lbr type="forced"/>Frag=<lbr type="forced"/>stücke.</rend></td>
+<td><ts>__</ts></td>
+<td><rend class="latin">Darin woh=<lbr type="forced"/>nende Perso=<lbr type="forced"/><ts>_____</ts>nen.</rend></td></tr>
+<tr><td><ts>__</ts></td><td><ts>__</ts></td><td><rend class="latin">Unter<ts>___</ts>Von<ts>____</ts>Von<lbr type="forced"/>
+16<ts>________</ts>16<ts>_____</ts>60<lbr type="forced"/>
+Jahren<ts>__</ts>bis<ts>____</ts>Jahren<lbr type="forced"/>
+<ts>____________</ts>59<ts>_____</ts>und<lbr type="forced"/>
+<ts>_______</ts>Jahren<ts>___</ts>dar=</rend><lbr type="forced"/>
+<ts>___________________</ts>über.</td></tr>
+<tr><td><ts>__</ts></td><td><ts>______________________________________</ts>Herüber<lbr type="forced"/>Küchen Magd Rosina Stillerinn von<lbr type="forced"/>Wasserburg aus Bayern gebürtig, 17<lbr type="forced"/>Jahre alt.</td><td><ts>___</ts>&#8211;<ts>________</ts>4<ts>_________</ts>1</td></tr>
+<tr><td>8-9</td><td><ts>_________</ts>&#8212;<ts>________</ts>&#8212;<ts>________</ts>&#8212;<ts>________</ts></td><td><ts>__</ts></td></tr>
+<tr><td><ts>__</ts></td><td><ts>____________________</ts>Personen in allen</td><td><ts>___</ts>&#8211;<ts>________</ts>5<ts>_________</ts>1</td></tr>
+<tr><td><ts>__</ts></td><td><ts>____________________</ts>Vom Mänlichen ins Bes.</td><td><ts>___</ts>&#8211;<ts>________</ts>1<ts>_________</ts>&#8211;</td></tr>
+<tr><td><ts>__</ts></td><td><ts>__</ts></td><td><ts>__</ts></td></tr>
+<tr><td><ts>__</ts></td><td><ts>____________________</ts><rend class="latin">joseph gräffin</rend> von<lbr type="forced"/><ts>____________________</ts><rend class="latin">Khüenbourg Baro<abbr type="topline" expand="nn">n</abbr>e</rend> von <lbr type="forced"/><ts>____________________</ts><rend class="latin">Rollinger</rend>&#160;<abbr_mp expand="manu propria">mp</abbr_mp>&#160;<lbr type="forced"/><ts>___________________________</ts><rend class="latin"><u>witib.</u></rend></td></tr></table>
+<pg n="3"/>
+<tspdf>\newpage</tspdf>
+<table rows="8" cols="3">
+<tr><td><rend class="latin">Auf<lbr type="forced"/>
+die<lbr type="forced"/>
+Frag=<lbr type="forced"/>stücke.</rend></td><td><rend class="latin">Das TanzmeisterHaus im Hanibal</rend><lbr type="forced"/><ts>_____</ts>Garten, im Unterbruck<lbr type="forced"/>
+<ts>________________</ts>Viertl.<lbr type="forced"/>
+<rend class="latin">Dessen Eigenschaft.</rend><lbr type="forced"/>
+<ts>_______________________</ts>Magistraturbari<abbr type="curve"></abbr></td><td><rend class="latin">Darin<lbr type="forced"/>wohnhafte<lbr type="forced"/>Personen.</rend></td></tr>
+<tr><td><ts>__</ts></td><td><rend class="latin">Zu ebenem Fusze gegen die</rend><lbr type="forced"/>
+<ts>______</ts>Stadtmauer, linker Hand.<lbr type="forced"/><lbr type="forced"/><lbr type="forced"/>
+<rend class="latin">Eigenthümer.</rend> H<abbr type="curve">.</abbr> Ign. Raab,<lbr type="forced"/>
+Fürst Lichtensteinischer Rath, und<lbr type="forced"/>K. K. Hof und Gerichts Advokat<lbr type="forced"/>in Wien.</td><td><rend class="latin">Unter<ts>___</ts>Von<ts>____</ts>Von<lbr type="forced"/>
+16.<ts>_______</ts>16<ts>_____</ts>60<lbr type="forced"/>
+Jahren<ts>__</ts>bis<ts>____</ts>Jahren<lbr type="forced"/>
+<ts>____________</ts>59<ts>_____</ts>und<lbr type="forced"/>
+<ts>_______</ts>Jahren.<ts>___</ts>darü<pc force="weak">=</pc><lbr type="forced"/><ts>______________________</ts>ber.</rend><lbr type="forced"/>
+<add_num color="red" impl="crayon">393</add_num><add_num impl="pencil">H. 585</add_num></td></tr>
+<tr><td>1</td><td>Joseph. Mayr, von Feldkirchen<lbr type="forced"/>bey Anthering, verehelichter Schop=<lbr type="forced"/>perknecht, 54 Jahre alt,</td><td><ts>__</ts></td></tr>
+<tr><td>2</td><td>Dessen Eheweib Gertraud, ge=<lbr type="forced"/>borne Prestlinn, von Mülln, 45 Jah=<lbr type="forced"/>re alt,</td><td><ts>__</ts></td><td><ts>__</ts></td></tr>
+<tr><td>3</td><td>Einen Sohn Joseph, 14 Jahre alt,<lbr type="forced"/>Zwo Töchter Gertraud 9 und He=<lbr type="forced"/>lene 6 Jahre alt.</td><td><ts>__</ts></td><td><ts>__</ts></td></tr>
+<tr><td>4-9</td><td><ts>_________</ts>&#8212;<ts>________</ts>&#8212;<ts>________</ts>&#8212;</td><td><ts>__</ts></td></tr>
+<tr><td><ts>__</ts></td><td><ts>____________________</ts>Personen in allen</td><td><ts>___</ts>3<ts>_______</ts>2<ts>________</ts>&#8211;</td></tr>
+<tr><td><ts>__</ts></td><td><ts>____________________</ts>Mänliche ins Besondere</td><td><ts>___</ts>1<ts>________</ts>1<ts>_________</ts>&#8211;</td></tr></table>
+<pg n="4"/>
+<tspdf>\newpage</tspdf>
+<table rows="10" cols="3">
+<tr><td><rend class="latin">Auf<lbr type="forced"/>die<lbr type="forced"/>Frag=<lbr type="forced"/>stücke.</rend></td><td><ts>__</ts></td><td><rend class="latin">Darin woh=<lbr type="forced"/><ts>__</ts>nende Per=<lbr type="forced"/><ts>_____</ts>sonen</rend></td></tr>
+<tr><td><ts>__</ts></td><td><rend class="latin">Zu ebenem Fusze gegen die</rend><lbr type="forced"/><ts>___</ts>Stadtmauer rechter Hand.</td><td><rend class="latin">Unter<ts>___</ts>Von<ts>____</ts>Von<lbr type="forced"/>
+16<ts>________</ts>16<ts>_____</ts>60<lbr type="forced"/>
+Jahren.<ts>__</ts>bis<ts>____</ts>und<lbr type="forced"/>
+<ts>____________</ts>59<ts>_____</ts>darü<pc force="weak">=</pc><lbr type="forced"/><ts>_______</ts>Jahren<ts>___</ts>ber</rend>.</td></tr>
+<tr><td><ts>__</ts></td><td><rend class="latin">Eigenthümer.</rend> Der obige H<abbr type="curve">.</abbr><lbr type="forced"/><ts>___</ts>Ign. Raab.</td><td><ts>__</ts></td></tr>
+<tr><td>1</td><td>Johanna Winklerinn, hies. Zim=<lbr type="forced"/>merma<abbr type="topline" expand="nn">n</abbr>s Tochter, 60 Jahre alt,<lbr type="forced"/>hat die Obsicht über d. Haus, und<lbr type="forced"/>nährt sich mit Nähen.</td><td><ts>__</ts></td></tr>
+<tr><td>2-9</td><td><ts>_________</ts>&#8212;<ts>________</ts>&#8212;<ts>________</ts>&#8212;<ts>________</ts>&#8212;</td><td><ts>__</ts></td></tr>
+<tr><td><ts>__</ts></td><td><ts>____________________</ts>Personen in allen</td><td><ts>___</ts>&#8211;<ts>________</ts>&#8211;<ts>_________</ts>1</td></tr>
+<tr><td><ts>__</ts></td><td><ts>____________________</ts>Vom Mänlichen ins Bes.</td><td><ts>___</ts>&#8211;<ts>________</ts>&#8211;<ts>_________</ts>&#8211;</td></tr>
+<tr><td><ts>__</ts></td><td><rend class="latin">Zu ebenem Fusze gegen den</rend><lbr type="forced"/><ts>___</ts>Hanibal Garten.</td><td><ts>__</ts></td></tr>
+<tr><td><ts>__</ts></td><td><rend class="latin">Eigenthümer.</rend> Der Vorige.</td><td><ts>__</ts></td></tr>
+<tr><td>1</td><td>Phil. Winkler, hiesiger Zimmer=<lbr type="forced"/>ma<abbr type="topline" expand="nn">n</abbr>s Sohn, 64 Jahre alt, ernähret</td><td><ts>__</ts></td></tr></table>
+<pg n="5"/>
+<tspdf>\newpage</tspdf>
+<table rules="none" rows="9" cols="3">
+<tr><td><rend class="latin">Auf<lbr type="forced"/>die<lbr type="forced"/>Frag=<lbr type="forced"/>stücke.</rend></td>
+<td><rend class="latin">Im Tanzmeister Hause.<ts>_________________________________</ts></rend><lbr type="forced"/>
+<ts>____________________________</ts><add_num type="inline" impl="pencil">585</add_num></td>
+<td><rend class="latin">Darin wohn=<lbr type="forced"/>hafte Personen.</rend></td></tr>
+<tr><td><ts>__</ts></td><td><rend class="latin">Uber eine Stiege von vorne</rend><lbr type="forced"/><ts>______</ts>und hinten.</td><td><rend class="latin">Unter<ts>___</ts>Von<ts>____</ts>Von<lbr type="forced"/>
+16<ts>________</ts>16<ts>______</ts>60<lbr type="forced"/>
+Jahren<ts>__</ts>bis<ts>____</ts>Jahren,<lbr type="forced"/>
+<ts>____________</ts>59<ts>_____</ts>und<lbr type="forced"/>
+<ts>_______</ts>Jahren<ts>____</ts>dar<pc force="weak">=</pc><lbr type="forced"/><ts>_____________________</ts>über</rend>.</td></tr>
+<tr><td><ts>__</ts></td><td><rend class="latin">Eigenthümer.</rend> H<abbr type="curve">.</abbr> Ign. Raab, K.<lbr type="forced"/>K. Hof und GerichtsAdvok. in Wien.</td><td><ts>__</ts><add_num color="red" impl="crayon">394</add_num></td></tr>
+<tr><td>1</td><td>Tit<abbr type="curve">.</abbr> H<abbr type="curve">.</abbr> Graf Joh. Nep. von Wicka,<lbr type="forced"/>Kämerer, Oberstlieutnant, und<lbr type="forced"/>Kriegsrath, von I<abbr type="topline" expand="nn">n</abbr>sbruck in Tyrol<lbr type="forced"/>gebürtig, 65 Jahre alt,</td><td><ts>__</ts></td></tr>
+<tr><td>2</td><td>Tit<abbr type="curve">.</abbr> Fr. Gräfinn Sophie von Wicka,<lbr type="forced"/>geborne Freyinn von Eislsperg, von<lbr type="forced"/>Wels in Oberösterreich, 53 Jahre alt,</td><td><ts>__</ts></td></tr>
+<tr><td>3</td><td>Zwo Gräfi<abbr type="topline" expand="nn">n</abbr>en Töchter, Gräfinn<lbr type="forced"/>Theres 25 Jahre alt, und Gräfinn<lbr type="forced"/>Sophie 19 Jahre alt, beyde von hier,</td><td><ts>__</ts></td></tr>
+<tr><td>4-5</td><td><ts>_________</ts>&#8212;<ts>________</ts>&#8212;<ts>________</ts>&#8212;<ts>________</ts></td><td><ts>__</ts></td></tr>
+<tr><td>6</td><td>Ein Bedienter, Stephan Heinacher,<lbr type="forced"/>von Radstatt im Pongaue gebürtig,<lbr type="forced"/>29 Jahre alt,</td><td><ts>__</ts></td></tr>
+<tr><td><ts>__</ts></td><td><ts>________________________________________</ts>Hinüber</td><td><ts>___</ts>&#8211;<ts>________</ts>4<ts>_________</ts>1</td></tr></table>
+<pg n="6"/>
+<tspdf>\newpage</tspdf>
+<table rules="none" rows="13" cols="3">
+<tr><td><rend class="latin">Auf<lbr type="forced"/>die<lbr type="forced"/>Frag=<lbr type="forced"/>stücke</rend></td>
+<td><ts>__</ts></td>
+<td><rend class="latin">Darin woh=<lbr type="forced"/>nende Personen</rend>.</td></tr>
+<tr><td><ts>__</ts></td><td><ts>__</ts></td><td><rend class="latin">Unter<ts>___</ts>Von<ts>____</ts>Von<lbr type="forced"/>
+16<ts>________</ts>16<ts>________</ts>60<lbr type="forced"/>
+Jahren<ts>__</ts>bis<ts>____</ts>Jahren<lbr type="forced"/>
+<ts>____________</ts>59<ts>_____</ts>und<lbr type="forced"/>
+<ts>_______</ts>Jahren<ts>____</ts>darübr</rend></td></tr>
+<tr><td><ts>__</ts></td><td><ts>________________________________________</ts>Herüber</td><td><ts>___</ts>&#8211;<ts>________</ts>4<ts>_________</ts>1</td></tr>
+<tr><td>7</td><td>Eine Ka<abbr type="topline" expand="mm">m</abbr>er Jungfer Barbara Sewaldi<abbr type="topline" expand="nn">n</abbr>,<lbr type="forced"/>hies. StuckKorporals Tochter, 24 Jahre<lbr type="forced"/>alt,</td><td><ts>__</ts></td></tr>
+<tr><td><ts>__</ts></td><td>Ein Stuben Mädchen Vicktoria Schönhö=<lbr type="forced"/>ferinn, von Hallein gebürtig, 19 Jah=<lbr type="forced"/>re alt,</td><td><ts>__</ts></td></tr>
+<tr><td><ts>__</ts></td><td>Eine Köchinn Theres Mairinn, hies.<lbr type="forced"/>Hofstallers Tochter, 58 Jahre alt,</td><td><ts>__</ts></td></tr>
+<tr><td><ts>__</ts></td><td>Eine Küchen Magd, von Altenmarkt nächst<lbr type="forced"/>Radstatt gebürtig, 34 Jahre alt, Helena<lbr type="forced"/>Lebehoferinn.</td><td><ts>__</ts></td></tr>
+<tr><td><ts>__</ts></td><td>Ein Garten Mensch, Gertraud Huberi<abbr type="topline" expand="nn">n</abbr><lbr type="forced"/>wohnt im Garten Häuschen auf dem<lbr type="forced"/>Walle vor dem Linzer Thore.</td><td><ts>__</ts></td></tr>
+<tr><td>8-9</td><td><ts>_________</ts>&#8212;<ts>________</ts>&#8212;<ts>________</ts>&#8212;<ts>________</ts></td><td><ts>__</ts></td></tr>
+<tr><td><ts>__</ts></td><td><ts>____________________</ts>Personen in allen</td><td><ts>___</ts>&#8211;<ts>________</ts>4<ts>_________</ts>&#8211;</td></tr>
+<tr><td><ts>__</ts></td><td><ts>____________________</ts>Mänliche ins Besonders</td><td><ts>___</ts>&#8211;<ts>________</ts>1<ts>_________</ts>1</td></tr>
+<tr><td><ts>__</ts></td><td><ts>__</ts></td><td><ts>__</ts></td></tr>
+<tr><td><ts>__</ts></td><td><ts>_________________________</ts><rend class="latin">JNepvGraf <u>Wicka</u></rend><lbr type="forced"/><ts>___________________________</ts>Oberst<rend class="latin">Lieut</rend>&#160;<abbr_mp expand="manu propria">mp</abbr_mp></td><td><ts>__</ts></td></tr></table>
+</text>
+</MUP>

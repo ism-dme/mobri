@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2014">2014-6</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1331</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-LIa</bibl>
+            <bibl type="source" subtype="RISM">A-LIa (Oberösterreichisches Landesarchiv)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:40:30 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_762.mup">
+<letter bd="762"><NI src="A-Lla"><HEADER id="1331">WOLFGANG AMADÉ MOZART AN MARIA ANNA (NANNERL) MOZART<lbr/>
+SALZBURG, 31. JULI 1783<lbr/>
+Abschrift von Leopold von Berchtold zu Sonnenburg, Innsbruck, 6. April 1836</HEADER>
+<pg n="1"/>
+<object type="draw"></object><lbr type="forced"/>
+<ts>______________________</ts><tspdf>\hfill </tspdf>Innsbruck den 6ten April 1836.<lbr type="forced"/>
+Nachstehendes ist eine getreue <rend class="latin">Copie</rend><lbr/>
+eines kleinen Gedichtes, das der<lbr/>
+berühmte und nur zu früh ver<pc force="weak">=</pc><lbr/>storbene Tonkünstler, <rend class="latin">Wolfgang<lbr/>
+Amadeus Mozart</rend>, seiner Schwe<pc force="weak">=</pc><lbr/>ster, <rend class="latin">Maria Anna Mozart</rend>, meiner<lbr/>
+geliebten Mutter sel; ein Jahr<lbr/>
+vor ihrer Verehelichung mit mei<pc force="weak">=</pc><lbr/>nem sel. Vater <rend class="latin">Johann Baptist</rend><lbr/>
+Freih: <abbr type="topline" expand="vv">v</abbr>: <rend class="latin">Berchtold</rend> zu <rend class="latin">Sonnenburg</rend>,<lbr/>
+fürstlich: Salzburg'schen Rath und<lbr/>
+Pfleger zu <rend class="latin">Hüttenstein</rend>, zu ihrem<lbr/>
+<pg n="2"/>
+Geburts=Tag machte, so ich nach deren<lbr/>
+Tod 1830. unter ihrem Nachlaß mit<lbr/>
+mehr andern fand.<lbr type="forced"/>
+Mein noch lebende Tante, <rend class="latin">Mozart's</rend><lbr/>
+Hinterlassene, und jetzt auch Wittwe<lbr/>
+ihres 2ten Gattens, des k. <rend class="latin">Dänischen<lbr/>
+Etats</rend>-Raths <rend class="latin">v. Nissen</rend>, bestättigte<lbr/>
+auf dem nämlichen Blatt, worauf<lbr/>
+dieses Gedicht geschrieben ist, die<lbr/>
+eigenhändige Schrift ihres 1sten Gat<pc force="weak">=</pc><lbr/>tens, Mozart.<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_________________</ts><tspdf>\hfill </tspdf><rend class="latin">Leopold</rend> Freih: <abbr type="topline" expand="vv">v</abbr>: <rend class="latin">Berchtold</rend><lbr type="forced"/>
+<ts>___________________________</ts><tspdf>\hfill </tspdf>zu <rend class="latin">Sonnenburg</rend><lbr type="forced"/>
+<ts>_________________</ts><tspdf>\hfill </tspdf>k. k. vereinter <rend class="latin">Cameral</rend><pc force="weak">=</pc><lbr type="forced"/><ts>_________________</ts><tspdf>\hfill </tspdf>Gefällen=Verwaltungs<pc force="weak">=</pc><lbr type="forced"/><ts>______________________</ts><tspdf>\hfill </tspdf>Oeckonomats=<rend class="latin">Controllor</rend><lbr type="forced"/>
+<pg n="3"/>
+<tspdf>\newline</tspdf> 
+<ts>____________</ts><tshtm>___________</tshtm>Glücks=Wunsch,<lbr type="forced"/>
+<ts>_______________</ts><tshtm>___________</tshtm>Beim Punsch! &#8211; <lbr type="forced"/>
+<lbr type="forced"/>
+Ich bin heut' ausgegangen, Du wustest nicht,<lbr/>
+<tshtm>______________________________________________________________</tshtm>warum. &#8211;<lbr type="BD"/>&#160;<lbr type="forced"/>
+Ich kann nur so viel sagen, daß es geschah darum;<lbr type="BD"/><lbr type="forced"/>
+Um Dich mit etwas kleinem ein wenig zu<lbr/>
+<tshtm>___________________________________________________</tshtm>erfreu'n,<lbr type="BD"/><lbr type="forced"/>
+Wobei ich weder Kösten, noch Fleiß noch Müh'<lbr/>
+<tshtm>_________________________________________________</tshtm>wollt' scheu'n, &#8211;<lbr type="BD"/>&#160;<lbr type="forced"/>
+Ich weiß zwar nicht gewieß, ob Du den Punsch<lbr/>
+<tshtm>________________________________________________</tshtm>magst trinken,<lbr type="BD"/><lbr type="forced"/>
+O! sage doch nicht &#8211; Nein, &#8211; sonst möcht' das<lbr/>
+<tshtm>_________________________________________________</tshtm>Bindband stinken;<lbr type="BD"/><lbr type="forced"/>
+Ich dachte so bei mir, Du liebst die Engelän<pc force="weak">=</pc><lbr/><tshtm>________________________________________________________</tshtm>der,<lbr type="forced"/>
+De<abbr type="topline" expand="nn">n</abbr> liebtest Du <rend class="latin">Paris</rend>, so gebe ich Dir<lbr/>
+<tshtm>________________________________________________</tshtm>Bänder,<lbr type="BD"/><lbr type="forced"/>
+Wohlriechende Gewässer, ein künstliches<lbr/>
+<tshtm>__________________________________________________</tshtm><rend class="latin">Bouquet</rend>,<lbr type="BD"/><lbr type="forced"/>
+Du aber, liebste Schwester, Du bist<lbr/>
+<tshtm>________________________________________</tshtm>keine <rend class="latin">Coquette</rend>.<lbr type="BD"/><lbr type="forced"/>
+Drum ni<abbr type="topline" expand="mm">m</abbr> aus meiner Hand den<lbr/>
+<tshtm>__________________</tshtm>guten, kräft'gen Punsch,<lbr type="BD"/><lbr type="forced"/>
+Und laß' ihn Dir recht schmecken,<lbr/>
+<tshtm>______________</tshtm>das ist mein einß'er Wunsch.<lbr type="forced"/>
+Salzburg den 31. Juli 1783.<lbr type="forced"/>
+<ts>__________________</ts><tshtm>______________</tshtm>W. A. Mozart <abbr expand="manu propria">mp</abbr><lbr type="BD"/><lbr type="forced"/>
+<ts>____________________</ts><tshtm>_____</tshtm>gekrönter Scheiben=Poet<lbr type="forced"/>
+<pg n="4"/>
+<ts>_________________</ts><rend class="latin">Autentique</rend>.<lbr type="forced"/>
+Daß dies die Handschrift meines<lbr/>
+seligen Gatten Mozart ist, bestät<pc force="weak">=</pc><lbr/>tiget meine Unterschrift:<lbr type="forced"/>
+<ts>___________________________</ts><tspdf>\hfill </tspdf><rend class="latin">Constanze</rend><lbr type="forced"/>
+<ts>____________________</ts><tspdf>\hfill </tspdf><rend class="latin">Etats</rend>-Räthin von <rend class="latin">Nissen</rend>,<lbr type="forced"/>
+<ts>____________________</ts><tspdf>\hfill </tspdf>gewesene Wittwe<lbr type="forced"/>
+<ts>______________________________</ts><tspdf>\hfill </tspdf>Mozart.<lbr type="forced"/>
+<ts>____________________</ts><tspdf>\hfill </tspdf>Salzburg am 19. Febr.<lbr type="forced"/>
+<ts>________________________________</ts><tspdf>\hfill </tspdf>1830.<lbr type="forced"/>
+<lbr type="forced"/>
+Vom Eingangs unterschriebenen<lbr/>
+dem hochverehrlichen Linzer<pc force="weak">=</pc><lbr/><rend class="latin">Musaeum</rend> gewidmet. &#8211; 
+</NI></letter>
+</text>
+</MUP>

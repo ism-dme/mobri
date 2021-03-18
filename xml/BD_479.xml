@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2012">2012-12</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1043</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:39:04 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_479.mup">
+<letter bd="479"><HEADER id="1043">WOLFGANG AMADÉ MOZART AN LEOPOLD MOZART SALZBURG<lbr/>
+ST. GERMAIN, 27. AUGUST 1778</HEADER>
+<pg n="1"/>
+<ts>_____________________</ts><tshtm>___________________________________________________________</tshtm><tspdf>\hfill </tspdf><rend class="latin">St: germain ce</rend> 27 <suppl hand="self" pos="infra"><rend class="latin">aoust</rend></suppl><lbr type="forced"/>
+<ts>________</ts><tshtm>________</tshtm><rend class="latin">Mon trés cher Pére!</rend><add_num type="inline" impl="pencil"><ts>_____________</ts>50</add_num><ts>_________</ts><tshtm>________________________________</tshtm><tspdf>\hfill </tspdf><u>1778</u><lbr type="forced"/>
+<lbr type="forced"/>
+In gröster Eile schreibe ich ihnen &#8211; sie sehen daß ich nicht in <rend class="latin">Paris</rend> bin &#8211;<lbr type="BD"/>&#160;<lbr/>
+<rend class="latin">M:<h>r</h> Bach</rend> von <rend class="latin">london</rend> ist schon 14 täge hier, er wird eine französische<lbr/>
+<rend class="latin">opera</rend><lbr type="BD"/> schreiben &#8211; er ist nur hier die sänger zu hören, da<abbr type="topline" expand="nn">n</abbr> geht er nach<lbr/>
+<rend class="latin">London</rend>,<lbr type="BD"/> schreibt sie, und ko<abbr type="topline" expand="mm">m</abbr>t, sie in <rend class="latin">scena</rend> zu setzen; &#8211; seine freüde,<lbr/>
+und meine<lbr type="BD"/> freüde als wir uns wieder sahen, kö<abbr type="topline" expand="nn">n</abbr>en sie sich leicht<lbr/>
+vorstellen &#8211; vielleicht<lbr type="BD"/> ist seine freüde nicht so wahrhaft &#8211; doch muß<lbr/>
+man ihm dieses lassen, daß er<lbr type="BD"/> ein Ehrlicher Ma<abbr type="topline" expand="nn">n</abbr> ist, und den leüten<lbr/>
+gerechtigkeit wiederfahren läst; ich<lbr type="BD"/> liebe ihn | wie sie wohl wissen | von ganzem<lbr/>
+herzen &#8211; und habe hochachtung<lbr type="BD"/> für ihn, und er &#8211; das ist ein mahl gewis,<lbr/>
+daß er mich so wohl zu mir selbst,<lbr type="BD"/> als be&#255; andern leüten &#8211; nicht über<pc force="weak">=</pc><lbr/>trieben wie einige, sondern Ernsthaft &#8211;<lbr type="BD"/> wahrhaft, gelobt hat &#8211; <lbr/>
+<rend class="latin">Tenduci</rend> ist auch hier &#8211; der ist der herzensfreünd von<lbr type="BD"/>&#160;<rend class="latin">Bach</rend> &#8211; der hat die<lbr/>
+gröste freüde gehabt mich wieder zu sehen &#8211; Nun will ich<lbr type="BD"/> sagen wie ich<lbr/>
+nach <rend class="latin">st: germain</rend> geko<abbr type="topline" expand="mm">m</abbr>en; hier ist, wie sie vielleicht schon<lbr type="BD"/> wissen, | de<abbr type="topline" expand="nn">n</abbr><lbr/>
+ma<abbr type="topline" expand="nn">n</abbr> sagt, ich se&#255;e vor 15 jahren auch <u>hier</u> gewesen, ich weis<lbr type="BD"/> aber nichts<lbr/>
+davon | der <rend class="latin">Marechal de noaile</rend> &#8211; da ist <rend class="latin">tenduci</rend> sehr beliebt &#8211; und<lbr type="BD"/><lbr/>
+weil er mich <u>sehr</u> liebt, so hat er mir wollen diese bekandtschaft zu<pc force="weak">=</pc><lbr/>wegen<lbr type="BD"/> bringen &#8211; gewi<abbr type="topline" expand="nn">n</abbr>en werde ich nichts hier &#8211; vielleicht &#8211; ein kleines<lbr/>
+<rend class="latin">Present</rend> &#8211;<lbr type="BD"/> verlieren thue ich aber nichts, da<abbr type="topline" expand="nn">n</abbr> es kost mich nichts &#8211; und<lbr/>
+we<abbr type="topline" expand="nn">n</abbr> ich auch<lbr type="BD"/> nichts beko<abbr type="topline" expand="mm">m</abbr>e &#8211; so habe ich doch eine sehr nützliche<lbr/>
+bekandtschaft &#8211; Eilen<lbr type="BD"/> muß ich &#8211; weill ich für <rend class="latin">tenduci</rend> eine <rend class="latin">scene</rend><lbr/>
+schreiben auf <rend class="latin">Sontag</rend> &#8211; auf <rend class="latin">piano</rend>-<rend class="latin">forte, oboa</rend>, Horn und <rend class="latin">fagott</rend>,<lbr/>
+lauter leüte von <rend class="latin">Marechal</rend>, teütsche die sehr gut<lbr type="BD"/> spiellen &#8211; <lbr/>
+ich hätte ihnen schon längst gerne geschrieben, allein der brief<lbr type="BD"/> war<lbr/>
+angefangen, | liegt noch zu <rend class="latin">Paris</rend>, | da führ ich aber nach <rend class="latin">st: germain</rend>,<lbr/>
+in<lbr type="BD"/> der Me&#255;nung den nemlichen tag wieder zurück zu ko<abbr type="topline" expand="mm">m</abbr>en &#8211; heüte<lbr/>
+ist aber<lbr type="BD"/> 8 täge daß ich hier bin, &#8211; Nun werde aber so bald möglich,<lbr/>
+nach <rend class="latin">Paris</rend> &#8211;<lbr type="BD"/> obwohl ich nicht viell zu verlieren habe &#8211; de<abbr type="topline" expand="nn">n</abbr> ich habe nur<lbr/>
+eine <rend class="latin">scolarin</rend>, die<lbr type="BD"/> andern sind in der <rend class="latin">Campagne</rend>;<lbr type="forced"/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="2"/>
+von hier aus habe ich ihnen nicht schreiben kö<abbr type="topline" expand="nn">n</abbr>en, weill man mit schmer<lbr type="BD"/>zen<lbr/>
+auf eine gelegenheit warten muß, einen brief nach <rend class="latin">Paris</rend> zu schicken &#8211; <lbr/>
+ich<lbr type="BD"/> bin gott lob und danck gesund &#8211; ich hoffe sie werden es be&#255;de auch<lbr/>
+se&#255;n &#8211;<lbr type="BD"/> haben sie gedult &#8211; es geht alles sehr langsam &#8211; man muß<lbr/>
+sich freünde<lbr type="BD"/> machen &#8211; franckreich ist auch wie Teütschland &#8211; man speist die<lbr/>
+leüte mit<lbr type="BD"/> lobs=erhebungen ab &#8211; allein &#8211; es ist doch hofnung daß man<lbr/>
+<add_note schr_id="57010"><ts>_________________________________________________________________________________</ts>mir Logement</add_note>
+dadurch sein<lbr type="BD"/> glück machen ka<abbr type="topline" expand="nn">n</abbr> &#8211; das beste ist daß <encr expand="mir">afr</encr>&#160;<rend class="latin"><encr expand="Logement">Esglalnt</encr></rend><lbr/>
+<add_note schr_id="57010">und Kost nichts kostet.<ts>__________________</ts>diesen schreiben, wo ich bin,</add_note>
+<encr expand="und kost nichts kost">hnd ksot nfcuts ksot</encr> &#8211; we<abbr type="topline" expand="nn">n</abbr> sie <encr expand="diesen schreiben, wo ich bin">dfloln ocurlfbln ws fcu bfn</encr><lbr/>
+<add_note schr_id="57010"><ts>_________</ts>bedanken Sie nicht zu demüthig.<ts>_______________</ts>hat seine</add_note>
+so <encr expand="bedancken sie sich nicht zu demüthig">bldmnckln ofl ofcu nfcut zh<lbr type="BD"/> dlmh"tufg</encr> &#8211; es <encr expand="hat seine">hmt olfnl</encr><lbr/>
+<add_note schr_id="57010">Ursachen, die ich ein ander<ts>___</ts>Mal schreiben werde.</add_note>
+<encr expand="ursachen, die ich ein andersmahl schreiben werde">hromculn, dfl fcu lfn mndlroamue ocurlfbln wlrdl &#8211; </encr><lbr/>
+die kranckheits=geschichte wird nächstens folgen &#8211; sie wollen<lbr/>
+aufrichtig das<lbr type="BD"/>&#160;<rend class="latin">Portrait</rend> von Rothfischer haben? &#8211; Er ist ein auf<pc force="weak">=</pc><lbr/>mercksamer, fleissiger <rend class="latin">Director</rend> &#8211;<lbr type="BD"/> hat nicht viell geist &#8211; ich bin aber<lbr/>
+sehr mit ihm zufrieden gewesen &#8211; und was<lbr type="BD"/> das beste ist, ist &#8211;, daß er<lbr/>
+der beste Ma<abbr type="topline" expand="nn">n</abbr> ist &#8211; mit dem man alles machen<lbr type="BD"/> ka<abbr type="topline" expand="nn">n</abbr>, doch mit gute<lbr/>
+<rend class="latin">Manier</rend> versteht sich &#8211; zu <rend class="latin">Dirigiren</rend> ist er besser als<lbr type="BD"/>&#160;<rend class="latin">Brunetti</rend> &#8211; aber<lbr/>
+<rend class="latin">Solo</rend> zu spiellen &#8211; nicht; er hat mehr <rend class="latin">Execution</rend> &#8211; spiellt auch<lbr type="BD"/> auf seine<lbr/>
+art, | ein wenig noch auf die alte, <rend class="latin">tardini</rend>sche art | gut &#8211; aber der<lbr type="BD"/><lbr/>
+<rend class="latin">gusto</rend> von <rend class="latin">Brunetti</rend> ist angenehmer &#8211; seine <rend class="latin">Concert</rend>, die er sich selbst<lbr/>
+schreibt,<lbr type="BD"/> sind hüpsch &#8211; da<abbr type="topline" expand="nn">n</abbr> und wa<abbr type="topline" expand="nn">n</abbr> zu spiellen &#8211; kan man ihn i<abbr type="topline" expand="mm">m</abbr>er<lbr/>
+gern hören &#8211;<lbr type="BD"/> und wer weis, ob er nicht gefällt? &#8211; er spiellt ja<lbr/>
+doch 10000000 mahl besser<lbr type="BD"/> als pintzger; und wie ich sage, zum <rend class="latin">Diri<pc force="weak">=</pc><lbr/>girn</rend> ist er sehr gut; und fleissig in<lbr type="BD"/> seinem dienst &#8211; ich <rend class="latin">recomandiere</rend><lbr/>
+ihn von ganzem herzen, de<abbr type="topline" expand="nn">n</abbr> er ist der<lbr type="BD"/> beste Ma<abbr type="topline" expand="nn">n</abbr> &#8211; <rend class="latin">Adieu</rend><lbr type="forced"/>
+nächstens werde ich ihnen mehr schreiben &#8211; 1000 <rend class="latin">Complimenten</rend> von <rend class="latin">M:<h>r</h> Ten<lbr type="BD"/>duci</rend>:;<lbr/>
+<rend class="latin">apropos; M:<h>r</h> Volar</rend> und seine frau, eine gebohrne Münchnerin ist hier;<lbr type="BD"/><lbr/>
+er war zu München französischer gesandte &#8211; dort haben sie uns gekandt;<lbr type="BD"/><lbr/>
+sie hat, als sie meinen Namen gehöret, mich gleich gekandt, ich kan mich<lbr/>
+aber<lbr type="BD"/> nicht mehr errinern; <rend class="latin">Adieu</rend>, leben sie wohl, ich küsse ihnen 1000mahl<lbr/>
+die hände und meine liebe schwester umarme ich von ganzem herzen,<lbr/>
+und bin dero<lbr type="BD"/> gehorsamster Sohn<lbr type="forced"/>
+<lbr type="forced"/>
+Mein <rend class="latin">Compliment</rend> an <rend class="latin">M:<h>r</h> Bullinger</rend> und<lbr type="forced"/>
+alle gute freünde und freündinen.<ts>______</ts><tshtm>__________________________</tshtm><tspdf>\hfill </tspdf><u>wolfgang Mozart</u>&#160;<abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+</letter>
+</text>
+</MUP>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2011">2011-05</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=824</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">CH-Bps</bibl>
+            <bibl type="source" subtype="RISM">CH-Bps (Paul Sacher Stiftung</bibl>
+            <bibl type="source" subtype="RISM">Bibliothek)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:37:40 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_263.mup">
+<letter bd="263">
+<NI src="CH-Bps">
+<HEADER id="824">LEOPOLD MOZART AN JOHANN GOTTLOB IMMANUEL BREITKOPF IN<tspdf>\newline</tspdf> LEIPZIG<lbr/>
+SALZBURG, 7. FEBRUAR 1772</HEADER>
+<pg n="1"/>
+<add_empf><ts>______________________________________</ts>2 <abbr_cur expand="Groschen">gl</abbr_cur> 3 <abbr_cur expand="Pfennig">d.</abbr_cur>&#160;<rend class="latin">Porto Pr.</rend> d<abbr v="en"/>. 13. <u>Febr</u><lbr/>
+<ts>_______________________________________________________</ts><unclear>Erl.</unclear> d<abbr v="en"/> 7. Merz.</add_empf>
+<ts>___</ts>HochEdler<lbr type="forced"/>
+<ts>_______</ts>Insonders geehrtester <persName key="73569">Herr</persName>!<lbr type="forced"/>
+<lbr type="forced"/>
+Sie werd<abbr v="en"/> mir gütig erlaub<abbr v="en"/>, daß in einer Angele<pc force="weak">=</pc><lbr/>genheit meine Zuflucht be&#255;<lbr type="BD"/> ihn<abbr v="en"/> nehme. Ich habe<lbr/>
+einige Blaßinstrument<abbr v="en"/> für unsern Hof zu verschreib<abbr v="en"/>,<lbr/>
+und ich habe mein vertrau<abbr v="en"/> zu der Arbeit eines ge<pc force="weak">=</pc><lbr/>wiss<abbr v="en"/>&#160;<u><persName key="25376">h<abbr type="curve">:</abbr> Grenser</persName> in Dressden</u>, den ich anders nicht,<lbr/>
+als aus dem Nahme, den ich auf ein und<lbr type="BD"/> and<abbr v="er"/><abbr v="en"/> flöt<abbr v="en"/><lbr/>
+und Hautbois gelesen, ke<abbr type="topline" expand="nn">n</abbr>e. Da mir, und meiner<lbr/>
+Ehre nun<lbr type="BD"/> viel daran geleg<abbr v="en"/>, daß ein paar Hautbois<lbr/>
+und zwe&#255; Fagötte <u>bald</u> und <u>von guter<lbr type="BD"/> tonart</u><lbr/>
+beko<abbr type="topline" expand="mm">m</abbr>e, indem den 9<h>t<abbr v="en"/></h> Merz schon die Wahl eines<lbr/>
+neu<abbr v="en"/>&#160;<persName key="83053">Fürst<abbr v="en"/></persName><lbr type="BD"/> für sich gehet, ich aber besorget bin,<lbr/>
+daß der beygeschlossne Brief aus<lbr type="BD"/> Abgang der nötig<abbr v="en"/><lbr/>
+<lbr/>
+<add_empf loc="lm" pos="90"><u>1772.</u><lbr/>
+<u>7. <rend class="latin">Febr</rend></u><ts>_____</ts><u><rend class="latin">Salzburg</rend>.</u><lbr/>
+<u>13. &#8212;</u><ts>______</ts><u><rend class="latin">Mozard.</rend></u><lbr/>
+<u>7. <rend class="latin">Merz</rend>.</u></add_empf><lbr/>
+<add_empf><additum>[... (Berechnungen)]</additum></add_empf>
+<pg n="2"/>
+Adresse späth oder etwa gar nicht in <persName key="25376">h<abbr type="curve">:</abbr> Grensners</persName><lbr/><lbr type="BD"/>
+Hände gelang<abbr v="en"/> möchte: als ersuche sie Angele<pc force="weak">=</pc><lbr/>gentlichist dieses Schreib<abbr v="en"/><lbr type="BD"/> an denselb<abbr v="en"/> auf das<lbr/>
+bäldeste zu besorg<abbr v="en"/>, und, we<abbr type="topline" expand="nn">n</abbr> es ihn<abbr v="en"/> nicht unge<pc force="weak">=</pc><lbr/>leg<abbr v="en"/>, den Brief mit einem klein<abbr v="en"/> Empfehlungs<pc force="weak">=</pc><lbr/>schreib<abbr v="en"/> von ihn<abbr v="en"/> zu begleit<abbr v="en"/>, mir aber das Brief<pc force="strong">=</pc><lbr/>Porto zu berechn<abbr v="en"/>.<lbr type="forced"/>
+Wir sind d<abbr v="en"/> 15 <rend class="latin">Decemb<abbr type="curve">:</abbr></rend> aus Ma&#255;land zurück ange<pc force="weak">=</pc><lbr/>langet und da mein<lbr type="BD"/>&#160;<persName key="39409">Sohn</persName> sich abermahl durch<lbr/>
+Verfertigung der Theatralisch<abbr v="en"/>&#160;<rend class="latin">Serenate</rend> viel<abbr v="en"/><lbr/><lbr type="BD"/>
+Ruhm erworb<abbr v="en"/>, als ist er abermahl beruff<abbr v="en"/> die<lbr/>
+erste <rend class="latin">Carnevals opera</rend> des<lbr type="BD"/> künftig<abbr v="en"/> Jahres in<lbr/>
+Mayland und gleich darauf in dem nämlich<abbr v="en"/><lbr/>
+<pg n="3"/>
+<rend class="latin">Carneval</rend><lbr type="BD"/> die 2<h>te</h>&#160;<rend class="latin">opera</rend> auf dem Theater <rend class="latin">St: Benedetto</rend><lbr/>
+in <rend class="latin">Venedig</rend> zu schreib<abbr v="en"/>. Wir<lbr type="BD"/> werd<abbr v="en"/> demnach bis Ende<lbr/>
+ko<abbr type="topline" expand="mm">m</abbr>end<abbr v="en"/>&#160;<rend class="latin">Septemb</rend>ers in Salzburg verbleib<abbr v="en"/>,<lbr type="BD"/> da<abbr type="topline" expand="nn">n</abbr> wied<abbr v="er"/>,<lbr/>
+und zwar zum dritt<abbr v="en"/> mahl nach Itali<abbr v="en"/> abgeh<abbr v="en"/>.<lbr type="forced"/>
+Wollt<abbr v="en"/> sie etwas von meinem <persName key="39409">Sohne</persName> zum Druck beförd<abbr v="ern"/>,<lbr/>
+so wäre bis<lbr type="BD"/> dahin die beste Zeit: sie därff<abbr v="en"/> nur be<pc force="weak">=</pc><lbr/>nenn<abbr v="en"/>, was ihn<abbr v="en"/> am Anständigst<abbr v="en"/><lbr type="BD"/> wäre. Es mög<abbr v="en"/><lbr/>
+<u>Claviersach<abbr v="en"/></u>, oder <u><rend class="latin">Trio</rend></u> mit 2 <rend class="latin">Violin<abbr v="en"/></rend> und einem <rend class="latin">Violoncello</rend>,<lbr/>
+oder <u><rend class="latin">quartett<abbr v="en"/></rend>,</u> das ist mit 2 <rend class="latin">Violin<abbr v="en"/></rend> einer <rend class="latin">Viola</rend><lbr/>
+und <rend class="latin">Violoncello</rend>; oder<lbr type="BD"/>&#160;<u><rend class="latin">Sinfonien</rend></u> mit 2 <rend class="latin">Violin<abbr v="en"/></rend>,<lbr/>
+<rend class="latin">Viola</rend>, 2 <rend class="latin">Corni</rend>, 2 <rend class="latin">Hautbois</rend> od<abbr v="er"/> Zwerchflaut<abbr v="en"/> und<lbr/><lbr type="BD"/>
+<rend class="latin">Basso</rend> se&#255;n. kurz, es mag se&#255;n von einer Gattung<lbr/>
+Composition als es i<abbr type="topline" expand="mm">m</abbr>er<lbr type="BD"/> ihn<abbr v="en"/> vorträglich scheinet,<lbr/>
+alles wird er mach<abbr v="en"/>, we<abbr type="topline" expand="nn">n</abbr> sie es nur bald meld<abbr v="en"/>.<lbr/><lbr type="BD"/>
+Entzwisch<abbr v="en"/> hat meine <persName key="48815">Frau</persName> die 78 <abbr_cur expand="Gulden"><rend class="latin">f</rend></abbr_cur> 30 <abbr_cur expand="Kreuzer"><rend class="latin">X</rend><h>r</h></abbr_cur> in meiner<lbr/>
+<pg n="4"/>
+Abwesenheit richtig<lbr type="BD"/> empfang<abbr v="en"/>: ich bin übrigens<lbr/>
+mit besonderer Achtung<lbr type="forced"/>
+<ts>________________________</ts><rend class="latin">Euer</rend> HochEdl:<lbr type="forced"/>
+<lbr type="forced"/>
+Salzb<abbr type="curve">:</abbr> den 7 Hornung <u>1772</u>.<lbr type="forced"/><lbr type="BD"/>
+<ts>_____________</ts><tshtm>_____________________________________</tshtm><tspdf>\hfill </tspdf>dienstwilligster<lbr type="forced"/><lbr type="BD"/>
+<ts>_____________</ts><tshtm>_____________________________________</tshtm><tspdf>\hfill </tspdf><persName key="39408">Leopold Mozart</persName>&#160;<abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<lbr type="forced"/>
+Haben sie schon lange keine Nachricht von unserm<lbr/>
+freund <persName key="53035">Herrn Gri<abbr type="topline" expand="mm">m</abbr></persName>? &#8211;<lbr type="BD"/> sind der Portraits<lbr/>
+und Sonaten einige verkauft? &#8211; </NI>
+</letter>
+</text>
+</MUP>

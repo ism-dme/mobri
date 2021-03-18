@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2020">2020-02</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=622</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Verbleib unbekannt (Vorlage: Abschrift um 1768 in D-B)</bibl>
+            <bibl type="source" subtype="RISM">Verbleib unbekannt, Vorlage: Abschrift um 1768 in D-B</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:36:33 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_64.mup">
+<letter bd="64">
+<NI src="unbekannt">
+<HEADER id="622">LEOPOLD MOZART AN LORENZ HAGENAUER IN SALZBURG<lbr/>
+KOBLENZ, 26. SEPTEMBER 1763</HEADER>
+<pg n="1"/>
+<additum>[... (Textverlust)]</additum><lbr type="forced"/>
+<lbr type="forced"/>
+wieder nach Ma&#255;nz kam, war der Churfürst wieder neuer<pc force="weak">=</pc><lbr/>dings mit dem<lbr type="BD"/> Fieber behaftet, welches ihn doch schon verlassen<lbr/>
+hatte. Er wurde dadurch so<lbr type="BD"/> schwach, daß er nicht vom <choice><orig>Bethe</orig><corr hand="diff" schr_id="57010">Bette</corr></choice><lbr/>
+konnte. Er hatte be&#255; dieser Reise des<lbr type="BD"/> Prinzen <rend class="latin">Clemens</rend><lbr/>
+von Sachsen, der über Nacht in <placeName key="51">Ma&#255;nz</placeName> blieb, sich zu sehr<lbr/>
+gewagt, und verfiel dadurch abermal in eine neue<lbr/>
+Unpäßlichkeit. Ich muste<lbr type="BD"/> der <rend class="latin">Noblesse</rend> noch ein <rend class="latin">Concert</rend><lbr/>
+geben: und gieng nach <rend class="latin"><placeName key="40">Coblenz</placeName></rend>. Nun<lbr type="BD"/> kömt eine merk<pc force="weak">=</pc><lbr/>würdige Reise! &#8211; &#8211; &#8211; &#8211; Den 13:<h>t<abbr v="en"/></h> dieß sind<lbr/>
+wir mit einer<lbr type="BD"/> Jagd, oder wie man hier spricht, Jacht,<lbr/>
+nach <rend class="latin"><placeName key="40">Coblenz</placeName></rend> abends um <formula type="mfrac"><mn>1</mn><mi>2</mi></formula> 7. Uhr von<lbr type="BD"/> Ma&#255;nz abgefahren.<lbr/>
+Von Ma&#255;nz bis <rend class="latin">Coblenz</rend> fährt man, wenn es gut geht,<lbr/>
+und<lbr type="BD"/> wenn man Morgens recht fruhe abfährt, in einem<lbr/>
+Tage. Die Jagt ist ein Schif,<lbr type="BD"/> welches groß ist,<lbr/>
+3 Zi<abbr type="topline" expand="mm">m</abbr>er und vorne und hinten noch grosse ver<pc force="weak">=</pc><lbr/>dekte <choice><orig>Ort</orig><corr hand="diff" schr_id="57010">Orte</corr></choice><lbr type="BD"/> hat, wo die Kaufmanns Güter liegen.<lbr/>
+Oben darauf auf dem Dache sind die<lbr type="BD"/> Ruder, und<lbr/>
+da stellt man auch die <choice><orig>Wägen</orig><corr hand="diff" schr_id="57010">Wagen</corr></choice> hin. Es sind schon<lbr/>
+kleine <rend class="latin">Modellen</rend><lbr type="BD"/> von Schiffen, die auf dem<lbr/>
+Meer gebraucht werden. Den 13:<h>t</h> Abends fuhren<lbr/>
+wir<lbr type="BD"/> noch 2. Stund bis <u>Walf.</u> in der Fruhe hörten<lbr/>
+wir die heil: Meße, die ein <rend class="latin">P. Domi<lbr type="BD"/>nicaner</rend> von<lbr/>
+<choice><orig>unseren</orig><corr hand="diff" schr_id="57010">unserm</corr></choice> Schiffe laß, wir fuhren wegen einen<lbr/>
+<pg n="2"/>
+starken Winde erst<lbr type="BD"/> um <formula type="mfrac"><mn>1</mn><mi>2</mi></formula> 7 Uhr weg. allein wir kamen<lbr/>
+nur 2. Stund weit, so musten wir an einem<lbr type="BD"/> schlechten<lbr/>
+Orte, das <u>Östrich</u> heist, <choice><orig>anländen</orig><corr hand="diff" schr_id="57010">anlanden</corr></choice>.<lbr/>
+Der Wind war so stark, daß<lbr type="BD"/> wir an <choice><orig>diesen</orig><corr hand="diff" schr_id="57010">diesem</corr></choice> elenden Märktl<lbr/>
+den Mittag und die ganze Nacht bleiben musten,<lbr type="BD"/> den<lbr/>
+Tag darauf fuhren wir fort, aber auch leider nur ein<lbr/>
+paar Stunden; also<lbr type="BD"/> zwar, daß wir ausser <rend class="latin">Bingen</rend> 3 Viertl<lbr/>
+stunde, just <rend class="latin">Rittersheim</rend> gegen über<lbr type="BD"/> landen, und bis<lbr/>
+<rend class="latin"><placeName key="1477">Bingen</placeName></rend> zu Fus gehen musten. Hier ward anfangs<lbr/>
+<rend class="latin">Coffe</rend> ge<lbr type="BD"/>trunken; <choice><orig>dann</orig><corr hand="diff" schr_id="57010">denn</corr></choice> wir machten uns Hofnung<lbr/>
+der Wind würde sich legen. allein<lbr type="BD"/> man speiste zu<lbr/>
+Mittag, der Abend und endlich die Nacht giengen weg,<lbr/>
+und<lbr type="BD"/> wir blieben da. den 16:<h>t<abbr v="en"/></h> morgens um 5. Uhr<lbr/>
+legte sich der Wind ein wenig, so<lbr type="BD"/> daß wir abfuhren,<lbr/>
+und das <u>Bingerloch</u>&#160;<rend class="latin">passi</rend>rten, auch mittags nach St.<lbr/>
+Gre<lbr type="BD"/>goire kamen, nachdem wir vorher die sogena<abbr type="topline" expand="nn">n</abbr>te<lbr/>
+<u>Bank</u>&#160;<rend class="latin">passi</rend>ren musten.<lbr type="BD"/> Nachdem wir zu St. <rend class="latin">Gregoire</rend><lbr/>
+des Mittags gespeiset; und um 2. Uhr abgefah<lbr type="BD"/>ren,<lbr/>
+auch kaum eine Stunde weit geko<abbr type="topline" expand="mm">m</abbr>en; so erhob sich<lbr/>
+ein solcher Sturm,<lbr type="BD"/> daß wir bei <choice><orig>ein</orig><corr hand="diff" schr_id="57010">einem Ort von ein</corr></choice> paar Häusern,<lbr/>
+<choice><orig>das</orig><corr hand="diff" schr_id="57010">der</corr></choice>&#160;<u>Arning</u> heist, <choice><orig>anländen</orig><corr hand="diff" schr_id="57010">anlanden</corr></choice>,<lbr type="BD"/> oder vielmehr Anker<lbr/>
+werffen musten. Hier hielten wir und noch 3.<lbr/>
+andere<lbr type="BD"/> Jagden, die nach uns kamen, und links,<lbr/>
+und rechts nebst noch 2. grossen<lbr type="BD"/> Nachen Anker<lbr/>
+warfen, bis <formula type="mfrac"><mn>1</mn><mi>2</mi></formula> 6 Uhr aus. Endlich hoben wir die Anker,<lbr/>
+<pg n="3"/>
+und<lbr type="BD"/> kamen mit harter Mühe an ein örtchen von <choice><orig>etliche</orig><corr hand="diff" schr_id="57010">etlichen</corr></choice><lbr/>
+<choice><orig>Häuser</orig><corr hand="diff" schr_id="57010">Häusern</corr></choice>, das sich <u>Salzich</u><lbr type="BD"/> ne<abbr type="topline" expand="nn">n</abbr>et. Ich ließ unsern <choice><orig>klein</orig><corr hand="diff" schr_id="57010">kleinen</corr></choice><lbr/>
+Nachen, der allzeit an der Jagd angebunden<lbr type="BD"/> mitgeht,<lbr/>
+voraus laufen, um mir das beste zi<abbr type="topline" expand="mm">m</abbr>er im Wirths<pc force="weak">=</pc><lbr/>hause und das<lbr type="BD"/> Essen zu bestellen. <choice><orig>Dann</orig><corr hand="diff" schr_id="57010">Denn</corr></choice> da alle<lbr/>
+Jagden anlandeten, so sahe ich vor, daß es<lbr type="BD"/> sonst mit<lbr/>
+<rend class="latin">Quartier</rend> und Essen übel gehen würde. Ich bekam demnach<lbr/>
+das beste<lbr type="BD"/> zi<abbr type="topline" expand="mm">m</abbr>er, eine Suppe, einen guten <choice><orig>Rein</orig><corr hand="diff" schr_id="57010">Rhein</corr></choice>&#160;<rend class="latin">Salmen</rend><lbr/>
+und Butter. Wein hatte ich genug selbst be&#255; mir,<lbr/>
+sonst hätten wir schlechten Wein trinken müssen.<lbr type="BD"/><lbr/>
+S.<h>e</h> Ex<abbr type="curve">:</abbr> h<abbr type="curve">:</abbr>&#160;<rend class="latin">Baron</rend>&#160;<abbr type="topline" expand="von">v</abbr>&#160;<choice><orig><rend class="latin">Dallberg</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">Dalberg</rend></corr></choice>, <rend class="latin">chef</rend> der Ma&#255;nzischen<lbr/>
+Ritterschaft, be&#255; dem<lbr type="BD"/> wir den Tag unserer Abreise<lbr/>
+Mittags gespeiset haben, hatte mir 6. <rend class="latin">Boutell</rend>ien<lbr type="BD"/> des<lbr/>
+besten <choice><orig><rend class="latin">Hocheimer</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">Hochheimer</rend></corr></choice>&#160;<choice><orig>Rein</orig><corr hand="diff" schr_id="57010">Rhein</corr></choice> Weins in das <choice><orig>Schif</orig><corr hand="diff" schr_id="57010">Schiff</corr></choice>&#160;<choice><orig>geschiket</orig><corr hand="diff" schr_id="57010">geschicket</corr></choice>,<lbr/>
+die uns sehr wohl<lbr type="BD"/> zustatten kamen.<lbr type="forced"/>
+Endlich kamen wir Sonntags den 17:<h>t<abbr v="en"/></h> Mittags in<lbr/>
+<rend class="latin">Coblenz</rend> an, nachdem mich<lbr type="BD"/> diese Reise 3. <rend class="latin">Louisd'or</rend><lbr/>
+Schifferlohn und eine <rend class="latin">Louisdor</rend> zährung und an<lbr type="BD"/> an<pc force="weak">=</pc><lbr/>deren nöthigen Ausgaben gekostet. Sie werden<lbr/>
+sich wundern, daß ich<lbr type="BD"/> nicht lieber zu Lande gegangen<lbr/>
+bin welches mich weniger würde gekostet<lbr type="BD"/> haben. Allein<lbr/>
+sie müssen wissen daß die <choice><orig>Weege</orig><corr hand="diff" schr_id="57010">Wege</corr></choice> an sich selbst sehr elend<lbr/>
+sind,<lbr type="BD"/> weil alles zu Wasser gehet, iezt aber waren sie,<lbr/>
+wegen der beständig üblen<lbr type="BD"/> Witterung gänzlich verdorben.<lbr/>
+<pg n="4"/>
+Und dieses ist die Ursache, daß wir auch von<lbr type="BD"/> hier<lbr/>
+bis <choice><orig>Bon</orig><corr hand="diff" schr_id="57010">Bonn</corr></choice> und <choice><orig>Köln</orig><corr hand="diff" schr_id="57010">Kölln</corr></choice> zu Wasser gehen müssen; wann<lbr/>
+wir anders auf der<lbr type="BD"/> Strasse zu Land, die oft hart<lbr/>
+am Rhein gehet, nicht wollen in <suppl hand="diff" schr_id="57010" pos="inline">den</suppl> Rhein ge<lbr type="BD"/>worfen<lbr/>
+werden, oder sonst den Hals brechen. den 18.<h>t<abbr v="en"/></h> Nach<pc force="weak">=</pc><lbr/>mittag haben wir<lbr type="BD"/> schon be&#255; dem Churfürsten uns<lbr/>
+hier <rend class="latin">produci</rend>ret, und sind auch gleich nach<lbr type="BD"/> der <rend class="latin">Production</rend><lbr/>
+mit 10 <rend class="latin">Louisdor</rend>&#160;<choice><orig>beschenket</orig><corr hand="diff" schr_id="57010">beschenkt</corr></choice> worden. Den 19:<h>t<abbr v="en"/></h> und<lbr/>
+20:<h>t<abbr v="en"/></h> war<lbr type="BD"/> das abscheulichste Regenwetter den 21 war<lbr/>
+<choice><orig>Apostl</orig><corr hand="diff" schr_id="57010">Apostel</corr></choice> Tag, an welchen ich nicht<lbr type="BD"/> reisen wollte, damit<lbr/>
+wir aber nicht gar umsonst unsere Zeit hinbrachten,<lbr/>
+so<lbr type="BD"/> machte die wenige <rend class="latin">Noblesse</rend>, die hier ist die<lbr/>
+Veranstaltung zu einem <rend class="latin">Concert</rend>,<lbr type="BD"/> das eben den<lbr/>
+21:<h>t<abbr v="en"/></h> gehalten wurde, und eben nicht viel Eintrug,<lbr/>
+doch war<lbr type="BD"/> es doch etwas, und ich hatte keine <choice><orig>Unkösten</orig><corr hand="diff" schr_id="57010">Unkosten</corr></choice><lbr/>
+dabe&#255;, Einer meiner Ursachen,<lbr type="BD"/> daß ich nicht<lbr/>
+gleich den 19:<h>t<abbr v="en"/></h> oder 20:<h>t<abbr v="en"/></h> von <rend class="latin">Coblenz</rend> abgegangen bin,<lbr/>
+<choice><orig>ware</orig><corr hand="diff" schr_id="57010">war</corr></choice>,<lbr type="BD"/> daß der Wolfgang<abbr type="curve">:</abbr> einen Schnupfen oder<lbr/>
+Strauchen hatte, der sich nun aber<lbr type="BD"/> den 22:<h>t<abbr v="en"/></h> Abends<lbr/>
+und in der Nacht in einen förmlichen <choice><orig>Cathar</orig><corr hand="diff" schr_id="57010">Catharr</corr></choice> ver<pc force="weak">=</pc><lbr/><choice><orig>wandlet</orig><corr hand="diff" schr_id="57010">wandelt</corr></choice><lbr type="BD"/> hatte. Ich bin sohin gezwungen, noch ein paar<lbr/>
+<choice><orig>Täge</orig><corr hand="diff" schr_id="57010">Tage</corr></choice> abzuwarten, absonderlich<lbr type="BD"/> weil das Wetter so<lbr/>
+schlecht ist. Wir werden also kaum vor dem 25 od<abbr v="er"/><lbr/>
+<pg n="5"/>
+<amend value="">oder</amend> 26:<h>t<abbr v="en"/></h><lbr type="BD"/> hier weggehen; denn auf die Gesundheit<lbr/>
+meiner Kinder muß ich vor allem<lbr type="BD"/> sehen. Hier habe ich<lbr/>
+den Baron von <choice><orig><rend class="latin">Walldendorf</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">Wallderndorf</rend></corr></choice> und den geistlichen ehe<lbr type="BD"/>malig<abbr v="en"/><lbr/>
+Hofmeister Kopp, der iezt <rend class="latin">Consistorial</rend> ist, angetroffen.<lbr/>
+H<abbr type="curve">:</abbr> B. v. <choice><orig><rend class="latin">Wal<lbr type="BD"/>dendorf</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">Walderndorf</rend></corr></choice> und h<abbr type="curve">:</abbr> graf <abbr type="topline" expand="von">v</abbr>&#160;<choice><orig>Bergen</orig><corr hand="diff" schr_id="57010">Pergen</corr></choice> Kaiserl:<lbr/>
+Gesandter, der zugleich mit uns in<lbr type="BD"/>&#160;<rend class="latin">Coblenz</rend> auf dem<lbr/>
+Wasser eintraf, und auch einen Theil der Wasser<lbr/>
+Fatalitäten<lbr type="BD"/>&#160;<suppl hand="self" pos="supra">hinter uns</suppl> auszustehen hatte, führten meine Kinder<lbr/>
+be&#255; der Hand zum Chur<lbr type="BD"/>fürsten, und <rend class="latin">praesen</rend>tirten<lbr/>
+uns, waren folglich die Ursache, daß wir gleich<lbr type="BD"/>&#160;<choice><orig>gehöret</orig><corr hand="diff" schr_id="57010">gehört</corr></choice><lbr/>
+wurden. Ob wir nun den Churfürsten von Kölln in <rend class="latin">Bon</rend><lbr/>
+antreffen werden zweifle ich sehr; denn iezt ist er wirk<pc force="weak">=</pc><lbr/>lich noch in Westphalen. Ist er<lbr type="BD"/> nicht da, so gehen wir gleich<lbr/>
+nach <u>Kölln</u>; wenn sie demnach mir schreiben, so<lbr type="BD"/>&#160;<rend class="latin">addressi</rend>eren sie<lbr/>
+den Brief <u>an h<abbr type="curve">:</abbr> Franz Joseph Eschweiler in Kölln</u>, an welchen<lbr type="BD"/><lbr/>
+ich von <choice><orig>Frankfurth</orig><corr hand="diff" schr_id="57010">Frankfurt</corr></choice> einen Brief habe, Sollten wir auch<lbr/>
+nicht mehr in Kölln se&#255;n,<lbr type="BD"/> so wird mir der Brief schon nach<lbr/>
+gesandt werden. der hiesige Hof ist nicht<lbr type="BD"/>&#160;<rend class="latin">brillant</rend>,<lbr/>
+das meiste bestehet in Essen und tapfer <choice><orig>Trünken</orig><corr hand="diff" schr_id="57010">Trinken</corr></choice>.<lbr/>
+Nun <choice><orig>trünken</orig><corr hand="diff" schr_id="57010">trinken</corr></choice> wir halt<lbr type="BD"/> auch gute MoslerWeine,<lbr/>
+und der <choice><orig>hiningerbleicher</orig><corr hand="diff" schr_id="57010">hüningerbleicher</corr></choice> ist ein <rend class="latin">delicater</rend> Wein.<lbr type="BD"/><lbr/>
+wir <rend class="latin">logi</rend>ren hier in den 3. Reichskronen. unsere meiste<lbr/>
+Unterhaltung ist hier<lbr type="BD"/> die <rend class="latin">familie</rend> des h<abbr type="curve">.</abbr>&#160;<abbr type="topline" expand="von">v.</abbr>&#160;<rend class="latin">Kerpen</rend>,<lbr/>
+<pg n="6"/>
+der geheim kr Rath von Churfürsten und <rend class="latin">chef: de<lbr type="BD"/> la Noblesse</rend>,<lbr/>
+oder nach der hiesigen Redensart, Ritter Hauptmann ist<lbr/>
+und<lbr type="BD"/> 9. Kinder, nämbl: 7. junge H<abbr type="curve">:</abbr> und 2. Fräulein hat,<lbr/>
+die alle theils singen,<lbr type="BD"/>&#160;<rend class="latin">Violin</rend> und <rend class="latin">Violoncello</rend> und fast alle<lbr/>
+<rend class="latin">clavier</rend> spielen. der jüngste Knab hat<lbr type="BD"/> 10. Jahre, und alle sind<lbr/>
+schon versorgt. Einer ist <choice><orig><rend class="latin">Maiora</rend> h<abbr type="curve">.</abbr></orig><corr hand="diff" schr_id="57010"><rend class="latin">Maiorats</rend>herr</corr></choice>, 2. sind kaiserl:<lbr type="BD"/>&#160;<rend class="latin">officier</rend>,<lbr/>
+die anderen <choice><orig>hat</orig><corr hand="diff" schr_id="57010">haben</corr></choice> ieder 2. <rend class="latin">Canonicat</rend> theils zu Spe&#255;er,<lbr/>
+theils zu<lbr type="BD"/> Würzburg, und Ma&#255;nz und die <choice><orig>Fräulen</orig><corr hand="diff" schr_id="57010">Fräulein</corr></choice> sind<lbr/>
+schon Stifts<rend class="latin">Damen</rend>. Die Gebäude<lbr type="BD"/> sind wie in allen<lbr/>
+diesen Gegenden meistentheils alt, die Kirchen<lbr/>
+schmutzig und<lbr type="BD"/>&#160;<choice><orig>überhaupts</orig><corr hand="diff" schr_id="57010">überhaupt</corr></choice> sind die Strassen, und alles<lbr/>
+was in das Auge fällt nicht sauber<lbr type="BD"/> gehalten. Wenn<lbr/>
+ein Haus Baufällig so macht man aussen eisene <choice><orig>Schlüssen</orig><corr hand="diff" schr_id="57010">Schließen</corr></choice>,<lbr/>
+die,<lbr type="BD"/> wenns nicht viel braucht von <choice><orig>diken</orig><corr hand="diff" schr_id="57010">dicken</corr></choice> Eisenstangen<lbr/>
+die Jahr zahl wo es nöthig<lbr type="BD"/> ist, ganze <choice><orig>Nämen</orig><corr hand="diff" schr_id="57010">Namen</corr></choice> vorstellen.<lbr/>
+z: E: <choice><orig>wurde</orig><corr hand="diff" schr_id="57010">würde</corr></choice> es nicht schön stehen, wenn sie an<lbr type="BD"/> ihr<lbr/>
+Haus solche <choice><orig>Schlüssen</orig><corr hand="diff" schr_id="57010">Schließen</corr></choice> setzen liessen. H·A·G·E·N·A·U·E·R<lbr/>
+1·7·6·3. wo die<lbr type="BD"/> grossen <choice><orig>Punkten</orig><corr hand="diff" schr_id="57010">Punkte</corr></choice> sind, dort <choice><orig>ist</orig><corr hand="diff" schr_id="57010">sind</corr></choice> die <choice><orig>Schlüsse</orig><corr hand="diff" schr_id="57010">Schließe</corr></choice><lbr/>
+vestgemacht. sonst ist hier die<lbr type="BD"/> fliegende Brücke, über den<lbr/>
+Rhein, und die steinerne Brüke über die Mosel.<lbr type="BD"/> dann<lbr/>
+die Festung Ehrenbreitstein <abbr expand="etc.">p.</abbr> das Schloß oder die<lbr/>
+Residenz, das Schloß<lbr type="BD"/> Schönborns=Lust <abbr expand="etc.">p.</abbr> sehenswürdig.<lbr/>
+nur ist zu <choice><orig>bedauren</orig><corr hand="diff" schr_id="57010">bedauern</corr></choice>, daß i<abbr type="topline" expand="mm">m</abbr>er böses<lbr type="BD"/> Wetter ist,<lbr/>
+welches für den armen Landmann, der von Jahr zu Jahr<lbr/>
+<pg n="7"/>
+von der<lbr type="BD"/> Wein Arbeit lebt, sehr betrübt ist, denn bis iezt sieht<lbr/>
+man wenig Hofnung<lbr type="BD"/> Wein zu beko<abbr type="topline" expand="mm">m</abbr>en. Vermögliche Leute<lbr/>
+die den Keller voll <choice><orig>Weine</orig><corr hand="diff" schr_id="57010">Wein</corr></choice> haben,<lbr type="BD"/> lachen dazu, denn ihr Wein<lbr/>
+wird im Keller theuerer. <choice><orig>überhaupts</orig><corr hand="diff" schr_id="57010">überhaupt</corr></choice> ist von Augs<lbr type="BD"/>purg an<lbr/>
+biß in diese Gegenden alles von <choice><orig>Meilen</orig><corr hand="diff" schr_id="57010">Meile</corr></choice>, zu <choice><orig>Meilen</orig><corr hand="diff" schr_id="57010">Meile</corr></choice><lbr/>
+theuerer, so daß das<lbr type="BD"/> Pfund Rindfleisch welches in Augspurg<lbr/>
+6 Xr gilt in Schwetzingen 8 Xr. in<lbr type="BD"/> Ma&#255;nz, Frankfurth, und<lbr/>
+allen diesen Gegenden 9. und 10. Xr. ein E&#255; 1 Xr. auch<lbr type="BD"/><lbr/>
+mitten im So<abbr type="topline" expand="mm">m</abbr>er das ℔ Butter 20 Xr. auch 22. und 24 Xr. <abbr expand="etc">p</abbr>.<lbr/>
+ein ℔<lbr type="BD"/> Karpfen 24 Xr. <abbr expand="etc.">p.</abbr> gilt, das Holz kostet der <u>Stecken.</u><lbr/>
+welches ein Maaß ist.<lbr type="BD"/> das ein Pferd ziehet, 7. und 8. f.<lbr/>
+Das Brod ist halben Theil kleiner, als be&#255; uns, mehrern<pc force="weak">=</pc><lbr/>theils schlecht gebacken, das Mehl schwarz; wie wir de<abbr type="topline" expand="nn">n</abbr> in<lbr type="BD"/> diesen<lbr/>
+Gegenden gar keine Mehlspeise bis iezt gesehen haben,<lbr/>
+denn sie können<lbr type="BD"/> keine machen. Sie werden sich demnach<lbr/>
+nicht wundern, wenn sie hören, daß<lbr type="BD"/> wir bereits, seit dem<lbr/>
+wir von Salzburg weg sind, be&#255; 1068 f. ausgegeben<lbr type="BD"/> haben.<lbr/>
+Sie werden sich um so weniger wundern, wenn sie hören,<lbr/>
+daß wir in<lbr type="BD"/> Wasserburg schon wegen der 2. neuen Räder,<lbr/>
+ und des 2. tägigen Aufenthalts <suppl hand="diff" schr_id="57010" pos="inline">,</suppl><lbr type="BD"/> wo auch die 4. Pferde<lbr/>
+wegen des längeren Aufenthalts verzehren <choice><orig>müssen</orig><corr hand="diff" schr_id="57010">mußten</corr></choice><lbr type="BD"/><lbr/>
+35 f 35 Xr. ausgegeben, daß ich in München be&#255;m <u>Störzer</u><lbr/>
+47 f: 58 Xr. be&#255; den<lbr type="BD"/> 3. Mohren in Augspurg 95 f.<lbr/>
+Fuhrlohn bis Ulm 16 f. in Ulm be&#255;m goldenen<lbr type="BD"/> Rad 5 f. 8 Xr<lbr/>
+<pg n="8"/>
+in Ludwigsburg 11 f. 54 Xr <suppl hand="diff" schr_id="39408" pos="supra">im goldnen Waldhorrn</suppl>. im <rend class="latin">Bruchsal</rend><lbr type="BD"/> im Riesen 6 f. 36 Xr.<lbr/>
+für das eingeschlagne hintere Grosse Wagen Glaß 4 f.<lbr type="BD"/><lbr/>
+in <rend class="latin">Schwezingen</rend> im rothen Haus 76 f. in Worms be&#255;m Schwa<abbr type="topline" expand="nn">n</abbr><lbr/>
+4 f. 24 Xr. In<lbr type="BD"/> Frankfurt be&#255;m <choice><orig>golden</orig><corr hand="diff" schr_id="57010">goldnen</corr></choice> Löwen 120 f. im<lbr/>
+König <rend class="latin"><abbr type="topline" expand="von">v.</abbr></rend> Engelland zu Ma&#255;nz auf<lbr type="BD"/> 2 mal 87 f. ausgege<pc force="weak">=</pc><lbr/>ben haben. Hierzu ko<abbr type="topline" expand="mm">m</abbr>en die täglichen <choice><orig>zährungen</orig><corr hand="diff" schr_id="57010">Zehrungen</corr></choice> auf<lbr type="BD"/> dem<lbr/>
+Tag. die meistentheils auf 2 f. auch <choice><orig>etlich</orig><corr hand="diff" schr_id="57010">etliche</corr></choice> und 20 Xr geko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>,<lbr/>
+das<lbr type="BD"/> Fuhrlohn von Salzburg und München, dann von Ulm<lbr/>
+aus die Posten,<lbr type="BD"/>&#160;<choice><orig>Trünkgelder</orig><corr hand="diff" schr_id="57010">Trinkgelder</corr></choice>, Schmierl <abbr expand="etc">p</abbr> und unzählige<lbr/>
+Ausgaben; wo die Wäscher Lohn sehr<lbr type="BD"/> vieles <choice><orig>ausmachen</orig><corr hand="diff" schr_id="57010">ausmacht</corr></choice>, da<lbr/>
+man ein Hemd mit 8 Xr. bezahlen muß: nebst dem haben<lbr type="BD"/><lbr/>
+wir uns vieles angeschaft, worunter meine schöne <choice><orig><amend value="Manheimer">Monheimer</amend></orig><corr hand="diff" schr_id="57010">Manheimer</corr></choice><lbr/>
+<choice><orig>Stifl</orig><corr hand="diff" schr_id="57010">Stiefl</corr></choice> ihnen<lbr type="BD"/> ungemein gefallen würden, die aber 7. f.<lbr/>
+gekostet; man kann aber kein<lbr type="BD"/> schöners <choice><orig>Leeder</orig><corr hand="diff" schr_id="57010">Leder</corr></choice>, und keinen<lbr/>
+bequemern und schönern <choice><orig>Stifl</orig><corr hand="diff" schr_id="57010">Stiefl</corr></choice> sehen &#8211; &#8211; &#8211; be&#255;<lbr type="BD"/> allem<lbr/>
+diesem haben alle diese Ausgaben noch andere Leute<lbr/>
+bezahlet; und<lbr type="BD"/> ausser, was wir uns angeschaft, und einigen<lbr/>
+<rend class="latin">gallanterie=presenten</rend> war nichts<lbr type="BD"/> zu ersparen, weil wir<lbr/>
+zur Erhaltung unserer Gesundheit und meines Hofes<lbr type="BD"/><lbr/>
+<rend class="latin">reputation nobl</rend> od<abbr v="er"/> <rend class="latin">Cavaglierment</rend> reisen müssen. Hingegen<lbr/>
+haben wir auch<lbr type="BD"/> keinen andern Umgang als <rend class="latin">Noblessen</rend><lbr/>
+oder andere <rend class="latin">distingui</rend>rte <choice><orig>Persohnen</orig><corr hand="diff" schr_id="57010">Personen</corr></choice>:<lbr type="BD"/> und, wenn es mir<lbr/>
+gleich nicht anstehet, daß ich es selbst sage; so ist es doch<lbr type="BD"/><lbr/>
+<pg n="9"/>
+die Wahrheit, daß ich durch solche Aufführung unserm Hofe<lbr/>
+eine grosse<lbr type="BD"/> Ehre mache, und aller Orten die ausnehmende<lbr/>
+Höflichkeiten und alle beson<lbr type="BD"/>dere Achtung empfange.<lbr type="forced"/>
+<lbr type="forced"/>
+Alles dieses vergnüget mich um somehr, als ie weiter ich her<pc force="weak">=</pc><lbr/>unter ko<abbr type="topline" expand="mm">m</abbr>e, ie<lbr type="BD"/> weniger wird aus unserm Hofe gemacht;<lbr/>
+und man glaubt, weil hier die<lbr type="BD"/> Gegend ist, wo die 3 geistl:<lbr/>
+Churfürsten <choice><orig>be&#255;sam</orig><corr hand="diff" schr_id="57010">be&#255;sammen</corr></choice> im Umkreise sitzen, unser<lbr type="BD"/> Erzbischof<lbr/>
+habe weiters nichts mehrers zu bedeuten, als höchstens ein<lbr type="BD"/><lbr/>
+Bischof von <choice><orig>Eichstät</orig><corr hand="diff" schr_id="57010">Eichstädt</corr></choice> und Augspurg: und ich kann versicheren,<lbr/>
+daß alles grosse Augen macht, und auf meine Erzählungen,<lbr/>
+und auf unsere Aufführung <choice><orig>über<lbr type="BD"/>haupts</orig><corr hand="diff" schr_id="57010">überhaupt</corr></choice> sehr aufmerksam<lbr/>
+ist, und viele Sachen, die ich ganz <choice><orig>plat</orig><corr hand="diff" schr_id="57010">platt</corr></choice> heraussage,<lbr type="BD"/> mit vieler<lbr/>
+Befremdung anhören.<lbr type="forced"/>
+Ja ich muß sagen, daß ich in der That mich sehr gewundert, über<lbr/>
+die Lauig<lbr type="BD"/>keit, und schmutzige, nachlässige und recht bäuer<pc force="weak">=</pc><lbr/>ische Art, mit welcher die<lbr type="BD"/> Kirchen Ceremonien in Ma&#255;nz<lbr/>
+und <rend class="latin">Coblenz</rend> gehalten werden. Es ist kein<lbr type="BD"/> Wunder wenn<lbr/>
+es den Lutheranern, Kalvinisten und Juden, mit denen diese<lbr type="BD"/><lbr/>
+Gegenden <choice><orig>angefühlet</orig><corr hand="diff" schr_id="57010">angefüllt</corr></choice> sind, mehr zur <choice><orig>Argerniß</orig><corr hand="diff" schr_id="57010">Aergerniß</corr></choice> als zur<lbr/>
+Auferbauung dienet.<lbr type="BD"/> In Ma&#255;nz und <rend class="latin">Coblenz</rend> selbst sind zwar<lbr/>
+keine Lutheraner, noch <rend class="latin">Calvini</rend>sten:<lbr type="BD"/> aber destomehr Juden,<lbr/>
+<pg n="10"/>
+Sie ko<abbr type="topline" expand="mm">m</abbr>en aber genugsam dahin, ihrer Verrichtungen<lbr type="BD"/> halber,<lbr/>
+und es ist nur der Umstand, daß Sie alda nicht <choice><orig>ansessig</orig><corr hand="diff" schr_id="57010">ansässig</corr></choice> sind;<lbr/>
+weil in<lbr type="BD"/> den gegenden die meisten Örter aus Menschen von<lbr/>
+4. auch 5.<h>erle&#255;</h> Religionen<lbr type="BD"/> bestehen, mit einem Worte!<lbr/>
+unser Hof ist wirklich ein zwe&#255;ter Römischer<lbr type="BD"/> Hof, und<lbr/>
+unser gnädigster Erzbischof ein anderer Pabst. Ich habe leztlich<lbr type="BD"/><lbr/>
+noch vor meiner Abreise aus Ma&#255;nz be&#255; dem Eintritte<lbr/>
+in die St. Peters Kirche<lbr type="BD"/> still stehen und lachen müssen.<lbr/>
+Es war <u>Sonntags</u> den 11.<h>t<abbr v="en"/></h> 7b<abbr type="curve">:</abbr> und es war<lbr type="BD"/> alles schwarz aufge<pc force="weak">=</pc><lbr/>macht, es stand die <choice><orig>Todten=bahre</orig><corr hand="diff" schr_id="57010">Todten=baare</corr></choice> in der Mitte, es <choice><orig>ware</orig><corr hand="diff" schr_id="57010">war</corr></choice><lbr/>
+eine<lbr type="BD"/> Versa<abbr type="topline" expand="mm">m</abbr>lung von <choice><orig>Klag=persohnen</orig><corr hand="diff" schr_id="57010">Klag=personen</corr></choice> zugegen, und<lbr/>
+ward ein Todten Amt ab<lbr type="BD"/>gesungen. Und das thun sie<lbr/>
+<choice><orig>überhaupts</orig><corr hand="diff" schr_id="57010">überhaupt</corr></choice> in diesen Gegenden: das ist das ge<lbr type="BD"/>ringste.<lbr/>
+Nun etwas anders &#8211; &#8211; &#8211; &#8211; h<abbr type="curve">:</abbr> Graf Siegmund von<lbr/>
+Küenburg, der kleine<lbr type="BD"/> Graf von Langenhof, hat ein <rend class="latin">Canonicat</rend><lbr/>
+in Ma&#255;nz, weil ich noch da war, be<lbr type="BD"/>ko<abbr type="topline" expand="mm">m</abbr>en. Vielleicht<lbr/>
+wissen sie es ohnedem. Daß Tit<abbr type="curve">:</abbr> S:<h>e</h> Fürstl: Gnaden <abbr type="topline" expand="von">v</abbr><lbr/>
+<choice><orig><rend class="latin">Seccau</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">Seckau</rend></corr></choice><lbr type="BD"/> nun Bischof zu Passau geworden, vergnüget mich un<pc force="weak">=</pc><lbr/>endlich, die h<abbr type="curve">:</abbr> Passauer<lbr type="BD"/> haben das Glück gehabt abermal<lbr/>
+einen auferbaulichen Bischof zu beko<abbr type="topline" expand="mm">m</abbr>en.<lbr type="BD"/>&#160;<u>Wer ist dann<lbr/>
+in Trient endlich Bischof geworden?</u> &#8211; &#8211; &#8211; in unserer<lbr/>
+Nachbar<lbr type="BD"/>schaft ward, da ich zu Ma&#255;nz <choice><orig>ware</orig><corr hand="diff" schr_id="57010">war</corr></choice> der h<abbr type="curve">.</abbr> Graf<lbr/>
+<choice><orig><rend class="latin">Spauer</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">Spaur</rend></corr></choice>&#160;<choice><orig>Brud<abbr v="er"/></orig><corr hand="diff" schr_id="57010">Bruder</corr></choice> t<abbr type="curve">.</abbr> h<abbr type="curve">:</abbr> Grafens<lbr type="BD"/>
+Ignati <abbr expand="etc.">p.</abbr> dem mich un<pc force="weak">=</pc><lbr/>terthänigst empfehle, zu Wezlar Ka<abbr type="topline" expand="mm">m</abbr>er Richter: und<lbr type="BD"/><lbr/>
+man glaubt der Oberst=Stallmeister <choice><orig><abbr type="topline" expand="von">v</abbr></orig><corr hand="diff" schr_id="57010">in</corr></choice> Ma&#255;nz h<abbr type="curve">.</abbr> graf<lbr/>
+<pg n="11"/>
+<abbr type="topline" expand="von">v</abbr>&#160;<rend class="latin">Bassenheim</rend> soll <rend class="latin">Prae<lbr type="BD"/>sident</rend> werden.<lbr type="forced"/>
+Der <rend class="latin">Mademoiselle Joli</rend> empfehlen wir uns alle. vor<lbr/>
+Allerheiligen ko<abbr type="topline" expand="mm">m</abbr>en wir<lbr type="BD"/> nicht nach Paris, ja vielleicht<lbr/>
+noch später: denn erstlich muß ich die Reise so<lbr type="BD"/> einrichten.<lbr/>
+2.<h>tens</h> nuzt es uns nichts eher in Paris zu se&#255;n: weil<lbr/>
+alles auf dem<lbr type="BD"/> Lande ist, und erst im <rend class="latin">November</rend> nach und<lbr/>
+nach in die Stadt ko<abbr type="topline" expand="mm">m</abbr>t. Die gräfin<lbr type="BD"/>&#160;<choice><orig><rend class="latin">v: vaneek</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">van Eyck</rend></corr></choice>&#160;<amend value="kann">ka<abbr type="topline" expand="nn">n</abbr>n</amend><lbr/>
+uns, wenn ihr Herr will, leicht ein zi<abbr type="topline" expand="mm">m</abbr>er in ihrem<lbr/>
+Hause<lbr type="BD"/> geben: den ich habe Nachricht, daß Sie gross logiert<lbr/>
+sind. wenigst wäre ich an einem sichern und<lbr/>
+ansehnlich<abbr v="en"/> orte. Sie wird wohl be&#255; hofe speisen.<lbr/>
+Ein Wort<lbr type="BD"/> von S Hochf<abbr type="curve"></abbr> gnaden unserem gnädigsten herrn<lbr/>
+würde und könnte die Sache<lbr type="BD"/> geschwind richtig machen.<lbr/>
+wir würden ihrem Hause nicht die mindeste Unge<lbr type="BD"/>legenheit,<lbr/>
+ihr aber manche Unterhaltung verursachen.<lbr type="forced"/>
+Schicken Sie der Jungf: Rosalie joli be&#255;liegendes.<lbr type="forced"/>
+Ich muß schliessen. entschuldigen Sie die verwirrte Schreibart.<lbr/>
+Ich muß hin<lbr type="BD"/>schreiben, so wie mir die Sachen be&#255;fall<abbr v="en"/>.<lbr/>
+und <suppl hand="self" pos="supra">wie</suppl> oft bin ich doch be&#255;<lbr type="BD"/> diesem Brief durch die ankunft<lbr/>
+bald des b: v: <choice><orig>Walderdorff</orig><corr hand="diff" schr_id="57010">Walderndorff</corr></choice>, bald des b: v:<lbr type="BD"/>&#160;<choice><orig>Hochenfeld</orig><corr hand="diff" schr_id="57010">Hohenfeld</corr></choice>, b: v:<lbr/>
+Kerpen <abbr expand="etc:">p:</abbr> und <corr hand="diff" schr_id="57010" value="anderen">andern</corr> gehindert word<abbr v="en"/>. wir empfehlen<lbr type="BD"/><lbr/>
+uns alle in <rend class="latin">genere et specie</rend> allen guten freund<abbr v="en"/> und freundin<abbr v="en"/>:<lbr type="forced"/>
+ich bin.<lbr type="forced"/>
+<ts>_____</ts>d<abbr v="en"/> 26t<abbr v="en"/>&#160;<rend class="latin">septb<abbr type="curve">:</abbr></rend> 1763.<lbr/>
+<pg n="12"/>
+<vacat/>
+</NI>
+</letter>
+</text>
+</MUP>

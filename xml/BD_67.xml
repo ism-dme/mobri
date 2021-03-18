@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2020">2020-02</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=625</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Verbleib unbekannt (Vorlage: Abschrift um 1768 in D-B)</bibl>
+            <bibl type="source" subtype="RISM">Verbleib unbekannt, Vorlage: Abschrift um 1768 in D-B</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:36:33 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_67.mup">
+<letter bd="67">
+<NI src="unbekannt">
+<HEADER id="625">LEOPOLD MOZART AN LORENZ HAGENAUER IN SALZBURG<lbr/>
+BRÜSSEL, 17. OKTOBER BIS 4. NOVEMBER 1763</HEADER>
+<pg n="1"/>
+<add_num schr_id="57010" impl="crayon" color="red"><ts>_______________________________</ts>N. 18</add_num>
+<ts>____________________________</ts><tspdf>\hfill </tspdf><rend class="latin">Brüssel</rend> den 17.<h>t<abbr v="en"/></h>&#160;<rend class="latin">Oct<abbr type="curve">:</abbr></rend>&#160;<u>1763</u>.<lbr type="forced"/>
+<ts>____________________________</ts><tspdf>\hfill </tspdf><u>Geschlossen den 4.<h>t<abbr v="en"/></h>&#160;<rend class="latin">Novb<abbr type="curve">:</abbr></rend></u><lbr type="forced"/>
+<lbr type="forced"/>
+<rend class="latin">Monsieur mon tres cher ami</rend>!<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____</ts>Meinen erstaunlich langen Brief aus<lbr/>
+<rend class="latin">Coblenz</rend> werden sie sondern Zweifel<lbr type="BD"/> erhal<pc force="weak">=</pc><lbr/>ten haben. Wir haben in <rend class="latin">Coblenz</rend> ein<lbr/>
+eigen Schiff genommen und sind<lbr type="BD"/> um 10. Uhr<lbr/>
+abgefahren und Abends be&#255; Zeiten in <rend class="latin">Bonn</rend><lbr/>
+eingetroffen. Der<lbr type="BD"/> Churfürst von Cölln<lbr/>
+ war noch in Westphalen. Wir sachen das<lbr/>
+Schloss oder<lbr type="BD"/>&#160;<rend class="latin">Residenz</rend>, <rend class="latin">Poppelsdorff</rend> und alles<lbr/>
+was zu sehen ist, und giengen mit der Post<lbr type="BD"/><lbr/>
+über Brühl nach <placeName key="150">Cölln</placeName>, wo wir Abends<lbr/>
+be&#255; Zeiten eintraffen, unterwegs aber<lbr type="BD"/> alle<lbr/>
+Schönheiten der Schlösser Falkenlust, Brühl,<lbr/>
+die Fasanere&#255;, die Indiani<lbr type="BD"/>schen Häusser, das<lbr/>
+so genannte Schneckenhaus <abbr expand="etc">p</abbr> und alles be<pc force="weak">=</pc><lbr/>sachen. Die<lbr type="BD"/> Kostbahrkeiten und Selten<pc force="weak">=</pc><lbr/>heiten, die der von allen Unterthanen noch<lbr/>
+bis diese<lbr type="BD"/> Stunde gepriesene seel: Churfürst<lbr/>
+<pg n="2"/>
+<rend class="latin"><persName key="84252">Clemens Augustus</persName></rend> an diesen Orten hinter<pc force="inter">=</pc><lbr/>lassen sind ganz ausserordentlich, sonder<pc force="weak">=</pc><lbr/>heitlichen die <choice><orig><rend class="latin">Jubellen</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">Ju</rend>welen</corr></choice>, Mahlere&#255;en,<lbr type="BD"/>&#160;<rend class="latin">Sta<pc force="weak">=</pc><lbr/>tuen</rend>, und alle Erfindungen von Uhren.<lbr/>
+Unter andern sind Tische im <rend class="latin">Con<lbr type="BD"/>cert</rend> Saale<lbr/>
+|: der erstaunlich groß ist :| die von dem<lbr/>
+schönsten Schwarzen<lbr type="BD"/> Marmor zu se&#255;n scheinen,<lbr/>
+sie <choice><orig>kennen</orig><corr hand="diff" schr_id="57010">können</corr></choice> aber nicht von <rend class="latin">Marmor</rend>, son<pc force="weak">=</pc><lbr/>dern von<lbr type="BD"/> einer Stein-<rend class="latin">Composition</rend> se&#255;n,<lbr/>
+denn es sind von verschiedener Art Kupfer<pc force="inter">=</pc><lbr/>stiche darauf angebracht, die zerstreut da<pc force="weak">=</pc><lbr/>rauf herumzuliegen scheinen, so daß<lbr type="BD"/> man<lbr/>
+sie wegnehmen zu können glaubt; mir<lbr/>
+scheinet solches von darum zu<lbr type="BD"/> berichten,<lbr/>
+merckwürdig, weil das gewisse von S:<h>er</h><lbr/>
+<rend class="latin">Excellenz</rend> unsern H<abbr type="curve">:</abbr> Oberst<lbr type="BD"/>hofmeister<lbr/>
+in Kupfer <rend class="latin">radi</rend>rte alte Hennenweib auch<lbr/>
+da auf dem Tische an<lbr type="BD"/>zutreffen <choice><orig>ware</orig><corr hand="diff" schr_id="57010">war</corr></choice>,<lbr/>
+welches zu sehen mir ein wahres Vergnü<pc force="weak">=</pc><lbr/>gen machte. In Cölln,<lbr type="BD"/> der Alten,<lbr/>
+nicht sehr bewohnten traurigen und er<pc force="weak">=</pc><lbr/>staunlich grossen Statt<lbr type="BD"/> waren wir 2. Tage.<lbr/>
+<pg n="3"/>
+Wir hatten die Gelegenheit den Schatz<lbr/>
+im Münster samt<lbr type="BD"/> allen ihren <choice><orig>Heiligthum<pc force="weak">=</pc><lbr/>en</orig><corr hand="diff" schr_id="57010">Heiligthümern</corr></choice> zu besehen, ich hatte aber auch hier<lbr/>
+samt den<lbr type="BD"/> meinigen und 2. Herren <rend class="latin">Ca<pc force="weak">=</pc><lbr/>nonicis</rend> von <rend class="latin">Bamberg</rend> und Ma&#255;nz neue<lbr/>
+Gelegenheit<lbr type="BD"/> mich über viele Sachen ein we<pc force="weak">=</pc><lbr/>nig zu ärgern. Der Herr <rend class="latin">Custos</rend>,<lbr/>
+einer, der unter<lbr type="BD"/> denen ist, die mit den<lbr/>
+würcklichen Domherrn <rend class="latin">votum activum</rend><lbr/>
+aber nicht<lbr type="BD"/>&#160;<rend class="latin">passivum in Capitulo</rend> haben, der<pc force="weak">=</pc><lbr/>gleichen etliche gemeine <rend class="latin">Canonici</rend> sind, kam<lbr type="BD"/><lbr/>
+betruncken aus der Vesper, uns den Schatz<lbr/>
+zu zeigen <abbr expand="etc.">p.</abbr> und das heist man:<lbr type="BD"/>&#160;<u>auf gut<lbr/>
+Cöllnisch gelebt.</u> Die Domkirche kann<lbr/>
+ich ihnen unmöglich so ab<lbr type="BD"/>scheulich beschreiben,<lbr/>
+als sie hier inwendig aussiehet. Sie<lbr/>
+sehen etwa 4.<lbr type="BD"/> Kürchen Stühle, die sind<lbr/>
+aus 2. langen runden <choice><orig>Stück</orig><corr hand="diff" schr_id="57010">Stücken</corr></choice> Holz oder<lbr/>
+Tra<abbr type="topline" expand="mm">m</abbr>en zusammengenagelt, wie be:y uns<lbr/>
+auf den Strassen be&#255; einer FeldCapelle.<lbr/>
+In<lbr type="BD"/> einem <choice><orig>Winckl</orig><corr hand="diff" schr_id="57010">Winkel</corr></choice> liegen <choice><orig>Ströhene</orig><corr hand="diff" schr_id="57010">Stroh</corr></choice> Sessel<lbr/>
+auf <choice><orig>einen Haufe</orig><corr hand="diff" schr_id="57010">einem Haufen</corr></choice> be&#255;sammen, die man<lbr type="BD"/><lbr/>
+<pg n="4"/>
+den <choice><orig>Leuthen</orig><corr hand="diff" schr_id="57010">Leuten</corr></choice> für Geld bringt. Mitten<lbr/>
+in der Kirche steht ein abscheuliche<lbr type="BD"/> Nussbaum<pc force="weak">=</pc><lbr/>braun angestrichene <choice><orig>Uhralte</orig><corr hand="diff" schr_id="57010">Uralte</corr></choice> Canzel, die<lbr/>
+auf 4. Füssen stehet deren<lbr type="BD"/> einer ein wenig<lbr/>
+abgebrochen, folglich, weil er zu kurz,<lbr/>
+mit einem Ziegelstein<lbr type="BD"/> unterlegt ist, und<lbr/>
+die 2. Menschen ohne Mühe hin und her<lbr/>
+tragen können.<lbr type="BD"/> Auf dieser Canzel<lbr/>
+soll Luther geprediget haben: und es wird<lbr/>
+heut zu Tage<lbr type="BD"/> noch allzeit darauf gepre<pc force="weak">=</pc><lbr/>digt. Neben be&#255; stehen 2. dergleichen<lbr/>
+alte <choice><orig>Kästen</orig><corr hand="diff" schr_id="57010">Kasten</corr></choice>, die<lbr type="BD"/> an 2. Säulen anleh<pc force="weak">=</pc><lbr/>nen. Die <choice><orig>Kästen</orig><corr hand="diff" schr_id="57010">Kasten</corr></choice> sind alle <choice><orig>Minutten</orig><corr hand="diff" schr_id="57010">Minuten</corr></choice><lbr/>
+zum zerfallen, die noch<lbr type="BD"/> übrigen paar<lbr/>
+leisten liegen oben darauf. Dieß ist<lbr/>
+die ganze <choice><orig>Ausziehrung</orig><corr hand="diff" schr_id="57010">Auszierung</corr></choice> des<lbr type="BD"/> hintern und<lbr/>
+mittlern <choice><orig>Theil</orig><corr hand="diff" schr_id="57010">Theils</corr></choice> der Kirche. Der Chor ist<lbr/>
+verschlossen, und man<lbr type="BD"/> muß zum haupt<pc force="strong">=</pc><lbr/>Altar durch ein paar Seiten=Capellen<lbr/>
+hinzu gehen, oder zum<lbr type="BD"/> Fenster hineinsehen,<lbr/>
+wenn man von der Mitte dahin sehen<lbr/>
+will. Das <rend class="latin">psalli</rend>eren<lbr type="BD"/> ist mehr <choice><orig>ein judenschuel</orig><corr hand="diff" schr_id="57010">eine Judenschule</corr></choice><lbr/>
+<conv><ts>____________________________________________________________</ts>als</conv>
+<pg n="5"/>
+als ein Christlicher Gesang: und <choice><orig>denen</orig><corr hand="diff" schr_id="57010">den</corr></choice> Bu<pc force="weak">=</pc><lbr/>ben, so die<lbr type="BD"/>&#160;<rend class="latin">Antiphon</rend>en singen, soll man<lbr/>
+mit etwas &#8211; &#8211; &#8211; das Maul stopfen; Es<lbr/>
+ist<lbr type="BD"/> unmöglich zu glauben: Sie singen <rend class="latin">abso<pc force="weak">=</pc><lbr/>lute</rend> gar nicht, sondern sie schre&#255;en,<lbr type="BD"/> wie ab<pc force="weak">=</pc><lbr/>gefeimte Gassen Spitzbuben aus vollem<lbr/>
+Halße, als wenn sie närrisch<lbr type="BD"/> wären.<lbr/>
+Sagen sie mir, wäre es denn nicht auf<pc force="weak">=</pc><lbr/>erbaulicher, wenn das Gottes<lbr type="BD"/> Haus in ei<pc force="weak">=</pc><lbr/>nen herrlichen und reinen Stand gesetzet<lbr/>
+würde, als daß so viele<lbr type="BD"/>&#160;<choice><orig>Jubelle</orig><corr hand="diff" schr_id="57010">Juwellen</corr></choice>, Gold<lbr/>
+und Silber |: mit denen die Gebeine der<lbr/>
+Heiligen in grosser<lbr type="BD"/> Menge und anders<lbr/>
+dick eingefaßt sind :| in eisernen <choice><orig>Kästen</orig><corr hand="diff" schr_id="57010">Kasten</corr></choice><lbr/>
+liegen und fürs<lbr type="BD"/> Geld gezeigt werden,<lbr/>
+da entzwischen der Tempel des <choice><orig>Herren</orig><corr hand="diff" schr_id="57010">Herrn</corr></choice><lbr/>
+einem Pferd=<choice><orig><suppl hand="self" pos="supra">Stahl</suppl></orig><corr hand="diff" schr_id="57010">Stall</corr></choice><lbr type="BD"/> ähnlich siehet.<lbr type="forced"/>
+<ts>_____</ts>Von Cölln sind wir mit der Post nach<lbr/>
+<choice><orig>Achen</orig><corr hand="diff" schr_id="57010">Aachen</corr></choice> gegangen. Das ist der abscheu<lbr type="BD"/>lichste<lbr/>
+Weg. In Coblenz und dem ganzen<lbr/>
+Trierischen hatten wir eine andere<lbr type="BD"/> Geld<pc force="strong">=</pc><lbr/>Rechnung zu lernen. <choice><orig>Dan</orig><corr hand="diff" schr_id="57010">Denn</corr></choice> da hörte un<pc force="weak">=</pc><lbr/>sere Reichsmüntze auf, und man<lbr type="BD"/> muste<lbr/>
+<pg n="6"/>
+sich auf die <choice><orig><rend class="latin"><u>Petermencker</u></rend></orig><corr hand="diff" schr_id="57010"><rend class="latin"><u>Petermänncher</u></rend></corr></choice>, und auf soge<pc force="weak">=</pc><lbr/>nannten schweren und leichten<lbr type="BD"/> Kreutzer<lbr/>
+verstehen. In Cölln und <rend class="latin">Bo<abbr type="topline" expand="nn">n</abbr></rend> galt dieß<lbr/>
+alles nichts, und da fiengen<lbr type="BD"/> die <u>Stüber</u><lbr/>
+und die <choice><orig>fettmenchen</orig><corr hand="diff" schr_id="57010">fettmännchen</corr></choice> an. In Aachen <choice><orig>kam<pc force="weak">=</pc><lbr/>men</orig><corr hand="diff" schr_id="57010">kamen</corr></choice> die Aachner <u>Stüber</u><lbr type="BD"/>&#160;<u>Busch</u> und <choice><orig><u>Marck:</u></orig><corr hand="diff" schr_id="57010"><u>Mark:</u></corr></choice><lbr/>
+und im grossen die Reichsthaler und <choice><orig><u><rend class="latin">Pattac<pc force="weak">=</pc><lbr/>cons</rend></u></orig><corr hand="diff" schr_id="57010"><rend class="latin">Pattacons</rend></corr></choice>, auch die<lbr type="BD"/> Schillinge <abbr expand="etc">p</abbr> in Lüttich <choice><orig>kam<pc force="weak">=</pc><lbr/>men</orig><corr hand="diff" schr_id="57010">kamen</corr></choice> die <rend class="latin"><u>Sous</u></rend> dazu. Und hier ist alles<lbr/>
+wieder nichts;<lbr type="BD"/> sonderen man muß an<pc force="weak">=</pc><lbr/>dere <rend class="latin"><u>Sous</u></rend>, die <rend class="latin"><u>Escalins</u></rend>, die <u>Brabanter<lbr/>
+Gulden</u>, und<lbr type="BD"/>&#160;<choice><orig><rend class="latin"><u>plaquèt</u></rend></orig><corr hand="diff" schr_id="57010"><rend class="latin"><u>plaquèts</u></rend></corr></choice>, die Stück deren<lbr/>
+eins 3. <rend class="latin">Escalins</rend> und <formula type="mfrac"><mn>1</mn><mi>2</mi></formula> gilt <abbr expand="etc">p</abbr>, kennen ler<pc force="weak">=</pc><lbr/>nen <abbr expand="etc">p</abbr> Es<lbr type="BD"/> ist nicht zu sagen, was man<lbr/>
+bald hier bald dort am Geld verliert.<lbr/>
+Und so bald<lbr type="BD"/> man von hier weg über <choice><orig><rend class="latin">Va<pc force="weak">=</pc><lbr/>lenciens</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">Valenciennes</rend></corr></choice> kömmt, so ist <choice><orig>abermahl</orig><corr hand="diff" schr_id="57010">abermal</corr></choice> die Geld<lbr/>
+Änderung; wo nichts als nur <rend class="latin">Louisd'or</rend>,<lbr/>
+<choice><orig>feder</orig><corr hand="diff" schr_id="57010">Feder</corr></choice> Thaler, und französische <rend class="latin">sous</rend><lbr type="BD"/> zu ge<pc force="weak">=</pc><lbr/>brauchen sind: so daß ich ietzt manch<pc force="weak">=</pc><lbr/>mal nicht gewust habe, wie ich<lbr type="BD"/> meine Aus<pc force="weak">=</pc><lbr/>gaben <rend class="latin">noti</rend>ren soll. Nun kömmt meine<lbr/>
+<choice><orig><rend class="latin">Fatalitet</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">Fatalität</rend></corr></choice>. Ich gedachte in<lbr type="BD"/> Aachen nichts<lbr/>
+weiter mich aufzuhalten, als bis meine<lbr/>
+<pg n="7"/>
+<rend class="latin">Credit</rend>=Briefe abgeänderet<lbr type="BD"/> waren; allein<lbr/>
+in der Nacht <choice><orig>bekamme</orig><corr hand="diff" schr_id="57010">bekam</corr></choice> ich meinen sonst<lbr/>
+gewöhnlichen Schmerzen,<lbr type="BD"/> und den anderen<lbr/>
+Tag die richtige <choice><orig><rend class="latin">Schiatica</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">Sciatica</rend></corr></choice>: Es hieß also<lbr/>
+aufgesessen und da<lbr type="BD"/> geblieben. Da<lbr/>
+nun Aachen der <choice><orig>teuerste</orig><corr hand="diff" schr_id="57010">theuerste</corr></choice> Ort ist, den ich<lbr/>
+Zeit meiner Reise<lbr type="BD"/> angetroffen, so hatte<lbr/>
+ich auch hier die Ehre <rend class="latin">nolens volens</rend> über<lbr/>
+75 f: zu<lbr type="BD"/> bezahlen. Es war die <choice><orig>Prinzesin</orig><corr hand="diff" schr_id="57010">Prinzessin</corr></choice><lbr/>
+<rend class="latin">Amalia</rend> des Königs in Preussen Schwester<lbr/>
+zwar<lbr type="BD"/> in Aachen, allein sie hat selbst kein<lbr/>
+Geld, und ihre ganze <rend class="latin">Equipage</rend> und <choice><orig>Hof<pc force="inter">=</pc><lbr/>statt</orig><corr hand="diff" schr_id="57010">Hofstaat</corr></choice> sieht der <rend class="latin">Suite</rend> eines <choice><orig>Arzten</orig><corr hand="diff" schr_id="57010">Arzts</corr></choice> so<lbr/>
+ähnlich, als ein tropfen Wasser dem<lbr type="BD"/><lbr/>
+andern. Wenn die Küsse, so sie meinen<lbr/>
+Kindern, sonderheitlich dem Meister<lbr type="BD"/> Wolf<pc force="weak">=</pc><lbr/>gang gegeben, lauter neue <rend class="latin">Louisd'or</rend> wä<pc force="weak">=</pc><lbr/>ren, so wären wir glücklich<lbr type="BD"/> genug; al<pc force="weak">=</pc><lbr/>leine weder der Wirth noch die <choice><orig>Postmei<pc force="weak">=</pc><lbr/>sters</orig><corr hand="diff" schr_id="57010">Postmeister</corr></choice> lassen sich mit Küssen<lbr type="BD"/> abfertigen.<lbr/>
+Das lächerlichste war mir, daß sie mich<lbr/>
+durch alles hat bereden<lbr type="BD"/> wollen nicht nach<lbr/>
+Paris, sondern nach <rend class="latin">Berlin</rend> zu gehen,<lbr/>
+und zwar mit <rend class="latin">pro<lbr type="BD"/>position</rend>en, die ich, weil<lbr/>
+<pg n="8"/>
+man sie nicht glauben <choice><orig>wurde</orig><corr hand="diff" schr_id="57010">würde</corr></choice>, nicht hersetzen<lbr/>
+mag:<lbr type="BD"/>&#160;<choice><orig>dann</orig><corr hand="diff" schr_id="57010">denn</corr></choice> ich glaubte sie selbst nicht, son<pc force="weak">=</pc><lbr/>derheitlich die <rend class="latin">proposition</rend>, die sie mir<lbr type="BD"/> mach<pc force="weak">=</pc><lbr/>te, für meine Person. <rend class="latin">Vestigia terrent</rend>;<lbr/>
+sagte der <choice><orig>Fux</orig><corr hand="diff" schr_id="57010">Fuchs</corr></choice>. Von Aachen sind<lbr type="BD"/> wir<lbr/>
+nach Lüttich gegangen; wo wir in der Nacht<lbr/>
+erst um 9. Uhr angelangt<lbr type="BD"/> sind: weil uns<lbr/>
+unterwegs der eisene <choice><orig>Raif</orig><corr hand="diff" schr_id="57010">Reif</corr></choice> von einem vor<pc force="weak">=</pc><lbr/>dern Rade abgegangen.<lbr type="BD"/> Lüttich ist gross,<lbr/>
+vollkreich, und nahrhaft, wo alles in Beweg<pc force="weak">=</pc><lbr/>ung ist. In der<lbr type="BD"/> Frühe nach <choice><orig><formula type="mfrac"><mn>1</mn><mi>2</mi></formula> 8</orig><corr hand="diff" schr_id="57010">7 <formula type="mfrac"><mn>1</mn><mi>2</mi></formula></corr></choice> Uhr sind<lbr/>
+wir von Lüttich abgefahren. Es war der<lbr/>
+schönste<lbr type="BD"/> Tag: wir hatten aber die <choice><orig><rend class="latin">Fatalitet</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">Fatalität</rend></corr></choice>,<lbr/>
+daß, da wir kaum 3. kleine <choice><orig>Stunde</orig><corr hand="diff" schr_id="57010">Stunden</corr></choice><lbr type="BD"/> gefah<pc force="weak">=</pc><lbr/>ren, das halbe theil vom Reif des 2.<h>t<abbr v="en"/></h> vordern<lbr/>
+Rades absprang. Sie<lbr type="BD"/> müssen sich aber nicht<lbr/>
+wundern, denn von Lüttich bis <rend class="latin">Paris</rend> |: be<pc force="weak">=</pc><lbr/>dencken<lbr type="BD"/> sie den erstaunlichen <choice><orig>Weeg</orig><corr hand="diff" schr_id="57010">Weg</corr></choice> :| ist die<lbr/>
+<choice><orig>Poststraßen</orig><corr hand="diff" schr_id="57010">Poststraße</corr></choice>, <u>wie ein <choice><orig>Statt</orig><corr hand="diff" schr_id="57010">Stadt</corr></choice> gepflastert,</u> und<lbr type="BD"/><lbr/>
+be&#255;derseits, wie <choice><orig>ein</orig><corr hand="diff" schr_id="57010">eine</corr></choice>&#160;<choice><orig>garten <rend class="latin">Allée</rend></orig><corr hand="diff" schr_id="57010">garten=<rend class="latin">Allée</rend></corr></choice>, mit<lbr/>
+Bäumen besetzet. Stellen sie sich nun<lbr type="BD"/> aber<lbr/>
+auch vor, wie ein so lang gepflasterter<lbr/>
+<choice><orig>Weeg</orig><corr hand="diff" schr_id="57010">Weg</corr></choice> die <choice><orig>Wägen</orig><corr hand="diff" schr_id="57010">Wagen</corr></choice>, Räder, und<lbr type="BD"/> sonder<pc force="weak">=</pc><lbr/>heitlich das Eisenwerck angreifft und zu<lbr/>
+<pg n="9"/>
+Grunde <choice><orig>richt</orig><corr hand="diff" schr_id="57010">richtet</corr></choice>. Wir musten<lbr type="BD"/> also um<lbr/>
+2. <choice><orig>Stunde</orig><corr hand="diff" schr_id="57010">Stunden</corr></choice> eher das Mittagmahl einnehmen,<lbr/>
+bis das Rad wieder in<lbr type="BD"/> Ordnung war:<lbr/>
+allein der Ort war schlecht, in einem <choice><orig>Wirts<pc force="weak">=</pc><lbr/>hause</orig><corr hand="diff" schr_id="57010">Wirths<pc force="weak">=</pc><lbr/>hause</corr></choice> wo nur<lbr type="BD"/> fuhrleute futtern, <choice><orig>satzen</orig><corr hand="diff" schr_id="57010">saßen</corr></choice><lbr/>
+wir auf Holländisch auf ströhenen Sesseln<lbr/>
+zum<lbr type="BD"/> Ca<abbr type="topline" expand="mm">m</abbr>infeuer, wo ein kessel an einer<lbr/>
+langen <choice><orig>Ketten</orig><corr hand="diff" schr_id="57010">Kette</corr></choice> hieng, in welchem fleisch,<lbr type="BD"/> Rü<pc force="weak">=</pc><lbr/>ben <abbr expand="etc">p</abbr> und allerhand be&#255;sammen <rend class="latin">en com<pc force="weak">=</pc><lbr/>pagnie</rend> sieden muste. da bekamen wir<lbr/>
+ein klein elendes Tischchen hin, und aus<lbr/>
+dem großen Kessel wurde uns<lbr type="BD"/>&#160;<choice><orig>Suppen</orig><corr hand="diff" schr_id="57010">Suppe</corr></choice><lbr/>
+und fleisch angerichtet, und eine <choice><orig><rend class="latin">Bouttelie</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">Bouttellie</rend></corr></choice><lbr/>
+Rother <choice><orig>Champagnier</orig><corr hand="diff" schr_id="57010">Champagner</corr></choice> ge<lbr type="BD"/>reichet, dabe&#255; aber<lbr/>
+kein Wort Teutsch, sondern pur <choice><orig><rend class="latin">Wallon<pc force="weak">=</pc><lbr/>ni</rend>sch</orig><corr hand="diff" schr_id="57010"><rend class="latin">Walloni</rend>sch</corr></choice>, das ist,<lbr type="BD"/> schlecht französisch gesprochen.<lbr/>
+Die Thüre war beständig offen, darum<lbr/>
+hatten<lbr type="BD"/> wir sehr oft die Ehre, daß uns die<lbr/>
+Schweine einen Besuch abstatteten und um<lbr type="BD"/><lbr/>
+uns herum gruntzten. Sie <choice><orig>kennen</orig><corr hand="diff" schr_id="57010">können</corr></choice> sich<lbr/>
+nichts <choice><orig>natürlichers</orig><corr hand="diff" schr_id="57010">natürlicher</corr></choice> vorstellen, als wenn<lbr type="BD"/><lbr/>
+sie sich unsere Mittags Tafel, als ein ge<pc force="weak">=</pc><lbr/>mahltes Holländer=Stück vorstellen.<lbr type="BD"/> Wir<lbr/>
+sagten es <choice><orig>etlichmal</orig><corr hand="diff" schr_id="57010">etlichemal</corr></choice>&#160;<stroke hand="diff" schr_id="57010">zusa<abbr type="topline" expand="mm">m</abbr>en</stroke>, daß wir<lbr/>
+<pg n="10"/>
+wünschten, daß uns die Frau Hagenaue<pc force="weak">=</pc><lbr/>rin<lbr type="BD"/> in unserer <choice><orig>damahligen</orig><corr hand="diff" schr_id="57010">damaligen</corr></choice> Stellung sehen<lbr/>
+sollte. das werden sie sich wohl ein<lbr type="BD"/>bil<pc force="weak">=</pc><lbr/>den, daß wir die <choice><orig>Mahlzeit</orig><corr hand="diff" schr_id="57010">Malzeit</corr></choice> und Arbeit<lbr/>
+für die Räder auf Lückisch oder gut<lbr type="BD"/>&#160;<rend class="latin">Wal<pc force="weak">=</pc><lbr/>loni</rend>sch haben bezahlen müssen. Denn dieß<lbr/>
+ist, sonderlich für fremde, das<lbr type="BD"/>&#160;<choice><orig>bosshafteste</orig><corr hand="diff" schr_id="57010">boshafteste</corr></choice><lbr/>
+Volck der Welt. In <choice><orig><rend class="latin">Tirllemond</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">Tirlemont</rend></corr></choice>&#160;<amend value="blieben">bleiben</amend><lbr/>
+wir übernacht, da sassen<lbr type="BD"/> wir wieder be&#255;m<lbr/>
+<choice><orig>Cammin</orig><corr hand="diff" schr_id="57010">Camin</corr></choice> Feuer. <choice><orig><rend class="latin">Tirlliemond</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">Tirlemont</rend></corr></choice> muß seiner<lbr/>
+Zeit eine treffliche<lbr type="BD"/> Vestung gewesen se&#255;n:<lbr/>
+man sieht noch die <choice><orig>zersterten</orig><corr hand="diff" schr_id="57010">zerstörten</corr></choice>&#160;<choice><orig>Vestungswer<pc force="weak">=</pc><lbr/>ker</orig><corr hand="diff" schr_id="57010">Vestungswer<pc force="weak">=</pc><lbr/>ke</corr></choice>, <choice><orig>Mauren</orig><corr hand="diff" schr_id="57010">Mauern</corr></choice>,<lbr type="BD"/>&#160;<choice><orig><amend value="Thürme">Thürne</amend></orig><corr hand="diff" schr_id="57010">Thürme</corr></choice>, und die schönsten<lbr/>
+<choice><orig>aussenwercker</orig><corr hand="diff" schr_id="57010">aussenwercke</corr></choice>, daß es recht mit <choice><orig>bethau<pc force="weak">=</pc><lbr/>ren</orig><corr hand="diff" schr_id="57010">bedauren</corr></choice> an<lbr type="BD"/>zusehen ist; Es hat dieser Ort in<lbr/>
+der Mitte einen so schönen Platz, <choice><orig>dene</orig><corr hand="diff" schr_id="57010">den</corr></choice><lbr/>
+man<lbr type="BD"/> in vielen grossen <choice><orig>Stätten</orig><corr hand="diff" schr_id="57010">Städten</corr></choice> nicht fin<pc force="weak">=</pc><lbr/>det. den folgenden Morgen waren wir<lbr type="BD"/><lbr/>
+be&#255; Zeiten in Löwen. Wir blieben Mit<pc force="weak">=</pc><lbr/>tags da, um die <choice><orig>Statt</orig><corr hand="diff" schr_id="57010">Stadt</corr></choice> ein wenig zu<lbr type="BD"/> se<pc force="weak">=</pc><lbr/>hen. Wir wurden in Löwen gut <rend class="latin">tracti</rend>rt<lbr/>
+und gut gehalten; die Hauptkirche<lbr type="BD"/> war<lbr/>
+die erste, wo wir hin giengen, und eine<lbr/>
+heilige Messe <choice><orig>bekammen</orig><corr hand="diff" schr_id="57010">bekamen</corr></choice>. Hier<lbr type="BD"/> fangen<lbr/>
+<pg n="11"/>
+schon die schönsten und prächtigsten Mar<pc force="weak">=</pc><lbr/>morsteinene <choice><orig>Altäre</orig><corr hand="diff" schr_id="57010">Altare</corr></choice>, und die<lbr type="BD"/>&#160;<choice><orig>kostbahren</orig><corr hand="diff" schr_id="57010">kostbaren</corr></choice><lbr/>
+Malere&#255;en der Niederländer berühmten<lbr/>
+Mahler an. Ich kann mich<lbr type="BD"/> mit Beschreibung<lbr/>
+derselben nicht aufhalten, sonst würden<lbr/>
+mir die finger<lbr type="BD"/> kru<abbr type="topline" expand="mm">m</abbr>, und die Zeit zu kurz.<lbr/>
+vor einem Stück, so das Abendmahl Christi<lbr/>
+vor<lbr type="BD"/>stellet, blieb ich unbeweglich. Von Messing<lbr/>
+sieht man auch hier und durch<lbr type="BD"/> ganz Nieder<pc force="weak">=</pc><lbr/>land nicht nur <choice><orig>Leichter</orig><corr hand="diff" schr_id="57010">Leuchter</corr></choice>&#160;<abbr expand="etc">p</abbr> Saulen, Postamen<pc force="weak">=</pc><lbr/>ter <abbr expand="etc">p</abbr> und anders<lbr type="BD"/> in Menge, sondern so gar<lbr/>
+im Chor die sing-<choice><orig>Pulter</orig><corr hand="diff" schr_id="57010">Pulte</corr></choice> aus ganzem<lbr/>
+Stück mit dem<lbr type="BD"/> schönsten <choice><orig>Fuß</orig><corr hand="diff" schr_id="57010">Guß</corr></choice> gegossen.<lbr type="forced"/>
+Das Rathhaus ist wegen <choice><orig>dem</orig><corr hand="diff" schr_id="57010">des</corr></choice>&#160;<choice><orig>Alterthum</orig><corr hand="diff" schr_id="57010">Alterthums</corr></choice><lbr/>
+schön, die <choice><orig>Statt</orig><corr hand="diff" schr_id="57010">Stadt</corr></choice> vollckreich, eine<lbr type="BD"/> starke <rend class="latin">Uni<pc force="weak">=</pc><lbr/>versi</rend>tät von Weltpriesteren, und alles<lbr/>
+rühret sich in dieser <choice><orig>zimmlich</orig><corr hand="diff" schr_id="57010">ziemlich</corr></choice><lbr type="BD"/> grossen <choice><orig>Statt</orig><corr hand="diff" schr_id="57010">Stadt</corr></choice>.<lbr/>
+wir <rend class="latin">logi</rend>rten im Wildenmann. Hier <choice><orig>fangt</orig><corr hand="diff" schr_id="57010">fängt</corr></choice><lbr/>
+es an, wo die Frauen<lbr type="BD"/>zimmer Mäntel mit<lbr/>
+<choice><orig>Capputzen</orig><corr hand="diff" schr_id="57010">Caputzen</corr></choice> über <choice><orig>den</orig><corr hand="diff" schr_id="57010">dem</corr></choice> Kopf von <rend class="latin">Ca<abbr type="topline" expand="mm">m</abbr>elot</rend><lbr/>
+tragen, und so in<lbr type="BD"/> ganz<rend class="latin"> Brabant</rend>. Die<lbr/>
+gemeine <choice><orig>Leuthe</orig><corr hand="diff" schr_id="57010">Leute</corr></choice> tragen <choice><orig>Holzschuche</orig><corr hand="diff" schr_id="57010">Holzschuhe</corr></choice>&#160;<abbr expand="etc">p</abbr>. Man<lbr/>
+hört kein anderes Wort, als <rend class="latin">brabanti</rend>sch<lbr/>
+und <rend class="latin">Fränzösisch</rend>. die <choice><orig>Gebetter</orig><corr hand="diff" schr_id="57010">Gebete</corr></choice> in der<lbr/>
+<pg n="12"/>
+<choice><orig>Kirchen</orig><corr hand="diff" schr_id="57010">Kirche</corr></choice>, die<lbr type="BD"/> Kirchen und Staats Verordnung<abbr v="en"/>,<lbr/>
+was nämlich in Kirchen und was an<lbr type="BD"/> offnen<lbr/>
+Plätzen angeschlagen wird, ist alles in <rend class="latin">bra<pc force="weak">=</pc><lbr/>banti</rend>scher Sprache. Abends<lbr type="BD"/> waren wir<lbr/>
+be&#255; Zeiten in <choice><orig><rend class="latin">Brüssl</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">Brüssel</rend></corr></choice>. <choice><orig><rend class="latin">Brüssl</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">Brüssel</rend></corr></choice> ist eine<lbr/>
+recht gar schöne <choice><orig>Statt</orig><corr hand="diff" schr_id="57010">Stadt</corr></choice>, sie<lbr type="BD"/> ist zwar höckericht,<lbr/>
+das ist Berg auf Berg ab. Aber das<lbr/>
+Pflaster ist unverbesser<lbr type="BD"/>lich, man geht wie im<lbr/>
+Zimmer; Die Häuser sind meistens schön,<lbr/>
+die Gassen<lbr type="BD"/> lang, und breit, die <choice><orig>Statt</orig><corr hand="diff" schr_id="57010">Stadt</corr></choice> be&#255;<lbr/>
+<choice><orig>Nachts</orig><corr hand="diff" schr_id="57010">Nacht</corr></choice> beleuchtet, und alles auf <choice><orig>Wienne<pc force="weak">=</pc><lbr/>rischen</orig><corr hand="diff" schr_id="57010">Wienerischen</corr></choice><lbr type="BD"/> Fuß, auch mit den <choice><orig>Wägen</orig><corr hand="diff" schr_id="57010">Wagen</corr></choice>, einge<pc force="weak">=</pc><lbr/>richtet. Wir <rend class="latin">logi</rend>ren <rend class="latin">à l'Hôtel</rend>&#160;<choice><orig><rend class="latin">d’An<pc force="weak">=</pc><lbr/>gletterre</rend></orig><corr hand="diff" schr_id="57010">d’Angleterre</corr></choice>.<lbr type="BD"/> Der <rend class="latin">Canal</rend>, der über Mecheln<lbr/>
+und <choice><orig>Antwerppen</orig><corr hand="diff" schr_id="57010">Antwerpen</corr></choice> bis nach Holland geht,<lbr/>
+macht<lbr type="BD"/> den <choice><orig>Handl</orig><corr hand="diff" schr_id="57010">Handel</corr></choice> hier <choice><orig><rend class="latin">flori</rend>rent</orig><corr hand="diff" schr_id="57010"><rend class="latin">flori</rend>rend</corr></choice>, und ist be<pc force="weak">=</pc><lbr/>wunderungswürdig einen <rend class="latin">Canal</rend> in der<lbr type="BD"/>&#160;<choice><orig>Statt</orig><corr hand="diff" schr_id="57010">Stadt</corr></choice><lbr/>
+zu sehen, der mit grossen Holländischen Schif<pc force="weak">=</pc><lbr/>fen in der Menge be<lbr type="BD"/>setzet ist, die 2.<lbr/>
+und 3. der grösten <choice><orig>Mastbäumer</orig><corr hand="diff" schr_id="57010">Mastbäume</corr></choice> und<lbr/>
+<choice><orig>Segl</orig><corr hand="diff" schr_id="57010">Segel</corr></choice> haben, und wo<lbr type="BD"/> der ganze <rend class="latin">Canal</rend><lbr/>
+durchaus mit einer steinernen Ringmauer<lbr/>
+eingeschlossen<lbr type="BD"/> ist, auf welcher auf <choice><orig>Pfäulern</orig><corr hand="diff" schr_id="57010">Pfeilern</corr></choice><lbr/>
+<conv><ts>_______________________________________________________</ts>be&#255;derseits</conv>
+<pg n="13"/>
+be&#255;derseits Laternen stehen, die be&#255; <choice><orig>Nachts</orig><corr hand="diff" schr_id="57010">Nacht</corr></choice><lbr type="BD"/><lbr/>
+brennen. Jietzt ist eben Markt hier,<lbr/>
+den die Brabanter den <rend class="latin">Commes</rend> nen<lbr type="BD"/>nen:<lbr/>
+Er ist ungemein schön, und man kann alles<lbr/>
+haben. Das angenehmste<lbr type="BD"/> ist, daß die<lbr/>
+besten waaren in dem ungemein grossen<lbr/>
+<choice><orig>Rathshause</orig><corr hand="diff" schr_id="57010">Rathhause</corr></choice> in den Gängen<lbr type="BD"/> über ein und<lbr/>
+2. Stiegen, in den grossen Sälen und Zim<pc force="weak">=</pc><lbr/>mern, wie auch im<lbr type="BD"/> Hofe <choice><orig>aufgericht</orig><corr hand="diff" schr_id="57010">aufgerichtet</corr></choice>, folglich<lbr/>
+so wohl waaren als die <choice><orig>Käuferr</orig><corr hand="diff" schr_id="57010">Käufer</corr></choice> vom Wet<pc force="weak">=</pc><lbr/>ter sicher<lbr type="BD"/> sind, und da wird auch be&#255; Nacht<lbr/>
+verkauft, wo alles so beleuchtet ist, als<lbr type="BD"/> wenn<lbr/>
+es Tag wäre, welches, be&#255; gewissen Waa<pc force="weak">=</pc><lbr/>ren, als Silber, Gold, <choice><orig>Spiegl</orig><corr hand="diff" schr_id="57010">Spiegel</corr></choice>,<lbr type="BD"/> reiche <choice><orig>Zeug</orig><corr hand="diff" schr_id="57010">Zeuge</corr></choice>&#160;<abbr expand="etc">p</abbr><lbr/>
+ungemein schön anzusehen ist. Weiß und<lbr/>
+schwarzer Marmor<lbr type="BD"/> und Messing, dann die<lbr/>
+Mahlere&#255;en der berühmsten Männer ist hier<lbr/>
+in<lbr type="BD"/> allen Kirchen hauffenweis zu sehen. Ich<lbr/>
+habe tag und Nacht das bildes vom<lbr type="BD"/> Ru<pc force="weak">=</pc><lbr/>bens vor Augen, so in der grossen Kirche<lbr/>
+ist, auf welchem <rend class="latin">Christus</rend> in<lbr type="BD"/> gegenwart<lbr/>
+anderer Aposteln <rend class="latin">Petro</rend> die <choice><orig>Schlüsslen</orig><corr hand="diff" schr_id="57010">Schlüsseln</corr></choice><lbr/>
+überreichet. Die Figuren<lbr type="BD"/> sind Lebens<pc force="weak">=</pc><lbr/><pg n="14" type="wordsep"/>grösse. Die berühmtesten Mahler, deren<lbr/>
+KunstStücke in dem<lbr type="BD"/>&#160;<rend class="latin">Brabanti</rend>schen anzu<pc force="weak">=</pc><lbr/>treffen sind, heissen: Hubert und Hans <rend class="latin">von</rend><lbr/>
+E&#255;ck, Peter<lbr type="BD"/> Paul Rubens, Gerhard Honthorst,<lbr/>
+Jacob Jordans, Lucas Gassel, Jacob Grim<pc force="inter">=</pc><lbr/>mer, Paul Brill, Wilhelm Bemmel, Aeg&#255;<pc force="weak">=</pc><lbr/>dius Mostart, welcher von Hulst<lbr type="BD"/> gebürtig,<lbr/>
+Martin <rend class="latin">de Voss</rend>, Hieron&#255;mus <rend class="latin">de Wingen</rend>,<lbr/>
+<rend class="latin">Cornelius Kettel</rend>, Michael<lbr type="BD"/>
+Janson, <rend class="latin">Mireveld</rend>,<lbr/>&#160;<rend class="latin">Antonius Van Dyck</rend>, <rend class="latin">Rembrant van Ryn</rend>,<lbr/>
+<rend class="latin">Bartholomæus<lbr type="BD"/> Spranger</rend> und <rend class="latin">Lucas van<lbr/>
+Leiden</rend>; In des Prinz <rend class="latin">Carls</rend> Zimmern<lbr/>
+habe ich nicht<lbr type="BD"/> nur schöne <choice><orig>Niderländische</orig><corr hand="diff" schr_id="57010">Niederländische</corr></choice>&#160;<choice><orig><rend class="latin">Ta<pc force="weak">=</pc><lbr/>pe</rend>tten</orig><corr hand="diff" schr_id="57010"><rend class="latin">Tape</rend>ten</corr></choice> und Mahlere&#255;en, sondern ein Zim<pc force="weak">=</pc><lbr/>mer mit<lbr type="BD"/>&#160;<rend class="latin">Original-chinesi</rend>schen <rend class="latin">Statu</rend>en,<lbr/>
+<rend class="latin">porcellains</rend>, Figuren und verschiedenen Selten<pc force="weak">=</pc><lbr/>heiten, aber absonderlich einen Saal an<pc force="weak">=</pc><lbr/>getroffen, darinnen eine unbeschreib<lbr type="BD"/>liche<lbr/>
+Menge von <choice><orig>aller</orig><corr hand="diff" schr_id="57010">allen</corr></choice> Gattungen von <rend class="latin">Na<pc force="weak">=</pc><lbr/>turali</rend>en-<rend class="latin">Rari</rend>täten aufbehalten sind.<lbr type="BD"/><lbr/>
+Ich habe viel dergleichen <rend class="latin">Naturali</rend>en <choice><orig><rend class="latin">Ca<pc force="weak">=</pc><lbr/>bineter</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">Cabinetter</rend></corr></choice> gesehen; allein in solcher<lbr type="BD"/> Menge,<lbr/>
+und von so <choice><orig>viellen</orig><corr hand="diff" schr_id="57010">vielen</corr></choice> Gattungen wird<lbr/>
+<pg n="15"/>
+man es nicht bald sehen. <u><rend class="latin">NB</rend>:</u> des<lbr type="BD"/> Prinz<lbr/>
+<rend class="latin">Carls</rend> Unterhaltung ist dermahl lackieren,<lbr/>
+anstreichen, Firniß machen,<lbr type="BD"/> Essen, trinken,<lbr/>
+und wacker lachen, daß man ihn ins 3.<h>te</h><lbr/>
+oder 4.<h>te</h> Zimmer hört.<lbr type="forced"/>
+<ts>_____</ts>Die geistlichen Verrichtungen sind hier noch<lbr/>
+<choice><orig>zimmlich</orig><corr hand="diff" schr_id="57010">ziemlich</corr></choice> andächtig: man sieht es<lbr type="BD"/> doch gleich,<lbr/>
+daß es ein Land ist, welches <choice><orig>S.<h>r</h></orig><corr hand="diff" schr_id="57010">|Ihrer</corr></choice>&#160;<choice><orig>Ma&#255;estätt</orig><corr hand="diff" schr_id="57010">Ma&#255;estät</corr></choice><lbr/>
+der Ka&#255;serinn <choice><orig>zu<lbr type="BD"/>gehöret</orig><corr hand="diff" schr_id="57010">zu<lbr type="BD"/>gehört</corr></choice>. Allein Rosen<pc force="weak">=</pc><lbr/>kränze sind hier nicht gewöhnlich, sie sehen<lbr/>
+in den Kir<lbr type="BD"/>chen keinen Menschen, der am<lbr/>
+Rosenkranz <choice><orig>bethet</orig><corr hand="diff" schr_id="57010">betet</corr></choice>. Alles <choice><orig>bethet</orig><corr hand="diff" schr_id="57010">betet</corr></choice> in Büchern:<lbr/>
+und<lbr type="BD"/> be&#255; der <choice><orig>Aufwandlung</orig><corr hand="diff" schr_id="57010">Aufwandelung</corr></choice> schlägt kein Mensch<lbr/>
+an die Brust. In allen Kirchen sind<lbr type="BD"/> Sessel<lbr/>
+fürs Geld, aber keine Stühle zu sehen: man<lbr/>
+zahlt einen <choice><orig><rend class="latin">Liar</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">Liard</rend></corr></choice>, das ist<lbr type="BD"/> 2. Pfenning unsers<lbr/>
+<choice><orig>Geld</orig><corr hand="diff" schr_id="57010">Geldes</corr></choice>. Nun haben wir genug <amend value="gesehen(?)">gelesen</amend>; da<lbr/>
+ich iezt schlüsse,<lbr type="BD"/> habe ich noch keine Antwort<lbr/>
+von ihnen auf mein schreiben, das ich aus<lbr type="BD"/><lbr/>
+<rend class="latin">Coblenz</rend> an Sie abgelassen habe. Wenn<lbr/>
+sie Schreiben, so schreiben sie nach<lbr type="BD"/> Paris unter<lbr/>
+der <rend class="latin">Addresse</rend>: <rend class="latin"><u>Rüe st: Honoré chez Mr: le<lbr/>
+Noir Notaire vis a vis<lbr type="BD"/>
+de la Rüe de <choice><orig>l’Ecchelle</orig><corr hand="diff" schr_id="57010">l’Echelle</corr></choice>.</u></rend><lbr type="forced"/>
+<pg n="16"/>
+<ts>_____</ts>Ich werde bald von hier abgehen, folglich<lbr/>
+ihnen bald von Paris schreiben;<lbr type="BD"/> Doch nicht<lbr/>
+eher, als ich ihnen etwas zu berichten im Stan<pc force="weak">=</pc><lbr/>de bin. Zu <rend class="latin">Mons</rend><lbr type="BD"/> werde im Durchreisen<lbr/>
+den Gewissen h<abbr type="curve">:</abbr>&#160;<abbr type="topline" expand="von">v</abbr>&#160;<rend class="latin">Lidelsheim</rend> antreffen,<lbr/>
+der die ge<lbr type="BD"/>wisse Fre&#255;sauf <rend class="latin">Mariandl</rend> geheüra<pc force="weak">=</pc><lbr/>tet und seiner Zeit grosse Mittel gehabt hat.<lbr type="BD"/><lbr/>
+Er war zu gut, seine Frau zu prächtig,<lbr/>
+und so kam er in Wienn um all sein<lbr type="BD"/> Geld<lbr/>
+und Gut; so daß er nun iezt mit einem<lbr/>
+Gehalt von höchstens 400 f: als<lbr type="BD"/>&#160;<rend class="latin">auditor</rend><lbr/>
+unter dem Teutschmeisterischen <rend class="latin">Regiment</rend>,<lbr/>
+welches in <rend class="latin">Mons</rend> liegt,<lbr type="BD"/> schon sich 5. Jahr be<pc force="weak">=</pc><lbr/>findet.<lbr type="forced"/>
+Sie werden der Fre&#255;sauffischen <rend class="latin">Familie</rend><lbr/>
+davon Nachricht geben können: da die<lbr type="BD"/> Jung<pc force="weak">=</pc><lbr/>frau Fre&#255;saufin es oft gern gewust hätte.<lbr/>
+Ich empfehle mich samt Frau<lbr type="BD"/> und Kinderen,<lbr/>
+die, <u>Gott se&#255; gelobt,</u> immer gesund sind, ih<pc force="weak">=</pc><lbr/>nen der Frau Ge<lbr type="BD"/>mahlin und <choice><orig>samtlich</orig><corr hand="diff" schr_id="57010">sämtlichen</corr></choice> An<pc force="weak">=</pc><lbr/>gehörigen und bin der alte<lbr type="forced"/>
+<lbr type="forced"/>
+<rend class="latin">P: S:</rend> An Tit<abbr type="curve">:</abbr> h<abbr type="curve"></abbr>h<abbr type="curve">:</abbr> Beichtvater, <rend class="latin">Madame</rend>&#160;<abbr type="topline" expand="von">v</abbr>&#160;<rend class="latin">Ro<pc force="weak">=</pc><lbr/>bini</rend> und Fräule <rend class="latin">Josepha</rend>&#160;<abbr expand="etc">p</abbr><lbr type="BD"/> alle im haus und<lbr/>
+<choice><orig>aussers</orig><corr hand="diff" schr_id="57010">ausser</corr></choice> haus mein empfehlung. <rend class="latin">Sinè Fine dicentes</rend>&#160;<abbr expand="etc">p</abbr><lbr type="forced"/>
+[... (2 Worte Textverlust)] lässt sich empfehlen.<lbr type="forced"/>
+</NI>
+</letter>
+</text>
+</MUP>

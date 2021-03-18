@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2015">2015-9</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1502</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">GB-Lbl</bibl>
+            <bibl type="source" subtype="RISM">GB-Lbl (The British Library Music Collections)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:41:13 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_932.mup">
+<letter bd="932"><NI src="Gb-Lbl"><HEADER id="1502">LEOPOLD MOZART AN MARIA ANNA VON BERCHTOLD ZU SONNENBURG IN ST. GILGEN<lbr/>
+MÜNCHEN, NACH DEM 14. FEBRUAR 1786</HEADER>
+<pg n="1"/>
+<add_num><ts>_________________________________________________________________________________________________________</ts>202</add_num>
+<ts>____________</ts><tshtm>___________________________________________________</tshtm><tspdf>\hfill </tspdf>Münch<abbr v="en"/> den<ts>___</ts><tshtm>__</tshtm><u>Hornung 1786</u><lbr type="forced"/>
+Ich bin <u>Samstag</u> morgens um 6 uhr abgereiset, <abbr expand="und">u</abbr> abends um 7 uhr<lbr/>
+in<lbr type="BD"/>&#160;<u>Wasserburg</u> eingetroff<abbr v="en"/>, ohneracht es nebst dem bestendig<abbr v="en"/> Wind<lbr/>
+bald<lbr type="BD"/> riselte, bald schne&#255;te, bald regnete: &#8211; Es war ums <u>Messehörn</u><lbr/>
+zu thun,<lbr type="BD"/> folglich konnte <u>Sontags</u> so frühe von Wasserburg nicht<lbr/>
+so geschwind weg<lbr type="BD"/>reisen, und da kam, da die weege ohnbeschreiblich<lbr/>
+schlecht waren, erst um<lbr type="BD"/> 3 uhr in Münch<abbr v="en"/> an. ich reiste übrigens<lbr/>
+ganz beque<abbr type="topline" expand="mm">m</abbr> mit Zugemachter<lbr type="BD"/>&#160;<rend class="latin">chaise</rend>, gesund und Lustig!<lbr/>
+die Freude be&#255; meiner Ankunft war ohnbeschreib<lbr type="BD"/>lich. Ich sahe die<lbr/>
+<rend class="latin">Opera</rend> am <u>Montag</u>. die Gredl sang <abbr expand="und">u</abbr> spielte recht vor<lbr type="BD"/>trefflich &#8211; <lbr/>
+die <rend class="latin">Le brun</rend> aber war nicht recht wohl <abbr expand="und">u</abbr> musste 2 <rend class="latin">Arien</rend> aus<pc force="weak">=</pc><lbr/>lassen.<lbr type="BD"/>&#160;<rend class="latin">Bologna</rend> sang nach seiner alt<abbr v="en"/> Methode, und, es thut<lbr/>
+mir Leid &#8211; man hat<lbr type="BD"/> ihn hier schon genug, weil ihm i<abbr type="topline" expand="mm">m</abbr>er etwas<lbr/>
+fehlt <abbr expand="und">u</abbr> weil man i<abbr type="topline" expand="mm">m</abbr>er das<lbr type="BD"/> nämliche hört, er ka<abbr type="topline" expand="nn">n</abbr> gar nichts<lbr/>
+machen. Er wird, da <rend class="latin"><u>Armida</u></rend> nicht mehr<lbr type="BD"/> gegeb<abbr v="en"/> wird, <abbr expand="und">u</abbr> er in<lbr/>
+der <rend class="latin"><u>Fiera di Venezia</u></rend> nichts zu thun hat, nach Wie<abbr type="topline" expand="nn">n</abbr>,<lbr type="BD"/>&#160;<abbr expand="und">u</abbr> da<abbr type="topline" expand="nn">n</abbr><lbr/>
+wieder nach Itali<abbr v="en"/> geh<abbr v="en"/>. Heute hatt<abbr v="en"/> wir eine Musik be&#255;m h<abbr type="curve">:</abbr><lbr type="BD"/> von<lbr/>
+<u>Hofstetten</u>, wo auch d<abbr v="er"/> alte <abbr expand="und">u</abbr> junge <rend class="latin">Baron Rechberg</rend>, graf<lbr/>
+<rend class="latin">La Rose</rend><lbr type="BD"/>&#160;<abbr expand="etc">p</abbr>&#160;<abbr expand="etc">p</abbr>: war<abbr v="en"/>, die lass<abbr v="en"/> sich alle sa<abbr type="topline" expand="mm">m</abbr>t <rend class="latin">Md:<h>me</h> Durst</rend> dir<lbr/>
+empfehl<abbr v="en"/>. &#8211; die<lbr type="BD"/>&#160;<rend class="latin">Md:<h>me</h> Tavernier</rend> habe nicht zu Hause an<pc force="weak">=</pc><lbr/>getroff<abbr v="en"/>: er war zu Hause: Sie<lbr type="BD"/> wohn<abbr v="en"/> itzt im <rend class="latin">Dufraisni</rend>sch<abbr v="en"/> Hause<lbr/>
+neben d<abbr v="er"/> Post auf dem Rindermarkt.<lbr type="BD"/> die Nandl hat mir<lbr/>
+geschrieb<abbr v="en"/>, daß d<abbr v="er"/> Leopoldl sich gesund <abbr expand="und">u</abbr> wohl auf<lbr type="BD"/> befindet, <abbr expand="und">u</abbr><lbr/>
+daß der h<abbr type="curve">:</abbr>&#160;<abbr expand="von">v</abbr>&#160;<rend class="latin">D'yppold</rend> seit meiner Reise alle Tage den Leopoldl<lbr type="BD"/><lbr/>
+besucht habe; ich hab ihn darum ersucht, nur zu zeit<abbr v="en"/> nachzuseh<abbr v="en"/>,<lbr/>
+<add_note schr_id="57010">Die ungenannte Oper ist Armida, von Prati. Die Fiera di Venezia ist von Salieri. N.</add_note>
+<lbr/>
+<lbr/><add_seal type="owner">BRITISH<lbr/>MUSEUM</add_seal>
+<pg n="2"/>
+und das<lbr type="BD"/> thut er fleisig. zu meinem Vergnüg<abbr v="en"/> muß dir<lbr/>
+sag<abbr v="en"/>, daß der Heinrich er<lbr type="BD"/>staunlich fleisig muß <rend class="latin">exercie</rend>rt<lbr/>
+hab<abbr v="en"/>, de<abbr type="topline" expand="nn">n</abbr> du wirst dich verwund<abbr v="ern"/>, we<abbr type="topline" expand="nn">n</abbr><lbr type="BD"/> du ihn wirst die<lbr/>
+<u><rend class="latin">Fantasie</rend>, <abbr expand="und">u</abbr>&#160;<rend class="latin">Sonata</rend></u> von deinem Brud<abbr v="er"/>, die dir geschickt<lbr type="BD"/> habe,<lbr/>
+<abbr expand="und">u</abbr> er auch hier hat, <abbr expand="und">u</abbr> die <rend class="latin">Sonaten</rend>&#160;<u>vom <rend class="latin">Clementi</rend></u> spiel<abbr v="en"/> hör<abbr v="en"/>.<lbr/>
+er<lbr type="BD"/> spielte sie auf dem <rend class="latin">Fortepiano</rend> be&#255;m h<abbr type="curve">:</abbr>&#160;<abbr expand="von">v</abbr> Hofstett<abbr v="en"/> so<lbr/>
+vortreflich daß mir<lbr type="BD"/> das Herz lachte.<lbr type="forced"/>
+am <u>dienstag</u> war ich zum <rend class="latin"><u>Brochard</u></rend> eingelad<abbr v="en"/>. wir war<abbr v="en"/><lbr/>
+12 Person<abbr v="en"/>. ich;<lbr type="BD"/>&#160;<u>4</u> vom <rend class="latin">Marchand;</rend>&#160;<rend class="latin">Lang</rend>&#160;<abbr expand="und">u</abbr> Langin; <rend class="latin">Pipo</rend>&#160;<abbr expand="und">u</abbr><lbr/>
+sie; <abbr expand="und">u</abbr> h<abbr type="curve">:</abbr>&#160;<rend class="latin">Dufraisne</rend>. Ein<lbr type="BD"/> herrliches <rend class="latin">Tractament</rend> Mittags,<lbr/>
+da<abbr type="topline" expand="nn">n</abbr> spaziergang, &#8211; da<abbr type="topline" expand="nn">n</abbr> spiel, &#8211; da<abbr type="topline" expand="nn">n</abbr><lbr type="BD"/>&#160;<rend class="latin">Souppe</rend>.<lbr type="forced"/>
+von d<abbr v="er"/> Gredl werde <rend class="latin">So<abbr type="topline" expand="nn">n</abbr>at<abbr v="en"/></rend> mit bring<abbr v="en"/>. aller Ort<abbr v="en"/> fragt<lbr/>
+man wie es dir<lbr type="BD"/> gehe? &#8211; ob du gesund <abbr expand="und">u</abbr> vergnügt lebst?<lbr/>
+<abbr expand="und">u</abbr> alle Leute empfehl<abbr v="en"/> sich euch.<lbr type="BD"/> Nun muß schlüss<abbr v="en"/>, es ist<lbr/>
+Mitternacht <abbr expand="und">u</abbr> morg<abbr v="en"/> frühe muß den Brief schon<lbr type="BD"/> auf die<lbr/>
+Post schick<abbr v="en"/>, da die Post vormittag abgehet. die Marchandisch<abbr v="en"/><lbr type="BD"/><lbr/>
+<uu>alle</uu> umarm<abbr v="en"/> euch <abbr expand="und">u</abbr> ich küsse euch von Herz<abbr v="en"/>, grüsse die<lbr/>
+Kinder, und<lbr type="BD"/> bin ewig euer redlicher Vatter<lbr type="forced"/>
+<ts>_______________</ts><tshtm>___________________________________________________</tshtm><tspdf>\hfill </tspdf>Mozart <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<pg n="3"/>
+<vacat/>
+<pg n="4"/>
+<tspdf>\newpage</tspdf> 
+<anschrift rot="270"><rend class="latin">À Madame<lbr type="forced"/>
+Madame de So<abbr type="topline" expand="nn">n</abbr>enbourg<lbr type="forced"/>
+à<lbr type="forced"/>
+<u>St: Gilgen</u></rend></anschrift>
+<lbr/>
+<add_note schr_id="57010">Ich bezeuge Herrn Geheimenrath Feuerstein, daß dieser<lbr/>
+Brief die Handschrift Leopold Mozarts, Vaters von<lbr/>
+W. A. Mozart († 1791), ist. Salzburg 20 Febr 1826.<lbr/>
+<ts>_________________________________________________________</ts><u>Nissen</u><lbr/>
+<ts>__________________________________________</ts>Gatte der Witwe W.<lbr/>
+<ts>____________________________________________</ts>A. Mozarts.</add_note>
+<lbr/>
+<add_seal type="owner">BRITISH<lbr/>MUSEUM</add_seal>
+</NI></letter>
+</text>
+</MUP>

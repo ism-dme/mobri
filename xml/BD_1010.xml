@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2016">2016-6</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1580</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:41:36 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_1010.mup">
+<letter bd="1010"><HEADER id="1580">LEOPOLD MOZART AN MARIA ANNA VON BERCHTOLD ZU SONNENBURG IN ST. GILGEN<lbr/>
+SALZBURG, 8. DEZEMBER 1786</HEADER>
+<pg n="1"/>
+<ts>________________</ts><tshtm>_____________________________________________________________________________</tshtm><tspdf>\hfill </tspdf>Salzb<abbr type="curve">:</abbr> d<abbr v="en"/> 8<h>t<abbr v="en"/></h>&#160;<rend class="latin">Decemb:</rend><lbr type="BD"/><lbr type="forced"/>
+Der Leopoldl ist gesund <abbr expand="und">u</abbr> lustig!<ts>_________</ts><tshtm>_________________________________________________</tshtm><tspdf>\hfill </tspdf>1786.<lbr type="forced"/>
+<lbr type="forced"/>
+Da der Mond be&#255;m Aufgeh<abbr v="en"/> diese Täge abends in sein Zi<abbr type="topline" expand="mm">m</abbr>er scheint, so<lbr type="BD"/> ver<pc force="weak">=</pc><lbr/>langt er alle Augenblick zum Fenster <abbr expand="und">u</abbr> schre&#255;t: <u>Man</u>, <u>Man</u>.<lbr type="forced"/>
+Das Verwunderlichste ist, daß <suppl hand="self" pos="supra">er</suppl> niemals be&#255; d<abbr v="er"/> Nacht ins bette bisst, und<lbr type="BD"/><lbr/>
+we<abbr type="topline" expand="nn">n</abbr> er vorn be&#255; mir im Zi<abbr type="topline" expand="mm">m</abbr>er ist, so sagt er <u>ah</u>, <u>ah</u>, und hält,<lbr/>
+bis ihn die<lbr type="BD"/> Nandl in sein Zi<abbr type="topline" expand="mm">m</abbr>er hinüber trägt.<lbr type="forced"/>
+<lbr type="BD"/><lbr type="forced"/>
+Der both brachte den Brief, aber keine <u>Brachse</u>, die im Brief steht.<lbr/>
+nur, damit<lbr type="BD"/> du es weist, de<abbr type="topline" expand="nn">n</abbr> ich darf, so lange die Kräutersuppe<lbr/>
+nehme, keine Fasten<lbr type="BD"/>speisen essen, die <rend class="latin">Doctores</rend> hatt<abbr v="en"/> mirs ausdrücklich<lbr/>
+verbott<abbr v="en"/>. ich esse<lbr type="BD"/>&#160;<u>Mittag</u>&#160;<abbr expand="und">u</abbr>&#160;<u>Nachts</u> nichts anders als Reis od<abbr v="er"/> gersten<pc force="weak">=</pc><lbr/>schleim Suppe, und<lbr type="BD"/> ein halbes Händl, od<abbr v="er"/> etwas Lä<abbr type="topline" expand="mm">m</abbr>eres od<abbr v="er"/> kalbfleisch<lbr/>
+mit Andifi brühe.<lbr type="BD"/> Ich befinde mich auch nach <abbr expand="und">u</abbr> nach merklich besser,<lbr/>
+und das war die Ursache, daß nicht hinaus kam, da ich diese vor<pc force="weak">=</pc><lbr/>geschriebene Mittl ordentlich fort<lbr type="BD"/>brauch<abbr v="en"/> muß, bis meine Gesundheit<lbr/>
+wied<abbr v="er"/>, mit Gottes Hilfe, vester ist.<lbr type="BD"/> Es würde für dich auch nichts vor<pc force="weak">=</pc><lbr/>träglicheres se&#255;n, als der <u>ganze Andifi</u>, nicht<lbr type="BD"/> klein geschnitt<abbr v="en"/>,<lbr/>
+sondern das ganze grüne kraut in fleischbrühe gesott<abbr v="en"/>, wie<lbr type="BD"/> eine<lbr/>
+and<abbr v="er"/>e grüne speis. ich finde es sehr gut, <abbr expand="und">u</abbr> gesund; <u>es ist meine<lbr/>
+Leib<lbr type="BD"/>speise</u>. &#8211; alle saure sach<abbr v="en"/> sind mir verbott<abbr v="en"/>. der alte <rend class="latin">Dr<lbr/>
+Barisani</rend> isst den<lbr type="BD"/> Andifi auch täglich als eine vortreffliche<lbr/>
+Blutreinigung, um sich vom Anstoß<lbr type="BD"/> des Podagra zu verwahr<abbr v="en"/>.<lbr type="forced"/>
+<lbr type="BD"/><lbr type="forced"/>
+Weg<abbr v="en"/> den Flecken zum Schlafrock ist mit den Schneidern nichts zu<lbr/>
+mach<abbr v="en"/>.<lbr type="BD"/> er antwortete, <u>daß er, das bisch<abbr v="en"/>, was er übrig hatte</u>,<lbr/>
+<u>hergegeb<abbr v="en"/> habe</u>; &#8211;<lbr type="BD"/>&#160;<u>weiters habe er nichts</u>: hiemit Holla!<lbr type="forced"/>
+We<abbr type="topline" expand="nn">n</abbr> man so was kauft, wo es nach der Hand etwas auszubessern<lbr/>
+giebt, muß<lbr type="BD"/> ma<abbr type="topline" expand="nn">n</abbr> i<abbr type="topline" expand="mm">m</abbr>er nach dem gleich <u>eine Ehle für sich</u> besond<abbr v="er"/>s<lbr/>
+nehm<abbr v="en"/>, weil man<lbr type="BD"/> den näml: Zeug gewis nicht mehr hab<abbr v="en"/> ka<abbr type="topline" expand="nn">n</abbr>,<lbr/>
+und weg<abbr v="en"/> einer ausbesserung<lbr type="BD"/> der ganze Schlafrock nicht ka<abbr type="topline" expand="nn">n</abbr> weg<pc force="weak">=</pc><lbr/>geworff<abbr v="en"/> od<abbr v="er"/> ein and<abbr v="er"/>er Harlekinfleck<lbr type="BD"/> hinauf gesetzt werd<abbr v="en"/>; ich<lbr/>
+machte es wenigst so gar mit Zeug <abbr expand="und">u</abbr> Tüchern<lbr type="BD"/> so, daß be&#255; Tüchern<lbr/>
+etwa noch ein drittl od<abbr v="er"/> 4 theil für mich nahm, ohne<lbr type="BD"/> daß es der<lbr/>
+Schneider wusste.<lbr type="forced"/>
+<lbr type="BD"/><lbr type="forced"/>
+Be&#255;m <rend class="latin">Brunetti</rend> ist an keine Besserung zu gedenk<abbr v="en"/>: od<abbr v="er"/> die <u>Abzehrung</u><lbr/>
+od<abbr v="er"/><lbr type="BD"/> d<abbr v="er"/> <u>Brand</u> wird das Ende se&#255;n: heute Nacht hatte er grosse<lbr/>
+Hitz<abbr v="en"/>&#160;<abbr expand="und">u</abbr><lbr type="BD"/>&#160;<rend class="latin">phantasie</rend>rte.<lbr type="forced"/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="2"/>
+kaum war vor 8 Täg<abbr v="en"/> d<abbr v="er"/> Both weg, so brachte man mir die Nachricht,<lbr type="BD"/><lbr/>
+daß d<abbr v="er"/> Erzb<abbr type="curve">:</abbr> noch 14 täge ausbleib<abbr v="en"/> werde, <abbr expand="und">u</abbr> so ists auch. kein Mensch<lbr type="BD"/><lbr/>
+weis, warum? &#8211; &#8211; Nun geht die Rede es soll<abbr v="en"/>&#160;<u>2 od<abbr v="er"/> 3 <rend class="latin">Orchester</rend></u><pc force="weak">=</pc><lbr/><u>geiger</u>,<lbr type="BD"/>&#160;<u>1 Violongeiger</u>, <u>ein <rend class="latin">Bassist</rend></u>, <abbr expand="und">u</abbr>&#160;<u>2 Trompeter</u>, die er<lbr/>
+aufgeno<abbr type="topline" expand="mm">m</abbr><abbr v="en"/> mit ko<abbr type="topline" expand="mm">m</abbr><lbr type="BD"/>end<abbr v="er"/> <rend class="latin">Dilligence</rend> d<abbr v="en"/> 13<h>t<abbr v="en"/></h>: hier eintreff<abbr v="en"/>. Wir werd<abbr v="en"/><lbr/>
+es seh<abbr v="en"/>. &#8211; daß der<lbr type="BD"/>&#160;<rend class="latin">Bassist</rend> aufgenom<abbr v="en"/> word<abbr v="en"/>, zeigt beyliegender<lbr/>
+sehr unlesbarer Brief von<lbr type="BD"/> deinem Brud<abbr v="er"/>. woraus du auch<lbr/>
+abnehm<abbr v="en"/> wirst, daß ihn mein Antwort<lbr type="BD"/> ganz beruhiget hat, <abbr expand="und">u</abbr><lbr/>
+daß er auf dem <rend class="latin">Casin</rend> 4 <rend class="latin">Adventaccademi<abbr v="en"/></rend> giebt.<lbr type="forced"/>
+<lbr type="BD"/><lbr type="forced"/>
+Das hin und herschick<abbr v="en"/> d<abbr v="er"/> wasche hat mir niemals in Kopf woll<abbr v="en"/>:<lbr/>
+allein,<lbr type="BD"/> ich wollte es nicht widersprech<abbr v="en"/> und musste vernünftiger<lbr/>
+weis urtheil<abbr v="en"/><lbr type="BD"/> der h<abbr type="curve">:</abbr> Sohn werde überhaupts ein<abbr v="en"/>&#160;<rend class="latin">accord</rend> mit dem<lbr/>
+Both<abbr v="en"/> treff<abbr v="en"/>, der<lbr type="BD"/> von keinem gross<abbr v="en"/> Belang se&#255;n wird, de<abbr type="topline" expand="nn">n</abbr><lbr/>
+sonst ka<abbr type="topline" expand="nn">n</abbr> fürs Both<abbr v="en"/>=Lohn<lbr type="BD"/> die wasche hier gewasch<abbr v="en"/> werd<abbr v="en"/>, we<abbr type="topline" expand="nn">n</abbr><lbr/>
+ma<abbr type="topline" expand="nn">n</abbr>s nach dem Gewicht bezahl<abbr v="en"/> wollte. &#8211; etwa weg<abbr v="en"/> Aus<pc force="weak">=</pc><lbr/>besserung? &#8211; &#8211; oho! dafür wird hier auch durch<lbr type="BD"/> die Jungf<abbr type="curve">:</abbr> Miedl<lbr/>
+gesorgt. &#8211; &#8211; daß aber die leere Schachtl schwer se&#255;n soll, &#8211;<lbr type="BD"/>&#160;<lbr/>
+darüber muß eine auch kranke kuhe lach<abbr v="en"/>, d<abbr v="er"/><abbr v="en"/> wir itzt um<lbr/>
+die Statt keine<lbr type="BD"/> mehr hab<abbr v="en"/>, Gott seys gedankt!<lbr/>
+ich hatte die Schachtl verwunsch<abbr v="en"/>, weil sie<lbr type="BD"/> mir Mühe und<lbr/>
+gute Worte kosstete bis sie mir gemacht wurde, obendrein<lbr type="BD"/><lbr/>
+wars theuer, weils durch 4 Person<abbr v="en"/> gieng. werde den <rend class="latin">Conto</rend><lbr/>
+schon darüber<lbr type="BD"/> mach<abbr v="en"/>. Unterdessen ists ein Stoff darüber zu reden.<lbr type="forced"/>
+<lbr type="BD"/><lbr type="forced"/>
+Vorig<abbr v="en"/> Sontag sprach mit d<abbr v="er"/> Gräfin <rend class="latin">Lodron</rend>, h<abbr type="curve">:</abbr> Dom<pc force="weak">=</pc><lbr/>dechant kam auch<lbr type="BD"/> dazu. &#8211; 2 tag darauf kam<lbr/>
+sie ums Kind und gebahr also ein <rend class="latin">Aborterl</rend>.<lbr/>
+Sie<lbr type="BD"/> befindet sich besser. ist eine schöne liebe <rend class="latin">Dame</rend>,<lbr/>
+hat etwas in d<abbr v="er"/> Bildung von<lbr type="BD"/> den Ka&#255;s<abbr type="curve">:</abbr> Prinzessi<abbr type="topline" expand="nn">n</abbr><abbr v="en"/>.<lbr type="forced"/>
+<lbr type="BD"/><lbr type="forced"/>
+h<abbr type="curve">:</abbr> Egedacher hatte mir schon zu meinem Namenstag weg<abbr v="en"/> der <rend class="latin">Sonaten</rend><lbr/>
+ge<lbr type="BD"/>schrieben, die du noch hast: ich vergas i<abbr type="topline" expand="mm">m</abbr>er darauf dir es<lbr/>
+zu melden; sie<lbr type="BD"/> müssen also das erste se&#255;n, was du schreibst,<lbr/>
+wegen Heinrichssach<abbr v="en"/> hat es<lbr type="BD"/> keine E&#255;le, de<abbr type="topline" expand="nn">n</abbr> er hat erst itzt<lbr/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="3"/>
+wider and<abbr v="er"/>e <rend class="latin">Sonat<abbr v="en"/></rend> vom <rend class="latin">Clementi</rend> aus<lbr type="BD"/> Münch<abbr v="en"/> beko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>, die ganz entsetzlich<lbr/>
+schwer sind, <abbr expand="und">u</abbr> er genug daran zu<lbr type="BD"/>&#160;<rend class="latin">exercie</rend>r<abbr v="en"/> hat.<lbr type="forced"/>
+<u>Heinrich empfehlt sich</u>.<lbr type="forced"/>
+<lbr type="BD"/><lbr type="forced"/>
+Die Anstalt<abbr v="en"/> mit den kerzen musst<abbr v="en"/> itzt so abgeänd<abbr v="er"/>t werd<abbr v="en"/>, daß<lbr/>
+unt<abbr v="en"/><lbr type="BD"/> be&#255; den Fleischbänk<abbr v="en"/>&#160;<u>2 Hütten</u> gemacht word<abbr v="en"/>, wo <u>zwe&#255;<lbr/>
+Saifensied<abbr v="er"/></u> zu<lbr type="BD"/> gleich verkauff<abbr v="en"/>, damit die Leute eher etwas<lbr/>
+beko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/> kö<abbr type="topline" expand="nn">n</abbr><abbr v="en"/>, und nicht<lbr type="BD"/> halbe Täge hinsteh<abbr v="en"/> müss<abbr v="en"/> um hinzu zu<lbr/>
+ko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>, und sich um 1 od<abbr v="er"/> 2 <abbr expand="Pfund">℔</abbr><lbr type="BD"/> kerz<abbr v="en"/> dringen und durchrauff<abbr v="en"/><lbr/>
+müssen. So giengs be&#255;m <u>Schmalz</u> noch<lbr type="BD"/> ärger auf der<lbr/>
+<u>Wag</u> zu, wo das <abbr expand="Pfund">℔</abbr> um 15 X<h>r</h> verkauft wurde, <abbr expand="und">u</abbr> ein junges<lbr type="BD"/><lbr/>
+Mädl fast todt gedruckt word<abbr v="en"/>, daß mans nach Hause trag<abbr v="en"/><lbr/>
+musste. &#8211; we<abbr type="topline" expand="nn">n</abbr><lbr type="BD"/> du mir ein kleines Stöckchen Schmalz schicken<lbr/>
+willst, ists mir Lieb, &#8211; etwas<lbr type="BD"/> hab auch von d<abbr v="er"/> Wag beko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>.<lbr/>
+schreibe nur, was es kostet.<lbr type="forced"/>
+<lbr type="BD"/><lbr type="forced"/>
+Ich vergas damals dir zu schreib<abbr v="en"/>, daß wir den Stroh=sack<lbr/>
+selbst hätt<abbr v="en"/><lbr type="BD"/> mach<abbr v="en"/> könn<abbr v="en"/>, da du weist, daß einmahl ein Stuck solche<lbr/>
+grobe Leinwand<lbr type="BD"/> gekauft habe, od<abbr v="er"/> hab spi<abbr type="topline" expand="nn">n</abbr><abbr v="en"/> lass<abbr v="en"/>. Stroh werd<abbr v="en"/> wir schon<lbr/>
+beko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>;<lbr type="BD"/> obs gleich ganz gewis ist, daß man das Stroh nicht so leicht be<pc force="weak">=</pc><lbr/>ko<abbr type="topline" expand="mm">m</abbr>t <abbr expand="und">u</abbr><lbr type="BD"/> obendrein Theuer bezahl<abbr v="en"/> muß.<tspdf>\newpage</tspdf> Bettlstroh <abbr expand="und">u</abbr> Miststroh<lbr/>
+will ich nicht. &#8211; Nun lebt gesund, ich küsse euch von Herzen<lbr/>
+grüsse die Kinder <abbr expand="und">u</abbr> bin ewig<lbr type="BD"/> euer redlicher Vatter<lbr type="forced"/>
+<ts>_____________</ts><tshtm>_________________________________</tshtm><tspdf>\hfill </tspdf>Mozart <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<lbr type="forced"/>
+das Baumwollgarn werde besorg<abbr v="en"/>. der Leopoldl küsst euch.<lbr type="forced"/>
+die Nandl <abbr expand="und">u</abbr><lbr type="BD"/> Tresel küssen die Hände,<lbr type="forced"/>
+ich grüsse die Lenerl.<lbr type="forced"/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="4"/>
+<postxt loc="rm" rot="90">Heute reiset h<abbr type="curve">:</abbr> Landschaft<lbr/>
+Bauverwalter Steiger nach<lbr/>
+Wie<abbr type="topline" expand="nn">n</abbr> <abbr expand="und">u</abbr> Hungarn,<lbr type="BD"/> wegen<lbr/>
+Getraid <abbr expand="und">u</abbr> vielleicht auch weg<abbr v="en"/><lbr/>
+4 füssig<abbr v="en"/> Oxen.</postxt><lbr/>
+<anschrift rot="270"><rend class="latin">A Madame<lbr type="forced"/>
+Madame de So<abbr type="topline" expand="nn">n</abbr>enbourg<lbr type="forced"/>
+à<lbr type="forced"/>
+<u>St: Gilgen</u></rend></anschrift>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+</letter>
+</text>
+</MUP>

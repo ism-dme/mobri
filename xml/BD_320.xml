@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2015">2015-5</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=882</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">D-B</bibl>
+            <bibl type="source" subtype="RISM">D-B (Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Musikabteilung mit Mendelssohn-Archiv)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:38:02 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_320.mup">
+<letter bd="320">
+<NI src="D-B">
+<HEADER id="882">LEOPOLD MOZART AN JOHANN GOTTLOB IMMANUEL BREITKOPF IN<tspdf>\newline</tspdf> LEIPZIG<lbr/>
+SALZBURG, 6. OKTOBER 1775<lbr/>
+mit Entwurf einer Antwort, Leipzig, 25. November 1785</HEADER>
+<pg n="1"/>
+<add_empf><ts>____________________________________________________________</ts><rend class="latin">pr</rend> d<abbr v="en"/> 16 8<rend class="latin">br</rend> 1775.</add_empf>
+<ts>____________</ts>HochEdler insonders Hochgeehrtester <persName key="73569">Herr</persName>!<lbr type="forced"/>
+<lbr type="forced"/>
+Die 50<abbr type="curve">:</abbr> St<abbr type="curve">:</abbr> meiner Violinschule werd<abbr v="en"/> sie ohngezweifelt<lbr/>
+erhalt<abbr v="en"/> hab<abbr v="en"/><lbr type="BD"/>; so wie sie mir auch durch <persName key="84800">h<abbr type="curve">:</abbr> Schwarzkopf</persName> mit<lbr/>
+75 f richtig bezahlt word<abbr v="en"/>.<lbr type="BD"/> Da ich schon einige Zeit her<lbr/>
+entschlossen bin etwas von meines <persName key="39409">Sohnes</persName><lbr type="BD"/> Arbeit drucken<lbr/>
+zu lass<abbr v="en"/>, so ersuche mir so bald thunlich zu berichten, ob sie<lbr type="BD"/><lbr/>
+etwas zu verleg<abbr v="en"/> sich entschlüss<abbr v="en"/> wollten, es möchte nun<lbr/>
+<rend class="latin">Sinfonien, quar<lbr type="BD"/>tetten, Trios, Sonaten</rend> für Violin und<lbr/>
+<rend class="latin">Violoncello</rend>, das ist, so genannte <rend class="latin">Violin<lbr type="BD"/>Solo</rend>, oder <rend class="latin">Sonaten</rend> fürs<lbr/>
+<rend class="latin">Clavier</rend> se&#255;n. was die letztern betrifft wäre die frage,<lbr type="BD"/> ob<lbr/>
+sie nicht <rend class="latin">Clavier Sonaten</rend> auf die Art drucken möcht<abbr v="en"/>,<lbr/>
+wie jene von h<abbr type="curve">:</abbr><lbr type="BD"/>&#160;<persName key="38617">Philipp Carl Emanuel Bach</persName>&#160;<u>mit veränderten<lbr/>
+Reprisen?</u> &#8211; &#8211; Sie sind in berlin<lbr type="BD"/> be&#255; h<abbr type="curve">:</abbr>&#160;<persName key="84801">George Ludwig Winter</persName><lbr/>
+<pg n="2"/>
+gedruckt, und diese Art <rend class="latin">Sonaten</rend> ist sehr<lbr type="BD"/> beliebt. Ich muß sie<lbr/>
+aber nochmahls bitten mir ihren Entschluß bald wissen<lbr type="BD"/> zu lassen,<lbr/>
+und überhaupts ihre Art, wie <suppl hand="self" pos="supra">sie</suppl> den Verlag zu übernehm<abbr v="en"/> pfleg<abbr v="en"/>,<lbr type="BD"/><lbr/>
+be&#255;zusetzen, damit wir uns mit vielem Briefwexl über eine solche<lbr/>
+Kleinig<lbr type="BD"/>keit nicht aufhalten dürffen und ich allenfalls mich wo anders<lbr/>
+hinwenden<lbr type="BD"/> mag. Wenn sie mir eine kleine <u><rend class="latin">Nota</rend> aller der Werke</u><lbr/>
+die von h<abbr type="curve">:</abbr>&#160;<persName key="38617">Carl <u>Philipp<lbr type="BD"/> Emauel Bach</u></persName> be&#255; ihn<abbr v="en"/> zu hab<abbr v="en"/> sind, beyschlüss<abbr v="en"/><lbr/>
+wollten <u><rend class="latin">NB</rend></u> mit be&#255;gefügtem Preiß; so würde es mir sehr angenehm<lbr/>
+se&#255;n. Ich bin übrigens mit<lbr type="BD"/> besonderer Hochschätzung<lbr type="forced"/>
+<ts>_____________________________</ts>Euer HochEdl<lbr type="BD"/><lbr type="forced"/>
+<ts>____________</ts><tshtm>___________________________________________</tshtm><tspdf>\hfill </tspdf>gehors<abbr type="curve">:</abbr> ergebster<lbr type="BD"/><lbr type="forced"/>
+<ts>____________</ts><tshtm>___________________________________________</tshtm><tspdf>\hfill </tspdf><persName key="39408">Leopold Mozart</persName>&#160;<abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<lbr type="forced"/>
+Salzburg d<abbr v="en"/>&#160;<u>6<h>t<abbr v="en"/></h> octb<abbr type="curve">:</abbr> 1775</u><lbr type="forced"/>
+<lbr type="forced"/>
+Hörn sie nichts von unserm freunde <persName key="53035">h<abbr type="curve">:</abbr> Gri<abbr type="topline" expand="mm">m</abbr></persName> in Paris? Ich sehe schon<lbr/>
+über<lbr type="BD"/> ein Jahr kein<abbr v="en"/> Brief von ihm. Sind die Kinder<rend class="latin">Sonaten</rend> von meinem<lbr/>
+<persName key="39409">Sohne</persName>,<lbr type="BD"/> und <rend class="latin">Portraits</rend> abgesetzt? &#8211; &#8211; <lbr type="forced"/>
+<pg n="3"/>
+<vacat/>
+<pg n="4"/>
+<anschrift rot="270">
+Herrn<lbr type="forced"/>
+Herrn Breitkopf berühmt<abbr v="en"/><lbr type="forced"/>
+Buchhändler in<lbr type="forced"/>
+<u>Leipzig.</u></anschrift>
+<lbr/>
+<tspdf>\newpage</tspdf> 
+<NS schr_id="73569">Rp. d<abbr v="en"/> 25. Nov.<lbr type="forced"/>
+die Violinschulen habe durch <persName key="84800">h<abbr type="curve"></abbr> Schwarzkopf</persName> erhalten der die dafür<lbr/>
+<tshtm>_____</tshtm>bezahlt<abbr v="en"/> Gelder uns verrechnet hat; danke für die Ueberlassung<lbr type="forced"/>
+Nach der Lage des itzig<abbr v="en"/> musical<abbr type="curve">.</abbr> Handels, die ganz in die Hände der<lbr/>
+<tshtm>_____</tshtm>buchhand<abbr type="curve"></abbr> zu gehen scheint, muß vorjetzt allen Verlag verbitten<lbr type="forced"/>
+wenn sich dieß ändern wird, werde mit Vergnüg<abbr v="en"/> an dem Anerbieth<abbr v="en"/> des<lbr/>
+<tshtm>_____</tshtm><persName key="39409">h<abbr type="curve"></abbr> Sohns</persName> Theil nehmen<lbr type="forced"/>
+Von <persName key="53035">h<abbr type="curve"></abbr> Grimm</persName> habe seit sein<abbr v="en"/> letzt<abbr v="en"/> Hierse&#255;n nichts gehört.<lbr type="forced"/>
+die Sonat<abbr v="en"/>&#160;<abbr expand="und">u</abbr>&#160;<rend class="latin">Portraits</rend> v s <persName key="39409">h<abbr type="curve"></abbr> Sohn</persName> sind damals ihn<abbr v="en"/> berechnet.</NS>
+<lbr/>
+<add_empf>
+1775<ts>____</ts>685<lbr/>
+&#8211; 6 8<rend class="latin">br</rend><ts>___</ts><rend class="latin">Salzburg</rend><lbr/>
+&#8211; 16<ts>______</ts><persName key="39408"><rend class="latin">Mozardt</rend></persName><lbr/>
+&#8211; 25.</add_empf>
+<lbr/>
+<add_note>15. <rend class="latin">Son</rend>.<lbr/>
+1. <rend class="latin">Trio</rend> 2.<lbr/>
+12. <rend class="latin">Conc</rend>.</add_note>
+</NI>
+</letter>
+</text>
+</MUP>

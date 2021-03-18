@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2014">2014-7</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=335</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:35:57 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/Doc17xx_3.mup">
+<HEADER id="335">LEOPOLD MOZART, GEHALTSLISTE DER SALZBURGER HOFMUSIKER<lbr/>
+SALZBURG, APRIL 1772</HEADER>
+<pg n="1"/>
+<ts>________________________________________</ts><u>Monatl. Gehalt.</u><lbr type="forced"/>
+<lbr type="forced"/>
+<table rules="none" rows="31" cols="4">
+<tr><td><ts>__</ts></td><td><ts>__</ts></td><td><ts>__________</ts><suppl hand="self" pos="supra">taflgeld</suppl></td></tr>
+<tr><td><ts>__________________</ts></td><td><abbr_cur expand="Gulden"><rend class="latin">f</rend></abbr_cur></td><td><u>Weingeld</u> 8 <abbr_cur expand="Gulden"><rend class="latin">f</rend></abbr_cur> 20 <abbr_cur expand="Kreuzer"><rend class="latin">X</rend></abbr_cur></td><td><ts>__</ts></td></tr>
+<tr><td><rend class="latin">Lolli</rend></td><td>30.</td><td>8<abbr_cur expand="Gulden"><rend class="latin">f.</rend></abbr_cur></td><td><u>tafl</u>,<tspdf><lbr type="forced"/></tspdf>&#160;<abbr expand="und">u</abbr>&#160;<u>qu<rend class="latin">artier</rend></u></td></tr>
+<tr><td><rend class="latin">Mozart.</rend></td><td>25. <suppl hand="self" pos="inline">itzt 33 <abbr_cur expand="Gulden"><rend class="latin">f</rend></abbr_cur> 20 <rend class="latin">X</rend></suppl></td><td>4<ts>__</ts>30</td><td><ts>__</ts></td></tr>
+<tr><td>Seidl.</td><td>25.</td><td>4 <abbr_cur expand="Gulden"><rend class="latin">f</rend></abbr_cur> 30 <abbr_cur expand="Kreuzer"><rend class="latin">X</rend></abbr_cur></td><td><u>taflgeld</u></td></tr>
+<tr><td>Meisner.</td><td>26.</td><td>5 <abbr_cur expand="Gulden"><rend class="latin">f</rend></abbr_cur> 30 <abbr_cur expand="Kreuzer"><rend class="latin">X</rend></abbr_cur></td><td><u>Tafel</u>.</td></tr>
+<tr><td>Unterkofler.</td><td>25. Wein und Brodgeld</td><td>8 <abbr_cur expand="Gulden"><rend class="latin">f.</rend></abbr_cur></td><td><u>tafel</u><tspdf><lbr type="forced"/></tspdf>&#160;<u>u quartier</u></td></tr>
+<tr><td>Haydn.</td><td>25</td><td><ts>__</ts></td><td><u>tafel</u><suppl hand="self" pos="inline">geld<tspdf><lbr type="forced"/></tspdf> 8 <abbr_cur expand="Gulden"><rend class="latin">f</rend></abbr_cur> 20 <abbr_cur expand="Kreuzer"><rend class="latin">X</rend></abbr_cur></suppl></td></tr>
+<tr><td>Sadlo.</td><td>18.</td><td><ts>__</ts></td><td><ts>__</ts></td></tr>
+<tr><td>Drasil.</td><td>19.</td><td><ts>__</ts></td><td><ts>__</ts></td></tr>
+<tr><td>Leitgeb.</td><td>30</td><td><ts>__</ts></td><td><ts>__</ts></td></tr>
+<tr><td>Michelansky.<ts>__________</ts></td><td>25</td><td>4 <abbr_cur expand="Gulden"><rend class="latin">f</rend></abbr_cur> 30 <abbr_cur expand="Kreuzer"><rend class="latin">X</rend></abbr_cur></td><td><u>tafel</u></td></tr>
+<tr><td><rend class="latin">Burgh.</rend></td><td>23</td><td><ts>__</ts></td><td><ts>__</ts></td></tr>
+<tr><td><rend class="latin">Adlgasser.</rend></td><td>24. 30 <rend class="latin">X</rend></td><td>4 <abbr_cur expand="Gulden"><rend class="latin">f</rend></abbr_cur> 30 <abbr_cur expand="Kreuzer"><rend class="latin">X</rend></abbr_cur></td><td><u>tafel</u></td></tr>
+<tr><td><rend class="latin">Winter.</rend></td><td>21.</td><td>4 <abbr_cur expand="Gulden"><rend class="latin">f</rend></abbr_cur> 30 <abbr_cur expand="Kreuzer"><rend class="latin">X</rend></abbr_cur></td><td><ts>__</ts></td></tr>
+<tr><td>Lipp.</td><td>20 <suppl hand="self" pos="inline">und die Do<abbr type="topline" expand="mm">m</abbr> accidenti<abbr v="en"/>.</suppl></td><td><ts>__</ts></td><td><ts>__</ts></td></tr>
+<tr><td><rend class="latin">Spizeder.</rend></td><td>30. 30 <abbr_cur expand="Kreuzer"><rend class="latin">X</rend><h>r</h>.</abbr_cur></td><td><ts>__</ts></td><td><u>tafel</u></td></tr>
+<tr><td><rend class="latin">Zugseisen.</rend></td><td>21.</td><td><ts>__</ts></td><td><ts>__</ts></td></tr>
+<tr><td><rend class="latin">Wirth.</rend></td><td>12.</td><td>4 <abbr_cur expand="Gulden"><rend class="latin">f</rend></abbr_cur> 30 <abbr_cur expand="Kreuzer"><rend class="latin">X</rend></abbr_cur></td><td><ts>__</ts></td></tr>
+<tr><td><rend class="latin">Deibl.</rend></td><td>12</td><td><ts>__</ts></td><td><ts>__</ts></td></tr>
+<tr><td><rend class="latin">hilber.</rend></td><td>15</td><td>5 <abbr_cur expand="Gulden"><rend class="latin">f</rend></abbr_cur> 30 <abbr_cur expand="Kreuzer"><rend class="latin">X</rend></abbr_cur></td><td><u>tafel</u></td></tr>
+<tr><td><rend class="latin">Marchall.</rend></td><td>20</td><td><ts>__</ts></td><td><ts>__</ts></td></tr>
+<tr><td><rend class="latin">Lackner.</rend></td><td>14.</td><td><ts>__</ts></td><td><ts>__</ts></td></tr>
+<tr><td><rend class="latin">Gottfried.</rend></td><td>15.</td><td><ts>__</ts></td><td><ts>__</ts></td></tr>
+<tr><td><rend class="latin">Schulz.</rend></td><td>16.</td><td><ts>__</ts></td><td><ts>__</ts></td></tr>
+<tr><td><rend class="latin">Sandmayr.</rend></td><td>15.</td><td><ts>__</ts></td><td><ts>__</ts></td></tr>
+<tr><td><rend class="latin">Mayr.</rend></td><td>13.</td><td><ts>__</ts></td><td><ts>__</ts></td></tr>
+<tr><td><rend class="latin">Estlinger.</rend></td><td>15</td><td><ts>__</ts></td><td><ts>__</ts></td></tr>
+<tr><td><rend class="latin">Paris</rend></td><td>10. <suppl hand="self" pos="inline">itzt 15</suppl></td><td><ts>__</ts></td><td><ts>__</ts></td></tr>
+<tr><td><rend class="latin">Pinzger.</rend></td><td>12.<ts>__</ts><suppl hand="self" pos="inline">20 <abbr_cur expand="Gulden"><rend class="latin">f</rend></abbr_cur> itzt 20 <abbr_cur expand="Gulden">f</abbr_cur></suppl></td><td><ts>__</ts></td><td><ts>__</ts></td></tr>
+<tr><td><rend class="latin">Rhab.</rend></td><td>8.</td><td><ts>__</ts></td><td><ts>__</ts></td></tr>
+<tr><td><suppl hand="self" pos="inline"><rend class="latin">Cassel</rend></suppl></td><td><suppl hand="self" pos="inline">25 <abbr_cur expand="Gulden"><rend class="latin">f</rend></abbr_cur></suppl></td><td><ts>__</ts></td><td><ts>__</ts></td></tr></table>
+<pg n="2"/>
+<table rules="none" rows="26" cols="4">
+<tr><td><rend class="latin">Criner.</rend></td><td>9.</td><td><ts>__</ts></td><td><ts>__</ts></td></tr>
+<tr><td><rend class="latin">Stadler.</rend></td><td>10.<ts>__</ts><suppl hand="self" pos="inline">itzt 14 <abbr_cur expand="Gulden"><rend class="latin">f</rend></abbr_cur></suppl></td><td><ts>__</ts></td><td><suppl hand="self" pos="inline">Seydl &#8211; 29. 30 <abbr_cur expand="Kreuzer"><rend class="latin">X</rend></abbr_cur></suppl></td></tr>
+<tr><td><rend class="latin">Hafeneder.</rend></td><td>15.<ts>__</ts><suppl hand="self" pos="inline">itzt 25 <abbr_cur expand="Gulden"><rend class="latin">f</rend></abbr_cur></suppl></td><td><ts>__</ts></td><td><suppl hand="self" pos="inline"><rend class="latin">Michelansky</rend> &#8211; 29. 30 <abbr_cur expand="Kreuzer"><rend class="latin">X</rend></abbr_cur></suppl></td></tr>
+<tr><td><rend class="latin">Riedmiller.</rend></td><td>15.</td><td><ts>__</ts></td><td><suppl hand="self" pos="inline"><rend class="latin">Burgh</rend> &#8211; 23.</suppl></td></tr>
+<tr><td><rend class="latin">Baur.</rend></td><td>5.<ts>__</ts><suppl hand="self" pos="inline">12 <abbr_cur expand="Gulden"><rend class="latin">f</rend></abbr_cur></suppl></td><td><ts>__</ts></td><td><suppl hand="self" pos="inline"><rend class="latin">Wirth</rend> –- 16. 30 <abbr_cur expand="Kreuzer"><rend class="latin">X</rend></abbr_cur></suppl></td></tr>
+<tr><td><rend class="latin">Schmid Lor.</rend></td><td>7.<ts>__</ts><suppl hand="self" pos="inline">12 <abbr_cur expand="Gulden"><rend class="latin">f</rend></abbr_cur></suppl></td><td><ts>__</ts></td><td><suppl hand="self" pos="inline"><rend class="latin">Deibl</rend> &#8211; 12.</suppl></td></tr>
+<tr><td><rend class="latin">Thuman</rend>&#160;<suppl hand="self" pos="supra">†</suppl></td><td>12.</td><td><ts>__</ts></td><td><suppl hand="self" pos="inline"><rend class="latin">Hilber</rend> &#8211; 20. 30</suppl></td></tr>
+<tr><td><rend class="latin">Hofer.</rend></td><td>8. 30 <abbr_cur expand="Kreuzer"><rend class="latin">X</rend></abbr_cur><ts>__</ts><suppl hand="self" pos="inline">12 <abbr_cur expand="Gulden"><rend class="latin">f</rend></abbr_cur></suppl></td><td><ts>__</ts></td><td><suppl hand="self" pos="inline"><stroke>Lackner &#8211; 14.</stroke></suppl></td></tr>
+<tr><td><rend class="latin">Joh: Schmid.</rend></td><td>6.</td><td><ts>__</ts></td><td><suppl hand="self" pos="inline"><rend class="latin">Rhaab</rend> &#8211; 8.</suppl></td></tr>
+<tr><td><rend class="latin">Biber.</rend></td><td>5.<ts>__</ts><suppl hand="self" pos="inline">itzt 8 <abbr_cur expand="Gulden"><rend class="latin">f</rend></abbr_cur></suppl></td><td><ts>__</ts></td><td><suppl hand="self" pos="inline"><rend class="latin">Thuman</rend> &#8211; 12.</suppl></td></tr>
+<tr><td><rend class="latin">Bierer.</rend></td><td>9.</td><td><ts>__</ts></td><td><suppl hand="self" pos="inline"><ts>_____________</ts>165.<ts>__</ts>Ø</suppl></td></tr>
+<tr><td><rend class="latin">Hofstetter.</rend>&#160;<suppl hand="self" pos="inline">12</suppl></td><td>6.<ts>__</ts><suppl hand="self" pos="inline">12 <abbr_cur expand="Gulden">f</abbr_cur></suppl></td><td><ts>__</ts></td><td><suppl hand="self" pos="inline" color="red"><rend class="latin">Zugseisen</rend> 21</suppl></td></tr>
+<tr><td><rend class="latin">Hornung.</rend></td><td>8.</td><td><ts>__</ts></td><td><ts>__</ts></td></tr>
+<tr><td><rend class="latin">Bergman.</rend></td><td>4.<ts>__</ts><suppl hand="self" pos="inline">12 <abbr_cur expand="Gulden">f</abbr_cur></suppl></td><td><ts>__</ts></td><td><ts>__</ts></td></tr>
+<tr><td><rend class="latin">Schulz Th: P:</rend></td><td>8. 20 <abbr_cur expand="Kreuzer"><rend class="latin">X</rend><h>r</h></abbr_cur></td><td><u><rend class="latin">chorivicarius</rend></u>.</td><td><ts>__</ts></td></tr>
+<tr><td><rend class="latin">Christ: Lolli.</rend></td><td>4.<suppl hand="self" pos="inline">†</suppl></td><td><ts>__</ts></td><td><ts>__</ts></td></tr>
+<tr><td><rend class="latin">Adlgasserin.</rend></td><td>10 <abbr_cur expand="Gulden"><rend class="latin">f</rend></abbr_cur></td><td><ts>__</ts></td><td><ts>__</ts></td></tr>
+<tr><td><rend class="latin">Haydin.</rend></td><td>10 <abbr_cur expand="Gulden"><rend class="latin">f</rend></abbr_cur></td><td><ts>__</ts></td><td><ts>__</ts></td></tr>
+<tr><td><rend class="latin">Elis: Meisnerin</rend></td><td>10 <abbr_cur expand="Gulden"><rend class="latin">f</rend></abbr_cur></td><td><ts>__</ts></td><td><ts>__</ts></td></tr>
+<tr><td><rend class="latin">Braunhoferin.</rend></td><td>10 <abbr_cur expand="Gulden"><rend class="latin">f</rend></abbr_cur></td><td><ts>__</ts></td><td><ts>__</ts></td></tr>
+<tr><td><rend class="latin">Franzca Michelansky</rend></td><td>3 <abbr_cur expand="Gulden">f</abbr_cur></td><td><ts>__</ts></td><td><ts>__</ts></td></tr>
+<tr><td><rend class="latin">Rochus Egedacher</rend><lbr type="forced"/>und weg<abbr v="en"/> Sti<abbr type="topline" expand="mm">m</abbr>en<lbr/>d<abbr v="er"/> Inst<abbr type="curve">:</abbr> bey Hof.</td><td>12.30 <rend class="latin">X</rend><lbr type="forced"/>2 f</td><td>4 <abbr_cur expand="Gulden"><rend class="latin">f</rend></abbr_cur> 30 <rend class="latin">X.</rend></td><td><ts>__</ts></td></tr>
+<tr><td><rend class="latin">Ferd: Mayr</rend> geig<abbr v="en"/>=<lbr type="forced"/>macher.</td><td>8 <abbr_cur expand="Gulden">f.</abbr_cur></td><td><ts>__</ts></td><td><ts>__</ts></td></tr>
+<tr><td><ts>____</ts><rend class="latin">Bartol: Ritter.</rend></td><td>7 <abbr_cur expand="Gulden">f</abbr_cur></td><td>Biergeld nachdem Preis des Biers. 2 schafkorn.</td><td><ts>__</ts></td></tr>
+<tr><td><ts>____</ts><rend class="latin">Tomas Franck.</rend></td><td><rend class="latin">idem</rend></td><td><ts>__</ts></td><td><ts>__</ts></td></tr>
+<tr><td><ts>____</ts><rend class="latin">Joseph Jezel.</rend></td><td>9 <abbr_cur expand="Gulden"><rend class="latin">f.</rend></abbr_cur><ts>____</ts><u><rend class="latin">idem.</rend></u></td><td><ts>__</ts></td><td><ts>__</ts></td></tr></table>
+</text>
+</MUP>

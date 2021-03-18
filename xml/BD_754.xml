@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2014">2014-5</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1323</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">SK-BRm</bibl>
+            <bibl type="source" subtype="RISM">SK-BRm (Archív mesta Bratislavy)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:40:28 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_754.mup">
+<letter bd="754"><NI src="SK-BRm"><HEADER id="1323">WOLFGANG AMADÉ MOZART AN LEOPOLD MOZART IN SALZBURG<lbr/>
+WIEN, 2. JULI 1783</HEADER>
+<pg n="1"/>
+<ts>____</ts><tshtm>__</tshtm><rend class="latin">Mon trés cher Pére!</rend><ts>______</ts><tshtm>_________________________________________</tshtm><tspdf>\hfill </tspdf><rend class="latin"><u>Vie<abbr type="topline" expand="nn">n</abbr>e</u> ce</rend> 2 <rend class="latin">de Jullet</rend><lbr type="forced"/>
+<ts>_________</ts><tshtm>_______________________________________________________________________________________</tshtm><tspdf>\hfill </tspdf><uu>1783</uu><lbr type="forced"/>
+<lbr type="forced"/>
+lezten Postage war mir der kopf so voll daß ich zu schreiben vergessen<lbr type="BD"/><lbr/>
+musste. &#8211; es war die <rend class="latin">Langin</rend> be&#255; uns um die 2 <rend class="latin">Arien</rend> zu Probiren,<lbr/>
+und wir<lbr type="BD"/> hielten Rath um feiner zu se&#255;n als unsere feinde &#8211; de<abbr type="topline" expand="nn">n</abbr><lbr/>
+Ich habe ihrer genug,<lbr type="BD"/> und die <rend class="latin">Langin</rend> hat wegen der <rend class="latin">storaci</rend> der<lbr/>
+<u>Neuen Sängerin</u> auch nun genug. &#8211;<lbr type="BD"/> und ich dachte erst das Post<pc force="weak">=</pc><lbr/>tage ist als ich alleine war, und als ich es war,<lbr type="BD"/> war es schon zu<lbr/>
+spätt. &#8211; die <rend class="latin">opera <u>il curioso indiscreto</u></rend> vom <rend class="latin">Anfossi</rend> wori<abbr type="topline" expand="nn">n</abbr><lbr type="BD"/> die<lbr/>
+<rend class="latin">Lange</rend> und <rend class="latin">Adamberger</rend> zum erstenmale aufgetretten, ist vorgestern<lbr/>
+Mon<lbr type="BD"/>tages zum erstenmale gegeben worden. &#8211; es gefiel gar nichts<lbr/>
+als die 2 <rend class="latin">arien</rend><lbr type="BD"/> von mir. &#8211; und die 2:<h>te</h>, welche eine <rend class="latin">Bravour<lbr/>
+arie</rend> ist, musste wiederhollet wer<lbr type="BD"/>den. &#8211; Nun müssen sie wissen<lbr/>
+daß Meine feinde so boshaft waren schon<lbr type="BD"/> vorhinein aus<pc force="weak">=</pc><lbr/>zusprengen; <u><rend class="latin">Mozart</rend> will die <rend class="latin">opera</rend> des <rend class="latin">anfossi Corrigiren</rend></u> &#8211; <lbr/>
+ich<lbr type="BD"/> hörte es. &#8211; ich liess also dem graf Rosenberg sagen, daß<lbr/>
+ich die <rend class="latin">arien</rend> nicht<lbr type="BD"/> hergebe, ausgeno<abbr type="topline" expand="mm">m</abbr>en es wird folgendes so<lbr/>
+wohl teutsch als wälsch den<lbr type="BD"/> bücheln be&#255;gedruckt.<lbr type="forced"/>
+<table rules="cols" cellpadding="5"><tr>
+<td><ts>__________</ts><tshtm>______</tshtm><rend class="latin"><u>Avertimento</u>.</rend><lbr type="forced"/>
+<rend class="latin">Le due Arie à carta 36 e a carte<lbr/>
+102 sono<lbr type="BD"/> state messe in Musica dal<lbr/>
+Sig:<h>e</h> Maestro<lbr type="BD"/> Mozart, per compiacere<lbr/>
+alla sig:<h>ra</h> Lange,<lbr type="BD"/> non essendo quelle<lbr/>
+state scritta dal sig:<lbr type="BD"/> Maestro anfossi<lbr/>
+secondo la di lei abilità, mà<lbr type="BD"/> per<lbr/>
+altro soggetto. questo si vuole far<lbr/>
+noto<lbr type="BD"/> perchè ne vada L'onore à<lbr/>
+chi conviene,<lbr type="BD"/> senza che rimanga<lbr/>
+in alcuna parte pregiu<lbr type="BD"/>dicata<lbr/>
+la riputazione e la fama<lbr/>
+del già<lbr type="BD"/> molto cognito Napolitano.<lbr type="forced"/><lbr type="BD"/></rend></td>
+<td><lbr type="forced"/>
+es wurde be&#255;gedruckt &#8211; und ich<lbr type="BD"/> gab die<lbr/>
+<rend class="latin">arien</rend> her, welche so wohl<lbr type="BD"/> mir als<lbr/>
+meiner schwägerin un<lbr type="BD"/>aussprechliche Ehre<lbr/>
+Machten. &#8211;<lbr type="BD"/> und die Hr: feinde sind ganz<lbr type="BD"/><lbr/>
+betroffen! &#8211; Nun kö<abbr type="topline" expand="mm">m</abbr>t eine<lbr type="BD"/>&#160;<rend class="latin">tour</rend><lbr/>
+des h<abbr type="curve">:</abbr>&#160;<rend class="latin">Salieri</rend>, welche nicht<lbr type="BD"/> so viel mir<lbr/>
+als den armen <rend class="latin">Adam<lbr type="BD"/>berger</rend> schaden<lbr/>
+thut. &#8211; ich glaube<lbr type="BD"/> ich habe ihnen ge<pc force="weak">=</pc><lbr/>schrieben daß<lbr type="BD"/> ich auch für dem <rend class="latin">Adamberger</rend><lbr type="BD"/><lbr/>
+ein <rend class="latin">Rondeau</rend> gemacht habe. &#8211;<lbr type="BD"/> be&#255; einer<lbr type="forced"/></td>
+</tr></table>
+<pg n="2"/>
+kleinen Probe |: da das <rend class="latin">Rondeau</rend> noch gar nicht abgeschrieben war :| ruft<lbr type="BD"/>&#160;<rend class="latin">Salieri</rend> den<lbr/>
+<rend class="latin">adamberger</rend> auf die Seite, und sagte ihm, daß der graf <rend class="latin">Rosenberg</rend><lbr type="BD"/> nicht<lbr/>
+gerne sähe daß er eine <rend class="latin">arie</rend> hinein sezte, und er ihm folglich als ein<lbr/>
+guter<lbr type="BD"/> freund rathe, es nicht zu thun. &#8211; <rend class="latin">Adamberger</rend> &#8211; aufgebracht über<lbr/>
+den <rend class="latin">Rosen<lbr type="BD"/>berg</rend> und &#8211; dermalen zur <u>unzeit Stolz</u> &#8211; wusste nicht sich<lbr/>
+anderst zu rächen,<lbr type="BD"/> begieng die du<abbr type="topline" expand="mm">m</abbr>heit und sagt &#8211; Nu Ja &#8211; <u>um<lbr/>
+zu zeigen das <rend class="latin">Adamberg</rend> schon<lbr type="BD"/> seinen Ruhm in Wie<abbr type="topline" expand="nn">n</abbr> hat, und nicht<lbr/>
+nöthig hat sich erst durch für ihn ge<lbr type="BD"/>schriebne <rend class="latin">Musique</rend> Ehre zu machen,<lbr/>
+so wird er singen was dari<abbr type="topline" expand="nn">n</abbr> steht, und sein<lbr type="BD"/> lebtage keine <rend class="latin">arie</rend><lbr/>
+mehr einlegen.</u> &#8211; was war der erfolg davon? &#8211; das, daß er<lbr type="BD"/><lbr/>
+gar nicht gefiel, wie es auch nicht anderst möglich war! &#8211; Nun reuet<lbr/>
+es ihn,<lbr type="BD"/> aber zu spätt. &#8211; de<abbr type="topline" expand="nn">n</abbr> we<abbr type="topline" expand="nn">n</abbr> er mich heute ersuchte ihm das<lbr/>
+<rend class="latin">Rondeau</rend> zu geben,<lbr type="BD"/> so würde ich es nicht mehr hergeben. &#8211; ich ka<abbr type="topline" expand="nn">n</abbr> es<lbr/>
+sehr gut in eine Meinige<lbr type="BD"/>&#160;<rend class="latin">opera</rend> brauchen. &#8211; das ärgste aber dabe&#255;<lbr/>
+ist, daß die Propheze&#255;hung <u>seiner<lbr type="BD"/> frau</u> und <u>von mir</u> wahr geworden<lbr/>
+ist, nemlich, daß der graf <rend class="latin">Rosenberg</rend> sa<abbr type="topline" expand="mm">m</abbr>t<lbr type="BD"/> der <rend class="latin">Direction</rend>&#160;<u>gar kein<lbr/>
+wort davon weis</u>, und das es nur so ein Pfiff des<lbr type="BD"/>&#160;<rend class="latin">Salieri</rend> war. &#8211; <lbr type="forced"/>
+Meine frau befindet sich gott lob wieder ganz gut bis auf einen kleinen<lbr type="BD"/><lbr/>
+Chatar. &#8211; wir küssen ihnen be&#255;de die hände sa<abbr type="topline" expand="mm">m</abbr>t dem vierzehntägigen<lbr type="BD"/><lbr/>
+<rend class="latin">Raymund</rend>el, und umarmen unsre liebe schwester von herzen und<lbr/>
+sind Ewig<lbr type="BD"/> dero<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_______</ts><tshtm>_______________________________________________________</tshtm><tspdf>\hfill </tspdf>gehorsamst kinder<lbr type="BD"/><lbr type="forced"/>
+<ts>_______</ts><tshtm>_________________________________________________________</tshtm><tspdf>\hfill </tspdf>W. A: C: Mozart <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+</NI></letter>
+</text>
+</MUP>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2014">2014-5</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1317</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:40:26 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_749a.mup">
+<letter bd="749a"><HEADER id="1317">CONSTANZE MOZART AN LEOPOLD MOZART IN SALZBURG<lbr/>
+WIEN, 30. MAI 1783<lbr/>
+Abschrift von Constanze Nissen, ca. 1830</HEADER>
+<pg n="1"/>
+<ts>____</ts><tshtm>__</tshtm>Liebster <rend class="latin">Papa</rend><ts>_____</ts><tshtm>_______</tshtm><tspdf>\hfill </tspdf>wien am 30 No: 1783<lbr type="forced"/>
+<lbr type="forced"/>
+Mein lieber Mann kan Ihnen nicht selbst schreiben<lbr/>
+weil er kranck im Bette liegt, mit der itzigen<lbr/>
+<rend class="latin">Mode</rend> Kranckheit; Nun aber wird es bald wieder<lbr/>
+Beßer seyn. Diese Kranckheit Bestehet aus dem Heftigsten<lbr/>
+Halsweh, Kopfschmerzen, und Brust stechen; <rend class="latin">Gilowsk&#255;</rend><lbr/>
+welcher weiß, daß sich mein lieber Mann Niemahlen<lbr/>
+zu Ader gelaßen hat, wolte es auch ietz umgehen<lbr/>
+allein es war ohnmöglich, er muste ihm eine<lbr/>
+luftläße laßen, die ihre gute folge gehabt hat. seyn<lbr/>
+Sie dahero liebster Papa auser Sorgen, das ärgste<lbr/>
+ist Nun schon Gott lob und Danck vorüber. Ach wie<lbr/>
+Betrübt ist es für eine zärtlich liebend Frau die keine<lbr/>
+sichere stunde mehr zu ihrer Niederkunft hat, ihren<lbr/>
+geliebten Man so kranck gehabt zu haben. der liebe<lbr/>
+Gott hat Ihnen Nun Ihren Sohn und mir meinen angebethenen<lbr/>
+Ma<abbr type="topline" expand="nn">n</abbr> wieder geschenckt, wofür wir ihm auch täglich dancken<lbr/>
+wollen &#8211; Mein lieber Man und ich küßen Ihnen 1000<lbr/>
+die Hände und umarmen unsre liebe Schwester von<lbr/>
+ganzem Herzen, und verbleiben Ewig dero<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>______</ts><tshtm>__________________________________________</tshtm><tspdf>\hfill </tspdf>Gehorsamstes Kind<lbr type="forced"/>
+<ts>______</ts><tshtm>__________________________________________</tshtm><tspdf>\hfill </tspdf>Constanza Mozart<lbr/>
+<pg n="2"/>
+<add_note schr_id="48818">luer  <rend class="latin">luer</rend><lbr/>
+Tödlen</add_note>
+</letter>
+</text>
+</MUP>

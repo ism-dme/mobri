@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2019">2019-12</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=582</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Privatbesitz</bibl>
+            <bibl type="source" subtype="RISM">Privatbesitz</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:36:23 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_25.mup">
+﻿<letter bd="25">
+<NI src="privat">
+<HEADER id="582">LEOPOLD MOZART AN JOHANN JAKOB LOTTER IN AUGSBURG<lbr/>
+SALZBURG, 23. FEBRUAR 1756</HEADER>
+<pg n="1"/>
+<ts>_________________________________________</ts><tspdf>\hfill </tspdf>Salzb<abbr type="curve">:</abbr>&#160;<u>23. <rend class="latin">feb<abbr type="curve">.</abbr></rend> 1756</u><lbr type="forced"/>
+<add_num type="inline" impl="crayon" color="red" schr_id="0"><u>1</u></add_num><ts>__________</ts><rend class="latin"><persName key="76865">Monsieur</persName> mon tres cher amy</rend><lbr type="forced"/>
+<lbr type="forced"/>
+Hier ist d<abbr v="er"/> (k) bog<abbr v="en"/> zurück. <u>§ 1[0]</u> habe ich in gedank<abbr v="en"/><lbr/>
+das Wort <u>Paragraphi</u><lbr type="BD"/> unterstrich<abbr v="en"/>. Es hat aber nichts anders<lbr/>
+zu bedeut<abbr v="en"/>, als daß es <u>Paragraphs</u><lbr type="BD"/> heiß<abbr v="en"/> muß.<lbr type="forced"/>
+<lbr type="forced"/>
+<u>Im § 11</u> wird das unausgedruckte wort: <u>werden</u><lbr/>
+wohl recht<lbr type="BD"/> gesetzt se&#255;n?<lbr type="forced"/>
+<lbr type="forced"/>
+<u><rend class="latin">pag</rend>. 76.</u> ist be&#255; einem Exempel ein <u><rend class="latin">NB</rend>.</u>, das will sagen,<lbr/>
+daß sie<lbr type="BD"/> die erste und zwote Note eines ied<abbr v="en"/> viertheils<lbr/>
+im erst<abbr v="en"/> tacte besser aus<lbr type="BD"/>einand<abbr v="er"/> setz<abbr v="en"/> soll<abbr v="en"/>. de<abbr type="topline" expand="nn">n</abbr> es muß<lbr/>
+heißen.<lbr type="BD"/><lbr type="forced"/>
+<object type="mus" src="briefe_BD_25_NBsp_1-300"></object><lbr type="forced"/>
+be&#255; ihrem Satze kö<abbr type="topline" expand="mm">m</abbr>t aber ob<abbr v="en"/> d<abbr v="er"/> 3<h>te</h> Strich zu sehr<lbr/>
+an die zwote Note,<lbr type="BD"/> und scheinet als hieße es, <object type="mus" src="briefe_BD_25_NBsp_2-300"></object><lbr type="forced"/>
+Diess wäre aber nichts Nütz.<lbr type="forced"/>
+<pg n="2"/>
+<add_empf><ts>_____</ts>1756. d<abbr v="en"/> 23. <rend class="latin">Febr.</rend> aus Salzburg<lbr/>
+<ts>_____</ts>von h<abbr type="curve">:</abbr>&#160;<rend class="latin">Leopold Mozart</rend>.</add_empf>
+<add_num type="inline" impl="crayon" color="red" schr_id="0"><u>2</u></add_num>
+<add_note impl="pencil" schr_id="0"><ts>_____</ts>Schluß folgt</add_note><lbr/>
+<rend class="latin">p</rend>: 78. §. 19 stecket im zwe&#255;t<abbr v="en"/> Exempl ein fehler;<lbr/>
+es muß also heiß<abbr v="en"/>. <object type="mus" src="briefe_BD_25_NBsp_3-300"></object><lbr type="BD"/><lbr type="forced"/>
+wo das <u><rend class="latin">NB</rend></u> ist dort war d<abbr v="er"/> fehler.<lbr type="forced"/>
+Im text darauf muß es nicht <u>ereign<abbr v="en"/>,</u> son<lbr type="BD"/>dern <u>eräugen</u> heiß<abbr v="en"/>.<lbr/>
+nämlich: <u>Dieß eräuget sich.</u><lbr/>
+das ist: es wirf sich unter<lbr type="BD"/> die Aug<abbr v="en"/>; es kö<abbr type="topline" expand="mm">m</abbr>t vom: <u>Auge</u>.<lbr type="forced"/>
+<rend class="latin">p</rend>. 79 muß es in zweyt<abbr v="en"/> Exempl heiß<abbr v="en"/>: <object type="mus" src="briefe_BD_25_NBsp_4-300"></object><lbr type="BD"/><lbr type="forced"/>
+Ich sehe, das die Exempl das buch sehr erweitern.<lbr/>
+und wenn ich das <u><rend class="latin">Mspt</rend></u><lbr type="BD"/> noch in hand<abbr v="en"/> hätte, ich<lbr/>
+würde sie vielleicht abzukürz<abbr v="en"/> such<abbr v="en"/>, so<lbr type="BD"/> viel<lbr/>
+möglich wäre. <rend class="latin">Basta</rend>! es ko<abbr type="topline" expand="mm">m</abbr>t halt auf einige<lbr/>
+bög<abbr v="en"/> mehr an. Ich hätte Z: E: <rend class="latin">p</rend>. <u>73</u>. <u>74</u>. <u>75</u>.<lbr/>
+wo 2 Exempl Zeil<abbr v="en"/> sind allemal die zwote aus<lbr type="BD"/>lass<abbr v="en"/> kö<abbr type="topline" expand="nn">n</abbr><abbr v="en"/>,<lbr/>
+obwohl es fre&#255;lich besser ist, we<abbr type="topline" expand="nn">n</abbr> sie da sind.<lbr type="forced"/>
+<pg n="3"/>
+Mich wundert, daß man einen Mann von seinem Hausgeschäfte zum Kranken<lbr type="BD"/>warten ruft. Es geschiehet halt<lbr/>
+wechselweise, wegen <u>dem Testament,</u> fahre<lbr type="BD"/> aus du unreiner Geist!<lbr type="forced"/>
+Schließen <h><add_note type="inline" hand="diff" schr_id="64391">*)</add_note></h> nun aus diesem Brief, wie ich in der E&#255;le schreibe. Da ich geglaubt<lbr type="BD"/>
+hab, der Bogen se&#255;e schon umgewändt. ich bin dero Ergebenster<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>____________________________________________</ts><tspdf>\hfill </tspdf><persName key="39408"><rend class="latin">Leopold Mozart</rend></persName>.<lbr type="forced"/>
+<lbr/>
+<add_note hand="diff" schr_id="64391">*) Der Brief ist nämlich ganz verkehrt geschrieben: auf Seite 1 folgt 4 dann 3 und 2.<lbr type="forced"/>
+<ts>______________________________________________________________________________________________________</ts><persName key="64391">AF</persName>.</add_note>
+<pg n="4"/>
+<vacat/>
+</NI>
+</letter>
+</text>
+</MUP>

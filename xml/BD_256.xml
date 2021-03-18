@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2009">2009-08-20</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=217</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:37:37 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_256.mup">
+<letter bd="256"><HEADER id="217">LEOPOLD MOZART AN MARIA ANNA MOZART IN SALZBURG<lbr/>
+MAILAND, 16. NOVEMBER 1771</HEADER>
+<pg n="1"/>
+<ts>____________</ts><tshtm>_________________________________________________________</tshtm><tspdf>\hfill </tspdf>Mayland d<abbr v="en"/> 16<h>t<abbr v="en"/></h>&#160;<rend class="latin">Novb<abbr type="curve">:</abbr></rend><lbr type="forced"/>
+<ts>____________</ts><tshtm>_______________________________________________________________________________</tshtm><tspdf>\hfill </tspdf><u>1771.</u><lbr type="forced"/>
+Dein<abbr v="en"/> Brief vom 8<h>t<abbr v="en"/></h>&#160;<rend class="latin">Novemb<abbr type="curve">:</abbr></rend> habe empfang<abbr v="en"/>; ich glaubte d<abbr v="en"/> 18<h>t<abbr v="en"/></h><lbr/>
+ganz<lbr type="BD"/> gewiß abzureis<abbr v="en"/>, allein seine Königl: Hoheit der Erzherzog<lbr/>
+woll<abbr v="en"/> noch mit<lbr type="BD"/> uns sprech<abbr v="en"/>, we<abbr type="topline" expand="nn">n</abbr> sie von <rend class="latin">Varese</rend> zurückko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>, so in 8 täg<abbr v="en"/><lbr/>
+gescheh<abbr v="en"/><lbr type="BD"/> wird, folglich wird unser aufenthalt noch hier über 10 Täge<lbr/>
+sich gewiß<lbr type="BD"/> erstreck<abbr v="en"/>. Gedult! wir werd<abbr v="en"/> doch, we<abbr type="topline" expand="nn">n</abbr> gott will, bald<lbr/>
+einand<abbr v="er"/> seh<abbr v="en"/>.<lbr type="BD"/> Wir sind, Gott Lob, gesund. wir bedauern be&#255;de<lbr/>
+die übl<abbr v="en"/> Umstände, in<lbr type="BD"/> welch<abbr v="en"/> sich h<abbr type="curve">:</abbr>&#160;<abbr expand="von">v</abbr>&#160;<rend class="latin">Vogt</rend> befindet, be&#255;de hab<abbr v="en"/><lbr/>
+wir bereits für ihn zu Gott<lbr type="BD"/> gebett<abbr v="en"/>, und sollte er, wie wünsche<lbr/>
+noch leb<abbr v="en"/>, so empfehl<abbr v="en"/> wir uns und<lbr type="BD"/> wünsch<abbr v="en"/> ihm gute Besserung,<lbr/>
+und Ergebung in den Will<abbr v="en"/> Gottes.<lbr type="forced"/>
+Dancke all<abbr v="en"/> gut<abbr v="en"/> freund<abbr v="en"/> und freundin<abbr v="en"/> für d<abbr v="en"/> redlich<abbr v="en"/> Glückwunsch,<lbr/>
+H<abbr type="curve">:</abbr> von Hefner bin schuldig zu antwort<abbr v="en"/>, ich danke ihm nebst meiner<lbr/>
+Empf<abbr type="curve">:</abbr><lbr type="BD"/> entzwisch<abbr v="en"/> ergebenst: &#8211; &#8211; der Kopf ist mir voll, und ich hab<lbr/>
+mehr zu<lbr type="BD"/> überdenk<abbr v="en"/>, als ihr euch einbild<abbr v="en"/> kö<abbr type="topline" expand="nn">n</abbr>t. daß die <rend class="latin">Serenate</rend><lbr/>
+ungemein<abbr v="en"/> Be&#255;fall<lbr type="BD"/> gehabt, hat seine Richtigkeit. ob aber, we<abbr type="topline" expand="nn">n</abbr><lbr/>
+eine Besoldung ledig wird, S<h>e</h>:<lbr type="BD"/> Hochf<abbr type="curve">:</abbr> Gd<abbr v="en"/> sich des Wolfgang eri<abbr type="topline" expand="nn">n</abbr>ern<lbr/>
+wird, zweifle sehr. &#8211; &#8211; Nun muß ich<lbr type="BD"/> schlüss<abbr v="en"/>, de<abbr type="topline" expand="nn">n</abbr> ich habe noch<lbr/>
+ein<abbr v="en"/> Brief nach <rend class="latin">Verona</rend>&#160;<suppl hand="self" pos="supra">zu</suppl> schreib<abbr v="en"/>. deine<lbr type="BD"/> Brief schicke nur itzt<lbr/>
+nach <rend class="latin">Verona</rend> an <rend class="latin">Ill<h>o</h>: Sr: Pietro Luggiati</rend> dieser wird<lbr type="BD"/> mir solche<lbr/>
+zustell<abbr v="en"/>. Lebt wohl, wir küss<abbr v="en"/> euch be&#255;de 10000000000 mahl<lbr/>
+und bin dein alter<lbr type="forced"/>
+<ts>______________</ts><tshtm>_____________________________________________________________</tshtm><tspdf>\hfill </tspdf>Mozart <abbr expand="manu propria">mp</abbr>.<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal><lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+
+<pg n="2"/>
+<vacat/></letter>
+</text>
+</MUP>

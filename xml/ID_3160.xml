@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2013">2013-6</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=3160</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:43:04 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/ID_3160.mup">
+<HEADER id="3160">HIBLER, STAMMBUCHBLATT FÜR FRANZ XAVER WOLFGANG MOZART<lbr/>
+WIEN, 19. MAI 1806</HEADER>
+<pg n="1"/>
+<add_num><ts>_______________________________________________________________</ts>146</add_num>
+<ts>___</ts>Ächte Freundtschaft ist stets mein<lbr type="forced"/>
+<ts>________________</ts><tshtm>_____________</tshtm>Ziel,<lbr type="forced"/>
+<abbr expand="und">u</abbr> das ist was auch von dir haben<lbr type="forced"/>
+<ts>_________________</ts><tshtm>____________</tshtm>will<lbr type="forced"/>
+<lbr type="forced"/>
+Wien den 19:<h>ten</h> Maj<ts>____</ts>dein dich liebender<lbr type="forced"/>
+<ts>___________</ts><tshtm>________</tshtm><abbr type="topline" expand="1806">806</abbr>.<ts>_______</ts><tshtm>_____</tshtm>Freund Hibler <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<ts>________________________</ts><tshtm>________________</tshtm>Haupt<abbr type="curve">:</abbr> v <rend class="latin">Jordis</rend><lbr type="forced"/>
+<lbr type="forced"/>
+<pg n="2"/>
+<lbr type="forced"/>
+<add_num>147</add_num>
+<ts>______</ts>Freudig webe Amors Gunst<lbr type="forced"/>
+<ts>______</ts>Freundschaft und beharrlichkeit,<lbr type="forced"/>
+<ts>______</ts>Liebe kennet keine kunst<lbr type="forced"/>
+<ts>______</ts>schwebt in treuer biederkeit.<lbr type="forced"/>
+<ts>______</ts>Wonnevoll im frohen Lenze<lbr type="forced"/>
+<ts>______</ts>Hoffnungsvoll in deinem Glück<lbr type="forced"/>
+<ts>______</ts>winde dir der Liebe kränze<lbr type="forced"/>
+<ts>______</ts><abbr expand="und">u</abbr> dulde Mannbar das Geschick.<lbr type="forced"/>
+<ts>_______________________________</ts><tshtm>_____________</tshtm>Hibler <abbr expand="manu propria">mp</abbr></text>
+</MUP>

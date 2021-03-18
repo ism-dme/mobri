@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2013">2013-3</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=189</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:29:52 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/Doc1851_3.mup">
+<HEADER id="189">ALOYS FUCHS, ECHTHEITSBESTÄTIGUNG FÜR DIE VIOLA VON WOLFGANG AMADÉ MOZART<lbr/>
+WIEN, 12. MAI 1851</HEADER>
+
+<pg n="1"/>
+<ts>___________________</ts><u>Certifikat.</u><lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____</ts>Der Gefertigte bestättigt hiermit, der<lbr/>
+Wahrheit gemäß, daß die gegenwärtig<lbr/>
+im Besitze des Prof. <rend class="latin">Leopold Jansa</rend> be<pc force="weak">=</pc><lbr/>findliche, von <u><rend class="latin">Paolo Megni</rend></u> in <rend class="latin">Brescia</rend>,<lbr/>
+im Jahre <uu>1615</uu>. verfertigte <u><rend class="latin">Viola</rend></u>, dasselbe<lbr/>
+Instrument ist, welches einst der große Ton<pc force="weak">=</pc><lbr/>dichter des <u><rend class="latin">Don</rend><tspdf>\newline</tspdf>&#160;<rend class="latin">Juan</rend></u>, und des <u><rend class="latin">Requiems</rend></u>, <abbr expand="etc.">et<abbr type="curve"></abbr></abbr>:<lbr/>
+<u><rend class="latin">W. A. Mozart</rend></u>, k. k. Ca<abbr type="topline" expand="mm">m</abbr>erkapellmeisters<lbr/>
+und Hofkomponisten, besessen, und sich des<pc force="weak">=</pc><lbr/>selben fortwährend eigenhändig bedient<lbr/>
+hat. Diese <rend class="latin">Viola</rend> ist nach Mozarts Tode<lbr/>
+in den Besitz des k.k. Professors an der<lbr/>
+Wiener Universität <rend class="latin">D<h><uu>or</uu></h> Zizius</rend> gekom<pc force="weak">=</pc><lbr/>men, nach dessen Tode Herr Prof. <rend class="latin">Leopold<lbr/>
+Jansa</rend>, Mitglied der k. k. Hofkapelle in <rend class="latin">Wien</rend>,<lbr/>
+diese <rend class="latin">Viola</rend> von den Erben des <rend class="latin">D<h><uu>r</uu></h> Zizius</rend><lbr/>
+im J. 1826. erkauft hat.<lbr type="forced"/>
+<ts>_____</ts>Wien am 12. Mai 1851.<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_______________________________________________________</ts><tspdf>\hfill </tspdf>Aloys Fuchs.<lbr type="forced"/>
+Leopold Sonnleithner,<ts>____________________</ts><tspdf>\hfill </tspdf>Mitglied der kk. Hof<pc force="weak">-</pc><lbr type="forced"/>Advokat ersuchter Zeuge<ts>___________________________</ts><tspdf>\hfill </tspdf>kapelle.<lbr type="forced"/>
+<ts>_______________________________________</ts><tspdf>\hfill </tspdf>Stephan Zappe als ersuchter<lbr/>
+<tshtm>_____________________________________________________________________</tshtm> Zeuge<lbr type="forced"/>
+<lbr/>
+<uu>G. Z. 88:</uu> Daß der mir persönlich wohlbekannte<lbr/>
+<lbr/>
+<add_seal type="tax">15<lbr/>
+Kreuzer</add_seal>
+<pg n="2"/>
+Hr Alois <rend class="latin">Fuchs</rend>, Mitglied der k.k. Hofkapelle allhier,<lbr/>
+als Aussteller die auf vorstehender Urkun<pc force="weak">=</pc><lbr/>de befindliche Unterschrift in Gegenwart<lbr/>
+meiner und der mir persönlich bekannten<lbr/>
+Zeugen H<abbr type="topline" expand="rr">r</abbr>n D<h><uu>r</uu></h> Leopold v. <rend class="latin">Sonnleithner</rend>; hiesigen<lbr/>
+Advokatens, und H<abbr type="topline" expand="rr">r</abbr>n Stephan <rend class="latin">Zappe</rend>, Sollicita<pc force="weak">=</pc><lbr/>tors, von welchen der erstere den Ausstel<pc force="weak">=</pc><lbr/>ler persönlich kennt, als die seinige aner<pc force="weak">=</pc><lbr/>kannt habe, bestättige ich hiermit unter<lbr/>
+Beidrückung meines Amtssiegels.<lbr type="forced"/>
+<ts>_____</ts><rend class="latin">Wien den zwölften Mai. Eintausendachthun<pc force="weak">=</pc><lbr type="forced"/>dert fünfzig eins. | 12. Mai 1851 :|</rend><lbr type="forced"/>
+<lbr type="forced"/>
+<ts>______________________________</ts><tspdf>\hfill </tspdf>D<h>r</h>&#160;<rend class="latin">Rudolf Ka<abbr type="topline" expand="mm">m</abbr>erlacher</rend>&#160;<abbr_mp expand="manu propria">mp</abbr_mp><lbr type="forced"/>
+<ts>____________________________________</ts><tspdf>\hfill </tspdf>k. k. Notar<lbr type="forced"/>
+<lbr/>
+<add_seal>WIEN IM KRONLANDE OESTER: U: D: E:<lbr/>D<h><u>R</u></h> RUDOLF<lbr/>
+KAMMERLACHER<lbr/>K:K:NOTAR</add_seal>
+<pg n="3"/>
+<vacat/>
+<pg n="4"/>
+<vacat/>
+
+</text>
+</MUP>

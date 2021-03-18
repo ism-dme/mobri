@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2014">2014-6</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1322</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">US-Wc</bibl>
+            <bibl type="source" subtype="RISM">US-Wc (Library of Congress, Music Division)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:40:27 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_753.mup">
+<letter bd="753"><NI src="US-Wc"><HEADER id="1322">WOLFGANG AMADÉ MOZART AN LEOPOLD MOAZRT IN SALZBURG<lbr/>
+WIEN, 21. JUNI 1783</HEADER>
+<pg n="1"/>
+<ts>______</ts><tshtm>__________________________________________________________________________</tshtm><tspdf>\hfill </tspdf><rend class="latin"><u>Vienne</u> ce</rend> 21 <rend class="latin"><u>de Juin</u></rend><lbr type="forced"/>
+<ts>____</ts><tshtm>___</tshtm><rend class="latin">Mon trés cher Pére!</rend> &#8211; <ts>____</ts><tshtm>_______________________________________________________</tshtm><tspdf>\hfill </tspdf><uu>1783</uu><lbr type="forced"/>
+<lbr type="forced"/>
+Ich muß dermalen ganz kurz se&#255;n, und nur das Nothwendigste schreiben,<lbr/>
+weil<lbr type="BD"/> ich gar zu viel zu thun habe, inde<abbr type="topline" expand="mm">m</abbr> eine Neue Wälsche<lbr/>
+<rend class="latin">opera</rend> aufgeführt<lbr type="BD"/> wird, wori<abbr type="topline" expand="nn">n</abbr>en zum erstenmale 2 teutsche<lbr/>
+auftretten, welche sind, meine<lbr type="BD"/> Schwägerin die Lange, und der<lbr/>
+Adamberger, und wozu ich für die Langin<lbr type="BD"/> 2 <rend class="latin">Arien</rend>, und für<lbr/>
+den Adamberger ein <rend class="latin">Rondeau</rend> zu machen habe. &#8211; Ich hoffe<lbr type="BD"/><lbr/>
+sie werden meinen lezten Jubel=Brief richtig erhalten haben.<lbr/>
+Meine frau,<lbr type="BD"/> hat nun die 2 kritischen täge als gestern und<lbr/>
+vorgestern gott lob gut über<lbr type="BD"/>standen, und befindet sich für<lbr/>
+ihre umstände ganz gut; &#8211; wir hoffen auch daß<lbr type="BD"/> alles gut<lbr/>
+gehen wird. &#8211; das kind ist auch ganz frisch und gesund,<lbr/>
+und hat<lbr type="BD"/> entsezlich vielle geschäften, welche bestehen im trinken,<lbr/>
+schlaffen, schre&#255;en,<lbr type="BD"/> B . . . . sch . . . . und schpeiben. <abbr expand="etc">p</abbr>:<lbr type="forced"/>
+es küsst dem GrosPapa und der tante die Hände.<lbr/>
+Nun wegen dem <rend class="latin">Varesco</rend>. &#8211;<lbr type="BD"/> der Plan gefällt mir ganz<lbr/>
+gut; &#8211; Nun muß ich gleich mit dem graf Rosenberg<lbr type="BD"/><lbr/>
+sprechen, um dem Poeten die belohnung zu versichern. &#8211; <lbr/>
+daß aber Hr: <rend class="latin">varesco</rend><lbr type="BD"/> an dem <rend class="latin">incontro</rend> der <rend class="latin">opera</rend> zweifelt,<lbr/>
+finde ich sehr beleidigend für mich. &#8211; daß<lbr type="BD"/> ka<abbr type="topline" expand="nn">n</abbr> ich ihm ver<pc force="weak">=</pc><lbr/>sichern daß sein Buch gewis nicht gefällt, we<abbr type="topline" expand="nn">n</abbr> die <rend class="latin">Musique</rend><lbr type="BD"/><lbr/>
+nicht gut ist. &#8211; die <rend class="latin">Musique</rend> ist also die Haubtsache be&#255; der<lbr/>
+<rend class="latin">opera;</rend> &#8211; und<lbr type="BD"/> we<abbr type="topline" expand="nn">n</abbr> es also gefallen soll |: und er folglich be<pc force="weak">=</pc><lbr/>lohnung hoffen will :| so muß<lbr type="BD"/> er mir sachen verändern und<lbr/>
+umschmelzen so viel und oft ich will, und nicht<lbr type="BD"/> seinem<lbr/>
+<pg n="2"/>
+kopfe zu folgen, der nicht die geringste <rend class="latin">Practic</rend> und theater<pc force="weak">=</pc><lbr/>ke<abbr type="topline" expand="nn">n</abbr>tnüss<lbr type="BD"/> hat. &#8211; sie kö<abbr type="topline" expand="nn">n</abbr>en ihm i<abbr type="topline" expand="mm">m</abbr>er merken lassen, daß<lbr/>
+eben in der haubtsache nicht<lbr type="BD"/> viel daran gelegen ist, ob er<lbr/>
+die Oper machen will oder nicht. &#8211; den Plan weis<lbr type="BD"/> ich nun; &#8211; <lbr/>
+und folglich ka<abbr type="topline" expand="nn">n</abbr>s mir ein anderer so gut machen als er;<lbr/>
+und über<lbr type="BD"/>dies erwarte ich heute 4 der Neuesten und besten<lbr/>
+<rend class="latin">opern</rend> bücheln von <rend class="latin">Italien</rend>,<lbr type="BD"/> worunter doch eines se&#255;n wird,<lbr/>
+welches gut ist. &#8211; mithin hat es zeit. &#8211; Nun<lbr type="BD"/> muß ich schlüssen,<lbr/>
+Meine kindbetterin und ich küssen ihnen besten vatter<lbr type="BD"/> 1000l<lbr/>
+die hände, und umarmen unsre liebe schwester vom herzen,<lbr/>
+und sind<lbr type="BD"/> Ewig dero<lbr type="forced"/>
+<lbr type="forced"/>
+Hr. von gilowsk&#255; lässt sich be&#255;der<pc force="weak">=</pc><lbr type="forced"/>seits empfehlen, und lässt sich<lbr type="forced"/>
+be&#255; seinen vatter und schwester<lbr type="forced"/>
+bedanken, daß sie ihm gar nicht<lbr type="forced"/>
+schreiben, da sie doch wissen<ts>___</ts><tshtm>________</tshtm><tspdf>\hfill </tspdf>Gehorsamste kinder<lbr type="forced"/>
+daß er krank am fieber ist.<ts>____</ts><tshtm>____________</tshtm><tspdf>\hfill </tspdf>W: A: <rend class="latin">et</rend> C: Mozart <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+</NI></letter>
+</text>
+</MUP>

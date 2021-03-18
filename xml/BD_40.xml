@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2020">2020-02</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=598</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Verbleib unbekannt (Vorlage: Abschrift um 1768 in D-B)</bibl>
+            <bibl type="source" subtype="RISM">Verbleib unbekannt, Vorlage: Abschrift um 1768 in D-B</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:36:27 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_40.mup">
+<letter bd="40">
+<NI src="unbekannt">
+<HEADER id="598">LEOPOLD MOZART AN LORENZ HAGENAUER IN SALZBURG<lbr/>
+WIEN, 6. NOVEMBER 1762</HEADER>
+<pg n="1"/>
+<tshtm><additum>[... (Schluss der Abschrift des ersten Teils des Briefes vom 30. Oktober 1762)]</additum></tshtm>
+<lbr type="forced"/>
+<add_num schr_id="57010"><ts>_____________________________</ts>N. 5</add_num>
+<ts>_________</ts><tshtm>___________________________________</tshtm><tspdf>\hfill </tspdf>Wien den 6:<h>tn</h>&#160;<rend class="latin">Novembris</rend><lbr type="forced"/>
+<ts>_________</ts><tshtm>_________________________________________________________________</tshtm><tspdf>\hfill </tspdf>1762.<lbr type="forced"/>
+<lbr type="forced"/>
+Alle dero wertheste Schreiben habe richtig empfangen.<lbr/>
+Wie viel bin ich nicht<lbr type="BD"/> ihrer so vielen Bemühung schuldig!<lbr/>
+Doch ich kenne ihre Freundschaft: sie sind<lbr type="BD"/> dazu gebohren,<lbr/>
+ihrem Neben=Menschen gefällige Dienste zu er<pc force="weak">=</pc><lbr/>weisen, und<lbr type="BD"/> zu <amend value="">zeugen</amend> zeigen, daß sie ein Freund<lbr/>
+ihrer Freunde sind. Aus meinem Lezten<lbr type="BD"/> werden<lbr/>
+sie ersehen haben, in was für Gefahr mein <persName key="39409">Woferl</persName>,<lbr/>
+und in was für<lbr type="BD"/> Angst ich seinetwegen ware. Gott<lbr/>
+Lob! es ist wieder alles gut. Gestern haben<lbr type="BD"/> wir<lbr/>
+unsern guten h<abbr type="curve">:</abbr>&#160;<persName key="73246"><rend class="latin">D<h>r</h>: Bernhard</rend></persName> mit einer Musik<lbr/>
+bezahlt. Er hat eine Menge<lbr type="BD"/> guter Freunde eingelad<abbr v="en"/>,<lbr/>
+<pg n="2"/>
+und uns im Wagen abholen lassen. Den 4:<h>ten</h> aber<lbr type="BD"/> am <rend class="latin">Caroli</rend><lbr/>
+Fest habe ich den <persName key="39409">Woferl</persName> das erstemal in die St. Karoli Kirchen,<lbr type="BD"/><lbr/>
+und JosephStadt spatzieren geführet. Es war einer der<lbr/>
+schönsten Tägen,<lbr type="BD"/> deren wir, seit der zeit, als wir hier sind<lbr/>
+kaum 3. oder 4 gehabt haben. Sagen<lbr type="BD"/> sie mir, war dann<lbr/>
+in Salzburg auch i<abbr type="topline" expand="mm">m</abbr>er so ein abscheuliches Regen=<lbr type="BD"/>Wetter?<lbr/>
+&#8211; &#8211; hier hat es auch schon geschnieen, und heut ist ein voll<pc force="weak">=</pc><lbr/>ko<abbr type="topline" expand="mm">m</abbr>enes<lbr type="BD"/> April=Wetter. <persName key="48815">Meine Frau</persName> und ich empfehlen<lbr/>
+uns dero <persName key="75368">Frau Gemahli<abbr type="topline" expand="nn">n</abbr></persName>, und<lbr type="BD"/> danken für alle so viele<lbr/>
+Bemühungen. Sie wird den erhaltenen Brief nächstens<lbr type="BD"/><lbr/>
+beantworten, der <persName key="39409">Wolfgangerl</persName> erstattet gehorsamsten Dank<lbr/>
+für die gütigste<lbr type="BD"/> Eri<abbr type="topline" expand="nn">n</abbr>erung zu seinem Namens Tag. Es<lbr/>
+wurde fre&#255;lich sein Glück gewesen<lbr type="BD"/> se&#255;n, wenn er nicht an seinem<lbr/>
+Namens Tag zwar schon etwas bessers, doch<lbr type="BD"/> noch im Bette gewesen<lbr/>
+wäre. Es haben zwar einige Herrschaften zu uns ge<lbr type="BD"/>schickt ihme<lbr/>
+glück wünschen, und um seinen Wohlstand sich erkundigen<lbr type="BD"/> zu<lbr/>
+lassen; allein dieß war es auch alles. Es schickten nämlich:<lbr/>
+der <persName key="75425">Graf <rend class="latin">Ferdi<lbr type="BD"/>nand Harrach</rend></persName>; <persName key="77785">Graf <choice><orig><rend class="latin">Palfi</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">Palfy</rend></corr></choice></persName>, der <persName key="83517">französische<lbr/>
+Bottschafter</persName>, die <persName key="76201">Gräfi<abbr type="topline" expand="nn">n</abbr> v: <choice><orig>Kintski</orig><corr hand="diff" schr_id="57010">Kinskÿ</corr></choice></persName>,<lbr type="BD"/> der <persName key="83627"><rend class="latin">Baron Pechma<abbr type="topline" expand="nn">n</abbr></rend></persName> der<lbr/>
+<persName key="83628"><rend class="latin">Baron Kurz</rend></persName>, die <persName key="83519">Gräfi<abbr type="topline" expand="nn">n</abbr>&#160;<abbr type="topline" expand="von">v</abbr>&#160;<choice><orig><rend class="latin">Baar</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">Paar</rend></corr></choice></persName>&#160;<abbr expand="etc">p</abbr>. &#8211; &#8211; wäre er<lbr type="BD"/> nicht schon bald<lbr/>
+14 Täge zu Hause gewesen, so würde es ohne <rend class="latin">Praesent</rend>en<lbr/>
+nicht<lbr type="BD"/> abgegangen se&#255;n, Genug! iezt müssen wir sehen, ob<lbr/>
+Die Sache wieder in<lbr type="BD"/>&#160;<choice><orig>seinen</orig><corr hand="diff" schr_id="57010">ihren</corr></choice> Gang ko<abbr type="topline" expand="mm">m</abbr>t, indem es vorher<lbr/>
+<choice><orig>rechtschafen</orig><corr hand="diff" schr_id="57010">rechtschaffen</corr></choice> gut ware. &#8211; &#8211; Nun etwas anders, ist etwa<lbr/>
+nicht der Schifmeister Leopold in Salzburg? &#8211; &#8211; ich könnte<lbr/>
+hier<lbr type="BD"/> so einen schönen Schreibkasten kaufen, den ich um<lbr/>
+<pg n="3"/>
+einen gar leichten Preiß<lbr type="BD"/> haben könnte, wenn ich ihn nur mit<lbr/>
+einer Hochenau nach Salzburg bringen<lbr type="BD"/> könnte. Es würde ja<lbr/>
+nicht viel kosten? &#8211; &#8211; Sie glauben nicht, was für schöne<lbr type="BD"/> Kästen<lbr/>
+hier gearbeitet werden, und gar nicht theuer: wie auch Tischl,<lbr/>
+Sessel <abbr expand="etc">p</abbr><lbr type="BD"/> und dergleichen, Tausendmal wünsch ich mir dergleichen<lbr/>
+Sachen in Salzburg<lbr type="BD"/> zu haben. Die Fuchs Pelz sind auch<lbr/>
+wohlfeil, um 30 f beko<abbr type="topline" expand="mm">m</abbr>t man den<lbr type="BD"/> schönsten langen Pelz<lbr/>
+mit Fux=Wamen, in Salzburg wollen sie dermalen 38,<lbr type="BD"/><lbr/>
+bis 40 f nur für den Pelz allein. Ich wünschte mir nur<lbr/>
+das Vergnügen die<lbr type="BD"/>&#160;<persName key="75368">Frau Hagenauerin</persName> einen Tag<lbr/>
+hier zu haben um sie auf den Markt oder Dult<lbr type="BD"/> zu führen,<lbr/>
+der iezt 4. Wochen lang ist. Sie wurde ein grosses<lbr/>
+Vergnügen haben<lbr type="BD"/> alle diese schönen Sachen zu sehen, die<lbr/>
+das Geld aus den Beutel Locken.<lbr type="BD"/> Leben sie sa<abbr type="topline" expand="mm">m</abbr>entl:<lbr/>
+wohl. ich empfehle mich ganz Salzburg, und bin <abbr expand="etc">p</abbr>.<lbr type="forced"/>
+<lbr/>
+<tshtm><additum>[... (Beginn der Abschrift des Briefes vom 24. November 1762)]</additum></tshtm>
+<pg n="4"/>
+<tshtm><additum>[... (Schluss der Abschrift des Briefes vom 30. Oktober 1762)]</additum></tshtm>
+<lbr/>
+<add_note type="inline"><ts>____________________</ts>zum Brief von 6<h>t<abbr v="en"/></h>&#160;<rend class="latin">November</rend> 1762</add_note>&#160;<add_note type="inline" schr_id="57010"><ts>_________</ts>zu N. 5</add_note><lbr/>
+Wenn Sie das sonderbare freundstuck mir erweisen, und<lbr/>
+nach laufen sich ver<lbr type="BD"/>füg<abbr v="en"/> woll<abbr v="en"/>; so ist es hoche Zeit: den<lbr/>
+h<abbr type="curve">:</abbr>&#160;<persName key="79054">graf <rend class="latin">spauer</rend></persName>&#160;<rend class="latin">excel:</rend> gehen gemeiniglich<lbr type="BD"/> den 14<h>t<abbr v="en"/></h>&#160;<rend class="latin">nov<abbr type="curve">:</abbr></rend>,<lbr/>
+nämlich den tag nach dem <rend class="latin">paris</rend>Jahr tag wieder von<lbr/>
+Salzburg<lbr type="BD"/> weg: geschieht es nun Jtzt nicht, daß durch<lbr/>
+Vorspruch seiner <rend class="latin">Excell</rend>enz, und<lbr type="BD"/> durch Antrieb des <persName key="83663">h<abbr type="curve">:</abbr><lbr/>
+BeichtVatters</persName> ein Entschluß erfolget; so geschieht<lbr type="BD"/> es<lbr/>
+ni<abbr type="topline" expand="mm">m</abbr>er. Ich bin dann gezwungen meinen Plan<lbr/>
+über lang oder kurz zu<lbr type="BD"/> ändern. Ich habe schon<lbr/>
+<rend class="latin">adressen</rend> nach holland und Frankreich. seiner Zeit<lbr type="BD"/><lbr/>
+das mehrere Mündlich.<lbr type="forced"/>
+<pg n="5"/>
+Thun sie mir die Liebe und Freundschafft und mach<abbr v="en"/><lbr/>
+sie S<h>r:</h>&#160;<rend class="latin">Excellenz</rend> dem<lbr type="BD"/> h<abbr type="curve">:</abbr>&#160;<persName key="79054">graf<abbr v="en"/> Spauer</persName> nachdrückliche<lbr/>
+Vorstellung<abbr v="en"/>. Ich habe ihm und auch tit<abbr type="curve"></abbr><lbr type="BD"/>&#160;<persName key="83663">h<abbr type="curve">:</abbr> Beichtvatter</persName><lbr/>
+geschrieben. nicht weniger S<h>r:</h>&#160;<rend class="latin">Ex<abbr type="curve">:</abbr></rend>&#160;<persName key="74751">h<abbr type="curve">:</abbr> obristhofmeister</persName>,<lbr/>
+wegen<lbr type="BD"/> der Erlaubniß bis auf das <rend class="latin">Advent</rend> in Wienn<lbr/>
+zu bleiben. Ich habe es überseh<abbr v="en"/><lbr type="BD"/> dem <persName key="74751">h<abbr type="curve">:</abbr> obersthofmeister</persName><lbr/>
+<suppl hand="self" pos="inline"><rend class="latin">Ex<abbr type="curve">:</abbr></rend></suppl> be&#255;zufügen, daß Hochderselbe in fall es nötig<lbr type="BD"/> se&#255;n<lbr/>
+sollte mir eine Fürstliche Rückantwort wissen zu<lbr/>
+lass<abbr v="en"/>, sich nur an <persName key="53262">Sie</persName><lbr type="BD"/> zu wend<abbr v="en"/>. Wenn Sie ohngefähr<lbr/>
+gelegenheit find<abbr v="en"/>, zum <rend class="latin">Exemple</rend> nach der<lbr type="BD"/> 10 uhr <rend class="latin">mess</rend> in<lbr/>
+dom, so dürfen sie <persName key="74751">S<h>r</h>: <rend class="latin">Excellenz</rend></persName> keklich anred<abbr v="en"/>. oder<lbr/>
+wollt<abbr v="en"/><lbr type="BD"/> Sie zu ihm selbst gehen. so würd<abbr v="en"/> Sie noch besser<lbr/>
+thun. Sie därfen auch<lbr type="BD"/> fre&#255; wegen der <rend class="latin">vicecapell</rend>meister<lbr/>
+Stelle Meldung thun; denn er ist mir gänz<lbr type="BD"/>lich geneigt.<lbr/>
+Was glauben Sie wie vorteilhaft es mir wäre, wenn<lbr/>
+ich <suppl hand="self" pos="supra">es</suppl> noch<lbr type="BD"/> würde, weil ich hier bin ? &#8211; &#8211; <lbr type="forced"/>
+Ich bin be&#255; meiner Ankunft durchaus als <rend class="latin">Capell</rend>meister<lbr/>
+von Salzburg ange<lbr type="BD"/>sehen word<abbr v="en"/>: und der <persName key="52280">Kaiser</persName> selbst,<lbr/>
+als er mich hinein führen wollte, die<lbr type="BD"/>&#160;<rend class="latin">infantin</rend> auf der<lbr/>
+<rend class="latin">violin</rend> zu hör<abbr v="en"/>, ka<abbr type="topline" expand="mm">m</abbr> heraus, und rufte: <u>wo ist der<lbr/>
+<rend class="latin">Capell</rend><lbr type="BD"/>meister von Salzburg</u>?<lbr type="forced"/>
+Ich habe es letzlich mit Fleiß nicht be&#255;gesetzt: man hätte<lbr/>
+es mögen für eine<lbr type="BD"/> Erdichtung halt<abbr v="en"/>. täglich fast ergeb<abbr v="en"/><lbr/>
+sich solche Gelegenheit<abbr v="en"/>, wo ich zu<lbr type="BD"/> Zeit<abbr v="en"/> nothwendig<lbr/>
+solches wiedersprechen muß, denn alle Lügen und<lbr/>
+Wind<lbr type="BD"/>machere&#255;<abbr v="en"/> se&#255;en fern von mir. Nun haben<lbr/>
+Sie mich verstand<abbr v="en"/>, ich ergebe<lbr type="BD"/> mich Ihrer Freundschafft.<lbr type="forced"/>
+</NI>
+</letter>
+</text>
+</MUP>

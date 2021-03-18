@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2020">2020-02</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=646</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Verbleib unbekannt (Vorlage: Abschrift um 1768 in D-B)</bibl>
+            <bibl type="source" subtype="RISM">Verbleib unbekannt, Vorlage: Abschrift um 1768 in D-B</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:36:38 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_88.mup">
+<letter bd="88">
+<NI src="unbekannt"> 
+<HEADER id="646">LEOPOLD MOZART AN LORENZ HAGENAUER IN SALZBURG<lbr/>
+LONDON, 28. MAI 1764</HEADER>
+<pg n="1"/>
+<add_num schr_id="57010" impl="crayon" color="red"><ts>______________________</ts>23</add_num>
+<ts>_______________________________</ts><tspdf>\hfill </tspdf><rend class="latin">London</rend> den 28. <rend class="latin">Maij</rend><lbr type="forced"/>
+<rend class="latin">Monsieur</rend>!<ts>___________________________________</ts><tspdf>\hfill </tspdf><u>1764.</u><lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____</ts>Sie wissen, daß ieh ferner eine Sache<lbr/>
+ist, je kleiner stellt sich solche dem Auge<lbr type="BD"/><lbr/>
+vor. So ist es mit meinen Briefen. Meine<lbr/>
+Buchstaben werden immer kleiner,<lbr type="BD"/> nach<lbr/>
+dem Maasse nämlich meiner Entfernung<lbr/>
+von Salzburg. Wenn wir in<lbr type="BD"/>&#160;<rend class="latin">America</rend><lbr/>
+hinüber seegeln wollten, würden solche etwa<lbr/>
+gar unlesbar wer<lbr type="BD"/>den. Für einen glaten<lbr/>
+Brief ohne Umschlag muß hier nach Teutsch<pc force="weak">=</pc><lbr/>land ein<lbr type="BD"/> Schilling, für den Umschlag aber wie<pc force="weak">=</pc><lbr/>der ein Schilling, folglich, wenn der Brief<lbr type="BD"/><lbr/>
+ein <rend class="latin">Couvert</rend> hat, 2. Schillinge bezahlet wer<pc force="weak">=</pc><lbr/>den. Ein <rend class="latin">guineé</rend> hat 21. Schillinge,<lbr type="BD"/> und<lbr/>
+ein <rend class="latin">guineé</rend> stehet mit dem <rend class="latin">Louvis d'or</rend><lbr/>
+in gleichen werth, dann in <rend class="latin">Dover</rend><lbr type="BD"/> hat mir<lbr/>
+der <rend class="latin">Banquier <u>Miné</u>,</rend> an den ich aus Pa<pc force="weak">=</pc><lbr/>ris <rend class="latin">recommendi</rend>rt ware, für 12. St<abbr type="curve">:</abbr>&#160;<rend class="latin">Louis<lbr/>
+d'or</rend>, 12. St<abbr type="curve">:</abbr>&#160;<rend class="latin">Guineé</rend> gegeben: denn hier wird<lbr/>
+kein französisch Geld<lbr type="BD"/> genohmen. Sie kön<pc force="weak">=</pc><lbr/><pg n="2" type="wordsep"/>nen denn leichtlich schlüssen, was ein Schilling<lbr/>
+gilt. Unsere<lbr type="BD"/> Hochverehrte Frau Ha<pc force="weak">=</pc><lbr/>genauerin hat mir in ihrem Schreiben<lbr/>
+nach Paris zu<lbr type="BD"/> schreiben beliebt &#8211; &#8211; &#8211; &#8211; <lbr/>
+<u>vielleicht gar nach Engelland und Holland?</u><lbr/>
+Nach<lbr type="BD"/> Engelland zu gehen, ware ich be&#255; mei<pc force="weak">=</pc><lbr/>ner Abreise aus Salzburg nur halb<lbr type="BD"/> ent<pc force="weak">=</pc><lbr/>schlossen: Alleine, da alle Welt, auch<lbr/>
+in Paris uns angelegen hat, nach<lbr type="BD"/>&#160;<rend class="latin">London</rend><lbr/>
+zu gehen, so habe mich gleichwohl entschlüs<pc force="weak">=</pc><lbr/>sen müssen; und nun sind<lbr type="BD"/> wir mit der<lbr/>
+Hilfe Gottes da: allein nach Holland gehen<lbr/>
+wir nicht, das kann<lbr type="BD"/> ich dieselbe versiche<pc force="weak">=</pc><lbr/>ren. Ich bin zwar versichert im <rend class="latin">Haag</rend><lbr/>
+z: E: 2. bis 300. <rend class="latin">Duc<lbr type="BD"/>cat</rend>en geschwind ein<pc force="weak">=</pc><lbr/>zunehmmen: doch weis ich auch, daß die Kö<pc force="weak">=</pc><lbr/>sten ganz ausser<lbr type="BD"/>ordentlich sind; das Volck,<lbr/>
+und überhaupts die Holländer sind ein bischen<lbr type="BD"/><lbr/>
+grob. Und überhaupts zu sagen, sollte<lbr/>
+man aller Orten im Winter se&#255;n um<lbr type="BD"/> sei<pc force="weak">=</pc><lbr/>ne Pfeiffen recht zu schneiden; und das ist<lbr/>
+platterdings unmöglich: ausser<lbr type="BD"/> man wollte<lbr/>
+<pg n="3"/>
+4, 5 und noch mehr Jahre auf Reisen zu<pc force="weak">=</pc><lbr/>bringen. Wir sind auf<lbr type="BD"/>&#160;<rend class="latin">Hamburg res<pc force="weak">=</pc><lbr/>pective</rend> verschrieben, wenn wir dahin woll<pc force="weak">=</pc><lbr/>ten: Allein es ist mir<lbr type="BD"/> zu entfernet und<lbr/>
+zu weit gegen Norden. Wir könnten<lbr/>
+nach Coppenhagen mit<lbr type="BD"/> den grössten Vortheil<lbr/>
+der Welt gehen; so wohl der Königlich<lbr/>
+Dännische <rend class="latin">Mini<lbr type="BD"/>ster</rend> in Paris Herr <rend class="latin">Baron<lbr/>
+de Gleichen</rend>, als der hiesige Dänische Ge<pc force="weak">=</pc><lbr/>sandte <persName key="0">Graf<lbr type="BD"/> von <choice><orig><rend class="latin">Bodmer</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">Bothmer</rend></corr></choice></persName> wollen uns<lbr/>
+zum voraus eine gewisse <rend class="latin">Summa</rend>&#160;<rend class="latin">garanti</rend>e<pc force="weak">=</pc><lbr/>ren; Allein das<lbr type="BD"/> könnte mir niemals<lbr/>
+in den Sinne kommen. Noch weniger hat<lbr/>
+mich der <rend class="latin">Prinz<lbr type="BD"/> Gallizin</rend> bewogen ihm<lbr/>
+einige Hofnung zu geben, daß wir nach<lbr/>
+Russland zu<lbr type="BD"/> gehen uns entschlüssen könn<pc force="weak">=</pc><lbr/>ten. Diese Länder sind zu entfernt, und<lbr/>
+zu kalt.<lbr type="BD"/> Es ist das hiesige Land schon<lbr/>
+entfernt genug, und obwohl es, was die<lbr/>
+Feld<lbr type="BD"/>früchten und Viehzügl anbelanget ei<pc force="weak">=</pc><lbr/>nes der schönsten und glückseeligsten<lbr type="BD"/> Län<pc force="weak">=</pc><lbr/>der ist; so ist es doch wegen der beständigen<lbr/>
+Abwechslung von Hitz und<lbr type="BD"/> Kälte ein<lbr/>
+<pg n="4"/>
+gefährliches Land. Denn da Engelland<lbr/>
+eine Insel ist, so leidet sie<lbr type="BD"/> sehr wegen<lbr/>
+der beständigen Abwechselung der Winde,<lbr/>
+die von dem Meer<lbr type="BD"/> kommen. Es ist<lbr/>
+manchen Tag eine ungemeine Hitze; im<lbr/>
+Augenblicke erhebt<lbr type="BD"/> sich ein Nordwind, und<lbr/>
+in einer Viertlstunde darauf ist es un<pc force="weak">=</pc><lbr/>gemein Kalt:<lbr type="BD"/> desswegen sehen sie auch<lbr/>
+hier nichts als Tüchene Kleider. Die<lbr/>
+Speisen sind<lbr type="BD"/> ungemein nahrhaft, <rend class="latin">Substan<pc force="weak">=</pc><lbr/>tios</rend> und kräftig; das Rindfleisch, Kalb<pc force="weak">=</pc><lbr/>fleisch und<lbr type="BD"/> Lammfleisch besser und schöner als<lbr/>
+man es in der Welt finden kann. Man<lbr type="BD"/><lbr/>
+sieht in den Feldern das schönste Vieh, und Läm<pc force="weak">=</pc><lbr/>mer die fast so gross<lbr type="BD"/> als ein Kalb sind, de<pc force="weak">=</pc><lbr/>ren Woll dick und lang ist. Daher kom<pc force="weak">=</pc><lbr/>men die treff<lbr type="BD"/>lichen <rend class="latin">Manufactu</rend>ren. Alleine<lbr/>
+eben diese Speissen sind zu kräftig, und das<lbr/>
+Bier, deren man verschiedene Gattungen<lbr/>
+haben kann ist ganz erstaunlich<lbr type="BD"/> starck und<lbr/>
+gut. Hingegen ist der Wein, weil das<lbr/>
+Bier ein Land-<rend class="latin">productum</rend> ist,<lbr type="BD"/> unbeschreiblich<lbr/>
+theuer, und ein erstaunlicher <rend class="latin">Accis</rend> darauf.<lbr/>
+<conv><ts>_______________________________________________________</ts>Eben</conv>
+<pg n="5"/>
+Eben so ist es mit<lbr type="BD"/> dem <rend class="latin">Coffée</rend>, welcher über<lbr/>
+4. teutsche Gulden das kleine Pfund zu<lbr/>
+stehen<lbr type="BD"/> kommt. Über diess muß man ihn<lbr/>
+schon gebrennt und gemahlter kaufen, dazu<lbr type="BD"/><lbr/>
+eigne <rend class="latin">Boutiqu</rend>en sind: und wer ein Pfund<lbr/>
+<rend class="latin">Coffeé</rend> im Hause selbst brennt wird<lbr type="BD"/> um<lbr/>
+50 <rend class="latin">guineé</rend> gestraft. Was glauben sie<lbr/>
+was meine Frau über diese Einrich<lbr type="BD"/>tung<lbr/>
+für gesichter macht. Genug, die Herren<lbr/>
+Engelländer suchen ihren <rend class="latin">Theé</rend><lbr type="BD"/> an den Ma<abbr type="topline" expand="nn">n</abbr><lbr/>
+zu bringen und zu verhindern, daß das Geld<lbr/>
+für <rend class="latin">Coffeé</rend> nicht<lbr type="BD"/> aus dem Lande kommt.<lbr/>
+Der <rend class="latin">Theé</rend> Kessel ist dem ganzen Tag auf<lbr/>
+dem Feuer,<lbr type="BD"/> und be&#255; Besuch werden die<lbr/>
+Leute mit <rend class="latin">Theé</rend> und Butter Brod bedient:<lbr/>
+daß ist;<lbr type="BD"/> man bringt fein aufgeschnittenes<lbr/>
+und mit Butter überstrichenes Brod.<lbr type="BD"/> Üb<pc force="weak">=</pc><lbr/>rigens ist der Mittag Tisch meist zwischen<lbr/>
+2. und 3. Uhr, und auf die<lbr type="BD"/> Nacht essen<lbr/>
+die meisten Leuthe nichts, oder nur etwa<lbr/>
+Käß, Butter und Brod,<lbr type="BD"/> und lassen sich einen<lbr/>
+guten Krug starck bier dazu schmecken.<lbr/>
+<pg n="6"/>
+Kein Frauen<lbr type="BD"/>zimmer gehet über die Gasse<lbr/>
+ohne einen Hut auf dem Kopf zu tragen,<lbr/>
+deren<lbr type="BD"/> aber sind unterschiedliche; ganz<lbr/>
+runde; hinten zusa<abbr type="topline" expand="mm">m</abbr>gebundene, von<lbr type="BD"/> At<pc force="weak">=</pc><lbr/>lass, von Stroh, von <rend class="latin">taffta</rend>&#160;<abbr expand="etc">p</abbr>. Überhaupts<lbr/>
+mit Bänderen ungemein geziert<lbr type="BD"/> und mit<lbr/>
+Spitzen verbrämt. Ein mittlmässiger<lbr/>
+kommt schon auf einen halben<lbr type="BD"/>&#160;<rend class="latin">guinée</rend>. An<pc force="weak">=</pc><lbr/>fänglich glaubt man lauter <rend class="latin">masqu</rend>ern zu<lbr/>
+sehen. Kein Mannsperson<lbr type="BD"/> gehet mit ent<pc force="weak">=</pc><lbr/>blößten Haupte auf der Strasse, und<lbr/>
+wenige sind gepudert.<lbr type="BD"/> Wenn die Gas<pc force="weak">=</pc><lbr/>senbuben jemand der geputzt ist und ein<lbr/>
+wenig nach fran<lbr type="BD"/>zösischen Art gekleidet gehet,<lbr/>
+sehen; ruffen sie gleich laut auf: <u><rend class="latin">Buger<lbr/>
+French</rend>!</u><lbr type="BD"/>&#160;<u>französischer Büger</u>. Da ist<lbr/>
+das beste Mittl schweigen, und thun als wenn<lbr type="BD"/><lbr/>
+mans nicht hörte. Sollte einem in den<lbr/>
+Kopf kommen sich darüber aufzu<lbr type="BD"/>halten;<lbr/>
+so würde bald ein <rend class="latin">Succurs</rend> vom Pöfel<lbr/>
+zugegen se&#255;n, und man hätte<lbr type="BD"/> Mühe,<lbr/>
+wenigst mit etlichen Löchern im Kopfe,<lbr/>
+davon zu kommen. Wir, unsers<lbr type="BD"/><lbr/>
+<pg n="7"/>
+theils sehen ganz englisch aus. Allein es<lbr/>
+waren nur ein paar Kleider für mich<lbr type="BD"/><lbr/>
+und den Wolfg<abbr type="curve">:</abbr> glattweck zu machen<lbr/>
+und ein paar weibsHütte zu kauffen<lbr type="BD"/><lbr/>
+<u>be&#255; 12. <rend class="latin">Guineé</rend></u> Unkosten. Das wenigste<lbr/>
+Macherlohn für ein glatt Kleid sind<lbr type="BD"/> 14.<lbr/>
+Schilling, wenn eine <rend class="latin">bordi</rend>erung darauf<lbr/>
+kommt muß ein Pfund Sterling<lbr type="BD"/> |: so 20<lbr/>
+Schilling ist :| bezahlt werden. &#8211; &#8211; Nun<lbr/>
+wundert mich nicht, daß man<lbr type="BD"/> in Teutschland<lbr/>
+<amend value="kein">fein</amend> englisch Tuch oder wenig antrifft, oder<lbr/>
+erstaunlich theuer bezahlen muß, das <rend class="latin">Super<pc force="weak">=</pc><lbr/>fin</rend> Tuch, eine <rend class="latin">Sort</rend>, die die gewöhnlichste<lbr/>
+für <rend class="latin">honeté</rend><lbr type="BD"/> leute ist, und davon ich genom<pc force="weak">=</pc><lbr/>men, 18. Schillinge die Englische Ehle oder<lbr type="BD"/><lbr/>
+Stab kostet, der doch viel schmähler ist, als<lbr/>
+der französische. Das <u>allerfeinste</u><lbr type="BD"/><lbr/>
+aber kommt auf 21. Schillinge. Das al<pc force="weak">=</pc><lbr/>les hier ungemein theuer ist, kann man<lbr type="BD"/> sich<lbr/>
+leicht vorstellen. Die Ursache davon ist;<lbr/>
+weil ein <rend class="latin">Guineé</rend> hier weniger<lbr type="BD"/> aufse<pc force="weak">=</pc><lbr/>hen macht, als be&#255; uns ein Duggatten:<lbr/>
+allein diejenigen irren sich!<lbr type="BD"/> welche glauben,<lbr/>
+<pg n="8"/>
+daß die Engelländer das Geld wegwerffen;<lbr/>
+es giebt kein<lbr type="BD"/> Mittl unter ihnen. Die Mei<pc force="weak">=</pc><lbr/>sten sind gar zu genaue Haushälter;<lbr/>
+einige wenige<lbr type="BD"/> sind ungemein <rend class="latin">genereux</rend>.<lbr/>
+Noch wissen wir nicht wie es für uns aus<pc force="weak">=</pc><lbr/>fallen wird.<lbr type="BD"/> Auch hätten wir im Win<pc force="weak">=</pc><lbr/>ter hier se&#255;n sollen. Den 27. <rend class="latin">aprilis</rend><lbr/>
+waren wir von<lbr type="BD"/> 6. bis 9. Uhr be&#255; der Köni<pc force="weak">=</pc><lbr/>gin und dem König in <rend class="latin">S:<h>t</h> James Park in<lbr/>
+Queens<lbr type="BD"/> Palace</rend>, das heist: <u>in St: Jacobs<lbr/>
+Park in der Königinn Pallast.</u> Wir<lbr/>
+waren also<lbr type="BD"/> schon den 5.<h>t<abbr v="en"/></h> Tag nach unserer<lbr/>
+Ankunft am Hofe. das <rend class="latin">present</rend> war<lbr/>
+zwar nur<lbr type="BD"/> 24. <rend class="latin">guineé</rend>, die wir gleich im<lbr/>
+herausgehen aus des Königs zimmer empfieng<pc force="weak">=</pc><lbr/>en,<lbr type="BD"/> allein die Gnade, mit welcher so wohl<lbr/>
+S:<h>e</h> Majestätt der König als Königin<lbr type="BD"/> uns<lbr/>
+begegnet ist unbeschreiblich. Kurz zu sagen:<lbr/>
+be&#255;der gemeinschaftlicher<lbr type="BD"/> Umgang und<lbr/>
+be&#255;der freundschaftliches weesen lies uns<lbr/>
+gar nicht mehr denken,<lbr type="BD"/> daß dieß der Kö<pc force="weak">=</pc><lbr/>nig und die Königin von Engelland wären;<lbr/>
+<conv><ts>________________________________________________</ts>Man</conv>
+<pg n="9"/>
+Man hat uns an<lbr type="BD"/> allen Höfen noch ganz<lbr/>
+ausserordentlich höflich begegnet: allein die<pc force="weak">=</pc><lbr/>se Art, die wir<lbr type="BD"/> hier erfahren, übertrifft<lbr/>
+alle die andern: 8 Tage darauf gieng<pc force="weak">=</pc><lbr/>en wir in St:<lbr type="BD"/>&#160;<rend class="latin">James Park</rend> spaziern; der<lbr/>
+König kam mit der Königin gefahren:<lbr/>
+und obwohl<lbr type="BD"/> wir alle andere Kleider anhat<pc force="weak">=</pc><lbr/>ten, so erkannten sie uns doch, grüsten<lbr/>
+uns<lbr type="BD"/> nicht nur, sondern, der König öffnete<lbr/>
+das Fenster und neigte das Haupt<lbr type="BD"/> heraus<lbr/>
+und grüste lachend mit Haupt und Händen<lbr/>
+im Vorbe&#255;fahren uns, und<lbr type="BD"/> besonders un<pc force="weak">=</pc><lbr/>sern <rend class="latin">Master Wolfgang</rend>. Weil wir nun<lbr/>
+vom fahren sprechen; so<lbr type="BD"/> wünschte ich Sie nur<lbr/>
+ein paar Täge hieher die schönen Pferden,<lbr/>
+und die<lbr type="BD"/> abscheulichsten Kutschen zu sehen.<lbr/>
+So schön die Pferde sind, so abscheulich<lbr type="BD"/> sind die<lbr/>
+Kutschen, welche nieder und breit sind. Der<lbr/>
+sitz des Kutschers ist<lbr type="BD"/> dem Kobl-Tach völlig<lbr/>
+gleich, so, daß wenn der Kutscher vom Sitz<lbr/>
+fällt, so<lbr type="BD"/> ist es eben so viel, als wenn er vom<lbr/>
+ersten Stockwerk eines niedern Hauses<lbr type="BD"/> her<pc force="weak">=</pc><lbr/>abfühle. Aber die Pferde! die schönen<lbr/>
+<pg n="10"/>
+Pferde! wenn ich hundert englische<lbr type="BD"/> Pferde<lbr/>
+zu <rend class="latin">Calais</rend> stehen hätte, die meine wären;<lbr/>
+so hätte ich schon genug.<lbr type="BD"/> Engeländer in<lbr/>
+Teutschland zu sehen, heist nichts gesagt;<lbr/>
+aber solche im Lande<lbr type="BD"/> und nach der Wahl<lbr/>
+zu sehen, das ist ganz was anderes. Das<lbr/>
+Meer, und sonder<lbr type="BD"/>heitlich solches in ihrem<lbr/>
+<rend class="latin">Fluxu</rend> und <rend class="latin">Refluxu</rend> im Hafen zu <rend class="latin">Calais</rend><lbr/>
+und <rend class="latin">Dover</rend>, dann die Schiffe, und unter<lbr/>
+der fahrt die Fische, so Meerschweine heis<pc force="weak">=</pc><lbr/>sen, im Meer<lbr type="BD"/> auf und niedersteigen<lbr/>
+zu sehen, dann so bald wir von <rend class="latin">Dover</rend> ab<pc force="weak">=</pc><lbr/>giengen von<lbr type="BD"/> den schönsten Engelländischen<lbr/>
+Pferden davon geführt zu werden, die<lbr/>
+so<lbr type="BD"/> gelauffen, daß die Bedienten auf<lbr/>
+dem Waagensitz kaum Athmen könnt<abbr v="en"/><lbr type="BD"/><lbr/>
+wegen dem Gewalt des Lufts, alles die<pc force="weak">=</pc><lbr/>ses ware uns etwas ganz fremdes und<lbr type="BD"/><lbr/>
+angenehmes. So fremd uns hingegen in<lbr/>
+Paris war einen Holzschneider, einen<lbr type="BD"/> Zim<pc force="weak">=</pc><lbr/>mermann <abbr expand="etc">p</abbr> mit der Axte oder Säge<lbr/>
+unter dem Arme, einem zerissenen<lbr type="BD"/><lbr/>
+Rock am Leibe und eine schneeweis einge<pc force="weak">=</pc><lbr/>buderte Staats <rend class="latin">Peruque</rend> mit 3.<lbr type="BD"/>&#160;<rend class="latin">Knöpfen</rend><lbr/>
+<pg n="11"/>
+auf dem Kopfe zu sehen: so wunderlich kam<lbr/>
+es uns vor in <rend class="latin">London</rend><lbr type="BD"/> die gemeinen Wei<pc force="weak">=</pc><lbr/>ber auf dem Marke mit der TobacksPfei<pc force="weak">=</pc><lbr/>fe im Munde zu<lbr type="BD"/> sehen. Die Statt, die<lbr/>
+sehr schön ist, zu beschreiben ist hier der Platz<lbr/>
+zu enge;<lbr type="BD"/> Die Bauart ist von der Franzö<pc force="weak">=</pc><lbr/>sischen ganz unterschieden. an den Häusern<lbr/>
+ist<lbr type="BD"/> der Geheweeg mit grossen flachen <rend class="latin">quatrat</rend><lbr/>
+Steinen gepflästert, so zum gehen<lbr type="BD"/> sehr <rend class="latin">com<pc force="weak">=</pc><lbr/>mot</rend> ist; Hingegen ist die Mittlstrasse<lbr/>
+zum fahren zum Hals brechen.<lbr type="BD"/> Alle<lbr/>
+Häuser haben die erste Wohnung unter<lbr/>
+der Erde, die 2.<h>te</h> zu ebenfuss<lbr type="BD"/> hinein, und<lbr/>
+dann noch Zimmer 1 und 2 höchstens 3. Stie<pc force="weak">=</pc><lbr/>gen hoch. Die Woh<lbr type="BD"/>nung unter der Erde<lbr/>
+ist Liecht, hat die grösten Fenster, und Schmitt<lbr/>
+und<lbr type="BD"/> Schlosser, wie all andere Arbeiter ha<pc force="weak">=</pc><lbr/>ben meistens da unten ihre Arbeitstube.<lbr type="BD"/><lbr/>
+Desswegen sind neben allen Häussern<lbr/>
+Gätter von Eisen oder Holz, damit<lbr type="BD"/> niemand<lbr/>
+hinunterfällt. Mein Schreiben an S:<h>e</h> hoch<pc force="weak">=</pc><lbr/>fürstlichen Gnaden unsern<lbr type="BD"/> gnädigsten Für<pc force="weak">=</pc><lbr/>sten und Herrn <abbr expand="etc">p</abbr> wird hoffentlich unter<lbr/>
+dem Umschlage an<lbr type="BD"/> Sie richtig angelanget<lbr/>
+<pg n="12"/>
+se&#255;n; das ich gleich nach unserer Ankunft<lbr/>
+in <rend class="latin">London</rend><lbr type="BD"/> abgeschicket habe.<ts>_____</ts>Ich habe<lbr/>
+neuerdings zu bitten, folgende heilige Mes<pc force="weak">=</pc><lbr/>sen<lbr type="BD"/> bäldist lesen zu lassen. nämlich: <u>3.<lbr/>
+Heilige Messen be&#255; dem heiligen Kindel<lbr type="BD"/><lbr/>
+zu <rend class="latin">Loreto</rend>. 3. Heil: Messen zu Maria Plain.<lbr/>
+2. heil: Messen be&#255; dem heil:<lbr type="BD"/>&#160;<rend class="latin">Francisco de<lbr/>
+Paula</rend> im Bergel. und 2. be&#255;m heil: Jo<pc force="weak">=</pc><lbr/>hann von Nepomuck in<lbr type="BD"/> der Pfarr oder wo<lbr/>
+sie wollen. dann auch 2. be&#255;m heil: <rend class="latin">An<pc force="weak">=</pc><lbr/>tonio</rend> in der Pfarr.</u><lbr type="BD"/> Wir haben übrigens<lbr/>
+die meiste <rend class="latin">Bagage</rend> be&#255; herrn <rend class="latin">Banquier<lbr/>
+Hummel</rend> in Paris<lbr type="BD"/> gelassen. sonderheitlich<lbr/>
+haben wir alle <rend class="latin">Tobatti</rend>eren, und 2. Uhren<lbr/>
+und andere<lbr type="BD"/> Kostbare Sachen, samt 2. schönen<lbr/>
+neu Attlassenen Kleidern, ein Rubin<lbr type="BD"/>farbes<lbr/>
+mit weisen <rend class="latin">Opern</rend> von meiner Frau und<lbr/>
+ein Blaues mit weisen <rend class="latin">Opern</rend><lbr type="BD"/> von meinem<lbr/>
+Mädel nebst allen dazu gehörigen <rend class="latin">garni<pc force="weak">=</pc><lbr/>tu</rend>ren und viellen anderen<lbr type="BD"/> Sachen alda<lbr/>
+gelassen. Das reiche, so ich meinem Mä<pc force="weak">=</pc><lbr/>del in Paris angeschaft,<lbr type="BD"/> und <rend class="latin">Isabella</rend> farb<lbr/>
+im Grund, mit Blumen und goldenen<lbr/>
+breiten Streifen sehr<lbr type="BD"/> schön ist, habe mit nach<lbr/>
+Engelland genommen.<lbr type="forced"/>
+<conv><ts>________________________________________________</ts><rend class="latin">Mr:</rend></conv>
+<pg n="13"/>
+<rend class="latin"><persName key="0">Mr: Gri<abbr type="topline" expand="mm">m</abbr></persName></rend>, unser geschworner freund, der<lbr/>
+alles für uns in Paris gethann<lbr type="BD"/> hat, hat zum<lbr/>
+Abschied, über alle seine <amend value="Guttaten">Guthaten</amend>, noch der<lbr/>
+Nannerl eine<lbr type="BD"/> Goldene Uhr, und dem<lbr/>
+Wolfgang<abbr type="curve">:</abbr> ein Obstmesser, wie man in<lbr/>
+Paris be&#255;m<lbr type="BD"/>&#160;<rend class="latin">Confect</rend> zu haben pflegt, Ver<pc force="weak">=</pc><lbr/>ehret, dessen das Häft von Perlmutter<lbr/>
+in Gold<lbr type="BD"/> gefast ist, und das 2. Klingen hat,<lbr/>
+nämlich eine von Gold und die zwe&#255;te von<lbr type="BD"/><lbr/>
+Silber. Ich habe auch noch in einer golde<pc force="weak">=</pc><lbr/>nen <rend class="latin">Tabatti</rend>er alda 7. Stück doppelte<lbr type="BD"/><lbr/>
+<rend class="latin">Louis d'or</rend> liegen: und für 200. <rend class="latin">Louis d'or</rend><lbr/>
+die ich <persName key="0">H<abbr type="curve">:</abbr>&#160;<rend class="latin">Turton</rend></persName> und <persName key="0"><rend class="latin">Baur</rend></persName><lbr type="BD"/> behändiget,<lbr/>
+habe einen <rend class="latin">Credit</rend>-brief für 4000 und<lbr/>
+8. Hundert <rend class="latin">Livres</rend> in han<lbr type="BD"/>den; Gegen<pc force="weak">=</pc><lbr/>wärtigen Brief habe schon vor 8. Tagen ab<pc force="weak">=</pc><lbr/>senden wollen; allein<lbr type="BD"/> ich war gehindert, und<lbr/>
+theils wollte ich einige Neuigkeiten abwar<pc force="weak">=</pc><lbr/>ten. Ich kann<lbr type="BD"/> aber nichts anders berichten,<lbr/>
+als daß wir den 19.<h>t<abbr v="en"/></h>&#160;<rend class="latin">Maij</rend> abermahls Ab<pc force="weak">=</pc><lbr/>ends<lbr type="BD"/> von 6 bis 10. Uhr be&#255;m König und der<lbr/>
+Königin waren, wo niemand als die<lbr type="BD"/> zwe&#255;<lbr/>
+Prinzen des Königs Bruder, und der Prinz<lbr/>
+der Brueder der Königin<lbr type="BD"/> zugegen waren.<lbr/>
+<pg n="14"/>
+Be&#255; dem Austritte aus dem Zimmer wur<pc force="weak">=</pc><lbr/>den mir abermahl 24<lbr type="BD"/>&#160;<rend class="latin">guineés</rend> gereichet:<lbr/>
+wenn es alle 3. oder 4. Wochen so kommt;<lbr/>
+so kann mans<lbr type="BD"/> erleiden. Nun werden wir<lbr/>
+ein so genanntes <rend class="latin">Benefit</rend>, oder <rend class="latin">Concerto<lbr/>
+al nostro<lbr type="BD"/> profitto</rend> den 5.<h>t<abbr v="en"/></h>&#160;<rend class="latin">Junij</rend> haben. Es<lbr/>
+ist eigentlich iezt keine Zeit mehr dergleichen<lbr type="BD"/><lbr/>
+<rend class="latin">Concert</rend> zu halten, und man kann sich<lbr/>
+wenig Nutzen davon versprechen, weil<lbr type="BD"/><lbr/>
+es ausser der Zeit ist, und weil die Un<pc force="weak">=</pc><lbr/>kösten eines solchen <rend class="latin">Concerts</rend> auf 40.<lbr type="BD"/>&#160;<rend class="latin">guineés</rend><lbr/>
+sich beläuffet: Allein, da den 4.<h>t<abbr v="en"/></h> des<lbr/>
+Königs Geburtstag ist, und<lbr type="BD"/> folglich viele<lbr/>
+<rend class="latin">Noblesse</rend> vom Lande in die Statt komt;<lbr/>
+so mus man es wagen<lbr type="BD"/> und von diesen<lbr/>
+Augenblick <rend class="latin">profiti</rend>ren, um sich bekannt zu<lbr/>
+machen. Die Person<lbr type="BD"/> zahlt einen halben<lbr/>
+<rend class="latin">guineé</rend>, und wenn es im Winter wäre, so<lbr/>
+könnte ich sicher<lbr type="BD"/> auf 600. Personen, folglich<lbr/>
+auf 300 <rend class="latin">guineés</rend> zehlen: dermahl aber gehet<lbr/>
+alles<lbr type="BD"/> in die Gärten und auf das Land.<lbr/>
+<rend class="latin">Basta</rend>! es wird schon gut werden, wenn<lbr/>
+wir<lbr type="BD"/> nur mit der Hilfe Gottes gesund<lbr/>
+bleiben, und wenn Gott nur unsern un<pc force="weak">=</pc><lbr/>über<lbr type="BD"/>windlichen Wolfgang gesund erhält.<lbr/>
+<pg n="15"/>
+Der König hat ihm nicht nur Stücke<lbr type="BD"/> vom<lbr/>
+<persName key="0">Wagenseil</persName>, sondern vom <rend class="latin"><persName key="0">Bach</persName></rend>, <rend class="latin"><persName key="0">Abel</persName></rend>, und<lbr/>
+<persName key="0"><choice><orig>Hendl</orig><corr hand="diff" schr_id="0">Händel</corr></choice></persName> vorgelegt, alles hat er<lbr type="BD"/>&#160;<rend class="latin">prima vista</rend><lbr/>
+weggespielt. Er hat auf des Königs Or<pc force="weak">=</pc><lbr/>gel so gespielt, daß alle<lbr type="BD"/> sein Orgelspielen<lbr/>
+weit höcher schätzen als das <rend class="latin">Clavier</rend> spiellen.<lbr/>
+Dann hat er<lbr type="BD"/> der Königin eine <rend class="latin">Aria</rend>, die<lbr/>
+sie Sang, und einem <rend class="latin">Flautroversi</rend>sten ein<lbr/>
+<rend class="latin">Solo</rend><lbr type="BD"/>&#160;<rend class="latin">accompagni</rend>rt. Endlich hat er die<lbr/>
+<rend class="latin">Violon</rend> stimme der <choice><orig>Hendlischen</orig><corr hand="diff" schr_id="0">Händelischen</corr></choice>&#160;<rend class="latin">Ari</rend>en<lbr type="BD"/> |: die<lbr/>
+von ungefehr da lagen :| hergenommen,<lbr/>
+und hat über den glatten <rend class="latin">Bass</rend><lbr type="BD"/> die schönste<lbr/>
+<rend class="latin">Melodie</rend> gespiellet, so, daß alles in das<lbr/>
+äusserste Erstaunen ge<lbr type="BD"/>rieth. Mit einem<lbr/>
+Worte; das, was er gewust, da wir<lbr/>
+aus Salzburg abgereist, ist ein purer Schat<pc force="weak">=</pc><lbr/>ten gegen demienigen, was er ietzt weis.<lbr/>
+Es übersteiget alle<lbr type="BD"/> Einbildungskraft.<lbr/>
+Er empfehlet sich vom <rend class="latin">Clavier</rend> aus, wo<lbr/>
+er eben sitzt, und des<lbr type="BD"/> Capellmeisters <rend class="latin">Bachs<lbr/>
+Trio</rend> durchspiellet, sammt uns, und es ver<pc force="weak">=</pc><lbr/>gehet kein Tag,<lbr type="BD"/> wo er nicht wenigst 30.<lbr/>
+mahl von Salzburg und seinen und unseren<lbr/>
+Freun<lbr type="BD"/>den und Gönnern spricht. Er hat<lbr/>
+<pg n="16"/>
+ietzt immer eine <rend class="latin">Opera</rend> im Kopf, die<lbr/>
+er mit<lbr type="BD"/> lauter jungen Leuten in Salz<pc force="weak">=</pc><lbr/>burg aufführen will. Ich hab ihm schon<lbr/>
+oft alle<lbr type="BD"/> junge Leute zusammen zehlen<lbr/>
+müssen, die er zum <rend class="latin">Orchester</rend> auf<pc force="weak">=</pc><lbr/>schreibet,<lbr type="BD"/> darunter Herr Kolb, und H<abbr type="curve">:</abbr><lbr/>
+Ranftel öffters erwehnet wird.<lbr type="forced"/>
+</NI>
+</letter>
+</text>
+</MUP>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2020">2020-02</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=701</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Verbleib unbekannt (Vorlage: Abschrift um 1768 in D-B)</bibl>
+            <bibl type="source" subtype="RISM">Verbleib unbekannt, Vorlage: Abschrift um 1768 in D-B</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:36:58 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_142.mup">
+<letter bd="142">
+<NI src="unbekannt">
+<HEADER id="701">LEOPOLD MOZART AN LORENZ HAGENAUER IN SALZBURG<lbr/>
+WIEN, 12. NOVEMBER 1768</HEADER>
+<pg n="1"/>
+<ts>_____________________________</ts><tspdf>\hfill </tspdf>Wienn den 12.<h>t<abbr v="en"/></h>&#160;<rend class="latin">Novb<abbr type="curve">:</abbr></rend><lbr type="forced"/>
+<ts>____________________________________________________</ts><tspdf>\hfill </tspdf><u>1768.</u><lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____</ts>Ich und der Wolfgangerl dancken für<lbr/>
+die wohlmeinende Glückwünsche. Die<lbr type="BD"/> schul<pc force="weak">=</pc><lbr/>dige Antworten werden nach und nach folgen.<lbr/>
+Wir sind, Gott Lob, alle<lbr type="BD"/> gesund: dann da<lbr/>
+und dort ein wenig Catharr ist keine sonderliche<lbr/>
+Kranck<lbr type="BD"/>heit. Ich muß um etwas bitten.<lbr type="forced"/>
+Der Herr <rend class="latin">P: Parhammer</rend> möchte gern meine<lbr/>
+Schlittenmusick haben; und ich<lbr type="BD"/> möchte ihn auch<lbr/>
+gern damit bedienen. Solche ist 3. mahl<lbr/>
+be&#255; mir zu finden. nämlich die <rend class="latin">Spartitur</rend>:<lbr/>
+Gott weis aber, wo sie liegt. <u>Zwe&#255;tens,</u><lbr/>
+meine eigene Abschrift,<lbr type="BD"/> so wie ich sie in Holl<pc force="weak">=</pc><lbr/>and <rend class="latin">produci</rend>rt habe; <u>Drittens,</u> die Hof<pc force="weak">=</pc><lbr/><rend class="latin">copiatur</rend>, ich glaub<lbr type="BD"/> von Roth seel: und herr<lbr/>
+Esslinger geschrieben. Diese 3.<h>te</h> wird<lbr/>
+nun am ehesten<lbr type="BD"/> zu finden se&#255;n, indem sie<lbr/>
+herausgeblieben, um solche zu machen, im<lbr/>
+Fall es<lbr type="BD"/> sollte be&#255; hof begehret werden.<lbr/>
+<u>obwohl mir nun meine <rend class="latin">Copiatur</rend> die lieb<pc force="weak">=</pc><lbr/><pg n="2" type="wordsep"/>ste<lbr type="BD"/> wäre</u>; so wird doch die Hof<rend class="latin">copiatur</rend> am<lbr/>
+ehesten zu finden se&#255;n. <u>Bitte solche<lbr type="BD"/> mit<lbr/>
+nächster <rend class="latin">dilligence</rend> zu schicken.</u> Jetzt wird<lbr/>
+sie ohnehin be&#255; Hof nicht<lbr type="BD"/> gebraucht, weil das<lbr/>
+<rend class="latin">Advent</rend> kommt, und dann hoffe es selbst mit<lbr/>
+zu bringen.<lbr type="BD"/> belieben sie nur den Herrn<lbr/>
+Esslinger hollen zu lassen, er wird ihnen schon<lbr type="BD"/><lbr/>
+Auskunft geben, und schicken sie es nur ohne<lbr/>
+iemand etwas zu sagen. Am Fest<lbr type="BD"/> der<lbr/>
+unbefleckten Empfängniß, wird die neue<lbr/>
+Kirche des <rend class="latin">P: Parhameri</rend>schen<lbr type="BD"/> Waisenhauses<lbr/>
+<rend class="latin">Benedici</rend>rt werden; der Wolfgang<abbr type="curve"></abbr> hat<lbr/>
+ihm zu diesem Fest<lbr type="BD"/> eine <rend class="latin"><u>Solenne Mess</u>, <u>offer<pc force="weak">=</pc><lbr/>torium</u></rend>, und ein Trompeten <rend class="latin">Concert</rend> für<lbr/>
+einen Knaben<lbr type="BD"/> dazu <rend class="latin">componi</rend>rt und dem<lbr/>
+Waisenhaus verehrt. Glaublich wird der<lbr/>
+Wolfgang<abbr type="curve">:</abbr><lbr type="BD"/> selbt <rend class="latin">tacti</rend>eren. Es hat<lbr/>
+alles sein Ursachen.<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____</ts>Dem Leopoldel wünschen wir alle 1000.<lbr/>
+Glück zu seinem Nahmenstag, das<lbr type="BD"/> Bind<pc force="weak">=</pc><lbr/>band wird er be&#255; unserer Ankunft er<pc force="weak">=</pc><lbr/>halten. Sie werden es nicht übel<lbr type="BD"/><lbr/>
+<pg n="3"/>
+nehmen, wenn wir ihm etwas geben, das<lbr/>
+nicht eben neu ist. Dem Wolfgang<abbr type="curve"></abbr><lbr type="BD"/><lbr/>
+wird alles zu klein, und auch meiner Toch<pc force="weak">=</pc><lbr/>ter; ist das nicht auch ein kleines<lbr type="BD"/> Kreutz?<lbr/>
+ietzt soll ich nichts als für die Kinder neue<lbr/>
+Kleider anschaffen. Allein,<lbr type="BD"/> Es lebt noch<lbr/>
+der alte Gott! Leben sie alle wohl!<lbr/>
+Ich verlasse mich auf der<lbr type="BD"/> Frau Hagenau<pc force="weak">=</pc><lbr/>erin und ihrer lieben Kinder Gebett, Gott<lbr/>
+wird das machen,<lbr type="BD"/> was zu unserem See<pc force="weak">=</pc><lbr/>lenheil ist.<lbr type="forced"/>
+<lbr type="forced"/>
+<tshtm><additum>[... (Beginn der Abschrift des Briefes vom 30. Januar 1768)]</additum></tshtm>
+</NI>
+</letter>
+</text>
+</MUP>

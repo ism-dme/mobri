@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2011">2011-05</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=794</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:37:29 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_233.mup">
+<letter bd="233"><HEADER id="794">LEOPOLD MOZART AN MARIA ANNA MOZART IN SALZBURG<lbr/>
+VENEDIG, 1. MÄRZ 1771</HEADER>
+<pg n="1"/>
+<ts>__________________________________________________</ts><tspdf>\hfill </tspdf>Venedig d<abbr v="en"/> 1 <u>Merz 1771</u><lbr type="forced"/>
+<lbr type="forced"/>
+Wir sind Gott lob gesund, i<abbr type="topline" expand="mm">m</abbr>er bald da, bald dort eingelad<abbr v="en"/>,<lbr/>
+folglich hab<abbr v="en"/><lbr type="BD"/> wir beständig die <rend class="latin">gondol</rend><abbr v="en"/> der Herrschaft<abbr v="en"/> vor unserem<lbr/>
+Hause, und fahr<abbr v="en"/><lbr type="BD"/> täglich auf dem <rend class="latin">Canal grande</rend>. Wir werd<abbr v="en"/><lbr/>
+um 8 täge später aus Venedig<lbr type="BD"/> wegko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>, als ich geglaubt, und<lbr/>
+uns auch 2 bis 3 täge in <rend class="latin">Vicenza</rend> aufhalt<abbr v="en"/><lbr type="BD"/> müss<abbr v="en"/>, indem der<lbr/>
+aldasige Bischoffe aus dem Hause <rend class="latin">Cornero</rend> uns nicht will<lbr type="BD"/> durch<pc force="weak">=</pc><lbr/>reisen lass<abbr v="en"/> ohne be&#255; ihm zu speisen od<abbr v="er"/> vielmehr sich be&#255;<lbr/>
+ihm ein<lbr type="BD"/> paar täge wenigst aufzuhalt<abbr v="en"/>. da<abbr type="topline" expand="nn">n</abbr> wird auch ein<lbr/>
+3 tägiger Aufenthalt in<lbr type="BD"/>&#160;<rend class="latin">Verona</rend> se&#255;n, und vielleicht eine zugabe<lbr/>
+von 24 Stund<abbr v="en"/>. Nichtsdestoweniger<lbr type="BD"/> werd<abbr v="en"/> wir, we<abbr type="topline" expand="nn">n</abbr> uns nichts<lbr/>
+w[i]driges zustosst, welches Gott verhütten wolle,<lbr type="BD"/> vor Ostern<lbr/>
+in Salzburg se&#255;n. Es ist mir nur Leyd, daß wir nichts als<lbr/>
+betrübte<lbr type="BD"/> fasttäge auf unserer Reise hab<abbr v="en"/> werd<abbr v="en"/>. Vielleicht<lbr/>
+ko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/> wir am Charfreytag nach Reichenhall, die gewöhnliche<lbr/>
+Passions<rend class="latin">opera</rend> alda zu hör<abbr v="en"/>. Wie<lbr type="BD"/> mir das <rend class="latin">arsenal</rend>, die Kirch<abbr v="en"/>,<lbr/>
+<rend class="latin">ospitali</rend> und andere Sach<abbr v="en"/>&#160;<abbr expand="etc:">p:</abbr> ja wie mir ganz<lbr type="BD"/>&#160;<rend class="latin">Venedig</rend> gefahl<abbr v="en"/>,<lbr/>
+werde dir weitläuftig sag<abbr v="en"/>. Entzwisch<abbr v="en"/> ka<abbr type="topline" expand="nn">n</abbr> dir sag<abbr v="en"/>,<lbr type="BD"/> daß schöne und<lbr/>
+besond<abbr v="er"/>e Sach<abbr v="en"/> hier zu seh<abbr v="en"/> sind. du siehst aus fed<abbr v="er"/> und<lbr type="BD"/> dint<abbr v="en"/>, daß ietzt<lbr/>
+dieses be&#255; h<abbr type="curve">:</abbr> Wider schreibe, wo eb<abbr v="en"/> Dein<abbr v="en"/> Brief sa<abbr type="topline" expand="mm">m</abbr>t<lbr type="BD"/> h<abbr type="curve">:</abbr> Adelgassers<lbr/>
+Einschluss erhalt<abbr v="en"/>. An h<abbr type="curve">:</abbr> Adlgasser und frau unsere Empf<abbr type="curve">:</abbr><lbr type="BD"/> ich<lbr/>
+werde alles besorg<abbr v="en"/> und sein schreib<abbr v="en"/> mündlich beantwort<abbr v="en"/>. Was aber<lbr/>
+die <rend class="latin">opera</rend> anbelangt, werd<abbr v="en"/> wir solche noch nicht mitbring<abbr v="en"/>, indem sie noch<lbr/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal><lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="2"/>
+in des <rend class="latin">Copisten</rend> händ<abbr v="en"/> ist, und solcher, wie alle <rend class="latin">opern Copist<abbr v="en"/></rend><lbr/>
+in <rend class="latin">Itali</rend><abbr v="en"/>,<lbr type="BD"/> das <rend class="latin">originale</rend> nicht aus Hand<abbr v="en"/> lass<abbr v="en"/>, so lange sie ihr<abbr v="en"/><lbr/>
+Schnitt mach<abbr v="en"/> könn<abbr v="en"/>, damit sie es allein hab<abbr v="en"/>. der <rend class="latin">Copist</rend><lbr/>
+hatte, da wir von Ma&#255;land abreiset<abbr v="en"/>&#160;<u>5 ganze <rend class="latin">Copien</rend></u> zu mach<abbr v="en"/>,<lbr/>
+nämlich 1 für die <rend class="latin">Impresa</rend>. 2 nach wie<abbr type="topline" expand="nn">n</abbr>, 1 für<lbr type="BD"/> die Her<pc force="weak">=</pc><lbr/>zogin von Parma, und 1 für den Hof nach <rend class="latin">Lisabona</rend>, von<lbr/>
+den einfach<abbr v="en"/><lbr type="BD"/>&#160;<rend class="latin">Arien</rend> nichts zu meld<abbr v="en"/>: und wer weis, ob er unter<pc force="weak">=</pc><lbr/>dess<abbr v="en"/> nicht mehrere Bestellung<abbr v="en"/> beko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/> hat. Er sagte mir dort<lbr/>
+schon, daß ich vor Ostern mir<lbr type="BD"/> nicht Hofnung mach<abbr v="en"/> därfte, solche<lbr/>
+zu seh<abbr v="en"/>; unterdess<abbr v="en"/> hoffe in Salzb<abbr type="curve">:</abbr> zu<lbr type="BD"/> se&#255;n. Man wird uns<lbr/>
+solche von Mayland da<abbr type="topline" expand="nn">n</abbr> nach Salzburg schick<abbr v="en"/>. Was<lbr type="BD"/> den taff[et]<lbr/>
+anbelangt, werdet ihr be&#255;de bedient werd<abbr v="en"/>. Wir speisen heut<lbr/>
+abermahl be&#255; h<abbr type="curve">:</abbr> Wider, der uns, we<abbr type="topline" expand="nn">n</abbr> wir nirgends anders<lbr/>
+eingelad<abbr v="en"/> sind,<lbr type="BD"/> für beständig zu tische hat. Er empfehlt sich sa<abbr type="topline" expand="mm">m</abbr>t<lbr/>
+all<abbr v="en"/> den seinig<abbr v="en"/>; ich<lbr type="BD"/> habe ihm viele Verbindlichkeit. Am ko<abbr type="topline" expand="mm">m</abbr>[en]d<abbr v="en"/><lbr/>
+dienstage werd<abbr v="en"/> wir eine<lbr type="BD"/> grosse <rend class="latin">Accademie</rend> hab<abbr v="en"/>. am Sontage<lbr/>
+vorhero werd<abbr v="en"/> wir be&#255;m Ka&#255;serl: Gesandt<abbr v="en"/> se&#255;n. am Montage<lbr/>
+be&#255; <rend class="latin">S: E: Mafetti</rend>, wo d<abbr v="er"/> <rend class="latin">Bocelli Sm<abbr type="curve">:</abbr></rend> war. <abbr expand="etc:">p:</abbr> &#8211; <lbr/><lbr type="BD"/>
+<rend class="latin">addio</rend> lebts be&#255;de wohl, wir Küss<abbr v="en"/> euch viel 100000 mahl &#8211; <lbr/>
+ich bin dein<lbr type="BD"/> alter<lbr type="forced"/>
+<ts>____________________________________________________</ts><tspdf>\hfill </tspdf>Mozart <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<tspdf>\newpage</tspdf> an alle freunde <abbr expand="und">u</abbr> freundin<abbr v="en"/> in <abbr expand="und">u</abbr> ausser dem hauß<lbr/>
+alles erdenkl: schönes<lbr type="BD"/> auf baldiges wid<abbr v="er"/>seh<abbr v="en"/>.<lbr type="forced"/>
+S<h>e</h>: Hochf<abbr type="curve">:</abbr> gd<abbr v="en"/> werd<abbr v="en"/> sond<abbr v="er"/> zweifel mein Schreib<abbr v="en"/> auf dem<lbr/>
+Geburtstage<lbr type="BD"/> erhalt<abbr v="en"/> haben? &#8211; <lbr/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal><lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal></letter>
+</text>
+</MUP>

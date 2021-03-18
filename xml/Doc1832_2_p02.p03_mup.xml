@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2009">2009-08-20</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=118</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:29:27 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/Doc1832_2_p02.p03_mup.txt">
+<HEADER id="118">CONSTANZE NISSEN AN JOHANN HEINRICH FEUERSTEIN IN PIRNA<lbr/>
+SALZBURG, 20. OKTOBER 1832</HEADER>
+<pg n="1"/>
+Werther Freund! Ihr letztes schreiben vom 31 <rend class="latin">Juli</rend> machte mir viel sehr viel<lbr/>
+Herzen de<abbr type="topline" expand="nn">n</abbr> in dem ich einsehen muste wie tief Sie gekränkt, <abbr expand="und">u</abbr> Nieder gebeigt<lbr/>
+sein musten, durch das Betragen einer Persohn die Ihnen so Viel als Gattin<lbr/>
+und als Mutter schuldig war. Allein sind Sie Ma<abbr type="topline" expand="nn">n</abbr>, tragen Sie Ihr Schicksahl<lbr/>
+Ihres Kindes wegen, so gut Sie ko<abbr type="topline" expand="nn">n</abbr>en, damit Sie nicht auch noch durch allzu große Kränkung<lbr/>
+Ihre unschuldige Tochter um ihren Vater bringen; Gott unser allmächtiger Vater<lbr/>
+wird Sie dafür segnen, wen Sie nun Vater und Mutter Stelle zugleich bei ihr<lbr/>
+Vertretten. &#8211; Trösten ka<abbr type="topline" expand="nn">n</abbr> ich Sie nicht, so gerne ich auch wolte, das kan nur die<lbr/>
+Zeit &#8211; und nun zu unsern Geschäften &#8211; Ich gab mir vielle Mühe hier in<lbr/>
+Salzburg Ihr Buch in Verlag zu bringen, allein überall gab ma<abbr type="topline" expand="nn">n</abbr> mir zur<lbr/>
+Antwort: daß es schon länger als ein Jahr in allen Zeitunge Deutsch<pc force="weak">=</pc><lbr/>lands angekündigt war, und daß ma<abbr type="topline" expand="nn">n</abbr> es dahero nicht mehr in Verlag<lbr/>
+nehmen kö<abbr type="topline" expand="nn">n</abbr>te 5 oder 6 <rend class="latin">Exemplare</rend> davon will die Mayerische Buchhandlung<lbr/>
+in <rend class="latin">Comission</rend> nehmen, wie Sie aus ihrem eigenen schreiben an mich er<pc force="weak">=</pc><lbr/>sehen werden. Mehr könte ich mit allem guten willen nicht leisten<lbr/>
+ist dieses anerbieten Ihnen so recht? so sind Sie so gütig diese 6 <rend class="latin">Exemplare</rend> durch<lbr/>
+<tshtm>__________</tshtm>Fracht Wagen an die Mayerische Buchhandlung und nicht an<lbr/>
+mich zu schicken, indem letzteres zu theuer ko<abbr type="topline" expand="mm">m</abbr>en würde. So muste ich<lbr/>
+für daß mir <amend value="überschickte">überschicke</amend> Buch auch den Mauth bezahlen, 1 <abbr_cur expand="Gulden"><rend class="latin">f</rend></abbr_cur> 41 <abbr_cur expand="Kreuzer"><rend class="latin">x</rend></abbr_cur> schweres<lbr/>
+geld, die Mayerische Buchhandlung gab mir 1 <abbr_cur expand="Gulden"><rend class="latin">f</rend></abbr_cur> 39 [<abbr_cur expand="Kreuzer"><rend class="latin">x</rend></abbr_cur> und] das nur in leichtem<lbr/>
+geld, so habe ich gegen 22 <abbr_cur expand="Kreuzer"><rend class="latin">x</rend></abbr_cur> schaden &#8211; und nun bin ich so freu Sie an<lbr/>
+meine Eignen Geschaften zu errinneren, aus rüksicht Ihrer trauer<suppl hand="#DME"><pc force="strong">=</pc></suppl><lbr/>igen lage ließ ich Ihnen stillschweigend fast 3 ganze Monate<lbr/>
+dahin gehen, nun aber ka<abbr type="topline" expand="nn">n</abbr> ich auch nicht länger warten, indem<lbr/>
+ich von allen Seiten um geld geplagt werde. Kö<abbr type="topline" expand="nn">n</abbr>en Sie mir<lbr/>
+vielleicht nicht alles auf einmahl schicken, so schicken Sie mir doch<lbr/>
+so viel Sie indeßen können und sagen Sie mir wie viel Sie mir<lbr/>
+noch schuldig bleiben, und wie, und wan Sie mich bezahlen wollen.<lbr/>
+Schohnender kan ich ia nicht gegen Sie verfahren. Auch muß ich<lbr/>
+nochmahls bitten, mir alle in Handen habende Manuscripten<lbr/>
+zu überschicken. So leben Sie wohl, geben Sie recht bald antwort<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>________</ts><tshtm>__________________________________________</tshtm><tspdf>\hfill </tspdf> Ihrer Freundin Constanze Etats<pc force="weak">=</pc><lbr type="forced"/>Salzburg am 20 8ber<ts>_____________________</ts><tspdf>\hfill </tspdf> Räthin von <rend class="latin">Nissen</rend> gewesene Wittwe<lbr type="forced"/>
+<ts>_____</ts>1832<ts>___________________________________________________________</ts><tspdf>\hfill </tspdf> Mozart<lbr/>
+<tspdf>\newpage</tspdf>
+<pg n="2"/>
+<anschrift rot="90">An<lbr type="forced"/>
+den Wohlgeborenen<lbr type="forced"/>
+Herrn <rend class="latin">Doctor</rend> von <rend class="latin">Feuer</rend>stein<lbr type="forced"/>
+in<lbr type="forced"/>
+<rend class="latin"><u>Pirna</u></rend><lbr type="forced"/>
+bei <rend class="latin">Dresden</rend></anschrift><lbr type="forced"/>
+<add_seal type="post">R. 4. SALZBURG<lbr type="forced"/>
+[... (unleserlich)] OCT. 1832</add_seal></text>
+</MUP>

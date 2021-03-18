@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2020">2020-02</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=672</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Verbleib unbekannt (Vorlage: Abschrift um 1768 in D-B)</bibl>
+            <bibl type="source" subtype="RISM">Verbleib unbekannt, Vorlage: Abschrift um 1768 in D-B</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:36:47 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_113.mup">
+<letter bd="113">
+<NI src="unbekannt">
+<HEADER id="672">LEOPOLD MOZART AN LORENZ HAGENAUER IN SALZBURG<lbr/>
+MÜNCHEN, 15. NOVEMBER 1766</HEADER>
+<pg n="1"/>
+<add_num type="inline" schr_id="57010" impl="crayon" color="red"><ts>______________________</ts>40</add_num><ts>____</ts><tspdf>\hfill </tspdf>München d<abbr v="en"/> 15t<abbr v="en"/>&#160;<rend class="latin">November</rend> 1766<lbr type="forced"/>
+<lbr type="forced"/>
+Wenn es nach meiner Me&#255;nung gegangen wäre, so würde<lbr/>
+mein letztes<lbr type="BD"/> Schreiben folgenden anfang gehabt hab<abbr v="en"/>:<lbr/>
+<u>Hier sehen Sie einen Brief aus<lbr type="BD"/> R - e - Re: aber nicht<lbr/>
+Rehbock |: wie der bauverwalter Jackerl :| sonder<abbr v="en"/><lbr type="BD"/> Regenspurg</u><lbr/>
+&#8211; &#8211; &#8211; den ich würde Jtzt in Regenspurg se&#255;n, um<lbr/>
+dem instän<lbr type="BD"/>dig<abbr v="en"/> Verlangen des Prinz <rend class="latin">louis</rend> von<lbr/>
+Wirtemberg, wie auch des Fürsten von<lbr type="BD"/> Fürstenberg und<lbr/>
+S<h>r:</h> Dur<abbr type="curve">:</abbr> des Fürst Taxis ein genügen zu thun. von<lbr/>
+hier ist<lbr type="BD"/> es ein Katzen=sprung und würd<abbr v="en"/> so dan über<lbr/>
+Landshut und altenötting nach<lbr type="BD"/> Hause gekomm<abbr v="en"/> se&#255;n.<lbr/>
+dieß ist aber eigentlich der weeg, den wir nach Hause<lbr type="BD"/> nehm<abbr v="en"/><lbr/>
+werd<abbr v="en"/>. und wir werden zweifelsohne S<h>r:</h> Hochfürstl: gnaden<lbr/>
+etwan<lbr type="BD"/> noch in laufen antreffen. ob wir aber auch noch über<lbr/>
+Regenspurg gehen<lbr type="BD"/> werd<abbr v="en"/>, zweifle sehr, indem ich erst<lbr/>
+die völlige genesung unsers Wolfgangerl<lbr type="BD"/> abwart<abbr v="en"/> müss<abbr v="en"/>.<lbr/>
+und da<abbr type="topline" expand="nn">n</abbr> erst nicht wiss<abbr v="en"/> wie bald wir von hier loß<lbr type="BD"/> ko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>.<lbr/>
+entzwisch<abbr v="en"/> wird das Wetter i<abbr type="topline" expand="mm">m</abbr>er schlechter. unsre <suppl hand="self" pos="supra">liebe</suppl> Frau<lbr type="BD"/><lbr/>
+Hagenauerin <amend value="wird">wir</amend> sich erinner<abbr v="en"/>, daß der Wolfgangerl<lbr/>
+nach unsrer zurück<lbr type="BD"/>kunft von Wienn krank geword<abbr v="en"/>,<lbr/>
+und sehr übl war, so, das man die Blatter<abbr v="en"/><lbr type="BD"/> förcht<abbr v="en"/> muste:<lbr/>
+und daß es sich am Ende durch die Füsse hinaus zog,<lbr/>
+an dem<lbr type="BD"/> er schmerzen klagte <abbr expand="etc">p</abbr>:<lbr type="forced"/>
+Nun ist es eben so. Er konnte auf kein<abbr v="en"/> Fuß steh<abbr v="en"/>;<lbr/>
+kein<abbr v="en"/> Zehen und keine Knie beweg<abbr v="en"/>; kein mensch dürfte<lbr/>
+ihm auf die Nähe ko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>, und er konnte<lbr type="BD"/> 4 nächte nicht<lbr/>
+schlaf<abbr v="en"/>. das nahm ihn sehr mit, und setzte uns um so mehr<lbr/>
+<pg n="2"/>
+in<lbr type="BD"/> sorgen, weil i<abbr type="topline" expand="mm">m</abbr>er, sonderlich gegen die Nacht Hitze und<lbr/>
+Fieber da war<abbr v="en"/>.<lbr type="BD"/> heunt ist es merklich besser: allein es<lbr/>
+werd<abbr v="en"/> wohl noch 8 täge herum gehen,<lbr type="BD"/> bis er wieder recht hergestellt<lbr/>
+ist. in gottes Na<abbr type="topline" expand="mm">m</abbr>en; 100 fl: sind bald weg,<lbr type="BD"/> ich bin diesen schlecht<abbr v="en"/><lbr/>
+spas schon gewohnt &#8211; &#8211; &#8211; daß uns einige gute Freund<lbr type="BD"/><lbr/>
+entgegen ko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/> woll<abbr v="en"/>, ist eine höflichkeit, die ich nicht ver<pc force="weak">=</pc><lbr/>diene. ich muß<lbr type="BD"/> aber aufrichtig bekenn<abbr v="en"/>, daß wir uns schon<lbr/>
+zum voraus geschmeichelt hab<abbr v="en"/>,<lbr type="BD"/> daß ein und anderer<lbr/>
+etwa uns diese Ehre erweisen wird. doch muß auch<lbr/>
+nie<lbr type="BD"/>mand glaub<abbr v="en"/>, daß ich denjenig<abbr v="en"/> meiner Freunde<lbr/>
+<suppl hand="self" pos="supra">dessenweg<abbr v="en"/></suppl> weniger hoch<lbr type="BD"/>schätz<abbr v="en"/> würde, der |: aus sein<abbr v="en"/> Ursach<abbr v="en"/> :| solches<lbr/>
+zu thun unterlass<abbr v="en"/><lbr type="BD"/> würde. die Zeit meiner ankunft<lbr/>
+werde genau zu bericht<abbr v="en"/> nicht ermangeln.<lbr type="BD"/> Was die Magd<lbr/>
+anbelangt, bleibt es be&#255; dero Fr: gemahlin gutacht<abbr v="en"/>, und die<lbr type="BD"/><lbr/>
+meinige bittet dafür zu sorg<abbr v="en"/>. Was das <rend class="latin">quatier</rend> anbelangt<lbr/>
+so weis es mein<lbr type="BD"/> lieber Gott, daß wir alle mit aussersten<lbr/>
+Verdruß das Haus eines so wahr<abbr v="en"/><lbr type="BD"/> Freundes verlass<abbr v="en"/>. das<lbr/>
+<rend class="latin">quatier</rend> im Freysauf Haus scheint mir, weg<abbr v="en"/> dem<lbr type="BD"/> ihn<abbr v="en"/> schon<lbr/>
+überschrieben<abbr v="en"/> ursach<abbr v="en"/> nicht unbequem, und sonderlich weg<abbr v="en"/><lbr type="BD"/><lbr/>
+der Ruhe und stille geg<abbr v="en"/> dem wasser hinaus zur arbeit meiner<lbr/>
+Kinder mehr<lbr type="BD"/> nützlich, da sie kein<abbr v="en"/> gegenstand hab<abbr v="en"/>, der sie be&#255;<lbr/>
+dem mindest<abbr v="en"/> lerm<abbr v="en"/><lbr type="BD"/> ans Fenster zieht: obwohl die Jud<abbr v="en"/>gasse eine<lbr/>
+trostlose und in Winter sehr<lbr type="BD"/> böse und schmutzige gasse ist. Es wäre<lbr/>
+fre&#255;lich auf ein<abbr v="en"/> Platz lustiger. weg<abbr v="en"/><lbr type="BD"/> dem Preiß werd<abbr v="en"/> wir schon zu<lbr/>
+rechte kom<abbr v="en"/>. woll<abbr v="en"/> Sie nebst unser ge<lbr type="BD"/>horsamst<abbr v="en"/> Empfehlung mit <rend class="latin">Md</rend>: von<lbr/>
+Robinig entzwisch<abbr v="en"/> sprech<abbr v="en"/>. sollt<abbr v="en"/><lbr type="BD"/> sie aber eine andere uns etwa mehr an<pc force="weak">=</pc><lbr/>ständige Wohnung für uns find<abbr v="en"/>, so<lbr type="BD"/> werd<abbr v="en"/> wir es mündlich ausmach<abbr v="en"/><lbr type="forced"/>
+<ts>___________________</ts><tshtm>_____________________________________________</tshtm><tspdf>\hfill </tspdf>leb<abbr v="en"/> Sie wohl.<lbr type="forced"/>
+den Brief vom <rend class="latin">Baron Tschudy</rend><lbr/>
+sende zur einsicht zurühk<lbr type="forced"/>
+<lbr type="forced"/>
+<additum>[... (1 Zeile Textverlust)]</additum>
+</NI>
+</letter>
+</text>
+</MUP>

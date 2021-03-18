@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2014">2014-6</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1652</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">D-HVs</bibl>
+            <bibl type="source" subtype="RISM">D-HVs (Stadtbibliothek</bibl>
+            <bibl type="source" subtype="RISM">Musikabteilung)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:41:55 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_1082.mup">
+<letter bd="1082"><NI src="D-HVs"><HEADER id="1652">WOLFGANG AMADÉ MOZART AN MARIA ANNA VON BERCHTOLD ZU<tspdf><lbr/></tspdf> SONNENBURG IN ST. GILGEN<lbr/>
+WIEN, 2. AUGUST 1788</HEADER>
+<pg n="1"/>
+<add_note type="inline" schr_id="57010"><ts>_____________________________________________________________</ts><rend class="latin">D. Giovanni</rend> war<lbr/>
+<ts>_______________________________________________________________</ts>komponirt, als dieser<lbr/>
+<ts>___________________________________________________________________</ts>Brief geschrieben ward.</add_note><lbr/>
+<add_note type="inline" schr_id="57010">Scheint im Jul.</add_note><add_note type="inline" schr_id="57010"><ts>____________________________________________________</ts>Dieses, um das</add_note><lbr/>
+<add_note type="inline" schr_id="57010">1788. geschrieben</add_note><ts>___</ts><tspdf>______________</tspdf>liebste Schwester! &#8211; <add_note type="inline" schr_id="57010"><ts>_____________</ts><rend class="latin">Datum</rend> desselben</add_note><lbr/>
+<add_note type="inline" schr_id="57010">zu seyn.</add_note><add_note type="inline" schr_id="57010"><ts>__________________________________________________________________</ts>ausfindig zu machen.</add_note><lbr type="forced"/>
+<tspdf><lbr type="forced"/></tspdf>
+Mit recht könntest du böse auf mich se&#255;n! &#8211; wirst du es aber auch dann<lbr type="BD"/> se&#255;n,<lbr/>
+wenn du mit diesem Postwagen die Neuesten klavierstücke von mir<lbr type="BD"/> erhaltest? &#8211; <lbr/>
+O nein! &#8211; dies wird hofentlich alles wieder ins geleise<lbr type="BD"/> bringen. &#8211; <lbr type="forced"/>
+da du überzeuget se&#255;n wirst, daß ich dir gewis täglich alles mögliche gute<lbr type="BD"/> wünsche,<lbr/>
+so wirst du auch darüber hinausgehen, daß ich mit meinem glücks<lbr type="BD"/>wunsche zu deinem<lbr/>
+Na<abbr type="topline" expand="mm">m</abbr>enstage etwas Späte nachhinke; &#8211; liebste Schwester; &#8211; Ich wünsche dir vom ganzen<lbr/>
+Herzen, von ganzer Seele, alles das, was du<lbr type="BD"/> dir selbst am ersprieslichsten zu se&#255;n<lbr/>
+glaubest, und hiemit Punktum. &#8211; <lbr type="forced"/>
+liebe Schwester! &#8211; du kannst nicht zweifeln daß ich viel zu thun habe &#8211; du<lbr type="BD"/> weist auch<lbr/>
+recht gut daß ich zum briefschreiben etwas faul bin; &#8211; ne<abbr type="topline" expand="mm">m</abbr>e mir<lbr type="BD"/> es also nicht<lbr/>
+übel wenn ich dir <u>selten</u> schreibe; &#8211; dieses soll aber dich nicht<lbr type="BD"/> abhalten, <u>mir</u> öfters<lbr/>
+zu schreiben; &#8211; so ungerne ich briefe schreibe, so gerne<lbr type="BD"/> erhalte ich deren.<lbr/>
+&#8211; auch hast du mehr stoff zu schreiben als ich, da mich in<lbr type="BD"/> Salzburg mehr Sachen<lbr/>
+<rend class="latin">intressi</rend>ren als dich in Wienn.<tspdf>\-</tspdf> &#8211; <lbr type="forced"/>
+Nun muß ich dich um etwas bitten; &#8211; Ich möchte gerne daß mir der Ha&#255;dn<lbr type="BD"/><lbr/>
+<u>seine 2 <rend class="latin">Tutti</rend>-Messen</u>, und die <rend class="latin"><u>Graduali</u></rend> so er geschrieben, in <u>Partitur</u> auf<lbr/>
+eine<lbr type="BD"/> zeit lehnte; &#8211; ich würde sie mit allem dank wieder zurück schicken. &#8211; <lbr/>
+es ist<lbr type="BD"/> nun eben ein Jahr daß ich ihm geschrieben, und ihn zu mir eingeladen<lbr/>
+habe.<lbr type="BD"/> aber er hat mir nicht geantwortet; &#8211; im antworten scheint er mir<lbr/>
+viel gleiches<lbr type="BD"/>&#160;<u>mit mir</u> zu haben, nicht wahr? &#8211; Ich bitte dich also recht<lbr/>
+sehr mir diese sachen<lbr type="BD"/> auf diese art zuwege zu bringen; &#8211; lade ihn zu dir<lbr/>
+hinaus, und Spiele ihm von<lbr type="BD"/> den Neuen sachen vor; &#8211; das <rend class="latin">Trio</rend>, und <rend class="latin">quartett</rend><lbr/>
+wird ihm nicht misfallen. &#8211;<lbr type="BD"/>&#160;<rend class="latin">adieu</rend>, liebste schwester! &#8211; so bald sich wieder<lbr/>
+Neue Musick <u>sa<abbr type="topline" expand="mm">m</abbr>elt</u>, so werde<lbr type="BD"/> ich Sie dir schicken; &#8211; Ich bin Ewig<lbr type="forced"/>
+<lbr type="forced"/>
+<rend class="latin">P: S:</rend> Meine frau empfehlt sich dir bestens.<ts>__</ts><tshtm>_________________________</tshtm><tspdf>\hfill </tspdf>dein aufrichtiger bruder<lbr type="forced"/>
+und wir be&#255;de unsern Lieben h<abbr type="curve">:</abbr> schwagern.<ts>___</ts><tshtm>___________________</tshtm><tspdf>\hfill </tspdf>W: A: Mozart <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<lbr/>
+<add_num type="inline">1446<lbr/>950</add_num><add_num type="inline"><ts>___________</ts>1584</add_num><add_ident type="inline"><ts>_______________________________________________</ts><rend class="latin">vide</rend> Rückseite</add_ident><add_num type="inline"><ts>_________________________________</ts>1446</add_num><lbr/>
+<lbr/>
+<add_seal type="owner">K. M.<lbr/>
+S. C.<lbr/>
+1446.</add_seal>
+<pg n="2"/>
+<tspdf><lbr type="forced"/></tspdf>
+<rend class="latin">P: S:</rend> um dir über den Punkt in betref meines dienstes zu antworten, so hat<lbr type="BD"/> mich<lbr/>
+der ka&#255;ser zu sich in die ka<abbr type="topline" expand="mm">m</abbr>er=geno<abbr type="topline" expand="mm">m</abbr>en, folglich förmlich <u>dekretirt</u>;<lbr type="BD"/>&#160;<u>einsweilen</u><lbr/>
+aber nur mit <u>800 fl</u>: &#8211; es ist aber keiner in der ka<abbr type="topline" expand="mm">m</abbr>er der <u>so viel</u><lbr type="BD"/> hat. &#8211; <lbr/>
+auf dem anschlag zettel, da meine Prager Oper <rend class="latin">Don Giovanni</rend> | welche<lbr type="BD"/> eben<lbr/>
+heut wieder gegeben wird :| aufgeführt wurde, auf welchem gewis nicht<lbr type="BD"/>&#160;<u>zu viel</u> steht,<lbr/>
+da ihn die k: k: theater <rend class="latin">direction</rend> herausgiebt, stunde; &#8211; die<lbr type="BD"/> Musick ist von h<abbr type="curve">:</abbr><lbr/>
+Mozart, <u>kapellmeister, in wirklichen diensten seiner k: k:<lbr type="BD"/> Ma&#255;estätt.</u><lbr type="forced"/>
+<pg n="3"/>
+<vacat/>
+<pg n="4"/>
+<anschrift><rend class="latin">À<lbr type="forced"/>
+Madame<lbr type="forced"/>
+Madame Marie anne de<lbr type="forced"/>
+Sonnenbourg née Mozart<lbr type="BD"/><lbr type="forced"/>
+<ts>_____________</ts><tshtm>____________</tshtm>à</rend><lbr type="forced"/>
+zu St: gilgen<lbr type="forced"/>
+<u>im Pfleg=Hause.</u><ts>___</ts><tshtm>_____</tshtm><rend class="latin"><uu>Salzbourg</uu>.</rend></anschrift><lbr/>
+<add_num>1446</add_num>
+</NI></letter>
+</text>
+</MUP>

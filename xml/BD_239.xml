@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2011">2011-05</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=800</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">I-Bas</bibl>
+            <bibl type="source" subtype="RISM">I-Bas (Archivio di Stato</bibl>
+            <bibl type="source" subtype="RISM">Biblioteca)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:37:31 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_239.mup">
+<letter bd="239" lang="it"><NI src="I-Bas"><HEADER id="800">LEOPOLD MOZART AN GIOVANNI LUCA PALLAVICINI IN BOLOGNA<lbr/>
+SALZBURG, 19. JULI 1771</HEADER>
+<pg n="1"/>
+<ts>_____</ts><rend class="latin">Eccelenza!<lbr type="forced"/>
+<lbr type="forced"/>
+Non ho mai provato tanta pena al Core, quanto Sia quella, che<lbr/>
+sento nel far mi<lbr type="BD"/> stesso il rimprovero d'avere in qualche maniera meritato<lbr/>
+il titolo obrobrioso<lbr type="BD"/> d'un ingrato avendo sin'ora tralasciato à mandar<lbr/>
+à V: Eccelenza delle nostre<lbr type="BD"/> nuove. <tshtm>_____</tshtm>La poco abilitá di Scrivere in<lbr/>
+italiano mi féce di tempo in tempo<lbr type="BD"/> differir à compire il mio dovere,<lbr/>
+piu che persuaso, che <suppl hand="self" pos="supra">à</suppl> V: Ecc: non abbiano<lbr type="BD"/> mai mancati degl'avisi<lbr/>
+sinceri del'incontro di figlio <suppl hand="self" pos="supra">mio</suppl> à Milano, avisi sicuri,<lbr type="BD"/> impartiali,<lbr/>
+e per consequenza di piu valore Secondo il proverbio: propria<lbr type="BD"/> Laus<lbr/>
+sordet <abbr expand="etc:">p:</abbr><lbr type="forced"/>
+Ora, che, Dio grazia, stiamo sani e salvi in Salisburgo prendo la<lbr/>
+Liberta di<lbr type="BD"/> inco<abbr type="topline" expand="mm">m</abbr>odar V: E: colla presente e di notificare, che appena<lbr/>
+arrivati à casa,<lbr type="BD"/> ebbi una Lettera della Impresa del Teatro di Milano</rend><lbr/>
+<pg n="2"/>
+<rend class="latin">nella quale fú accordato<lbr type="BD"/> il mio figlio à Scrivere l'opera<lbr/>
+del Carnevale 1773, e pocco dopo chiamato<lbr type="BD"/> à trovarsi al prin<pc force="weak">=</pc><lbr/>cipio del prossimo Mese di Settembre in Milano per scrivere<lbr type="BD"/> la<lbr/>
+Serenata ò Sia Cantata teatrale per lo Sposalitio di S: A: R: L'Arciduca<lbr/><lbr type="BD"/>
+Ferdinando, un incontro tanto piu onorifico, che il piu vechio<lbr/>
+dei Maestri il<lbr type="BD"/> Sgr: Adolfo Hasse detto il Sassonne scrivera l'opera,<lbr/>
+ed il Maestro il piu giovine<lbr type="BD"/> la Serenata, un tal Sgr: Abate<lbr/>
+Porini Stá attualmente facendo la Poesia di<lbr type="BD"/> questa Cantata,<lbr/>
+che, come mi Scrivono di Vie<abbr type="topline" expand="nn">n</abbr>a, sará terminata alla metà<lbr type="BD"/> del<lbr/>
+Mese venturo e Sara intitolata <u>Ascanio in Alba</u>.<lbr type="forced"/>
+Frátanto Sta componendo il mio figlio un Oratorio di Metastasio<lbr/>
+per Padua<lbr type="BD"/> ordinato del Sgr: Don Giuseppe Ximenes de Ppi d'Aragona,</rend><lbr/>
+<pg n="3"/>
+<rend class="latin">quest'oratorio<lbr type="BD"/> mandero, passando per Verona, à Padua per essere<lbr/>
+copiato, e ritornando da<lbr type="BD"/> Milano anderemo à Padua per sentirne<lbr/>
+la Prova.<lbr type="forced"/>
+Padre e figlio ringraziamo V: E: di tante grazie ricevute e<lbr/>
+consegniamo<lbr type="BD"/> umilmente nostri devot<h>ssi</h> Rispetti à Vostra<lbr/>
+Eccelenza, à S: E: la Sg:<h>ra</h> Contessa<lbr type="BD"/> nostra Pad:<h>na</h> al Ill:<h>mo</h> Sgr:<lbr/>
+Contino e preghiamo di conservarci le loro grazie,<lbr type="BD"/> dichia<pc force="weak">=</pc><lbr/>randomi unito col mio figlio con ogni zelo e divozione<lbr type="forced"/>
+<ts>___________________</ts>di Vostra Eccelenza<lbr type="forced"/>
+<lbr type="forced"/>
+Salisburgo 19 <u>Luglio 1771</u><ts>__________</ts><tspdf>\hfill </tspdf>umiliss:<h>mo</h> devot:<h>ssmo</h> ed oblgt:<h>mo</h><lbr type="forced"/>
+<ts>________________________________________________________</ts><tspdf>\hfill </tspdf>Servitore<lbr type="forced"/>
+<ts>_____________</ts><tshtm>______________________________________</tshtm><tspdf>\hfill </tspdf>Leopoldo Mozart <abbr expand="manu propria">mp</abbr></rend>
+<pg n="4"/>
+<add_num impl="pencil"><ts>_______________________________________________________________________</ts>110</add_num>
+<add_empf><ts>_______________________________________________</ts>1771. <rend class="latin">de' 19. Luglio</rend></add_empf>
+<add_sign type="inline"><rend class="latin">Lettere N.<h>o</h> 1.</rend></add_sign><add_empf><ts>____________________________________</ts><rend class="latin">Salisburgo | Mozart | d<abbr type="curve"></abbr> à 27. d.<h>o</h></rend></add_empf>
+<add_empf><ts>____________________________________________________________</ts><u><rend class="latin">d<abbr type="curve"></abbr> à 22. 8bre</rend></u></add_empf>
+<lbr/>
+<lbr/>
+<add_note impl="pencil"><unclear><rend class="latin">posen</rend></unclear> 6</add_note></NI></letter></text>
+</MUP>

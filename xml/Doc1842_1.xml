@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2013">2013-3</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=154</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:29:41 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/Doc1842_1.mup">
+<HEADER id="154">ALOYS FUCHS, NOTIZEN ÜBER MOZARTS SCHÄDEL UND DIE AUFFÜHRUNGSGESCHICHTE DER ZAUBERFLÖTE<lbr/>
+WIEN, 16. JANUAR 1842</HEADER>
+
+<pg n="1"/>
+<add_note>X</add_note>
+Durch den ehmaligen Prosektor am k.k. hiesigen<lbr/>
+allgemeinen Krankenhause H<abbr type="curve">.</abbr>&#160;<u><rend class="latin">Bierme&#255;er</rend></u> wurde<lbr/>
+ausgesagt: Daß auf Veranlassung des berühmten<lbr/>
+Schädellehrers <u><rend class="latin">D:<h>or</h> Gall</rend></u> von <u>Mozar'ts</u> Leichnam<lbr/>
+der <u>Kopf</u> abgeschnitten wurde, und zwar durch<lbr/>
+den Bildhauer <u>Franz <rend class="latin">Klein</rend></u>, welchen Kopf <rend class="latin">Doktor</rend><lbr/>
+<u><rend class="latin">Gall</rend></u> nach Paris gebracht hat, wo er sich noch ge<pc force="weak">=</pc><lbr/>genwärtig befinden soll!(?) <add_note type="inline">X</add_note><lbr type="forced"/>
+<lbr type="forced"/>
+<line w="28em"/>&#160;<lbr type="forced"/>
+Borschitzk&#255; hat obige Aeußerung von H<abbr type="curve">.</abbr>&#160;<u><rend class="latin">Biermeyer</rend></u><lbr/>
+selbst gehört, welche Letzterer auch zu beschwören<lbr/>
+im Stande ist.<lbr type="forced"/>
+<lbr type="forced"/>
+<line w="28em"/>&#160;<lbr type="forced"/>
+<ts>____________</ts><u>Notiz zur Geschichte der Zauberflöte</u><lbr type="forced"/>
+<lbr/>
+Die 1:<h><uu>te</uu></h> Produktion fand statt am 30. <abbr expand="September">Septr</abbr> 1791.<lbr type="forced"/>
+Die 2. - - - - - - - - - - - - - - - - - - - 1. <abbr expand="Oktober">Oktbr</abbr> 1791.<lbr type="forced"/>
+<ts>_____</ts>(wobei Mozart persönlich dirigirte)<lbr type="forced"/>
+<ts>_____</ts>Bei der 3:<h><uu>ten</uu></h> Aufführung war <u>Mozart</u> in einer Loge<lbr/>
+und der <abbr expand="Capellmeister">Caplmstr</abbr> Joh: Henneberg, dirigirte<lbr/>
+sowohl <u>diese</u>, als die <u>folgenden</u> Vorstellungen.<lbr type="forced"/>
+<ts>_____</ts>Diese Notiz verdanke ich dem pens. Orch. Mitgld<lbr/>
+Gebauer &#8211; welcher damal die <u><rend class="latin">Oboe</rend></u> dabei bließ,<lbr/>
+und gegenwärtig &#8211; zwar stoktaub &#8211; in dem<lbr/>
+Alter von 87 Jahren &#8211; zu Wien noch lebt.<lbr type="forced"/>
+<lbr type="forced"/>
+Am <formula type="mfrac"><mn>16</mn><mi>1</mi></formula> <abbr type="tilde" expand="1842">842</abbr>.<ts>________________________________</ts><tspdf>\hfill </tspdf>Aloys Fuchs <abbr_mp expand="manu propria">mp</abbr_mp><lbr type="forced"/>
+<lbr type="forced"/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="2"/>
+<ts>______________</ts><u>Notizen</u> über die 1:<h><uu>te</uu></h> Aufführung<lbr type="forced"/>
+von Mozarts <u>Zauberflöte</u> |: nach <rend class="latin"><u>Seyfried's</u> </rend> Mittheilung :|<lbr type="forced"/>
+<lbr type="forced"/>
+<table><tr><td><u><rend class="latin">Sarastro.</rend></u></td><td>H<abbr type="curve">.</abbr>&#160;<u>Gerl</u> |: † zu Mannheim :|</td></tr>
+<tr><td><u><rend class="latin">Tamino</rend></u></td><td>H<abbr type="curve">.</abbr>&#160;<rend class="latin"><u>Schack</u></rend> |: starb in München als k. pens. Hofsänger :|</td></tr>
+<tr><td><u>Königin der Nacht.</u></td><td><ts>___</ts><rend class="latin">Mad:<h><uu>me</uu></h></rend> Hofer |: Mozarts Schwägerin,<lbr type="forced"/>
+† als <rend class="latin">Madame Ma&#255;er</rend> |: in 2:<h><uu>ter</uu></h> Ehe mit dem<lbr type="forced"/>
+Sänger <rend class="latin">Seb: Mayer</rend> verehlicht :|</td></tr>
+<tr><td><u>3. Damen.</u></td><td><rend class="latin">Mad:<h><uu>me</uu></h>&#160;<u>Gerl</u></rend>. (Gattin des Obigen) eine sehr reitzende<lbr/>
+<tshtm>_____</tshtm>Frau, welcher zu Liebe Mozart die <rend class="latin">Com</rend><pc force="weak">=</pc><lbr/><tshtm>_____</tshtm><rend class="latin">position</rend> dieser Oper übernahm.<lbr type="forced"/>
+<tshtm>_____</tshtm>ferner: <rend class="latin">D:<h>lle</h></rend> Klöpfer <abbr expand="und">u</abbr>&#160;<rend class="latin">Mad:<h><uu>me</uu></h></rend> Haselbök.</td></tr>
+<tr><td><u>3. Genien</u></td><td><ts>___</ts><rend class="latin">D:<h><uu>lle</uu></h></rend> Nanette Schikaneder |: Nichte des Dichters :|<lbr type="forced"/>
+Franz <u>Maurer</u> |: debütirte 3 Jahre später, als<lbr/>
+<tshtm>_________________________</tshtm><rend class="latin">Sarastro</rend> in derselben Oper :|<lbr type="forced"/>
+H<abbr type="curve">.</abbr>&#160;<u>Handelgruber</u> (trat in den Benediktiner<lbr type="forced"/>
+<ts>______</ts>Orden zu Göttweih', und wurde Pfarrer.)</td></tr>
+<tr><td><u>Sprecher</u></td><td>Herr Joseph <u>Schuster</u></td></tr>
+<tr><td><u>2 Priester:</u></td><td>Herr Weiß. <abbr expand="und">u</abbr> Schikaneder d. ä:</td></tr>
+<tr><td><u>3. Slawen:</u></td><td>H<abbr type="curve">:</abbr> Helmbök &#8211; Strassier &#8211; Trittenwein.</td></tr></table>
+<ts>___</ts>Dekorationen v <rend class="latin">Gail</rend> |: Vater :|<lbr type="forced"/>
+<ts>___</ts>Maschinen <abbr expand="und">u</abbr> Flugwerke |: Helmbök :| <rend class="latin">Senior</rend><lbr type="forced"/>
+<ts>_____</ts>Costüme von <u>Thaler</u>.<lbr type="forced"/>
+<lbr type="forced"/>
+Die 3 ersten Vorst. dirigirte M. persönlich am <rend class="latin">Clavier</rend><lbr/>
+ihm zur Seite saß Süßma&#255;er <abbr expand="und">u</abbr> wendete um.<lbr/>
+Als er am Schluße geruffen ward, und aller Orten<lbr/>
+gesucht wurde, fand man man ihn endlich in der<lbr/>
+<u>Retirade</u> verstekt. Orchst D:<h><uu>or</uu></h> hieß <rend class="latin">Suche</rend>,<lbr type="forced"/>
+<lbr/>
+<add_note impl="pencil">Vgl. Jahn, Mozart II, 540 (mit Quellennachweisen)</add_note>
+<pg n="3"/>
+aus der Partitur <rend class="latin">accompagnirte</rend>&#160;<amend value="der">des</amend>&#160;<rend class="latin">Cellist Dont</rend>, und<lbr/>
+der berühmte Contrabassist Pischelberger<lbr/>
+Capl<abbr type="tilde" expand="">m</abbr>str behä<abbr type="topline" expand="mm">m</abbr>erte hinter den Coulissen das<lbr/>
+<u>Glockenspiel.</u><lbr type="forced"/>
+<pg n="4"/>
+<vacat/></text>
+</MUP>

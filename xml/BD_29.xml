@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2019">2019-12</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=586</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Verbleib unbekannt (Nachweis: Leo Liepmannssohn, Katalog XXXIX, Berlin 17.-18.11.1911, Nr. 479)</bibl>
+            <bibl type="source" subtype="RISM">Verbleib unbekannt, Nachweis: Leo Liepmannssohn, Katalog XXXIX, Berlin 17.-18.11.1911, Nr. 479</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:36:24 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_29.mup">
+﻿<letter bd="29">
+<NI src="unbekannt">
+<HEADER id="586">LEOPOLD MOZART AN JOHANN JAKOB LOTTER IN AUGSBURG<lbr/>
+SALZBURG, 22. MÄRZ 1756</HEADER>
+<pg n="1"/>
+<ts>_________________________________________</ts><tshtm>_______________________________</tshtm><tspdf>\hfill </tspdf>Salzburg den 22. <rend class="latin">Martii</rend> 1756.<lbr type="forced"/>
+<ts>________________________</ts><rend class="latin"><persName key="76865">Monsieur</persName> mon tres cher amy</rend>!<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____</ts>Hier ist alles zurück. Die so verhasste Tabelle ist meisterhaft gesetzet. Die<lbr type="BD"/> gefehlten Noten sind schon angemerket.<lbr/>
+in der 18<h>ten</h> Zeile ist im letzten Vier<lbr type="BD"/>theile des zweyten Tactes bey beyden Noten ein <u>Schmutz,</u> den ich auf die<lbr type="BD"/> Buchdrucker<pc force="weak">=</pc><lbr/>sprache nicht zu nennen weis. Sie werden ihm schon abzuhelfen<lbr type="BD"/> wissen. Sie schreiben: es wäre gut, wenn 100 <rend class="latin">Expl</rend>.<lbr/>
+von der <u>Tabelle</u> mehrers<lbr type="BD"/> gedruckt würden. wenn ich sie zu gebrauchen wißte <rend class="latin"><u>NB</u> à parte</rend>: weil sie nicht<lbr type="BD"/> kann in das<lbr/>
+Buch gebunden werden. Dieß ist mir in etwas unverständlich:<lbr type="BD"/> denn in das Buch muss es gebunden werden; allein<lbr/>
+halt hinten an. Oder wollen<lbr type="BD"/> sie, daß diese Tabelle soll <rend class="latin">extra</rend> beygelegt werden? und soll sie denn nicht<lbr type="BD"/> hinten an<pc force="weak">=</pc><lbr/>gebunden werden? Ich wüßte die <u>Tabelle</u> sonderlich nicht <u><rend class="latin">à parte</rend></u><lbr type="BD"/> zu brauchen: denn der bey mir <rend class="latin">Lection</rend> nimmt der<lbr/>
+muß ohnedem das Buch<lbr type="BD"/> haben. Allein eine mehrere Auflage dieser Tabelle könnte doch allenfalls<lbr type="BD"/> nicht<lbr/>
+schädlich seyn: und zwar aus folgenden 2 Ursachen: erstlich, wird sie<lbr type="BD"/> in das Buch hinten angebunden, so muss man<lbr/>
+feineres Pappier nehmen, damit es füglicher einschläget und geschmeidiger wird: Es zerreißt aber auch folglich<lbr type="BD"/> die<lbr/>
+<u>Tabelle</u> geschwind. lässt mans aber nicht dazu binden, und druckt es auf<lbr type="BD"/> stärkeres Pappier, so muss es <rend class="latin">extra</rend> zum<lbr/>
+Buch gelegt werden. Und in diesem<lbr type="BD"/> Falle, wird <suppl hand="self" pos="supra">es</suppl> mancher verlieren, und folglich in beyden Fällen wiederum<lbr/>
+nach<lbr type="BD"/>kaufen müssen. Man könnte oder in der Vorrede solches erinnern, oder sonst<lbr type="BD"/> ein Paar Zeilen wo zur Nachricht<lbr/>
+andrucken: <u>daß nämlich die Tabelle allezeit<lbr type="BD"/> extra wiederum zu haben wäre.</u> Was gedenken sie hiervon?<lbr/>
+Mir gefiehl es<lbr type="BD"/> aber besser, wenn es ins Buch hineinkömmt. Man kann Schreibpapier oder<lbr type="BD"/> anderes Papier neh<pc force="weak">=</pc><lbr/>men, wenn es geschmeidig ist. meinethalben mag es bre<lbr type="BD"/>chen, wenn es will, das besorget mich nichts.<lbr/>
+wenn es bricht. Wem es bricht,<lbr type="BD"/> der mag es nachkaufen, oder der mag sich gleich anfangs die Büge beym<lbr type="BD"/> Buch<pc force="weak">=</pc><lbr/>binder ganz fein füttern lassen, wie es einige mit der Landkarte in<lbr type="BD"/> büchern thun. Ich hab es schon so<lbr/>
+zusammengelegt, sehen sie nur, und es<lbr type="BD"/> lässt sich noch etwas kleiner machen. Es hindert die Schüler auch<lbr/>
+wenig oder<lbr type="BD"/> gar nichts, und es kömmt ganz dinne und geschmeidig. Wenn das Papier fein<lbr type="BD"/> ist wird das<lbr/>
+Buch nicht ungeformt. meinethalben bricht es den andern Tag,<lbr type="BD"/> man mag es nachkaufen. Sie wissen also<lbr/>
+meine Meinung wegen der Tabelle.<lbr type="forced"/>
+<ts>_____</ts>Im (M) Bogen ist <rend class="latin">p</rend>. 92 in der 4<h>ten</h> Zeile ein Strich bey einer Note nicht recht<lbr type="BD"/> ausgedrückt. ich meine ich hab<lbr/>
+es bey der <rend class="latin">correc</rend>tur schon angemerkt. es ist<lbr type="BD"/>
+die Note (*)  <object type="mus" src="briefe_BD_29_NBsp_1-300"></object><lbr type="BD"/><lbr type="forced"/>
+es fehlt aber nur unten<lbr/>
+<pg n="2"/>
+und ist <suppl hand="self" pos="supra">der</suppl> obere Strich nicht recht ausgedrückt, folglich<lbr type="BD"/> da es zweymal muss gestrichen seyn, ist es nur einmal<lbr/>
+gestrichen. so sieht der<lbr type="BD"/> Fehler aus: <object type="mus" src="briefe_BD_29_NBsp_2-300"></object><lbr type="BD"/><lbr type="forced"/>
+vielleicht liegt etwas zu tief?<lbr type="forced"/>
+<uu>Im (<rend class="latin">N</rend>) Bogen</uu> scheint mir <rend class="latin">p</rend>. 101. § 1. l. 6 im Wort <u>genug</u> das (n) um<lbr type="BD"/>gekehrt zu seyn.<lbr type="forced"/>
+Was nun die <u>Geigenbögen</u> betrifft, so könnte bey iedem das <u>Wort</u>&#160;<u><rend class="latin">figura</rend></u> I, II<lbr type="BD"/>&#160;<abbr expand="etc:">p:</abbr> weggelassen werden: denn es<lbr/>
+nützet zu nichts, und man könnte mit dem<lbr type="BD"/> Bogen etwas mehr hinaufrücken, so stehet ieder Bogen mit der<lbr/>
+Schrift noch<lbr type="BD"/> freyer; die Wörter <u><rend class="latin">Figura</rend></u> I. II <abbr expand="etc:">p:</abbr> dienen ohnedas zu nichts. Absonderlich aber muß die Schrift wenigstens<lbr/>
+etwas hineingerückt werden. absonderlich<lbr type="BD"/> hinten beym <u>Fröschl;</u> wo oft <u>schwach</u> oder <u>stark</u> stehet, da man doch<lbr/>
+mit dem<lbr type="BD"/>&#160;<u>Fröschl</u> nicht geigen kann. Ein bischen hab ich es schon angezeiget, allein sie<lbr type="BD"/> müssen schon die Gütte<lbr/>
+haben, und solches nach der <rend class="latin">Proportion</rend> setzen, wie<lbr type="BD"/> ichs in meinem <rend class="latin">Mspt</rend> angezeiget habe. Denn dort hab<lbr/>
+ich der Sach wohl nach<lbr type="BD"/>gedacht. sind sie denn nicht ein <u>Feldmesser</u>?<lbr type="forced"/>
+<ts>_____</ts>Im Bogen (O)<rend class="latin"> p</rend>. 107. l. 6 heist es <u>stäts.</u> es soll aber <uu>stets</uu> heißen.<lbr type="forced"/>
+<rend class="latin">item fol</rend>. 107 § 14. l. 3 und l. 7. wie auch eben vorher <rend class="latin">p</rend>. 106. § 13. l. 3. heist es<lbr type="BD"/>&#160;<u>Singer.</u> es muss aber<lbr/>
+<u>Sänger</u> heißen. sie müssen also in diesem Bogen <u>dreymal</u><lbr type="BD"/> das Wort <u>Singer</u> in Sänger abändern.<lbr type="forced"/>
+<ts>_____</ts><uu>Im Bogen</uu> (P) kehrt f. 114 in der 5<h>ten</h> Noten Zeile das (hin) zu den<lbr type="BD"/> ersten zwo Noten. und <rend class="latin">p</rend>. 115.<lbr/>
+ muss es heißen: <u>daß sie jederman gleich be&#255;<lbr type="BD"/> dem ersten Anblicke zum lachen bewegen.</u><lbr type="forced"/>
+</NI>
+</letter>
+</text>
+</MUP>

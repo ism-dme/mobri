@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2020">2020-02</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=676</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Verbleib unbekannt (Vorlage: Abschrift um 1768 in D-B)</bibl>
+            <bibl type="source" subtype="RISM">Verbleib unbekannt, Vorlage: Abschrift um 1768 in D-B</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:36:49 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_117.mup">
+<letter bd="117">
+<NI src="unbekannt">
+<HEADER id="676">LEOPOLD MOZART AN LORENZ HAGENAUER IN SALZBURG<lbr/>
+WIEN, 29. SEPTEMBER 1767</HEADER>
+<pg n="1"/>
+<tshtm><additum>[... (Schluss der Abschrift des Briefes vom 22. September 1767)]</additum>
+<lbr/>
+<lbr/></tshtm>
+<add_num type="inline" schr_id="57010" impl="crayon" color="red"><ts>_____________________</ts>43</add_num><ts>__</ts><tspdf>\hfill </tspdf>Wienn den 29. <rend class="latin">Sept<abbr type="curve">:</abbr></rend>&#160;<u>1767</u>.<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____</ts>Ich weis ihnen nichts zu berichten,<lbr/>
+als das wir alle, Gott lob, wohlauf sind:<lbr type="BD"/><lbr/>
+<u>und das ist ganz sicher schon das Postgeld<lbr/>
+werth</u>; so wir hoffen und wünschen,<lbr type="BD"/> daß<lbr/>
+sie alle sich gleichfals wohl befinden; Sie<lbr/>
+wissen, daß ich eben nicht viel<lbr type="BD"/> Geld mit<lbr/>
+mir genohmen, das ist die Ursach, daß<lbr/>
+ich mich ihres gegebenen<lbr type="BD"/>&#160;<rend class="latin">Credit</rend> bedienet,<lbr/>
+<conv><ts>_____________________________________________________</ts>und</conv>
+<pg n="2"/>
+und 20. <rend class="latin">Cremnützer Ducat</rend>en heraus ge<pc force="weak">=</pc><lbr/>nohmen. Ich werde<lbr type="BD"/> ihnen kaum etwas<lbr/>
+mehrers vor dem Verlauf von 14. Tägen<lbr/>
+berichten können.<lbr type="BD"/> Die <rend class="latin">Opera</rend> von <rend class="latin">Hasse</rend><lbr/>
+ist schön, aber die singenden Personen sind,<lbr/>
+<u><rend class="latin">NB:</rend></u> für<lbr type="BD"/> eine solche <rend class="latin">Festivitet</rend>, gar nichts<lbr/>
+besonderes. <rend class="latin">Sigr: <u>Tibaldi,</u></rend> ist der <rend class="latin">Tenor</rend>,<lbr/>
+und<lbr type="BD"/> der <rend class="latin">Sgr: Raucini</rend> von München der<lbr/>
+beste <rend class="latin">Castrat</rend>. Die <rend class="latin">prima Donna</rend> die<lbr/>
+<rend class="latin">Sgra<lbr type="BD"/> Deiberin</rend> eines Wienerischen Hof<rend class="latin">Violi<pc force="weak">=</pc><lbr/>nisten</rend> Tochter. Die Tänze aber sind<lbr type="BD"/><lbr/>
+trefflich, die Haupt Person davon ist der<lbr/>
+berühmte Franzose <u><rend class="latin">Vestris</rend>.</u> &#8211; &#8211; &#8211; <lbr type="forced"/>
+Regnet es in Salzburg auch immer, wie<lbr/>
+hier? Es regnet hier ganz abscheulich,<lbr type="BD"/><lbr/>
+und ohne Ende. Ist Herr Meissner schon<lbr/>
+abgereiset? stellen sie sich eine un<lbr type="BD"/>beson<pc force="weak">=</pc><lbr/>nenheit unsers Bedienten vor. Er hat nur<lbr/>
+3. Hemden be&#255; sich, und da<lbr type="BD"/> die übrigen<lbr/>
+in der Wasche waren, so ließ er sie in<lbr/>
+Salzburg: hätte er mir<lbr type="BD"/> solches eher<lbr/>
+gesagt, so hätte herr Meissner solche<lbr/>
+<pg n="3"/>
+mit sich nehmen können;<lbr type="BD"/> ich dencke Herr<lbr/>
+Meissner wird nun schon weg se&#255;n. Was<lbr/>
+ist also zu thun?<lbr type="BD"/> Wie bekommen wir<lbr/>
+die Hemmder, daß es nicht viel kostet?<lbr/>
+Diese Hemmder<lbr type="BD"/> sind be&#255; einem gewissen<lbr/>
+Hof<rend class="latin">laquai</rend>&#160;<u>Hochenreitter</u>, der in der Gold<pc force="weak">=</pc><lbr/>gasse<lbr type="BD"/> wohnet, dessen Sohn be&#255;m <rend class="latin">Mr<lbr/>
+Perillion</rend> in der Lehre ist. Wenigst<lbr/>
+hat der<lbr type="BD"/> Bernhard be&#255; dem <rend class="latin">Perillion</rend><lbr/>
+die <rend class="latin">Commission</rend> hinterlassen dem besag<pc force="weak">=</pc><lbr/>ten Hof<lbr type="BD"/><rend class="latin">laquai</rend> die Wäsche einzuhändi<pc force="weak">=</pc><lbr/>gen. Vielleicht nimmt es der <rend class="latin">Conducteur</rend><lbr/>
+um<lbr type="BD"/> etwas weniges mit, weil es für ei<pc force="weak">=</pc><lbr/>nen solchen Menschen gehört. Meine<lbr/>
+<rend class="latin">Addresse</rend> haben sie ohnedem schon. Wis<pc force="weak">=</pc><lbr/>sen sie das der Ka&#255;ser <rend class="latin">incognito</rend> gar<lbr/>
+bis <rend class="latin">Neapel</rend><lbr type="BD"/> gehen, und also 6. Monate<lbr/>
+wenigst ausser Wienn abwesend se&#255;n wird?<lbr/>
+Es wäre<lbr type="BD"/> vieles von der dermahligen<lbr/>
+Beschaffenheit <abbr expand="etc">p</abbr> des hiesigen Hofes zu<lbr/>
+schreiben;<lbr type="BD"/> Allein ich muß es auf eine<lbr/>
+andere Gelegenheit verspahren. Le<pc force="weak">=</pc><lbr/>ben sie alle<lbr type="BD"/> wohl und empfehlen sie uns<lbr/>
+<pg n="4"/>
+all unsern guten Freunden, und sagen<lbr/>
+sie nur,<lbr type="BD"/> daß ich bin der alte.<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____</ts>Wenn Briefe an mich kommen,<lbr/>
+darfen sie mir solche nicht schicken; son<pc force="weak">=</pc><lbr/>dern<lbr type="BD"/> nur öffnen und sehen ob es wohl<lbr/>
+was nothwendiges ist, und mir den Inn<pc force="weak">=</pc><lbr/>halt<lbr type="BD"/> melden. Schreiben sie mir auch,<lbr/>
+<u>ob es wahr ist, daß die Gräfin von Herber<pc force="weak">=</pc><lbr/>stein<lbr type="BD"/> nach Brünn zu ihrem Papa ab<pc force="weak">=</pc><lbr/>gereiset ist.</u><lbr/>
+<lbr/>
+<tshtm><additum>[... (Beginn der Abschrift des Briefes vom 7. Oktober 1767)]</additum></tshtm>
+</NI>
+</letter>
+</text>
+</MUP>

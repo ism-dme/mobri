@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2013">2013-12</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1160</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:39:42 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_594.mup">
+<letter bd="594"><HEADER id="1160">WOLFGANG AMADÉ MOZART AN LEOPOLD MOZART IN SALZBURG<lbr/>
+WIEN, 12. MAI 1781</HEADER>
+<pg n="1"/>
+<ts>______</ts><tshtm>________________________________________________________________</tshtm><tspdf>\hfill </tspdf><rend class="latin">vienne ce</rend> 12 <rend class="latin">de may</rend><lbr type="forced"/>
+<ts>___</ts><tshtm>__</tshtm><rend class="latin">Mon trés cher Pére!</rend><ts>_______</ts><tshtm>______________________________________________</tshtm><tspdf>\hfill </tspdf><u>1781</u>.<lbr type="forced"/>
+<lbr type="forced"/>
+In den briefe, welchen sie mit der Post erhalten haben, sprach<lbr/>
+<add_note schr_id="57010"><ts>__________________________</ts>wenn wir in Gegenwart des Erzbischofs</add_note>
+ich mit ihnen<lbr type="BD"/> als <encr expand="wen wir in gegenwart des erzbischof">wln wfr fn glglnwmrt dlo lrzbfocusi</encr><lbr/>
+<add_note schr_id="57010"><ts>__</ts>wären<ts>_____________</ts>spreche ich aber ganz allein mit Ihnen</add_note>
+<encr expand="wären">wm"rln</encr> &#8211; Nun <encr expand="sprech ich aber ganz allein mit ihnen">oprlcu fcu mblr gmnz meelfn mft funln</encr>,<lbr/>
+mein liebster vatter; &#8211; von allem unrecht welches mir<lbr type="BD"/><lbr/>
+der Erzbischof von anbegi<abbr type="topline" expand="nn">n</abbr> seiner Regierung bis itzt angethan,<lbr/>
+von den<lbr type="BD"/> unaufhörlichen schimpfen, von allen <rend class="latin">impertinenz</rend>en,<lbr/>
+und <rend class="latin">Sottisen</rend> die er mir in<lbr type="BD"/> das gesicht sagte, von den unwider<pc force="weak">=</pc><lbr/>sprechlichen Recht das ich habe von ihm<lbr type="BD"/> weg zu gehen, wollen wir<lbr/>
+ganz schweigen. de<abbr type="topline" expand="nn">n</abbr> &#8211; da lässt sich nichts<lbr type="BD"/> dawieder sagen;<lbr/>
+Nur will ich von dem sprechen was mich &#8211; auch ohne alle<lbr type="BD"/> ursache<lbr/>
+einer kränkung &#8211; von ihm weg=zugehen verleitet haben würde.<lbr/>
+Ich<lbr type="BD"/> habe hier die schönsten und Nützlichsten <rend class="latin">Connaissancen</rend> von der<lbr/>
+Welt &#8211; bin<lbr type="BD"/> in den grösten Häusern beliebt und angesehen &#8211; <lbr/>
+man erzeugt mir alle mög<lbr type="BD"/>liche Ehre &#8211; und bin noch dazu<lbr/>
+dafür bezahlt &#8211; und ich soll um 400 fl: in<lbr type="BD"/> Salzburg schmachten<lbr/>
+&#8211; ohne bezahlung, ohne aufmunterung &#8211; schmachten<lbr type="BD"/> und ihnen<lbr/>
+in nichts nützlich se&#255;n kö<abbr type="topline" expand="nn">n</abbr>en, da ich es doch hier gewis ka<abbr type="topline" expand="nn">n</abbr>.<lbr/>
+was<lbr type="BD"/> würde das Ende davon se&#255;n? &#8211; i<abbr type="topline" expand="mm">m</abbr>er das nemliche;<lbr/>
+ich müsste mich zu tode kränken lassen, oder wieder weg=gehen.<lbr/>
+&#8211; ich brauche ihnen nichts mehr zu<lbr type="BD"/> sagen, sie wissen es selbst.<lbr/>
+<add_note schr_id="57010"><ts>____________________________________________</ts>Stadt Wien weiß<ts>_____</ts>schon</add_note>
+Nur noch dieses; &#8211; die ganze <encr expand="stadt Wien weis schon">otmdt Wfln wlho ocusn</encr><lbr/>
+<add_note schr_id="57010">meine<ts>_________</ts>Geschichte<ts>____________</ts>noblesse redet mir zu</add_note>
+<encr expand="meine geschichte">alfnl glocufcutl</encr> &#8211; die ganze <rend class="latin"><encr expand="Noblesse">Nsbelool</encr></rend>&#160;<encr expand="redet mir zu">rldlt afr zh</encr><lbr/>
+<add_note schr_id="57010"><ts>____________</ts>mich<ts>___</ts>ja nicht mehr einführen<ts>___</ts>lassen</add_note>
+ich soll <encr expand="mich ja nicht mehr ein führen lassen">afcu fm nfcut alur lfn ih"urln emooln</encr>. &#8211; <lbr type="forced"/>
+<add_note schr_id="57010"><ts>_____________________________________</ts>Ihnen<ts>_____</ts>bald mit guten Worten</add_note>
+liebster vatter; man wird <encr expand="ihnen bald mit guten worte">funln bmed aft ghtln wortl</encr><lbr/>
+<add_note schr_id="57010">kommen<ts>___________________________</ts>Schlangen, Vipern</add_note>
+<encr expand="kommen">ksmmln</encr>, aber &#8211; es<lbr type="BD"/> sind <encr expand="schlangen, wippern">ocuemngln, wfpplrn</encr> &#8211; <lbr/>
+alle niederträchtige Seelen sind so; sie sind bis<lbr type="BD"/> zum Eckel<lbr/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="2"/>
+<add_note schr_id="57010"><ts>____________________________________________</ts>kriechen sie wieder</add_note>
+hoh und stolz, und da<abbr type="topline" expand="nn">n</abbr> &#8211; <encr expand="kriechen sie wieder">krflculn ofl wfldlr</encr> &#8211; abscheulich;<lbr type="BD"/><lbr/>
+<add_note schr_id="57010"><ts>__________</ts>Leibkammerdiener sahen die ganze Sauerei</add_note>
+die 2 <encr expand="leibkammerdiener sahen die ganze sauere&#255;">elfbkmaalrdflnlr omuln dfl gmnzl omhlrl&#255;</encr><lbr/>
+<add_note schr_id="57010">ein<ts>____________________________________</ts>Schlauka</add_note>
+<encr expand="ein">lfn</encr>. besonders sagte der<lbr type="BD"/>&#160;<encr expand="schlaucher">ocuemhculr</encr> zu Jemand;<lbr/>
+<add_note schr_id="57010"><ts>_____________________________</ts>ganzen Mozart<ts>__</ts>nicht Unrecht</add_note>
+ich &#8211; <u>ich ka<abbr type="topline" expand="nn">n</abbr> dem <encr expand="ganzen Mozart nicht unrecht">gmnzln Mszmrt nfcut hnrlcut</encr></u><lbr/>
+<add_note schr_id="57010">geben<ts>__</ts>Er<ts>__</ts>hat<ts>___</ts>ganz<ts>________</ts>Recht. Mir hätte er</add_note>
+<u><encr expand="geben &#8211; er hat ganz recht. &#8211; mir hätte ers">glbln &#8211; lr umt gmnz rlcut. &#8211; afr um"ttl lro</encr></u><lbr/>
+<add_note schr_id="57010">so<ts>_____</ts>thun sollen.<ts>____</ts>Er machte ihn ja aus wie</add_note>
+<u><encr expand="so thun sollen. &#8211; er machte ihn ja aus wie">os tuhn oseeln. &#8211; lr amcutl fun fm mho wfl</encr></u><lbr/>
+<add_note schr_id="57010">einen Bettelbuben.<ts>_________________________</ts>Infam.</add_note>
+<u><encr expand="einen bettelbuben">lfnln blttlebhbln</encr>, ich habs gehört &#8211; <rend class="latin"><encr expand="infam">fnima</encr></rend>.</u><lbr/>
+<add_note schr_id="57010">der Erzbischof<ts>___</ts>erkennt sein ganzes</add_note>
+<encr expand="der erzbischof erkennt sein ganzes">dlr lrzbfocusi lrklnnt olfn gmnzlo</encr> unrecht &#8211; hat er<lbr/>
+<add_note schr_id="57010"><ts>____________________________________________________________________________________</ts>erkennen?</add_note>
+schon nicht öfter gelegenheit gehabt es zu<lbr type="BD"/>&#160;<encr expand="erlennen">lrklnnen</encr>? &#8211; <lbr/>
+<add_note schr_id="57010"><ts>________________________________________</ts>gebessert?</add_note>
+hat er sich darum <encr expand="gebessert">glbloolrt</encr>? &#8211; Nein! &#8211; also weg<lbr/>
+<add_note schr_id="57010"><ts>____________________________________</ts>gesorgt hätte<ts>_________________</ts>Ihnen</add_note>
+damit. &#8211;<lbr type="BD"/> we<abbr type="topline" expand="nn">n</abbr> ich nicht <encr expand="gesorgt hätte">glosrgt um"ttl</encr>, daß es <encr expand="ihnen">funln</encr><lbr/>
+<add_note schr_id="57010">dadurch<ts>______________________________</ts>zum<ts>___</ts>Beßten</add_note>
+<encr expand="dadurch">dmdhrch</encr> vielleicht nicht<lbr type="BD"/>&#160;<encr expand="zum besten">zha blotln</encr> gehen kö<abbr type="topline" expand="nn">n</abbr>te, so wäre<lbr/>
+<add_note schr_id="57010"><ts>________________</ts>längst anders</add_note>
+es schon <encr expand="längst anderst">em"ngot mndlrot</encr>. &#8211; aber in<lbr type="BD"/> der hauptsache<lbr/>
+<add_note schr_id="57010"><ts>______________</ts>er<ts>____</ts>Ihnen<ts>______</ts>Nichts.<ts>_______________________</ts>wenn</add_note>
+was ka<abbr type="topline" expand="nn">n</abbr> <encr expand="er ihnen thun? &#8211; nichts; &#8211; wenn sie wissen">lr funln tuhn &#8211; nfcuto; &#8211; wl<abbr type="topline" expand="nn">n</abbr> ofl wfooln</encr><lbr/>
+<add_note schr_id="57010">Sie wissen, daß es mir gut geht, so könnne Sie leicht des</add_note>
+<encr expand="das es mir gut gehet, so können sie ia leicht">dmo lo afr ght glult, os ks"nnln ofl fm elfcut</encr><lbr/>
+<add_note schr_id="57010">Erzbischofs Gnade entbehren.<ts>_________</ts>Die Besoldung</add_note>
+<encr expand="den erzbischof seine Gnade entbehren; &#8211; die">dln lrzbfocusi oflnl Gnmdl lntblurln; &#8211; dfl bl=</encr><lbr/>
+<add_note schr_id="57010">kann er Ihnen<ts>___________</ts>nicht nehmen</add_note>
+<encr expand="besoldung kann er ihnen nicht nehmen">osedhng km<abbr type="topline" expand="nn">n</abbr> lr funln nfcut nlualn</encr> &#8211; und übrigens<lbr/>
+<add_note schr_id="57010"><ts>________</ts>Sie Ihre Schuldigkeit<ts>________________________</ts>mir gut</add_note>
+<encr expand="thun sie ihre schuldigkeit">tuhn ofl furl ocuhedfgklft</encr> &#8211; und daß es <encr expand="mir gut">afr ght</encr><lbr/>
+<add_note schr_id="57010">gehen wird<ts>________________________________________________________________</ts>diesen</add_note>
+<encr expand="gehen wird">gluln wfrd</encr>, bin ich ihnen<lbr type="BD"/> Bürge &#8211; ich würde sonst <encr expand="diesen">dfloln</encr><lbr/>
+<add_note schr_id="57010">Schritt<ts>___________________</ts>gethan haben</add_note>
+<encr expand="schritt">ocurftt</encr> itzt nicht <encr expand="gethan haben">gltumn umbln</encr> &#8211; ob<lbr type="BD"/>wohl ich ihnen gestehen<lbr/>
+muß, daß nach dieser beleidigung &#8211; ich &#8211; und hätte<lbr type="BD"/> ich<lbr/>
+betteln müssen, weg gegangen wäre; de<abbr type="topline" expand="nn">n</abbr>, wer wird sich de<abbr type="topline" expand="nn">n</abbr><lbr/>
+<rend class="latin">Cuioni</rend><lbr type="BD"/>ren lassen; besonders we<abbr type="topline" expand="nn">n</abbr> &#8211; mans besser haben ka<abbr type="topline" expand="nn">n</abbr>.<lbr/>
+<add_note schr_id="57010"><ts>_____________</ts>Fürchten Sie Sich,<ts>____</ts>so thun Sie zum Schein</add_note>
+mithin &#8211; <encr expand="förchten sie sich &#8211; so thun sie zum schein">is"rchtln ofl ofcu &#8211; os tuhn ofl zha oculfn</encr><lbr/>
+<add_note schr_id="57010">als wenn Sie<ts>___________</ts>böse wären auf mich<ts>__</ts>zanken Sie</add_note>
+<encr expand="als wenn sie böse wären auf mich &#8211; zanken sie mich">meo wl<abbr type="topline" expand="nn">n</abbr> ofl bs"ol wm"rln mhf afcu &#8211; zmnkln ofl mfcu</encr><lbr/>
+<add_note schr_id="57010">mich in Ihrem Brief recht aus wenn nur wir zwei wissen</add_note>
+<encr expand="in ihren brief echt aus; wenn nur wir zwe&#255; wissen,">fn fhrln brfli rlcut mho; wl<abbr type="topline" expand="nn">n</abbr> nhr wfr zwl&#255; wfooln,</encr><lbr/>
+<add_note schr_id="57010">wie die Sache steht<ts>_________________</ts>Sie Sich aber</add_note>
+<encr expand="wie die sache steht">wfl dfl omcul otlut</encr>. &#8211; lassen <encr expand="sie sich aber">ofl ofcu mblr</encr><lbr/>
+<add_note schr_id="57010">nicht<ts>_______</ts>durch Schmeicheleien</add_note>
+<encr expand="nicht durch schmeichele&#255;en verführen">nfcut dhrcu ocualfculel&#255;ln vlrih"rln</encr>. &#8211;<lbr type="BD"/>&#160;<encr expand="se&#255;en sie">ol&#255;ln ofl</encr><lbr/>
+<add_note schr_id="57010"><ts>________________________________________</ts>verführen<ts>____</ts>Seyn Sie</add_note>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="3"/>
+<add_note schr_id="57010">auf Ihrer<ts>__</ts>Hut.</add_note>
+<encr expand="auf ihrer hut">mhi furlr uht</encr>. &#8211; <rend class="latin">Adieu</rend> &#8211; ich küsse ihnen 1000mal<lbr/>
+die hände und<lbr type="BD"/> meine liebe schwester umarme ich vom<lbr/>
+herzen &#8211; mit nächster gelegenheit<lbr type="BD"/> wird das <rend class="latin">Portrait</rend>, die<lbr/>
+Bänder, das di<abbr type="topline" expand="nn">n</abbr>tuch und alles folgen &#8211; <rend class="latin">Adieu</rend><lbr/>
+ich bin<lbr type="BD"/> Ewig<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____</ts><tshtm>________________________________________</tshtm><tspdf>\hfill </tspdf>dero gehorsamste Sohn<lbr type="BD"/><lbr type="forced"/>
+<ts>_____</ts><tshtm>______________________________________</tshtm><tspdf>\hfill </tspdf>Wolfgang Amadè Mozart <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<lbr type="forced"/>
+Mein <rend class="latin">Compliment</rend> an ganz<lbr/>
+Salzburg, besonders an die<lbr/>
+katherl, und <rend class="latin">Marchand</rend>.<lbr/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="4"/>
+<add_num schr_id="39408" impl="pencil" rot="270">N<h>o</h>. 11</add_num>
+<lbr/>
+<anschrift rot="270"><rend class="latin">À<lbr type="forced"/>
+Monsieur<lbr type="forced"/>
+Monsieur Leopold Mozart<lbr type="forced"/>
+maitre de la Chapelle de<lbr type="BD"/> S:<lbr type="forced"/>
+A: R: l'archeveque de et à<lbr type="forced"/>
+<u>Salzbourg</u>.</rend></anschrift>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+</letter>
+</text>
+</MUP>

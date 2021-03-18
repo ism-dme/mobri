@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2015">2015-6</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=823</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:37:40 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_262.mup">
+<letter bd="262"><HEADER id="823">UNBEKANNT AN WOLFGANG AMADÉ MOZART IN SALZBURG<lbr/>
+O. O., 1771</HEADER>
+<pg n="1"/>
+<add_num><ts>________________________________________</ts><corr type="stroke">2<h>a</h></corr> 12</add_num>
+<ts>_______________</ts><rend class="latin">Aristides</rend><lbr type="forced"/>
+<ts>_________________</ts>oder<lbr type="forced"/>
+<ts>________</ts>Der burgerliche Philosoph.<lbr type="forced"/>
+<ts>_________________</ts>Auß<lbr type="forced"/>
+<ts>_______</ts>dem französischen übersezt<lbr type="forced"/>
+<ts>_________________</ts><u>1771.</u><lbr type="forced"/>
+<lbr type="forced"/>
+<add_note schr_id="57010"><ts>____________________________</ts>Zum Jahr 1766.<lbr/>
+<ts>_______________________________</ts>Siehe die 5:<h>te</h> Seite.</add_note>
+<lbr/>
+<add_note>|: Siehe Nissens Anhang zur Biographie Seite 214<lbr/>
+<ts>___</ts>N° 26 u. 27 erwähnt :|</add_note><lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal><lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="2"/>
+<add_num><ts>______________________________________________________________________</ts>3</add_num>
+<ts>________________</ts>Der übersezer<lbr type="forced"/><lbr type="BD"/>
+<ts>_____</ts>an dem Herrn Wolfgang Mozart<lbr type="forced"/><lbr type="BD"/>
+<ts>_________</ts>Hochfürstlich-Salzburgischen<lbr type="forced"/><lbr type="BD"/>
+<ts>_____________</ts><rend class="latin">Concert</rend>-meister.<lbr type="forced"/>
+<lbr type="forced"/>
+Verwundern sie sich nicht mein Herr! <abbr expand="daß">dß</abbr> ich<lbr/>
+eine schrift auß dem französischen übersezet<lbr/>
+habe, welche ihnen zu Ehren auf ihrer Reise<lbr/>
+durch Schweizerland von einer durchlauchti<pc force="weak">=</pc><lbr/>gen feder |: Wie mann muthmasset :| ist auf<pc force="weak">=</pc><lbr/>gesezet<lbr type="BD"/> worden.<lbr type="forced"/>
+Ich sueche nicht damit Dero Ruhm zu ver<pc force="weak">=</pc><lbr/>grössern, den sie von gekrönten<lbr type="BD"/> Häuptern<lbr/>
+schon einige zeit her sich erworben haben: ach nein!<lbr/>
+dises wäre eine<lbr type="BD"/> thorheit von mir, und eben so<lbr/>
+viel, alß wenn ich dem in vollen fla<abbr type="topline" expand="mm">m</abbr>en<lbr type="BD"/> stehen<pc force="weak">=</pc><lbr/>den <rend class="latin">vesuvio</rend> ein kleines nacht=licht wolte an<pc force="weak">=</pc><lbr/>hängen, um den selben sichtbahrer zu mach<abbr v="en"/>.<lbr/>
+Es hat mich nur darzu bewogen, <abbr expand="daß">dß</abbr> der<lbr/>
+durchlauchtige<lbr type="BD"/> Redner in ihnen nicht nur den<lbr/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal><lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="3"/>
+Natürlichen sondern auch den sittlichen Men<pc force="weak">=</pc><lbr/>schen beobachtet und gefunden hat: fürwahr ein<lbr/>
+schöner gegenwurf, der einer<lbr type="BD"/> betrachtung wür<pc force="weak">=</pc><lbr/>dig ist, und den mann be&#255; grossen Künstlern<lbr/>
+wenig oder gar<lbr type="BD"/> nicht zu sehen bekomet.<lbr type="forced"/>
+betrachte mann nur durchgehnds die grosse<lbr/>
+künstlers, der eine ist so hönisch<lbr type="BD"/> und pra<pc force="weak">=</pc><lbr/>lerisch wie ein Spanischer markschre&#255;er, der<lbr/>
+andere so faul und<lbr type="BD"/> unfreündlich wie ein<lbr/>
+grönländischer Bär, der dritte so schmierig<lbr/>
+und unverschämt wie ein Nordischer lapplän<pc force="weak">=</pc><lbr/>der, der vierte glaubet gar die kunst müsse<lbr/>
+mit ihm absterben, und dergleichen Narr<abbr v="en"/><lbr/>
+gibt es ins allgemein unter allen<lbr type="BD"/> künstlern.<lbr type="forced"/>
+<ts>_____</ts>Sie aber mein Herr! werden in dieser<lbr/>
+schrift vorgestellet alß ein Muster der<lbr/><lbr type="BD"/>
+kunst, und tugend: was trost, freud und<lbr/>
+Ehre vor ihre liebe Eltern, welche<lbr type="BD"/> in<lbr/>
+ihnen den sittlich und natürlichen Mensch<abbr v="en"/><lbr/>
+so rühmlich haben wissen zu<lbr type="BD"/> vereinigen<lbr/>
+<pg n="4"/>
+und Empor zu bringen.<lbr type="forced"/>
+Gott beschüze und bewahre sie noch viele iahre<lbr/>
+vor allem unglük und aller<lbr type="BD"/> widerwärtigkeit,<lbr/>
+auf <abbr expand="daß">dß</abbr> die vernünftige Welt in ihnen die<lbr/>
+hand des Allmächtigen |: auß welchen, und<lbr/>
+durch welchem sie kunst und tugendt besizen :|<lbr/>
+ewig<lbr type="BD"/> bewunderen köne.<lbr type="forced"/>
+<ts>_____</ts>leben sie wohl und vergnügt!<lbr type="forced"/>
+<lbr type="forced"/>
+<additum>[... (Beginn der Übersetzung des XVI. Discours aus „Aristide ou Le Citoyen”, Lausanne 1766)]</additum><lbr/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal><lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM<lbr type="forced"/>1881</add_seal></letter></text>
+</MUP>

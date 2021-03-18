@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2012">2012-10</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1001</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">D-DS</bibl>
+            <bibl type="source" subtype="RISM">D-DS (Universitäts- und Landesbibliothek</bibl>
+            <bibl type="source" subtype="RISM">Handschriften- und Musikabteilung)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:38:49 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_437.mup">
+<letter bd="437">
+<NI src="D-DS">
+<HEADER id="1001">LEOPOLD MOZART AN BREITKOPF &#38; SOHN IN LEIPZIG<lbr/>
+SALZBURG, 13. MÄRZ 1778</HEADER>
+<pg n="1"/>
+<ts>_______________</ts><tshtm>___________________________________________________________________</tshtm><tspdf>\hfill </tspdf>Salzburg d<abbr v="en"/> 13<h>t<abbr v="en"/></h> Merz<lbr type="forced"/>
+
+WohlEdle insonders hochzuehrende Hh<abbr type="curve">:</abbr><ts>_______</ts><tshtm>__________________________________</tshtm><tspdf>\hfill </tspdf>1778<lbr type="forced"/>
+<add_empf impl="ink" color="red"><ts>____________________________________________________________________________________________</ts>pr d<abbr type="curve">.</abbr> 26 Ap</add_empf>
+<lbr type="forced"/>
+Da ich vom<persName key="25376"> h<abbr type="curve">:</abbr> Grenser</persName> in dressd<abbr v="en"/> weder eine Antwort auf alle meine<lbr type="BD"/><lbr/>
+Eri<abbr type="topline" expand="nn">n</abbr>erung<abbr v="en"/>, noch viel weniger die verlangt<abbr v="en"/> Instrument<abbr v="en"/> zu seh<abbr v="en"/> beko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>, so<lbr/>
+wollte ich das Geld für <u>die 25 St<abbr type="curve">:</abbr> der Violinschule</u> nach ihrer<lbr type="BD"/> Vorschrift vom<lbr/>
+<persName key="84800">h<abbr type="curve">:</abbr> Schwarzkopf</persName> in gegenwärtigem Markt bezieh<abbr v="en"/>: allein<lbr type="BD"/> er entschuldigte sich,<lbr/>
+auf das von ihn<abbr v="en"/> ihm vorgewiesene Handschreib<abbr v="en"/>,<lbr type="BD"/>daß er keine <rend class="latin">ordre</rend> hätte.<lbr/>
+Ich will demnach geziemend ersuch<abbr v="en"/> mir solches<lbr type="BD"/> durch sie selbst, od<abbr v="er"/> durch ihn<lbr/>
+<persName key="73569">h<abbr type="curve">:</abbr> Breitkopf</persName>, <u>so bald es möglich hier an<lbr type="BD"/>weisen zu lass<abbr v="en"/>.</u> Mein <persName key="39409">Sohn</persName> hat die<lbr/>
+Salzb<abbr type="curve">:</abbr> Dienste verlass<abbr v="en"/>, und wird nun,<lbr type="BD"/> da sie dieses lesen, in Paris se&#255;n.<lbr/>
+Es sieht be&#255; uns sehr traurig aus; doch,<lbr type="BD"/> wo sieht es itzt nicht kritisch aus? &#8211; <lbr/>
+Unsern gemeinschaftlicher Freund h<abbr type="curve">:</abbr><lbr type="BD"/>&#160;<persName key="53035">von Gri<abbr type="topline" expand="mm">m</abbr></persName>, nun aber <u><rend class="latin">Baron</rend> von Gri<abbr type="topline" expand="mm">m</abbr>,<lbr/>
+<rend class="latin">Ministre plenipotentiaire de Saxe-<lbr type="BD"/>Gotha</rend>,</u> schrieb mir die vorige woche<lbr/>
+aus Paris, wo er aus Russland zurück<lbr type="BD"/> angelangt ist. Ich empfahl ihm<lbr/>
+mein<abbr v="en"/> Sohn. Finden sie mich im Stande<lbr type="BD"/> ihn<abbr v="en"/> hier orts gefällige Dienste<lbr/>
+zu leisten, so sehe einer so erwünscht<abbr v="en"/><lbr type="BD"/> Gelegenheit mit freud<abbr v="en"/> entgeg<abbr v="en"/>,<lbr/>
+um Werkthätig zeig<abbr v="en"/> zu kö<abbr type="topline" expand="nn">n</abbr><abbr v="en"/>, daß ich<lbr type="BD"/>
+mit besonderer Hochachtung bin<lbr type="forced"/>
+<ts>________________________________________</ts>Euer WohlEd<abbr type="curve"></abbr><lbr type="BD"/><lbr type="forced"/>
+<ts>_________________</ts><tshtm>___________________________________________________</tshtm><tspdf>\hfill </tspdf>gehors<abbr type="curve">:</abbr> ergebenster dr<lbr type="BD"/><lbr type="forced"/>
+<ts>___________________</ts><tshtm>_________________________________________________</tshtm><tspdf>\hfill </tspdf><persName key="39408">Leopold Mozart</persName>&#160;<abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<pg n="2"/>
+<add_note schr_id="0" impl="pencil">38 <rend class="latin">Leopold Mozart</rend></add_note>
+<add_num impl="pencil">A 691</add_num>
+<anschrift hand="diff">Herrn<lbr type="forced"/>
+Herrn Breitkopf <abbr expand="und">u</abbr> Sohn<lbr type="forced"/>
+Geg<abbr type="curve"></abbr><lbr type="forced"/>
+in<lbr type="forced"/>
+Leipzig</anschrift>
+</NI>
+</letter>
+</text>
+</MUP>

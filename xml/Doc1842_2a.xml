@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2014">2014-6</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=155</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:29:42 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/Doc1842_2a.mup">
+<HEADER id="155">SOPHIE HAIBEL, PARTE FÜR CONSTANZE NISSEN<lbr/>
+SALZBURG, 6. MÄRZ 1842</HEADER>
+
+<pg n="1"/>
+<ts>_______________________________</ts><tshtm>________________________________</tshtm>Sophia Haibel,<lbr type="forced"/>
+<ts>_______________</ts><tshtm>____________________</tshtm>Musik-Direktors- und Compositeurs in Slavonien Witwe<lbr type="forced"/>
+<lbr type="forced"/>
+gibt in ihrem und im Namen ihrer zwei Neffen Carl Mozart, k. k. Staatsbuchhaltungs-Beamten in Mailand und<lbr/>
+Wolfgang Amadeus Mozart, Tonkünstlers in Wien, Nachricht von dem sehr betrübenden Hinscheiden<lbr/>
+ihrer innig geliebten Schwester und rücksichtlich Mutter, der Wohlgebornen Frau<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____________________________</ts><tshtm>________________________________</tshtm>Constanzia von Nissen,<lbr type="forced"/>
+<tshtm>_____________</tshtm>Witwe des k. k. Kammer-Compositeurs und Kapellmeisters W o l f g a n g  A m a <tspdf>\&#8211;</tspdf><tspdf>\newline</tspdf> d e u s  M o z a r t,<lbr/>
+<tshtm>__________________</tshtm>und dann des königl. dänischen Staatrathes G e o r g  N i c o l a u s<tspdf>\newline</tspdf>  v o n  N i s s e n.<lbr/>
+<tshtm>_____________________________________________________________</tshtm>gebornen v o n  W e b e r,<lbr type="forced"/>
+<lbr type="forced"/>
+welche am 6. März 1842, Morgens um 3/4 auf 4 Uhr, nach empfangenen heiligen Sakramenten der Sterbenden<lbr/>
+im 80<h>sten</h> Jahre ihres Alters an der Lungenlähmung selig im Herrn entschlafen ist.<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____</ts>Die Leiche wird am 8. März Abends um 5 Uhr auf dem Kirchhofe zu St. Sebastian beerdigt, und am<lbr/>
+9. um 9 Uhr Morgens der feierliche Seelengottesdienst ebendaselbst gehalten werden.<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____</ts>Salzburg, am 6. März 1842.<lbr type="forced"/>
+<ts>______________</ts><lbr type="forced"/>
+<ts>___________________</ts><tshtm>___________________________________________________________________________________________________</tshtm><tspdf>\hfill </tspdf>Druck von Duyle.
+<pg n="2"/>
+<add_sign impl="pencil">Mappe 58 1161</add_sign></text>
+</MUP>

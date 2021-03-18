@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2015">2015-5</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1448</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:40:58 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_878.mup">
+<letter bd="878"><HEADER id="1448">LEOPOLD MOZART AN MARIA ANNA VON BERCHTOLD ZU SONNENBURG IN ST. GILGEN<lbr/>
+SALZBURG, 14. UND 15. SEPTEMBER 1785</HEADER>
+<pg n="1"/>
+<ts>________</ts><tshtm>_____________________________________________________</tshtm><tspdf>\hfill </tspdf>Salzb<abbr type="curve">:</abbr> d<abbr v="en"/> 14<h>t<abbr v="en"/></h> Sept<abbr type="curve">:</abbr><lbr type="forced"/>
+<ts>________</ts><tshtm>_______________________________________________________</tshtm><tspdf>\hfill </tspdf>1785. um 7 uhr<lbr type="BD"/><lbr type="forced"/>
+<ts>________</ts><tshtm>_________________________________________________________</tshtm><tspdf>\hfill </tspdf>abends<lbr type="forced"/>
+Berichte euch, daß wir seit dem <u>Sontag</u> sehr unruhig war<abbr v="en"/>.<lbr/>
+Der <u>Mehlhund</u><lbr type="BD"/> machte bis itzt dem Leopoldl viel Ungelegenheit.<lbr/>
+am <u>Montag</u> wars gar übl, am<lbr type="BD"/>&#160;<u>Dienstag</u> etwas leichter,<lbr/>
+heute ists wied<abbr v="er"/> abends besser als vormittag. Er hatte<lbr type="BD"/> sehr<lbr/>
+grosse Hitzen. &#8211; das beste ist, daß er viel trinkt und<lbr/>
+viel pruntzt, &#8211; braf<lbr type="BD"/> scheist, und wenig isst, weil<lbr/>
+ihm der Mund inwendig zu schwierig ist.<lbr type="forced"/>
+<lbr type="BD"/><lbr type="forced"/>
+Nun bin unter dem Nachtessen aufgestand<abbr v="en"/>, und hineingegang<abbr v="en"/>,<lbr/>
+weil er<lbr type="BD"/> wach geword<abbr v="en"/>, und da man ihn trocken legte, so<lbr/>
+hatte die Ehre, so oft man<lbr type="BD"/> ihm die Füsse in die Höhe hob,<lbr/>
+ein halbes dutzend <rend class="latin">Crepidos Ventris</rend> in ohn<lbr type="BD"/>unterbrochner<lbr/>
+Folge zu hören. <rend class="latin">Proficiat! Prosit, conducat, sitque<lbr/>
+Saluti.</rend> &#8211;<lbr type="BD"/> darauf folgte auch wirklich was die Vorboth<abbr v="en"/><lbr/>
+angekündigt hatten. Und<lbr type="BD"/> um dieses sind wir alle frohe,<lbr/>
+weil nichts gesünders ist, als we<abbr type="topline" expand="nn">n</abbr> man offnes<lbr type="BD"/> Leibs ist.<lbr/>
+Wir hoffen zu Gott, daß wir mit dem Both<abbr v="en"/> die Nachricht<lbr/>
+seiner<lbr type="BD"/> völlig<abbr v="en"/> besserung geb<abbr v="en"/> könn<abbr v="en"/>. <rend class="latin">Dr Prex</rend> besuchte uns<lbr/>
+am <u>Sontag</u>, &#8211; <u>diens<lbr type="BD"/>tag</u> |: gestern :| <u>und heut</u>. Es ist halt um<lbr/>
+den Mehlhund ein langwierige<lbr type="BD"/> Sache, bis er ganz vorbe&#255;<lbr/>
+ist. die Nächte waren seither am unruhigst<abbr v="en"/>, da der<lbr type="BD"/> Leopoldl<lbr/>
+nicht eine einzige Stund an einem Stück schlief. das muß<lbr/>
+ich be<lbr type="BD"/>ke<abbr type="topline" expand="nn">n</abbr>en, die Nandl ist wohl ein vortrefliches Kinds<pc force="weak">=</pc><lbr/>mensch: <u>geschwind</u>, <u>ent<lbr type="BD"/>schloss<abbr v="en"/></u>, und <u>ohnermüdet</u>, &#8211; achtet kein<lbr/>
+Schlafbrech<abbr v="en"/>, &#8211; und hat obendrein<lbr type="BD"/> das Rothlauf an einem<lbr/>
+Fuss, folglich eine grosse Geschwulst, &#8211; ich gab ihr<lbr type="BD"/> eine<lbr/>
+weisse Rothlauf Kugl. &#8211; <u>itzt rufft man mich</u>!<lbr/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="2"/>
+was wars? &#8211; &#8211; etwas sehr<lbr type="BD"/> wichtiges! der Leopoldl hat d<abbr v="er"/><lbr/>
+Nandl ins gesicht gepisst. &#8211; die Nandl,<lbr type="BD"/> Monica,<lbr/>
+und Tresl empfehl<abbr v="en"/> sich. die Nandl lässt sich be&#255;<lbr/>
+der A<abbr type="topline" expand="mm">m</abbr>tma<abbr type="topline" expand="nn">n</abbr>in<lbr type="BD"/> für den überschickt<abbr v="en"/> Striem bedank<abbr v="en"/>.<lbr/>
+Nun will ich, weils 10 uhr schlagt,<lbr type="BD"/> alles ins bett geht,<lbr/>
+das Kind schläft, auch geh<abbr v="en"/>. gute Nacht! &#8211; <lbr type="forced"/>
+<ts>_________</ts><tshtm>___________________________________</tshtm><tspdf>\hfill </tspdf><u>den 15<h>t<abbr v="en"/></h> in d<abbr v="er"/> Frühe</u>.<lbr type="forced"/>
+Noch schläft d<abbr v="er"/> Leopoldl be&#255; d<abbr v="er"/> Nacht gar nicht ruhig.<lbr/>
+es wird noch einige<lbr type="BD"/> Täge brauch<abbr v="en"/> bis der Unrath von<lbr/>
+Mehlhund aus dem Leib ist, da, wie alle<lbr type="BD"/> sag<abbr v="en"/>, der<lbr/>
+Mehlhund, so viele Zeit braucht. Ich wünschte, daß er<lbr/>
+vorbe&#255; wäre, de<abbr type="topline" expand="nn">n</abbr> ich ka<abbr type="topline" expand="nn">n</abbr> nicht ruhig se&#255;n.<lbr type="forced"/>
+itzt schläft er. er ist heut frühe nicht<lbr type="BD"/> mehr so heiserig,<lbr/>
+als er war, und ka<abbr type="topline" expand="nn">n</abbr> wieder hell und klar schre&#255;en.<lbr/>
+also<lbr type="BD"/> Gedult! hoffe mit dem Both<abbr v="en"/> i<abbr type="topline" expand="mm">m</abbr>er noch was<lbr/>
+bessers bericht<abbr v="en"/> zu können,<lbr type="BD"/> da das schli<abbr type="topline" expand="mm">m</abbr>ste hoffentlich<lbr/>
+vorbe&#255; ist. Nun lebts alle gesund, das Weib<lbr type="BD"/> steht da,<lbr/>
+wir küss<abbr v="en"/> euch <uu>alle</uu><lbr type="forced"/>
+<ts>_________</ts><tshtm>______________________________________________</tshtm><tspdf>\hfill </tspdf>Mozart <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<lbr type="forced"/>
+Am Sa<abbr type="topline" expand="mm">m</abbr>stag war ein starkes do<abbr type="topline" expand="nn">n</abbr>erwetter, um 2 uhr ist<lbr/>
+h<abbr type="curve">:</abbr>&#160;<rend class="latin">Fiala</rend> auf dem<lbr type="BD"/> Wasser abgereist zum Gr: Taufkirch<abbr v="en"/> nach<lbr/>
+Kazenberg. um halbe 4 uhr<lbr type="BD"/> kams do<abbr type="topline" expand="nn">n</abbr>erwetter, und warf Schloss<abbr v="en"/><lbr/>
+wie wälsche Nüsse. Im Zi<abbr type="topline" expand="mm">m</abbr>er wo<lbr type="BD"/> wir essen musst<abbr v="en"/> wir in d<abbr v="er"/> E&#255;le die<lbr/>
+Fenster aufreissen, sonst <amend value="hätte">hatte</amend> es alle<lbr type="BD"/> Fenster eingeschlag<abbr v="en"/>. Es warf die<lbr/>
+Risel bis auf den Tisch im Menscher<lbr type="BD"/>Zi<abbr type="topline" expand="mm">m</abbr>er hinaus.<lbr type="forced"/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="3"/>
+<vacat/>
+<pg n="4"/>
+<anschrift rot="270"><rend class="latin">À Madame<lbr type="forced"/>
+Madame de So<abbr type="topline" expand="nn">n</abbr>enbourg<lbr type="forced"/>
+à<lbr type="forced"/>
+<u>St: Gilgen</u></rend></anschrift>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+</letter>
+</text>
+</MUP>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2020">2020-03</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=3742</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:43:25 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/ID_3742.mup">
+<HEADER id="3742">SALOMON GESSNER, WIDMUNG AN LEOPOLD UND MARIA ANNA MOZART<lbr type="forced"/>
+ZÜRICH, 3. OKTOBER 1766</HEADER>
+<pg n="1"/>
+Nehmen sie, wertheste Freünde! diß Ge<pc force="weak">=</pc><lbr/>schenk mit der Freündschaft auf, mit der ichs<lbr/>
+ihnen gebe; möcht es würdig se&#255;n, mein An<pc force="weak">=</pc><lbr/>denken beständig be&#255; ihnen zu unterhalten!<lbr/>
+Genießen sie, verehrungswürdige <persName key="39408 48815">Eltern</persName>, noch<lbr/>
+lange die besten Früchte der Erziehung, in dem<lbr/>
+Glüke ihrer <persName key="48817 39409">Kinder</persName>; sie se&#255;en so glüklich, so<lbr/>
+außerordentlich ihre Verdienste sind. In der<lbr/>
+zartesten Jugend sind sie, die Ehre der Nation<lbr/>
+und die Bewundrung der Welt. Glükliche Eltern!<lbr/>
+glükliche Kinder! Vergeßen sie alle nie den<lbr/>
+Freünd, deßen Hochachtung und Liebe für Eüch,<lbr/>
+sein ganzes Leben durch so lebhaft se&#255;n werden,<lbr/>
+wie heüte.<lbr type="forced"/>
+<lbr type="forced"/>
+Zürich d<abbr v="en"/> 3.<h>tn</h> Weinm. 1766.<lbr type="forced"/>
+<ts>________________________________________</ts><tspdf>\hfill </tspdf><persName key="52697">S. Geßner</persName>.<lbr type="forced"/>
+<lbr type="forced"/>
+<add_note schr_id="73210">
+<ts>______________</ts><u>Anmerkung.</u><lbr type="forced"/>
+Vorstehende ist die eigenhän<pc force="weak">=</pc><lbr/>dige Schrift des berühmten Idil<pc force="weak">=</pc><lbr/>len=Dichters, <rend class="latin"><persName key="52697">Salomon Gessners</persName></rend>,<lbr/>
+welcher diese, seine klassischen<lbr/>
+Dichtungen der ebenfalls<lbr/>
+berühmten Tonkünstler=Fa<pc force="weak">=</pc><lbr/>milie <u><rend class="latin">Mozart</rend></u> aus <rend class="latin">Salzburg</rend> bei<lbr/>
+deren Aufenthalt in <rend class="latin">Zürich</rend><lbr/>
+zum Andencken gab.<lbr type="forced"/>
+<ts>______</ts><persName key="73210"><rend class="latin">Leopold</rend> Fre&#255;h <abbr type="topline" expand="von">v.</abbr>&#160;<rend class="latin">Berchtold</rend><lbr type="forced"/>
+<ts>______</ts>zu <rend class="latin">Sonnenburg</rend></persName>, Neffe des<lbr type="forced"/>
+<ts>______</ts>beliebten Tonsetzers <persName key="39409"><rend class="latin">wolf<suppl hand="#DME"><pc force="strong">=</pc></suppl><lbr/><ts>______</ts>gang Amadeus Mozart</rend></persName>.<lbr type="forced"/>
+<pg n="2"/>
+<rend class="latin"><persName key="52697">Salomon Gesner</persName></rend> zeichnete sich nicht<lbr/>
+nur als Idillen-Dichter, sondern<lbr/>
+auch als Kupferstecher aus. Die in<lbr/>
+diesem Werke enthaltenen <rend class="latin">vignettes</rend><lbr/>
+sind von seiner Hand radirt.<lbr type="forced"/>
+<ts>__________________</ts><rend class="latin">Innsbruck</rend> 6. Juli 1830.</add_note><lbr type="forced"/>
+<lbr type="forced"/>
+<object type="coat-of-arms"></object>
+<add_note schr_id="47235">(das reichsfreiherrl. Wappen<lbr/>
+der Bertold zu So<abbr type="topline" expand="nn">n</abbr>enburg)</add_note>
+
+<add_note schr_id="47235">
+Geschenk des <orgName key="66459">Klosters Wilten</orgName> (bei<lbr/>
+I<abbr type="topline" expand="nn">n</abbr>sbruck) an das Mozarteum,<lbr type="forced"/>
+13. Sept. 1898.<ts>____________________</ts><persName key="47235">Engl</persName>.</add_note></text>
+</MUP>

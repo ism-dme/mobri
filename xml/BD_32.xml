@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2020">2020-01</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=590</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Verbleib unbekannt (Vorlage: Abschrift um 1768 in D-B)</bibl>
+            <bibl type="source" subtype="RISM">Verbleib unbekannt, Vorlage: Abschrift um 1768 in D-B</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:36:25 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_32.mup">
+<letter bd="32">
+<NI src="unbekannt">
+<HEADER id="590">LEOPOLD MOZART AN LORENZ HAGENAUER IN SALZBURG<lbr/>
+LINZ, 3. OKTOBER 1762</HEADER>
+<pg n="1"/>
+<add_note schr_id="64391"><uu>1762</uu></add_note>
+<ts>________________________</ts><tspdf>\hfill </tspdf>Linz den 3:<h>ten</h> Oktober 1762<lbr type="forced"/>
+<lbr type="forced"/>
+Haben sie nicht geglaubt, wir wären schon in<lbr/>
+Wien, da wir doch noch in Linz<lbr type="BD"/> sind. Morgen,<lbr/>
+wenn Gott will, gehen wir mit der sogenannten<lbr/>
+Wasser <rend class="latin">ordi<lbr type="BD"/>naire</rend> dahin ab. ja, wir wären auch<lbr/>
+unfehlbar schon da, wenn wir nicht in Passau,<lbr type="BD"/><lbr/>
+wider unsern Willen 5 ganzer Täge gewesen<lbr/>
+wären. Diese Verzögerung, daran<lbr type="BD"/>&#160;<persName key="83504">S:<h>e</h> Fürstl:<lbr/>
+<rend class="latin">Gnaden</rend></persName> in Passau schuld sind, ist mir auch um<lbr/>
+80 fl. schade, Die ich<lbr type="BD"/> in Linz gewonnen hätte, we<abbr type="topline" expand="nn">n</abbr><lbr/>
+ich eher dahin gekommen wäre. Da ich mich<lbr type="BD"/><lbr/>
+nun mit etlich und vierzig Gulden begnügen<lbr/>
+muß, die mir in dem vorgestern<lbr type="BD"/> gegebenen<lbr/>
+<rend class="latin">Concert deductis deducendis</rend> geblieben sind.<lbr/>
+Was aber eigentlich in<lbr type="BD"/> Passau vorgegangen,<lbr/>
+muß ich auf eine persöhnliche Unterredung<lbr/>
+verschieben,<lbr type="BD"/> da es hier zu weitläufig wäre.<lbr/>
+Genug, der <persName key="39409">Wolfgang</persName> hatte die Gnade, sich<lbr type="BD"/><lbr/>
+bei <persName key="83504">S:<h>r</h> fürstl: <rend class="latin">Gnaden</rend></persName> zu <rend class="latin">produci</rend>ren, das<lbr/>
+<persName key="48817">Mädl</persName> aber nicht, und dafür bekam<lbr type="BD"/> er einen<lbr/>
+ganzen Dukaten, <rend class="latin">id est</rend> baare 4 f. 10 x sagen<lbr/>
+<pg n="2"/>
+sie aber Niemand etwas<lbr type="BD"/> davon; entzwischen bethen<lbr/>
+wir nur, daß unser <persName key="59220">Erzbischof</persName> lang lebt, das<lbr type="BD"/> Meh<pc force="weak">=</pc><lbr/>rere mündlich. Nun etwas von unserer Reise<lbr/>
+Beschreibung.<ts>_____</ts>Den <suppl hand="diff" schr_id="64391" pos="inline">20:<h>ten</h></suppl>&#160;<tspdf><additum>[20:<h>ten</h>]</additum></tspdf> des<lbr type="BD"/> verflossenen Mo<pc force="weak">=</pc><lbr/>nats sind wir in Passau um 5 Uhr Abends<lbr/>
+eingetroffen, den<lbr type="BD"/>&#160;<suppl hand="diff" schr_id="64391" pos="inline">26:<h>ten</h></suppl>&#160;<tspdf>[26:<h>ten</h>]</tspdf> sind wir Morgens mit<lbr/>
+<tshtm>__________</tshtm>dem Do<abbr type="topline" expand="mm">m</abbr>h<abbr type="curve">.</abbr>&#160;<persName key="83503">Graf <u>Herberstein</u></persName> von Pas<pc force="weak">=</pc><lbr/>sau abge<lbr type="BD"/>gangen und selben Tag Abends um 5<lbr/>
+Uhr in Linz angelangt. Wir wohnen<lbr type="BD"/> bei einem<lbr/>
+gewissen <u><persName key="0">Kiener</persName></u>. Wir sind sehr wohl bedienet.<lbr/>
+Es sind <suppl hand="diff" schr_id="64391" pos="inline">2</suppl>&#160;<tspdf><additum>[2]</additum></tspdf> Jungfern,<lbr type="BD"/> die nach dem Tode ihrer<lbr/>
+Aeltern die Wirthschaft fortführen, und die mei<pc force="weak">=</pc><lbr/>ne<lbr type="BD"/> Kinder so lieben, daß sie uns alles thun, was<lbr/>
+nur immer in ihren Kräften ist.<lbr type="BD"/> Meine Kin<pc force="weak">=</pc><lbr/>der setzen übrigens alles in Verwunderung;<lbr/>
+sonderheitlich der <persName key="39409">Bub</persName>.<lbr type="BD"/> H<abbr type="curve">.</abbr>&#160;<persName key="83503">Graf <u>Herberstein</u></persName><lbr/>
+ist nach Wien, und wird zum voraus einen<lbr/>
+grossen<lbr type="BD"/> Lermen dahin bringen. Und gestern<lbr/>
+ist der h<abbr type="curve">.</abbr>&#160;<u><persName key="83505">Graf v. Schlick</persName></u> allhiesiger<lbr type="BD"/> LandsHaupt<pc force="weak">=</pc><lbr/>mann sa<abbr type="topline" expand="mm">m</abbr>t seiner <persName key="84673">Frau</persName> nach Wien abgegan<pc force="weak">=</pc><lbr/>gen. Be&#255;de waren<lbr type="BD"/> ungemein gnädig mit uns;<lbr/>
+Sie sagten, daß wir, sobald wir nach Wien ko<abbr type="topline" expand="mm">m</abbr>en,<lbr type="BD"/><lbr/>
+gleich zu ihnen ko<abbr type="topline" expand="mm">m</abbr>en sollen; daß sie mit dem<lbr/>
+<pg n="3"/>
+H<abbr type="curve">.</abbr>&#160;<persName key="51563">Grafen <rend class="latin">Durazo</rend></persName> unter<lbr type="BD"/>dessen sprechen, und über<pc force="weak">=</pc><lbr/>haupts unsere Ankunft in Wien bekannt machen<lbr type="BD"/><lbr/>
+werden. Allem Ansehen nach soll die Sach recht gut<lbr/>
+gehen. Gott erhalte uns<lbr type="BD"/> nur wie bisher, gesund.<lbr/>
+biß diese Stunde sind wir noch wohl auf. Obwohlen<lbr type="BD"/><lbr/>
+ich zu zeiten da und dort kleine halb: <rend class="latin">podag</rend>rische<lbr/>
+zwicker merke. Die <persName key="48817 39409">Kinder</persName><lbr type="BD"/> sind lustig, und über<pc force="weak">=</pc><lbr/>all so, als wären sie zu Hause. Der <persName key="39409">Bub</persName> ist<lbr/>
+mit allen<lbr type="BD"/> Leuten, sonderheits mit den Offizie<pc force="weak">=</pc><lbr/>ren so vertraulich, als wenn er sie schon<lbr/>
+seine Lebenszeit hindurch gekannt hätte.<lbr/>
+Hier schliesse ich die Monatszettl<lbr type="BD"/> für dieß<lbr/>
+Monat bei. Lassen sie es ablangen, die Steu<pc force="weak">=</pc><lbr/>er dagegen muß mit<lbr type="BD"/> 10 Xr 3 Pfe<abbr type="topline" expand="nn">n</abbr>ing<lbr/>
+erlegt werden.<lbr type="forced"/>
+<pg n="4"/>
+<add_note schr_id="57010"><ts>________________________________________________________</ts>Fortsezung vom 3 Okt. 1762.</add_note>
+Machen sie sich damit des Hauszinses halben bezahlt, und die <persName key="75368">Frau<lbr/>
+Gemah<lbr type="BD"/>lin</persName> |: der wir uns sonderheitl: gehorsamst empfehlen :| lasse<lbr/>
+ich bitten <u>auf<lbr type="BD"/> unsere <rend class="latin">Intention</rend> 4 heil: Messen zu <rend class="latin">Maria Plain</rend></u><lbr/>
+zuveranstalten, und zwar<lbr type="BD"/> sobald es möglich ist. Mein <persName key="48817">Mädl</persName><lbr/>
+empfehlt sich, und last der <persName key="75368">Frau Liebsten</persName><lbr type="BD"/> melden. daß sie zu<lbr/>
+Maria Hilf in Passau schon ihr versprechen gehalten; ja<lbr type="BD"/><lbr/>
+wir haben alle für den <persName key="75366">h<abbr type="curve">:</abbr> Lorenz</persName> gebethet. Sie werden<lbr/>
+sonst hoffentlich alle<lbr type="BD"/> gesund se&#255;n? Daß wünschen wir<lbr/>
+von Herzen. Von Wien werden ihnen bald<lbr type="BD"/> schreiben. Vielleicht<lbr/>
+giebt es bis dahin Neuigkeiten, bis iezt weis man Nichts.<lbr type="BD"/><lbr/>
+Hier sind bis 1500 gefangene Preüssen, und vor 2. Tage<lbr/>
+sahe ich wieder<lbr type="BD"/> 600. anko<abbr type="topline" expand="mm">m</abbr>en. Was mir gar <choice><orig>nich</orig><corr hand="diff" schr_id="57010">nicht</corr></choice> gefällt,<lbr/>
+ist, daß man nicht nur alle Preu<lbr type="BD"/>sische Landeskinder<lbr/>
+<rend class="latin">engagie</rend>rt, sondern gar einige Viele zu unserm Diensten<lbr type="BD"/><lbr/>
+zwinget; die nach der Hand zum Teufel gehen, die Mon<pc force="weak">=</pc><lbr/>tirungen mitnehmen,<lbr type="BD"/> und noch darzu Verräther abgeben.<lbr/>
+ich muss schliessen, leben sie wohl, wir<lbr type="BD"/> empfehlen uns dem<lbr/>
+ganzen Hagenauerischen Hause, und ich bin etc:<lbr type="forced"/>
+<lbr type="forced"/>
+<add_note schr_id="39408" loc="lm"><u>NB</u> hier fehlt ein Brief, in welchem ich Nachricht gab<lbr/>
+daß der <persName key="83515">geheimde Zahlmeister</persName> am Theresia Tag uns 2 Kleid<abbr v="er"/><lbr/>
+für mein<abbr v="en"/>&#160;<persName key="39409">Sohn</persName>&#160;<abbr expand="und">u</abbr>&#160;<persName key="48817">Tochter</persName> von S:<h>r</h>&#160;<abbr expand="Majestät">Mst</abbr> d<abbr v="er"/> <persName key="56108">Kayserin</persName> überbrachte.</add_note>
+<add_note schr_id="57010" loc="lm">NB. der Brief liegt hierin.</add_note>
+<lbr type="forced"/>
+<tshtm><additum>[... (Beginn der Abschrift des Briefes vom 19. Oktober 1762)]</additum></tshtm>
+</NI>
+</letter>
+</text>
+</MUP>

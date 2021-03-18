@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2009">2009-08-20</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=347</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:35:59 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/Doc18xx_15_mup.txt">
+<letter lang="it"><HEADER id="347">ANTONIO SALIERI AN KARL FREIHERR VON DOBLHOFF-DIER IN WIEN(?)<lbr/>
+WIEN(?), CA. 1822(?)</HEADER>
+
+<pg n="1"/>
+<add_num impl="pencil">I<ts>______</ts>157</add_num>
+<rend class="latin">Eccole, amatissimo Signor Barone, la<lbr/>
+musica che teneva di Lei la prima Trom<pc force="weak">=</pc><lbr/>ba di Corte. Io ero sicuro che non l’ave<pc force="weak">=</pc><lbr/>va data a me prima d’ora, perché altri<pc force="weak">=</pc><lbr/>menti Lei l’avrebbe subito ricevuta.<lbr/>
+<ts>_____</ts>Restituisco io pure li due Scritti sulla<lbr/>
+musica da Lei imprestatimi, e le faccio<lbr/>
+i miei ringraziamenti. L’autore però<lbr/>
+dell’ <u>Untersuchung</u>&#160;<u>über den</u>&#160;<u>Ursprung</u><lbr/>
+<u>der Harmonie</u> si contradice, a mio crede<pc force="weak">=</pc><lbr/>re, chiarissimamente. Prima sembra aman<pc force="weak">=</pc><lbr/>te appassionato del <u>semplice corale</u>; poi più<lbr/>
+avanti dello stile <u>alla Palestrina</u>: più tar<pc force="weak">=</pc><lbr/>di, di quello del (come a ragione però lo chiama<lbr/>
+lui) <u>divino Händel</u>; ed infine di <u>Heydn</u> etc.<lbr/>
+di chi dunque è innamorato? di nessuno ris<pc force="weak">=</pc><lbr/>pondo io, o forse della <suppl hand="self" pos="supra">solissima</suppl> sua contraditoria lettera<pc force="weak">=</pc><lbr/>tura in materia di musica. Ma lasciamo<lbr/>
+questi <u>dottissimi in parole</u> scriver su quest’<lbr/>
+arte divina quello che vogliono. Un vero<lbr/>
+maestro deve rispettare, amare e studia<pc force="weak">=</pc><lbr/>re tutti i generi dal più scherzante al più su<pc force="weak">=</pc><lbr/>blime | tutti dono di dio | arricchir delle loro</rend><lbr/>
+<pg n="2"/>
+<rend class="latin">particolari bellezze il suo spirito, e appro<pc force="weak">=</pc><lbr/>fittarne a tempo e luogo: questa è la mia<lbr/>
+Regola, ed a questa <u>con gratitudine</u> m’atten<pc force="weak">=</pc><lbr/>go. <u>Varietas delectat</u>: Dio l’ha posta in<lbr/>
+tutte le cose da Lui create.<lbr type="forced"/>
+<ts>_____</ts>Amiamo l’uomo, che pensa bene, se non<lbr/>
+fa male; ma rispettiamo chi pensa non<lbr/>
+solo, ma agisce secondo tutte le leggi della<lbr/>
+sana ragione.<lbr type="forced"/>
+<ts>_____</ts>Circa li due accordi, che Lei trova <u>ad lo<pc force="weak">=</pc><lbr/>cum</u> nelle mie composizioni ecclesiastiche<lbr/>
+ma <u>strani</u> a suoi occhi, Lei li potrà legge<pc force="weak">=</pc><lbr/>re prima di tutto, per la teoria, in ogni scuo<pc force="weak">=</pc><lbr/>la di Basso generale con le regole neces<pc force="weak">=</pc><lbr/>sarie per prepararli e risolverli, apparte<pc force="weak">=</pc><lbr/>nendo essi alla categoria degli accordi diso<pc force="weak">=</pc><lbr/>nanti: e per la pratica, Lei li troverà<lbr/>
+usatissimi in tutte le composizioni pos<pc force="weak">=</pc><lbr/>sibili, con la sola differenza che ne fa<lbr/>
+ogni compositore per l’aplicazione se<pc force="weak">=</pc><lbr/>condo la sua testa bene o male istrutta.<lbr type="forced"/>
+<ts>_____</ts>Del resto io sono glorioso d’aver con</rend><lbr/>
+<pg n="3"/>
+<rend class="latin">prova alla mano persuaso</rend>&#160;<suppl hand="self" pos="supra"><rend class="latin">sull’affare</rend></suppl><lbr/>
+<rend class="latin">in questione un’uomo, che da tanti anni ris<pc force="weak">=</pc><lbr/>petto ed amo per mille e mille ragioni, e lo<lbr/>
+invito, giacché ora conosce e confessa il buo<pc force="weak">=</pc><lbr/>no dei diversi stili devoti di farne <suppl hand="self" pos="supra">parimenti</suppl> uso, e se<lbr/>
+ne troverà contento come lo fu d’altri miei ami<pc force="weak">=</pc><lbr/>chevoli consigli &#8211; <u><unclear>Borone</unclear></u> e <u>Polifemo</u> &#8211; <lbr/>
+Quando si sente una bella musica, che in<pc force="weak">=</pc><lbr/>canta, che rapisce, si grida: celeste! angelica!<lbr/>
+divina! di qual genere si può dir questo? non<lbr/>
+certamente di quell’antico che <u>an Steifheit</u><lbr/>
+<u>und Geschmacklosigkeit</u>&#160;<u>den gothischen</u>&#160;<u>Gebäu<pc force="weak">=</pc><lbr/>den</u>&#160;<u>und</u>&#160;<u>Gemälden</u>&#160;<u>des Zeitalters glich</u>.<lbr/>
+Di qual musica devo credere che S. Agos<pc force="weak">=</pc><lbr/>tino abbia detto: <u>che Dio veda in essa</u>&#160;<u>qualche<lbr/>
+cosa</u> della <u>bontà</u> dell’<u>anima</u>&#160;<u>nostra</u>, <u>e che</u>&#160;<u>noi ci</u><lbr/>
+<u>vediamo</u>&#160;<u>qualche</u>&#160;<u>cosa</u>&#160;<u>de la bontà di Dio?</u><lbr type="forced"/>
+<ts>_____</ts>Ripetto dunque: <u>varietà</u>, <u>varietà</u>, <u>varietà</u><lbr/>
+all’esempio del Creatore; ma, ci s’intende,<lbr/>
+con quel giudizio che Iddio ci dà al nascer<lbr/>
+nostro per regola e norma del nostro<lbr/>
+operare. Non v’è niente, secondo me, di più<lbr/>
+bizzarro del dire che la musica in chiesa, se è<lbr/>
+bella, distrae i devoti dalla preghiera.</rend>
+<pg n="4"/>
+<rend class="latin">ed io m’ostino santissimamente e mi ostinerò<lbr/>
+a dire che, quando la musica è bene adatta<pc force="weak">=</pc><lbr/>ta al sacro testo, essa prega per chi l’ascolta,<lbr/>
+o si prega ascoltandola. Per lodar Lei quei pez<pc force="weak">=</pc><lbr/>zi ultimamente di me veduti, non si serve dell’<lbr/>
+espressioni: stile <u>ecclesiastico</u> fugato: mu<pc force="weak">=</pc><lbr/>sica <u>sublime</u> e <u>parlante</u>: pezzo <u>somma<pc force="weak">=</pc><lbr/>mente espressivo</u>: pezzo di <u>verità sublime</u> e<lbr/>
+<u>parlantissimo</u>: pezzo che <u>dapertutto</u>&#160;<u>spira</u>&#160;<u>devo<suppl hand="#DME"><pc force="strong">=</pc></suppl><lbr/>zione:</u> pezzo bello, <u>vero ed espressivo sublime</u>:<lbr/>
+<u>capo d’opera</u> che? dunque? dunque? qualcu<pc force="weak">=</pc><lbr/>no potrebbe rispondere: <u>vedo il giorno, ma per</u><lbr/>
+bizzaria qualche volta faccio creder di non<lbr/>
+vederlo. Quando la cosa è <u>dunque</u> così, pen<pc force="weak">=</pc><lbr/>siamoci sopra, e, d’accordo con Lei, seguitiamo<lbr/>
+però a lodare Iddio ognuno secondo le sue forze e<lbr/>
+le sue idee religiose e cristiane, e su di ciò</rend><lbr type="forced"/>
+<ts>__________________________________</ts><tspdf>\hfill </tspdf><rend class="latin">Amen dica di<lbr type="forced"/>
+<ts>________________________________________</ts><tspdf>\hfill </tspdf>core<lbr type="forced"/>
+<ts>___________________________________</ts><tspdf>\hfill </tspdf>l’amicissimo<lbr type="forced"/>
+<ts>________________________________________</ts><tspdf>\hfill </tspdf>Salieri</rend><lbr type="forced"/>
+<add_prov color="blue">Doblhoff</add_prov>
+<add_num impl="pencil">I<ts>____</ts>157</add_num><lbr type="forced"/>
+<add_prov impl="ink">von Tante Röthlein<lbr/>
+aus GOnkel Charles Dobblhoff’s<lbr/>
+Nachlass April 1877<lbr/>
+<ts>_______</ts>Wolffg.</add_prov>
+</letter></text>
+</MUP>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2013">2013-5</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1141</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">CZ-Pu</bibl>
+            <bibl type="source" subtype="RISM">CZ-Pu (Národní knihovna (dríve Universitní knihovna))</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:39:33 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_575.mup">
+<letter bd="575">
+<NI src="CZ-Pu">
+<HEADER id="1141">LEOPOLD MOZART AN WOLFGANG AMADÉ MOZART IN MÜNCHEN<lbr/>
+SALZBURG, 4. JANUAR 1781</HEADER>
+<pg n="1"/>
+<rend class="latin">Mon très cher Fils!</rend><ts>________</ts><tshtm>_______________________________________________________</tshtm><tspdf>\hfill </tspdf>Salzb<abbr type="curve">.</abbr> d<abbr v="en"/> 4<h>t<abbr v="en"/></h> Je<abbr type="topline" expand="nn">n</abbr>er 1781.<lbr type="forced"/>
+<lbr type="forced"/>
+Es war um 9 Uhr, da ich eb<abbr v="en"/> am neu[jahrsta]ge ins A<abbr type="topline" expand="mm">m</abbr>t gieng, als ich dei<lbr type="BD"/>n<abbr v="en"/> Brief vom<lbr/>
+30 <rend class="latin">Decc<abbr type="curve">.</abbr></rend> erhielt. Nach der Kirche machte ich <additum>[... (Textverlust)]</additum>ge Neujahrs<lbr type="BD"/>&#160;<rend class="latin">Seccat</rend>ur<abbr v="en"/> und gieng um halbe 11 uhr<lbr/>
+zum <rend class="latin">Varesco</rend>. dieser war nun abscheu<lbr type="BD"/>lich böse, und sagte, wie es die welsch<abbr v="en"/>, od<abbr v="er"/> halbwelsch<abbr v="en"/> mach<abbr v="en"/>,<lbr/>
+die<lbr type="BD"/> närrischst<abbr v="en"/> Sach<abbr v="en"/>: unter and<abbr v="er"/><abbr v="en"/> auch, daß er tl: h<abbr type="curve">:</abbr> Gr: <rend class="latin">Seau</rend> dieser Täg<abbr v="en"/><lbr type="BD"/> geschrieb<abbr v="en"/> habe, um<lbr/>
+ihn zu bitt<abbr v="en"/>, daß er sorg<abbr v="en"/> möchte, daß keine druck<lbr type="BD"/>fehler ins Buch ko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/> möcht<abbr v="en"/>&#160;<abbr expand="etc">p</abbr>: <u>gut!</u><lbr/>
+daß er sich <rend class="latin">12 Exempl:</rend> ausbitte.<lbr type="BD"/>&#160;<rend class="latin"><u>Basta</u>!</rend> und daß er hofe <u>noch einige duggatt<abbr v="en"/></u> zur<lbr/>
+Erke<abbr type="topline" expand="nn">n</abbr>tlichkeit zu erhalt<abbr v="en"/>,<lbr type="BD"/> in Ansehung, daß er den Text 4 mahl <rend class="latin">Copi</rend>ert, und nach<pc force="weak">=</pc><lbr/>der hand viele<lbr type="BD"/> veränderung<abbr v="en"/> hätte mach<abbr v="en"/> müssen; welches, we<abbr type="topline" expand="nn">n</abbr> ers vorhero gewußt<lbr type="BD"/> hätte<lbr/>
+für 20 duggatt<abbr v="en"/>, einer so gering<abbr v="en"/> Bezahlung, nicht angenohm<abbr v="en"/> hätte<lbr type="BD"/>&#160;<abbr expand="etc">p</abbr>: <u>meinethalb<abbr v="en"/> auch<lbr/>
+gut</u>: allein mir fiehl gleich ein, daß h<abbr type="curve">:</abbr>&#160;<rend class="latin">Varesco</rend> den<lbr type="BD"/> gottlosen welsch<abbr v="en"/> gedanck<abbr v="en"/> hab<abbr v="en"/> möchte,<lbr/>
+<u>als hätt<abbr v="en"/> wir ein<abbr v="en"/> stärkern<lbr type="BD"/>&#160;<rend class="latin">accord</rend> gemacht, und behielt<abbr v="en"/> das geld</u>. Ursach<abbr v="en"/> dieser Ver<pc force="weak">=</pc><lbr/>muthung sind.<lbr type="BD"/> weil er ein <u>halbwelscher</u> ist: <rend class="latin">peggio del Italiano Vero.</rend> weil ich ihm den<lbr type="BD"/><lbr/>
+Brief vom gr: <rend class="latin">Seau</rend> seines <rend class="latin">accords</rend> halb<abbr v="en"/> nicht zum les<abbr v="en"/> geb<abbr v="en"/> konnte,<lbr type="BD"/> sond<abbr v="ern"/> nur es heraus<pc force="weak">=</pc><lbr/>laß, da die and<abbr v="ern"/> Sach<abbr v="en"/> er nicht wiss<abbr v="en"/> darfte. Weil<lbr type="BD"/> er be&#255; übersendung<lbr/>
+des 3<h>t<abbr v="en"/></h>&#160;<rend class="latin">acts</rend> durch dich an gr: <rend class="latin">Seau</rend> schrieb, und dieser<lbr type="BD"/> keine Antwort gab, sond<abbr v="ern"/> du<lbr/>
+mir schriebst, er habe die <rend class="latin">Co<abbr type="topline" expand="mm">m</abbr>ission</rend> zu ant<lbr type="BD"/>wort<abbr v="en"/> dir übertrag<abbr v="en"/>. alles dieses mag ihm<lbr/>
+den Argwohn erweck<abbr v="en"/>, es gebe<lbr type="BD"/> noch mehr solche Leute, <u>wie er einer ist</u>. Er mag uns wohl<lbr/>
+nach sich selbst<lbr type="BD"/> beurtheilt hab<abbr v="en"/>. &#8211; nun weiter; &#8211; ich sprach ihm ganz gelass<abbr v="en"/> zu: und<lbr/>
+da<lbr type="BD"/> ich endlich seines schmählens und ungeschickt<abbr v="en"/> Gewäsches müde war; sagte<lbr type="BD"/> ich ihm:&#160;<lbr/>
+<u>ich brauch von ihn<abbr v="en"/> keine and<abbr v="er"/>e Antwort, als, ob ich heute schreib<abbr v="en"/><lbr type="BD"/> soll, daß künftig<abbr v="en"/><lbr/>
+Posttag d<abbr v="en"/> 4<h>t<abbr v="en"/></h> Je<abbr type="topline" expand="nn">n</abbr>er eine andere <rend class="latin">Aria</rend> ko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/> wird<lbr type="BD"/> od<abbr v="er"/> nicht. Antwort<abbr v="en"/> muß ich! das<lbr/>
+übrige bekü<abbr type="topline" expand="mm">m</abbr>ert mich kein<abbr v="en"/> teufel</u>.<lbr type="BD"/> da sagte er nun: <u>ich werde seh<abbr v="en"/>, ob mir etwas einfällt</u>.<lbr/>
+und ich gieng da<abbr type="topline" expand="nn">n</abbr>, meine übrig<abbr v="en"/> Neujahrs<rend class="latin">Seccatur<abbr v="en"/></rend> zu vollend<abbr v="en"/>. was er nun übrigens<lbr/>
+alles<lbr type="BD"/> sagte, und wie sehr er aufgebracht ist, ka<abbr type="topline" expand="nn">n</abbr>st du aus dem Schlüssen, was<lbr type="BD"/> er hier<lbr/>
+neb<abbr v="en"/> die <rend class="latin">Aria</rend> hingeschrieb<abbr v="en"/>: das umständliche werde dir mündlich<lbr type="BD"/> erzehl<abbr v="en"/>. vor allem<lbr/>
+sorge, daß Gr: <rend class="latin">Seau</rend>&#160;<u>das Geld ihm und dem Schachtner</u><lbr type="BD"/> so bald möglich bezahlt,<lbr/>
+man darfs nur dem <u>h<abbr type="curve">:</abbr> Gschwendner</u> geb<abbr v="en"/>, das ist<lbr type="BD"/> der kürzeste weeg.<lbr type="forced"/>
+Nun weist du, daß ich ein Liebhaber vom Fried<abbr v="en"/> und ein ehrlicher Ma<abbr type="topline" expand="nn">n</abbr><lbr type="BD"/> bin, der aller<lbr/>
+Welt verdruss zu erspahr<abbr v="en"/> wünschet. &#8211; du siehest aus des<lbr type="BD"/>&#160;<rend class="latin">Varesco</rend> beysatz, daß er<lbr/>
+zwar eine and<abbr v="er"/>e <rend class="latin">Aria</rend> zum sing<abbr v="en"/> gemacht. aber die<lbr type="BD"/>&#160;<rend class="latin">Aria</rend>&#160;<u><rend class="latin">Sazio è il Destin</rend></u>&#160;<abbr expand="etc">p</abbr>: Ge<pc force="weak">=</pc><lbr/>druckt wissen will. das wäre lächerlich eine an<lbr type="BD"/>d<abbr v="er"/>e <rend class="latin">Aria</rend> im Buch, und eine and<abbr v="er"/>e<lbr/>
+sing<abbr v="en"/>. das beste Mittel wäre be&#255;de<lbr type="BD"/>&#160;<rend class="latin">Arien</rend> einzudruck<abbr v="en"/>: und die <u><rend class="latin">Sazio è il Destin</rend>&#160;<abbr expand="etc">p</abbr></u>:<lbr/>
+<tspdf>\newpage</tspdf> 
+an ieder Zeihle Ranft<lbr type="BD"/> mit Stricheln zu bezeichn<abbr v="en"/>, weil sie nicht gesung<abbr v="en"/> wird. So wäre<lbr/>
+allem<lbr type="BD"/> verdrusse vorgebeugt, und es betrift ja nur etliche Zeihl<abbr v="en"/> mehr zu druck<abbr v="en"/>.<lbr type="forced"/>
+h<abbr type="curve">.</abbr> Schachtner hatte gar keine Einwendung, du siehst, er machte die über<lbr type="BD"/>setzung gar&#160;<lbr/>
+<u>2 mahl</u>; man ka<abbr type="topline" expand="nn">n</abbr> wehlen<tshtm>___________________________________________________</tshtm> welche man will. <u>Die 2</u><h>te</h><lbr/>
+gefählt mir<lbr type="BD"/> besser. <u>die erste</u><tshtm>_______________________________________________</tshtm> ist nach dem welschen vorder<abbr v="en"/><lbr/>
+und Hintersatz, folglich<tshtm>____________________________________________________________</tshtm> ge<lbr type="BD"/>nauer nach dem welsch<abbr v="en"/>.<lbr/>
+<u>die zweyte</u> ist ohnendlich<tshtm>_________________________________________________________</tshtm> deutscher, ohngezwun<lbr type="BD"/>gener<lbr/>
+und natürlicher, und das<tshtm>________________________________________________________</tshtm> hat gar nichts zu sag<abbr v="en"/>, daß<lbr/>
+der welsche hinter<lbr type="BD"/>satz durch eine fre&#255;e übersetzung zum vordersatz geno<abbr type="topline" expand="mm">m</abbr><abbr v="en"/> ist,<lbr/>
+weils im<lbr type="BD"/> Deutsch<abbr v="en"/> viel besser <div type="commentary" xml:id="BD575_1">lässt<note corresp="#BD575_1">Schreibfehler? Gemeint ist vielleicht "läuft".</note></div>. Was eine Anweisung anbetrift ist solche nicht<lbr/>
+nötig,<lbr type="BD"/> weil h<abbr type="curve">:</abbr> Gschwendner gestern schon abgereiset und nun in Münch<abbr v="en"/> ist.<lbr/>
+du<lbr type="BD"/> darfst nur zu ihm geh<abbr v="en"/>, er wird dir, was du bedarfst sicher geb<abbr v="en"/>, obwohl<lbr type="BD"/> ich<lbr/>
+ihn nicht gesproch<abbr v="en"/>, de<abbr type="topline" expand="nn">n</abbr> da ich ihn heut sprech<abbr v="en"/> wollte, sagte mir sein<lbr type="BD"/> h<abbr type="curve">:</abbr> Brud<abbr v="er"/>, er wäre<lbr/>
+gestern schon weg. Mache ihm meine Empfehlung: da<abbr type="topline" expand="nn">n</abbr><lbr type="BD"/> hoffe ohnehin bald selbst zu<lbr/>
+ko<abbr type="topline" expand="mm">m</abbr>en. Schreib nur we<abbr type="topline" expand="nn">n</abbr> die Hauptprobe se&#255;n<lbr type="BD"/> wird. ich bin d<abbr v="er"/> alte Vatter Mzt <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<pg n="2"/>
+<postxt loc="rm" rot="270"><rend class="latin">PS:</rend> Und der arme <rend class="latin">Marquesini</rend> hat also mal <rend class="latin">à propos</rend> sein Leben enden müssen?<lbr type="BD"/> Schade! &#8211; so gehts! We<abbr type="topline" expand="nn">n</abbr> die<lbr/>
+vernunft mit dem ganz<abbr v="en"/> Kopf spazier<abbr v="en"/><lbr type="BD"/> geht. &#8211; Ich <rend class="latin">recco<abbr type="topline" expand="mm">m</abbr>and</rend>iere dir nochmals die baldige Bezahlung des<lbr/>
+<rend class="latin">Varesco</rend><lbr type="BD"/> und Schachtners. Deine Schwester und ich küssen dich tausendmahl und bin<lbr type="BD"/> der Alte.</postxt>
+<lbr type="forced"/>
+<lbr type="forced"/>
+<anschrift rot="90"><rend class="latin">À Monsieur<lbr type="forced"/>
+Monsieur Wolfgang Amadé<lbr type="forced"/>
+Mozart maître de musi<lbr type="BD"/>que<lbr type="forced"/>
+à<lbr type="forced"/>
+<uu>Franco</uu><lbr type="forced"/>
+<u>Munic</u></rend></anschrift><lbr type="forced"/>
+</NI>
+</letter>
+</text>
+</MUP>

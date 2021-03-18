@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2014">2014-8</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=55</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:26:04 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/Doc1810_6_mup.txt">
+<HEADER id="55">GEORG NIKOLAUS NISSEN AN CARL THOMAS MOZART IN MAILAND<lbr/>
+WIEN, 22. MAI 1810<lbr/>
+mit Nachschrift von Constanze Nissen</HEADER>
+
+<pg n="1"/>
+<add_num impl="ink"><rend class="latin">N<h><uu>o</uu></h></rend> 31</add_num>
+Mein lieber <persName key="48820">Carl</persName>,<lbr type="forced"/>
+<lbr type="forced"/>
+Ihr Pianoforte ist am 19<h>ten</h> von hier abge<pc force="weak">-</pc><lbr/>gangen und wir wünschen davon baldigen<lbr/>
+u. glücklichen Empfang, uns mit Ihnen freu<pc force="weak">-</pc><lbr/>end, daß derselbe Ihnen viel Vergnügen machen<lbr/>
+wird. Die hiesigen Mauth- u. Emballirungs<pc force="weak">-</pc><lbr/>kosten (welche letztere 35 <abbr_cur expand="Gulden"><rend class="latin">fl.</rend></abbr_cur> betragen) hat Ihre<lbr/>
+gute <persName key="48818">Mutter</persName> bezahlt, und <persName key="73594"><rend class="latin">Bridi</rend></persName> trägt<lbr/>
+<persName key="78185"><rend class="latin">Redaelli</rend></persName> auf, die, nachdem sie auch 5. Du<pc force="weak">-</pc><lbr/>caten in Gold bezahlt hat, noch restirenden<lbr/>
+Transportkosten, nämlich Zehn Ducaten in Gold,<lbr/>
+in Terminen von Ihnen einzucassieren. &#8211; <lbr type="forced"/>
+<ts>_____</ts>Sie hätten wohlgethan fortzufahren die<lbr/>
+Gewogenheit des <persName key="78773">Baron <rend class="latin">Schubart</rend></persName> zu culti<pc force="weak">-</pc><lbr/>viren, und thun wohl, das Versäumte nachzu<pc force="weak">-</pc><lbr/>holen. Lesen Sie, wie er mir am 27. April schrieb:<lbr/>
+<rend class="latin">Je me trouve, hélas! séparé de <persName key="48820">Ch. M_t</persName>,<lbr/>
+dont j’ignore même le séjour actuel. Je<lbr/>
+ne puis donc pas lui être utile, et c’est<lbr/>
+un véritable regret pour moi. Donnez-moi</rend><lbr/>
+<pg n="2"/>
+<rend class="latin">de ses nouvelles, et dites moi ce qu’il est devenu; car<lbr/>
+on m’a assure qu’il n’est plus à Milan chez <persName key="20312">M. Asioli</persName>.<lbr/>
+Je voudrois tant lui être bon à quelque chose,<lbr/>
+et ce désir c’est accru depuis que Vous êtes son<lbr/>
+père. Je voudrois si volontiers voir son sort<lbr/>
+fixé d’une maniéré solide. J’ignore s’il<lbr/>
+est resté fidèle aux Muses, ou s’il fait de<lbr/>
+nouveau placé sous le scéptre de Mercure.<lbr/>
+Ce dernier cas a sans doute, en règle, des<lbr/>
+avantages.</rend> Und so schreibt er noch ferner<lbr/>
+mit der größten Freundschaft allerhand<lbr/>
+persönlich Gutes von Ihnen. Sie haben uns<lbr/>
+immer so wenig von Ihrer eigenen Lage<lbr/>
+berichtet, daß ich nicht weiß, was ich ihm<lbr/>
+antworten soll. Indessen melde ich ihm, daß ich<lbr/>
+Sie von der vollen Fortdauer seiner Güte<lbr/>
+in Kenntniß gesezt habe, und verspreche<lbr/>
+ihm unser aller gemeinschaftliche Dankbarkeit.<lbr/>
+Er approbirt, daß Sie bei der Musik bleiben,<lbr/>
+aber er approbirt auch, daß Sie zur handlung<lbr/>
+zurükkehren: lezteres findet er für die Zukunft<lbr/>
+<pg n="3"/>
+sogar noch zuträglicher. Aber wie viel mehr<lbr/>
+würde seine Freude groß seyn, wenn die hof<pc force="weak">-</pc><lbr/>nungen, die Sie uns mitgetheilt haben, in<lbr/>
+Erfüllung giengen! Ausdrükken darf ich sie<lbr/>
+ihm einstweilen nicht; aber er verdient es,<lbr/>
+daß ich sie ihm andeute.
+<NS schr_id="48818" lang="de">Wie freue ich mich das P: F: einmahl auf<lbr/>
+dem wege und bald in deinen Händen<lbr/>
+zu wißen. schreibe mir nur ja gleich<lbr/>
+wen, und wie es angekomen ist! &#8211; <lbr/>
+meinen letzten Brief worin ich dir<lbr/>
+alles umständlich sagte, und wor<pc force="weak">=</pc><lbr/>nach du dich richten kanst, wirst du<lbr/>
+wohl schon haben. und nun lebe<lbr/>
+wohl, schreibe bald <persName key="78773"><rend class="latin"><u>Schubart</u></rend></persName> und<lbr/>
+deiner <suppl hand="self" pos="supra">dich</suppl> zährlich liebenden Mutter<lbr type="forced"/>
+<ts>________________________</ts><tspdf>\hfill </tspdf><persName key="48818"><rend class="latin">Constance Nissen</rend></persName></NS><lbr type="forced"/>
+<ts>_____</ts><suppl schr_id="57010">Wien 22 Mai 1810.</suppl>
+<pg n="4"/>
+<add_ident schr_id="0" impl="pencil">1810</add_ident></text>
+</MUP>

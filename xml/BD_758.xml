@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2014">2014-5</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1327</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">CH-Bu</bibl>
+            <bibl type="source" subtype="RISM">CH-Bu (Öffentliche Bibliothek der Universität Basel</bibl>
+            <bibl type="source" subtype="RISM">Musiksammlung)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:40:29 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_758.mup">
+<letter bd="758"><NI src="CH-Bu"><HEADER id="1327">WOLFGANG AMADÉ MOZART AN LEOPOLD MOZART IN SALZBURG<lbr/>
+WIEN, 12. JULI 1783</HEADER>
+<pg n="1"/>
+<ts>_________</ts><tshtm>_____</tshtm><rend class="latin">Mon trés cher Pére!</rend><ts>_____</ts><tshtm>________________________________________</tshtm><tspdf>\hfill </tspdf><rend class="latin"><u>Vie<abbr type="topline" expand="nn">n</abbr>e</u> ce</rend> 12 <rend class="latin">de Juillet</rend><lbr type="forced"/>
+<ts>___________</ts><tshtm>__________________________________________________________________________________________</tshtm><tspdf>\hfill </tspdf><uu>1783</uu><lbr type="forced"/>
+<lbr type="forced"/>
+Ich habe ihr schreiben vom 8:<h>ten</h> dieses richtig erhalten und mit vergnügen<lbr type="BD"/><lbr/>
+daraus vernohmen, daß sie be&#255;de gott lob und dank gesund sind.<lbr type="forced"/>
+we<abbr type="topline" expand="nn">n</abbr> sie das foppen ne<abbr type="topline" expand="nn">n</abbr>en wollen, was wirkliche hindernüsse ist, so ka<abbr type="topline" expand="nn">n</abbr><lbr/>
+ich<lbr type="BD"/> es ihnen nicht verwehren; &#8211; man ka<abbr type="topline" expand="nn">n</abbr> Jede sache be&#255; einem falschen<lbr/>
+Na<abbr type="topline" expand="mm">m</abbr>en<lbr type="BD"/> ne<abbr type="topline" expand="nn">n</abbr>en, we<abbr type="topline" expand="nn">n</abbr> es einem beliebt &#8211; ob es aber recht ist? &#8211; das<lbr/>
+ist eine andere<lbr type="BD"/> frage. &#8211; haben sie einmal an mir gemerkt daß<lbr/>
+<add_note schr_id="57010"><ts>___________________________________________________</ts>Sie<ts>___</ts>zu<ts>__</ts>sehen?</add_note>
+ich keine lust oder begierde<lbr type="BD"/> hätte <encr expand="sie zu sehen">ofl zh oluln</encr>? &#8211; gewis nicht! &#8211; <lbr/>
+<add_note schr_id="57010"><ts>_____________________________________________________________</ts>Salzburg<ts>_____________</ts>den Er-</add_note>
+aber wohl daß ich gar keine lust habe<lbr type="BD"/>&#160;<encr expand="salzburg">omezbhrg</encr> oder <encr expand="den erzbischof">dln lrz=</encr><lbr/>
+<add_note schr_id="57010">bischof<ts>__</ts>zu<ts>__</ts>sehen<ts>_____________________________</ts>wenn wir in<ts>__</ts>einen dritten</add_note>
+<encr expand="zu sehen">bfocusi zh oluln</encr>; &#8211; wer wäre also, <encr expand="wen wir in einen dritten">wln wfr fn lfnln drfttln</encr><lbr/>
+<add_note schr_id="57010">ort<ts>___</ts>zusammen kämen<ts>____________________________</ts>der<ts>________</ts>Gefoppte?</add_note>
+<encr expand="orte zusamen kämmen">srtl zhomaln km"aaln</encr>, wer wäre da<abbr type="topline" expand="nn">n</abbr> <encr expand="der gefoppte">dlr glispptl?</encr> &#8211; <lbr/>
+<add_note schr_id="57010">der<ts>________</ts>Erzbischof<ts>_________</ts>Sie</add_note>
+<u><encr expand="der erzbischof">dlr lrzbfocusi</encr> und nicht <encr expand="sie">ofl</encr></u>. &#8211; Ich hoffe nicht daß es nöthig<lbr/>
+<add_note schr_id="57010"><ts>____________________________</ts>mir<ts>__</ts>an<ts>__</ts>Salzburg<ts>________</ts>sehr wenig<ts>___________</ts>Erz-</add_note>
+ist zu sagen, daß <encr expand="mir an salzburg sehr wenig">afr mn omlzbhrg olur wlnfg</encr> und am <encr><dist>lrz<abbr type="curve">.</abbr></dist><reg>erz<abbr type="curve">.</abbr><expan>bischof</expan></reg></encr><lbr/>
+<add_note schr_id="57010">bischof<ts>___________________________________________________________________</ts>scheiße</add_note>
+gar nichts gelegen ist, und ich auf<lbr type="BD"/> be&#255;des <encr expand="scheisse">oculfool</encr> &#8211; und<lbr/>
+mein lebetage mir nicht im kopf ko<abbr type="topline" expand="mm">m</abbr>en liesse, <rend class="latin">extra</rend><lbr type="BD"/> eine<lbr/>
+<add_note schr_id="57010">Reise<ts>______</ts>hinzumachen,<ts>____________________________</ts>meine</add_note>
+<encr expand="reise hinzumachen">rlfol ufnzhamculn</encr>, we<abbr type="topline" expand="nn">n</abbr> nicht sie und <encr expand="meine schwester">alfnl ocuwlotlr</encr><lbr/>
+<add_note schr_id="57010">Schwester</add_note>
+daselbst<lbr type="BD"/> wären. &#8211; die ganze sache war also nur die gutme&#255;nende<lbr/>
+besorgnüss meiner<lbr type="BD"/> guten freunde, die doch auch gesunden Menschen<lbr/>
+verstand haben; &#8211; und ich<lbr type="BD"/> glaubte doch auch nicht so unvernünftig<lbr/>
+zu handeln, we<abbr type="topline" expand="nn">n</abbr> ich mich in dieser<lbr type="BD"/> sache be&#255; ihnen erkundigte,<lbr/>
+um da<abbr type="topline" expand="nn">n</abbr> ihrem Rath folgen zu kö<abbr type="topline" expand="nn">n</abbr>en; &#8211; die<lbr type="BD"/> ganze <encr expand="besorgnüsse">blorgnh"ool</encr><lbr/>
+<add_note schr_id="57010">Besorgnis<ts>_________________________</ts>er mich, da ich meine Entlassung </add_note>
+meiner freunde war, daß <encr expand="er mich, da ich meine entlassung">lr afcu, dm fcu alfnl lntemoohng</encr><lbr/>
+<add_note schr_id="57010"><ts>_________________</ts>arrestiren</add_note>
+nicht habe, <encr expand="arretiren">mrrltfrln</encr> lässt. &#8211; &#8211; Nun bin ich aber durch sie<lbr/>
+ganz <encr expand="getröstet">gltrs"otlt</encr> &#8211; und wir <encr expand="kommen">ksaaln</encr> im august &#8211; längstens<lbr/>
+<add_note schr_id="57010"><ts>_________</ts>getröstet<ts>_________________</ts>kommen</add_note>
+<pg n="2"/>
+September gewis; &#8211; Hr: <rend class="latin">v:<lbr type="BD"/> Babius</rend> ist mir auf der gassen begegnet<lbr/>
+und ist mit mir nach hause gegangen; &#8211;<lbr type="BD"/> er ist heute weg. &#8211; <lbr/>
+und we<abbr type="topline" expand="nn">n</abbr> er nicht schon gestern <rend class="latin">Engagirt</rend> gewesen wäre, so<lbr type="BD"/> hätte<lbr/>
+er be&#255; mir gespeist; &#8211; liebster vatter! &#8211; sie müssen nicht<lbr/>
+glauben daß weil es so<abbr type="topline" expand="mm">m</abbr>er ist, ich gar nichts zu thun habe.<lbr/>
+&#8211; alle leute sind doch<lbr type="BD"/> nicht auf dem Lande. &#8211; ich habe doch<lbr/>
+noch einige <rend class="latin">scolaren</rend> zu versehen; &#8211;<lbr type="BD"/> Nun habe einen beko<abbr type="topline" expand="mm">m</abbr>en<lbr/>
+in der komposizion &#8211; der wird <rend class="latin">curios</rend> drein sehen,<lbr type="BD"/> we<abbr type="topline" expand="nn">n</abbr> ich<lbr/>
+ihm meine abreise berichten werde. &#8211; Nun muß schlüssen,<lbr/>
+weil ich<lbr type="BD"/> noch viel zu schreiben habe. &#8211; lassen sie unterdessen<lbr/>
+die kugelstadt im garten<lbr type="BD"/> herrichten, de<abbr type="topline" expand="nn">n</abbr> meine frau ist<lbr/>
+eine sehr grosse liebhaberin davon; &#8211; Meine<lbr type="BD"/> frau hat<lbr/>
+i<abbr type="topline" expand="mm">m</abbr>er eine kleine Sorge sie möchte ihnen nicht gefallen,<lbr/>
+weil sie nicht<lbr type="BD"/> hüpsch ist &#8211; allein &#8211; ich tröste sie so gut ich<lbr/>
+ka<abbr type="topline" expand="nn">n</abbr> damit daß mein liebster<lbr type="BD"/> vatter nicht so viel auf<lbr/>
+äusserliche als i<abbr type="topline" expand="nn">n</abbr>erliche schönheit geht. &#8211; Nun leben<lbr type="BD"/><lbr/>
+sie wohl. Meine frau und ich küssen ihnen 1000mal die<lbr/>
+hände und umarmen<lbr type="BD"/> unsre liebe schwester von herzen<lbr/>
+und sind Ewig dero<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>__________</ts><tshtm>_________________________________________________</tshtm><tspdf>\hfill </tspdf>gehorsamste kinder<lbr type="BD"/><lbr type="forced"/>
+<ts>__________</ts><tshtm>_____________________________________________________</tshtm><tspdf>\hfill </tspdf>W: <rend class="latin">et</rend> C: Mozart <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+</NI></letter>
+</text>
+</MUP>

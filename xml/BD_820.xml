@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2015">2015-5</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1389</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:40:43 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_820.mup">
+<letter bd="820"><HEADER id="1389">LEOPOLD MOZART AN MARIA ANNA VON BERCHTOLD ZU SONNENBURG IN ST. GILGEN<lbr/>
+SALZBURG, VOR DEM 12. NOVEMBER 1784</HEADER>
+<pg n="1"/>
+<ts>_________</ts><tshtm>______________________________________________</tshtm><tspdf>\hfill </tspdf>Salzb<abbr type="curve">:</abbr> d<abbr v="en"/><ts>____</ts><rend class="latin">Nov<abbr type="curve">:</abbr></rend> 1784<lbr type="forced"/>
+<lbr type="forced"/>
+<tshtm>___</tshtm>Am <u>do<abbr type="topline" expand="nn">n</abbr>erstage</u> der vorigen Woche um halbe 1 uhr, als ich<lbr/>
+<tshtm>___</tshtm>am Mittagessen<lbr type="BD"/> sass brachte die Tresel die Rolle, <u>das <rend class="latin">Concert</rend></u>,<lbr/>
+<tshtm>___</tshtm>herein und sagte, es hätte solche<lbr type="BD"/> ein Weibsperson gebracht, &#8211; ich<lbr/>
+<tshtm>___</tshtm>schickte nach tische gleich hinauf um mich<lbr type="BD"/> erkundig<abbr v="en"/> zu lass<abbr v="en"/>, we<abbr type="topline" expand="nn">n</abbr><lbr/>
+<tshtm>___</tshtm>der Both wied<abbr v="er"/> abgehet: allein die Antwort<lbr type="BD"/> war, der Both wäre<lbr/>
+<tshtm>___</tshtm>schon den vorig<abbr v="en"/> Tag am Mittwoche geko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>, und<lbr type="BD"/> wäre heut schon wied<abbr v="er"/><lbr/>
+<tshtm>___</tshtm>nach 12 uhr Mittags weg und hätte diese Rolle zurück<lbr type="BD"/>gelassen,<lbr/>
+<tshtm>___</tshtm>daß man mir solche überbring<abbr v="en"/> solle. Diese ist also die Ursache<lbr type="BD"/><lbr/>
+<tshtm>___</tshtm>warum ich nicht hab schreib<abbr v="en"/> könn<abbr v="en"/>; de<abbr type="topline" expand="nn">n</abbr> da die Glastragerin die<lbr/>
+<tshtm>___</tshtm>Stifel<lbr type="BD"/> brachte, so dacht' ich mit dem Both<abbr v="en"/> zu schreib<abbr v="en"/>; dieser schickte<lbr/>
+<tshtm>___</tshtm>mir aber<lbr type="BD"/> das aufgegebne <rend class="latin">Concert</rend> nachdem er schon weg war, und<lbr/>
+<tshtm>___</tshtm>ich von seinem<lbr type="BD"/> Hierse&#255;n nichts wusste. Nach Wie<abbr type="topline" expand="nn">n</abbr> habe schon<lbr/>
+<add_note type="inline" impl="pencil" schr_id=""><symbol value="hash">#</symbol> </add_note>vorhinein auch in euerm<lbr type="BD"/> Nahmen <rend class="latin">gratulie</rend>rt; unterdess<abbr v="en"/> aber<lbr/>
+<tshtm>___</tshtm>auch von ihm ein in 8 Zeihlen bestehen<lbr type="BD"/>d<abbr v="en"/> LamentationsBrief<lbr/>
+<tshtm>___</tshtm>erhalt<abbr v="en"/>, weil er so lange von mir kein schreib<abbr v="en"/> erhalt<abbr v="en"/>, indem<lbr/>
+<tshtm>___</tshtm>|: ganz natürlich :| unter d<abbr v="er"/> Zeit, da ich drauss<abbr v="en"/> war, ein<lbr type="BD"/> Brief<lbr/>
+<tshtm>___</tshtm>von ihm vom 9<h>t<abbr v="en"/></h> schon hier lag. h<abbr type="curve">:</abbr> von <rend class="latin">D'Ippold</rend> hat ein<abbr v="en"/><lbr/>
+<tshtm>___</tshtm>schönen<lbr type="BD"/>&#160;<rend class="latin">A<abbr type="topline" expand="nn">n</abbr>anas</rend>, und da<abbr type="topline" expand="nn">n</abbr> eine Schachtl mit kostbar<abbr v="en"/> Birn geschickt.<lbr/>
+<tshtm>___</tshtm>den <rend class="latin">A<abbr type="topline" expand="nn">n</abbr>anas</rend>,<lbr type="BD"/> soll ich euch nebst seiner Empfehlung schick<abbr v="en"/>, und ich<lbr/>
+<tshtm>___</tshtm>werde seh<abbr v="en"/>, daß d<abbr v="er"/><lbr type="BD"/> Both die Birn auch mitnehm<abbr v="en"/> ka<abbr type="topline" expand="nn">n</abbr>. &#8211; die Schachtl<lbr/>
+<tshtm>___</tshtm>ist zi<abbr type="topline" expand="mm">m</abbr>lich schwer:<lbr type="BD"/> muß halt seh<abbr v="en"/> was d<abbr v="er"/> Both sagt.<lbr type="forced"/>
+<lbr type="BD"/><lbr type="forced"/>
+<tshtm>___</tshtm>Da alle Tage um 1 uhr bis halbe 3 uhr spazier<abbr v="en"/> gehe, so finde itzt<lbr/>
+<tshtm>___</tshtm>da zu<lbr type="BD"/> hause ko<abbr type="topline" expand="mm">m</abbr>e dein<abbr v="en"/> Brief und erfahre, daß d<abbr v="er"/> Grazerboth das<lbr/>
+<tshtm>___</tshtm><rend class="latin">Paquet</rend><lbr type="BD"/> gebracht hat. wäre d<abbr v="er"/> Both nur ein<abbr v="en"/> Augenblick zu mir<lbr/>
+<tshtm>___</tshtm>geko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>, so<lbr type="BD"/> würde alle diese Verwirrung nicht gewes<abbr v="en"/> se&#255;n.<lbr/>
+<tshtm>___</tshtm>um halbe 5 uhr wird d<abbr v="er"/><lbr type="BD"/> Both wied<abbr v="er"/> herko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>, da<abbr type="topline" expand="nn">n</abbr> muß erst seh<abbr v="en"/><lbr/>
+<tshtm>___</tshtm>was er mitnehm<abbr v="en"/> ka<abbr type="topline" expand="nn">n</abbr>:<lbr type="BD"/> de<abbr type="topline" expand="nn">n</abbr> es sind 2 Haub<abbr v="en"/> in einer Schachtl,<lbr/>
+<tshtm>___</tshtm>die Ohrringl und die Schue auch<lbr type="BD"/> da. Hast du de<abbr type="topline" expand="nn">n</abbr> die <rend class="latin">Variat<abbr type="curve">:</abbr></rend><lbr/>
+<tshtm>___</tshtm>vom Ekard nicht mit? ich glaub gewiß sie<lbr type="BD"/> drauss<abbr v="en"/> geseh<abbr v="en"/><lbr/>
+<tshtm>___</tshtm>zu hab<abbr v="en"/>. itzt kö<abbr type="topline" expand="nn">n</abbr>te ichs ohnmöglich alles find<abbr v="en"/>; da<abbr type="topline" expand="nn">n</abbr><lbr type="BD"/> ich muß<lbr/>
+<lbr/>
+<add_seal type="owner"><ts>___</ts>DOM=<lbr type="forced"/><ts>___</ts>MUSICK=VEREIN<lbr type="forced"/><ts>___</ts>U.<lbr type="forced"/><ts>___</ts>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner"><ts>___</ts>INTERNATIONALE<lbr type="forced"/><ts>___</ts>STIFTUNG:<lbr type="forced"/><ts>___</ts>„MOZARTEUM”<lbr type="forced"/><ts>___</ts>1881</add_seal>
+<pg n="2"/>
+doch auch in die <rend class="latin">Co<abbr type="topline" expand="mm">m</abbr>oedie</rend> geh<abbr v="en"/>, und hab noch so alles zu<lbr/>
+sa<abbr type="topline" expand="mm">m</abbr><lbr type="BD"/>zupack<abbr v="en"/>, weil erst hör<abbr v="en"/> muß was d<abbr v="er"/> Both mit sich<lbr/>
+trag<abbr v="en"/> ka<abbr type="topline" expand="nn">n</abbr>, und d<abbr v="er"/><lbr type="BD"/> Brief an Wolfg<abbr type="curve">:</abbr> muß auch noch<lbr/>
+auf die Post. &#8211; Wie es mir geht? &#8211; &#8211; <lbr/>
+Nicht<lbr type="BD"/> gut, &#8211; und nicht schlecht. Mit dem Essen<lbr/>
+wäre schon so zufried<abbr v="en"/>, we<abbr type="topline" expand="nn">n</abbr> nur<lbr type="BD"/> das Rindfleisch<lbr/>
+nicht <u>wie Stein</u>, und <u>schlecht</u> wäre. und zu hause<lbr/>
+muß ich<lbr type="BD"/> i<abbr type="topline" expand="mm">m</abbr>er den stu<abbr type="topline" expand="mm">m</abbr><abbr v="en"/> Prinz<abbr v="en"/> mach<abbr v="en"/>, we<abbr type="topline" expand="nn">n</abbr> ich<lbr/>
+anders nicht will das Gri<abbr type="topline" expand="mm">m</abbr><abbr v="en"/><lbr type="BD"/> und d<abbr v="en"/> Bauchwehe<lbr/>
+beko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>. Ein paar mahl war abends von 5 uhr<lbr/>
+bis<lbr type="BD"/> 7 uhr be&#255;m Hagenauer. h<abbr type="curve">:</abbr> Schmidt macht<lbr/>
+seine Sache noch i<abbr type="topline" expand="mm">m</abbr>er gut. Vor<lbr type="BD"/>gestern sind die<lbr/>
+2 Sängerin<abbr v="en"/> mit ihrem Vatter geko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>, am Sontag<lbr type="BD"/><lbr/>
+werd<abbr v="en"/> sie untern <rend class="latin">Acten</rend> mit <rend class="latin">Arien</rend> sich hör<abbr v="en"/> lass<abbr v="en"/>.<lbr/>
+Mit dem Schüss<abbr v="en"/><lbr type="BD"/> siehts elend aus. Nur einmahl<lbr/>
+hab<abbr v="en"/> wir geschoss<abbr v="en"/>, und wer? &#8211; <u>ich</u>, d<abbr v="er"/><lbr type="BD"/>&#160;<u>Zahlmeister</u><lbr/>
+und d<abbr v="er"/> <u>Wegscheider</u>. auch die Katerl steckt<lbr/>
+den Plazisch<abbr v="en"/> als<lbr type="BD"/>&#160;<rend class="latin">guvernante</rend> i<abbr type="topline" expand="mm">m</abbr>er im Ar&#8211; <lbr/>
+Was etwa gescheh<abbr v="en"/> wird, werd<abbr v="en"/> wir wohl bald<lbr type="BD"/> sehen.<lbr/>
+Es hat ein schlechtes Ausseh<abbr v="en"/>, weil keine Frauen<pc force="weak">=</pc><lbr/>zi<abbr type="topline" expand="mm">m</abbr>er mehr dabe&#255;<lbr type="BD"/> sind. ich denke ich werde<lbr/>
+die <rend class="latin">Simonelli Na<abbr type="topline" expand="nn">n</abbr>erl</rend>&#160;<abbr expand="etc">p</abbr>: und d<abbr v="er"/>gleich<abbr v="en"/> Un<lbr type="BD"/>geziefer<lbr/>
+einlad<abbr v="en"/> müss<abbr v="en"/>. Nun hab zum Both<abbr v="en"/> wied<abbr v="er"/><lbr/>
+geschickt. ich muß<lbr type="BD"/> schlüss<abbr v="en"/>. Küsse euch alle von<lbr/>
+Herz<abbr v="en"/> und bin d<abbr v="er"/> alte<lbr type="forced"/>
+<ts>__________</ts><tshtm>____________________________</tshtm><tspdf>\hfill </tspdf>Mzt <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="3"/>
+<tspdf>\newline</tspdf>
+We<abbr type="topline" expand="nn">n</abbr> d<abbr v="er"/> Both alles mitnehm<abbr v="en"/> ka<abbr type="topline" expand="nn">n</abbr>, so bringt<lbr/>
+2 schachteln. in einer die<lbr type="BD"/> 2 haub<abbr v="en"/> und am<lbr/>
+bod<abbr v="en"/> die Ohrgeheng.<lbr type="forced"/>
+in d<abbr v="er"/> and<abbr v="ern"/> d<abbr v="en"/>&#160;<rend class="latin">A<abbr type="topline" expand="nn">n</abbr>anas</rend> und Birn.<lbr type="forced"/>
+dan die schue <rend class="latin">extra</rend> in einem Papier eingebund<abbr v="en"/>.<lbr type="forced"/>
+<lbr type="forced"/>
+Ausgelegt habe:<ts>_____________________</ts><tspdf>_____________</tspdf><ts>______________________</ts>f<lbr type="BD"/><lbr type="forced"/>
+<ts>______</ts>An den Saifensied<abbr v="er"/>.<ts>____________________________</ts><tspdf>\hfill </tspdf>„ 5 „ 33<lbr type="BD"/><lbr type="forced"/>
+<ts>______</ts>dem hochadl: Stiflwixer<ts>_______________________</ts><tspdf>\hfill </tspdf>„ &#8211; „ 12<lbr type="BD"/><lbr type="forced"/>
+<ts>______</ts>der Huberna<abbr type="topline" expand="nn">n</abbr>erl wegen<lbr type="forced"/>
+<ts>______</ts>weiszeug, das aufgehob<abbr v="en"/> habe.<ts>_________</ts><tspdf>\hfill </tspdf>„ -1 „ 28<lbr type="BD"/><lbr type="forced"/>
+<ts>______</ts>für die 2 Haub<abbr v="en"/><ts>____________________________________</ts><tspdf>\hfill </tspdf>„ &#8211; „ 20<lbr type="BD"/><lbr type="forced"/>
+<ts>______</ts>für die Ohrgehäng<ts>_______________________________</ts><tspdf>\hfill </tspdf>„ &#8211; „ 15<lbr type="BD"/><lbr type="forced"/>
+<ts>____</ts>dem <rend class="latin">D'Ippold</rend> bedient<abbr v="en"/> Trinkgeld<ts>____________</ts><tspdf>\hfill </tspdf>„ &#8211; „ 12<lbr type="BD"/><lbr type="forced"/>
+<ts>__</ts>dem Schuemacher 50 <rend class="latin">X</rend> für die<lbr type="forced"/>
+<ts>_____</ts>Schue und 8 <rend class="latin">x</rend> für die Bandl<ts>__________________</ts><tspdf>\hfill </tspdf>„ &#8211; „ 58<lbr type="BD"/><lbr type="forced"/>
+<ts>___________________________________________________________________</ts><tspdf>\hfill </tspdf><line w="5em"/><lbr type="BD"/><lbr type="forced"/>
+<ts>_______</ts><tshtm>______________________________________________________________</tshtm><tspdf>\hfill </tspdf>8 f 58 <rend class="latin">X<h>r</h></rend><lbr type="forced"/>
+<ts>____________</ts>Nun zugeschnürt und in die <rend class="latin">Co<abbr type="topline" expand="mm">m</abbr>œdie</rend><lbr/>
+<tshtm>____________</tshtm>gee&#255;lt.<lbr type="forced"/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="4"/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+</letter>
+</text>
+</MUP>

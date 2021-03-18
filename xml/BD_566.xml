@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2013">2013-5</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1132</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">S-Smf</bibl>
+            <bibl type="source" subtype="RISM">S-Smf (Stiftelsen Musikkulturens främjande)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:39:31 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_566.mup">
+<letter bd="566"><HEADER id="1132">LEOPOLD MOZART AN WOLFGANG AMADÉ MOZART IN MÜNCHEN<lbr/>
+SALZBURG, 22. DEZEMBER 1780</HEADER>
+<pg n="1"/>
+<rend class="latin">Mon très cher Fils!</rend><ts>______</ts><tshtm>__________________________________________</tshtm><tspdf>\hfill </tspdf>Salzb<abbr type="curve">.</abbr> d<abbr v="en"/> 22 <rend class="latin">Decemb<abbr type="curve"></abbr></rend> 1780.<lbr type="forced"/>
+<lbr type="forced"/>
+Ich muß in Eile schreib<abbr v="en"/>, de<abbr type="topline" expand="nn">n</abbr> der Postwag<abbr v="en"/> geht morg<abbr v="en"/> frühe, also um<lbr type="BD"/> ein<abbr v="en"/><lbr/>
+Tag früher ab. Hier sind die <u>Pillulen</u>. Davon werden <u><rend class="latin">NB:</rend> ein<abbr v="en"/> Tag,<lbr type="BD"/> nach<pc force="weak">=</pc><lbr/>dem der Mond hat angefang<abbr v="en"/> abzunehm<abbr v="en"/></u> Morgens 5 <suppl hand="self" pos="supra">geno<abbr type="topline" expand="mm">m</abbr><abbr v="en"/></suppl>, da<abbr type="topline" expand="nn">n</abbr><lbr type="BD"/> ka<abbr type="topline" expand="nn">n</abbr> man<lbr/>
+nach Belieb<abbr v="en"/> in <u>anderthalb Stund<abbr v="en"/></u> darauf ein frühstück nehm<abbr v="en"/>.<lbr type="BD"/> Nachts vor<lbr/>
+schlaff<abbr v="en"/> gehen abermals <u>5.</u> Damit wird fortgefahr<abbr v="en"/>, bis der ab<lbr type="BD"/>nehmende<lbr/>
+Mond vorbe&#255; ist. dabe&#255; ist für das Frauenzi<abbr type="topline" expand="mm">m</abbr>er das ungelegenste,<lbr type="BD"/> daß&#160;<lbr/>
+<u>es Zeit<abbr v="en"/> giebt</u>, wo sie diese Medizin zu nehm<abbr v="en"/> verschieb<abbr v="en"/> od<abbr v="er"/> aus<lbr type="BD"/>setz<abbr v="en"/> müss<abbr v="en"/>.<lbr type="forced"/>
+<lbr type="BD"/><lbr type="forced"/>
+Hier ko<abbr type="topline" expand="mm">m</abbr>en die <u>3 Ackt zum druck</u> geschrieb<abbr v="en"/>. Was weg<abbr v="en"/> den <u>Nahm<abbr v="en"/><lbr type="BD"/> der <rend class="latin">Recitir</rend>en<tspdf>- </tspdf>d<abbr v="en"/></u><lbr/>
+Person<abbr v="en"/>. &#8211; &#8211; der <u>Erfindung</u>&#160;<u>der <rend class="latin">Balets</rend></u>. &#8211; &#8211; der <u><rend class="latin">Ballet</rend>=Musik</u><lbr type="BD"/>&#160;<abbr expand="etc">p</abbr>:<lbr/>
+hineinzusetz<abbr v="en"/> ist, ist Platz gelass<abbr v="en"/>.<lbr type="forced"/>
+Was vor ieder großen <u>Scen=Verand<abbr v="er"/>ung</u> hineingeschrieb<abbr v="en"/> ist, wird |: we<abbr type="topline" expand="nn">n</abbr><lbr type="BD"/>&#160;<u>h<abbr type="curve">:</abbr>&#160;<rend class="latin">Quaglio</rend></u><lbr/>
+es in etwas abgeändert hätte :| leicht im Buch zu verändern se&#255;n. &#8211; &#8211; <lbr type="BD"/><lbr/>
+So wird zum Beyspiele im <u><rend class="latin">Atto Primo</rend></u>&#160;<u><rend class="latin">Scena</rend> VIII</u> da es heißt: <rend class="latin"><u>Nettuno esce</u></rend> &#38;c:<lbr/>
+und<lbr type="BD"/> da<abbr type="topline" expand="nn">n</abbr>&#160;<rend class="latin"><u>Nel fondo della Prospettiva</u>&#160;<u>si vede Idomeneo, che si sforza<lbr/>
+arrampicarsi<lbr type="BD"/> sopra quei dirupi</u></rend> &#38;c: da sage ich wird man die <u>Nachricht</u><lbr/>
+und <u>Erklerung dieser<lbr type="BD"/> Scene</u> so einricht<abbr v="en"/> müssen, wie man sie vorzu<pc force="weak">=</pc><lbr/>stellen gedencket. &#8211; Das ist,<lbr type="BD"/>&#160;<u>ob <rend class="latin">Idomeneo</rend> im Schiffe verbleibt</u>, oder<lbr/>
+ob er zwar nicht schifbruch leidet, doch<lbr type="BD"/> weg<abbr v="en"/> der anscheinend<abbr v="en"/> Gefahr mit<lbr/>
+sein<abbr v="en"/> Leut<abbr v="en"/> die Schiffe verlass<abbr v="en"/> und<lbr type="BD"/> sich auf die Fels<abbr v="en"/> gerettet hat. Kurz!<lbr/>
+Es ko<abbr type="topline" expand="mm">m</abbr>t darauf an, wie ma<abbr type="topline" expand="nn">n</abbr>s vor<lbr type="BD"/>stellt. Es wird dem h<abbr type="curve">:</abbr>&#160;<rend class="latin">Quaglio</rend><lbr/>
+als einem geschickt<abbr v="en"/> und erfahrn<abbr v="en"/> Ma<abbr type="topline" expand="nn">n</abbr>e<lbr type="BD"/> überlass<abbr v="en"/>. Zertrü<abbr type="topline" expand="mm">m</abbr>erte Schiffe<lbr/>
+müssen doch se&#255;n, de<abbr type="topline" expand="nn">n</abbr> im <rend class="latin">Recit:</rend> von<lbr type="BD"/>&#160;<u><rend class="latin">Scena</rend> 10</u> sagt <u>Idamantes<lbr/>
+<rend class="latin">vedo frà quel'avvanzi di fracassate Navi su quel Lido<lbr type="BD"/> sconosciuto querier</rend></u>.<lbr type="forced"/>
+Nun weiter! Du willst <rend class="latin">absolute</rend> 2 <rend class="latin">Recit:</rend> abgekürzt. Ich<lbr type="BD"/> ließ den <rend class="latin">Varesco</rend><lbr/>
+also gleich hohlen, de<abbr type="topline" expand="nn">n</abbr> heut abends um 5 Uhr bekam ich<lbr type="BD"/> dein<abbr v="en"/> Brief, und morg<abbr v="en"/><lbr/>
+frühe geht der Postwag<abbr v="en"/> weg. Wir lasen es hin,<lbr type="BD"/> wir las<abbr v="en"/> es her, und beyde<lbr/>
+find<abbr v="en"/> wir keine Gelegenheit abzukürz<abbr v="en"/>. Es ist<lbr type="BD"/> nach dem französ<abbr type="curve">:</abbr> so wie d<abbr v="er"/> Pla<abbr type="topline" expand="nn">n</abbr> es<lbr/>
+verlangte, übersetzt. ja, man sehe im<lbr type="BD"/> Plan nach, es wurde noch verlangt<lbr/>
+man sollte dieses <rend class="latin">Recit:</rend> ein bisch<abbr v="en"/> ver<lbr type="BD"/>längern, damit sie einand<abbr v="er"/> nicht so geschwind<lbr/>
+erke<abbr type="topline" expand="nn">n</abbr><abbr v="en"/> möcht<abbr v="en"/> und itzt will<lbr type="BD"/> mans ins lächerliche treib<abbr v="en"/>, daß sie einand<abbr v="er"/><lbr/>
+nach etlich<abbr v="en"/> Wort<abbr v="en"/> schon<lbr type="BD"/> gleich ke<abbr type="topline" expand="nn">n</abbr><abbr v="en"/> soll<abbr v="en"/>. Ich wils erklär<abbr v="en"/>:<lbr type="forced"/>
+<u>Idamantes</u> muß doch sag<abbr v="en"/> warum er da ist, sieht den fremd<abbr v="en"/> und biethet<lbr type="BD"/><lbr/>
+ihm seine Dienste an. <rend class="latin"><u>Idomen</u>:</rend> geht ietzt schon so nahe, daß er von schmer<lbr type="BD"/>z<abbr v="en"/><lbr/>
+spricht und muß ihm doch dafür ein gegen<rend class="latin">Compliment</rend> mach<abbr v="en"/>. und da<abbr type="topline" expand="nn">n</abbr><lbr type="BD"/>&#160;<lbr/>
+<u>Idamant</u>: ihm wied<abbr v="er"/> sag<abbr v="en"/>, daß er mitleid<abbr v="en"/> mit verunglückt<abbr v="en"/> hat, weil er<lbr type="BD"/> selbst<lbr/>
+das unglück erfahr<abbr v="en"/>. des <u>Idomeneus</u> antwort ist eine nothwendige<lbr type="BD"/> frage.<lbr/>
+Nun erzehlt <u>Idamantes</u> das unglück des Königs und Idomeneus macht<lbr type="BD"/> durch die&#160;<lbr/>
+<u>rätselhaft<abbr v="en"/></u> Worte <rend class="latin"><u>uom più di questo</u></rend>&#160;<abbr expand="etc">p</abbr>: daß <u>Idamantes</u> ein<abbr v="en"/> schein<lbr type="BD"/> d<abbr v="er"/> hofnung<lbr/>
+beko<abbr type="topline" expand="mm">m</abbr>t und fragt im Eyfer <rend class="latin"><u>di<abbr type="topline" expand="mm">m</abbr>i amico, di<abbr type="topline" expand="mm">m</abbr>i dov'é</u>?</rend> Dieser<lbr type="BD"/> Eyfer macht, daß<lbr/>
+<pg n="2"/>
+<rend class="latin">Idomeneus</rend> fragt <rend class="latin"><u>ma d'onde</u></rend> &#38;c. &#8211; Muß nicht hier <u>Idamantes</u><lbr type="BD"/> sich so erklär<abbr v="en"/>,<lbr/>
+daß er sich als ein<abbr v="en"/> seines Vatters würdig<abbr v="en"/> Sohn mahlt<lbr type="BD"/> und die Verwund<abbr v="er"/>ung<lbr/>
+Hochachtung und Begierde be&#255; <rend class="latin">Idomeneo</rend> erregt zu<lbr type="BD"/> erfahr<abbr v="en"/>, wer dieser junge Mensch<lbr/>
+ist, welches da<abbr type="topline" expand="nn">n</abbr> be&#255; der Erke<abbr type="topline" expand="nn">n</abbr>tniß, daß<lbr type="BD"/> es sein Sohn ist, die ganze Sache<lbr/>
+<rend class="latin">interessant</rend>er macht? &#8211; &#8211; will man nun aber<lbr type="BD"/>&#160;<rend class="latin">par force</rend> etwas<lbr/>
+weglass<abbr v="en"/>, so habe ich nachgedacht, daß nach dem <rend class="latin">Recit:</rend> des<lbr type="BD"/>&#160;<rend class="latin">Idamante <u>che favelli</u>?<lbr/>
+vive egli ancor?</rend> &#38;c: welches schlüsset: <rend class="latin"><u>dove quel dolce<lbr type="BD"/> aspetto vita mi Rendera</u>?<lbr/>
+<uu>Idomeneo</uu>. <u>ma d'onde nasce questa, che per lui nutri<lbr type="BD"/> tenerezza d'amor</u>?</rend> da<abbr type="topline" expand="nn">n</abbr><lbr/>
+gleich <rend class="latin"><u>perchè qual tuo parlar si mi conturba</u>?<lbr type="BD"/>
+<uu>Idamante</uu> e qual mi sento anch'io</rend><lbr/>
+und da<abbr type="topline" expand="nn">n</abbr> so fort <abbr expand="etc">p</abbr>: Hier bleiben 1 <formula type="mfrac"><mn>1</mn><mi>2</mi></formula> Seite<lbr type="BD"/> in der gegenwärtig mitko<abbr type="topline" expand="mm">m</abbr>end<abbr v="en"/> ab<pc force="weak">=</pc><lbr/>schrift des <rend class="latin">Varesco</rend>&#160;<u>pag: 32</u> weg. nämlich<lbr type="BD"/> die schöne Erzehlung d<abbr v="er"/> Heldenthat<abbr v="en"/> so anfängt<lbr/>
+<rend class="latin"><u>Idaman:</u> Potessi almeno</rend>&#160;<abbr expand="etc">p</abbr>:<lbr type="BD"/> und da mags um ein <uu>Minute</uu> kürzer werd<abbr v="en"/>, ja<lbr/>
+in <rend class="latin">punto</rend> um eine ganze Mi<lbr type="BD"/>nute. großer Gewi<abbr type="topline" expand="nn">n</abbr>! od<abbr v="er"/> Wollt ihr den Vatter<lbr/>
+und Sohn so zusa<abbr type="topline" expand="mm">m</abbr>lauf<abbr v="en"/><lbr type="BD"/> und sich erke<abbr type="topline" expand="nn">n</abbr><abbr v="en"/> mach<abbr v="en"/>, wie der verkleidete <rend class="latin">Arlequin</rend> und<lbr/>
+<rend class="latin">brigella</rend> als be<lbr type="BD"/>diente in einem fremd<abbr v="en"/> Lande sich find<abbr v="en"/> und geschwind ke<abbr type="topline" expand="nn">n</abbr><abbr v="en"/> und<lbr/>
+um<lbr type="BD"/>arm<abbr v="en"/>. Gedencket, daß dieses eine <u>der schönst<abbr v="en"/> Scen<abbr v="en"/> der <rend class="latin">opera</rend></u>,<lbr/>
+ja die<lbr type="BD"/>&#160;<u>HauptScene ist</u> von d<abbr v="er"/> die ganze Folge d<abbr v="er"/> Geschichte abhängt. Diese <rend class="latin">Scene</rend><lbr type="BD"/><lbr/>
+ka<abbr type="topline" expand="nn">n</abbr> auch nicht leicht ermied<abbr v="en"/>, <u>weils im erst<abbr v="en"/> Akt ist</u>.<lbr type="forced"/>
+Im 2<h>t<abbr v="en"/></h> Act ka<abbr type="topline" expand="nn">n</abbr> nichts anders wegbleib<abbr v="en"/>, als in d<abbr v="er"/> 2<h>t<abbr v="en"/></h> Rede des <rend class="latin">Idomeneo</rend>.<lbr type="BD"/><lbr/>
+<rend class="latin"><u>Idomeneo</u> un Sol Consiglio or mi fà d'uopo. ascolta: Tu sai quanto<lbr/>
+a Trojani<lbr type="BD"/> fù il mio brando fatal. <u>Arbace</u> tutto m'é noto</rend> &#38;c: da<abbr type="topline" expand="nn">n</abbr> geht<lbr/>
+es fort und ka<abbr type="topline" expand="nn">n</abbr><lbr type="BD"/> kein Wort mit gesunder Vernunft ausbleib<abbr v="en"/>, dieses ganze<lbr/>
+<rend class="latin">Recit:</rend> kann auch<lbr type="BD"/> nicht lange dauern, weil viele Sach<abbr v="en"/> dari<abbr type="topline" expand="nn">n</abbr>e sind, die mit<lbr/>
+Eifer und geschwind<lbr type="BD"/> müss<abbr v="en"/>&#160;<rend class="latin">reciti</rend>ert werd<abbr v="en"/>, und da gewi<abbr type="topline" expand="nn">n</abbr>t ihr eine <u>Halbe <rend class="latin">Minute</rend></u>!<lbr/>
+großer gewi<abbr type="topline" expand="nn">n</abbr>! Dieses <rend class="latin">Recit:</rend> wird auch keine Seele ermüd<abbr v="en"/>, da es <u>das erste</u> im<lbr/>
+2<h>t<abbr v="en"/></h> act<lbr type="BD"/> ist. was allenfalls noch auszulass<abbr v="en"/> wäre, ist we<abbr type="topline" expand="nn">n</abbr> nach dem <u>Recit</u>: des<lbr/>
+<rend class="latin"><uu>Arbace</uu><lbr type="BD"/> Mala s'usurpa un Rè</rend>&#160;<abbr expand="etc">p</abbr>: gleich <rend class="latin"><uu>Idomeneo</uu></rend> sagt: <rend class="latin">Il voto è ingiusto</rend>.<lbr type="forced"/>
+Da blieben dan weg: <rend class="latin"><uu>Idomen</uu>:</rend>&#160;<u><rend class="latin">Intendo Arbace</rend></u>, intendo <abbr expand="etc">p</abbr><abbr expand="etc">p</abbr>. und <rend class="latin"><uu>Arbace</uu>&#160;<u>Medica man</u></rend><lbr type="BD"/>&#160;<abbr expand="etc">p</abbr>:<lbr/>
+Ob es nun der Mühe lohnt weg<abbr v="en"/> einer solche Kleinigkeit die<lbr type="BD"/> 2 <formula type="mfrac"><mn>1</mn><mi>2</mi></formula> Minute höchstens<lbr/>
+beträgt eine Enderung zu mach<abbr v="en"/>, weis ich nicht,<lbr type="BD"/> sond<abbr v="er"/>heitl: da diese <rend class="latin">Recit:</rend> an den<lbr/>
+Ort<abbr v="en"/> steh<abbr v="en"/>, wo sie niemand ermüd<abbr v="en"/><lbr type="BD"/> ke<abbr type="topline" expand="nn">n</abbr><abbr v="en"/>. Im erst<abbr v="en"/> Ackt ist alle Welt gedultig, und<lbr/>
+das erste <rend class="latin">Recit:</rend> im 2<h>t<abbr v="en"/></h><lbr type="BD"/> Ackt ermüdet kein<abbr v="en"/> Mensch<abbr v="en"/>. Mir ists lächerlich: de<abbr type="topline" expand="nn">n</abbr> be&#255;<lbr/>
+der Prob, wo das<lbr type="BD"/> Aug nichts hat, ists freilich gleich langweilig, aber im Theater<lbr/>
+wo zwisch<abbr v="en"/><lbr type="BD"/> dem Theater selbst und den<abbr v="en"/> anwesend<abbr v="en"/> zusehern so viele Gegen<pc force="weak">=</pc><lbr/>stände<lbr type="BD"/> der Zerstreuung sind, geht so ein <rend class="latin">Recit:</rend> weg, ohne daß mans bemerket.<lbr/>
+das<lbr type="BD"/> magst du in meinem Nahm<abbr v="en"/> aller Welt sag<abbr v="en"/>. Sollte aber dem ohngeachtet so<lbr type="BD"/> etwas<lbr/>
+ausgelass<abbr v="en"/> werd<abbr v="en"/>: so bitte mir aus daß alles gedruckt wird. h<abbr type="curve">:</abbr>&#160;<rend class="latin">Varesco</rend><lbr type="BD"/> weiß von allem<lbr/>
+nichts, was ich hier geschrieb<abbr v="en"/>. &#8211; Hat h<abbr type="curve">:</abbr> schachtner nicht<lbr type="BD"/> alles in d<abbr v="er"/> größt<abbr v="en"/> Vollko<abbr type="topline" expand="mm">m</abbr>enheit gemacht, so<lbr/>
+muß man bedenck<abbr v="en"/>, daß<lbr type="BD"/> die Zeit sehr Kurz war. Hier sind die vom <rend class="latin">Æsopus</rend> geschriebne <rend class="latin">Arien</rend> alle.<lbr type="BD"/><lbr/>
+auch ein Brief vom Schachtner, der sich sa<abbr type="topline" expand="mm">m</abbr>t <rend class="latin">Varesco</rend> empfehlen. Wir<lbr type="BD"/> wünschen Dir Glück, daß die <rend class="latin">opera</rend><lbr/>
+so gut ausfallt. nächsten Posttag mehrers.<lbr type="BD"/>&#160;<rend class="latin">addio</rend>. alles be&#255;m Liecht mit Augengläsern geschrieb<abbr v="en"/>.<lbr type="forced"/>
+<tspdf>\newline</tspdf> 
+Wir empfehlen uns<lbr type="BD"/>&#160;<u>allen</u>, dich küssen wir millionenmahl und ich bin Dein alter getreuer Vatter<lbr type="forced"/>
+<ts>_____________________</ts><tshtm>_____________________________________________________________________________________________</tshtm><tspdf>\hfill </tspdf>L Mozart <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+</letter>
+</text>
+</MUP>

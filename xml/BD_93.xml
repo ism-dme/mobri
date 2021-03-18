@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2020">2020-02</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=651</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Verbleib unbekannt (Vorlage: Abschrift um 1768 in D-B)</bibl>
+            <bibl type="source" subtype="RISM">Verbleib unbekannt, Vorlage: Abschrift um 1768 in D-B</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:36:40 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_93.mup">
+<letter bd="93">
+<NI src="unbekannt">
+<HEADER id="651">LEOPOLD MOZART AN LORENZ HAGENAUER IN SALZBURG<lbr/>
+LONDON, 27. NOVEMBER 1764</HEADER>
+<pg n="1"/>
+<add_num schr_id="57010" impl="crayon" color="red"><ts>__________________</ts>27</add_num>
+<ts>_______________________________</ts><tspdf>\hfill </tspdf><rend class="latin">London</rend> den 27.<h>ten</h>&#160;<rend class="latin">Novb<abbr type="curve">:</abbr></rend><lbr type="forced"/>
+<ts>______________________</ts><tshtm>_____________________________</tshtm><tspdf>\hfill </tspdf>1764.<lbr type="forced"/>
+<rend class="latin">Monsieur</rend>! <add_empf type="inline" schr_id="53262"><ts>___________</ts>d<abbr v="en"/> 11t<abbr v="en"/>&#160;<rend class="latin">december</rend><lbr/>
+<ts>___________________________________</ts>Empfang<abbr v="en"/></add_empf><lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____</ts>Wundern sie sich nicht, daß ich ihnen<lbr/>
+etwas später antworte, ich habe mehr<lbr type="BD"/><lbr/>
+zu thun, als sich mancher etwa einbilden<lbr/>
+wird, obwohl noch die <rend class="latin">Noblesse</rend><lbr type="BD"/> nicht<lbr/>
+in der Statt ist, und das Parlament, wie<pc force="weak">=</pc><lbr/>der die Gewohnheit, erst den<lbr type="BD"/> 10.<h>t<abbr v="en"/></h>&#160;<rend class="latin">Jan:</rend> des<lbr/>
+künftigen Jahres zusammen kommet;<lbr/>
+folglich noch zur Zeit<lbr type="BD"/> sich der <rend class="latin">guinées</rend><pc force="weak">-</pc><lbr/>Flug nicht sehen lässt, und ich immer aus<lbr/>
+dem Beutl zehre.<lbr type="BD"/> Nun ist es aber bald<lbr/>
+Zeit, daß ich wieder einfülle, den seit An<pc force="weak">=</pc><lbr/>fange des <rend class="latin">Julij</rend><lbr type="BD"/> bis ietzt, bin ich mehr als<lbr/>
+um 170. <rend class="latin">guineés</rend> ringer geworden. Ich<lbr/>
+habe über<lbr type="BD"/> all dieses eine grosse Aus<pc force="weak">=</pc><lbr/>gaabe 6. <rend class="latin">Sonat</rend>en von unserm H<abbr type="curve">:</abbr>&#160;<rend class="latin">Wolf<pc force="weak">=</pc><lbr/>gang</rend> stechen<lbr type="BD"/> und drucken zu lassen, die<lbr/>
+der Königinn von Grossbrittanien |: auf ihr<lbr/>
+<pg n="2"/>
+selbst<lbr type="BD"/> verlangen :| <rend class="latin">dedici</rend>ert werden;<lbr/>
+Eine Sache, die in dieser grossen Statt<lbr/>
+sehr viel<lbr type="BD"/> Bemühung verursachet, indem<lbr/>
+man zu einen <rend class="latin">graveur</rend> |: wie es auch zu<lbr/>
+<rend class="latin">Paris</rend><lbr type="BD"/> war :| so weit als bis in Hellbrun<lbr/>
+zu <rend class="latin">marchi</rend>ren hat: und diese Leute muß<lbr type="BD"/><lbr/>
+man immer antreiben, denn sie haben<lbr/>
+viel zu thun. <tshtm>_____</tshtm>Daß wir alle, und<lbr/>
+beson<lbr type="BD"/>ders ich, Gott lob, wohl auf sind, kön<pc force="weak">=</pc><lbr/>nen sie daraus schlüssen; weil ich die<pc force="weak">=</pc><lbr/>ser<lbr type="BD"/> Täge ein Spaziergang zu <rend class="latin">Mr: Teissier</rend><lbr/>
+in die Statt hinein gemacht habe, welches<lbr type="BD"/><lbr/>
+etwa so weit, als bis nach <rend class="latin">Aniff</rend>, ober<lbr/>
+dem Hellebrunn, se&#255;n mag.<ts>_____</ts>Man<lbr/>
+sagt,<lbr type="BD"/>&#160;<u>in die Statt</u> oder nach hiesiger sprache,<lbr/>
+<u><rend class="latin">city:</rend></u> weil ich in dem Theil von <choice><orig><rend class="latin">West<lbr type="BD"/>mün<pc force="weak">=</pc><lbr/>ster</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">Westminster</rend></corr></choice>, wo der königliche Hof, die Gesandten<lbr/>
+und meiste <rend class="latin">Noblesse</rend> ist, und<lbr type="BD"/> wo auch alle<lbr/>
+<rend class="latin">opera</rend> und <rend class="latin">Comoedi</rend>en Häuser sind, wohne.<lbr/>
+<rend class="latin">London</rend> aber be<lbr type="BD"/>stehet aus dre&#255;en be<pc force="weak">=</pc><lbr/>nennungen oder 3. <rend class="latin">respective</rend> Stätt, die<lbr/>
+aber, wie eine<lbr type="BD"/> einzige entsetzlich<lbr/>
+<pg n="3"/>
+grosse Statt, völlig genaue zusammen hanget,<lbr/>
+nämlich:<lbr type="BD"/>&#160;<choice><orig><rend class="latin">Westmünster</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">Westminster</rend></corr></choice>, <rend class="latin">London</rend> und<lbr/>
+<rend class="latin">Southwark</rend>. Nur ist der Unterschied, daß<lbr/>
+die<lbr type="BD"/> Strassen in theil <rend class="latin">Westmünster</rend> nebst<lbr/>
+den Gebäuden viel weiter grösser und<lbr type="BD"/><lbr/>
+herrlicher sind, als in <rend class="latin">London</rend> selbst, obwohl<lbr/>
+ansehnliche Gebäude genug aldort anzu<pc force="weak">=</pc><lbr/>treffen, darunter eines der ansehn<pc force="weak">=</pc><lbr/>lichsten auch, die so genannte<lbr type="BD"/>&#160;<rend class="latin">Royal Ex<pc force="weak">=</pc><lbr/>change</rend> oder Kaufmannsbörse ist. Stel<pc force="weak">=</pc><lbr/>len sie sich einen grossen<lbr type="BD"/> Pallast vor,<lbr/>
+in dessen Mitte ein Hof ist, der grösser<lbr/>
+ist als der Hof im<lbr type="BD"/>&#160;<rend class="latin">Mirabell</rend>. In<lbr/>
+dessen Mitte eine königliche <rend class="latin">Statue</rend>, und<lbr/>
+an dem Gebeude selbst<lbr type="BD"/> in der höhe alle<lbr/>
+Könige von Engelland in Lebensgrösse<lbr/>
+zu sehen sind. Nebst<lbr type="BD"/> dem sind um den<lbr/>
+ganzen Hof herum unter dem Gebäude<lbr/>
+10. Schritt breitte<lbr type="BD"/> Gänge, um im fall des<lbr/>
+Regens aldort sicher zu se&#255;n. Hier<lbr/>
+haben nun iede<lbr type="BD"/>&#160;<rend class="latin">Nation</rend>en ihren Platz.<lbr/>
+dort sind die Kaufleuth die von Geburt<lbr/>
+<pg n="4"/>
+Franzosen sind;<lbr type="BD"/> hier die Holländer; da<lbr/>
+die Spanier; dort die deutschen, Italiä<pc force="weak">=</pc><lbr/>ner, Portugäsen<lbr type="BD"/>&#160;<abbr expand="etc">p</abbr> Mit einem Wort iede<lbr/>
+Nation hat ihren Platz, wo man sie fin<pc force="weak">=</pc><lbr/>den kann.<lbr type="BD"/> Nebst dem können sie hier<lbr/>
+ein büchl kaufen, das 2. finger dick ist,<lbr/>
+darinne<lbr type="BD"/> alle Kaufleuthe nach dem Al<pc force="weak">=</pc><lbr/>phabet aufzusuchen, und ihre Wohnungen<lbr/>
+zu<lbr type="BD"/> finden sind. Alle Täge von 1.<lbr/>
+Uhr bis 3. Uhr gehen viele hundert, und<lbr/>
+Erchtags<lbr type="BD"/> und Fre&#255;tags, da Post oder Bör<pc force="weak">=</pc><lbr/>se Tag ist, viele 1000. Menschen hier aus<lbr/>
+und<lbr type="BD"/> ein, und ich habe mich an einem Don<pc force="weak">=</pc><lbr/>nerstage zwischen 2. und 3. Uhr kaum<lbr type="BD"/> durch<lbr/>
+dringen können, um von dem Eingange<lbr/>
+des Hofes zu dem Ausgange<lbr type="BD"/> zu kommen.<lbr/>
+Es sind 9. <rend class="latin">Compagni</rend>en oder Gesellschaf<pc force="weak">=</pc><lbr/>ten von Kaufleuthen,<lbr type="BD"/> die beständig 1417.<lbr/>
+Schiffe und 21797 Matrosen in ihrem Dienste<lbr/>
+unterhalten.<lbr type="BD"/> dazu sind 45 Amthäuser zum<lbr/>
+Behufe der Handlung und Gewerbe. Wenn<lbr/>
+<conv><ts>_______________________________________________________</ts>man</conv>
+<pg n="5"/>
+man<lbr type="BD"/> auf der <rend class="latin">Londoner</rend> Brücke stehet und<lbr/>
+betrachtet die Menge der Schiffe die<lbr type="BD"/> im<pc force="weak">=</pc><lbr/>mer in der <rend class="latin">Themse</rend> liegen, so scheint es,<lbr/>
+wegen der erstaunlichen Menge<lbr type="BD"/> der Mast<pc force="weak">=</pc><lbr/>bäume, als sehete man einen dicken<lbr/>
+Wald vor sich. Man kann in der<lbr type="BD"/><lbr/>
+That nichts Prächtigers sehen; ich finde in<lbr/>
+einer Beschreibung von <rend class="latin">London</rend>,<lbr type="BD"/>&#160;<u>die 1758.<lbr/>
+schon zum Siebenten aufgelegt ist,</u> daß <rend class="latin">Lon<pc force="weak">=</pc><lbr/>don</rend> in mehr als 95968<lbr type="BD"/> wohnhäuser bestehet;<lbr/>
+daß sich die Anzahl der Strassen und<lbr/>
+Gassen über 6000<lbr type="BD"/> beläuffet, ohne der un<pc force="weak">=</pc><lbr/>zahlbaren Menge der so genannten <rend class="latin">Courts</rend><lbr/>
+oder kleinen<lbr type="BD"/> Gassen, die mit viereckichten<lbr/>
+platten Steinen gepflastert sind, und wo<pc force="weak">=</pc><lbr/>hinn man<lbr type="BD"/> weder fahren noch reitten darf,<lbr/>
+sonderen nur für fussgeher |: den weeg<lbr/>
+abzu<lbr type="BD"/>schneiden :| gemacht, und wo die schönst<abbr v="en"/><lbr/>
+<rend class="latin">Boutiqu</rend>en anzutreffen sind.<lbr type="BD"/> Daß nun<lbr/>
+seit der Ausgaabe dieser Beschreibung<lbr/>
+viele 1000 Häuser gebauet und<lbr type="BD"/>&#160;<rend class="latin">London</rend> mit<lbr/>
+<pg n="6"/>
+vielen gassen vermehret worden, und<lbr/>
+das die ohnehin so schreck<lbr type="BD"/>lich grosse Statt<lbr/>
+alle Jahr mit einer Menge Häuser ver<pc force="weak">=</pc><lbr/>mehret und mit der<lbr type="BD"/> Zeit zu einer ganz<lbr/>
+unbeschreiblichen Grösse gelangen wird,<lbr/>
+sehe ich theils aus<lbr type="BD"/> der alten und neue<pc force="weak">=</pc><lbr/>ren Statt-Carthen, und theils bin ich<lbr/>
+der Augen <choice><orig>Zeig</orig><corr hand="diff" schr_id="57010">Zeug</corr></choice>; indem<lbr type="BD"/> ich nicht nur<lbr/>
+den gelegten Grund zu vielen neuen<lbr/>
+Gebäuden auf eine Stundweit, sonderen<lbr/>
+die erstaunliche Menge Häuser gesehen,<lbr/>
+die seit meinem Aufent<lbr type="BD"/>halt in <rend class="latin">London</rend>,<lbr/>
+folglich diesen Sommer aufgebauet wor<pc force="weak">=</pc><lbr/>den. Viele Hände<lbr type="BD"/> machen bald ein<lbr/>
+Ende und hier, wie in Paris, wird den<lbr/>
+ganzen Winter fort<lbr type="BD"/>gearbeitet. Die<lbr/>
+Beleuchtung hier ist die schönste und grö<pc force="weak">=</pc><lbr/>ste die ich gesehen<lbr type="BD"/> habe, davon die An<pc force="weak">=</pc><lbr/>zahl in der obigen Beschreibung auf mehr<lbr/>
+dann 55435.<lbr type="BD"/> Lampen angegeben wird;<lbr/>
+so doch unendlich ietzt vermehret wor<pc force="weak">=</pc><lbr/><pg n="7" type="wordsep"/>den, indem<lbr type="BD"/> in Hauptstrassen iedes Hauß<lbr/>
+eine und ein ansehnlich oder von ver<pc force="weak">=</pc><lbr/>möglichen<lbr type="BD"/> Leuten bewohntes Haus 2.<lbr/>
+Lampen vor ihrem Hauße hat. Über<lbr/>
+daß sind<lbr type="BD"/> in den meisten Lampen vor<lbr/>
+ihrem Hause haben 2. Lichter, und be&#255;<lbr type="BD"/><lbr/>
+Herrschaft Häusern und offentlichen Ge<pc force="weak">=</pc><lbr/>bäuden sind 3, 4 und 5. Lichter in<lbr type="BD"/><lbr/>
+einer Laterne. Auch find ich hier<lbr/>
+keine so hungerige Beleuchtung, als ich<lbr/>
+in<lbr type="BD"/> anderen Orten gefunden, wo näm<pc force="weak">=</pc><lbr/>lich die meisten Lichter um 1. Uhr in der<lbr type="BD"/><lbr/>
+Nacht schon ausgebrandt waren. Hier<lbr/>
+lauffen die Kerls mit der Leiter über<lbr type="BD"/><lbr/>
+der Achsel und Feuer in der Hand be&#255;m<lbr/>
+hellen Tage noch, und zinden die<lbr type="BD"/> Lam<pc force="weak">=</pc><lbr/>pen an, und ich habe schon morgens um 9.<lbr/>
+Uhr noch Lampen brennen<lbr type="BD"/> gesehen.<lbr/>
+Über das brennen im Winter rings um<lbr/>
+<rend class="latin">London</rend> von allen Seiten<lbr type="BD"/> die Lampen<lbr/>
+auf den Hauptstrassen bis gegen eine kleine<lbr/>
+<pg n="8"/>
+Stund weit hinaus<lbr type="BD"/> zur Sicherheit der hin<pc force="weak">=</pc><lbr/>und her Passirenden. Es sind haupt<pc force="weak">=</pc><lbr/>sächlich zwe&#255;erle&#255;<lbr type="BD"/> Gattungen der Wohn<pc force="weak">=</pc><lbr/>häuser zu finden; die erste Gattungen<lbr/>
+in den <rend class="latin">Courts</rend><lbr type="BD"/> oder neben Gassen be<pc force="weak">=</pc><lbr/>stehen nur in 3. Stockwercken, nebst Küche<lbr/>
+und Keller,<lbr type="BD"/> so be&#255;de unter der Erde<lbr/>
+sind. die 2.<h>te</h> Gattung, nämlich in<lbr/>
+merckwürdigen<lbr type="BD"/> Strassen und Gassen<lbr/>
+bestehet in 4. Stockwerken <abbr expand="etc">p</abbr> und die 3.<h>te</h><lbr/>
+Gattung in<lbr type="BD"/> den vornehmsten Strassen<lbr/>
+in 5. Stockwerken. <u><rend class="latin">NB:</rend></u> Küche<lbr/>
+und Keller ist allzeit<lbr type="BD"/> unter der Erde,<lbr/>
+und das erste Stockwerk heist, was be&#255;<lbr/>
+uns zu Ebenfuß ist.<lbr type="BD"/> Es sind hier<lbr/>
+be&#255; 143. <choice><orig>Kirchenspiele</orig><corr hand="diff" schr_id="57010">Kirchspiele</corr></choice>, oder abtheilungen.<lbr/>
+108. grosse Kirchen.<lbr type="BD"/> und 71. PfarrCa<pc force="weak">=</pc><lbr/>pellen, dazu gehören, nämlich zu den<lbr/>
+abtheilungen 420. <rend class="latin">con<lbr type="BD"/>stables</rend> oder <choice><orig>Statt<pc force="weak">=</pc><lbr/>diener</orig><corr hand="diff" schr_id="57010">Stadtdiener</corr></choice>, oder <rend class="latin">respectivé</rend> Sicherheits<rend class="latin">Com<pc force="weak">=</pc><lbr/>missarij</rend>, 227 unter<lbr type="BD"/>Vögte, 58. Aufseher,<lbr/>
+<conv><ts>_________________________________________________</ts>134.</conv>
+<pg n="9"/>
+134. Pedellen, 1318. Nachtwächter, die alle<lbr/>
+halbe Stund<lbr type="BD"/> ruffen, und nach Mitternacht<lbr/>
+allzeit zugleich ruffen was für ein Wetter<lbr/>
+ist.<lbr type="BD"/> Dann sind 443. Strassen Auf<pc force="weak">=</pc><lbr/>seher, an welche jährlich 11728. Pfund Sterl<abbr type="curve">:</abbr><lbr/>
+für<lbr type="BD"/> die Reinigung der Strassen bezahlt<lbr/>
+wird. Hier sind 32. fremde Kirchen,<lbr type="BD"/> 147.<lbr/>
+Capellen und Versammlungshäuser von<lbr/>
+unterschiedlichen benennungen,<lbr type="BD"/> und dre&#255; Jüdi<pc force="weak">=</pc><lbr/>sche <rend class="latin">Synagogen</rend>. 38. öffentliche Fre&#255;<pc force="weak">=</pc><lbr/>Schullen worinne sich mehr dann 3173. Kin<pc force="weak">=</pc><lbr/>der befinden; 166. öffentlich armen Schulen,<lbr/>
+die 5360. Kinder<lbr type="BD"/> versorgen und noch über<lbr/>
+300 besondere Schulen. 27. Spittäler für<lbr/>
+Krancke<lbr type="BD"/> und Wahnwitzige; 14. Gesell<pc force="weak">=</pc><lbr/>schaften zu Versorgung armer Wittwen<lbr/>
+und<lbr type="BD"/> 95 Armen häuser. 51. Arbeitshäu<pc force="weak">=</pc><lbr/>ser, 5. Zuchthäuser und 14. Gefängniss<pc force="weak">=</pc><lbr/>ge<lbr type="BD"/>bäude. Die <rend class="latin">Summa</rend> zu Unter<pc force="weak">=</pc><lbr/>haltung der Armen beläuft sich insge<pc force="weak">=</pc><lbr/>mein jährlich<lbr type="BD"/> auf mehr dan 250520<lbr/>
+Pfund Sterling<abbr type="curve">:</abbr> Die Statt oder das<lbr/>
+<pg n="10"/>
+Publicum unterhält<lbr type="BD"/> ferner 5. königliche<lbr/>
+Palläste |: die aber zimmlich bürgerlich<lbr/>
+und gar nicht<lbr type="BD"/> königlich aussehen :| 7. Ge<pc force="weak">=</pc><lbr/>sellschaften der Gelehrten; 18. öffentliche<lbr/>
+<rend class="latin">Biblio<lbr type="BD"/>teken</rend>; 16. <rend class="latin">Collegi</rend>en für Rechts<pc force="weak">=</pc><lbr/>gelehrte; 91. <rend class="latin">Compagni</rend>en der Handwer<pc force="weak">=</pc><lbr/>ker,<lbr type="BD"/>&#160;<choice><orig>der</orig><corr hand="diff" schr_id="57010">deren</corr></choice> 52 ihre eigene Häuser oder so<lbr/>
+genannte <rend class="latin">Hallen</rend> haben, meistens statt<pc force="inter">=</pc><lbr/>liche Gebäude, in welchen sie zusammen<pc force="weak">=</pc><lbr/>kommen und ihre Geschäfte ver<lbr type="BD"/>handeln;<lbr/>
+4. <rend class="latin">Opern</rend> und <rend class="latin">comœdi</rend>en häuser; 33. Markt<pc force="weak">=</pc><lbr/>plätze; 2. Thiergarten;<lbr type="BD"/> 6 öffentliche<lbr/>
+Gärten; 50. sogenannte <choice><orig><rend class="latin">Square</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">Squares</rend></corr></choice> oder<lbr/>
+viereckichte grosse Plätze,<lbr type="BD"/> wo auf einigen<lbr/>
+der Könige, oder andere <rend class="latin">Statu</rend>en sind;<lbr/>
+2. grosse Brücken; und<lbr type="BD"/> 8. Thore.<lbr type="forced"/>
+<u><rend class="latin">NB:</rend></u> Es sind aber weder in <rend class="latin">Paris</rend> noch hier<lbr/>
+solche Thor, wie in den Stätten<lbr type="BD"/> Teutsch<pc force="weak">=</pc><lbr/>lands, sonderen eigentlich nur starcke <rend class="latin">Bar<pc force="weak">=</pc><lbr/>riers</rend>. Obwohlen nun für die<lbr type="BD"/> Armen<lbr/>
+hier sehr mildreich gesorget wird, so sind<lbr/>
+doch der armen eine schwere<lbr type="BD"/> Menge;<lbr/>
+<pg n="11"/>
+wenige aber getrauen sich recht fre&#255; zu<lbr/>
+betteln, da es verbotten ist; son<lbr type="BD"/>deren<lbr/>
+sie haben eine andere Art das Almosen<lbr/>
+zu verlangen: nämlich; eines biethet<lbr type="BD"/> ih<pc force="weak">=</pc><lbr/>nen im Sommer blummen-Buschen, ein<lbr/>
+anders Zöhnstöcher von Federkeulen,<lbr type="BD"/> ein<lbr/>
+anderes Kupferstiche, ein anders schwefel<pc force="weak">=</pc><lbr/>hölzel, ein anderes Nähezwirm, ein<lbr type="BD"/><lbr/>
+anders Bänder von verschiedenen Farben <abbr expand="etc">p</abbr><lbr/>
+andere singen durch die<lbr type="BD"/> Strassen und<lbr/>
+biethen ihnen die gedruckten Lieder an,<lbr/>
+welches das allgemeinste<lbr type="BD"/> ist und zum Eckel<lbr/>
+stündlich gehöret wird. &#8211; mir fällt nicht<lbr/>
+alles be&#255;. &#8211; Hier<lbr type="BD"/> sind mehr denn 1072.<lbr/>
+Bäcker; 1515. Metzger 1411. KäseKräm<pc force="weak">=</pc><lbr/>mer; 159. Fisch<lbr type="BD"/>händler. <u><rend class="latin">NB:</rend></u> Obwohlen<lbr/>
+man hier die Fisch nur für Pracht und<lbr/>
+<rend class="latin">delicatesse</rend><lbr type="BD"/> isset, die, obwohl man mit<lbr/>
+dem Meer umzingelt ist, abscheulich theuer<lbr/>
+sind.<lbr type="BD"/> 217. Geflüglhändler; 171. Breu<pc force="weak">=</pc><lbr/>stätte; 551. <rend class="latin">Coffeé</rend> häuser, <u><rend class="latin">NB:</rend></u> obwohl<lbr/>
+ich<lbr type="BD"/> nur erst in einem einmahl gewesen bin.<lbr/>
+<pg n="12"/>
+447. Weinhäuser. <u><rend class="latin">NB:</rend></u> ohne die<lbr type="BD"/> Wein<pc force="weak">=</pc><lbr/>händler so <rend class="latin">Boutiquen</rend> haben. 5975. Bier<pc force="weak">=</pc><lbr/>schäncken, 207. Gasthöfe, 8659.<lbr type="BD"/> Brandwein<pc force="weak">=</pc><lbr/>schencken. <u><rend class="latin">NB:</rend></u> Brandwein und Bier ist<lbr/>
+des Volkes Element. 1214.<lbr type="BD"/> Gemieß Lä<pc force="weak">=</pc><lbr/>den oder garten Buden. <u><rend class="latin">NB:</rend></u> ohne die<lbr/>
+gewöhnlichen Marcktplätze.<lbr type="BD"/><ts>_____</ts>Man<lbr/>
+rechnet, daß hier jährlich ungefähr ver<pc force="weak">=</pc><lbr/>zehret werden 396636. Viertl<lbr type="BD"/> Weitzen<lbr/>
+Mehl. 98244. Ochsen: obwohl man hier<lbr/>
+nicht, wie be&#255; uns täglich Rindfleisch<lbr/>
+siedet. 711123. Schaafe und Lämmer.<lbr/>
+194760 Kälber. 186932<lbr type="BD"/> Schweine. 52000.<lbr/>
+Spanferckl. 113536 Schäffel Austern, die<lbr/>
+hier von verschie<lbr type="BD"/>dener Gattung und Preis,<lbr/>
+Z: E: die gröste Gattung 12. Stück für<lbr/>
+4. <rend class="latin">Pennys</rend> zu<lbr type="BD"/> haben sind. Aus einer<lbr/>
+solchen können sie 4. <rend class="latin">venetiani</rend>sche machen.<lbr/>
+indem<lbr type="BD"/> man eine Auster nicht essen kann,<lbr/>
+ohne sie wenigst in der Mitte einmahl<lbr type="BD"/> von<lbr/>
+einander zu schneiden. Von der erstaunlichen<lbr/>
+<conv><ts>____________________________________________________</ts>Menge</conv>
+<pg n="13"/>
+Menge der grossen Meer<lbr type="BD"/> Krebsen, an<pc force="weak">=</pc><lbr/>derer Krebsen, Meerschnecken <abbr expand="etc">p</abbr> und der<pc force="weak">=</pc><lbr/>le&#255; Zeüges nichts zu<lbr type="BD"/> melden. Vom<lbr/>
+26 <rend class="latin">Maij</rend>, wo die sogenannte <rend class="latin"><u>Mackarel</u><lbr/>
+Season</rend> anfängt, bis den<lbr type="BD"/> 6.<h>t<abbr v="en"/></h>&#160;<rend class="latin">Julij</rend> ver<pc force="weak">=</pc><lbr/>wichenen Jahres langten zu <rend class="latin">Billings<pc force="weak">=</pc><lbr/>gate</rend> |: ein Thor an der<lbr type="BD"/> Themse :| 589.<lbr/>
+<rend class="latin">Boats</rend> |: Schiffe :| böths voll fische an, deren<lbr/>
+iedes 2. Lasten<lbr type="BD"/> führet; iede last enthält<lbr/>
+10000 Fische. Hieraus erhellet das nur<lbr/>
+von dieser<lbr type="BD"/>&#160;<rend class="latin">Sort</rend> Fische die man <u>Macka<pc force="weak">=</pc><lbr/>rellen</u> nennet in selbiger Zeit sich auf<lbr/>
+14. Millionen<lbr type="BD"/> 7. hundert, und 40000 be<pc force="weak">=</pc><lbr/>läuft, nichts zu sprechen von <choice><orig><rend class="latin">Kabeliau</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">Kabliau</rend></corr></choice>,<lbr/>
+Schellfischen,<lbr type="BD"/> Weisslingen, und anderen<lbr/>
+Seefischen, nebst der erstaunlichen Menge<lbr/>
+Stock<lbr type="BD"/>fischen, flussfischen und der Menge<lbr/>
+verschiedener gesalznen Fischen. Die<lbr type="BD"/><lbr/>
+Rechnung des nach <rend class="latin">London</rend> gebrachten<lbr/>
+Butter und Kässe beläuft sich vom<lbr type="BD"/><lbr/>
+<u>Butter</u> auf 2. hundert und 90. tausend<lbr/>
+263. fässchen von einer viertl Tonne,<lbr type="BD"/><lbr/>
+<pg n="14"/>
+oder 16. <rend class="latin">Million</rend>en 366. tausend 728. Pfund.<lbr/>
+ohne die frischen Butter, der alle<lbr type="BD"/> Tag zu<lbr/>
+butter-brod verbraucht wird.<lbr type="forced"/>
+Ferner 10533. Tonnen oder 21. <rend class="latin">Million</rend>en<lbr/>
+6. hundert und 60. tausend Pfund<lbr type="BD"/> Käse, der<lbr/>
+mancherle&#255; Arten nicht zu erwehnen die<lbr/>
+von Fremden Länderen<lbr type="BD"/> eingeführet wer<pc force="weak">=</pc><lbr/>den. Die Milch kann gar in keine Rech<pc force="weak">=</pc><lbr/>nung gebracht werden.<lbr type="BD"/> Und die Bier<pc force="weak">=</pc><lbr/>breuer setzen jährlich an starken Bier et<pc force="weak">=</pc><lbr/>wa eine <rend class="latin">Million</rend> 528.<lbr type="BD"/> tausend 468. Fässer<lbr/>
+und eine <rend class="latin">Million</rend> 74000. zwe&#255;hundert und<lbr/>
+88. Vässer<lbr type="BD"/> schmahl oder schwach Bier ab. ohne<lbr/>
+<u><rend class="latin">NB</rend></u>: des gewaltigen Aufgang des Land<pc force="inter">=</pc><lbr/>biers. ich habe einen Auszug vom Jahre<lbr/>
+1738. <amend value="gesehen">geschehen</amend>, in dem Bemerckt ware,<lbr type="BD"/><lbr/>
+das nur in dem Haven zu <rend class="latin">London</rend> fol<pc force="weak">=</pc><lbr/>gende Wein <rend class="latin">Quantität</rend> eingeführt wor<pc force="weak">=</pc><lbr/>den.<lbr type="BD"/> nämlich: 1828. Tonnen von Por<pc force="weak">=</pc><lbr/>tugall. 10255. von Spanien. 1105. Tonnen<lbr/>
+von<lbr type="BD"/> Franckreich. 476. Tonnen von Teutsch<pc force="weak">=</pc><lbr/><pg n="15" type="wordsep"/>land und Holland. <rend class="latin">Summa</rend> 30040 Ton<lbr type="BD"/>nen.<lbr/>
+Daß ietzt noch einmahl so viel eingeführet<lbr/>
+wird, hat seine Rich<lbr type="BD"/>tigkeit. dann alles<lbr/>
+sauft Wein, obwohl der mindeste Preis<lbr/>
+einer <rend class="latin">Boutellie</rend><lbr type="BD"/> Wein |: die noch etwas<lbr/>
+kleiner als unsere sind :| 2. Schilling. &#8211; &#8211; <lbr/>
+dann andere<lbr type="BD"/> Weine von 3. bis 20. Schil<pc force="weak">=</pc><lbr/>ling eine <rend class="latin">Boutellie</rend> kostet, welches, so un<pc force="weak">=</pc><lbr/>glaublich<lbr type="BD"/> es scheinet, doch die heilige Wahr<pc force="weak">=</pc><lbr/>heit ist. Indem die gräulichst <rend class="latin">accise</rend> auf<lbr/>
+die<lbr type="BD"/> Weine gelegt sind, um den Abgang<lbr/>
+des Biers, <rend class="latin">Cyder</rend> oder Mosts und Brand<pc force="weak">=</pc><lbr/>weins <abbr expand="etc">p</abbr> als Land<rend class="latin">producta</rend> zu beförderen:<lbr/>
+und obwohl die starken getränke<lbr type="BD"/> nicht für<lbr/>
+nothwendige Lebensmittel zu achten sind.<lbr/>
+So werden sie doch aus<lbr type="BD"/> folgenden Rechnungs<lbr/>
+Auszug <rend class="latin">de a<abbr type="topline" expand="nn">n</abbr>o</rend> 1733 den ich gesehen<lbr/>
+habe, die Menge<lbr type="BD"/> der eingeführten und<lbr/>
+hier selbst <rend class="latin">distilli</rend>rten <rend class="latin">Sort</rend>en starcken ge<pc force="weak">=</pc><lbr/>tränckes bewun<lbr type="BD"/>deren. 36823. <choice><orig><u><rend class="latin">Gallons</rend></u></orig><corr hand="diff" schr_id="57010"><u><rend class="latin">Galloons</rend></u></corr></choice><lbr/>
+<rend class="latin">Arrack</rend>. <choice><orig><u><rend class="latin">Gallons</rend></u></orig><corr hand="diff" schr_id="57010"><u><rend class="latin">Galloons</rend></u></corr></choice> ist eine Massere&#255; die<lbr/>
+mir noch unbe<lbr type="BD"/>kannt ist; ich finde in<lbr/>
+<pg n="16"/>
+einem Buche das es 4. <choice><orig><rend class="latin">Peints</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">Pintes</rend></corr></choice>&#160;<rend class="latin">de Paris</rend><lbr/>
+beträgt; <u>dieß wäre<lbr type="BD"/> demnach 4. unserige<lbr/>
+<rend class="latin">Boutelli</rend>en eine <rend class="latin">Gallons</rend>.</u>&#160;<rend class="latin">Arrack</rend> ist ein<lbr/>
+Brandweins Art<lbr type="BD"/> so aus einer <rend class="latin">jndiani</rend>schen<lbr/>
+frucht gebrannt wird, von <rend class="latin">ost indi</rend>en ko<abbr type="topline" expand="mm">m</abbr>t<lbr/>
+und<lbr type="BD"/> dort ein gewöhnlicher Getranck ist.<lbr/>
+Er wird zum guten <rend class="latin">Punch</rend> gebraucht.<lbr type="BD"/><lbr/>
+1. <rend class="latin">Million</rend> 300 und 15000, dre&#255;hundert und<lbr/>
+52; <rend class="latin">id est:</rend> 1,315352 <rend class="latin">Gallons</rend><lbr type="BD"/> Brandwein.<lbr/>
+328 <formula type="mfrac"><mn>1</mn><mi>4</mi></formula>. <rend class="latin">Gallons citron</rend>wasser. 316 <formula type="mfrac"><mn>2</mn><mi>3</mi></formula> <rend class="latin">gallons<lbr/>
+Cordial</rend> wasser.<lbr type="BD"/> 3791. <rend class="latin">gallons</rend> Wachholder<pc force="weak">=</pc><lbr/>brandwein. 103 <formula type="mfrac"><mn>1</mn><mi>2</mi></formula>. <rend class="latin">Gallon Rackee</rend>. 327703.<lbr/>
+<rend class="latin"><amend value="gallons">gllons</amend></rend><lbr type="BD"/>&#160;<rend class="latin">Reem</rend>, zum gemeinen <rend class="latin">Punch</rend>, und <rend class="latin">or<pc force="weak">=</pc><lbr/>dinaire</rend> Magen Cur. 12. <rend class="latin">Gallons Vizne&#255;</rend>.<lbr type="BD"/><lbr/>
+154 <formula type="mfrac"><mn>1</mn><mi>2</mi></formula> <rend class="latin">Gallons Usquebaugh</rend>. 12527. <rend class="latin">gallons<lbr/>
+Cyder</rend> oder Äpfelwein 890319<lbr type="BD"/>&#160;<rend class="latin">gallons Me<pc force="weak">=</pc><lbr/>lasses</rend>. 1.601293 <rend class="latin">gallons</rend> Kornbrandwein.<lbr/>
+welches zusammen<lbr type="BD"/> 11,205627. <rend class="latin">Gallons</rend> be<pc force="weak">=</pc><lbr/>trägt. Man rechnet das jährlich 11,<lbr/>
+644863. Pfund ins<lbr type="BD"/>licht Lichter in <rend class="latin">London</rend><lbr/>
+gemacht werden, und da doch alles was<lbr/>
+nur ein wenig<lbr type="BD"/> ein Ansehen machen will<lbr/>
+<conv><ts>___________________________________________________</ts>Wax</conv>
+<pg n="17"/>
+Wax brennet, gar schlechte Leute aber,<lbr/>
+und andere<lbr type="BD"/> be&#255; vielen Gelegenheiten<lbr/>
+Oehl brennen. Nun wissen sie aber<pc force="weak">=</pc><lbr/>mahl zimmlich<lbr type="BD"/> etwas von <rend class="latin">London</rend>, ein<lbr/>
+anderes mahl, wieder etwas anderes. &#8211; &#8211; &#8211; <lbr type="forced"/>
+<ts>_____</ts>Ich und alle die meinigen wünschen ih<pc force="weak">=</pc><lbr/>nen und dero Frau Gemahlin <rend class="latin">million</rend><lbr type="BD"/><lbr/>
+Glück zu der angetrettenen Standes<lbr/>
+Veränderung des Herrn Sohns <rend class="latin">Caietan</rend>,<lbr type="BD"/><lbr/>
+ich habe eine sehr gute Meinung von ihme,<lbr/>
+und da sie allzeit ein guter und<lbr type="BD"/> vernünf<pc force="weak">=</pc><lbr/>tiger Vatter sind; so thun sie auch sehr wohl<lbr/>
+ihn, wenn er auch wie<lbr type="BD"/>der nach Hause keh<pc force="weak">=</pc><lbr/>ren sollte, mit offnen Armen und freu<pc force="weak">=</pc><lbr/>digen Gesichte zu<lbr type="BD"/> umfangen, da er ie<pc force="weak">=</pc><lbr/>derzeit ein stiller ruhiger Knab war,<lbr/>
+so wird er nichts thun,<lbr type="BD"/> als was er sei<pc force="weak">=</pc><lbr/>nem Seelenheil am vorträglichsten zu<lbr/>
+se&#255;n erachten wird: dess<lbr type="BD"/>wegen ist das<lbr/>
+Probier jahre. Der Wolfgangerl hat<lbr/>
+geweinet, da ich es aus dem<lbr type="BD"/> Briefe ab<pc force="weak">=</pc><lbr/>gelesen, und auf befragen warum? &#8211; &#8211; <lbr/>
+<pg n="18"/>
+so war es ihm le&#255;d, weil er<lbr type="BD"/> glaubte,<lbr/>
+daß er ihn nun nicht mehr sehen werde.<lbr/>
+Wir belehrten ihn aber eines<lbr type="BD"/> anderen,<lbr/>
+und er erinnerte sich, daß er ihm oft<lbr/>
+eine Fliege gefangen und die<lbr type="BD"/> Orgel auf<pc force="weak">=</pc><lbr/>gezogen, auch die Pölzl-<choice><orig>windbix</orig><corr hand="diff" schr_id="57010">windbüchse</corr></choice> gebracht.<lbr/>
+so bald er nach Salz<lbr type="BD"/>burg zurückko<abbr type="topline" expand="mm">m</abbr>t<lbr/>
+will er nach St. Peter gehen und sich von<lbr/>
+<rend class="latin">Mr Caietan</rend> eine<lbr type="BD"/> Fliege fangen lassen,<lbr/>
+und dann muß er auch mit ihm Pölzel<lbr/>
+schiessen. Er hat<lbr type="BD"/> also das Ordenskleid<lbr/>
+an dem nämlichen Tage angeleget und<lbr/>
+sich in das <rend class="latin">Novitiat</rend> begeben, an welchem<lbr/>
+ich vor etwa 17. Jahren in dem Orden<lbr/>
+der geflickten<lbr type="BD"/> hosen getretten und zu<lbr/>
+Aigen mit meiner Frau <rend class="latin">Profession</rend><lbr/>
+gemacht habe. Wir<lbr type="BD"/> erinnerten uns<lbr/>
+selben Tages fleissigst seiner und wün<pc force="weak">=</pc><lbr/>schen ihm 1000 Glück<lbr type="BD"/> und nichts als die<lbr/>
+Erkänntniß seines wahren Berufes, die<lbr/>
+ihm Gott verliehen<lbr type="BD"/> und ihn dadurch auf<lbr/>
+den Weeg seines ewigen Seelen Heils<lbr/>
+<pg n="19"/>
+führen wolle. Sie<lbr type="BD"/> haben nach ihren ge<pc force="weak">=</pc><lbr/>wöhnlichen vernünftigen Überlegung sehr<lbr/>
+wohl gethann<lbr type="BD"/> ihn nach München und<lbr/>
+Augspurg reisen zu lassen, damit er<lbr/>
+doch siehet, daß<lbr type="BD"/> ausser Salzburg auch<lbr/>
+noch Menschen sind. Daß anbe&#255; der<lbr/>
+Cammerdiener des<lbr type="BD"/> herrn graf <rend class="latin">van E&#255;ck</rend><lbr/>
+von uns so rühmlich zu sprechen die Höf<pc force="weak">=</pc><lbr/>lichkeit gehabt,<lbr type="BD"/> ist eine Gütte von ihm;<lbr/>
+indem die Schuldigkeit ehrlicher Leute ist<lbr/>
+so zu leben,<lbr type="BD"/> daß man weder sich |: <rend class="latin">amor<lbr/>
+incipit ab ego</rend> :| <amend value="noch">nach</amend> seinem Vatterlande<lbr/>
+zur<lbr type="BD"/> Schande, sondern, so viel möglich,<lbr/>
+zur Ehre ist. Daß aber H<abbr type="curve">:</abbr> Graf <rend class="latin">van<lbr/>
+Eyck</rend><lbr type="BD"/> eine Gräfin von Königsfeld zur<lbr/>
+Ehe genommen, ist mir lieb zu vernehm<pc force="weak">=</pc><lbr/>men,<lbr type="BD"/> denn es mir sehr Leid gewesen wä<pc force="weak">=</pc><lbr/>re, wenn er, da er das erstemahl eine<lbr/>
+Frau<lbr type="BD"/> von einer so guten <rend class="latin">Familie</rend> hat<pc force="weak">=</pc><lbr/>te, das 2.<h>te</h> Mahl eine Frau von nie<pc force="weak">=</pc><lbr/>drigem<lbr type="BD"/> Stande gewählet hätte: und das<lbr/>
+er nicht lange ohne Frau bleiben wird,<lbr/>
+<pg n="20"/>
+das<lbr type="BD"/> habe ich mir wohl einbilden können;<lbr/>
+Allein keine, wie seine vorige war, hat<lbr type="BD"/><lbr/>
+er nicht mehr bekommen, das kann mich<lbr/>
+niemand bereden. Ich weis es, und<lbr type="BD"/> die<lbr/>
+Zeit wirds lehren. &#8211; &#8211; &#8211; Wemm ist<lbr/>
+dann eingefallen, daß der römische<lbr type="BD"/> König<lbr/>
+eine englische Prinzösin heurathen soll? &#8211; &#8211; <lbr/>
+Das ist ein Traum! der<lbr type="BD"/> ietzige König ist<lbr/>
+von einer Weiblichen <rend class="latin">Linie</rend> her auf dem<lbr/>
+englischen Throne;<lbr type="BD"/> wie auch nachdem<lbr/>
+<rend class="latin">Jacobus</rend> 2.<h><rend class="latin">dus</rend></h> vertrieben ware, dessen<lbr/>
+Schwieger Sohn <rend class="latin">Wil<lbr type="BD"/>helmus</rend> 3.<h><rend class="latin">ius</rend></h> Prinz von<lbr/>
+<rend class="latin">Orani</rend>en auf den englischen Thron kamm,<lbr/>
+weil seine<lbr type="BD"/> Frau <rend class="latin">Jacob</rend> 2.<h><rend class="latin">di</rend></h> Tochter war.<lbr/>
+Und wem soll nur einfallen, daß Engel<pc force="weak">=</pc><lbr/>land eine<lbr type="BD"/> Prinzessin an einen catholischen<lbr/>
+Prinzen von einem so grossen Hauße<lbr/>
+geben<lbr type="BD"/> wollte, wo man über lang oder<lbr/>
+Kurz einige Ansprüche besorgen müsste,<lbr/>
+da die<lbr type="BD"/> nämlichen <rend class="latin">Casus</rend> 2. mahl hinter<pc force="weak">=</pc><lbr/>einander mit dem <rend class="latin">orani</rend>schen und <rend class="latin">Han<pc force="weak">=</pc><lbr/>nove<lbr type="BD"/>ri</rend>schen Hause <rend class="latin">existi</rend>ren. Meine<lbr/>
+<conv><ts>____________________________________________</ts>Zeitung</conv>
+<pg n="21"/>
+Zeitung wird wohl etwa wahrscheinlicher<lbr type="BD"/> se&#255;n,<lbr/>
+wenn ich sage, daß der Prinz Carl,<lbr/>
+seine Schwester und der römische<lbr type="BD"/> König sich<lbr/>
+mit dem Churfürsten und der Chur<pc force="weak">=</pc><lbr/>fürstin aus Bajern in Strau<lbr type="BD"/>bingen den<lbr/>
+2.<h>t<abbr v="en"/></h>&#160;<rend class="latin">Novb<abbr type="curve">:</abbr></rend> wegen einer zukünftigen<lbr/>
+<rend class="latin">Mariage</rend> unterredet haben.<lbr type="BD"/> Herrn<lbr/>
+<rend class="latin">Wagner</rend> von Tittmoning, und H<abbr type="curve">:</abbr><h>n</h> Hof<pc force="weak">=</pc><lbr/><rend class="latin">Statuario</rend> Hagenauer <rend class="latin">gratuli</rend>re<lbr type="BD"/> von<lbr/>
+Herzen zu derselben Standes Verände<pc force="weak">=</pc><lbr/>rung nebst unser aller Empfeh<lbr type="BD"/>lung. &#8211; &#8211; <lbr/>
+Bedaure das Unglück des Herrn.<lbr/>
+wie es halt gehet! <u><rend class="latin">multum clamoris<lbr type="BD"/> et</rend><lbr/>
+<rend class="latin">parum Lanæ</rend></u>, <u>oder nicht alles was glän<pc force="weak">=</pc><lbr/>zet ist Gold.</u> Dem H<abbr type="curve">:</abbr> Spöckner bitten<lbr/>
+wir alle unsere ergebneste <rend class="latin">Complimen</rend><pc force="weak">=</pc><lbr/>ten zu machen, und ihm zu sagen, daß,<lbr type="BD"/><lbr/>
+obwohl die <amend value="">die</amend>&#160;<choice><orig><rend class="latin">contredance</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">contredanses</rend></corr></choice> hier zu hause<lbr/>
+sind, doch nichts wenigers als schön<lbr type="BD"/>&#160;<rend class="latin">fi<pc force="weak">=</pc><lbr/>guri</rend>rt, noch weniger schön gedanzt wer<pc force="weak">=</pc><lbr/>den. Die <rend class="latin">Ari</rend>en aber sind zum theil<lbr type="BD"/><lbr/>
+gut. ich werde ein ganz Buchvoll mit<pc force="weak">=</pc><lbr/><pg n="22" type="wordsep"/>bringen. Lebt Herr <rend class="latin">Dellmor</rend> noch wohl<lbr type="BD"/><lbr/>
+auf? und was macht der ehrliche H<abbr type="curve">:</abbr><lbr/>
+<rend class="latin">Deibel</rend>? wir empfehlen uns diesen<lbr type="BD"/> ehr<pc force="weak">=</pc><lbr/>lichen unsern lieben Freunden von Her<pc force="weak">=</pc><lbr/>zen, und allen die uns lieb haben.<lbr type="forced"/>
+<lbr type="forced"/>
+<rend class="latin">p:S:</rend> ò Mein gott wie viel habe ich zu schreiben<choice><orig>?</orig><corr hand="diff" schr_id="57010">!</corr></choice><lbr/>
+Hr: Vogt bitte ich nebst meiner<lbr type="BD"/> Empfehlung zu sagen,<lbr/>
+daß ich ihm und wir alle unendlich danken. &#8211; &#8211; daß<lbr type="BD"/><lbr/>
+<rend class="latin">paris</rend> und <rend class="latin">London</rend> mit Mitterwalder Geigen<lbr/>
+voll sind, und daß sonderlich hier<lbr type="BD"/> eine erstaunliche<lbr/>
+Mauth auf alle Sachen ist. doch habe ich anstalt<abbr v="en"/><lbr/>
+getrofen,<lbr type="BD"/> daß wenigst in <rend class="latin">paris</rend> etwas mag<lbr/>
+zu machen se&#255;n: allein ich muß ihm vor<lbr type="BD"/>läufig<lbr/>
+sagen, daß in <rend class="latin">paris</rend> und hier die <rend class="latin">violin</rend> sehr Stark<lbr/>
+bezogen, und die<lbr type="BD"/> E, wie schwache <rend class="latin">A</rend> sind.<lbr/>
+die <rend class="latin">violin</rend> muß er auf diesen Fuß einrichten:<lbr/>
+sonst ist<lbr type="BD"/> nichts zu machen. hingegen ist, sonderlich<lbr/>
+in <rend class="latin">paris</rend> der thon oder die Sti<abbr type="topline" expand="mm">m</abbr>ung<lbr type="BD"/> nieder<lbr/>
+und sehr tief. ich hab seiner Zeit <rend class="latin">Correspondenz</rend><lbr/>
+genug. allein ich muß<lbr type="BD"/> erst die Weege der Mauth<lbr/>
+ausfindig machen. welches das schwereste ist. <rend class="latin">addieu</rend>.
+</NI>
+</letter>
+ </text>
+</MUP>

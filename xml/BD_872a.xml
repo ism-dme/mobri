@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2014">2014-6</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1442</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Privatbesitz</bibl>
+            <bibl type="source" subtype="RISM">Privatbesitz</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:40:57 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_872a.mup">
+<letter bd="872a">
+<NI src="Privat">
+<HEADER id="1442">LEOPOLD MOZART AN PASQUALE ARTARIA IN WIEN<lbr/>
+SALZBURG, 8. JULI 1785</HEADER>
+<pg n="1"/>
+<ts>________</ts><tshtm>_____</tshtm>Schätzbarster Freund und Br:&#8211; <lbr type="forced"/>
+<lbr type="forced"/>
+Da die Fuhrleute nichts übernehm<abbr v="en"/> därffen, was nicht die<lbr/>
+Schwere von 25 <abbr expand="Pfund">℔</abbr><lbr type="BD"/> hat, so ware gezwung<abbr v="en"/> die 12 St<abbr type="curve">:</abbr> meiner<lbr/>
+Violinschule dem Postwagen zu<lbr type="BD"/> übergeben, um so mehr, da<lbr/>
+man mir solche, aus eben dieser Ursache, aus dem<lbr type="BD"/> Hafnerisch<abbr v="en"/><lbr/>
+Hauß wieder zurück geschickt hat, mit dem Beysatz, daß ich<lbr type="BD"/><lbr/>
+solche nur dem Postwagen selbst übergeb<abbr v="en"/> möchte. Ich konnte<lbr/>
+ganz natürlich<lbr type="BD"/>&#160;<suppl hand="self" pos="supra">mit</suppl>&#160;<rend class="latin">emballie</rend>ren mich nicht abgeben, und hatte<lbr/>
+Ursache zu glauben, daß man<lbr type="BD"/> alles in d<abbr v="er"/> Hafnerisch<abbr v="en"/> Handlung<lbr/>
+besorgen und die absendung übernehm<abbr v="en"/><lbr type="BD"/> werde; da ich mich<lbr/>
+nun aber in meiner vermuthung betrog, so ließ es be&#255;<lbr type="BD"/><lbr/>
+einem and<abbr v="ern"/> Freund <rend class="latin">emballie</rend>ren, &#8211; und hoffe sie werd<abbr v="en"/> die<lbr/>
+12 Stücke<lbr type="BD"/> bereits durch den Postwagen richtig erhalt<abbr v="en"/> hab<abbr v="en"/>.<lbr/>
+Sie zu überzeugen, daß<lbr type="BD"/> ich sie als Freund behandle, gebe ich<lbr/>
+ihnen das Stück zu <u>1 f 45 <rend class="latin">X</rend><h>r</h>&#160;<rend class="latin">Corrent</rend></u>.<lbr type="BD"/> der ganze Betrag<lbr/>
+dieser 12 Stück ist also nicht mehr als <u>21 f <rend class="latin">Corrent.</rend></u> da sie nun<lbr/>
+das Stück <rend class="latin">à</rend> 2 f 45 <rend class="latin">X</rend><h>r</h> zu verkauf<abbr v="en"/> haben, so gewi<abbr type="topline" expand="nn">n</abbr><abbr v="en"/> sie an<lbr/>
+iedem<lbr type="BD"/> Stück 1 f &#8211;: doch, Nein! es ist etwas weniger, da sie<lbr/>
+das <rend class="latin">porto</rend> zu tragen<lbr type="BD"/> haben. Es versteht sich aber von selbst<lbr/>
+<pg n="2"/>
+daß ich diesen Preis nur gegen paare<lbr type="BD"/> bezahlung mache,<lbr/>
+die sie in die <u>Joseph Peisserische Handlung</u>&#160;<u>für Rechnung<lbr type="BD"/><lbr/>
+h<abbr type="curve">:</abbr> Lorenz Hagenauer in Salzb<abbr type="curve"></abbr></u>: zu entricht<abbr v="en"/> belieb<abbr v="en"/> wollen:<lbr/>
+da wirkl: nicht<lbr type="BD"/> ein einziges Stück dermal anderswo, als<lbr/>
+be&#255; mir zu hab<abbr v="en"/> ist. da ich weis wie<lbr type="BD"/> kostbar einem<lbr/>
+Negozianten die Zeit ist, so will, we<abbr type="topline" expand="nn">n</abbr> sie so zufried<abbr v="en"/> sind,<lbr type="BD"/><lbr/>
+sie zu keinem Antwort=schreib<abbr v="en"/> auffordern, sond<abbr v="ern"/> die ge<pc force="weak">=</pc><lbr/>machte Bezahlung<lbr type="BD"/> an die Peisser<abbr type="curve">:</abbr> Handlung, als eine<lbr/>
+Antwort anseh<abbr v="en"/>, und das übrige durch<lbr type="BD"/> ein Schreib<abbr v="en"/> von<lbr/>
+meinem Sohn allenfalls erwart<abbr v="en"/>. übrigens grüsse sie<lbr/>
+durch<lbr type="BD"/> die uns bekannte Zahl und bin ohnabänd<abbr v="er"/>lich dero<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>______</ts><tshtm>________________________________________________________</tshtm><tspdf>\hfill </tspdf>ergebenster B:<lbr type="forced"/>
+<ts>___________</ts><tshtm>_______</tshtm>8<lbr type="forced"/>
+Salzb<abbr type="curve">:</abbr>  57<ts>__</ts>/<ts>__</ts>85<ts>_____</ts><tshtm>_______________________________</tshtm><tspdf>\hfill </tspdf>Mozart <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<ts>_________</ts><tshtm>_____</tshtm>VII
+<lbr type="forced"/>
+bitte meinem Sohn den Einschluss gleich zu übersend<abbr v="en"/>.<lbr type="forced"/>
+<pg n="3"/>
+<vacat/>
+<pg n="4"/>
+<anschrift>
+<add_seal type="post">SALZBURG</add_seal><lbr/>
+Herrn<lbr type="forced"/>
+Herrn <rend class="latin">Artaria</rend> und<lbr type="forced"/>
+Compa<abbr type="curve">:</abbr> Musikverleger<lbr type="forced"/>
+<ts>_____________</ts><tshtm>_________</tshtm>in<lbr type="forced"/>
+Auf dem<lbr type="forced"/>
+<u>Michaelerplatz</u><ts>__</ts><tshtm>__</tshtm><u>Wienn</u></anschrift>
+<lbr/>
+<lbr/>
+<add_empf><rend class="latin">Mozart<lbr/>
+Salzburg</rend> 8.<h>t<abbr v="en"/></h>&#160;<rend class="latin">Julii</rend><lbr/>
+<ts>__________________________</ts><u>1785</u><lbr/>
+Bantw<abbr type="curve"></abbr> d<abbr v="en"/> 22.<h>t<abbr v="en"/></h> 8.<h><u><rend class="latin">bre</rend></u></h>&#160;</add_empf>
+</NI>
+</letter></text>
+</MUP>

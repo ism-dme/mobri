@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2014">2014-6</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1728</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:42:16 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_1157.mup">
+<letter bd="1157"><HEADER id="1728">WOLFGANG AMADÉ MOZART AN CONSTANZE MOZART IN BADEN BEI WIEN<lbr/>
+WIEN, 6. JUNI 1791</HEADER>
+<pg n="1"/>
+<ts>__________</ts><tshtm>______</tshtm><rend class="latin">Ma trés cher Epouse!</rend><lbr type="forced"/>
+<lbr type="forced"/>
+<rend class="latin">J'écris cette lettre dans la petite Chambre au Jardin chez<lbr/>
+Leitgeb ou j'ai<lbr type="BD"/> couché cette Nuit excellement &#8211; et J'espére que<lbr/>
+ma chere Epouse aura passée<lbr type="BD"/> cette Nuit aussi bien que moi.<lbr/>
+j'y passerai cette Nuit aussi, puisque J'ai congedié<lbr type="BD"/> Leonore, et<lbr/>
+je serais tout seul á la maison, ce qui n'est pas agreable. &#8211; <lbr type="forced"/>
+j'attends avec beaucoup d'impatience une lettre qui m'apprendra<lbr/>
+co<abbr type="topline" expand="mm">m</abbr>e vous<lbr type="BD"/> avés passée le Jour d'hier; &#8211; je tremble quand je pense<lbr/>
+au baigne du st: Antoin;<lbr type="BD"/> car je crains toujours le risque de<lbr/>
+tomber sur l' escalier, en sortant &#8211; et je me<lbr type="BD"/> trouve entre<lbr/>
+l'esperance et la crainte &#8211; une Situation bien desagreable!<lbr/>
+&#8211; si<lbr type="BD"/> vous n'etiés pas grosse Je craignerais moins &#8211; mais<lbr/>
+abbandonons cette Jdée<lbr type="BD"/> triste! &#8211; &#8211; le ciel aura eù certaine<pc force="weak">=</pc><lbr/>ment soin de ma chere <u>stanzi=Marini</u>; &#8211; <lbr type="forced"/>
+Mad:<h>me</h> de Schwingenschu m'a priée de leur procurer une Loge<lbr/>
+pour ce soir<lbr type="BD"/> au theatre de Wieden ou l'on donnera, la cinquième<lbr/>
+partie d'Antoin, et j'etais<lbr type="BD"/> si heureux de pouvoir les servir;<lbr/>
+j'aurai donc le plaisir de voir cet Opera dans<lbr type="BD"/> leur Compagnie.</rend><lbr type="forced"/>
+diesen augenblick erhalte ich dein liebes schreiben, und sehe daraus<lbr/>
+mit ver<lbr type="BD"/>gnügen daß du gesund und wohlauf bist &#8211; Mad:<h>e</h>&#160;<rend class="latin">Leitgeb</rend> hat mir<lbr/>
+heute das<lbr type="BD"/> halsbindl gemacht, aber wie? &#8211; lieber gott! &#8211; ich habe freylich<lbr/>
+i<abbr type="topline" expand="mm">m</abbr>er gesagt,<lbr type="BD"/>&#160;<u>so macht sie's</u>! &#8211; es nutzte aber nichts. &#8211; mich freuet es<lbr/>
+daß du guten <rend class="latin">Apetit</rend> hast &#8211; wer aber viel frisst, muß auch viel<lbr/>
+sch . . . .? &#8211; Nein, viel gehen wollt'<lbr type="BD"/> ich sagen. &#8211; doch ist es mir<lbr/>
+<add_note schr_id="57010">Man weiß, daß er in dem Gebrauch seiner Hände ausser das Clavier<lbr/>
+sehr ungeschikt war, daß er nicht Fleisch schneiden konnte</add_note>
+<add_note schr_id="57010"><postxt loc="lm" rot="270">und daß seine Frau ihm das Fleisch, wie einem Kinde schnitt</postxt></add_note>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="2"/>
+lieb wenn du <u>grosse Spatziergänge</u> nicht ohne<lbr type="BD"/> mich machest. &#8211; <lbr/>
+Thue nur alles was ich dir rathe, es ist gewis von Herzen<lbr type="BD"/> gemeint.<lbr/>
+<rend class="latin">adieu</rend> &#8211; liebe &#8211; einzige! &#8211; fang du auch auf in der luft<lbr/>
+&#8211; es fliegen<lbr type="BD"/> 2999 und ein <formula type="mfrac"><mn>1</mn><mi>2</mi></formula> bussel von mir, die aufs aufschnapen<lbr/>
+<add_note schr_id="57010"><ts>__________________________________________________________________________________________</ts>aufschnappen</add_note>
+warten. &#8211; Nun sag ich<lbr type="BD"/> dir etwas ins ohr. &#8211; &#8211; &#8211; &#8211; &#8211; <lbr/>
+du nun mir. &#8211; &#8211; &#8211; nun machen wir das Maul<lbr type="BD"/> auf und zu &#8211; <lbr/>
+&#8211; &#8211; i<abbr type="topline" expand="mm">m</abbr>er mehr &#8211; und mehr &#8211; &#8211; endlich sagen wir; &#8211; es ist<lbr type="BD"/><lbr/>
+wegen <rend class="latin">Plumpi</rend> &#8211; <rend class="latin">Strumpi</rend> &#8211; &#8211; du kannst dir nun dabe&#255;<lbr/>
+denken was du willst. &#8211;<lbr type="BD"/> das ist eben die <rend class="latin">Comoditet</rend>. &#8211; <lbr/>
+<rend class="latin">Adieu</rend> &#8211; 1000 zärtliche küsse Ewig Dein<lbr type="forced"/>
+<ts>________</ts><tshtm>____________________________________________________________</tshtm><tspdf>\hfill </tspdf>Mozart<lbr type="forced"/>
+Den 6:<h>t</h>&#160;<rend class="latin">Junj</rend>. <uu>791</uu>.<lbr type="forced"/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+</letter>
+</text>
+</MUP>

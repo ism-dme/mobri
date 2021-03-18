@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2009">2009-08-20</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=52</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:26:02 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/Doc1810_3_mup.txt">
+<HEADER id="52">FRANZ XAVER WOLFGANG MOZART AN CARL THOMAS MOZART IN MAILAND<lbr/>
+[PODKAMIEŃ,] 3. FEBRUAR 1810</HEADER>
+<pg n="1"/>
+<add_num type="inline" impl="ink"><rend class="latin">N<h><uu>o</uu></h></rend> 37</add_num><ts>_____________________________________</ts><tspdf>\hfill </tspdf>&#160;<u>den 3<h><uu>t</uu></h>&#160;<rend class="latin">Februar</rend> 1810</u>.<lbr type="forced"/>
+<lbr type="forced"/>
+<add_sign type="inline" impl="pencil">45/937</add_sign><ts>______________________</ts>Mein lieber <persName key="48820">Bruder</persName>!<lbr type="forced"/>
+<lbr type="forced"/>
+Du foderst gewiß, keine Entschuldigung von mir, daß ich dir<lbr/>
+so lange nicht geschrieben habe, theils, weil du weißt, daß<lbr/>
+die Umstände, nichts weniger als günstig, für unsern Briefwechsel<lbr/>
+waren, theils auch, weil du eben so wohl, in meiner Schuld bist.<lbr/>
+Du siehst also, daß du mir nothwendiger Weise verzeihen<lbr/>
+must, sonst &#8211; mache ich dir, einen fürchterlichen Prozeß da<pc force="weak">=</pc><lbr/>rüber, daß du mir meinen Brief vom 30<h><uu>t</uu></h> März verfloßenen<lbr/>
+Jahres nicht beantwortet hast. also <rend class="latin">pax nobiscum</rend>. &#8212; <lbr type="forced"/>
+Aus dem letzten Briefe meiner | und deiner | lieben <persName key="48818 57010">Eltern</persName><lbr/>
+ersehe ich, daß du von deiner <suppl hand="self" pos="supra">Reise</suppl> nach <rend class="latin">Rom</rend>, wieder nach Mailand<lbr/>
+zurückgeko<abbr type="topline" expand="mm">m</abbr>en bist; da Sie mir aber nie von dieser <rend class="latin">Reise</rend><lbr/>
+gesprochen, so erwarte ich von meinem lieben <persName key="48820">Bruder</persName>,<lbr/>
+daß er mir das, wie? wann? und warum? dieser Reise<lbr/>
+mittheilen wird. &#8211; <persName key="53244">H<abbr type="curve"></abbr> Härtel</persName> aus Leipzig, hat sich neulich<lbr/>
+sehr, bey mir, um dich erkundigt, und ich habe ihm, wie du leicht<lbr/>
+denken ka<abbr type="topline" expand="nn">n</abbr>st, alles <u>schlechte</u>, was ich von dir weiß, geschrie<pc force="weak">=</pc><lbr/>ben.<lbr type="forced"/>
+Unsere <persName key="48818">Mutter</persName>, wird dir gewiß erzählt haben, was Sie, und unser<lbr/>
+lieber <persName key="57010">Vater</persName> für Gefahren in <rend class="latin">Pressburg</rend> ausgestanden haben &#8211; <lbr/>
+Gott sey dank, daß Sie unbeschädigt davon geko<abbr type="topline" expand="mm">m</abbr>en sind! mir<lbr/>
+standt der Schweiß auf der Stirne als ich Ihren Bericht<lbr/>
+darüber las. &#8211; Ich bitte meine Empfehlung an dein <persName key="20312">Lehrer</persName>,<lbr/>
+und Herrn <persName key="77954"><rend class="latin">Pinali</rend></persName>.<lbr type="forced"/>
+<pg n="2"/>
+Lebe wohl, lieber <persName key="48820">Bruder</persName>, schreibe mir ja recht bald |: de<abbr type="topline" expand="nn">n</abbr><lbr/>
+ich weiß nichts mehr, bis du mir Stoff dazu giebst :| was<lbr/>
+du machst, was du <rend class="latin">componirst</rend>, kurz, alles von dir, wird<lbr/>
+mir angenehm seyn. Noch einmahl lebe wohl, und vergiß<lbr/>
+<tshtm>__________</tshtm>nicht deinen dich aufrichtig liebenden Bruder<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>____________________________</ts><tshtm>_____________________________</tshtm><tspdf>\hfill </tspdf><persName key="39407"><u><rend class="latin">Wolfgang</rend></u></persName>.<lbr type="forced"/>
+<lbr type="forced"/>
+Noch eine Bitte: Du hast gewiß | oder hast wenigstens Gelegenheit zu<lbr/>
+haben :| Kleinigkeiten von <rend class="latin">Mosaik</rend>. Kö<abbr type="topline" expand="nn">n</abbr>test du mir nicht, we<abbr type="topline" expand="nn">n</abbr><lbr/>
+du ohnedem etwas unserer <persName key="48818">Mutter</persName> schikst, einen einfachen<lbr/>
+goldnen Ring, mit sehr kleiner <rend class="latin">Mosaik</rend> schicken. Diese<lbr/>
+Kleinheit | we<abbr type="topline" expand="nn">n</abbr> ich mich so ausdrücken darf :| besteht nicht dari<abbr type="topline" expand="nn">n</abbr>,<lbr/>
+daß die <rend class="latin">Mosaik</rend> aus sehr kleinen Steinen | we<abbr type="topline" expand="nn">n</abbr> es seyn ka<abbr type="topline" expand="nn">n</abbr> desto besser |<lbr/>
+zusa<abbr type="topline" expand="mm">m</abbr>engesetzt ist, sondern der Umkreis, muß so klein als<lbr/>
+möglich seyn. Der Ring mag etwa auf deinen kleinen<lbr/>
+<rend class="latin">Finger</rend> passen. Aber <rend class="latin"><u>Notabene</u></rend> es darf dich nichts kosten,<lbr/>
+es sey de<abbr type="topline" expand="nn">n</abbr>, daß ich dir’s bezahlen darf. Lebe wohl,<lbr/>
+ich küsse dich vielmahl.<lbr type="forced"/>
+<lbr type="forced"/>
+<add_ident schr_id="0" impl="pencil"><ts>______________________________________________________</ts>1810</add_ident></text>
+</MUP>

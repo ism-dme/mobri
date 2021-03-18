@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2020">2020-02</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=644</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:36:38 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_86.mup">
+<letter bd="86">
+<HEADER id="644">LEOPOLD MOZART AN LORENZ HAGENAUER IN SALZBURG<lbr/>
+LONDON, 25. APRIL 1764<lbr/>
+Abschrift von Lorenz Hagenauer?</HEADER>
+<pg n="1"/>
+<ts>__________</ts><rend class="latin">Copia</rend>.<ts>_____________________________</ts><tspdf>\hfill </tspdf><rend class="latin">London</rend> d<abbr v="en"/> 25 <rend class="latin">April</rend>&#160;<u>1764</u>.<lbr type="forced"/>
+<lbr type="forced"/>
+Wir sind, gott Lob, glückl: über den Maxloner=Bach geko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>.<lbr/>
+allein<lbr type="BD"/> ohne <rend class="latin">S: V:</rend> Spei = = ubergaab ist es nicht abgegang<abbr v="en"/>:<lbr/>
+doch hat es mich am<lbr type="BD"/> meisten hergenohmen. Es ware aber<lbr/>
+<abbr expand="das">ds</abbr> Geld ersparet: <rend class="latin">Medicin</rend> zum brechen<lbr type="BD"/> einzunehmen.<lbr/>
+und wir sind, gott se&#255;e dank, alle gesund. Wer zu viel<lbr/>
+geld<lbr type="BD"/> hat darf nur eine Reise <abbr type="topline" expand="von">v</abbr> Paris nach London unter<pc force="weak">=</pc><lbr/>nehmen, man wird ihm<lbr type="BD"/> gewis den Beutel leichter machen.<lbr/>
+wir hatten die Ehre in <rend class="latin">Calais</rend> 4 <rend class="latin">Louis<lbr type="BD"/> d'or</rend> zu bezahlen, obwohl<lbr/>
+wir einmahl nicht zu haus, sondern be&#255; d<abbr v="en"/>&#160;<rend class="latin">Procu<lbr type="BD"/>reur du Roy et de<lbr/>
+l'admirauté</rend> speisten, be&#255; dem wir auch unsern Wagen<lbr type="BD"/> gelass<abbr v="en"/>.<lbr/>
+so bald man in <rend class="latin">Dover</rend> ist, gehet es noch raucher her; und we<abbr type="topline" expand="nn">n</abbr> man<lbr type="BD"/><lbr/>
+von Schiffe aussteigt, sicht man sich von 30 in 40 Menschen umgeb<abbr v="en"/><lbr/>
+die<lbr type="BD"/> alle gehors<abbr type="curve"></abbr> diener sind, und die die <rend class="latin">Bagage</rend> d<abbr v="en"/> eigenen Bedient<abbr v="en"/><lbr/>
+mit gewalt<lbr type="BD"/> abnehmen wollen, um solche nach den Wirthshause zu trag<abbr v="en"/>:<lbr/>
+und dann muß<lbr type="BD"/> man sie bezallen, Was sie fodern. Ich muste für die über<lbr/>
+fahrt 3 <rend class="latin">Louis d'or</rend><lbr type="BD"/> bezahlen. de<abbr type="topline" expand="nn">n</abbr> ich hatte ein eigenes Schiff, für <abbr expand="das">ds</abbr><lbr/>
+man 5 <rend class="latin">Louis d'or</rend> bezahlen muß: ich nahm demnach 4 andere Freunde,<lbr/>
+die jeder ein<abbr v="en"/> halben <rend class="latin">Louis</rend><lbr type="BD"/> bezahlte, zu mir. da<abbr type="topline" expand="nn">n</abbr> in <rend class="latin">Backeboot</rend> war<abbr v="en"/><lbr/>
+14 Person<abbr v="en"/>; und da nur 10 in 12<lbr type="BD"/> Better in ein<abbr v="en"/> Schiffe sind, so ist es<lbr/>
+sehr ungelegen, unter so vielen Men<lbr type="BD"/>schen, die Manchemal die See<pc force="strong">=</pc><lbr/>Krankheit erstaunlich beko<abbr type="topline" expand="mm">m</abbr>en, zu bleiben.<lbr type="BD"/> vom grossen Schiffe<lbr/>
+sich durch ein kleines in <rend class="latin">dover</rend> ausschiffen zu lassen, hat<lbr type="BD"/> die Person<lbr/>
+ein<abbr v="en"/> hal<tspdf>\-</tspdf>ben Feder=thaler gekostet, ich muste also 6 kleine od<abbr v="er"/><lbr type="BD"/> 3 grosse<lbr/>
+Laubthaller bezahlen, dann ich hatte 2 bediente be&#255; mir folglich bis<lbr type="BD"/><lbr/>
+<rend class="latin">Calais</rend> 7 Postpferd, indem einer geritten hat. der zwe&#255;te bediente<lbr/>
+war ein<lbr type="BD"/>&#160;<rend class="latin">Italiener</rend> Nahmens <rend class="latin">Porta</rend>, der diese weege schon 8mal ge<pc force="weak">=</pc><lbr/>macht hat; und alle<lbr type="BD"/> meine freünde in Paris riethen mir diesen Men<pc force="weak">=</pc><lbr/>schen mit zu nehmen. Es war<lbr type="BD"/> auch in d<abbr v="er"/> That sehr gut gethan: denn er<lbr/>
+brachte alles in ordnung, und<lbr type="BD"/> behandlete alles. Nun scheine es mir<lbr/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="2"/>
+in <rend class="latin">london</rend> nichts als <rend class="latin">Masquern</rend> zusehen,<lbr type="BD"/> und was mein<abbr v="en"/> sie, wie meine<lbr/>
+Frau und mein Mädl in den Englischen hütten<lbr type="BD"/> und ich und d<abbr v="er"/><lbr/>
+grosse Wolfgang in Englisch<abbr v="en"/> Kleidern aussehen. Mein<lbr type="BD"/> Nächster<lbr/>
+brief wird ihnen mehr sagen. wir empfehlen uns.<lbr type="forced"/>
+<ts>_________________________</ts><tshtm>____________________________________________________</tshtm><tspdf>\hfill </tspdf><rend class="latin">Mozart</rend><lbr type="forced"/>
+<lbr type="forced"/>
+<rend class="latin">addresse<lbr type="forced"/>
+<ts>______</ts>à Monsieur<lbr type="forced"/>
+Monsieur Mozart at M<h>r</h> Couzin<lbr type="forced"/>
+Hare cutter in cecil<lbr type="BD"/> court<lbr type="forced"/>
+S:<h>t</h> Martins lane<lbr type="forced"/>
+<ts>_____</ts>att<lbr type="forced"/>
+<ts>__________</ts>London.</rend><lbr type="forced"/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+</letter></text>
+</MUP>

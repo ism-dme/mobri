@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2011">2011-05</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=784</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Verbleib unbekannt</bibl>
+            <bibl type="source" subtype="RISM">Verbleib unbekannt</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:37:25 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_223.mup">
+<letter bd="223"><NI src="unbekannt"><HEADER id="784">LEOPOLD MOZART AN MARIA ANNA MOZART IN SALZBURG<lbr/>
+MAILAND, 15. DEZEMBER 1770</HEADER>
+<pg n="1"/>
+<ts>_________________</ts><tshtm>_______________________________________________________________________</tshtm><tspdf>\hfill </tspdf>Ma&#255;land d<abbr v="en"/> 15 <rend class="latin">Dec<abbr type="curve">:</abbr></rend>&#160;<u>1770</u><lbr type="forced"/>
+<lbr type="forced"/>
+Den 12<h>t<abbr v="en"/></h> war die erste Probe mit Instrument<abbr v="en"/>; aber nur mit 16 Person<abbr v="en"/>,<lbr type="BD"/> um zu seh<abbr v="en"/><lbr/>
+ob alles <rend class="latin">Correct</rend> geschrieb<abbr v="en"/> ist, den 17<h>t<abbr v="en"/></h> wird die erste Probe<lbr type="BD"/> mit dem ganz<abbr v="en"/><lbr/>
+<rend class="latin">Orchester</rend> se&#255;n, welches in 14 <rend class="latin">Prim</rend>= und 14 <rend class="latin">Secund<abbr v="en"/></rend> folglich in 28 <rend class="latin">Violinen</rend>,<lbr/>
+2 <rend class="latin">Clavier</rend>, 6 <rend class="latin">ContraBass</rend>, 2 <rend class="latin">Violoncelli</rend>, 2 <rend class="latin">Fagotti</rend>, 6 <rend class="latin">Violen</rend>,<lbr type="BD"/> 2 <rend class="latin">Hautb<abbr type="curve">:</abbr></rend> und<lbr/>
+2 <rend class="latin">Flautotraversi</rend>, welche, wo keine flauti dabe&#255; sind, allzeit mit<lbr type="BD"/> 4 <rend class="latin">Hautb<abbr type="curve">:</abbr></rend><lbr/>
+mit spiel<abbr v="en"/>. 4 <rend class="latin">Corni di Caccia</rend>, und 2 <rend class="latin">Clarini</rend>&#160;<abbr expand="etc.">p.</abbr> folglich in 60 Person<abbr v="en"/><lbr/>
+bestehet. bevor die erste Probe mit dem klein<abbr v="en"/>&#160;<rend class="latin">Orchester</rend> gemacht<lbr type="BD"/> word<abbr v="en"/>,<lbr/>
+hat es nicht an Leut<abbr v="en"/> gemangelt, welche mit <rend class="latin">Satyri</rend>scher Zunge die<lbr type="BD"/> Musik schon<lbr/>
+zum voraus als etwas junges, und elendes aus geschri<abbr v="en"/> und so<lbr type="BD"/> zu sag<abbr v="en"/> Propheze&#255;et;<lbr/>
+da sie behauptet<abbr v="en"/>, da[ß] es unmöglich wäre, daß ein<lbr type="BD"/> so junger knab, und noch<lbr/>
+dazu ein deutscher [e]ine <rend class="latin">itali</rend>änische <rend class="latin">opera</rend> schreib<abbr v="en"/><lbr type="BD"/> könnte, und daß er, ob sie<lbr/>
+ihn gleich als ein<abbr v="en"/> gross<abbr v="en"/>&#160;<rend class="latin">Virtuosen</rend> erke<abbr type="topline" expand="nn">n</abbr>et<abbr v="en"/>,<lbr type="BD"/> doch das zum theater nötige <u><rend class="latin">Chiaro<lbr/>
+ed oscuro</rend></u> ohnmöglich genug versteh<abbr v="en"/><lbr type="BD"/> und einseh<abbr v="en"/> könnte. alle diese Leute<lbr/>
+sind nun von dem Abend der erst<abbr v="en"/><lbr type="BD"/> klein<abbr v="en"/> Probe an erstu<abbr type="topline" expand="mm">m</abbr>et, und reden<lbr/>
+nicht eine Sylbe mehr; der <rend class="latin">Copist</rend> ist<lbr type="BD"/> voll vergnüg<abbr v="en"/>, welches in itali<abbr v="en"/> ein sehr<lbr/>
+gute Vorbedeutung ist: indem,<lbr type="BD"/> we<abbr type="topline" expand="nn">n</abbr> die Musik gut ausfällt, der <rend class="latin">Copist</rend><lbr/>
+manchmahl durch verkaufung und<lbr type="BD"/> verschickung der <rend class="latin">Arien</rend> mehr geld<lbr/>
+gewinnet, als der Capellmeister für die<lbr type="BD"/>&#160;<rend class="latin">Composition</rend> hat. die Sängerin<abbr v="en"/> und<lbr/>
+Säng<abbr v="er"/> sind sehr zufried<abbr v="en"/> und völlig<lbr type="BD"/> vergnügt: absond<abbr v="er"/>lich ist die <rend class="latin">Prima Dona</rend>,<lbr/>
+und der <rend class="latin">Primo uomo</rend> weg<abbr v="en"/> dem<lbr type="BD"/>&#160;<rend class="latin">Duetto</rend> voll der freude, und der <rend class="latin">Primo uomo</rend><lbr/>
+sagte, daß we<abbr type="topline" expand="nn">n</abbr> dieses <rend class="latin">Duetto</rend><lbr type="BD"/> nicht gefalle, er sich noch einmal wolle <u>be<pc force="weak">=</pc><lbr/>schnatzeln</u> lass<abbr v="en"/>. <rend class="latin">Basta!</rend> nun<lbr type="BD"/> ko<abbr type="topline" expand="mm">m</abbr>t es auf die <rend class="latin">Caprice</rend> des ganz<abbr v="en"/><lbr/>
+<rend class="latin">Publici</rend> an: in der Sache selbst ist uns,<lbr type="BD"/> ausser der wenig<abbr v="en"/> eiteln Ehre,<lbr/>
+nicht viel daran geleg<abbr v="en"/>. Wir hab<abbr v="en"/> vieles in<lbr type="BD"/> dieser wund<abbr v="er"/>lich<abbr v="en"/> Welt schon unter<pc force="weak">=</pc><lbr/>no<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>, und Gott hat uns allzeit be&#255;gestand<abbr v="en"/>. Nun steh<abbr v="en"/> wir am Ranfte dieses<lbr/>
+<pg n="2"/>
+weg<abbr v="en"/> einiger Umstände eb<abbr v="en"/><lbr type="BD"/> nicht so gering<abbr v="en"/> Unternehmens; und Gott wird<lbr/>
+auch itzt mit uns se&#255;n. vor<lbr type="BD"/> einig<abbr v="en"/> tag<abbr v="en"/> hat es hier das erste mahl <amend value="geschneuet">gescheuet</amend>,<lbr/>
+od<abbr v="er"/> geschni<abbr v="en"/>, wie du<lbr type="BD"/> es besser verstehest. darauf kam trock<abbr v="en"/> Wetter, und das<lbr/>
+wasser auf der<lbr type="BD"/> Strasse, und die Erde war gefrohr<abbr v="en"/>. Stelle dir also die<lbr/>
+kälte ohne öfen vor.<lbr type="BD"/> da heist es: <u>ò du erschröckliche kälte in diesem<lbr/>
+Warm<abbr v="en"/> Lande</u>! doch sind<lbr type="BD"/> nur unsere Hände die am meist<abbr v="en"/> leid<abbr v="en"/>,<lbr/>
+de<abbr type="topline" expand="nn">n</abbr> die füsse verwahr<abbr v="en"/> die<lbr type="BD"/> filtzschue und den Leib d<abbr v="er"/> Peltz. heute hat<lbr/>
+die kälte nachgelass<abbr v="en"/>, weil es<lbr type="BD"/> ein wenig geregnet.<lbr type="forced"/>
+sehe dich um eine gute Leinwand um zu Hemd<abbr v="er"/>; indem, so bald wir,<lbr/>
+mit<lbr type="BD"/> gottes Hilfe, anko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>, gleich für den <rend class="latin">Don Amadeo</rend> müss<abbr v="en"/> Hemd<abbr v="er"/><lbr/>
+gemacht werd<abbr v="en"/>, sie sind alle zu kurz und werden kaum die Zeit<lbr/>
+unserer nach<lbr type="BD"/> Hauskunft ausdauern könn<abbr v="en"/>, da die Ermel alle<lbr/>
+zu kurz sind.<lbr type="forced"/>
+Mein Schreib<abbr v="en"/> an S<h>r</h>: Hochf<abbr type="curve">:</abbr> Gnad<abbr v="en"/> wird hofentl: eingelauff<abbr v="en"/> se&#255;n. so<lbr type="BD"/> bald<lbr/>
+die <rend class="latin">opera</rend> in <rend class="latin">Scena</rend> ist, werde euch Nachricht geb<abbr v="en"/>. am hl: <rend class="latin">Stephans</rend>=<lbr/>tag<lbr type="BD"/> 
+eine gute Stunde nach <rend class="latin">ave Maria</rend> könnt ihr in gedank<abbr v="en"/> den<lbr/>
+<rend class="latin">Maestro Amadeo</rend><lbr type="BD"/> be&#255;m <rend class="latin">Clavier</rend> im <rend class="latin">Orchester</rend>, mich aber ob<abbr v="en"/> in einer<lbr/>
+<rend class="latin">Loge</rend> od<abbr v="er"/> <rend class="latin">Balco</rend> als<lbr type="BD"/> zuseher und zuhörer euch vorstell<abbr v="en"/> od<abbr v="er"/><lbr/>
+einbild<abbr v="en"/> und ihn in gedank<abbr v="en"/><lbr type="BD"/> eine glückl: <rend class="latin">production</rend> wünsch<abbr v="en"/>, auch<lbr/>
+dessweg<abbr v="en"/>&#160;<u>ein paar vatterunser</u> beth<abbr v="en"/>.<lbr type="BD"/> wir küss<abbr v="en"/> euch be&#255;de 10000000<lbr/>
+mahl und ich bin allzeit dein alter<lbr type="forced"/>
+<ts>___________</ts><tshtm>__________________________________________________</tshtm><tspdf>\hfill </tspdf>Mozart <abbr expand="manu propria"><rend class="latin">mp</rend></abbr><lbr type="forced"/>
+an alle freunde und freundin<abbr v="en"/> in und ausser dem Hause alles erdenkliche.<lbr type="forced"/>
+<lbr type="forced"/>
+We<abbr type="topline" expand="nn">n</abbr> ist da<abbr type="topline" expand="nn">n</abbr> <rend class="latin">Victoria</rend>? &#8211; &#8211; schreibe mir es.</NI></letter>
+</text>
+</MUP>

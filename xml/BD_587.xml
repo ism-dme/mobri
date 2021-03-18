@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2013">2013-9</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1153</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:39:39 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_587.mup">
+<letter bd="587"><HEADER id="1153">WOLFGANG AMADÉ MOZART AN LEOPOLD MOZART IN SALZBURG<lbr/>
+WIEN, 8. APRIL 1781</HEADER>
+<pg n="1"/>
+<ts>______</ts><tshtm>_________________________________________</tshtm><tspdf>\hfill </tspdf><rend class="latin">Vienne ce</rend> 8 d'a<pc force="weak">=</pc><lbr type="forced"/><ts>_______</ts><rend class="latin">Mon trés cher Pére!</rend><ts>____</ts><tshtm>______________</tshtm><tspdf>\hfill </tspdf><rend class="latin">prile</rend>&#160;<u>1780</u>.<lbr type="forced"/>
+<add_note schr_id="57010">Ich habe einen gescheutern und längern Brief</add_note>
+<encr expand="ich habe einen gescheidern und längern brief">fcu umbl lfnln gloculfdlrn, hnd em"nglrn brfli</encr><lbr/>
+<add_note schr_id="57010"><ts>__</ts>an Sie angefangen<ts>______</ts>aber ich habe zu viel</add_note>
+<encr expand="an sie angefangen &#8211; aber ich habe zu viel">mn ofl mnglimngln &#8211; mblr fcu umbl zh vfle</encr><lbr/>
+<add_note schr_id="57010">vom Brunetti geschrieben<ts>___</ts>und habe gefürchtet,</add_note>
+<encr expand="vom Brunetti geschrien; und habe gefirchten">vsm Brhnlttf glocurfln; hnd umbl glifrcutln</encr><lbr/>
+<add_note schr_id="57010"><ts>__</ts>daß er ihn etwa aus<ts>______</ts>Vorwiz, weil</add_note>
+<encr expand="daß er ihn aus vorwitz, weil Ceccaerelli">daß lr fun ltwm mho vsrwftz, wlfe Ceccm=</encr><lbr/>
+<add_note schr_id="57010">Ceccarelli bei mir ist aufbrechen mogte</add_note>
+<encr expand="be&#255; mir ist, aufbrechen möchte">rleef bl&#255; afr fot, mhibrlculn as"cutl</encr> &#8211; <lbr/>
+mit nächster Post werde ihnen den brief schicken,<lbr/>
+und ihnen auch mehr schrei<lbr type="BD"/>ben kö<abbr type="topline" expand="nn">n</abbr>en, als ich diesmal<lbr/>
+kö<abbr type="topline" expand="nn">n</abbr>te &#8211; meine brief werden sie unterdessen<lbr/>
+er<lbr type="BD"/>halten haben. &#8211; den <rend class="latin">applauso</rend> im Theater<lbr/>
+habe ich ihnen geschrieben, nur<lbr type="BD"/> muß ich noch sagen,<lbr/>
+daß was mich am meisten gefreuet, und verwundert<lbr/>
+hat,<lbr type="BD"/> war &#8211; das erstaunliche <rend class="latin">silentium</rend> &#8211; und<lbr/>
+mitten im spiellen das <rend class="latin">Bravo</rend><lbr type="BD"/> schre&#255;en. &#8211; <lbr/>
+für Wie<abbr type="topline" expand="nn">n</abbr>, wo so vielle &#8211; und so vielle gute <rend class="latin">Clavier</rend><pc force="weak">=</pc><lbr/>spieller sind,<lbr type="BD"/> ist das gewis Ehre genug. &#8211; <lbr type="forced"/>
+heute hatten wir &#8211; de<abbr type="topline" expand="nn">n</abbr> ich schreibe um 11 uhr Nachts &#8211; <lbr/>
+<rend class="latin">accademie</rend>. da wur<lbr type="BD"/>den 3 stücke von mir gemacht.<lbr/>
+versteht sich, Neue; &#8211; ein <rend class="latin">Rondeau</rend> zu einen<lbr type="BD"/>&#160;<rend class="latin">Concert</rend><lbr/>
+für <rend class="latin">Brunetti</rend> &#8211; eine <rend class="latin">Sonata</rend> mit <rend class="latin">accom<tspdf>\-</tspdf>pagnement</rend><lbr/>
+einer <rend class="latin">Violin</rend>, für<lbr type="BD"/> mich. &#8211; welche ich gestern Nachts<lbr/>
+von 11 uhr bis 12 <rend class="latin">Componirt</rend> habe &#8211; aber,<lbr type="BD"/> damit<lbr/>
+ich fertig geworden bin, nur die <rend class="latin">accompagnement</rend>sti<abbr type="topline" expand="mm">m</abbr><lbr/>
+für <rend class="latin">Brunetti</rend><lbr type="BD"/> geschrieben habe, ich aber meine <rend class="latin">Parthie</rend><lbr/>
+im kopf behalten habe &#8211; und da<abbr type="topline" expand="nn">n</abbr>,<lbr type="BD"/> ein <rend class="latin">Rondeau</rend><lbr/>
+für <rend class="latin">Ceccarelli</rend> &#8211; welches er hat <rend class="latin">Repeti</rend>ren müssen.<lbr/>
+&#8211; izt bitte ich<lbr type="BD"/> mir, so bald möglich einen brief aus,<lbr/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="2"/>
+und über folgendes einen vätterlichen<lbr type="BD"/> und mithin den<lbr/>
+<add_note schr_id="57010"><ts>_________________________________________________________</ts>Es<ts>______</ts>heißt nun, wir</add_note>
+freundschaftlichsten Rath aus. &#8211; <encr expand="es heist nun wir">lo ulfot nhn wfr</encr><lbr/>
+<add_note schr_id="57010">sollen<ts>___</ts>in<ts>______</ts>14<ts>______</ts>Tagen nach<ts>__</ts>Salzburg</add_note>
+<encr expand="sollen in vierzehen tagen nach salzburg">oseeln fn vflrzlhln tmgln nmcu omezbhrg</encr><lbr/>
+<add_note schr_id="57010">reisen ich<ts>_____</ts>kann nicht allein ohne meinen</add_note>
+<encr expand="reisen &#8211; ich kan nicht allein ohne meinen">rlfoln &#8211; fcu km<abbr type="topline" expand="nn">n</abbr> nfcut meelfn sunl alhnln</encr>
+<add_note schr_id="57010">Schaden sondern mit meinem Nuzen hier</add_note>
+<encr expand="schaden sondern mit meinem">ocumdln osndlrn aft alfnlm</encr>&#160;<u><encr expand="nutzen">nhtzln</encr></u>&#160;<encr expand="hier">uflr</encr><lbr/>
+<add_note schr_id="57010">bleiben.<ts>____________________________</ts>im Sinn den Erzbischof</add_note>
+<encr expand="bleiben">belfbln</encr> &#8211; Ich habe also <encr expand="im sinn dem erzbischof">fa ofnn dla lrzbfocusi</encr><lbr/>
+<add_note schr_id="57010">zu bitten mir noch hier zu bleiben zu erlauben.</add_note>
+<encr expand="zu bitten mir noch hier zu bleiben zu erlauben">zh bfttln afr nscu uflr zh belfbln zh lremhbln</encr><lbr/>
+<add_note schr_id="57010"><ts>__________________________</ts>ich<ts>____</ts>habe Sie wohl recht lieb</add_note>
+&#8211; liebster Vatter,<lbr type="BD"/>&#160;<encr expand="ich habe sie wohl recht lieb">fcu umbl ofl woue rlcut eflb</encr>,<lbr/>
+<add_note schr_id="57010"><ts>__</ts>das sehen Sie aus diesem weil ich Ihnen</add_note>
+<encr expand="das sehen sie aus diesem, weil ich ihnen">dmo oluln ofl mho dflola, wlfe fcu funln</encr><lbr/>
+<add_note schr_id="57010">zu Liebe allem Wunsch und Begierde entsage</add_note>
+<encr expand="zu lieb allem Wunsch und begierde entsage">zh eflb meela Whnocu hnd blgflrdl lntomgl</encr> &#8211; <lbr/>
+<add_note schr_id="57010">denn wenn Sie nicht wären, so schwöre ich</add_note>
+<encr expand="&#8211; denn wenn sie nicht wären, so schwöre ich">&#8211; dl<abbr type="topline" expand="nn">n</abbr> wl<abbr type="topline" expand="nn">n</abbr> ofl nfcut wm"rln, os ocuws"rl fcu</encr><lbr/>
+<add_note schr_id="57010">Ihnen, bei meiner Ehre, daß ich</add_note>
+<encr expand="ihnen be&#255; meiner ehre das ich">funln bl&#255; mlfnlr lhrl dmo fcu</encr> keinen Augen<pc force="weak">=</pc><lbr/><add_note schr_id="57010"><ts>___________________________________________________</ts>gleich</add_note>
+blick versäumen würde, son<lbr type="BD"/>dern <encr expand="gleich">gelfcu</encr> meine<lbr/>
+<add_note schr_id="57010">dienste quittirte<ts>_________________</ts>großes Concert</add_note>
+<encr expand="dienste">dflnotl</encr>&#160;<u><encr expand="quittirte">qhfttfrtl</encr></u> &#8211; ein <encr expand="grosses">grsoolo</encr>&#160;<rend class="latin"><encr expand="Concert">Csn=</encr></rend><lbr/>
+<add_note schr_id="57010"><ts>_____</ts>gäbe<ts>___________</ts>vier Scolaren</add_note>
+<rend class="latin"><encr expand="gäbe">clrt gm"bl</encr></rend>, &#8211;<lbr type="BD"/>&#160;<encr expand="vier">vflr</encr>&#160;<rend class="latin"><encr expand="scolaren">ocsemrln</encr></rend> nä<abbr type="topline" expand="mm">m</abbr>e, und<lbr/>
+<add_note schr_id="57010"><ts>_______</ts>einem Jahr gewiß hier in Wien</add_note>
+in <encr expand="einem Jahr &#8211; gewis hier in Wien">lfnlm Fmur &#8211; glwfo uflr fn Wfl<abbr type="topline" expand="nn">n</abbr></encr><lbr/>
+<add_note schr_id="57010">so weit<ts>_________________</ts>ich<ts>____</ts>wenigstens jährlich</add_note>
+<encr expand="so weit">os wlft</encr> kä<abbr type="topline" expand="mm">m</abbr>e, daß <encr expand="ich wenigstens jährlich">fcu wlnfgotlno fm"urefcu</encr><lbr/>
+<add_note schr_id="57010"><ts>_____</ts>meine Tausend<ts>___</ts>Thaler</add_note>
+auf <encr expand="meine Tausend Thaller">alfnl Tmholnd Tumeelr</encr> kä<abbr type="topline" expand="mm">m</abbr>e. &#8211; <lbr/>
+<add_note schr_id="57010"><ts>___________________________________________________</ts>schwer genug</add_note>
+Ich versichere sie, daß es mir oft<lbr type="BD"/>&#160;<encr expand="schwer genug">ocuwlr glnhg</encr><lbr/>
+<add_note schr_id="57010">fällt<ts>_________________________</ts>Glük<ts>_______</ts>so<ts>___</ts>auf die Seite</add_note>
+<encr expand="fällt">im"eet</encr>, daß ich mein <encr expand="glück so auf die seite">geh"ck os mhi dfl olftl</encr><lbr/>
+<add_note schr_id="57010">stellen soll<ts>_________________________</ts>jung</add_note>
+<encr expand="stossen soll">otsooln osee</encr> &#8211; Ich<lbr type="BD"/> bin noch <encr expand="iung">ihng</encr>, wie sie sagen,<lbr/>
+<add_note schr_id="57010"><ts>___________________________________________</ts>seinen jungen Jahre</add_note>
+das ist wahr, aber we<abbr type="topline" expand="nn">n</abbr> man <encr expand="seine iunge jahre">olfnl fhngl jmurl</encr><lbr/>
+<add_note schr_id="57010"><ts>_______</ts>einem Bettelort<ts>____</ts>in Unthätigkeit</add_note>
+so in <encr expand="einen Bettel ort">lfnln Blttle srt fn hntum"tfgklft</encr> ver<pc force="weak">=</pc><lbr/><add_note schr_id="57010"><ts>__________________________________</ts>traurig genug</add_note>
+schlänzt, ist es auch<lbr type="BD"/>&#160;<encr expand="trauerig genug">trmhlrfg glnhg</encr>, und auch &#8211; <lbr/>
+<add_note schr_id="57010">Verlust</add_note>
+&#8211; <encr expand="verlust">vlrehot</encr> &#8211; darüber bitte ich mir ihren vätter<pc force="weak">=</pc><lbr/>lichen und wohlmeinenden Rath aus &#8211; aber bald &#8211; <lbr/>
+&#8211; de<abbr type="topline" expand="nn">n</abbr> ich muß mich<lbr type="BD"/> erklären &#8211; übrigens haben sie nur<lbr/>
+alles vertrauen auf mich &#8211; de<abbr type="topline" expand="nn">n</abbr> ich denke<lbr type="BD"/> nun gescheider &#8211; <lbr/>
+leben sie wohl, ich küsse ihnen 1000mal die hände, und meine<lbr type="BD"/><lbr/>
+schwester umarme ich von herzen und bin Ewig<ts>___</ts><tspdf>\hfill </tspdf>gehorst:<lbr type="forced"/>
+<ts>_______</ts><tshtm>____________________________________________________________________</tshtm><tspdf>\hfill </tspdf>W. A: Mozart <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+</letter>
+</text>
+</MUP>

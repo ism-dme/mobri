@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2014">2014-5</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1269</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:40:15 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_702.mup">
+<letter bd="702"><HEADER id="1269">WOLFGANG AMADÉ MOZART AN LEOPOLD MOZART IN SALZBURG<lbr/>
+WIEN, 12. OKTOBER 1782</HEADER>
+<pg n="1"/>
+<ts>_____</ts><tshtm>_____________________________________________________________________________</tshtm><tspdf>\hfill </tspdf><u>Wie<abbr type="topline" expand="nn">n</abbr></u> den 12.<h>ten</h>&#160;<rend class="latin">october</rend>&#160;<uu>1782</uu><lbr type="forced"/>
+<ts>____</ts><tshtm>___</tshtm><rend class="latin">Mon Trés cher Pére!</rend><lbr type="forced"/>
+<lbr type="forced"/>
+We<abbr type="topline" expand="nn">n</abbr> ich hätte vorsehen kö<abbr type="topline" expand="nn">n</abbr>en, daß die <rend class="latin">copisten</rend> in Salzburg so viel zu thun<lbr type="BD"/> haben,<lbr/>
+so würde ich mich doch entschlossen haben die <rend class="latin">opera</rend> hier <rend class="latin">copi</rend>ren zu<lbr type="BD"/> lassen. &#8211; Nun muß<lbr/>
+ich halt zum h<abbr type="curve">:</abbr> Gesandten gehen, und ihm die wahre<lbr type="BD"/> ursache entdecken; &#8211; doch<lbr/>
+bitte ich sie ihr möglichstes zu thun daß ich sie bald<lbr type="BD"/> erhalte. wie eher, Je lieber;<lbr/>
+Sie glauben, ich würde von keinem <rend class="latin">Copisten</rend> in<lbr type="BD"/> Wie<abbr type="topline" expand="nn">n</abbr> sie in so kurzer zeit er<pc force="weak">=</pc><lbr/>halten; und ich wollte sie doch vom Theatral<lbr type="BD"/>&#160;<rend class="latin">Copisten</rend> in zeit von 8 tägen<lbr/>
+oder längstens 10 tägen beko<abbr type="topline" expand="mm">m</abbr>en. &#8211; daß <rend class="latin">gatti</rend>,<lbr type="BD"/> der Esel, den Erzbischof<lbr/>
+gebetten eine <rend class="latin">Serenade</rend> schreiben zu <u>därfen</u> &#8211; macht<lbr type="BD"/> ihn schon würdig diesen<lbr/>
+Namen tragen zu därfen; und mich vermuthen, daß<lbr type="BD"/> er auch auf seine<lbr/>
+gelehrsamkeit in der Musick anzuwenden wäre. &#8211; <lbr type="forced"/>
+Sie schreiben, daß 400 fl: Jährlich <u>gewisses geld</u> nicht zu verrachten se&#255;e; &#8211;<lbr type="BD"/> we<abbr type="topline" expand="nn">n</abbr><lbr/>
+ich neben be&#255; mich gut hinauf arbeiten ka<abbr type="topline" expand="nn">n</abbr>, und folglich diese 400 fl:<lbr type="BD"/> als eine<lbr/>
+be&#255;hülfe ansehe, so ist es ganz gewis; doch ist hier leider dieser fall<lbr type="BD"/> nicht.<lbr/>
+hier ist mein bestes Einko<abbr type="topline" expand="mm">m</abbr>en &#8211; 400 fl: &#8211; alles was ich sonst verdienen ka<abbr type="topline" expand="nn">n</abbr>,<lbr/>
+muß ich als eine be&#255;hilfe ansehen, und zwar als eine sehr unsichere &#8211; und<lbr type="BD"/><lbr/>
+folglich sehr geringe be&#255;hilfe; weil sie leicht vermuthen kö<abbr type="topline" expand="nn">n</abbr>en, daß man<lbr/>
+mit<lbr type="BD"/> einer solchen schüllerin wie eine Prinzessin ist nicht so verfahren ka<abbr type="topline" expand="nn">n</abbr>,<lbr/>
+wie mit<lbr type="BD"/> einer andern Dame &#8211; we<abbr type="topline" expand="nn">n</abbr> es so einer Prinzessin eben nicht<lbr/>
+gelegen ist &#8211; so<lbr type="BD"/> hat man die Ehre zu warten. &#8211; sie <rend class="latin">logirt</rend> be&#255; den<lbr/>
+<rend class="latin">Selesiane</rend>rinen auf der wie<lbr type="BD"/>den. &#8211; will man nicht zu fusse gehen, so<lbr/>
+hat man wenigstens die Ehre einen<lbr type="BD"/> 20<h>ger</h> hin und her zu bezahlen.<lbr/>
+da bleiben mir von meiner besoldung noch<lbr type="BD"/> 304 fl: übrig. <rend class="latin"><uu>NB</uu>:</rend> we<abbr type="topline" expand="nn">n</abbr> ich<lbr/>
+die woche nur 3mal <rend class="latin">lection</rend> gebe. &#8211; muß ich also<lbr type="BD"/> warten &#8211; so ver<pc force="weak">=</pc><lbr/>saume ich unterdessen meine andern <rend class="latin">scolaren</rend> oder andere<lbr type="BD"/> ge<pc force="weak">=</pc><lbr/>schäfte |: womit ich mir leicht mehr als 400 fl: verdienen ka<abbr type="topline" expand="nn">n</abbr>. :|<lbr/>
+will ich<lbr type="BD"/> herein &#8211; so muß ich dopelt mein geld verfahren, weil ich wieder<lbr/>
+hinaus muß. &#8211;<lbr type="BD"/> bleib ich daraus &#8211; und ist es, wie ohne zweifel, vor<pc force="weak">=</pc><lbr/>Mittag, kö<abbr type="topline" expand="mm">m</abbr>t die Mit<lbr type="BD"/>tags=zeit &#8211; so ka<abbr type="topline" expand="nn">n</abbr> ich auch die Ehre haben<lbr/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="2"/>
+in einem Wirths=hause schlecht<lbr type="BD"/> und theuer zu Essen. &#8211; ka<abbr type="topline" expand="nn">n</abbr> durch das<lbr/>
+versaumen anderer <rend class="latin">lectionen</rend> &#8211; sie gar<lbr type="BD"/> verlieren &#8211; da Jeder sein geld<lbr/>
+für so gut hällt, als der Prinzessin ihres. &#8211; und<lbr type="BD"/> verliere auch dabe&#255;<lbr/>
+die zeit und die laune mir mit der <rend class="latin">Composition</rend> desto mehr<lbr type="BD"/> zu ver<pc force="weak">=</pc><lbr/>dienen. &#8211; Einem grossen Herrn zu dienen |: das Amt mag se&#255;n<lbr/>
+was<lbr type="BD"/> es für eins wolle :| gehört eine bezahlung dazu &#8211; durch welche<lbr/>
+man im Stande<lbr type="BD"/> ist seinem herrn <u>allein zu dienen</u> &#8211; und nicht nöthig<lbr/>
+hat sich vor mangel durch<lbr type="BD"/> nebenverdienste zu sichern; &#8211; vor Mangel<lbr/>
+muß schon gesorgt se&#255;n; &#8211; glauben<lbr type="BD"/> sie nur nicht daß ich so du<abbr type="topline" expand="mm">m</abbr> se&#255;n<lbr/>
+werde Jemanden das zu sagen, was ich<lbr type="BD"/> ihnen schreibe; &#8211; aber glauben<lbr/>
+<add_note schr_id="57010"><ts>___________________________________</ts>Kaiser</add_note>
+sie auch sicher daß der <encr expand="kaiser">kmfolr</encr> seine schmutzig<lbr type="BD"/>keit <u>selbst</u> fühlt &#8211; und<lbr/>
+<u>nur</u> aus dieser ursache mich umgangen hat; &#8211; hätte ich<lbr type="BD"/> angehalten &#8211; <lbr/>
+&#8211; ich wäre es gewis; aber nicht mit 400 fl: &#8211; aber auch nicht mit<lbr type="BD"/><lbr/>
+so viel als es billig wäre. &#8211; Ich suche aber keine <rend class="latin">scolaren</rend> &#8211; ich<lbr/>
+ka<abbr type="topline" expand="nn">n</abbr> ihrer<lbr type="BD"/> genug haben; &#8211; und ihrer zwe&#255; &#8211; ohne mir die geringste<lbr/>
+ungelegenheit oder<lbr type="BD"/> verhindernüss zu machen, geben mir so viel<lbr/>
+als &#8211; die Prinzessin ihrem Meister,<lbr type="BD"/> der da<abbr type="topline" expand="nn">n</abbr> keine andere aussicht<lbr/>
+dabe&#255; hat, als daß er sein lebtage nicht verhun<lbr type="BD"/>gern wird;<lbr/>
+sie wissen wohl wie gemeiniglich dienste von grossen herrn belohnt<lbr type="BD"/><lbr/>
+werden. &#8211; Nun muß ich schlüssen, de<abbr type="topline" expand="nn">n</abbr> die Post geht ab.<lbr type="forced"/>
+wir küssen ihnen 1000mal die hände, und unsere liebe<lbr/>
+schwester umarmen<lbr type="BD"/> wir vom herzen und sind Ewig dero<lbr type="forced"/>
+<lbr type="forced"/>
+<u>Nächstens mehr</u>.<ts>___</ts><tshtm>______________________________</tshtm><tspdf>\hfill </tspdf>gehorsamste kinder<lbr type="BD"/><lbr type="forced"/>
+<ts>______</ts><tshtm>_________________________________________________</tshtm><tspdf>\hfill </tspdf><rend class="latin">W: Et C:</rend> Mozart <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+</letter>
+</text>
+</MUP>

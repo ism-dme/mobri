@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2013">2013-10</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1187</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:39:51 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_621.mup">
+<letter bd="621"><HEADER id="1187">WOLFGANG AMADÉ MOZART AN LEOPOLD MOZART IN SALZBURG<lbr/>
+WIEN, 5. SEPTEMBER 1781</HEADER>
+<pg n="1"/>
+<ts>_________</ts><tshtm>___________________________________________________________________</tshtm><tspdf>\hfill </tspdf><rend class="latin"><u>Vienne</u> ce</rend> 5 <rend class="latin">de</rend>&#160;<u>7:<rend class="latin"><h>bre</h></rend></u><lbr type="forced"/>
+<rend class="latin">Mon trés cher Père!</rend><ts>________________</ts><tshtm>_____________________________________________</tshtm><tspdf>\hfill </tspdf><u>1781</u><tshtm>__</tshtm><add_note type="inline" schr_id="57010">1781</add_note><lbr type="forced"/>
+Ich schreibe ihnen nun in meinem <u>Neuen Zi<abbr type="topline" expand="mm">m</abbr>er</u>. <uu>auf dem graben</uu>&#160;<u><rend class="latin">N</rend>:<h>o</h></u><lbr/>
+<u>1175<lbr type="BD"/> im 3:<h>ten</h> stock.</u> &#8211; aus dem, wie sie mein leztes schreiben auf<pc force="weak">=</pc><lbr/>geno<abbr type="topline" expand="mm">m</abbr>en, sehe<lbr type="BD"/> ich leider &#8211; daß sie |: als we<abbr type="topline" expand="nn">n</abbr> ich ein Erzbösewicht,<lbr/>
+oder ein dalk, oder be&#255;des<lbr type="BD"/> zugleich wäre :| mehr dem geschwätze und<lbr/>
+schreibere&#255; anderer leute trauen,<lbr type="BD"/> als mir, und folglich gar kein<lbr/>
+vertrauen auf mich setzen; ich versichere sie<lbr type="BD"/> aber daß mir dies alles<lbr/>
+gar nichts macht &#8211; die leute mögen sich die augen<lbr type="BD"/> aus dem kopf<lbr/>
+schreiben &#8211; und sie mögen ihnen be&#255;fall geben wie sie wollen,<lbr type="BD"/> so<lbr/>
+werde ich mich deswegen um kein haar verändern, und der nemliche<lbr/>
+Ehr<lbr type="BD"/>liche kerl bleiben wie sonst. &#8211; und das schwöre ich ihnen, daß<lbr/>
+we<abbr type="topline" expand="nn">n</abbr> nicht<lbr type="BD"/>&#160;<u>sie</u> es hätten haben wollen, daß ich ein anders <rend class="latin">quartier</rend><lbr/>
+nehmen sollte, ich<lbr type="BD"/> gewis nicht würde ausgezogen se&#255;n; &#8211; de<abbr type="topline" expand="nn">n</abbr> es<lbr/>
+ko<abbr type="topline" expand="mm">m</abbr>t mir vor als we<abbr type="topline" expand="nn">n</abbr> einer<lbr type="BD"/> von seinen eigenen <rend class="latin">co<abbr type="topline" expand="mm">m</abbr>oden</rend> Reiswagen<lbr/>
+sich in einen Postwagen sezte. &#8211;<lbr type="BD"/> doch stille davon &#8211; de<abbr type="topline" expand="nn">n</abbr> es nützt<lbr/>
+doch nichts &#8211; de<abbr type="topline" expand="nn">n</abbr> die faxen die, gott weis<lbr type="BD"/> wer ihnen im kopf gesezt<lbr/>
+hat, überwiegen doch i<abbr type="topline" expand="mm">m</abbr>er meine gründe; &#8211; nur<lbr type="BD"/> das bitte ich<lbr/>
+ihnen, we<abbr type="topline" expand="nn">n</abbr> sie mir etwas schreiben daß ihnen an mir nicht<lbr type="BD"/> recht ist,<lbr/>
+oder daß sie glauben daß es besser se&#255;n kö<abbr type="topline" expand="nn">n</abbr>te &#8211; und ich schreibe ihnen<lbr/>
+da<abbr type="topline" expand="nn">n</abbr> wieder meine gedanken darüber &#8211; so halte ich es allzeit für<lbr/>
+etwas<lbr type="BD"/> das zwischen vatter und sohn geredet ist, also ein geheim<pc force="weak">=</pc><lbr/>nüss und nicht als<lbr type="BD"/> etwas daß andere auch wissen sollen &#8211; mithin<lbr/>
+bitte ich sie, lassen sie es<lbr type="BD"/> da<abbr type="topline" expand="nn">n</abbr> dabe&#255; bewenden, und <rend class="latin">adress</rend>iren<lbr/>
+sie sich nicht an andere leute, de<abbr type="topline" expand="nn">n</abbr>,<lbr type="BD"/> be&#255; gott, andern leuten gieb<lbr/>
+ich nicht fingerlang rechenschaft von meinen<lbr type="BD"/> thun und lassen, und sollte<lbr/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="2"/>
+es der ka&#255;ser se&#255;n. &#8211; haben sie i<abbr type="topline" expand="mm">m</abbr>er vertrauen<lbr type="BD"/> auf mich, de<abbr type="topline" expand="nn">n</abbr> ich verdiene<lbr/>
+es. &#8211; ich habe sorge und kü<abbr type="topline" expand="mm">m</abbr>erniss genug<lbr type="BD"/> hier für meinen unter<pc force="weak">=</pc><lbr/>halt; verdriessliche briefe zu lesen ist da<abbr type="topline" expand="nn">n</abbr> gar keine<lbr type="BD"/> sache für<lbr/>
+mich. &#8211; ich habe von anfang als ich hieher ka<abbr type="topline" expand="mm">m</abbr> von <u>mir</u> ganz<lbr type="BD"/> allein<lbr/>
+leben müssen, was ich durch meine bemühung habe erhalten kö<abbr type="topline" expand="nn">n</abbr>en &#8211; <lbr/>
+&#8211;<lbr type="BD"/> die andern haben i<abbr type="topline" expand="mm">m</abbr>er ihre besoldung dabe&#255; gezogen &#8211; <rend class="latin">Ceccarelli</rend><lbr/>
+hat mehr<lbr type="BD"/> verdient als ich &#8211; hat sich aber hier brav ausgeleert;<lbr/>
+we<abbr type="topline" expand="nn">n</abbr> ich es so gemacht<lbr type="BD"/> hätte, so wäre ich gar nicht im stande gewesen<lbr/>
+zu <rend class="latin">quiti</rend>ren. &#8211; daß sie, mein<lbr type="BD"/> liebster vatter, noch kein geld<lbr/>
+von mir beko<abbr type="topline" expand="mm">m</abbr>en, ist gewis meine schuld<lbr type="BD"/> nicht, sondern die der<pc force="weak">=</pc><lbr/>malige üble <rend class="latin">Saison</rend>. &#8211; haben sie nur gedult. &#8211; ich muß<lbr type="BD"/> sie Ja<lbr/>
+auch haben. &#8211; ich werde sie be&#255; gott nicht vergessen! &#8211; als die<lbr/>
+historie<lbr type="BD"/> mit dem Erzbischof war schrieb ich um kleider. &#8211; ich hatte Ja<lbr/>
+nichts be&#255; mir<lbr type="BD"/> als mein schwarzes kleid &#8211; die Trauer war aus. &#8211; <lbr/>
+es wurde warm &#8211; die<lbr type="BD"/> kleider ka<abbr type="topline" expand="mm">m</abbr>en nicht. &#8211; ich muste mir also<lbr/>
+machen lassen &#8211; wie ein lump<lbr type="BD"/> ko<abbr type="topline" expand="nn">n</abbr>te ich nicht in Wie<abbr type="topline" expand="nn">n</abbr> herum<pc force="weak">=</pc><lbr/>gehen; besonders in diesen falle. &#8211; meine<lbr type="BD"/> Wäsche sah aus zum<lbr/>
+erbarmen. &#8211; kein hausknecht hatte hier hemder von so<lbr type="BD"/> grober<lbr/>
+leinwand als ich sie hatte. &#8211; und das ist gewis das abscheulichste<lbr/>
+an<lbr type="BD"/> einem Mansbild. &#8211; mithin wieder ausgaben. &#8211; ich hatte<lbr/>
+eine einzige <rend class="latin">Scolarin</rend>;<lbr type="BD"/> die blieb mir 3 wochen aus &#8211; da verlor ich<lbr/>
+wieder dabe&#255;. &#8211; wegwerfen darf<lbr type="BD"/> man sich nicht hier, das ist ein<lbr/>
+haupt <rend class="latin">Principium</rend>, sonst hat man es auf i<abbr type="topline" expand="mm">m</abbr>er<lbr type="BD"/> verdorben &#8211; wer am<lbr/>
+<rend class="latin">impertinent</rend>isten ist, der hat den vorzug. &#8211; aus allen<lbr type="BD"/> ihren briefen<lbr/>
+sehe ich daß sie glauben daß ich nichts thue als mich hier<lbr type="BD"/>&#160;<rend class="latin">amusi</rend>ren &#8211; <lbr/>
+da betrügen sie sich wohl stark &#8211; ich ka<abbr type="topline" expand="nn">n</abbr> wohl sagen daß ich<lbr type="BD"/> gar kein<lbr/>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="3"/>
+vergnügen habe &#8211; gar keines &#8211; als das einzige daß ich nicht in<lbr type="BD"/> Salz<pc force="weak">=</pc><lbr/>burg bin. &#8211; in Winter hoffe ich daß alles gut gehn wird &#8211; und<lbr/>
+da werde<lbr type="BD"/> ich sie mein bester vatter gewis nicht vergessen. &#8211; <lbr/>
+sehe ich daß es gut thut,<lbr type="BD"/> so bleibe ich noch länger hier, wo nicht,<lbr/>
+so habe ich im Si<abbr type="topline" expand="nn">n</abbr> schnurgerade<lbr type="BD"/> nach Paris zu gehen. &#8211; <lbr/>
+und darüber bitte ich sie um ihre Me&#255;nung.<lbr type="forced"/>
+nun leben sie recht wohl. ich küsse ihn 1000mal die hände und meine<lbr/>
+liebe<lbr type="BD"/> schwester umarme ich von herzen und bin Ewig<lbr type="forced"/>
+<lbr type="forced"/>
+<rend class="latin">P: S:</rend> mein <rend class="latin">Compliment</rend> an die<lbr type="forced"/>
+<rend class="latin">Duscheck</rend>ischen. &#8211; bitte mit gelegenheit<lbr type="forced"/>
+mir auch die <u><rend class="latin">Aria</rend></u>&#160;<u>die ich für die baum</u><pc force="weak">=</pc><lbr type="forced"/><u>garten gemacht</u>, &#8211; <u>das Rondeau für</u><lbr type="forced"/>
+<u>die <rend class="latin">Duscheck</rend></u> &#8211; und dem <rend class="latin">Ceccarelli</rend><ts>______</ts><tshtm>_______________________</tshtm><tspdf>\hfill </tspdf>dero gehorsamst Sohn<lbr type="forced"/>
+seines zu <u>schicken</u>.<ts>_______</ts><tshtm>_______________________________________________</tshtm><tspdf>\hfill </tspdf>W: A: <uu>Mzt <abbr expand="manu propria">mp</abbr></uu><lbr type="forced"/>
+<tshtm>_____________________________</tshtm><rend class="latin"><uu>Adieu</uu>.</rend><lbr type="forced"/><lbr type="BD"/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="4"/>
+<add_num schr_id="39408" impl="pencil" rot="270">No 29.</add_num>
+<lbr/>
+<anschrift rot="270"><rend class="latin">À<lbr type="forced"/>
+Monsieur<lbr type="forced"/>
+Monsieur Leopold Mozart<lbr type="forced"/>
+maitre de la Chapelle de<lbr type="BD"/> S: A: R:<lbr type="forced"/>
+l'archeveque de et à<lbr type="forced"/>
+<u>Salzbourg.</u></rend></anschrift>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+</letter>
+</text>
+</MUP>

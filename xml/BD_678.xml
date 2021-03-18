@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2014">2014-6</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1244</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Verbleib unbekannt (Nachweis: Hauswedell &amp; Nolte, 27.-28.11.1996, Katalog 618, Nr. 2456)</bibl>
+            <bibl type="source" subtype="RISM">Verbleib unbekannt, Nachweis: Hauswedell &amp; Nolte, 27.-28.11.1996, Katalog 618, Nr. 2456</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:40:07 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_678.mup">
+<letter bd="678"><NI src="Unbekannt"><HEADER id="1244">WOLFGANG AMADÉ MOZART AN MARIA ANNA (NANNERL) MOZART IN SALZBURG<lbr/>
+WIEN, 24. JULI 1782<lbr/>
+mit Nachschrift von Constanze Weber</HEADER>
+<pg n="1"/>
+<add_num>66</add_num>
+Verzeihe mir liebe schwester daß ich dir keinen förmlichen<lbr/>
+gratulations brief<lbr type="BD"/> schreiben ka<abbr type="topline" expand="nn">n</abbr>. &#8211; allein ich habe ohnmöglich<lbr/>
+die zeit &#8211; du weist Ja daß ich<lbr type="BD"/> dir ohnehin alle Tage alles<lbr/>
+gute Wünsche. &#8211; Ich habe heute ohnmöglich<lbr type="BD"/> meinem vatter<lbr/>
+etwas schicken kö<abbr type="topline" expand="nn">n</abbr>en. &#8211; künftigen Postag aber gewis. &#8211; <lbr/>
+<rend class="latin">Adieu</rend> &#8211; lebe wohl &#8211; dem tag deines Na<abbr type="topline" expand="mm">m</abbr>ensfest wird<lbr/>
+dir zu Ehren Meine<lbr type="BD"/>&#160;<rend class="latin">opera</rend> aufgeführt. &#8211; Meinen hand<pc force="weak">=</pc><lbr/>kuß an meinen lieben vattern. und ich küsse<lbr type="BD"/> dich 10000<lbr/>
+und bin Ewig<lbr type="forced"/>
+<lbr type="forced"/>
+Wie<abbr type="topline" expand="nn">n</abbr> den 24:<h>t</h> Jullien<ts>___</ts><tshtm>___________</tshtm><tspdf>\hfill </tspdf>dein aufrichtiger bruder<lbr type="forced"/>
+<tshtm>_____________________</tshtm><uu>1782</uu><ts>__</ts><tshtm>___________________</tshtm><tspdf>\hfill </tspdf>W: A: Mozart <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<pg n="2"/>
+<NS schr_id="48818"><ts>______________</ts><tshtm>__________</tshtm>Wertheste freundin!<lbr type="forced"/>
+<lbr type="forced"/>
+Verzeihen sie daß ich so fre&#255; bin sie wieder mit meinem<lbr/>
+gekrützer zu über<lbr type="BD"/> lästigen, allein! daß heran nahende<lbr/>
+Na<abbr type="topline" expand="mm">m</abbr>ens fest muß mich entschuldigen! &#8211;<lbr type="BD"/> und we<abbr type="topline" expand="nn">n</abbr> es<lbr/>
+ihnen schon ungelegen fällt |: so wie es alle gratula<rend class="latin">tione[n]</rend><lbr/>
+sind :|<lbr type="BD"/> so &#8211; ist doch mein trost, daß ich sicher nicht<lbr/>
+die einzige bin, die ihnen hieri<abbr type="topline" expand="nn">n</abbr><lbr type="BD"/> ungelegen fällt. &#8211; <lbr/>
+und daß wenigste! <suppl hand="self" pos="supra">was ich</suppl> verdiene! ist, das sie mich im<lbr type="BD"/><lbr/>
+Gottes namen gedulten, wie alle die andern; könten sie<lbr/>
+aber in mein herz<lbr type="BD"/> sehen, und dari<abbr type="topline" expand="nn">n</abbr> alles lesen. &#8211; <lbr/>
+so würde ich vielleicht von diser allgemeinen<lbr type="BD"/> klasse<lbr/>
+ausgeschlossen &#8211; <u>wenigestens daß</u> &#8211; vielleicht &#8211; ja gewis<lbr/>
+&#8211; unter den<lbr type="BD"/> ausgeschlossenen selbst einigen<lbr/>
+vorzug verdienen. &#8211; Ich Wünsche ihnen also<lbr type="BD"/> von herzen<lbr/>
+&#8211; so glücklich zu se&#255;n! nicht erst zu werden! sondern<lbr/>
+es wirklich<lbr type="BD"/> so zu se&#255;n, als ich mir es in die zu<pc force="weak">=</pc><lbr/>kunft zu werden verspreche &#8211; da<abbr type="topline" expand="nn">n</abbr> sind<lbr type="BD"/> sie es<lbr/>
+<additum>[... (Textverlust)]</additum></NS>
+</NI></letter>
+</text>
+</MUP>

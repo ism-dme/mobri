@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2011">2011-05</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=758</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Verbleib unbekannt (Nachweis: J. A. Stargardt, 27.-28.11.1979, Katalog 618, Nr. 859)</bibl>
+            <bibl type="source" subtype="RISM">Verbleib unbekannt, Nachweis: J. A. Stargardt, 27.-28.11.1979, Katalog 618, Nr. 859</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:37:15 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_197.mup">
+<letter bd="197"><NI src="unbekannt"><HEADER id="758">LEOPOLD MOZART AN MARIA ANNA MOZART IN SALZBURG<lbr/>
+ROM, 7. JULI 1770<lbr/>
+mit Nachschrift von Wolfgang Amadé Mozart an Maria Anna (Nannerl) Mozart</HEADER>
+<pg n="1"/>
+<ts>_____________</ts><tshtm>________________________________________________________</tshtm><tspdf>\hfill </tspdf><rend class="latin">Rom</rend> d<abbr v="en"/> 7 <rend class="latin">Julij</rend>&#160;<uu>1770.</uu><lbr type="forced"/>
+<lbr type="forced"/>
+Was ich dir letzlich von einem ordenskreutz geschrieb<abbr v="en"/> hat seine<lbr/>
+Richtigkeit.<lbr type="BD"/> Ich habe auch heute an S:<h>e</h> Hochf<abbr type="curve">:</abbr> Gnad<abbr v="en"/> geschrieben<lbr/>
+und die <rend class="latin">Copia</rend> des<lbr type="BD"/> Päbstl <rend class="latin">Breve</rend> eingeschloss<abbr v="en"/>. ich hatte kaum Zeit, solches<lbr/>
+in der Geschwindigkeit und zi<abbr type="topline" expand="mm">m</abbr>lich schlecht für S.<h>e</h> Hf<abbr type="curve">:</abbr> gd<abbr type="curve"></abbr><lbr/>
+abzu<rend class="latin">copie</rend>r<abbr v="en"/>, sonst hätte es zweymahl geschrieb<abbr v="en"/> und auch dir geschickt.<lbr/>
+Es ist das nämliche was der <rend class="latin">Gluck</rend><lbr type="BD"/> hat, und heist <rend class="latin"><u>te creamus<lbr/>
+auratæ Militiæ </u><u>Equitem</u></rend>&#160;<abbr expand="etc">p</abbr><abbr expand="etc:">p:</abbr> er muß ein schönes<lbr type="BD"/> Goldenes Kreutz trag<abbr v="en"/>,<lbr/>
+so er beko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/> hat, und du ka<abbr type="topline" expand="nn">n</abbr>st dirs einbild<abbr v="en"/><lbr type="BD"/> wie ich lache, we<abbr type="topline" expand="nn">n</abbr> alle<lbr/>
+zu ihm itzt <rend class="latin">Sgr: Cavaliere</rend> sag<abbr v="en"/> höre. du weist daß<lbr type="BD"/> in den <rend class="latin">Exempla</rend>r<abbr v="en"/><lbr/>
+oder <rend class="latin">opera</rend> bücheln, so für den Hof selbst in Wie<abbr type="topline" expand="nn">n</abbr> gedruckt word<abbr v="en"/>,<lbr/>
+allzeit stehet <rend class="latin">dal Sigr: Cavaliere Gluck</rend>. Ein Zeich<abbr v="en"/>, daß es<lbr type="BD"/> ein<lbr/>
+vom kays<abbr type="curve">:</abbr> Hofe selbst erkannter orden ist. wir werd<abbr v="en"/> auch dessweg<abbr v="en"/><lbr/>
+die Abschrift der <rend class="latin">Bulle Benedicti</rend> XIV:<h>ti</h> erhalt<abbr v="en"/>, die er dieses Ordens<pc force="weak">=</pc><lbr/>halb<abbr v="en"/><lbr type="BD"/> herausgegeb<abbr v="en"/>. Morg<abbr v="en"/> hab<abbr v="en"/> wir be&#255;m Pabst <rend class="latin">audienz</rend> und am<lbr/>
+Montag in<lbr type="BD"/> der Nacht geh<abbr v="en"/> wir in Gesellschaft noch zwe&#255;er <rend class="latin">Sedi</rend><abbr v="en"/> nach<lbr/>
+<rend class="latin">Loreto</rend>, und von<lbr type="BD"/> da nach <rend class="latin">Bologna</rend>. we<abbr type="topline" expand="nn">n</abbr> du diesen Brief erhältst,<lbr/>
+hoffe nicht weit mehr von<lbr type="BD"/>&#160;<rend class="latin">Bologna</rend> zu se&#255;n: antworte mir demnach<lbr/>
+nach <rend class="latin">Bologna</rend>, auf d<abbr v="er"/> Post werde<lbr/>
+den Brief schon abholen. Meine <rend class="latin">Bagage</rend> ist angewachs<abbr v="en"/>, ich weis<lbr/>
+nicht wie<lbr type="BD"/> es anstell<abbr v="en"/>, hier sind noch um 5 <rend class="latin">Ducca</rend>tt<abbr v="en"/> Kupferstiche<lbr/>
+dazu geko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>.<lbr type="BD"/> Lebet be&#255;de wohl ich küsse euch 1000 mahl und bin d<abbr v="er"/><lbr type="forced"/>
+<ts>__________</ts><tshtm>____________________________________________________</tshtm><tspdf>\hfill </tspdf>alte Mzt <abbr expand="manu propria">mp</abbr>.<lbr/>
+<pg n="2"/>
+<NS type="NS" schr_id="39409" adr_id="48817">
+<ts>___________________________</ts><rend class="latin">Cara sorella mia!</rend><lbr type="forced"/><lbr type="BD"/>
+Ich habe mich recht verwundert, daß du so schön <rend class="latin">Componiren</rend><lbr/>
+kanst, mit einen<lbr type="BD"/> wort, das lied ist schön, und probiere<lbr/>
+öfter etwas. du wirst <suppl hand="self" pos="supra">die</suppl>&#160;<rend class="latin">Menuett</rend> von<lbr type="BD"/> ha&#255;den em<pc force="weak">=</pc><lbr/>pfangen haben, schicke mir die andern 6 bald, ich bitte<lbr/>
+dich: lebe<lbr type="BD"/> wohl:<lbr type="forced"/>
+<ts>____________________________________</ts><tspdf>\hfill </tspdf>wolfgang <rend class="latin">Mozart</rend>.<lbr type="forced"/>
+<rend class="latin">p: s:</rend> an alle gute freund und<lbr/>
+<u>freündinen</u> mein <rend class="latin">Compliment</rend>.<lbr/>
+meinen handkus andie mama:<lbr/>
+<rend class="latin">Mademoiselle, J'ai l'honeur d'etre votre tres humble<lbr/>
+serviteur, e frere<lbr type="forced"/><lbr type="BD"/>
+<ts>__________________________________</ts><tspdf>\hfill </tspdf>chevalier <suppl hand="self" pos="supra">de</suppl> Mozart.<lbr type="forced"/>
+Roma il sette di luglio a<abbr type="topline" expand="nn">n</abbr>o<lbr type="forced"/>
+1770. addio statevi bene, e cacate nel letto che<lbr/>
+egli fà fracasso.</rend></NS></NI></letter>
+</text>
+</MUP>

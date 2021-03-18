@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2019">2019-12</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=581</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">GB-Cfm</bibl>
+            <bibl type="source" subtype="RISM">GB-Cfm (Fitzwilliam Museum)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:36:22 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_24.mup">
+﻿<letter bd="24">
+<NI src="Gb-Cfm">
+<HEADER id="581">LEOPOLD MOZART AN JOHANN JAKOB LOTTER IN AUGSBURG<lbr/>
+SALZBURG, 19. FEBRUAR 1756</HEADER>
+<pg n="1"/>
+<ts>__________</ts><rend class="latin"><persName key="76865">Monsieur</persName> mon tres cher amy</rend><ts>_____</ts><tspdf>\hfill </tspdf>Salzb<abbr type="curve">:</abbr> d<abbr v="en"/> 19 <rend class="latin">feb<abbr type="curve">:</abbr></rend> 1756.<lbr type="forced"/>
+<lbr type="forced"/>
+Es sind schon wied<abbr v="er"/> ein paar Posttäge Vorbe&#255;, und ich hab kein<abbr v="en"/> frisch<abbr v="en"/><lbr type="BD"/> Bog<abbr v="en"/><lbr/>
+geseh<abbr v="en"/>. was denk<abbr v="en"/> sie doch? Wenn der (H) bog<abbr v="en"/> noch nicht völlig<lbr type="BD"/><lbr/>
+abgedruckt ist, so kö<abbr type="topline" expand="nn">n</abbr>en sie <u><rend class="latin">p</rend>. 64</u> §. 5. <rend class="latin">linea</rend> 4. <u>ko<abbr type="topline" expand="mm">m</abbr>et</u> in <u>kö<abbr type="topline" expand="mm">m</abbr>t</u><lbr/>
+abänd<abbr v="er"/><abbr v="en"/>.<lbr type="BD"/> und es muß allemal <u>kö<abbr type="topline" expand="mm">m</abbr>t</u> heiß<abbr v="en"/>. <u><rend class="latin">pag</rend>.</u> 68 ist unt<abbr v="en"/>&#160;<rend class="latin">linea</rend> 2<h><rend class="latin">da</rend></h><lbr/>
+<u>beede</u> in <u>beyde</u> abzuändern vergess<abbr v="en"/> word<abbr v="en"/>. <u><rend class="latin">p</rend>. 57</u><lbr type="BD"/> §. 8 in der<lbr/>
+drittletzt<abbr v="en"/> Zeile muß es heiss<abbr v="en"/>: bald an d<abbr v="er"/> <u>Wande</u>.<lbr type="forced"/>
+ist d<abbr v="er"/> Bog<abbr v="en"/> aber schon abgedruckt? <rend class="latin">basta</rend>! so se&#255;e es!<lbr type="forced"/>
+Gedenk<abbr v="en"/> sie mir noch einige <rend class="latin">Exemp</rend>lar mit dem h<abbr type="curve">:</abbr> Brud<abbr v="ern"/> zu schick<abbr v="en"/>, od<abbr v="er"/><lbr type="BD"/><lbr/>
+vielleicht was abgedruckt ist, daß es nach und nach hereinko<abbr type="topline" expand="mm">m</abbr>t.<lbr/>
+Bitte dies<abbr v="en"/><lbr type="BD"/> Brief gleich dem <persName key="84655">Wagner</persName> zuzuschick<abbr v="en"/>, de<abbr type="topline" expand="nn">n</abbr> er muß ihn<lbr/>
+weg<abbr v="en"/> des <persName key="82851">h<abbr type="curve">:</abbr>&#160;<abbr expand="von">v</abbr><lbr type="BD"/> Rheling</persName> noch beko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>, ehe die Kaufleute von Augsp<abbr type="curve">:</abbr><lbr/>
+abreis<abbr v="en"/>. Mein Compliment an die <persName key="84656">&#160;<rend class="latin">Madame</rend></persName>, in Eyl<lbr type="BD"/><lbr type="forced"/>
+<ts>________________________________</ts><tshtm>_______________________</tshtm><tspdf>\hfill </tspdf><rend class="latin"><persName key="39408">LeMozart</persName></rend>&#160;<abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<pg n="2"/>
+Sind sie doch um Gottes will<abbr v="en"/><lbr/>
+<tshtm>________</tshtm>fleisig!<lbr type="forced"/>
+<lbr/>
+<add_empf pos="rm" rot="270">1756. d<abbr v="en"/> 19. <rend class="latin">Febr</rend>: aus <rend class="latin">Salz</rend>burg,<lbr/>
+von h<abbr type="curve">.</abbr>&#160;<rend class="latin">Leopold Mozart</rend>.</add_empf>
+<lbr/>
+<add_seal type="owner">FITZWILLIAM<lbr/>
+MUSEUM<lbr/>
+LIBRARY</add_seal>
+</NI>
+</letter>
+</text>
+</MUP>

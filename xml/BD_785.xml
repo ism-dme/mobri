@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2014">2014-5</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1354</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">D-KA</bibl>
+            <bibl type="source" subtype="RISM">D-KA (Badische Landesbibliothek</bibl>
+            <bibl type="source" subtype="RISM">Musikabteilung)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:40:35 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_785.mup">
+<letter bd="785"><NI src="D-KA"><HEADER id="1354">LEOPOLD MOZART AN SEBASTIAN WINTER IN DONAUESCHINGEN<lbr/>
+SALZBURG, 22. APRIL 1784</HEADER>
+<pg n="1"/>
+<ts>_______</ts><tshtm>________________________________________________________________</tshtm><tspdf>\hfill </tspdf>Salzb<abbr type="curve">:</abbr> d<abbr v="en"/> 22<h>t<abbr v="en"/></h><lbr type="forced"/>
+Liebster h<abbr type="curve">:</abbr> Winter<ts>_______</ts><tshtm>___________________________________</tshtm><tspdf>\hfill </tspdf>April 1784<lbr type="forced"/>
+<lbr type="forced"/>
+Ihr Brief vom 17<h>t<abbr v="en"/></h> dies hat mich in nicht geringe verlegenheit<lbr/>
+gesetzt, da<lbr type="BD"/> ich bereits den 3<h>t<abbr v="en"/></h> Nachmittag die 3 <rend class="latin">Conce</rend>rt<abbr v="en"/> in Waxleinw<abbr type="topline" expand="aa">a</abbr>t<lbr/>
+eingewickelt<lbr type="BD"/> dem Postwag<abbr v="en"/> übergeben habe, der <u>den 4<h>t<abbr v="en"/></h> morgens um<lbr/>
+8 uhr hier abge<lbr type="BD"/>gang<abbr v="en"/> ist</u>, folglich, da, als sie schrieben, es 14<h>t<abbr v="en"/></h> täge<lbr/>
+schon waren, und die<lbr type="BD"/>&#160;<rend class="latin">Conce</rend>rt<abbr v="en"/> längst in Donauösching<abbr v="en"/> se&#255;n sollten.<lbr/>
+Die <rend class="latin">Adresse</rend> war darauf:<lbr type="BD"/>&#160;<u>An h<abbr type="curve">:</abbr> Sebastian Winter Ca<abbr type="topline" expand="mm">m</abbr>erdiener<lbr/>
+S<h>r</h>: Durchl:</u> &#38;c: <u>in Donaueschingen</u>. &#8211;<lbr type="BD"/> Sollte das <rend class="latin">paget</rend> unter<pc force="weak">=</pc><lbr/>dess<abbr v="en"/> nicht angelangt se&#255;n, so bitte durch den Post<lbr type="BD"/>halter<lbr/>
+scharfe Nachfrage und Untersuchung halt<abbr v="en"/> zu lass<abbr v="en"/>, so, wie<lbr/>
+ich es<lbr type="BD"/> hier und in Münch<abbr v="en"/> thun werde, unterdess<abbr v="en"/> hoffe, <u>daß<lbr/>
+sie mich bald durch<lbr type="BD"/> eine Nachricht aus der verlegenheit reissen<lbr/>
+werd<abbr v="en"/></u>. So viel in E&#255;le. Wir emp<lbr type="BD"/>fehl<abbr v="en"/> uns S<h>r</h>: Durchläucht<lbr/>
+und bin allzeit<lbr type="forced"/>
+<ts>______</ts><tshtm>__________________________</tshtm><tspdf>\hfill </tspdf>dero<lbr type="BD"/><lbr type="forced"/>
+<ts>______</ts><tshtm>_________________________________________</tshtm><tspdf>\hfill </tspdf>ergebenster<lbr type="BD"/><lbr type="forced"/>
+<ts>______</ts><tshtm>________________________________________________</tshtm><tspdf>\hfill </tspdf>Mozart <abbr expand="manu propria">mp</abbr><lbr/>
+<pg n="2"/>
+<anschrift rot="270"><rend class="latin">À Monsieur<lbr type="forced"/>
+Monsieur Sebastien<lbr type="forced"/>
+<u>Winter</u> l'Ho<abbr type="topline" expand="mm">m</abbr>e de chambre<lbr type="forced"/>
+de<lbr type="BD"/> S: A: SS:<h>me</h> Le Prince de Fürstem<pc force="weak">=</pc><lbr type="forced"/>berg <abbr expand="etc">p</abbr>:<lbr type="forced"/>
+<ts>_____________</ts><tshtm>____________</tshtm>à<lbr type="forced"/>
+<u>par Augspourg</u><ts>_____</ts><tshtm>____</tshtm><u>Donauesching<abbr v="en"/></u><lbr type="BD"/></rend></anschrift>
+<lbr type="forced"/>
+<add_empf schr_id="60645">Erhalten d<abbr v="en"/>: 27<h><uu>tn</uu></h>: <rend class="latin">april</rend>&#160;<abbr type="topline"><u>784</u></abbr> u: beantw:<lbr/>
+d<abbr v="en"/> 28<h><uu>tn</uu></h>: darauf.</add_empf>
+</NI></letter>
+</text>
+</MUP>

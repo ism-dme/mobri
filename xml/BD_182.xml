@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2011">2011-05</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=743</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:37:10 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_182.mup">
+<letter bd="182"><HEADER id="743">LEOPOLD MOZART AN MARIA ANNA MOZART IN SALZBURG<lbr/>
+ROM, 2. MAI 1770<lbr/>
+mit Nachschriften von Joseph Meissner und Wolfgang Amadé Mozart</HEADER>
+<pg n="1"/>
+<ts>____________</ts><tshtm>___________________________________________________________</tshtm><tspdf>\hfill </tspdf><rend class="latin">Rom</rend> d<abbr v="en"/> 2<h>t<abbr v="en"/></h> Ma&#255; 1770.<lbr type="forced"/>
+<lbr type="forced"/>
+Ich hofe dein Catharr wird längst gänzlich vorbe&#255; se&#255;n. das neueste ist,<lbr/>
+daß<lbr type="BD"/> h<abbr type="curve">:</abbr> Meissner heut Mittags von <rend class="latin">Neapl</rend> angeko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>, und in<lbr/>
+2 Tägen wied<abbr v="er"/><lbr type="BD"/> nach Florenz und von da schnurrgerade nach Salzb<abbr type="curve">:</abbr> folglich in<lbr/>
+kürze aldort<lbr type="BD"/> eintreff<abbr v="en"/> wird. Er lässt sich euch all<abbr v="en"/> empfehl<abbr v="en"/>. S<h>r</h>: Hochf<abbr type="curve">:</abbr> Gnad<abbr v="en"/><lbr/>
+habe<lbr type="BD"/> schon geschrieb<abbr v="en"/>. du wilst wissen ob der Wolfg<abbr type="curve">:</abbr> noch singt und geigt <abbr expand="etc:">p:</abbr>&#160;<abbr expand="etc:">p:</abbr><lbr/>
+Er geigt, aber nicht öffentl: &#8211; Er singt, aber nur allzeit we<abbr type="topline" expand="nn">n</abbr> man ihm<lbr/>
+einige<lbr type="BD"/> Worte vorlegt &#8211; Er ist etwas gewachsen, &#8211; ich bin wed<abbr v="er"/> fetter<lbr/>
+noch mägerer &#8211; und die welsche speisen hab<abbr v="en"/> wir auch<lbr/>
+gewohnt. Wir geh<abbr v="en"/> eher weg als ich<lbr type="BD"/> geglaubt habe, weil ich mit 4<lbr/>
+<rend class="latin">augusti</rend>nern nach <rend class="latin">Neapl</rend> zu geh<abbr v="en"/> Gelegenheit<lbr type="BD"/> habe: nämlich d<abbr v="en"/> 8<h>t<abbr v="en"/></h> Ma&#255;.<lbr/>
+sonst habe ich dir nichts zu schreib<abbr v="en"/>; ich hoffe<lbr type="BD"/> Gott werde dich und die Na<abbr type="topline" expand="nn">n</abbr>erl<lbr/>
+gesund erhalt<abbr v="en"/> und uns gesund nicht nur<lbr type="BD"/> nach <rend class="latin">Neapl</rend> und dann wied<abbr v="er"/> zurük,<lbr/>
+sondern auch seiner Zeit glückl: wied<abbr v="er"/><lbr type="BD"/> nach Hauß ko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/> lass<abbr v="en"/>. In <rend class="latin">Neapl</rend> werde<lbr/>
+mich nicht viel mehr als etwa<lbr type="BD"/> 5 woch<abbr v="en"/> aufhalt<abbr v="en"/>: alsda<abbr type="topline" expand="nn">n</abbr> über <rend class="latin">Loretto</rend> nach<lbr/>
+<rend class="latin">Bologna</rend> und <rend class="latin">Pisa</rend> und diesen<lbr type="BD"/> Gegend<abbr v="en"/> geh<abbr v="en"/> und alda die gröste<lbr/>
+Hitze an einem Orte, das am Kühlest<abbr v="en"/><lbr type="BD"/> und gesündest<abbr v="en"/> ist, auswart<abbr v="en"/>.<lbr/>
+der h<abbr type="curve">:</abbr>&#160;<rend class="latin">Meisner</rend> sagt mir, daß er seit anfangs <rend class="latin">Februarij</rend> kein<abbr v="en"/> Brief von<lbr/>
+Salzb<abbr type="curve">:</abbr><lbr type="BD"/> geseh<abbr v="en"/>. Ich weis nun auch schon die Ursache warum die <rend class="latin">Mad: Rosa</rend><lbr/>
+keine<lbr type="BD"/> Mutter hat.<tshtm>___</tshtm> Meine Empf<abbr type="curve">:</abbr> an alle freunde und freundin<abbr v="en"/><lbr/>
+wir kiss<abbr v="en"/> dich<lbr type="BD"/>&#160;<abbr expand="und">u</abbr> die Na<abbr type="topline" expand="nn">n</abbr>erl 10000 mahl <abbr expand="und">u</abbr> bin d<abbr v="er"/> alte<lbr type="forced"/>
+<ts>____________</ts><tshtm>_______________________________________________________________________</tshtm><tspdf>\hfill </tspdf>Mzt <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal><lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="2"/>
+<NS type="NS" schr_id="39409">Ich bin Gott lob und danck gesund, und küsse der mama die<lbr/>
+hand wie auch<lbr type="BD"/> meiner schwester das gesicht, nasen, mund,<lbr/>
+hals, und meine schlechte feder,<lbr type="BD"/> und arsch wen<lbr/>
+er sauber ist.<lbr type="forced"/>
+<ts>______________________</ts><tspdf>\hfill </tspdf><rend class="latin">Wolgango Mozart:</rend>&#160;<u><rend class="latin">Rom:</rend> 1770</u></NS><lbr/>
+
+<NS type="NS" schr_id="56353" adr_id="48817">
+Das ich kein liebhaber von schreiben bin wird dir ohne das bekhant se&#255;n<lbr/>
+doch wissen zu mach<abbr v="en"/> das ich gesund gott lob bin so schreib ich das ich mich<lbr/>
+noch fernerhin mich in deine freündschaft Empfehle<lbr type="forced"/>
+<ts>_________________</ts><tshtm>_____________________________________________________________________</tshtm><tspdf>\hfill </tspdf>Joseph Meissner<lbr type="forced"/>
+an die <rend class="latin">Mad. Marianna</rend> mein gehorsambstes Compliment.</NS><lbr/>
+<NS type="NS" schr_id="39408">Heut hab<abbr v="en"/> sich h<abbr type="curve">:</abbr> Meisner und der Wolfg<abbr type="curve">:</abbr> im Teutsch<abbr v="en"/><lbr/>
+<rend class="latin">Collegio produci</rend>ert.</NS><lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal><lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal></letter>
+</text>
+</MUP>

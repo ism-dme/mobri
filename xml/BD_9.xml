@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2019">2019-12</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=565</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">D-As</bibl>
+            <bibl type="source" subtype="RISM">D-As (Staats- und Stadtbibliothek)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:36:16 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_9.mup">
+﻿<letter bd="9">
+<NI src="D-As">
+<HEADER id="565">LEOPOLD MOZART AN JOHANN JAKOB LOTTER IN AUGSBURG<lbr/>
+SALZBURG, 11. SEPTEMBER 1755</HEADER>
+<pg n="1"/>
+<ts>_____</ts><rend class="latin"><persName key="76865">Monsieur</persName> mon tres cher amy</rend><lbr type="forced"/>
+<lbr type="forced"/>
+Berichte in Eyll, daß ich mit der allerersten <rend class="latin">Ri<pc force="weak">=</pc><lbr/>torno</rend>=gelegenheit nach Augs<lbr type="BD"/>purg ko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/> werde. Sie<lbr/>
+därfen also dero Herrn Brudern nichts an mich<lbr type="BD"/><lbr/>
+mitgeben: de<abbr type="topline" expand="nn">n</abbr> es kan sich fügen, daß ich ihn noch<lbr/>
+auf dem Weege begegne.<lbr type="BD"/> Die Bücher wird die <persName key="48815">meinige</persName><lbr/>
+[ihrem] h<abbr type="curve">:</abbr> Brudern schon ablangen. Ich muß sie<lbr type="BD"/><lbr/>
+<additum>[... (Textverlust)]</additum> es ansuch<abbr v="en"/>. Ich gedenke zwar be&#255; meiner<lbr/>
+[<persName key="84658">Mutter</persName>] zu bleib<abbr v="en"/>. Allein, wer<lbr type="BD"/> weiß es, vieleicht<lbr/>
+[kann sie m]ich nicht einmal itzt mehr Logir<abbr v="en"/>, weill<lbr/>
+nicht nur<lbr type="BD"/> meine <persName key="82850 77441">zwe&#255; Brüd<abbr v="er"/></persName>, sond<abbr v="ern"/> auch meine<lbr/>
+<persName key="84660 84661">zwo schwestern</persName> nunmehr verheyratet<lbr type="BD"/> sind: so wird<lbr/>
+ihr gewiß kein übriges Bett mehr zurück geblieb<abbr v="en"/> se&#255;n,<lbr/>
+als daß, so sie vor sich und etwa vor eine Magd hat.<lbr/>
+vielleicht find<abbr v="en"/> sie ein<abbr v="en"/><lbr type="BD"/> gut<abbr v="en"/> freund der mich be&#255; sich<lbr/>
+unterko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/> lässt. den<abbr type="topline" expand="nn">n</abbr> be&#255; Tische werde<lbr type="BD"/> ich keine Un<pc force="weak">=</pc><lbr/><pg n="2" type="wordsep"/>gelegenheit machen, in diesem Falle bin ich schon<lbr/>
+<rend class="latin">addressi</rend>rt. Ich<lbr type="BD"/> kö<abbr type="topline" expand="nn">n</abbr>te auch im Kloster zu St:<lbr/>
+Ulrich <rend class="latin">logi</rend>ren, allein ich mag nicht. Es hat<lbr type="BD"/> seine<lbr/>
+Ursach<abbr v="en"/>. leb<abbr v="en"/> sie wohl, bis ich das verg<additum>[nügen habe]</additum><lbr/>
+sie zu seh<abbr v="en"/>. <rend class="latin">addio</rend><lbr type="BD"/> ich bin<lbr type="forced"/>
+<ts>________________</ts><tshtm>________________________</tshtm><tspdf>\hfill </tspdf>dero Ergeb<abbr v="en"/><lbr type="BD"/><lbr type="forced"/>
+<ts>________________</ts><tshtm>__________________________</tshtm><tspdf>\hfill </tspdf><persName key="39408"><rend class="latin">Leop: Mozart</rend></persName>&#160;<abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+Salzb<abbr type="curve">:</abbr> d<abbr v="en"/> 11 <rend class="latin">Sept<abbr type="curve">:</abbr></rend><lbr type="forced"/>
+<ts>_______</ts><tshtm>___________</tshtm><u>1755</u><lbr type="forced"/>
+<lbr type="forced"/>
+Sagen sie nicht viel noch von meiner Ankunft,<lbr/>
+<u>es ist weg<abbr v="en"/> meiner Geschwi<lbr type="BD"/>stert zu thun</u>, Sie<lbr/>
+möchten mir sonst be&#255; meiner <persName key="84658">Mutter</persName> den Handl<lbr/>
+verderb<abbr v="en"/>.<lbr type="forced"/>
+<pg n="3"/>
+<vacat/>
+<pg n="4"/>
+<add_empf>1755. d<abbr v="en"/> 11. <rend class="latin">Sept<abbr type="curve">.</abbr></rend> aus Salzburg, von<lbr/>
+h<abbr type="curve">.</abbr>&#160;<rend class="latin">Leopold Mozart</rend>.</add_empf>
+<lbr/>
+<anschrift rot="270">
+<uu><rend class="latin">Franco</rend></uu><lbr type="forced"/>
+<rend class="latin">Monsieur<lbr type="forced"/>
+Monsieur Lotter mon<lbr type="forced"/>
+tres cher amy</rend><lbr type="forced"/>
+<lbr type="forced"/>
+nebst dem Weisenrössl<ts>________</ts><uu><rend class="latin">Augspurg</rend></uu><lbr type="BD"/><lbr type="forced"/>
+in dem Lotterisch<abbr v="en"/> Buchlad<abbr v="en"/><lbr type="forced"/>
+abzugeb<abbr v="en"/></anschrift>
+</NI>
+</letter>
+</text>
+</MUP>

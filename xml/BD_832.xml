@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2015">2015-5</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1401</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:40:46 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_832.mup">
+<letter bd="832"><HEADER id="1401">LEOPOLD MOZART AN MARIA ANNA VON BERCHTOLD ZU SONNENBURG IN ST. GILGEN<lbr/>
+SALZBURG, 16. DEZEMBER 1784</HEADER>
+<pg n="1"/>
+<ts>________</ts><tshtm>______________________________________________________________</tshtm><tspdf>\hfill </tspdf>Salzb<abbr type="curve">.</abbr> d<abbr v="en"/> 16<h>t<abbr v="en"/></h>&#160;<rend class="latin">Deceb<abbr type="curve"></abbr></rend>. 1784<lbr type="forced"/>
+<lbr type="forced"/>
+Als ich aus dem Theater kahm fand dein<abbr v="en"/> Brief, den die glastragerin,<lbr/>
+die<lbr type="BD"/> morg<abbr v="en"/> frühe wied<abbr v="er"/> abgeht, gebracht. Eben heut war die letzte <rend class="latin">Co<abbr type="topline" expand="mm">m</abbr>oedie</rend>,<lbr type="BD"/><lbr/>
+und wurde <u>der Stillstand</u> be&#255;m Abdank<abbr v="en"/> bis den Stephanstag, und<lbr/>
+zugleich<lbr type="BD"/> als das erste Spektakl <u>den 26<h>t<abbr v="en"/></h></u> die <u>Entführung aus dem Serail</u><lbr/>
+angekündigt, &#8211; ihr müsst also am Weinacht<tspdf>-</tspdf>abend schon herein, &#8211; oder am<lbr/>
+Weinacht=<lbr type="BD"/>tag gleich nach der kürche hereinfahr<abbr v="en"/>, &#8211; od<abbr v="er"/> am <u>Stephanstag</u> nach<lbr/>
+einer<lbr type="BD"/> frühemesse, de<abbr type="topline" expand="nn">n</abbr> es ist Sonntag, folglich <u>die <rend class="latin">Co<abbr type="topline" expand="mm">m</abbr>oedie</rend> schon um 4 uhr</u>,<lbr/>
+wo<lbr type="BD"/> es sicher um 3 uhr schon ziemlich voll se&#255;n wird, folglich müsst ihr<lbr/>
+antrag<abbr v="en"/>,<lbr type="BD"/> um halbe 1 uhr doch hier zu se&#255;n; wir werd<abbr v="en"/> wohl kein Schüssen,<lbr/>
+sondern<lbr type="BD"/> es am Wei<abbr type="topline" expand="nn">n</abbr>acht tag vermuthlich haben. Genug! nun wisst ihrs,<lbr/>
+<u>den 26<h>t<abbr v="en"/></h><lbr type="BD"/> um 4 uhr ist die <rend class="latin">opera</rend>.</u> Zu Essen werdet ihr schon hab<abbr v="en"/>. &#8211; <lbr/>
+der beyliegende<lbr type="BD"/>&#160;<u>AkademieZettl</u> vom durchreisend<abbr v="en"/> Virtuosen<lbr/>
+h<abbr type="curve">:</abbr> Mayer war mir auch etwas<lbr type="BD"/> neues &#8211;, es ist d<abbr v="er"/> h<abbr type="curve">:</abbr>&#160;<rend class="latin">Fagot</rend>ist<lbr/>
+<u>Patzl</u>. Er blässt aber itzt wirkl: recht schön. das<lbr type="BD"/> übrige, samt<lbr/>
+andern Neuigkeit<abbr v="en"/>, &#8211; zum Exempl, das die <rend class="latin">Wallis=Mademos:<h>lle</h></rend><lbr type="BD"/> den<lbr/>
+Khünburg<abbr type="curve">:</abbr> Hofmeister <rend class="latin">La Roche</rend> ha&#255;rath<abbr v="en"/> wird <abbr expand="etc">p</abbr>: mündlich.<lbr type="forced"/>
+Ich küsse euch alle &#8211; gute Nacht! bin d<abbr v="er"/> alte redliche Vatter<lbr type="forced"/>
+<ts>________</ts><tshtm>_________________________________________________________________</tshtm><tspdf>\hfill </tspdf>Mozart <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<lbr type="forced"/>
+<add_note schr_id="48818"><ts>________________</ts>diese habe ich durch lesen</add_note>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="2"/>
+<anschrift rot="270"><rend class="latin">À<lbr type="forced"/>
+Madame<lbr type="forced"/>
+Madame de So<abbr type="topline" expand="nn">n</abbr>enbourg<lbr type="forced"/>
+à<lbr type="forced"/>
+<u>St: Gilgen</u></rend></anschrift>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+</letter>
+</text>
+</MUP>

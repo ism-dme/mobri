@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2014">2014-5</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1642</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Wn</bibl>
+            <bibl type="source" subtype="RISM">A-Wn (Österreichische Nationalbibliothek)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:41:53 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_1072.mup">
+<letter bd="1072"><NI src="A-Wn"><HEADER id="1642">WOLFGANG AMADÉ MOZART AN GOTTFRIED VON JACQUIN IN WIEN<lbr/>
+PRAG, 4. UND 9. NOVEMBER 1787</HEADER>
+<pg n="1"/>
+<ts>____</ts><tshtm>___</tshtm>liebster, Bester freund! &#8211; <ts>_________</ts><tshtm>________________________________________</tshtm><tspdf>\hfill </tspdf><u>Prag den</u>&#160;<u>4:<h>tn</h>&#160;<rend class="latin">Nov:</rend></u><rend class="latin"><h>bre</h></rend>&#160;<uu>1787</uu><lbr type="forced"/>
+<lbr type="forced"/>
+Ich hoffe Sie werden mein Schreiben erhalten haben; &#8211; den 29:<h>t</h>&#160;<rend class="latin">ockt<h>b</h>:</rend> gieng<lbr type="BD"/> meine<lbr/>
+Oper <rend class="latin">D: Giovanni</rend> in <rend class="latin">scena</rend>, und zwar mit dem lautesten be&#255;fall. &#8211;<lbr type="BD"/> gestern wurde Sie<lbr/>
+zum 4:<h>tn</h> Male |: und zwar zu meinem <rend class="latin">Benefice</rend> :| auf<lbr type="BD"/>geführt; &#8211; Ich gedenke den 12<h>t</h>:<lbr/>
+oder 13<h>ten</h>: von hier abzureisen; be&#255; meiner<lbr type="BD"/> zurückunft sollen Sie also die <rend class="latin">Aria</rend> gleich zu<lbr/>
+Singen beko<abbr type="topline" expand="mm">m</abbr>en; <rend class="latin"><uu>NB</uu></rend>&#160;<u>unter<lbr type="BD"/> uns</u>; &#8211; Ich wollte meinen guten freunden | besonders <rend class="latin">bridi</rend> und<lbr/>
+ihnen :| wün<lbr type="BD"/>schen, daß Sie nur einen einzigen Abend hier wären, um antheil an meinem<lbr type="BD"/> ver<pc force="weak">=</pc><lbr/>gnügen zu nehmen! &#8211; vieleicht wird Sie doch in Wienn aufgeführt? &#8211; ich<lbr type="BD"/> wünsche es.<lbr/>
+&#8211; Man wendet hier alles mögliche an um mich zu bereden, ein paar<lbr type="BD"/> Monathe noch hier<lbr/>
+zu bleiben, und noch eine Oper zu schreiben, &#8211; ich kann<lbr type="BD"/> aber diesen antrag, so schmeichel<pc force="weak">=</pc><lbr/>haft er i<abbr type="topline" expand="mm">m</abbr>er ist, nicht annehmen. &#8211; Nun,<lbr type="BD"/> liebster freund, wie befinden Sie Sich? &#8211; <lbr/>
+Ich hoffe daß Sie sich <u>alle</u> so wohl<lbr type="BD"/> und gesund befinden mögen, wie wir; &#8211; <lbr/>
+am vergnügt se&#255;n kann es ihnen,<lbr type="BD"/> liebster freund, wohl nicht fehlen, da Sie alles<lbr/>
+besitzen, was sie sich <u>in ihren Jahren</u> und <u>in ihrer laage</u> nur wünschen können! &#8211; <lbr/>
+besonders da sie nun von<lbr type="BD"/> ihrer vorigen etwas <u>unruhigen lebensart</u> ganz zurückzuko<abbr type="topline" expand="mm">m</abbr>en<lbr/>
+scheinen; &#8211;<lbr type="BD"/> nicht wahr Sie werden täglich mehr von der wahrheit meiner kleinen Straf<pc force="weak">=</pc><lbr/>Predigten überzeugt? &#8211; ist das vergnügen einer flatterhaften, launigten liebe,<lbr type="BD"/><lbr/>
+nicht hi<abbr type="topline" expand="mm">m</abbr>elweit von der Seeligkeit unterschieden, welche eine wahre, ver<lbr type="BD"/>nünftige liebe,<lbr/>
+verschafft? &#8211; Sie danken mir wohl gar öfters so in ihrem<lbr type="BD"/> Herzen für meine belehrungen!<lbr/>
+&#8211; Sie werden mich noch ganz Stolz machen. &#8211;<lbr type="BD"/> doch, ohne allem Spass; &#8211; Sie sind mir<lbr/>
+doch im Grunde ein bischen dank<lbr type="BD"/> schuldig, wenn sie anderst der frl: N . . . . . . . würdig ge<pc force="weak">=</pc><lbr/>worden sind, denn<lbr type="BD"/> ich Spielte doch be&#255; ihrer besserung oder bekehrung gewis nicht die<lbr/>
+un<lbr type="BD"/>bedeutendste Rolle; &#8211; Mein Urgrosvater pflegte Seiner frauen meiner urgros<pc force="weak">=</pc><lbr/>Mutter, diese ihrer tochter, Meiner gros=Mutter, diese wieder ihrer tochter<lbr type="BD"/> Meiner Mutter, diese<lbr/>
+abermal ihrer tochter meiner leiblichen schwester zu<lbr type="BD"/> sagen, daß es eine sehr grosse<lbr/>
+kunst se&#255;e wohl und schön zu reden, aber<lbr type="BD"/> vieleicht eine nicht minder grosse, zur rechten<lbr/>
+<pg n="2"/>
+Zeit aufzuhören; &#8211; Ich will<lbr type="BD"/> also dem Rathe meiner Schwester, dank unserer Mutter, gros<pc force="weak">=</pc><lbr/>Mutter und<lbr type="BD"/> UrgrosMutter folgen, und nicht nur Meiner Moralischen aus=schweifung,<lbr type="BD"/> sondern<lbr/>
+meinem ganzen brief ein Ende machen.<lbr type="forced"/>
+<u>den 9:<h>ten</h></u>: &#8211; mit überraschenden vergnügen erhalte ich ihren 2:<h>ten</h> brief; &#8211;<lbr type="BD"/> wenn es<lbr/>
+erst noth hat Sie durch das lied <rend class="latin">en question</rend> meiner freundschaft zu<lbr type="BD"/> versichern, so haben<lbr/>
+sie weiter keine Ursache daran zu zweifeln; &#8211; hier ist<lbr type="BD"/> es: &#8211; Ich hoffe aber daß sie<lbr/>
+auch <u>ohne diesem liede</u> meiner wahren freund<lbr type="BD"/>schaft überzeugt sind, und in dieser Hofnung<lbr/>
+verharre ich Ewig<lbr type="forced"/>
+<tshtm><lbr type="forced"/></tshtm>
+<ts>___________</ts><tshtm>______________________________________________________________________________________________</tshtm><tspdf>\hfill </tspdf>ihr aufrichtigster freund<lbr type="BD"/><lbr type="forced"/>
+<ts>___________</ts><tshtm>_______________________________________________________________________________________________________</tshtm><tspdf>\hfill </tspdf>W: A: Mozart <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<u><rend class="latin">P: S:</rend></u> &#8211; daß sich ihre liebe Eltern, ihre frl: Schwester, und h<abbr type="curve">:</abbr> bruder meiner<lbr type="BD"/><lbr/>
+<u>gar nicht</u> sollten erinnert haben? &#8211; das ist mir unglaublich! &#8211; Ich schiebe es<lbr type="BD"/> ganz<lbr/>
+auf <u>ihre</u> vergessenheit, mein freund, und schmeichle mir, mich nicht<lbr type="BD"/> zu betrügen. &#8211; <lbr/>
+wegen dem dopelten Petschier ist es so; &#8211; das rothe wachs<lbr type="BD"/> taugte nichts &#8211; Ich petschirte<lbr/>
+also Schwarz darauf; &#8211; und mein gewöhnlich<lbr type="BD"/> Siegel habe in Wie<abbr type="topline" expand="nn">n</abbr> vergessen. &#8211; <lbr/>
+<rend class="latin">Adieu</rend>, &#8211; ich hoffe Sie bald zu umarmen.<lbr type="forced"/>
+an ihr ganzes haus und an <rend class="latin">Nattorps</rend> unsere be&#255;derseitige <rend class="latin">Complimente</rend>. &#8211; <lbr type="forced"/>
+<lbr/>
+<add_seal type="owner">ÖST. NATIONALBIBLIOTHEK<lbr/>WIEN</add_seal>
+<pg n="3"/>
+<vacat/>
+<pg n="4"/>
+<anschrift rot="270"><rend class="latin">À<lbr type="forced"/>
+Monsieur<lbr type="forced"/>
+Monsieur Geoffroy de Jacquin<lbr type="forced"/>
+<ts>_________________</ts><tshtm>________________</tshtm>à<lbr type="forced"/>
+<u>auf dem<lbr type="BD"/> Rennwege<lbr type="forced"/>
+im Bottanischen Garten</u>.<ts>__</ts><tshtm>__</tshtm><u>Vienne</u>.</rend></anschrift><lbr type="forced"/>
+<add_note impl="pencil"><u><rend class="latin">NB</rend></u> Be&#255; 30 fl. C. M.<lbr/>
+<ts>____</ts>gekauft</add_note>
+<lbr/>
+<add_note rot="180">30f. &#8211; CM</add_note>
+</NI></letter>
+</text>
+</MUP>

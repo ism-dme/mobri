@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2015">2015-9</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1522</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Privatbesitz</bibl>
+            <bibl type="source" subtype="RISM">Privatbesitz</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:41:19 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_952.mup">
+<letter bd="952"><NI scr="Privat"><HEADER id="1522">LEOPOLD MOZART AN MARIA ANNA VON BERCHTOLD ZU SONNENBURG IN ST. GILGEN<lbr/>
+SALZBURG, 28. APRIL 1786</HEADER>
+<pg n="1"/>
+Der Leopoldl befindet sich gesund<add_num type="inline"><ts>__________</ts>7</add_num><tshtm>______</tshtm><tspdf>\hfill </tspdf>Salzb<abbr type="curve"></abbr> d<abbr v="en"/> 28<h>t<abbr v="en"/></h> April<lbr type="BD"/><lbr type="forced"/>
+und Wohl!<ts>________</ts><tshtm>_________________________________________________________________</tshtm><tspdf>\hfill </tspdf>1786.<lbr type="forced"/>
+<lbr type="forced"/>
+Letzlich vergass zu schreib<abbr v="en"/>, daß h<abbr type="curve">:</abbr>&#160;<u>Reitter</u> zur Landausmessung<lbr/>
+mit noch<lbr type="BD"/> and<abbr v="er"/><abbr v="en"/> abgereiset ist, die im Carntnerisch<abbr v="en"/> mit Öster<abbr type="curve">:</abbr>&#160;<abbr expand="und">u</abbr><lbr/>
+Salzb<abbr type="curve">:</abbr> vorgeno<abbr type="topline" expand="mm">m</abbr><lbr type="BD"/><abbr v="en"/> wird. ied<abbr v="er"/>, wie höre, hat des tags 2 f. &#8211; <lbr type="forced"/>
+<lbr type="BD"/><lbr type="forced"/>
+Der Orgelmacher, der vor 10 tag<abbr v="en"/> abgereist ist, wird nun<lbr/>
+schon ein paar tage<lbr type="BD"/> zu hause se&#255;n.<lbr type="forced"/>
+<lbr type="BD"/><lbr type="forced"/>
+Ich glaubte heute vieles schreib<abbr v="en"/> zu kö<abbr type="topline" expand="nn">n</abbr><abbr v="en"/>: allein es kam ein fremd<abbr v="er"/><lbr/>
+zu<lbr type="BD"/> mir, näml: h<abbr type="curve">:</abbr>&#160;<rend class="latin"><u>Caravoglia</u></rend> ein <rend class="latin">Fagot</rend>ist, d<abbr v="er"/> in königl: Neapo<pc force="weak">=</pc><lbr/>litanisch<abbr v="en"/> dienst<abbr v="en"/><lbr type="BD"/> ist; vorm jahr mich in Wie<abbr type="topline" expand="nn">n</abbr> antraf, und wir<lbr/>
+ein and<abbr v="er"/> schon <rend class="latin"><abbr type="tilde" expand="anno">ao</abbr></rend>&#160;<u>1770</u> in<lbr type="BD"/> Neapl kannt<abbr v="en"/>. dieser war schon einige<lbr/>
+jahre auf Reisen, in Engelland, Hol<lbr type="BD"/>land, <abbr expand="und">u</abbr> Russland. itzt geht<lbr/>
+er nach Neapel zurük. Er hat sein<abbr v="en"/> aign<abbr v="en"/><lbr type="BD"/> gross<abbr v="en"/> Wag<abbr v="en"/>, seine<lbr/>
+<u>Frau</u>, eine Sängerin, <u>seiner Frau Brud<abbr v="er"/></u>, ein <u>3 Jahriges<lbr type="BD"/> kind</u>,<lbr/>
+<abbr expand="und">u</abbr>&#160;<u>ein<abbr v="en"/> Bedient<abbr v="en"/></u> be&#255; sich. Izt ko<abbr type="topline" expand="mm">m</abbr>t er von Regenspurg, hat<lbr/>
+2 Brief<lbr type="BD"/> an den Erzbischof, ein<abbr v="en"/> an die Wallis, <abbr expand="und">u</abbr> ein<abbr v="en"/><lbr/>
+an die <rend class="latin">Lizow</rend>, auch ein<abbr v="en"/> an<lbr type="BD"/> h<abbr type="curve">:</abbr> domdechant. da am <u>Sontag</u><lbr/>
+der neue ka&#255;serl: Bischof zu Loiben Gr. Engl<lbr type="BD"/> vom Erzb<abbr type="curve">:</abbr><lbr/>
+im do<abbr type="topline" expand="mm">m</abbr> gewe&#255;ht wird, so ist Hofnung, daß d<abbr v="er"/> Erzb<abbr type="curve">:</abbr> den<lbr/>
+h<abbr type="curve">:</abbr><lbr type="BD"/>&#160;<rend class="latin">Caravoglia</rend>&#160;<abbr expand="und">u</abbr> seine Frau hör<abbr v="en"/> wird.<lbr type="forced"/>
+<lbr type="BD"/><lbr type="forced"/>
+Über das habe vom h<abbr type="curve">:</abbr> Marchand Nachricht, daß h<abbr type="curve">:</abbr> Ra<abbr type="topline" expand="mm">m</abbr> mit<lbr/>
+dem jung<abbr v="en"/><lbr type="BD"/>&#160;<rend class="latin">Ca<abbr type="topline" expand="nn">n</abbr>abich</rend> den 2<h>t<abbr v="en"/></h> od<abbr v="er"/> 3<h>t<abbr v="en"/></h> Ma&#255; in Salzb<abbr type="curve">:</abbr> eintreff<abbr v="en"/><lbr/>
+werde; erhielt auch schon<lbr type="BD"/> ein<abbr v="en"/>&#160;<u>Brief an den Ra<abbr type="topline" expand="mm">m</abbr></u> vom <rend class="latin">Ca<abbr type="topline" expand="nn">n</abbr>abichi</rend>sch<abbr v="en"/><lbr/>
+Hause, der ihm die Nachricht<lbr type="BD"/> geb<abbr v="en"/> wird, daß h<abbr type="curve">:</abbr>&#160;<rend class="latin">Ca<abbr type="topline" expand="nn">n</abbr>abich</rend>, <rend class="latin">Md:<h>me</h><lbr/>
+Ca<abbr type="topline" expand="nn">n</abbr>abich</rend>&#160;<abbr expand="und">u</abbr> die Rosel <rend class="latin">M<h>dme</h> Schulz</rend> nach<lbr type="BD"/> Salzb<abbr type="curve">:</abbr> ko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/> werd<abbr v="en"/>, um<lbr/>
+h<abbr type="curve">:</abbr> Ra<abbr type="topline" expand="mm">m</abbr> <abbr expand="und">u</abbr> den jung<abbr v="en"/>&#160;<rend class="latin">Cannb<abbr type="curve">:</abbr></rend> abzuhohl<abbr v="en"/>&#160;<abbr expand="und">u</abbr><lbr type="BD"/> Salzb zu seh<abbr v="en"/>. &#8211; <lbr/>
+Abermahl eine <u>verlegenheit</u> für den Erzb<abbr type="curve">:</abbr> &#8211; weil er be&#255;<lbr type="BD"/><lbr/>
+d<abbr v="er"/> durchreise des Ra<abbr type="topline" expand="mm">m</abbr>s sag<abbr v="en"/> ließ, er würde den jung<abbr v="en"/>&#160;<rend class="latin">Ca<abbr type="topline" expand="nn">n</abbr>abich</rend><lbr/>
+be&#255;<lbr type="BD"/> seiner Rückreise hör<abbr v="en"/>.<lbr type="forced"/>
+<lbr type="BD"/><lbr type="forced"/>
+der neue Geiger <rend class="latin"><u>Latouche</u></rend> hat verflossn<abbr v="en"/> Sontag endlich sich<lbr/>
+hör<abbr v="en"/> lass<abbr v="en"/>: Er<lbr type="BD"/> spielte ein so leichtes <rend class="latin">Concert</rend>, daß es h<abbr type="curve">:</abbr> Pre&#255;<pc force="weak">=</pc><lbr/>man <rend class="latin">prima Vista</rend> eb<abbr v="en"/> so schön<lbr type="BD"/>&#160;<abbr expand="und">u</abbr> unge<tspdf>- </tspdf>zwungner gespielt hätte.<lbr/>
+<pg n="2"/>
+Es war halt so, als we<abbr type="topline" expand="nn">n</abbr> ein Schüler seine<lbr type="BD"/> Lecktion, das erste<lbr/>
+mahl mit Zittern daher sagte. er hat erst 30 jahre, und<lbr type="BD"/> we<abbr type="topline" expand="nn">n</abbr><lbr/>
+er noch 20 Jahre <rend class="latin">exercie</rend>rt, so wird er wohl das <rend class="latin">Courage</rend> be<pc force="weak">=</pc><lbr/>ko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>,<lbr type="BD"/> welches ihm nach der welsch<abbr v="en"/> ihrer Meinung einzig und<lbr/>
+allein noch fehlt,<lbr type="BD"/>&#160;<abbr expand="und">u</abbr> mit d<abbr v="er"/> Hilf des lieb<abbr v="en"/> Gott im 50<h>t<abbr v="en"/></h> Jahre<lbr/>
+ein verwegener kecker Violin<lbr type="BD"/>spieler werd<abbr v="en"/>. zur <rend class="latin">Direction</rend><lbr/>
+der 2<h>t<abbr v="en"/></h>&#160;<rend class="latin">Violin</rend> hat er weniger Geist als h<abbr type="curve">:</abbr><lbr type="BD"/> Pintzer.<lbr/>
+<rend class="latin">basta</rend>! so muß es geh<abbr v="en"/>!<lbr type="forced"/>
+<lbr type="BD"/><lbr type="forced"/>
+Der Both bringt eb<abbr v="en"/> die Schachtl, ich <u>danke dafür</u>: &#8211; er hat auch<lbr/>
+letzlich alles<lbr type="BD"/> richtig gebracht. Wir hatt<abbr v="en"/> seit einig<abbr v="en"/> tägen<lbr/>
+i<abbr type="topline" expand="mm">m</abbr>er Hofnung ein do<abbr type="topline" expand="nn">n</abbr>erwetter <abbr expand="und">u</abbr> stark<abbr v="en"/> Reg<abbr v="en"/> zu seh<abbr v="en"/>;<lbr/>
+es hatte i<abbr type="topline" expand="mm">m</abbr>er das Anseh<abbr v="en"/>; allein der Wind<lbr type="BD"/> jagte es i<abbr type="topline" expand="mm">m</abbr>er<lbr/>
+wied<abbr v="er"/> weiter und es blieb schön, bis gestern d<abbr v="en"/>&#160;<u>27<h>t<abbr v="en"/></h></u> nach<lbr type="BD"/>mittag,<lbr/>
+da endlich ein starker diese ganze Nacht anhaltend<abbr v="er"/> Reg<abbr v="en"/><lbr/>
+kam; der<lbr type="BD"/> aber heute schon wied<abbr v="er"/> aussetzt. Unterdess<abbr v="en"/><lbr/>
+wird alles sichtbar grün, und<lbr type="BD"/> erhollt sich baum und felder.<lbr type="forced"/>
+<lbr type="BD"/><lbr type="forced"/>
+Hier ist Lerm<abbr v="en"/> mit den Fleischhackern. Schon auf Ostern<lbr/>
+musste das Fleisch<lbr type="BD"/> um <u>6 <rend class="latin">X</rend></u><h>r</h> zahl<abbr v="en"/>. Die kerzen kost<abbr v="en"/><lbr/>
+itzt 14 <rend class="latin">X</rend><h>r</h>. der Butter 15 <rend class="latin">X</rend><h>r</h>, das Schmalz<lbr type="BD"/> von 18 bis<lbr/>
+20 <rend class="latin">X</rend><h>r</h>. <u>Lungen</u>&#160;<abbr expand="und">u</abbr> d<abbr v="er"/>gleich sach<abbr v="en"/> werd<abbr v="en"/> ums doppelte Geld<lbr type="BD"/><lbr/>
+eingeschrieb<abbr v="en"/>&#160;<abbr expand="etc">p</abbr>&#160;<abbr expand="etc">p</abbr>:<lbr type="forced"/>
+<lbr type="BD"/><lbr type="forced"/>
+Die Erbschaft d<abbr v="er"/> <rend class="latin">M:<h>dme</h> Duscheck</rend> muß sehr klein ausgefall<abbr v="en"/><lbr/>
+se&#255;n; da ich<lbr type="BD"/> weis, daß d<abbr v="er"/> alte sehr unvorsichtig sein<lbr/>
+Geld ausgelieh<abbr v="en"/>, <abbr expand="und">u</abbr> an einem Ort<lbr type="BD"/> 9000 f verlor<abbr v="en"/>, wo<lbr/>
+er 7 od<abbr v="er"/> 8 <rend class="latin">pr Cento</rend> gezog<abbr v="en"/>. das war du<abbr type="topline" expand="mm">m</abbr>! <u>derjenige</u>,<lbr type="BD"/><lbr/>
+<u>d<abbr v="er"/> zu hohe <rend class="latin">per cento</rend> zahlt ist offenbar ein schlechter<lbr/>
+Schuldner</u>.<lbr type="forced"/>
+<lbr type="BD"/><lbr type="forced"/>
+Heute d<abbr v="en"/> 28<h>t<abbr v="en"/></h> gehet deines Bruders <rend class="latin">opera</rend>, <u><rend class="latin">Le Nozze di Figaro</rend></u>,<lbr/>
+das erste<lbr type="BD"/> mahl in <rend class="latin">Scena</rend>. Es wird viel se&#255;n, we<abbr type="topline" expand="nn">n</abbr> er<lbr/>
+<rend class="latin">reussie</rend>rt, de<abbr type="topline" expand="nn">n</abbr> ich weis, daß er<lbr type="BD"/> erstaunliche starke <rend class="latin">Cabalen</rend><lbr/>
+<pg n="3"/>
+wider sich hat. <rend class="latin"><u>Salieri</u></rend> mit seinem ganz<abbr v="en"/> Anhang<lbr type="BD"/> wird wied<abbr v="er"/><lbr/>
+Hi<abbr type="topline" expand="mm">m</abbr>el <abbr expand="und">u</abbr> Erden wied<abbr v="er"/> in Bewegung zu bring<abbr v="en"/> sich alle<lbr/>
+Mühe geb<abbr v="en"/>.<lbr type="BD"/> h<abbr type="curve">:</abbr> und <rend class="latin">M:<h>dme</h> Duscheck</rend> sagt<abbr v="en"/> mir es schon,<lbr/>
+daß dein Bruder eben dessweg<abbr v="en"/><lbr type="BD"/> so sehr viele <rend class="latin">Cabalen</rend><lbr/>
+gegen sich habe, weil er weg<abbr v="en"/> seinem besond<abbr v="er"/><abbr v="en"/><lbr type="BD"/> Talent und<lbr/>
+Geschicklichkeit in so grossem Anseh<abbr v="en"/> stehe.<lbr type="forced"/>
+<lbr type="BD"/><lbr type="forced"/>
+<rend class="latin">M:<h>r</h></rend>&#160;<abbr expand="und">u</abbr>&#160;<rend class="latin">M:<h>dme</h> Duscheck</rend>, die am Dienstag abgereist<lbr/>
+sind, empfehl<abbr v="en"/> sich<lbr type="BD"/> und hätt<abbr v="en"/> sehr gewünscht dich zu seh<abbr v="en"/>.<lbr type="forced"/>
+<lbr type="BD"/><lbr type="forced"/>
+Die Gredl hat am Ostermontag das erste mahl als<lbr/>
+<u>Hofsängerin</u> in der <u>Hof<lbr type="BD"/><rend class="latin">accademie</rend></u>&#160;<abbr expand="und">u</abbr> das zwe&#255;te<lbr/>
+Be&#255;m Georgi Ritterfest d<abbr v="en"/> 26<h>t<abbr v="en"/></h> alda gesung<abbr v="en"/>, und<lbr type="BD"/> den<lbr/>
+grösst<abbr v="en"/> Beyfahl erhalt<abbr v="en"/>. alle Marchandisch<abbr v="en"/> empfehl<abbr v="en"/><lbr/>
+sich euch<lbr type="BD"/> beyd<abbr v="en"/>. Sie werd<abbr v="en"/> wohl im hochso<abbr type="topline" expand="mm">m</abbr>er, od<abbr v="er"/><lbr/>
+we<abbr type="topline" expand="nn">n</abbr> sichs thun läst, nach<lbr type="BD"/> Salzb<abbr type="curve">:</abbr> ko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>.<lbr type="forced"/>
+<lbr type="BD"/><lbr type="forced"/>
+Mit dem schmuck hat h<abbr type="curve">:</abbr> Marchand noch nichts mach<abbr v="en"/><lbr/>
+könn<abbr v="en"/>. &#8211; ein jude,<lbr type="BD"/> der ihn sahe, both ihm 850 f<lbr/>
+darauf <rend class="latin"><u>NB</u></rend>&#160;<u>ohne Nadl</u>. Er wollte mir ihn durch<lbr type="BD"/>&#160;<rend class="latin">Md:<h>me</h><lbr/>
+Ca<abbr type="topline" expand="nn">n</abbr>abich</rend> zurückschick<abbr v="en"/>, &#8211; ich bath ihn aber, solch<abbr v="en"/> noch<lbr/>
+zu be<lbr type="BD"/>halt<abbr v="en"/>, bis er selbst nach Salzb<abbr type="curve">:</abbr> reiset: vielleicht<lbr/>
+könnte sich doch in Münch<abbr v="en"/><lbr type="BD"/> etwas ergeb<abbr v="en"/>.<lbr type="forced"/>
+<lbr type="BD"/><lbr type="forced"/>
+Die Silberne <rend class="latin">Coffée</rend> ka<abbr type="topline" expand="nn">n</abbr>e ist zu schwer im Gewicht,<lbr/>
+sonst würde sie schon<lbr type="BD"/> verkauft se&#255;n. Ich gab itzt<lbr/>
+dem Pfe<abbr type="topline" expand="nn">n</abbr>ingschreiber die ganze <rend class="latin">Specifications</rend><lbr type="BD"/> Ab<pc force="weak">=</pc><lbr/>schrift, weil dort am ehest<abbr v="en"/> Nachfrage geschieht.<lbr/>
+überhaupts sind die gut<abbr v="en"/><lbr type="BD"/>&#160;<abbr expand="und">u</abbr> schön<abbr v="en"/> Stücke schwer<tspdf>\newpage</tspdf> im Gewichte: ich<lbr/>
+hoffe doch, daß nach <abbr expand="und">u</abbr> nach<lbr type="BD"/> etwas abgeh<abbr v="en"/> wird. Man will halt itzt<lbr/>
+nicht recht daran, jed<abbr v="er"/> der nicht<lbr type="BD"/> muß, hält zurück.<lbr type="forced"/>
+<pg n="4"/>
+<tspdf><lbr type="forced"/></tspdf>
+Morg<abbr v="en"/> ist die <rend class="latin">Confirmation</rend> des Bischofs um 10 uhr im Kaysersaal.<lbr/>
+<rend class="latin">Caravoglia</rend><lbr type="BD"/>&#160;<abbr expand="und">u</abbr> seine Frau ko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/> nicht zum Gehör. der Erzbischof hatte<lbr/>
+keine Ent<lbr type="BD"/>schuldigung erdenk<abbr v="en"/> kö<abbr type="topline" expand="nn">n</abbr><abbr v="en"/>&#160;<abbr expand="und">u</abbr> sagte, <u>es wäre zu warm im<lbr/>
+Zi<abbr type="topline" expand="mm">m</abbr>er</u>, <u>es<lbr type="BD"/> würd<abbr v="en"/> zu viel Leute ko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>, er möchte eine <rend class="latin">Accademie</rend><lbr/>
+auf dem Rathause<lbr type="BD"/> geb<abbr v="en"/></u>. &#8211; das wird er aber schwerlich thun.<lbr type="forced"/>
+<lbr type="BD"/><lbr type="forced"/>
+Die 2 Strohütte kostet jed<abbr v="er"/> 38 <rend class="latin">X</rend><h>r</h> folglich zusam <u>1 f 16</u>&#160;<rend class="latin">X</rend><h>r</h>. alles,<lbr/>
+alles ist<lbr type="BD"/> theurer, da hilft nichts dafür, das wird euch die <u>Huber</u><pc force="weak">=</pc><lbr/><u>na<abbr type="topline" expand="nn">n</abbr>erl</u> sagen. &#8211; Nun<lbr type="BD"/> gute Nacht, ich gehe schlaff<abbr v="en"/>, küsse euch be&#255;de<lbr/>
+von Herzen, grüsse die Kinder<lbr type="BD"/>&#160;<abbr expand="und">u</abbr> bin euer redlicher Vatter<lbr type="forced"/>
+<ts>_______________</ts><tshtm>__________________________________________________________</tshtm><tspdf>\hfill </tspdf>Mozart <abbr expand="manu propria">mp</abbr>
+</NI></letter>
+</text>
+</MUP>

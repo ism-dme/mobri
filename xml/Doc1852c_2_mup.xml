@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2010">2010-04</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=367</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:36:07 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/Doc1852c_2_mup.txt">
+<HEADER id="367">LOUISE WIDTER AN CARL THOMAS MOZART IN MAILAND<lbr/>
+VERONA, VOR DEM 20. NOVEMBER 1851(?)</HEADER>
+
+
+<pg n="1"/>
+<add_num impl="ink"><rend class="latin">N<h><uu>o</uu></h></rend> 97</add_num>
+Ich bitte den <rend class="latin">Giuseppe</rend> recht schön mir<lbr/>
+diesen Stof <rend class="latin">Paneè</rend> farb färben zu lassen<lbr/>
+oder <rend class="latin">Color Gra<abbr type="topline" expand="nn">n</abbr>ata</rend>; jedoch mechte ich<lbr/>
+selbes nicht spätter als daß andere bekomen<lbr/>
+Ich danke in furaus, und werde den betrag<lbr/>
+so gleich übersenden, wenn selber mir<lbr/>
+bekant sein wird. Ich glaube gerne <abbr expand="daß">dß</abbr><lbr/>
+Sie etliche Zeit wie nicht recht zu Hause<lbr/>
+sein werden; mir ging es oft auch nicht<lbr/>
+anders. Ich küsse Sie recht herzlich<lbr/>
+auch in Nahmen Ihres Freundes und<lbr/>
+bin wie immer Ihre Freundin <rend class="latin">Louise</rend><lbr type="forced"/>
+<tshtm>____________________________</tshtm>&#160;<rend class="latin">Georgino</rend> frägt fleißig<lbr/>
+<tshtm>_____________________________</tshtm> nach Ihnen <u>3.</u><lbr/>
+<pg n="2"/>
+<add_note lang="it" impl="pencil"><rend class="latin">pel Verme Solitario<lbr type="forced"/>
+<ts>_____</ts>erba<lbr type="forced"/>
+Bragera antelmin<pc force="weak">-</pc><lbr type="forced"/><ts>_____</ts>thica<lbr type="forced"/>
+chiamta dagli Abissini<lbr type="forced"/>
+Kussus &#8211; oppure Sehar<lbr type="forced"/>
+<ts>_____</ts>Dottore<lbr type="forced"/>
+D<h>re</h> Siegmund in<lbr type="forced"/>
+<ts>_____</ts>Vienna<lbr type="forced"/>
+Liquidi desinfettanti<lbr type="forced"/>
+<ts>_____</ts>Milano<lbr type="forced"/>
+Contrada d<h>lla</h> Cerva N<h>o</h></rend> 543</add_note>
+</text>
+</MUP>

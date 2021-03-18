@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2009">2009-08-20</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=2519</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:42:42 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/Doc1832_2_p01.p04_mup.txt">
+<HEADER id="2519">MAYRISCHE BUCHHANDLUNG AN CONSTANZE NISSEN IN SALZBURG<lbr/>
+SALZBURG, 22. AUGUST 1832</HEADER>
+
+<pg n="1"/>
+Das Werk „Feuersteins sensitiven<lbr/>
+Krankheiten, ist im Leipziger Meß<pc force="weak">=</pc><lbr/>katalog 1828. als <rend class="latin">Comissions</rend> Artikel<lbr/>
+enthaltend, u. so mit auch an die Buchhand<pc force="weak">=</pc><lbr/>lungen Teutschlands schon versandt wor<pc force="weak">=</pc><lbr/>den. Unter diesem Verhältniß ka<abbr type="topline" expand="nn">n</abbr> nun<lbr/>
+von hier aus kein <rend class="latin">Comiss.</rend> Geschäft ge<pc force="weak">=</pc><lbr/>pflogen werden, für den hiesigen<lbr/>
+Privat Gebrauch dürften 5=6 <rend class="latin">Exempl</rend><lbr/>
+in <rend class="latin">Comission</rend> hinreichend se&#255;n.<lbr type="forced"/>
+<ts>_____</ts>Für das hier se&#255;ende <rend class="latin">Ex.</rend> welches wir<lbr/>
+recht sehr zu zu behalten wünschen<lbr/>
+liegt der Betrag von 1 <abbr_cur expand="Taler">Thlr</abbr_cur> 20 <abbr_cur expand="Groschen">gr<abbr type="curve">.</abbr></abbr_cur> mit<lbr/>
+50 <symbol value="percent">%</symbol> Abzug also 1 <abbr_cur expand="Gulden"><rend class="latin">f</rend></abbr_cur> 39 <abbr expand="Kreuzer">Krz.</abbr> be&#255;.<lbr type="forced"/>
+<ts>_____</ts>Mit Hochachtung<lbr type="forced"/>
+<ts>_____________________________</ts><tspdf>\hfill </tspdf> Ma&#255;rsche Buchh.<lbr type="forced"/>
+Salzb. am 22 Aug. 1832<lbr/>
+<pg n="2"/>
+<add_note rot="90" schr="CN">Von der Mayersche Buchhandlung Erhalten<lbr type="forced"/>
+am 22 <rend class="latin">august</rend> 1832</add_note><lbr type="forced"/>
+<anschrift rot="90">Der<lbr type="forced"/>
+Hochgebornen Frau<lbr type="forced"/>
+Räthin von <rend class="latin">Nissen</rend><lbr type="forced"/>
+mit<lbr type="forced"/>
+1 <abbr_cur expand="Gulden"><rend class="latin">f.</rend></abbr_cur> 39.<ts>___</ts><u>Salzburg.</u></anschrift></text>
+</MUP>

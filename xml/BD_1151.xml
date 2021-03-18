@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2014">2014-6</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1722</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Privatbesitz</bibl>
+            <bibl type="source" subtype="RISM">Privatbesitz</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:42:15 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_1151.mup">
+<letter bd="1151"><NI src="Privat"><HEADER id="1722">WOLFGANG AMADÉ MOZART AN DEN MAGISTRAT DER STADT WIEN,<tspdf>\newline</tspdf> ENTWURF<lbr/>
+WIEN, VOR DEM 28. APRIL 1791</HEADER>
+<pg n="1"/>
+<add_num type="inline">74</add_num><add_num type="inline"><ts>____________________________________________________________________________________________________________________________________________</ts>12</add_num><lbr/>
+<ts>________</ts><tshtm>______</tshtm>Hochlöblich<lbr type="BD"/><lbr type="forced"/>
+<ts>____</ts><tshtm>___</tshtm>Hochweiser Wienerischer Stadt Magistrat<lbr type="BD"/><lbr type="forced"/>
+<ts>________________</ts><tshtm>_________</tshtm>Gnädige Herrn!<lbr type="forced"/>
+<lbr type="forced"/>
+Als Hr: kapellmeister Hofmann krank lag, wollte ich mir die freyheit nehmen,<lbr type="BD"/><lbr/>
+um dessen Stelle zu bitten, da meine Musikalischen talente, und Werke, so<lbr type="BD"/> wie meine<lbr/>
+Tonkunst im Auslande bekannt sind, man überall meinen Namen<lbr type="BD"/> einiger Rücksicht<lbr/>
+würdiget, und ich selbst am hiesigen Höchsten Hofe als<lbr type="BD"/> kompositor angestellt zu seyn, seit<lbr/>
+mehreren Jahren die Gnade habe; hoffte<lbr type="BD"/> ich dieser Stelle nicht Unwerth zu seyn, und eines<lbr/>
+Hochweisen StadtMagistrats<lbr type="BD"/> Gewogenheit zu verdienen.<lbr type="forced"/>
+Allein kapellmeister Hofmann ward wieder Gesund, und be&#255; diesem Um<lbr type="BD"/>stande, da ich ihm<lbr/>
+die fristung seines lebens vom Herzen gönne, und wünsche,<lbr type="BD"/> habe ich gedacht es dürfte<lbr/>
+vieleicht dem Dienste der Domkirche und meiner<lbr type="BD"/> gnädigen Herren zum vortheile<lbr/>
+gereichen, wenn ich dem schon älter gewor<lbr type="BD"/>denen Hr: kapellmeister für izt nur<lbr/>
+unentgeltlich <rend class="latin">adjungi</rend>ret würde, und da<lbr type="BD"/>durch die Gelegenheit erhielte, diesem Rechtschaffenen<lbr/>
+Manne in seinem<lbr type="BD"/> dienste an die Hand zu gehen, und eines Hochweisen Stadt=Magistrats<lbr/>
+Rück<lbr type="BD"/>sicht durch wirkliche dienste mir zu erwerben, die ich durch meine auch im<lbr type="BD"/> kirchenstyl<lbr/>
+ausgebildeten kenntnisse zu leisten vor andern mich fähig halten<lbr type="BD"/> darf.<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>___________</ts><tshtm>_________________________________________________________________________________________</tshtm><tspdf>\hfill </tspdf>unterthänigster diener<lbr type="BD"/><lbr type="forced"/>
+<ts>___________</ts><tshtm>________________________________________________________________________________________</tshtm><tspdf>\hfill </tspdf>Wolfgang Amadé Mozart <abbr expand="manu propria">mp</abbr><lbr type="BD"/><lbr type="forced"/>
+<ts>___________</ts><tshtm>______________________________________________________________________________________________</tshtm><tspdf>\hfill </tspdf>k: k: Hofkompositor.<lbr type="forced"/>
+<lbr/>
+<add_seal type="owner">3 K</add_seal>
+<pg n="2"/>
+<tspdf><lbr type="forced"/></tspdf>
+<tshtm>_____</tshtm><rend class="latin">Stadt Magistrat!</rend><lbr type="forced"/>
+<lbr type="forced"/>
+<tshtm>_____</tshtm>unterthäniges Bitten<lbr type="forced"/>
+Wolfgang Amadè Mozarts<lbr type="BD"/> k: k: Hofkompositors<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____</ts><tshtm>___________________________</tshtm><tspdf>\hfill </tspdf>um dem hiesigen Hr: kapell<pc force="weak">=</pc><lbr type="forced"/><ts>_____</ts><tshtm>_________________________</tshtm><tspdf>\hfill </tspdf>Meister an der<lbr type="BD"/> St: Stephans<lbr type="forced"/>
+<ts>_____</ts><tshtm>________________________</tshtm><tspdf>\hfill </tspdf>Domkirche adjungirt zu werden.
+</NI></letter>
+</text>
+</MUP>

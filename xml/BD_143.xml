@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2020">2020-02</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=702</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Verbleib unbekannt (Vorlage: Abschrift um 1768 in D-B)</bibl>
+            <bibl type="source" subtype="RISM">Verbleib unbekannt, Vorlage: Abschrift um 1768 in D-B</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:36:59 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_143.mup">
+<letter bd="143">
+<NI src="unbekannt">
+<HEADER id="702">LEOPOLD MOZART AN LORENZ HAGENAUER IN SALZBURG<lbr/>
+WIEN, 14. DEZEMBER 1768</HEADER>
+<pg n="1"/>
+<add_note schr_id="57010"><ts>___________</ts>Der Brief ist nicht vom 14 okt. sondern vom 14 dec.<lbr/>
+<ts>________________________</ts>und sollte also an einem spätern Plaze<lbr/>
+<ts>_________________________________________________________________</ts>seyn</add_note>
+<ts>_________________________</ts><tspdf>\hfill </tspdf>Wien den 14.<h>t<abbr v="en"/></h>&#160;<choice><orig><rend class="latin">Decemb<abbr type="curve">:</abbr></rend></orig><corr hand="diff" schr_id="0"><rend class="latin">october</rend></corr></choice><lbr type="forced"/>
+<ts>________________________</ts><tshtm>__________________________</tshtm><tspdf>\hfill </tspdf><u>1768.</u><lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____</ts>So sehr ich gewunschen und gehofft, auf<lbr/>
+den <rend class="latin">Consecrations</rend>Tag S:<h>r</h> Hoch<lbr type="BD"/>fürstlichen<lbr/>
+Gnaden in Salzburg zu se&#255;n, so war es<lbr/>
+doch unmöglich, indem<lbr type="BD"/> wir unsere Sachen<lbr/>
+nicht eher konnten zu Ende bringen, so sehr<lbr/>
+ich mich<lbr type="BD"/> be&#255;fert hatte. Wir werden<lbr/>
+aber noch vor den We&#255;nacht Fe&#255;rtagen<lbr/>
+von hier<lbr type="BD"/> aufbrechen, und desswegen darf<pc force="weak">=</pc><lbr/>fen sie nichts mehr an uns schreiben oder<lbr type="BD"/><lbr/>
+einschicken. Doch ist leicht zu erachten, daß<lbr/>
+wir auf den Neuen JahrsTag un<lbr type="BD"/>möglich<lbr/>
+eintreffen werden, indem wir be&#255; Nachts<lbr/>
+nicht fahren wollen, und es gahr nicht sicher<lbr/>
+ist, die Täge aber sehr Kurz sind und be&#255;<lbr/>
+dieser sehr kalten<lbr type="BD"/> Zeit es nothwendig ist, un<pc force="weak">=</pc><lbr/>sere Tagreisen etwas kürzer zu machen:<lbr/>
+Zu dem<lbr type="BD"/> kommt noch, daß wir eben in die<lbr/>
+Fe&#255;ertäge kommen, wo wir etwa den<lbr/>
+Heiligen<lbr type="BD"/> Tag an einem guten <rend class="latin">orterl</rend> zu<lbr/>
+bringen, und die übrigen Täge auch<lbr/>
+<pg n="2"/>
+nicht<lbr type="BD"/> weit lauffen werden.<ts>_____</ts>Ich werde<lbr/>
+nicht ermangeln an S:<h>e</h> hochfürstlichen<lbr type="BD"/> Gna<pc force="weak">=</pc><lbr/>den unsern gnädigsten Herrn meinem<lbr/>
+unterthänigsten Glückeswunsch ein<lbr type="BD"/>zusenden,<lbr/>
+und bitte Ihro hochwürden und Gnaden dem<lbr/>
+herrn BeichtVatter<lbr type="BD"/> solches zu melden, und<lbr/>
+uns alle zu Gnaden gehorsamst zu empfeh<pc force="weak">=</pc><lbr/>len.<ts>_____</ts>Die<lbr type="BD"/>&#160;<rend class="latin">Messe</rend>, so am 7. decemb<abbr type="curve">:</abbr><lbr/>
+vom Wolfgangl be&#255;m <rend class="latin">P: Parhamer</rend> in Ge<pc force="weak">=</pc><lbr/>genwart des<lbr type="BD"/> Ka&#255;serl: Hofes aufgeführt<lbr/>
+worden, und wobe&#255; er selbst den <rend class="latin">Tact</rend> ge<pc force="weak">=</pc><lbr/>schlagen<lbr type="BD"/> hat, dasienige, was die Feinde<lbr/>
+durch Verhinderung der <rend class="latin">opera</rend> zu verderben<lbr type="BD"/><lbr/>
+gedacht, wieder gut gemacht, und hat den<lbr/>
+Hof und das <rend class="latin">publicum</rend>, da der<lbr type="BD"/> Zulauf<lbr/>
+erstaunlich war, der Bossheit unserer Wider<pc force="weak">=</pc><lbr/>sacher überführet. das<lbr type="BD"/> umständlichere<lbr/>
+werde mündlich melden. Nichtwe<pc force="weak">=</pc><lbr/>niger ist ein schönes <rend class="latin">present</rend><lbr type="BD"/> von S:<h>r</h> Maje<pc force="weak">=</pc><lbr/>stätt der Ka&#255;serin erfolget. Wir hofen<lbr/>
+sie werden sich alle in<lbr type="BD"/> bester Gesundheit<lbr/>
+befinden, so wie wir, Gott lob, gesund<lbr/>
+sind. Wenigst sagt<lbr type="BD"/> es mein Schnei<pc force="weak">=</pc><lbr/><pg n="3" type="wordsep"/>der, welcher alle meine Beinkleider oben<lbr/>
+um 4. finger, und auf<lbr type="BD"/> den zwo se&#255;ten<lbr/>
+herunter be&#255;derseits einen daumbreit<lbr/>
+herauslassen, die <rend class="latin">Vesten</rend><lbr type="BD"/> aber mehr als<lbr/>
+eine stehende Mannshand hat erweitern<lbr/>
+müssen, und ich meine<lbr type="BD"/> Stifel nun unten<lbr/>
+zusammgeschoben, wie die alten teutschen<lbr/>
+Ritter, tragen<lbr type="BD"/> muß, indem sie nicht mehr<lbr/>
+über die Waden herauf zubringen sind.<lbr/>
+Der Herr<lbr type="BD"/> von Schittenhofer, der uns flei<pc force="weak">=</pc><lbr/>sig besuchet, hat auch ein dergleichen Schick<pc force="weak">=</pc><lbr/>saal.<lbr type="BD"/> Er wird hier starck und dick.<lbr/>
+das letzte Schreiben hat uns von einer<lbr/>
+ohnmöglich<lbr type="BD"/> zu errathenden Hochzeit Meldung<lbr/>
+gethann. So erstaunt wir alle darob wa<pc force="weak">=</pc><lbr/>ren,<lbr type="BD"/> so fand ich mich doch ein bischen dar<pc force="weak">=</pc><lbr/>ein, wenn es doch noch sollte zur Rich<lbr type="BD"/>tig<pc force="weak">=</pc><lbr/>keit kommen: denn wenn man so lange<lbr/>
+sich besinnet, so ist ein sicherer<lbr type="BD"/> Wanckelmuth<lbr/>
+zu beförchten. Das der artige herr hoch<pc force="weak">=</pc><lbr/>zeiter eine junge gewehlt,<lbr type="BD"/> kommt mit seinen<lbr/>
+Reden über eins, er sagte allzeit, daß, wenn<lbr/>
+er diesen<lbr type="BD"/> entsetzlichen Streich, sich zu ver<pc force="weak">=</pc><lbr/><pg n="4" type="wordsep"/>ehelichen, unternehmen sollte, er eine junge<lbr type="BD"/><lbr/>
+wie <rend class="latin">David</rend> sich zulegen werde. Selbst das<lbr/>
+Verhängniss hat seine Pratzen in<lbr type="BD"/> diesem<lbr/>
+Wercke: denn als die <rend class="latin">Madaimoisselle</rend><lbr/>
+Braut gebohren wurde, hatte<lbr type="BD"/> unser Breu<pc force="weak">=</pc><lbr/>tigamm just ein halbes <rend class="latin">Sæculum</rend>. Welcher<lbr/>
+Zufahl! war dies<lbr type="BD"/> nicht ein Vorbedeutniß?<lbr/>
+die 2. <rend class="latin">Vestali</rend>sche Jungfern im 2. Stock wer<pc force="weak">=</pc><lbr/>den sehr<lbr type="BD"/> wohl damit zu frieden se&#255;n. Die<lbr/>
+Begebenheit schmeichelt ihrer Rangssucht und<lbr type="BD"/><lbr/>
+Stoltze, indem die Bruders Tochter die<lbr/>
+älteste HofRathsfrau wird. Und sie<lbr/>
+darf nichts bessers |: jungers :| haben, gut<lbr/>
+genug! Eine Gnade! Sie kann zu<lbr type="BD"/>frie<pc force="weak">=</pc><lbr/>den se&#255;n! ja, ja, eine Gnade, daß sie<lbr/>
+bekommt was die andere vor<lbr type="BD"/> 20. Jahren<lbr/>
+nicht geachtet. Haben die 2. doch gar<lbr/>
+nichts! Herr Verwalter wird<lbr type="BD"/> wohl bedacht<lbr/>
+se&#255;n, die Braut wo nicht zur <rend class="latin">universal</rend><lbr/>
+Erbin des Herrn Brauterers<lbr type="BD"/> zu machen,<lbr/>
+oder wenigst solche mit einer fetten Mor<pc force="weak">=</pc><lbr/>gengabe, und einem<lbr type="BD"/> ansehnlichen <w lemma="Wittibsitze">Wittib<pc force="weak">=</pc><lbr/><conv><ts>_________________________________________________</ts>sitze</conv>
+<pg n="5"/>
+sitze</w> zu versorgen. Dann ist der <rend class="latin">Con<pc force="weak">=</pc><lbr/>tract</rend> richtig, und alles<lbr type="BD"/> zu frieden, denn<lbr/>
+die <rend class="latin">Madamoiss:<h>le</h> Cæcilia</rend> wünscht eine Frau<lbr/>
+zu se&#255;n. Das<lbr type="BD"/> arme Kind! Der<lbr/>
+Mann wird lange leben: er liebt er<pc force="weak">=</pc><lbr/>schröcklich die <rend class="latin">Dietam</rend>.<lbr type="BD"/> Er wird seine Ge<pc force="weak">=</pc><lbr/>sundheit genauest <u>in allen Sticken</u> beobach<pc force="weak">=</pc><lbr/>ten um sein<lbr type="BD"/> goldnes Vließ lange bewah<pc force="weak">=</pc><lbr/>ren zu können. Noch eins, wissen sie<lbr/>
+die haupt<lbr type="BD"/>ursach warum herr von Gschwendt<pc force="weak">=</pc><lbr/>ner sich zu verehlichen Entschlossen hat?<lbr type="BD"/><lbr/>
+Nach 30. Jahren sahe er sich genötigt ein<lbr/>
+neues <rend class="latin">galla</rend> Kleid anzuschaffen;<lbr type="BD"/> allein er<lbr/>
+wusste keine wahre Ursache dazu. Er<lbr/>
+Entschloß sich demnach zu<lbr type="BD"/> he&#255;rathen um<lbr/>
+eine Ursach zu haben. Oder wird er<lbr/>
+gar etwa im alten Kleid<lbr type="BD"/> Hochzeit machen?<lbr/>
+wir empfehlen uns alle.<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____</ts>Die allerliebste Frau Hagenauerin<lbr/>
+ist gehorsamlich gebethen uns mit Holz zu<lbr type="BD"/> ver<pc force="weak">=</pc><lbr/>sehen, und eine dienstmagd werden wir<lbr/>
+<pg n="6"/>
+auch wieder haben müssen, wenn<lbr type="BD"/> wir an<pc force="weak">=</pc><lbr/>ders nicht selbst Feuer anmachen und <abbr expand="etc:">p:</abbr><abbr expand="etc:">p:</abbr><lbr/>
+alles andere, zur Unter<lbr type="BD"/>haltung, selbst<lbr/>
+thun wollen. Alles was die Frau<lbr/>
+Hagenauerin thun wird, ist<lbr type="BD"/> wohl gethann,<lbr/>
+und wenn sie auch ein recht schönes Mensch<lbr/>
+aufnehmen sollte:<lbr type="BD"/> denn meine Frau<lbr/>
+ist gar nicht E&#255;fersichtig.<lbr type="forced"/>
+</NI>
+</letter>
+</text>
+</MUP>

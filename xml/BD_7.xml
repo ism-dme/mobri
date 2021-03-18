@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2019">2019-12</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=564</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">D-Asa</bibl>
+            <bibl type="source" subtype="RISM">D-Asa (Stadtarchiv)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:36:15 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_7.mup">
+﻿<letter bd="7">
+<NI src="D-Asa">
+<HEADER id="564">LEOPOLD MOZART AN JOHANN JAKOB LOTTER IN AUGSBURG<lbr/>
+SALZBURG, 11. AUGUST 1755</HEADER>
+<pg n="1"/>
+<ts>__________________________</ts><tshtm>___________________________________________________</tshtm><tspdf>\hfill </tspdf>d<abbr v="en"/> 11 <rend class="latin">Augusti</rend><lbr type="forced"/>
+<ts>___________________</ts><tshtm>_________</tshtm><rend class="latin"><persName key="76865">Monsieur</persName> mon tres cher amy</rend>.<ts>________</ts><tspdf>\hfill </tspdf>1755.<lbr type="forced"/>
+<lbr type="forced"/>
+<lbr type="forced"/>
+Sie schrieben mir letzthin, ich möchte kein <rend class="latin">Mscpt</rend> mehr schick<abbr v="en"/>, bis sie<lbr/>
+es<lbr type="BD"/> verlang<abbr v="en"/>. Mich dünckt aber sie woll<abbr v="en"/> es selbst im Markt hier<lbr/>
+abhol<abbr v="en"/>, anstatt<lbr type="BD"/> daß sie es mir alsdann fertiger zu Hand<abbr v="en"/> liefern?<lbr/>
+Sie schreib<abbr v="en"/> auch kein<lbr type="BD"/> Wort weg<abbr v="en"/> d<abbr v="er"/> Kupfer, und weg<abbr v="en"/>&#160;<persName key="57005">h<abbr type="curve">:</abbr>&#160;<rend class="latin">Nilson</rend></persName>,<lbr/>
+wovon ich letzlich meldung gethan habe. Ich schike entzwisch<abbr v="en"/><lbr/>
+das <rend class="latin">Mscrpt</rend> bis auf die letzt<abbr v="en"/> vier Haupt<lbr type="BD"/>stücke, die auch<lbr/>
+bald nachfolg<abbr v="en"/> werd<abbr v="en"/>. Sie hätt<abbr v="en"/> es schon vor 3 woch<abbr v="en"/><lbr type="BD"/> hab<abbr v="en"/> kö<abbr type="topline" expand="nn">n</abbr><abbr v="en"/>.<lbr/>
+ich will nur meine Anmerkung<abbr v="en"/> geschwind hersetzen.<lbr type="forced"/>
+<u>pag. 61 <rend class="latin">Linea</rend> 1.</u><h><rend class="latin">ma</rend></h> hab ich nach and<abbr v="er"/><abbr v="en"/> Scribent<abbr v="en"/>&#160;<u>Weitläuftiger</u><lbr/>
+anstatt <u>Weit<lbr type="BD"/>läufiger</u> geschrieb<abbr v="en"/>. wenn mans aber recht überleget<lbr/>
+das es ohnmittlbar vom<lbr type="BD"/>&#160;<u>weitlauff<abbr v="en"/></u> herko<abbr type="topline" expand="mm">m</abbr>t, so kan es unmöglich<lbr/>
+gefall<abbr v="en"/>. thun sie was ihn<abbr v="en"/><lbr type="BD"/> gefällt.<lbr type="forced"/>
+<rend class="latin">pag</rend>. 64. fang<abbr v="en"/> die musik<abbr type="curve">:</abbr> Kunstwörter an. Ich weis wohl das sie im<lbr/>
+Quantz<lbr type="BD"/> und and<abbr v="er"/><abbr v="en"/> deutsch geschrieb<abbr v="en"/> sind. aber sagen sie mir ist es<lbr/>
+denn nicht<lbr type="BD"/> lächerlich iene wörter deutsch zu schreib<abbr v="en"/>, die man doch<lbr/>
+wirklich auf die<lbr type="BD"/> musikali<abbr v="en"/> lateinisch hinschreibt. mir wäre also<lbr/>
+lieb, wenn sie nach iedem<lbr type="BD"/> Deutsch geschrieben<abbr v="en"/> auch das lateinische<lbr/>
+hinsetzet<abbr v="en"/>. Z: E: <u>Prestissimo</u> (<rend class="latin">prestissimo</rend>). Ich hab solche<lbr/>
+dessweg<abbr v="en"/> zur Eri<abbr type="topline" expand="nn">n</abbr>erung in <rend class="latin">Margine</rend><lbr type="BD"/> be&#255;gesetzet. die wörter so in<lbr/>
+ied<abbr v="er"/> Zeile mit deutsch<abbr v="en"/> Buchstab<abbr v="en"/> steh<abbr v="en"/>,<lbr type="BD"/> sind in <rend class="latin">Margine Lat<abbr type="curve">:</abbr></rend> nur das man<lbr/>
+iedes Wort an sein rechtes Ort bring<abbr v="en"/><lbr type="BD"/> muß.<lbr type="forced"/>
+Die <rend class="latin">pag</rend>. 93 und 96 eingeschalt<abbr v="en"/> §. 18 und <amend value="">und</amend> 26, werd<abbr v="en"/> sie schon<lbr/>
+find<abbr v="en"/>,<lbr type="BD"/> wie auch das blätch<abbr v="en"/> so <rend class="latin">p</rend>: 113 <rend class="latin">ad Notas</rend> gehört.<lbr type="forced"/>
+<rend class="latin">p</rend>. 108 müss<abbr v="en"/> die 2 figur<abbr v="en"/> des Geigebog<abbr v="en"/>&#160;<rend class="latin">F</rend>. 2 <rend class="latin">et</rend> 3.<lbr/>
+nach dem klein<abbr v="en"/> blät<lbr type="BD"/>ch<abbr v="en"/> gemacht werd<abbr v="en"/>.<lbr type="forced"/>
+In der Tabelle werd<abbr v="en"/> sie einige Not<abbr v="en"/> mit Rotstein bemerket seh<abbr v="en"/>, dieselb<abbr v="en"/><lbr type="BD"/><lbr/>
+Not<abbr v="en"/>, wo die roth<abbr v="en"/> striche hinschau<abbr v="en"/> müss<abbr v="en"/>&#160;<rend class="latin">accurat </rend>über einand<abbr v="er"/> steh<abbr v="en"/>.<lbr type="BD"/><lbr type="forced"/>
+<pg n="2"/>
+<add_empf>
+1755. d<abbr v="en"/> 11. August, aus Salzburg,<lbr/>
+von h<abbr type="curve">:</abbr>&#160;<rend class="latin">Leopold Mozart</rend>.</add_empf>
+<lbr/>
+be&#255; 155 werd<abbr v="en"/> sie wohl selbst find<abbr v="en"/>, daß im zweyt<abbr v="en"/> Exempl<lbr/>
+<uu>q</uu> das gleich<lbr type="BD"/>
+darunterstehnde <uu>q</uu>&#160;<uu>od<abbr v="er"/></uu> auch dazu gehört.<lbr type="forced"/>
+Die übrig<abbr v="en"/> 4 Hauptstücke werd<abbr v="en"/> etwa in meinig<abbr v="en"/><lbr/>
+16 bog<abbr v="en"/>&#160;<rend class="latin">in Circa</rend> be<lbr type="BD"/>steh<abbr v="en"/>, aber diess wenigst. sie werd<abbr v="en"/><lbr/>
+bald nachfolg<abbr v="en"/>. ich hoffe bald etliche<lbr type="BD"/> bogen der<lbr/>
+übrigen bog<abbr v="en"/>, de<abbr type="topline" expand="nn">n</abbr> ich muß selbe <rend class="latin">produci</rend>r<abbr v="en"/>, und<lbr/>
+Anstalt<abbr v="en"/> zur<lbr type="BD"/>&#160;<rend class="latin">Dedication</rend> mach<abbr v="en"/>. Leb<abbr v="en"/> sie wohl<lbr type="forced"/>
+<ts>____________________________________</ts>ich bin<lbr type="forced"/>
+<ts>________________________________________</ts>dero dr<lbr type="BD"/><lbr type="forced"/>
+<ts>________________________________________</ts><tspdf>\hfill </tspdf><persName key="39408"><rend class="latin">LMozart</rend></persName>&#160;<abbr expand="manu propria">mp</abbr>
+</NI>
+</letter>
+</text>
+</MUP>

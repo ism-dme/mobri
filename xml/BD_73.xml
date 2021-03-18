@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2020">2020-02</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=631</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Verbleib unbekannt (Vorlage: Abschrift um 1768 in D-B)</bibl>
+            <bibl type="source" subtype="RISM">Verbleib unbekannt, Vorlage: Abschrift um 1768 in D-B</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:36:34 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_73.mup">
+<letter bd="73">
+<NI src="unbekannt">
+<HEADER id="631">LEOPOLD MOZART AN LORENZ HAGENAUER IN SALZBURG<lbr/>
+PARIS, 8. DEZEMBER 1763</HEADER>
+<pg n="1"/>
+<add_num schr_id="57010" impl="crayon" color="red"><ts>___________________</ts>18.</add_num>
+<ts>__________________________________</ts><tspdf>\hfill </tspdf><rend class="latin">Paris le</rend> 8:<h><rend class="latin">me</rend></h>&#160;<rend class="latin">de Decemb<abbr type="curve">:</abbr></rend><lbr type="forced"/>
+<ts>________________________________________________________________</ts><tspdf>\hfill </tspdf><u>1763.</u><lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____</ts><rend class="latin">Monsieur mon trés cher Ami</rend>!<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____</ts>Nachdem wir in <choice><orig><rend class="latin">Brüssl</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">Brüssel</rend></corr></choice> ein grosses<lbr/>
+<rend class="latin">Concert</rend> gegeben, wo der Prinz <rend class="latin">Carl</rend> gegen<pc force="inter">=</pc><lbr/>wärtig war, und wir an meinem <choice><orig>Hochen</orig><corr hand="diff" schr_id="57010">Hohen</corr></choice><lbr/>
+Nahmens Tage um 9. Uhr mit 4. Post<lbr type="BD"/>pfer<pc force="weak">=</pc><lbr/>den unter der traurigen Beurlaubung vie<pc force="weak">=</pc><lbr/>ler guten <choice><orig>Freunden</orig><corr hand="diff" schr_id="57010">Freunde</corr></choice> abgefahren und<lbr type="BD"/> Abends<lbr/>
+be&#255; hellem Tage in <rend class="latin">Mons</rend>, den 2.<h>t<abbr v="en"/></h> Tage<lbr/>
+eben so frühe in <rend class="latin">bon avis</rend>,<lbr type="BD"/> den 3.<h>t<abbr v="en"/></h> in <rend class="latin">Gour<pc force="weak">=</pc><lbr/>na&#255;</rend>, und den 4.<h>t<abbr v="en"/></h> um halbe 4. Uhr Abends<lbr/>
+in <rend class="latin">Paris</rend> an<lbr type="BD"/>gelangt. Ich muß ihnen sagen,<lbr/>
+daß man alle <choice><orig>Stunde</orig><corr hand="diff" schr_id="57010">Stunden</corr></choice>&#160;<choice><orig>ein</orig><corr hand="diff" schr_id="57010">eine</corr></choice> Post fertig hat,<lbr type="BD"/><lbr/>
+weil erstlich die Posten klein sind, und weil es<lbr/>
+immer in vollem <choice><orig><rend class="latin">Caloppe</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">Galope</rend></corr></choice> gehet.<lbr type="BD"/>&#160;<tshtm>_____</tshtm>Der<lbr/>
+Weg von <choice><orig><rend class="latin">Brüssl</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">Brüssel</rend></corr></choice> bis <rend class="latin">Paris</rend> kostet erstaunlich<lbr/>
+geld. Von <choice><orig><rend class="latin">Brüssl</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">Brüssel</rend></corr></choice> bis <rend class="latin">Valen<lbr type="BD"/>ciennes</rend> sind die<lbr/>
+Posten <rend class="latin">Brabanti</rend>sch und wird iedes Pferd <rend class="latin">à</rend> 3.<lbr/>
+<rend class="latin">Escalin</rend> oder<lbr type="BD"/> 45 Xr: teutschen Gelds bezah<pc force="weak">=</pc><lbr/>let: Hingegen sind alle Posten nicht viel über<lbr type="BD"/><lbr/>
+<pg n="2"/>
+2. Stunden lang. So bald man nach <rend class="latin">Valen<pc force="weak">=</pc><lbr/>ciennes</rend> kommt muß man 6. Pferd<lbr type="BD"/> nehmen;<lbr/>
+da hilft nichts dafür: hingegen Zahlt man<lbr/>
+für das Pferd 25. <rend class="latin">Sols</rend>, das<lbr type="BD"/> ist einen <rend class="latin">Livres</rend><lbr/>
+und 5. <rend class="latin">Sols</rend>, etwa 30 Xr: teutschen Gelds.<lbr/>
+Dafür bekommt man<lbr type="BD"/> 2. <choice><orig>Postknecht</orig><corr hand="diff" schr_id="57010">Postknechte</corr></choice>, die<lbr/>
+be&#255; <choice><orig>ieder</orig><corr hand="diff" schr_id="57010">jeder</corr></choice> Post besondere Personen vorstel<pc force="weak">=</pc><lbr/>len, weil ieder<lbr type="BD"/> nach seinem belieben ge<pc force="weak">=</pc><lbr/>kleidet ist: bald glaubte ich es wären ein<lbr/>
+paar Maus<lbr type="BD"/>fallträger, bald ein paar<lbr/>
+Spitzbuben aus einer Nach<rend class="latin">Comoedie</rend>,<lbr/>
+bald ein paar<lbr type="BD"/> welsche Eseltreiber, bald aber<lbr/>
+ein paar verlauffene <choice><orig><rend class="latin">peruquiers</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">perruquiers</rend></corr></choice>, oder ent<pc force="weak">=</pc><lbr/>lassne<lbr type="BD"/> und <choice><orig>Herren loose</orig><corr hand="diff" schr_id="57010">Herren=loose</corr></choice>&#160;<rend class="latin">laqu</rend>e&#255;en oder<lbr/>
+gar Cammerdiener, manchmahl aber ein<lbr/>
+paar<lbr type="BD"/> abgedanckte <choice><orig>Feldweebls</orig><corr hand="diff" schr_id="57010">Feldwebels</corr></choice>; anbe&#255;<lbr/>
+aber lauter grosse wohlgewachsene Leute,<lbr/>
+die<lbr type="BD"/> nicht anders fahren, als wenn sie die<lbr/>
+Reichs <rend class="latin">Armée</rend> wären, und von einem<lbr type="BD"/> Chor<lbr/>
+Preussen verfolgt würden. Man hat ge<pc force="weak">=</pc><lbr/>nug zu sorgen, damit man die<lbr type="BD"/> Lohner<lbr/>
+versorge, damit sie nicht ausspringen,<lbr/>
+und die Räder ablaufen: und<lbr type="BD"/> die <rend class="latin">ba<pc force="weak">=</pc><lbr/><pg n="3" type="wordsep"/>gage</rend> muß be&#255; ieder Post <rend class="latin">Station</rend>, wenns<lbr/>
+nicht recht vest gebunden ist,<lbr type="BD"/> neu gebunden<lbr/>
+werden, sonst bricht alles <choice><orig>zusamm</orig><corr hand="diff" schr_id="57010">zusammen</corr></choice> und<lbr/>
+wird alles verdorben.<lbr type="BD"/> Hier setze ich<lbr/>
+ihnen auch alle Post <rend class="latin">Station</rend>en anbe&#255;, um<lbr/>
+zu sehen, wie erstaun<lbr type="BD"/>lich viel abwechslungen<lbr/>
+bis Paris sind.<lbr type="forced"/>
+<ts>_____</ts>Auf dem Weg ist uns nichts besonders<lbr/>
+begegnet, als daß <amend value="wir">wie</amend> in <rend class="latin">Mons</rend>&#160;<amend value="den">der</amend><lbr type="BD"/>&#160;<rend class="latin">Audi<pc force="weak">=</pc><lbr/>tor</rend> des Teutschmeisterl: Regiments <abbr type="topline" expand="von">v</abbr>&#160;<rend class="latin">Lidels<pc force="weak">=</pc><lbr/>heim</rend> und seine Frau die so<lbr type="BD"/> genannte ehe<pc force="weak">=</pc><lbr/>malige Fre&#255;sauf=Mariandel besucht ha<pc force="weak">=</pc><lbr/>ben. Sie haben eine grosse<lbr type="BD"/> Tochter und<lbr/>
+Sohn die be&#255;de Stiftmässig oder <choice><orig>Ha&#255;rath<pc force="weak">=</pc><lbr/>mässig</orig><corr hand="diff" schr_id="57010">He&#255;rathmässig</corr></choice> sind. Die guten<lbr type="BD"/> Leute leben,<lbr/>
+so, wie halt ein <rend class="latin">auditor</rend> von einem Re<pc force="weak">=</pc><lbr/>giment leben kann. Es<lbr type="BD"/> könnte halt bes<pc force="weak">=</pc><lbr/>ser se&#255;n! Sie <choice><orig>empfihlt</orig><corr hand="diff" schr_id="57010">empfiehlt</corr></choice> sich ihren Freun<pc force="weak">=</pc><lbr/>den in Salzburg durch mich. <choice><orig>ie</orig><corr hand="diff" schr_id="57010">je</corr></choice> näher<lbr/>
+man nach Paris kömmt, je schöner wird<lbr/>
+die Gegend; <choice><orig>dann</orig><corr hand="diff" schr_id="57010">denn</corr></choice> man<lbr type="BD"/> sieht viele Schlös<pc force="weak">=</pc><lbr/>ser und <rend class="latin">Allëen</rend>, und meine Frau hatte<lbr/>
+kein geringes Vergnügen<lbr type="BD"/> die Bauern mit<lbr/>
+<pg n="4"/>
+Zöpfen, die <choice><orig>Viehhuetter</orig><corr hand="diff" schr_id="57010">Viehhütter</corr></choice> in weisen <choice><orig>Man<pc force="weak">=</pc><lbr/>teln</orig><corr hand="diff" schr_id="57010">Mänteln</corr></choice> und grossen Schlief<lbr type="BD"/>fern, die Bauren<pc force="strong">=</pc><lbr/>Weiber mit <rend class="latin">palatin</rend>-Hauben, einen klei<pc force="weak">=</pc><lbr/>nen Schlieffer in der<lbr type="BD"/> Hand, und einen ste<pc force="weak">=</pc><lbr/>cken unter den Arm mit dem sie einen<lbr/>
+Esel vor sich her<lbr type="BD"/> treibet, zu sehen. &#8211; &#8211; &#8211; <lbr/>
+Wir kammen also den 18:<h>t<abbr v="en"/></h>&#160;<rend class="latin">Novb<abbr type="curve">:</abbr></rend> in dem<lbr/>
+<rend class="latin">Hôtel</rend> des<lbr type="BD"/>&#160;<rend class="latin">Comte Van-Eyck</rend> an, und tra<pc force="weak">=</pc><lbr/>fen zu gutem Glücke den Herrn Grafen<lbr/>
+und die<lbr type="BD"/>&#160;<rend class="latin">Comtesse</rend> zu Hauße an, die uns<lbr/>
+freundlichst empfiengen, und uns ein Zim<pc force="weak">=</pc><lbr/>mer<lbr type="BD"/> anwiesen, wo wir gelegen und gut<lbr/>
+wohnen. Wir haben den <choice><orig>Fliegl</orig><corr hand="diff" schr_id="57010">Flügel</corr></choice> der<lbr/>
+Frau<lbr type="BD"/> Gräfin in unserm Zimmer, weil<lbr/>
+sie solchen nicht <choice><orig>nötig</orig><corr hand="diff" schr_id="57010">nöthig</corr></choice> hat, der gut ist,<lbr/>
+und,<lbr type="BD"/> wie der unsrige<suppl hand="diff" schr_id="57010" pos="inline">,</suppl> 2. <rend class="latin">Manual</rend> hat.<lbr/>
+Wenn ich ihren Brief in <choice><orig><rend class="latin">Brussl</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">Brussel</rend></corr></choice> eher em<pc force="weak">=</pc><lbr/>pfan<lbr type="BD"/>gen hätte, so hätte ich 100. <rend class="latin">Livres</rend>&#160;<choice><orig>er<pc force="weak">=</pc><lbr/>sparet</orig><corr hand="diff" schr_id="57010">erspart</corr></choice>, die ich be&#255; meiner Ankunft in<lbr type="BD"/><lbr/>
+<rend class="latin">Paris</rend> für die Wohnung, so ich mir in<lbr/>
+<rend class="latin">Paris</rend> habe kurz vorhero bestellen lassen,<lbr type="BD"/><lbr/>
+habe bezahlen müssen: denn heuer sind die&#160;<lbr/>
+<conv><ts>_______________________________________</ts><rend class="latin">Quartier</rend></conv>
+<pg n="5"/>
+<rend class="latin">Quartier</rend> in <rend class="latin">Paris</rend> sehr <choice><orig>rahr</orig><corr hand="diff" schr_id="57010">rar</corr></choice> wegen<lbr type="BD"/> der Vie<pc force="weak">=</pc><lbr/>len Fremden, die den Winter hier se&#255;n<lbr/>
+werden. Weil sonderheitlich<lbr type="BD"/> 7. Jahre, als<lbr/>
+der Krieg gedauert, kein Engelländer hieher<lbr/>
+gekommen; so kommt<lbr type="BD"/> nun alles häuffiger.<lbr/>
+Und solche Wohnungen können nicht an<pc force="weak">=</pc><lbr/>ders als Monatlich<lbr type="BD"/> gemiethet werden. Mei<pc force="weak">=</pc><lbr/>ne Wohnung, die ich nun aber habe, macht<lbr/>
+mich die<lbr type="BD"/> 100. <rend class="latin">Livres</rend> leicht verschmerzen.<lbr/>
+Bald nach unserer Ankunft habe ihr schrei<pc force="weak">=</pc><lbr/>ben<lbr type="BD"/> richtig erhalten. Daß t<abbr type="curve">:</abbr> Herr Graf<lbr/>
+<rend class="latin">Spaur</rend> Bischof zu <choice><orig><rend class="latin">Seccau</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">Seckau</rend></corr></choice> geworden, habe<lbr type="BD"/> schon<lbr/>
+von tit<abbr type="curve">:</abbr> der Gräfin <rend class="latin">van-Eyck</rend> gehört,<lbr/>
+und zwar, daß es tit<abbr type="curve">:</abbr> Herr Dom<lbr type="BD"/>&#160;<rend class="latin">Deca<pc force="weak">=</pc><lbr/>nus</rend> nicht <choice><orig>angenohmen</orig><corr hand="diff" schr_id="57010">angenommen</corr></choice> hätte. Ich bedaure<lbr/>
+die kränklichen Umstände des<lbr type="BD"/> Herrn <rend class="latin">Fac<pc force="weak">=</pc><lbr/>tor</rend> Hafners, und der Frau Hafnerin, und<lbr/>
+wünsche, nebst meiner<lbr type="BD"/> Empfehlung eine voll<pc force="weak">=</pc><lbr/>kommene Besserung. Deme Herrn <choice><orig>Danz<pc force="weak">=</pc><lbr/>meister</orig><corr hand="diff" schr_id="57010">Tanzmeister</corr></choice> empfehle<lbr type="BD"/> mich, und ich lasse ihn<lbr/>
+bitten dahin zu sorgen, daß er seiner scho<pc force="weak">=</pc><lbr/>ne, und sich einen<lbr type="BD"/> jungen braven Tänzer<lbr/>
+zulege, der ihn überhebet; Er kann nichts<lbr/>
+<pg n="6"/>
+vernünftigeres<lbr type="BD"/> thun. Sie möchten vielleicht<lbr/>
+wissen, wie mir Paris gefällt? &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; <lbr type="BD"/><lbr type="forced"/>
+Wenn ich ihnen solches umständlich sagen sol<pc force="weak">=</pc><lbr/>te, so würde weder eine <choice><orig>Khüehaut</orig><corr hand="diff" schr_id="57010">Kuhhaut</corr></choice><lbr type="BD"/> noch eine<lbr/>
+<choice><orig><rend class="latin">Rinoceros</rend>-haut</orig><corr hand="diff" schr_id="57010"><rend class="latin">Rhinoceros</rend>-haut</corr></choice> erklecken. Kauffen sie<lbr/>
+sich um 45 Xr: <u>Johann<lbr type="BD"/> Peter Willebrandt<lbr/>
+königl: dänisch<abbr type="curve">:</abbr> wirckl: Justiz-Raths <abbr expand="etc">p</abbr><abbr expand="etc">p</abbr> Histo<pc force="weak">=</pc><lbr/>rische Berichte<lbr type="BD"/> und Pracktische An<tspdf>\-</tspdf>merckungen<lbr/>
+auf Reisen <abbr expand="etc">p</abbr>. Franckfurt und Leipzig<lbr/>
+1761.</u><lbr type="BD"/> Sie werden vieles Vergnügen haben.<lbr/>
+Nur das sage ich ihnen, daß <rend class="latin">Paris</rend> ein<lbr type="BD"/> offe<pc force="weak">=</pc><lbr/>ner Ort ist, der keine Thore hat, und der<lbr/>
+Eingang sieht einem Dorffe voll<lbr type="BD"/>kommen<lbr/>
+<choice><orig>änhlich</orig><corr hand="diff" schr_id="57010">ähnlich</corr></choice>: Allein es kömmt bald anders.<lbr/>
+Die Gebäude sind unglaublich<lbr type="BD"/>&#160;<choice><orig>bequemm</orig><corr hand="diff" schr_id="57010">bequem</corr></choice><lbr/>
+gebauet, allein ich muß die Erklärung da<pc force="weak">=</pc><lbr/>von auf unsere mündliche Unterredung<lbr/>
+ersparen. Das <rend class="latin">Hôtel</rend>, wo wir wohnen,<lbr/>
+ist so nach der Bequemlich<lbr type="BD"/>keit gebauet, daß<lbr/>
+alle, auch die kleinesten <choice><orig>Winkl</orig><corr hand="diff" schr_id="57010">Winkel,</corr></choice> zu etwas dien<pc force="weak">=</pc><lbr/>lich sind. Wohl<lbr type="BD"/>feil ist hier nichts als der<lbr/>
+Wein. Alle 10. Täge kommt mich die kost, ohne<lbr type="BD"/><lbr/>
+Brod, auf 2. <rend class="latin">Lovis d'or</rend>, ohne Wein<lbr/>
+<pg n="7"/>
+und Brod, dann täglich 2. <rend class="latin">Boutellien</rend> Wein<lbr type="BD"/><lbr/>
+und 4. <rend class="latin">Sols</rend> brod; die <rend class="latin">Bout<abbr type="curve">:</abbr></rend> Wein <rend class="latin">à</rend> 10.<lbr/>
+<rend class="latin">Sols</rend>. Es kommt folglich unser mittag<lbr type="BD"/> es<pc force="weak">=</pc><lbr/>sen 48. Xr: und das Nacht Essen 48. <rend class="latin">Sols</rend>.<lbr/>
+Den ganzen Tag mit Wein und<lbr type="BD"/> Brod alles<lbr/>
+zusammen 120. <rend class="latin">Sols</rend>, oder 6. <rend class="latin">Livres</rend>, das ist:<lbr/>
+ein Cron- oder Laub-<lbr type="BD"/>Thaller. <u>Der <rend class="latin">Louis<lbr/>
+d'or</rend></u> hat 24 <rend class="latin">Livres</rend>; folglich 4. Cronthaler<lbr/>
+sind ein <rend class="latin">Louis d'or</rend>,<lbr type="BD"/> dann ieder Laubthal<pc force="weak">=</pc><lbr/>ler gilt 6. <rend class="latin">Livres</rend>. Ein <choice><orig><rend class="latin">Livres</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">Livre</rend></corr></choice> hat 20. <rend class="latin">Sols</rend>.<lbr/>
+Ein <rend class="latin">Sols</rend> hat<lbr type="BD"/> 4. <choice><orig><rend class="latin">Liars</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">Liards</rend></corr></choice>. Wenn sie nun<lbr/>
+die <choice><orig><rend class="latin">Liars</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">Liards</rend></corr></choice> für Pfenning gelten lassen; so<lbr/>
+gilt ein<lbr type="BD"/>&#160;<rend class="latin">Sols</rend> einen <u>Kreuzer,</u> folglich der<lbr/>
+<choice><orig><rend class="latin">Livres</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">Livre</rend></corr></choice> 20. Xr: ein <choice><orig>Kron=thaller</orig><corr hand="diff" schr_id="57010">Kron=thaler</corr></choice> 2. f: der <rend class="latin">Lo<pc force="weak">=</pc><lbr/>uis<lbr type="BD"/> d'or</rend> aber 8 f: nun gibt es keine Münze<lbr/>
+mehr, als die Six <choice><orig><rend class="latin">liars</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">liards</rend></corr></choice> Stücke, die<lbr type="BD"/> nach<lbr/>
+meiner Meinung 6. <choice><orig>Pfenniger</orig><corr hand="diff" schr_id="57010">Pfennige</corr></choice> sind,<lbr/>
+und die 2. <rend class="latin">Sols</rend> Stücke oder 2. Kreu<lbr type="BD"/>zer, die <choice><orig><rend class="latin">douc</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">douze</rend></corr></choice><lbr/>
+<rend class="latin">Sols</rend> Stücke oder 12 Xr: Die <choice><orig><rend class="latin">Vintquatre</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">Vingtquatre</rend></corr></choice>&#160;<rend class="latin">sols</rend><lbr/>
+oder 24 St<abbr type="curve">:</abbr> Nun<lbr type="BD"/> wissen sie alle Geld <rend class="latin">Sor</rend><pc force="weak">=</pc><lbr/>ten, <choice><orig>dann</orig><corr hand="diff" schr_id="57010">denn</corr></choice> keine andere giebt es nicht in<lbr/>
+Franckreich. Ich<lbr type="BD"/> weis wohl, daß der <rend class="latin">Louis<lbr/>
+d'or</rend> mehr als 8 f: werth ist <abbr expand="etc">p</abbr>. allein mit die<pc force="weak">=</pc><lbr/><pg n="8" type="wordsep"/>ser<lbr type="BD"/> Rechnung komme ich besser zu recht. Ob<lbr/>
+ich den <choice><orig>Verluest</orig><corr hand="diff" schr_id="57010">Verlust</corr></choice> der 3 f: am <rend class="latin">louis d'or</rend><lbr type="BD"/> in die<lbr/>
+Ausgaab, oder in die Einnahme Rechne. Ge<pc force="weak">=</pc><lbr/>nug, sie sehen hieraus, daß<lbr type="BD"/> alles Theuer ist.<lbr/>
+wenn ich mehrer von allem benachrichtiget bin,<lbr/>
+so werde<lbr type="BD"/> mehr davon <choice><orig>erzehlen</orig><corr hand="diff" schr_id="57010">erzählen</corr></choice>. Das abscheu<pc force="weak">=</pc><lbr/>lichste ist hier das trinckwasser, so aus der<lbr type="BD"/><lbr/>
+<rend class="latin">Seine</rend> |: so abscheulich aussieht :| <choice><orig>gehollt</orig><corr hand="diff" schr_id="57010">geholt</corr></choice> wird.<lbr/>
+Es sind einige Wasserträger,<lbr type="BD"/> die das <rend class="latin">Pri<pc force="weak">=</pc><lbr/>vilegium</rend> haben, und etwas an den König be<pc force="weak">=</pc><lbr/>zahlen müssen; folglich<lbr type="BD"/> mus alles Wasser<lbr/>
+bezahlet werden. Wir haben es im Hause,<lbr/>
+Es wird auf der<lbr type="BD"/> gasse ausgeruffen: <u><rend class="latin">de l'eau</rend></u>.<lbr/>
+Wir sieden uns alles Trinckwasser, und las<pc force="weak">=</pc><lbr/>sen es<lbr type="BD"/> abstehen, dann wird es schöner. Jeder<lbr/>
+fremder fast bekommt anfänglich<lbr type="BD"/> einiges<lbr/>
+abweichen vom Wasser, iedes von uns <choice><orig>be<pc force="weak">=</pc><lbr/>kamm</orig><corr hand="diff" schr_id="57010">bekam</corr></choice> es auch, aber nicht<lbr type="BD"/> Starck. Eine<lbr/>
+nicht geringe <rend class="latin">Comoditè</rend> ist hier die so genann<pc force="weak">=</pc><lbr/>te kleine Post in<lbr type="BD"/> Paris be&#255; der ich den gan<pc force="weak">=</pc><lbr/>zen Tage Briefe in allen Gassen von Paris<lbr/>
+abschicken<lbr type="BD"/> und wieder erhalten kann. Es<lbr/>
+ist dieses um so nothwendiger, weil man<lbr/>
+<conv><ts>________________________________________________________</ts>an</conv>
+<pg n="9"/>
+an<lbr type="BD"/>&#160;<amend value="manches">maches</amend> Ort eine ganze Stund und mehr<lbr/>
+zu fahren hat, da man nun für die<lbr type="BD"/><lbr/>
+erste Stunde 25. <rend class="latin">Sols</rend>, und dann in der<lbr/>
+Folge für iede Stunde 20. <rend class="latin">Sols</rend> bezah<lbr type="BD"/>len muß,<lbr/>
+so könnte man so viel Geld ausgeben, und<lbr/>
+doch niemand antreffen,<lbr type="BD"/> man pflegt es<lbr/>
+also vorhero einander mittels der <rend class="latin">petite<lbr/>
+poste</rend> zu benachrichten. Das Fuhrwerke,<lbr/>
+von dem ich erst gesprochen habe, sind die<lbr/>
+<rend class="latin">Fiacres</rend>, ein elendes<lbr type="BD"/> fuhrwerck, deren ie<pc force="weak">=</pc><lbr/>der seine <rend class="latin">Numer</rend> hat: damit ich weis wer<lbr/>
+mich geführt hat.<lbr type="BD"/> ein anders sind die <rend class="latin">Ca<pc force="weak">=</pc><lbr/>rosse de remise</rend>, die sehr theuer sind. Al<pc force="weak">=</pc><lbr/>lein ich muste<lbr type="BD"/> schon 3. mahl eine solche haben,<lbr/>
+um be&#255; grossen Prinzen in dem Hof hin<pc force="weak">=</pc><lbr/>ein<lbr type="BD"/> fahren zu <choice><orig>därffen</orig><corr hand="diff" schr_id="57010">dürffen</corr></choice>, dahin kein <rend class="latin">Fiacre</rend><lbr/>
+gelassen wird und heraus halten müssen.<lbr type="BD"/><lbr/>
+man muß sie für den ganzen Tag neh<pc force="weak">=</pc><lbr/>men, und muß 12. <rend class="latin">livres</rend> oder 2. Cron<pc force="inter">=</pc><lbr/>thaller bezahlen, und noch ein <choice><orig>Trinckgelt</orig><corr hand="diff" schr_id="57010">Trinckgeld</corr></choice><lbr/>
+geben. Ich hätte ihnen längst ge<lbr type="BD"/>schrieben,<lbr/>
+allein ich gedachte abzuwarten, bis wir<lbr/>
+am Hofe gespielet hatten.<lbr type="BD"/> Allein nun<lbr/>
+<pg n="10"/>
+<choice><orig>hintert</orig><corr hand="diff" schr_id="57010">hindert</corr></choice> die Trauer wegen der <rend class="latin">Infantin</rend><lbr/>
+solches, bis zu Ausgang<lbr type="BD"/> derselben. Ist also<lbr/>
+S:<h>e</h>&#160;<rend class="latin">Ex<abbr type="curve">:</abbr></rend> Graf <rend class="latin">Daun</rend> am Schlagflusse ge<pc force="weak">=</pc><lbr/>storben? &#8211; &#8211; wieder<lbr type="BD"/> ein <rend class="latin">Canonicat</rend> ledig.<lbr/>
+<rend class="latin">à propos</rend>! sagen sie mir ist nicht <rend class="latin">Mr: Wo<pc force="weak">=</pc><lbr/>ditska</rend>, der Sohn<lbr type="BD"/> des Herrn Concertmei<pc force="weak">=</pc><lbr/>sters in München, nach Salzburg in das<lbr/>
+<rend class="latin">Collegium Ru<lbr type="BD"/>pertinum</rend> gekommen; Er ist<lbr/>
+ein sehr artiger wohlerzogener Mensch, und<lbr/>
+ich<lbr type="BD"/> rieth ihm, wann er ausser dem <rend class="latin">Collegio</rend><lbr/>
+wohnen wollte, in unserem Haus be&#255;<lbr type="BD"/> der<lbr/>
+<rend class="latin">Madame <abbr type="topline" expand="von">v</abbr> Wohlhaupt</rend> das Zimmer zu bestel<pc force="weak">=</pc><lbr/>len; seine Frau Mutter ist<lbr type="BD"/> eine <rend class="latin">Brentano</rend>,<lbr/>
+und Befreundte des Herrn <rend class="latin">Calligari</rend>; ich habe<lbr/>
+ihr dero Nahmen<lbr type="BD"/> aufgeschrieben, um dieß<pc force="weak">=</pc><lbr/>fahls mit ihnen <rend class="latin">Correspondi</rend>ren zu können.<lbr/>
+Wegen<lbr type="BD"/> dero <choice><orig>Gütte</orig><corr hand="diff" schr_id="57010">Güte</corr></choice>, so sie hatten mit Her<pc force="weak">=</pc><lbr/>ren <rend class="latin">Calligari</rend> wegen meiner zu <rend class="latin">correspon<pc force="weak">=</pc><lbr/>di</rend>ren,<lbr type="BD"/> dancke gehorsam<abbr type="curve">:</abbr> Ich habe noch<lbr/>
+nichts gesehen noch gehört. Es wäre mir<lbr/>
+lieb,<lbr type="BD"/> wenn solches bald <choice><orig>geschehet</orig><corr hand="diff" schr_id="57010">geschähe</corr></choice>: Denn man<lbr/>
+weis halt nicht, was uns armen<lbr type="BD"/> Menschen<lbr/>
+zustehen kann. Bies iezt sind wir |: Gott Lob :|<lbr/>
+<pg n="11"/>
+alle gesund. Meine<lbr type="BD"/> Frau, mein Wolf<pc force="weak">=</pc><lbr/>gängerl und Nannerl empfehlen sich samt<lbr/>
+mir ihnen dero<lbr type="BD"/> Frau liebsten ihrem<lbr/>
+ganzen Hauß und allen unsern Freunden,<lbr/>
+und ich bin<lbr type="BD"/> der alte.<lbr type="forced"/>
+<lbr type="forced"/>
+
+<rend class="latin">P: S:</rend> Die rechte <rend class="latin">Addresse</rend> an mich muß<lbr/>
+also se&#255;n.<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>___</ts><rend class="latin">Chez Mr: le Comte de Van Eyck Envoyé<lbr type="forced"/>
+<ts>___</ts>de Baviere. rue S:<h>te</h> Antoine à l'<lbr type="forced"/>
+<ts>___</ts>Hôtel<lbr type="BD"/> de Beauvais</rend>.<lbr type="forced"/>
+<lbr type="forced"/>
+Es ist noch anzumercken, daß Sie feines<lbr/>
+Pappier nehmen, denn alle Briefe<lbr type="BD"/> werden<lbr/>
+gewogen, und erstaunlich theuer taxiert.<lbr/>
+Lassen sie den Herrn Johannes<lbr type="BD"/> nach und<lbr/>
+nach, was neues giebt, mit Gelegenheit,<lbr/>
+<u>klein</u> auf einen Bogen hin<lbr type="BD"/>schreiben; dann<lbr/>
+schreiben sie gleichwohl das, was sie mir zu<lbr/>
+schreiben haben<lbr type="BD"/> am Ende daran. Ich<lbr/>
+<pg n="12"/>
+habe keine Tituls nötig; der Brief mag<lbr/>
+einer Zeitung<lbr type="BD"/> ähnlich sehen. Es wird bald<lbr/>
+wieder ein Brief von mir zu Salzburg<lbr/>
+se&#255;n. Vor<lbr type="BD"/> zween Tagen hat uns ein<lbr/>
+Teutscher <choice><orig><rend class="latin"><amend value="Banquier">Baquier</amend></rend></orig><corr hand="diff" schr_id="57010">Banquier</corr></choice>&#160;<rend class="latin">Mr Hummel tracti</rend>ert,<lbr/>
+der den<lbr type="BD"/> Herrn Hafner kennet. Da waren<lbr/>
+nur Teutsche eingeladen: es waren aber mei<pc force="weak">=</pc><lbr/>stens lutherische Schweitzer. Morgen<lbr/>
+müssen wir zu der <rend class="latin">Marquise Villeroy</rend>,<lbr type="BD"/><lbr/>
+und zu der <rend class="latin">Comtesse de Lillebonne</rend>. &#8211; &#8211; &#8211; <lbr type="forced"/>
+</NI>
+</letter>
+</text>
+</MUP>

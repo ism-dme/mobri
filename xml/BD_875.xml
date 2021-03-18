@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2015">2015-5</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1445</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:40:58 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_875.mup">
+<letter bd="875"><HEADER id="1445">LEOPOLD MOZART AN MARIA ANNA VON BERCHTOLD ZU SONNENBURG IN ST. GILGEN<lbr/>
+SALZBURG, 2. SEPTEMBER 1785<lbr/>
+mit Nachschrift an Johann Baptist von Berchtold zu Sonnenburg</HEADER>
+<pg n="1"/>
+<ts>__________</ts><tshtm>__________________________________________________</tshtm><tspdf>\hfill </tspdf>Salzb<abbr type="curve">:</abbr> d<abbr v="en"/> 2<h>t<abbr v="en"/></h> Septemb<abbr type="curve">:</abbr><lbr type="forced"/>
+<ts>__________</ts><tshtm>__________________________________________________________________</tshtm><tspdf>\hfill </tspdf><u>1785.</u><lbr type="forced"/>
+Ich hoffe daß du vor 1 uhr schon im Hof, und vor 5 uhr<lbr/>
+glücklich und gesund<lbr type="BD"/> dein<abbr v="en"/> h<abbr type="curve">:</abbr> Gemahl und Kind<abbr v="er"/> in guter<lbr/>
+Gesundheit angetroff<abbr v="en"/> hast. So<lbr type="BD"/> betrübt mir deine Abreise<lbr/>
+war, so vergnügt habe mein<abbr v="en"/> ganz<abbr v="en"/> tag |: nur<lbr type="BD"/> von 12<lbr/>
+uhr bis 1 uhr augeno<abbr type="topline" expand="mm">m</abbr><abbr v="en"/> :| i<abbr type="topline" expand="mm">m</abbr>er in Gesellschaft des<lbr/>
+Leopoldl zugebracht. Ich küsse den h<abbr type="curve">:</abbr> Sohn von Herz<abbr v="en"/>,<lbr/>
+und lasse ihn bitt<abbr v="en"/> weg<abbr v="en"/><lbr type="BD"/> dem Prinz<abbr v="en"/> von Asturi<abbr v="en"/> ganz<lbr/>
+ausser Sorg<abbr v="en"/> zu leb<abbr v="en"/>, so wie ich hoffe,<lbr type="BD"/> daß auch du auf<lbr/>
+meine Sorge und Achtsamkeit für ihn alles Vertrau<abbr v="en"/><lbr/>
+haben<lbr type="BD"/> wirst, da ihr wisst, wie sehr ich das Kind liebe.<lbr/>
+Er war heute schon wied<abbr v="er"/><lbr type="BD"/> viel freundlicher und munterer<lbr/>
+als gestern, &#8211; gestern, weist du wohl, hat er<lbr type="BD"/> mir<lbr/>
+und uns all<abbr v="en"/> gar nicht gefall<abbr v="en"/>. Heut Nachmittag aber<lbr/>
+hat er wied<abbr v="er"/><lbr type="BD"/> frische Aug<abbr v="en"/>, und schläfft ganz sanft und<lbr/>
+ruhig: kurz! ich bin wied<abbr v="er"/> ganz<lbr type="BD"/> ruhig, und wünschte ihn<lbr/>
+so lange zu hab<abbr v="en"/>, bis ich ihn an d<abbr v="er"/> Hand nach<lbr type="BD"/> St. Gilg<abbr v="en"/><lbr/>
+führ<abbr v="en"/> könnte, da müsste ich fre&#255;lich noch etwa 10 Jahr leben,<lbr/>
+und<lbr type="BD"/> folglich müsste der Leopoldl mich und nicht ich ihn führen.<lbr/>
+Der both ist nicht<lbr type="BD"/> zu uns geko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>, und da ich schickte, war<lbr/>
+er nicht zu Hause. Morg<abbr v="en"/> frühe,<lbr type="BD"/> werde ihm also die<lbr/>
+<u>Haubenschachtl</u>, und eine Sauerbru<abbr type="topline" expand="nn">n</abbr>flasche mit <u>Meth</u><lbr type="BD"/> schicken,<lbr/>
+die Kinder soll<abbr v="en"/> des Leopoldels Gesundheit trink<abbr v="en"/>.<lbr type="forced"/>
+<u>Die Saurbru<abbr type="topline" expand="nn">n</abbr><lbr type="BD"/>flasche muß wied<abbr v="er"/> hereingeschikt werd<abbr v="en"/>, sie gehört<lbr/>
+der Na<abbr type="topline" expand="nn">n</abbr>dl.</u> &#8211; Hier<lbr type="BD"/> schicke den ersten Ko<abbr type="topline" expand="mm">m</abbr>oedi<abbr v="en"/>Zettl.<lbr/>
+Es ist eine ungeschickte Nachahmung<lbr type="BD"/> des Gr: <rend class="latin">Essex</rend>.<lbr type="forced"/>
+<lbr type="forced"/>
+Die Na<abbr type="topline" expand="nn">n</abbr>dl empfehlt sich beyd<abbr v="er"/>seits, wie auch die<lbr/>
+<rend class="latin">Monica</rend><lbr type="BD"/> und Tresel.<lbr type="forced"/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="2"/>
+<NS addr_id="73209"><ts>________________</ts>Liebster h<abbr type="curve">:</abbr> Sohn!<lbr type="forced"/>
+<lbr type="forced"/>
+Ich will sie nochmahl bitt<abbr v="en"/> weg<abbr v="en"/> dem Kind ohne alle Sorge<lbr/>
+zu se&#255;n, &#8211;<lbr type="BD"/> wir hab<abbr v="en"/> uns ja in nichts zu übere&#255;l<abbr v="en"/>:<lbr/>
+Sie hab<abbr v="en"/> 5 Kinder be&#255; sich, &#8211; und<lbr type="BD"/> das 6<h>te</h> ist hier unterdess<abbr v="en"/><lbr/>
+wohl versorgt, bis sie ein<abbr v="en"/> Entschluß fassen, die<lbr type="BD"/> Lena<lbr/>
+ist ohnehin draussen, und möchte für ihr du<abbr type="topline" expand="mm">m</abbr>es geschwäz<lbr/>
+noch zu<lbr type="BD"/> essen hab<abbr v="en"/>. &#8211; die <rend class="latin">Monica</rend> dörffte erst auf<lbr/>
+Michaeli einsteh<abbr v="en"/>. &#8211; die Nandl<lbr type="BD"/> ka<abbr type="topline" expand="nn">n</abbr><lbr/>
+behalt<abbr v="en"/>, &#8211; was hab<abbr v="en"/> wir also zu e&#255;len? Vielleicht weg<abbr v="en"/><lbr/>
+der Witte<lbr type="BD"/>rung? &#8211; ganz und gar nicht! &#8211; itzt ko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/><lbr/>
+erst die sichern täge, wo man,<lbr type="BD"/> we<abbr type="topline" expand="nn">n</abbr>s morgens schön ist,<lbr/>
+gewis Nachmittag von Reg<abbr v="en"/> und do<abbr type="topline" expand="nn">n</abbr>erwetter<lbr type="BD"/> sicher ist.<lbr/>
+Man ka<abbr type="topline" expand="nn">n</abbr> die letzt<abbr v="en"/> 14 täge dieses Monats, we<abbr type="topline" expand="nn">n</abbr> man<lbr/>
+ein<abbr v="en"/><lbr type="BD"/> schön<abbr v="en"/> Tag sieht, mit aller sicherheit reisen, da<lbr/>
+von 9 uhr Morgens bis<lbr type="BD"/> abends 4 <suppl hand="self" pos="supra">uhr</suppl> recht<lbr/>
+sehr warm ist. das ist also d<abbr v="er"/> Fall, we<abbr type="topline" expand="nn">n</abbr> sie glaub<abbr v="en"/><lbr/>
+und<lbr type="BD"/> wollen, daß der Leopoldl hinausgebracht werd<abbr v="en"/><lbr/>
+solle; und das lassen sie mir<lbr type="BD"/> da<abbr type="topline" expand="nn">n</abbr> über, ich werde es<lbr/>
+an einem Tag, wo ichs am sicherst<abbr v="en"/> theils weg<abbr v="en"/> d<abbr v="er"/><lbr type="BD"/> Witte<pc force="weak">=</pc><lbr/>rung, theils weg<abbr v="en"/> den Umständ<abbr v="en"/> des Kinds finde, ganz<lbr/>
+aufmerksa<abbr type="topline" expand="mm">m</abbr> besorg<abbr v="en"/>. kurz! das soll ihn<abbr v="en"/> allen nicht den<lbr/>
+mindest<abbr v="en"/> Ku<abbr type="topline" expand="mm">m</abbr>er mach<abbr v="en"/>,<lbr type="BD"/> da<abbr type="topline" expand="nn">n</abbr> ich werde selbst dabe&#255; se&#255;n.<lbr/>
+Will mir aber der h<abbr type="curve">:</abbr> Sohn den Leopoldl<lbr type="BD"/> heri<abbr type="topline" expand="nn">n</abbr> lass<abbr v="en"/>,<lbr/>
+so wird es mir ein Vergnüg<abbr v="en"/> se&#255;n <suppl hand="self" pos="supra">ihn</suppl> zu versorg<abbr v="en"/> und sie<lbr type="BD"/><lbr/>
+beko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/> das Kind |: we<abbr type="topline" expand="nn">n</abbr> es Gott erhalt<abbr v="en"/> will :| schon<lbr/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="3"/>
+<u>übertrückent</u>, wie<lbr type="BD"/> die Menscher sag<abbr v="en"/> hinaus, da es da<abbr type="topline" expand="nn">n</abbr> schon<lbr/>
+3 Viertljahr alt ist. die Nandl<lbr type="BD"/> bleibt be&#255; mir, und<lbr/>
+ich muß es sag<abbr v="en"/>, das Kind ist be&#255; ihr herrlich versorgt.<lbr type="BD"/><lbr/>
+daß ich alles mit freud<abbr v="en"/>, auf meine Köst<abbr v="en"/>, thun will, ver<pc force="weak">=</pc><lbr/>steht sich selbst.<lbr type="BD"/> Nun mög<abbr v="en"/> sie nach ihrer Einsicht und belieb<abbr v="en"/><lbr/>
+thun, wie sie es vorträglicher<lbr type="BD"/> find<abbr v="en"/>, da es ihn<abbr v="en"/> vor Aug<abbr v="en"/><lbr/>
+liegt, daß das Kind hier ganz allein versorgt<lbr type="BD"/> wird,<lbr/>
+draussen aber das Kindsmensch mit noch 4 and<abbr v="ern"/> od<abbr v="er"/><lbr/>
+wenigst 3 Kin<lbr type="BD"/>dern zu thun hat, und warhaftig der <rend class="latin">Carl</rend><lbr/>
+itzt seine Aufsicht braucht. Unter<lbr type="BD"/>dess<abbr v="en"/> mög<abbr v="en"/> sie in ein<lbr/>
+oder dem andern Falle <u>die Lena</u> behalt<abbr v="en"/>, damit sie<lbr type="BD"/> etwas<lbr/>
+zu essen hat, und daß sie nicht an ihrem Hayratsglück<lbr/>
+verhindert<lbr type="BD"/> wird, bis die <rend class="latin">Monica</rend> auf Michaeli, od<abbr v="er"/> im<lbr/>
+Falle das Kind hinausko<abbr type="topline" expand="mm">m</abbr>t,<lbr type="BD"/> etwa 8 od<abbr v="er"/> 10 täg früher<lbr/>
+mit uns hinausko<abbr type="topline" expand="mm">m</abbr>t. &#8211; Sie seh<abbr v="en"/>, liebster h<abbr type="curve">:</abbr><lbr type="BD"/> Sohn!<lbr/>
+es ka<abbr type="topline" expand="nn">n</abbr>, ohne übere&#255;lung, wie sie es gut befind<abbr v="en"/>, alles<lbr/>
+gethan werd<abbr v="en"/>,<lbr type="BD"/> &#8211; es ist alles überdacht! &#8211; Nur muß<lbr/>
+ich sie bitt<abbr v="en"/>, we<abbr type="topline" expand="nn">n</abbr> sie den Leopoldl<lbr type="BD"/> hinaus hab<abbr v="en"/> woll<abbr v="en"/>, mir<lbr/>
+die Zeit und alles zu überlass<abbr v="en"/>. der Both steht<lbr type="BD"/> vor mir!<lbr/>
+ich muß schlüss<abbr v="en"/>. wir <uu>alle</uu> küss<abbr v="en"/> sie <uu>alle</uu>.<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____________</ts><tshtm>_____________________________________</tshtm><tspdf>\hfill </tspdf>Mozart <abbr expand="manu propria">mp</abbr></NS>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="4"/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+</letter>
+</text>
+</MUP>

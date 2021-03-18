@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2011">2011-05</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=781</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:37:24 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_220.mup">
+<letter bd="220"><HEADER id="781">LEOPOLD MOZART AN MARIA ANNA MOZART IN SALZBURG<lbr/>
+MAILAND, 24. NOVEMBER 1770</HEADER>
+<pg n="1"/>
+<ts>_______________</ts><tshtm>_____________________________________</tshtm><tspdf>\hfill </tspdf>Ma&#255;land d<abbr v="en"/> 24<h>t<abbr v="en"/></h>&#160;<rend class="latin">Nov:</rend> 1770<lbr type="forced"/>
+<lbr type="forced"/>
+Ich habe dir nichts anders zu schreib<abbr v="en"/>, als, daß wir be&#255;de,<lbr/>
+Gott Lob, wohlauf<lbr type="BD"/> sind. dieß schreibe im Gr: <rend class="latin">Firmi</rend>anisch<abbr v="en"/> hause<lbr/>
+in E&#255;l; der Wolfg<abbr type="curve">:</abbr> hat itzt die<lbr type="BD"/> Hände voll zu thun, indem<lbr/>
+nun die Zeit anrücket, und er für d<abbr v="en"/>&#160;<rend class="latin">Primo uomo</rend><lbr type="BD"/> erst<lbr/>
+eine einzige <rend class="latin">Aria</rend> gemacht hat, weil er noch nicht hier ist,<lbr/>
+und doppelte<lbr type="BD"/> arbeit, will er nicht hab<abbr v="en"/>, folglich lieber seine<lbr/>
+Gegenwart erwart<abbr v="en"/>, um das<lbr type="BD"/> Kleid recht an den Leib zu<lbr/>
+mess<abbr v="en"/>. Eb<abbr v="en"/> habe dein schreib<abbr v="en"/> erhalt<abbr v="en"/>, und<lbr type="BD"/> alle Eure<lbr/>
+Lustbarkeit<abbr v="en"/> mit vergnüg<abbr v="en"/> gehört. Be&#255; h<abbr type="curve">:</abbr> Adlgasser<lbr/>
+bedanke<lbr type="BD"/> dich sa<abbr type="topline" expand="mm">m</abbr>t unserer Empf<abbr type="curve">:</abbr> für sein<abbr v="en"/> angenehm<abbr v="en"/><lbr/>
+Glückwunsch und versichere seine fr: daß sie wird bedient<lbr/>
+werd<abbr v="en"/>. <rend class="latin">addio</rend> wir küss<abbr v="en"/> dich 100000<lbr type="BD"/> mahl <abbr expand="und">u</abbr> bin<lbr/>
+dein alter<lbr type="forced"/>
+<ts>_______________________________</ts><tspdf>\hfill </tspdf>Mzt <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+An die ganze Salzb<abbr type="curve">:</abbr> Welt unsere Empf<abbr type="curve">:</abbr><lbr type="forced"/>
+<lbr type="forced"/>
+Ke<abbr type="topline" expand="nn">n</abbr>e ich die fr. Spizederin?<lbr/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal><lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="2"/>
+<vacat/></letter></text>
+</MUP>

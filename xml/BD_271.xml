@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2011">2011-05</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=833</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:37:44 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_271.mup">
+<letter bd="271"><HEADER id="833">LEOPOLD MOZART AN MARIA ANNA MOZART IN SALZBURG<lbr/>
+MAILAND, 18. DEZEMBER 1772<lbr/>
+mit Beilage von Wolfgang Amadé Mozart an Maria Anna (Nannerl) Mozart</HEADER>
+<pg n="1"/>
+<ts>__________________</ts><tshtm>__________________________________________________________</tshtm><tspdf>\hfill </tspdf>Mayland d<abbr v="en"/> 18 <u>ChristMth.</u><lbr type="forced"/>
+<ts>___________________</ts><tshtm>_______________________________________________________________________________</tshtm><tspdf>\hfill </tspdf><u>1772</u><lbr type="forced"/>
+Mein Compt: an alle gute freund und freundin<abbr v="en"/> in und ausser dem Hause<lbr/>
+wir Kissen euch Be&#255;de viel 10000 Mahl und verbleib dein alter<lbr type="forced"/>
+<ts>______________________</ts><tshtm>____________________________________________________________________</tshtm><tspdf>\hfill </tspdf>Mzt <abbr expand="manu propria">mp</abbr>.<lbr type="forced"/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal><lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="2"/>
+<postxt loc="bot" rot="180">Ich schreibe dieses heute freytags d<abbr v="en"/> 18<h>t<abbr v="en"/></h>, de<abbr type="topline" expand="nn">n</abbr> Morgen wird hart so viel<lbr type="BD"/> Zeit übrig</postxt>
+<postxt loc="lm" rot="90">bleib<abbr v="en"/> etwas zu schreib<abbr v="en"/>. In der frühe um halbe 10 uhr wird die<lbr type="BD"/> erste probe se&#255;n mit all<abbr v="en"/></postxt>
+Instrument<abbr v="en"/>. dieser täge war<abbr v="en"/> 3 <rend class="latin">Recitativ</rend> Prob<abbr v="en"/>.<lbr type="BD"/> Gestern Nachts ist erst<lbr/>
+<postxt loc="rm" rot="270">der <rend class="latin">Tenor</rend> angeko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>, und heute hat der Wolfg<abbr type="curve">:</abbr><lbr type="BD"/> 2 <rend class="latin">Arien</rend> für ihn gemacht, und hat ihm</postxt>
+<postxt loc="bot" rot="180">noch 2 zu mach<abbr v="en"/>. Sontag den 20<h>t<abbr v="en"/></h> ist<lbr type="BD"/> die zwe&#255;te probe, Erchtag d<abbr v="en"/> 22 die dritte</postxt>
+<postxt loc="lm" rot="90">Probe, Mittwoch d<abbr v="en"/> 23 die Hauptprobe. do<abbr type="topline" expand="nn">n</abbr>erstag und freytag nichts, am Samstag d<abbr v="en"/></postxt>
+26 die erste <rend class="latin">opera</rend>,<lbr type="BD"/> mit Gott, eb<abbr v="en"/> an dem Tag, da ihr dies<abbr v="en"/> Brief erhaltet.<lbr/>
+<postxt loc="rm" rot="270">dies schreibe ich be&#255;<lbr type="BD"/> d<abbr v="er"/> Nacht um 11 uhr, da d<abbr v="er"/> Wolfg<abbr type="curve">:</abbr> eb<abbr v="en"/> die 2<h>te</h>&#160;<rend class="latin">Tenor Arie</rend></postxt>
+<postxt loc="bot" rot="180">fertig hat. Am<lbr type="BD"/> Weinacht abend werd<abbr v="en"/> wir einem andächtig<abbr v="en"/></postxt>
+<postxt loc="lm" rot="90"><rend class="latin">Soupée</rend> be&#255; h<abbr type="curve">:</abbr>&#160;<abbr expand="von">v</abbr>&#160;<rend class="latin">Germani</rend><lbr type="BD"/> be&#255;wohn<abbr v="en"/>, die sich euch empfehl<abbr v="en"/> und euere Gegen=</postxt>
+wart wünsch<abbr v="en"/>. Morg<abbr v="en"/><lbr type="BD"/> speib<abbr v="en"/>, oha! speisen wir be&#255; h<abbr type="curve">:</abbr>&#160;<abbr expand="von">v</abbr> Ma&#255;r.<lbr/>
+<postxt loc="rm" rot="270">Nach der Tafl werde noch ein paar<lbr type="BD"/> Worte schreib<abbr v="en"/> könn<abbr v="en"/>. Heute sind wir</postxt>
+<postxt loc="bot" rot="180">be&#255; S<h>r</h>: <rend class="latin">Ex<abbr type="curve">:</abbr></rend> Gr: <abbr expand="von">v</abbr>&#160;<rend class="latin">Firmian</rend> gewes<abbr v="en"/><lbr type="BD"/> um unsere <rend class="latin">Gratulation</rend> weg<abbr v="en"/></postxt>
+<postxt loc="lm" rot="90">der erlangt<abbr v="en"/>&#160;<rend class="latin">Cardinal</rend>swürde S<h>r</h>: <rend class="latin">E<abbr type="topline" expand="mm">m</abbr>i<abbr type="topline" expand="nn">n</abbr>ez</rend><lbr type="BD"/> von Passau abzuleg<abbr v="en"/>. der</postxt>
+<rend class="latin">Currier</rend> von <rend class="latin">Rom</rend> ka<abbr type="topline" expand="mm">m</abbr> d<abbr v="en"/> 17 abends um Gebettleut<abbr v="en"/> hier<lbr/>
+<postxt loc="lm" rot="90">mit der Nachricht an. <rend class="latin">addio</rend> Lebts wohl.</postxt><lbr type="forced"/><lbr type="BD"/><lbr/>
+<object type="draw"></object><lbr type="forced"/>
+flieg hin zu meinem Kind<lbr type="forced"/>
+es se&#255; vorn od<abbr v="er"/> hint!<lbr type="forced"/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal><lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="3"/>
+<NI src="D-B"><NS type="NS" schr_id="39409" adr_id="48817">
+<add_ident>|: <rend class="latin">Wolfgang</rend> :|</add_ident>
+<lbr/>
+Ich hoffe, du wirst dich gut befinden meine liebe schwester. wen du diesen<lbr/><lbr type="BD"/>
+<postxt loc="loc" rot="180">Brief erhältst, meine liebe schwester, so geht denselbigen Abend meine liebe schwester</postxt><lbr type="BD"/>
+meine <rend class="latin">opera</rend> in <rend class="latin">scena</rend>. Denke auf mich meine liebe schwester, und bilde dir nur<lbr/><lbr type="BD"/>
+<postxt loc="loc" rot="180">meine liebe schwester kräftig ein, du siehest und hörst meine liebe schwester</postxt><lbr type="BD"/>
+sie auch. freulich ist es hart, weil es schon 11 Uhr ist, sonst glaube ich, und zweifle<lbr/><lbr type="BD"/>
+<postxt loc="loc" rot="180">gar nicht daß es be&#255;m tag liechter ist als zu ostern. meine liebe schwester</postxt><lbr type="BD"/>
+morgen speisen wir be&#255;m h<abbr type="curve">:</abbr>&#160;<abbr expand="von">v</abbr>. Ma&#255;er, und warum glaubst du? rathe &#8211; <lbr/><lbr type="BD"/>
+<postxt loc="loc" rot="180">weil er uns eingeladen hat. Die morgige probe ist auf dem Theater</postxt><lbr type="BD"/>
+Der <rend class="latin"><amend value="Impresario">Impresaria</amend></rend> aber der <rend class="latin">Sig: Castiglioni</rend> hat mich ersucht ich solle niemand nichts<lbr/><lbr type="BD"/>
+<postxt loc="loc" rot="180">darvon sagen, da<abbr type="topline" expand="nn">n</abbr> sonst lauffeten alle leute hinein, und das wollen wir nicht</postxt><lbr type="BD"/>
+also mein Kind Ich bitte dich sage niemanden nichts davon mein Kind, den<lbr/><lbr type="BD"/>
+<postxt loc="loc" rot="180">sonst lauffeten zu viell heute hinein mein Kind. <rend class="latin">approposito</rend>, weist</postxt><lbr type="BD"/>
+du schon die historie die hier vorgegangen ist? nun will ich sie dir Erzählen<lbr/><lbr type="BD"/>
+<postxt loc="loc" rot="180">wir giengen heut von Graf <rend class="latin">firmian</rend> weg um nach haus zu gehen, und als</postxt><lbr type="BD"/>
+wir in<tshtm>___________________________________________________________</tshtm> unser gassen ka<abbr type="topline" expand="mm">m</abbr>en, so<lbr/><lbr type="BD"/>
+<postxt loc="loc" rot="180">machten wir unsere hausthür auf, und was meinst du wohl waß sich zugetragen</postxt><lbr type="BD"/>
+wir giengen hinein. lebe wohl, mein lungel, Ich küsse Dich, meine leber,<lbr/><lbr type="BD"/>
+<postxt loc="loc" rot="180">und bleibe wie allzeit mein magen, dein unwürdiger bruder Wolfgang</postxt><lbr type="BD"/>
+<postxt loc="loc" rot="180"><ts>__________________________________________________________________________________</ts><rend class="latin">Frater</rend></postxt><lbr type="BD"/>
+bitte bitt meine liebe schwester mich beists, kraze mich.</NS>
+</NI>
+</letter>
+</text>
+</MUP>

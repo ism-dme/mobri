@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2013">2013-12</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1192</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Privatbesitz</bibl>
+            <bibl type="source" subtype="RISM">Privatbesitz</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:39:53 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_626.mup">
+<letter bd="626"><NI src="Privat"><HEADER id="1192">WOLFGANG AMADÉ MOZART AN LEOPOLD MOZART IN SALZBURG<lbr/>
+WIEN, 19. SEPTEMBER 1781<lbr/>
+Mit dem Text der Arie ”Ach ich liebte“ aus der Oper <rend class="latin">Die Entführung aus dem Serail</rend> KV 384 von der Hand Constanze Webers</HEADER>
+<pg n="1"/>
+<ts>__________</ts><tshtm>_________</tshtm><rend class="latin">Mon trés cher Pére!</rend><lbr type="forced"/>
+Verzeihen sie mir we<abbr type="topline" expand="nn">n</abbr> sie diesmal ein wenig mehr für den<lbr/>
+brief zahlen<lbr type="BD"/> müssen; &#8211; ich hab ihnen doch wenigstens eine <rend class="latin">idèe</rend><lbr/>
+vom Ersten ackt geben<lbr type="BD"/> wollen; um auf das ganze schlüssen<lbr/>
+zu kö<abbr type="topline" expand="nn">n</abbr>en. &#8211; und mit weniger hätte<lbr type="BD"/> ich es nicht machen kö<abbr type="topline" expand="nn">n</abbr>en.<lbr/>
+Ich hoffe ihr schwindel wird nachlassen; &#8211; wegen<lbr type="BD"/> meiner schwester<lbr/>
+haben sie mich, weil es so unerwartet war, ziemlich er<lbr type="BD"/>schreckt;<lbr/>
+ich hoffe sie wird sich nun besser befinden. &#8211; ich küsse sie 1000mal<lbr type="BD"/><lbr/>
+und ihnen küsse ich 100mal die hände und bin Ewig dero<lbr type="forced"/>
+<add_note type="inline" schr_id="57010">Daß diese Seite die Handschrift W. A. Mozarts,</add_note><lbr/>
+<add_note type="inline" schr_id="57010">(gestorben 1791.) ist, bezeugt hiemit seine Witwe, um den</add_note><lbr type="forced"/>
+<add_note type="inline" schr_id="57010">Herrn D.<h>r</h> Feuerstein deswegen zu vergewissern.</add_note><ts>____</ts><tspdf>\hfill </tspdf>gehorsamster Sohn<lbr type="BD"/><lbr type="forced"/>
+<add_note type="inline" schr_id="57010"><ts>_____</ts>Salzburg 4 Febr, 1826.</add_note><ts>___</ts><add_note type="inline" schr_id="48818"><rend class="latin">Constance Nissen</rend></add_note><ts>___________</ts><tspdf>\hfill </tspdf>W. A. <uu>Mzt <abbr expand="manu propria">mp</abbr></uu><lbr type="forced"/>
+<add_note schr_id="57010">Daß Vorstehendes die Unterschrift seiner vormals <suppl type="supra">W. A.</suppl> Mozarts,<lbr/>
+(gestorben 1791) Gattinn ist, bezeugt <u><rend class="latin">Nissen</rend></u>, Ritter vom Dannebrog, k.dän.wirkl. Etatsrath) <suppl hand="self" pos="supra">und</suppl> gewesener <rend class="latin">Chargé d'affaires</rend> am kais.oesterr. Hofe.</add_note>
+<lbr/>
+<add_note schr_id="73473"><rend class="latin">Constance Nissen<lbr/>has made a mistake<lbr/>should be </rend>1781</add_note>
+<pg n="2"/>
+<tspdf><lbr type="forced"/></tspdf>
+<NS schr_id="48818"><tshtm>_________________</tshtm><rend class="latin">aria, costanza</rend><lbr type="forced"/>
+<lbr type="forced"/>
+ach, ich liebte,<lbr type="forced"/>
+war so glücklig,<lbr type="forced"/>
+ka<abbr type="topline" expand="nn">n</abbr>te nicht der liebe schmerz:<lbr type="forced"/>
+schwur ihm treue<lbr type="forced"/>
+dem geliebten,<lbr type="forced"/>
+gab dahin mein ganzes Herz,<lbr type="forced"/>
+doch im Hui schwand meine freude<lbr type="forced"/>
+<ts>___</ts>Tre<abbr type="topline" expand="nn">n</abbr>ung war mein banges loos;<lbr type="forced"/>
+<ts>___</ts>und nun schwi<abbr type="topline" expand="mm">m</abbr>t mein Aug' in thränen<lbr type="forced"/>
+<ts>___</ts>ku<abbr type="topline" expand="mm">m</abbr>er ruht in meinem schoos;</NS><lbr type="forced"/>
+<add_note schr_id="57010">Diese Seite ist nicht Mozarts Handschrift,<lbr/>
+aber die umstehende.</add_note>
+<lbr/>
+<add_note schr_id="48818">See my first Edition of <lbr/>
+<ts>___</ts>the opera page 83 &#38; Jahn Vol. 2 pag. 226<lbr/>
+<lbr/>
+See page 201<lbr/>
+Holmes, Life</add_note>
+<pg n="3"/>
+<add_note schr_id="52059">Diese Zeilen schrieb W. A. Mozart seinem Vater, als er ihm<lbr/>
+eine Abschrift vom 1<h><uu>tn</uu></h> Acte seiner Oper: Entführung aus dem<lbr/>
+Serail schikte.<ts>_________________________________________</ts>D. Feuerstein</add_note></NI>
+</letter>
+</text>
+</MUP>

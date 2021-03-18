@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2020">2020-01</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=593</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Verbleib unbekannt (Vorlage: Abschrift um 1768 in D-B)</bibl>
+            <bibl type="source" subtype="RISM">Verbleib unbekannt, Vorlage: Abschrift um 1768 in D-B</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:36:26 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_35.mup">
+<letter bd="35">
+<NI src="unbekannt">
+<HEADER id="593">LEOPOLD MOZART AN LORENZ HAGENAUER IN SALZBURG<lbr/>
+WIEN, 19. OKTOBER 1762</HEADER>
+<pg n="1"/>
+<tshtm><additum>[... (Schluss der Abschrift des Briefes vom 3. Oktober 1762)]<lbr/>
+<lbr/></additum></tshtm>
+<add_note schr_id="39408" loc="lm"><u>NB</u> hier fehlt ein Brief, in welchem ich Nachricht gab<lbr/>
+daß der <persName key="83515">geheimde Zahlmeister</persName> am Theresia Tag uns 2 Kleid<abbr v="er"/><lbr/>
+für mein<abbr v="en"/>&#160;<persName key="39409">Sohn</persName>&#160;<abbr expand="und">u</abbr>&#160;<persName key="48817">Tochter</persName> von S:<h>r</h> Mst d<abbr v="er"/> <persName key="56108">Kayserin</persName> überbrachte.</add_note>
+<add_note schr_id="57010" loc="lm">NB. der Brief liegt hierin.</add_note>
+<add_num schr_id="57010" impl="ink"><ts>___________________________________________________________________</ts>N. 3.</add_num>
+<ts>_________</ts><tspdf>_____________</tspdf><tspdf>\hfill </tspdf>Wien den 19<h>tn</h>&#160;<rend class="latin">octobris</rend> 1762.<lbr type="forced"/>
+<lbr type="forced"/>
+Mit der vorigen Post werden sie mein Schreiben<lbr/>
+erhalten haben. Heut wurde<lbr type="BD"/> ich in der fruhe zum<lbr/>
+<persName key="83515">geheimen Zahlmeister</persName> gerufen, Er empfieng mich<lbr/>
+mit<lbr type="BD"/> der grösten Höflichkeit. <persName key="52280">S:<h>r</h> Maiestät</persName> ließ mich<lbr/>
+fragen, ob ich nicht noch einige<lbr type="BD"/> zeit hier mich aufhalten könnte.<lbr/>
+<pg n="2"/>
+Ich ließ mich <persName key="52280">S:<h>er</h> Maiestät</persName> unterthänigst zu<lbr type="BD"/> Füssen Legen, Der<lbr/>
+<persName key="83515">zahlmeister</persName> zahlte mir dann 100. Dukaten mit dem Be&#255;satz:<lbr type="BD"/><lbr/>
+daß <persName key="52280">S:<h>e</h> Maiestät</persName> uns bald wieder ruffen werden. ich mag es<lbr/>
+betrachten, wie ich<lbr type="BD"/> es i<abbr type="topline" expand="mm">m</abbr>er will, so sehe ich vor, daß ich vor dem<lbr/>
+<rend class="latin">Advent</rend> kaum nach Hause<lbr type="BD"/> ko<abbr type="topline" expand="mm">m</abbr>en werde, allein ich werde schon<lbr/>
+vorhero noch wegen Verlängerung der<lbr type="BD"/> Erlaubniß bitten.<lbr/>
+denn ich muß wenn ich auch in 14 Tägen oder 3. Wochen<lbr type="BD"/><lbr/>
+von hier weggehen könnte, wegen der <persName key="48817 39409">Kinder</persName> langsam<lbr/>
+reisen, damit sie zu<lbr type="BD"/> zeiten ein paar Täge ausrasten,<lbr/>
+und nicht krank werden. <tshtm>_____</tshtm><u>Die 100. Stück Kais<abbr type="curve">:</abbr><lbr type="BD"/> Dukaten</u><lbr/>
+habe, nebst noch 20. Stück an <persName key="83793">H: Peiser</persName> auf ihre Rechnung<lbr/>
+bezahlet. Wenn ich einen guten Wagen um einen ehrlichen<lbr/>
+Preiß erhandlen kann;<lbr type="BD"/> so bin ich gesinnet einen zu er<pc force="weak">=</pc><lbr/>kaufen, um meinen Kindern mehr Bequemlich<lbr type="BD"/>keit zu ver<pc force="weak">=</pc><lbr/>schaffen. Heut waren wir be&#255; dem <persName key="83517">Franz<abbr type="curve">:</abbr> Bottschafter</persName>.<lbr/>
+Morgen sind<lbr type="BD"/> wir von 4. Uhr bis 6. Uhr zum <persName key="75425">Graf<lbr/>
+Harrach</persName> bestelt; ich weis es aber nicht zu<lbr type="BD"/> was für einem,<lbr/>
+Ich werde es wohl sehen, wo mich der Wagen hinführet,<lbr/>
+denn<lbr type="BD"/> aller orten werden wir durch die Herrschaftl:<lbr/>
+Wägen mit einem Bedienten<lbr type="BD"/> abgehollet, und so wieder<lbr/>
+nach Hause bedienet. von 6 Uhr: oder halbe 7. Uhr<lbr type="BD"/> aber<lbr/>
+bis 9. Uhr sind wir zu einer Grossen <rend class="latin">Academiè</rend> für<lbr/>
+6. Dukaten veraccordirt,<lbr type="BD"/> die ein gewisser Reicher vom<lbr/>
+Adl hält, und wobe&#255; die grösten <rend class="latin">Virtuosen</rend>, die<lbr type="BD"/> dermal<lbr/>
+<pg n="3"/>
+in Wien sind, sich <rend class="latin">produci</rend>ren werden. Die Herrschaften be<pc force="weak">=</pc><lbr/>stellen uns<lbr type="BD"/> schon zu 4. 5. 6. bis 8 Täg zum Voraus, um nicht<lbr/>
+zu spät zu ko<abbr type="topline" expand="mm">m</abbr>en. wie wir<lbr type="BD"/> denn von oberst=Postmeister<lbr/>
+<persName key="77768">Graf <choice><orig><rend class="latin">Bar</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">Paar</rend></corr></choice></persName> schon auf künftigen Montag ver<lbr type="BD"/>stellet sind.<lbr/>
+Nun fahrt der <persName key="39409">Woferl</persName> genug spatzieren, zwe&#255;mal des<lbr/>
+Tags<lbr type="BD"/> wenigst. Einmal sind wir um halbe 3. Uhr an ein<lbr/>
+Ort gefahren, da waren wir bis<lbr type="BD"/> dre&#255; viertl auf vier<lbr/>
+Uhr, von dort ließ uns der <persName key="83518">Graf <rend class="latin">Hardek</rend></persName> mit seinem<lbr/>
+Wagen<lbr type="BD"/> hollen, und zu einer <rend class="latin">Dame</rend> in vollen <rend class="latin">Gallopp</rend> führ<abbr v="en"/>,<lbr/>
+wo wir bis halbe 6. Uhr<lbr type="BD"/> blieben. Von da ließ uns der <persName key="76134">Graf<lbr/>
+<rend class="latin">Kaunitz</rend></persName> abhollen, be&#255; dem wir bis gegen<lbr type="BD"/> 9. Uhr waren,<lbr/>
+Ich kann kaum schreiben; Feder und Dinten be&#255;de sind<lbr/>
+ellend,<lbr type="BD"/> und zum Schreiben mus ich die zeit stehlen. Neues<lbr/>
+kann ich ihnen <rend class="latin">absolute</rend><lbr type="BD"/> Nichts schreiben, denn hier wird<lbr/>
+so wenig vom Krieg gesprochen; als wenn<lbr type="BD"/> kein Krieg<lbr/>
+wäre. Ich habe in meinem Leben nicht weniger von<lbr/>
+zeitung gehört,<lbr type="BD"/> und gewust, als die 4. bis 5. Wochen,<lbr/>
+als ich von Salzburg weg bin. von ihnen<lbr type="BD"/> möchte ich<lbr/>
+vielmehr eine zeitung hören, Wenigstens hoffe ich,<lbr/>
+Sie sollten mir<lbr type="BD"/> etwas berichten können. Sind <persName key="59220">Se: Hochfrstl:<lbr/>
+Gnaden</persName> schon zu Hause? &#8211; &#8211; Ich<lbr type="BD"/> hoffe Höchst<rend class="latin">dieselben</rend><lbr/>
+werden sich wohl befinden. Sind Tit<abbr type="curve">:</abbr> S:<h>e</h>&#160;<rend class="latin">Excell:</rend>&#160;<persName key="79054">Graf<lbr type="BD"/><lbr/>
+<rend class="latin">Spauer</rend></persName> in Salzburg, ich glaube, ja! &#8211; &#8211; ich habe ihm<lbr/>
+<pg n="4"/>
+von Linz geschrieben.<lbr type="BD"/> Wie leben Ihro Hochwürden und<lbr/>
+Gnaden <persName key="83663">h<abbr type="curve">:</abbr> Beichtvater</persName>? &#8211; &#8211; Ich bitte mit<lbr type="BD"/> Gelegenheit<lbr/>
+mich demselben gehorsamb: anzuempfehlen. Die <persName key="75368">Frau<lbr/>
+Gemahlin</persName><lbr type="BD"/> wird hoffentlich samt allen lieben angehörigen<lbr/>
+sich im besten Wohlse&#255;n<lbr type="BD"/> befinden, ich empfehle mich ihr,<lbr/>
+wissen sie wer unserm <persName key="51861"><rend class="latin">Estlinger</rend></persName> begegnet<lbr type="BD"/> ist? &#8211; der<lbr/>
+<persName key="84676">Hellbru<abbr type="topline" expand="nn">n</abbr>er Wirth</persName>: Er sprach eine Gute zeit mit ihm.<lbr/>
+Vor allem<lbr type="BD"/> aber wissen Sie, wo ich wohne? &#8211; Ich wohne<lbr/>
+<u>in Fierberggaßl ohnweit der<lbr type="BD"/> hochen Bruken im Tischler<pc force="strong">=</pc><lbr/>Hause im ersten Stock.</u> Das zi<abbr type="topline" expand="mm">m</abbr>er ist 1000 Schritt<lbr type="BD"/><lbr/>
+lang, und 1. Schritt breit. &#8211; Sie lachen? &#8211; uns ist es<lbr/>
+in der That nicht lächerlich,<lbr type="BD"/> wenn wir einander auf die<lbr/>
+Hü<abbr type="topline" expand="nn">n</abbr>er Augen tretten. Noch weniger ist es lächerlich,<lbr/>
+wenn mich der <persName key="39409">Bub</persName>, und <persName key="48815">meine Frau</persName> das <persName key="48817">Mädl</persName> wo<lbr/>
+nicht über das arm<lbr type="BD"/>selige Beth herunterwerfen,<lbr/>
+doch auch uns wenigst alle Nacht ein paar Rippen<lbr type="BD"/><lbr/>
+eintretten. jedes unserer Bether hat meine<lbr/>
+4 und <formula type="mfrac"><mn>1</mn><mi>2</mi></formula> Spann: und dieser<lbr type="BD"/> erstaunliche Pallast<lbr/>
+ist noch durch eine Wand in 2. Theile getheilt,<lbr/>
+in deren<lbr type="BD"/> jeden eines dieser grossen Bether stehet,<lbr/>
+gedult! wir sind in Wien. <persName key="48815">Meine Frau</persName><lbr type="BD"/> möchte<lbr/>
+so gern ihren stoffenen Pölz hier haben, allein wir<lbr/>
+besorgen es möchte<lbr type="BD"/> mit dem Postwagen zu viel<lbr/>
+kosten, und dabe&#255; möchte er verdorben werden.<lbr type="BD"/><lbr/>
+<pg n="5"/>
+Er ist im Kasten im <rend class="latin">Cabinetl</rend>. allein, da ich ohnehin gedenke<lbr/>
+in Salzburg ihr<lbr type="BD"/> einen neuen auf die Fest=Täge machen zu<lbr/>
+lassen, und den stoffenen ihr für<lbr type="BD"/>&#160;<rend class="latin">ordinaire</rend> tragen zu:<lbr/>
+lassen; so wird es besser se&#255;n ihr hier etwas anzuschaf<lbr type="BD"/>fen,<lbr/>
+weil man hier alles nach der Wahl haben kann. <tshtm>_____</tshtm>Wollen<lbr/>
+Sie wissen wie<lbr type="BD"/> des <persName key="39409">Woferl</persName> Kleid aussiehet? &#8211; Es ist solches<lbr/>
+vom feinsten Tuch <rend class="latin">liloa</rend>-Farb,<lbr type="BD"/> Die <rend class="latin">Veste</rend> von <rend class="latin">Moar</rend><lbr/>
+nämlicher Farbe, Rock und Kamisol mit Goldborten breit<lbr type="BD"/><lbr/>
+und doppelt bordieret. Es war für den <persName key="56240">Prinz Maxmilian</persName><lbr/>
+gemacht, der <persName key="48817">Nanerl</persName><lbr type="BD"/> ihr Kleid war das Hofkleid einer<lbr/>
+Prinzessi<abbr type="topline" expand="nn">n</abbr>. Es ist weiß <rend class="latin">brochie</rend>rter Tafet<lbr type="BD"/> mit allerhand<lbr/>
+<rend class="latin">garnie</rend>rungen. Es ist schade, daß man nichts anders als<lbr/>
+einen<lbr type="BD"/>&#160;<rend class="latin">gottillion</rend> hat darausmachen können, allein ein<lbr/>
+Miederl ist auch darbe&#255;. <tshtm>_____</tshtm>Das<lbr type="BD"/> Papier ist voll,<lbr/>
+die zeit vorbe&#255;. der ganzen salzburg<abbr type="curve">:</abbr> Welt meine<lbr/>
+Empfehlung<lbr type="BD"/> und ich bin.<lbr type="forced"/>
+<lbr type="forced"/>
+<tshtm><additum>[... (Beginn der Abschrift des Briefes vom 30. Oktober 1762)]</additum></tshtm>
+</NI>
+</letter>
+</text>
+</MUP>

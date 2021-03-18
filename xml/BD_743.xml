@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2014">2014-6</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1311</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">F-Nm (S. 1-2); A-Sm (S. 3-4)</bibl>
+            <bibl type="source" subtype="RISM">F-Nm (Bibliothèque municipale), S. 1-2</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana), S. 3-4</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:40:24 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_743.mup">
+<letter bd="743"><HEADER id="1311">WOLFGANG AMADÉ MOZART AN LEOPOLD MOZART IN SALZBURG<lbr/>
+WIEN, 3. MAI 1783</HEADER>
+<NI src="F-Nm">
+<pg n="1"/>
+<add_num type="inline">667</add_num><tshtm>____</tshtm><rend class="latin">Mon très cher Pére!</rend><ts>__________</ts><tshtm>_________________________</tshtm><add_num type="inline"><u>259</u></add_num><ts>______</ts><tspdf>\hfill </tspdf><u><rend class="latin">vie<abbr type="topline" expand="nn">n</abbr>e</rend></u>&#160;<u>im Prater</u>&#160;<rend class="latin">ce</rend> 3 <rend class="latin">de may</rend><lbr type="forced"/>
+<ts>__________________</ts><tshtm>________________________________________________________________________________________________</tshtm><tspdf>\hfill </tspdf><uu>1783</uu><lbr type="forced"/>
+<add_num type="inline"><ts>_________________________________________________________________________________________________________</ts><u>259</u></add_num><lbr type="forced"/>
+Ich ka<abbr type="topline" expand="nn">n</abbr> mich ohnmöglich entschlüssen so frühe in die Stadt hinein zu fahren.<lbr type="BD"/><lbr/>
+&#8211; das Wetter ist gar zu schön &#8211; und im Prater ist es heute gar zu ange<pc force="weak">=</pc><lbr/>nehm. &#8211;<lbr type="BD"/> wir haben heraus gespeist, und bleiben also noch bis abends 8 oder<lbr/>
+Neun<lbr type="BD"/> uhr. &#8211; Meine ganze gesellschaft besteht in meinen schwangern<lbr/>
+Weiberl &#8211;<lbr type="BD"/>&#160;<u>und ihre</u> &#8211; in ihrem nicht schwangern aber fetten gesunden<lbr/>
+Ma<abbr type="topline" expand="nn">n</abbr>erl. &#8211; Ich<lbr type="BD"/> bin gleich zum Hr: Peisser um habe mir die <rend class="latin">adresse</rend> an<lbr/>
+<rend class="latin">banquier</rend> Schefler<lbr type="BD"/> geben lassen. &#8211; bin auch gleich zu den bena<abbr type="topline" expand="nn">n</abbr>ten<lbr/>
+<rend class="latin">Banquier</rend>. &#8211; sie wissen aber<lbr type="BD"/> gar nichts von einem kaufma<abbr type="topline" expand="nn">n</abbr>ssohne<lbr/>
+der <rend class="latin">Rosa</rend> heissen, und an sie <rend class="latin">adressirt</rend><lbr type="BD"/> se&#255;n kö<abbr type="topline" expand="nn">n</abbr>te; &#8211; ich habe ihnen zur<lbr/>
+sicherheit meine <rend class="latin">adress</rend> dort gelassen; &#8211;<lbr type="BD"/> Nun werde ich sehen was geschehn<lbr/>
+wird. &#8211; wegen mehrern schreiben, und der<lbr type="BD"/>&#160;<rend class="latin">varierten arie</rend> müssen<lbr/>
+sie schon heute gedult haben &#8211; im Prater lässt sich das<lbr type="BD"/> natürlicher<lbr/>
+weise nicht thun &#8211; und das schöne Wetter ka<abbr type="topline" expand="nn">n</abbr> ich wegen mein<lbr type="BD"/> lieben<lbr/>
+Weiberl nicht verloren gehen lassen. &#8211; <rend class="latin">Comotion</rend> ist ihr<lbr/>
+gesund. &#8211; ich<lbr type="BD"/> habe ihnen heute also nur im Wenigen geschrieben<lbr/>
+daß wir be&#255;de gott lob<lbr type="BD"/> gesund sind, und ihren letzten brief richtig<lbr/>
+erhalten haben. &#8211; Nun leben sie<lbr type="BD"/> recht wohl. wir küssen<lbr/>
+ihnen 1000mal die hände und unsre liebe schwester<lbr type="BD"/> umarmen<lbr/>
+wir von herzen und sind Ewig dero<lbr type="forced"/>
+<lbr type="forced"/>
+<add_prov schr_id="39407"><rend class="latin">Je certifie, que cette lettre est<lbr/>
+de mon pêre</rend></add_prov>
+<add_prov type="inline"><ts>___________________</ts><rend class="latin">W A Mozart mp</rend></add_prov><ts>____</ts><tshtm>_______________________</tshtm><tspdf>\hfill </tspdf>gehorsame kinder<lbr type="forced"/>
+<add_prov type="inline"><rend class="latin">Vie<abbr type="topline" expand="nn">n</abbr>e ce</rend> 4 <rend class="latin">Janvier</rend>&#160;<abbr type="topline">840</abbr>.</add_prov><ts>____</ts><tshtm>_____________________________</tshtm><tspdf>\hfill </tspdf>W. A: und C: Mozart <abbr expand="manu propria">mp</abbr>.<lbr type="forced"/>
+<lbr/>
+<add_seal type="owner">BIBLIOTHEQUE PUBLIQUE NANTES<lbr/>
+MSS:</add_seal>
+<pg n="2"/>
+<vacat/>
+</NI>
+<pg n="3"/>
+<add_prov schr_id="49553"><ts>_____</ts><rend class="latin">Autographen</rend> des unsterblichen<lbr type="forced"/>
+<rend class="latin">W. A. Mozart</rend>; aus dem Nachlasse von<lbr type="forced"/>
+deßen in <rend class="latin">Carlsbad</rend> 1844 verstorbenen Sohnes<lbr type="forced"/>
+<ts>_________________________________</ts>J. Baroni=Cavalcabò <abbr_mp expand="manu propria">mp</abbr_mp><lbr type="forced"/>
+<ts>____________________________________</ts>Castiglioni<lbr type="forced"/>
+<ts>____________________________________</ts>Wien am<lbr type="forced"/>
+<ts>____________________________________</ts>26<h><uu>t</uu></h> Jänner <abbr expand="1857">857</abbr>.</add_prov>
+<add_note loc="loc" rot="180" hand="diff" schr_id="93408" impl="pencil">1783<lbr type="forced"/>
+d<abbr type="curve"></abbr> 3 Ma&#255;</add_note><lbr type="forced"/>
+<anschrift><rend class="latin">À<lbr type="forced"/>
+Monsieur<lbr type="forced"/>
+Monsieur Leopold de Mozart<lbr type="forced"/>
+Maitre de la Chapelle de S: A: R:<lbr type="forced"/>
+L’archeveque de et à<lbr type="forced"/>
+Salzbourg</rend>.</anschrift>
+<pg n="4"/>
+<vacat/>
+</letter></text>
+</MUP>

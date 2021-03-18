@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2015">2015-11</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=885</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Wn</bibl>
+            <bibl type="source" subtype="RISM">A-Wn (Österreichische Nationalbibliothek)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:38:03 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_323.mup">
+<letter bd="323" lang="it">
+<NI src="A-Wn">
+<HEADER id="885">WOLFGANG AMADÉ MOZART AN PADRE GIOVANNI BATTISTA MARTINI IN BOLOGNA<lbr/>
+SALZBURG, 5. SEPTEMBER 1776<lbr/>
+Geschrieben von Leopold Mozart</HEADER>
+<pg n="1"/>
+<rend class="latin"><ts>_____</ts>Molto Rev:<h>do</h> Pad:<h>e</h> Maestro<lbr type="forced"/>
+<ts>__________</ts>Padrone mio Stimatss:<h>mo</h><lbr type="forced"/>
+<lbr type="forced"/>
+La Venerazione, la Stima ed il Rispetto, che porto verso la di lei degnissima<lbr type="BD"/><lbr/>
+Persona mi spinse di inco<abbr type="topline" expand="mm">m</abbr>odarla colla presente e di mandargli un debole<lbr type="BD"/><lbr/>
+Pezzo di mia Musica, rimettendola alla di lei maestrale Guidicatura.<lbr/>
+Scrissi<lbr type="BD"/> l'a<abbr type="topline" expand="nn">n</abbr>o scorso il Carnevale una opera buffa |: La finta Giardiniera :|<lbr/>
+à Monaco<lbr type="BD"/> in Baviera. Pochi giorni avanti la mia partenza di là<lbr/>
+desiderava S: A: Elettorale<lbr type="BD"/> di sentire qualche mia Musica in contrapunto:<lbr/>
+ero adunque obligato di scriver<lbr type="BD"/> questo Mottetto in fretta per dar Tempo à<lbr/>
+copiar il Spartito per Sua Altezza,<lbr type="BD"/> ed à cavare le Parti per poter produrlo<lbr/>
+la prossima Domenica sotto la Messa<lbr type="BD"/> grande in tempo del Offertorio.<lbr/>
+Cariss:<h>mo</h> e Stimatss:<h>mo</h> Sgr: P: Maestro! Lei<lbr type="BD"/> è ardentamente pregato di<lbr/>
+dirmi francamente, e senza riserva, il di lei parere.<lbr type="BD"/> Viviamo in questo<lbr/>
+mondo per imparare sempre industriosamente, e per mezzo<lbr type="BD"/> dei raggionamenti<lbr/>
+di illu<abbr type="topline" expand="mm">m</abbr>inarsi l'un l'altro, e d'affatigarsi di portar via<lbr type="BD"/> sempre avanti le<lbr/>
+scienze e le belle arti. Oh quante e quante volte desidero<lbr type="BD"/> d'esser piu<lbr/>
+vicino per poter parlar e raggionar con Vostra Paternità molto<lbr type="BD"/> Rev:<h>da</h>.</rend><lbr type="forced"/>
+<pg n="2"/>
+<rend class="latin">vivo in un Paese dove la Musica fa pocchissima Fortuna, benche<lbr/>
+oltra<lbr type="BD"/> di quelli, chi ci ha<abbr type="topline" expand="nn">n</abbr>o abandonati, ne abbiamo ancora bravissimi<lbr/>
+Professori e<lbr type="BD"/> particolarmente compositori di gran Fondo, sapere, e<lbr/>
+gusto. Per il Teatro<lbr type="BD"/> stiamo male, per mancanza dei Recitanti.<lbr/>
+Non abbiamo Musici, e non gli<lbr type="BD"/> averemo si facilmente, gia che<lbr/>
+vogliono esser ben pagati: e la Generositá non<lbr type="BD"/> è il nostro diffetto.<lbr/>
+Io mi diverto intanto à scrivere per la Camera e per la<lbr type="BD"/> chiesa:<lbr/>
+e ne son quivi altri due bravissimi Contrapuntisti, cio è il Sgr: Haydn<lbr type="BD"/><lbr/>
+e Adlgasser. Il mio Padre è Maestro della chiesa Metropolitana,<lbr/>
+che mi da<lbr type="BD"/> l'occasione di scrivere per la chiesa, quanto che ne voglio.<lbr/>
+per altro essendo il<lbr type="BD"/> mio Padre <u>gia 36 a<abbr type="topline" expand="nn">n</abbr>i in Servizio di questa Corte,<lbr/>
+e sapendo, che questo<lbr type="BD"/> Arcivescovo non può e non vuol vedere gente<lbr/>
+avanzata in Età</u>, non lo se ne<lbr type="BD"/> prende à Core, si è messo alla Letteratura<lbr/>
+per altro già suo studio favorito.<lbr type="BD"/> la nostra Musica di chiesa è assai<lbr/>
+differente di quella d'Italia, e sempre piu,<lbr type="BD"/> che una Messa con tutto = <lbr/>
+Il <u>Kyrie</u>, <u>Gloria</u>, <u>Credo,</u> la <u>Sonata all' Epistola</u>,<lbr type="BD"/>&#160;<u>l'offertorio</u>&#160;<u>ò sia</u>&#160;<u>Mottetto</u>,<lbr/>
+<u>Sanctus</u> ed <u>Agnus Dei</u> ed anche la piu Sole<abbr type="topline" expand="nn">n</abbr>e,<lbr type="BD"/> quando dice La Messa<lbr/>
+il Principe stesso non ha da durare che al piú longo 3 quarti d'ora.<lbr/>
+ci vuole un studio particolare per questa Sorte di Compositione.<lbr type="BD"/> e che<lbr/>
+deve però essere una Messa con tutti Stromenti &#8211; Trombe di guerra,<lbr type="BD"/> Tympani <abbr expand="etc">p:</abbr></rend><lbr type="forced"/>
+<lbr type="forced"/>
+<add_seal type="owner">ÖST. NATIONALBIBLIOTHEK<lbr type="forced"/>
+WIEN</add_seal>
+<pg n="3"/>
+<rend class="latin">ah! che siamo si lontanti Cariss:<h>mo</h> Sgr. P: Maestro, quante cose<lbr type="BD"/> che avrei<lbr/>
+à dirgli! &#8211; &#8211; Reverisco devotamente tutti i <abbr type="tilde" expand="Signori">Sgri</abbr> Filarmonici:<lbr type="forced"/>
+<tspdf>\newpage</tspdf> 
+mi<lbr type="BD"/> racco<abbr type="topline" expand="mm">m</abbr>ando via Sempre nelle grazie di lei e non cesso d'affligermi<lbr/>
+nel<lbr type="BD"/> vedermi lontano dalla Persona del Mondo che maggiormente amo,<lbr/>
+venero e<lbr type="BD"/> stimo, e di cui inviolabilmente mi protesto<lbr type="forced"/>
+<ts>____________________________________</ts>Di. V: P:<h>ta</h> molto R:<h>da</h><lbr type="BD"/><lbr type="forced"/>
+<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_________________</ts><tshtm>__________________________________</tshtm><tspdf>\hfill </tspdf>umiliss:<h>mo</h> e devotss:<h>mo</h> Servitore<lbr type="BD"/><lbr type="forced"/>
+<ts>_________________</ts><tshtm>__________________________________</tshtm><tspdf>\hfill </tspdf>Wolfgango Amadeo Mozart.<lbr type="forced"/>
+Salisburgo 4 Settembre <u>1776</u><lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____</ts>Se lei Si degna a Scrivermi. favorisca à mettere<lbr type="forced"/>
+<ts>___________________________________________</ts><u>per Trento</u><ts>_____</ts>à<lbr type="BD"/><lbr type="forced"/>
+<ts>______________________________________________________________</ts><tshtm>______</tshtm><u>Salisburgo</u></rend><lbr type="forced"/>
+<lbr type="forced"/>
+<additum>[... (Entwurf einer Antwort von Padre Giovanni Battista Martini, 18. Dezember 1776 (BD 325)]</additum>
+<pg n="4"/>
+<vacat/>
+</NI>
+</letter>
+</text>
+</MUP>

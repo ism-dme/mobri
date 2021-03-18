@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2013">2013-3</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=312</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:33:43 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/Doc1879_2.mup">
+<HEADER id="312">ADOLPH VON UND ZU GILSA AN CARL VON STERNECK IN SALZBURG<lbr/>
+KASSEL, 14. FEBRUAR 1879</HEADER>
+
+<pg n="1"/>
+Intendantur<ts>__________</ts><add_num type="inline" impl="ink">35.</add_num><lbr type="forced"/>
+<ts>____</ts>der<lbr type="forced"/>
+Königlichen Schauspiele.<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____</ts>Hochwohlgeborener Freiherr!<lbr type="forced"/>
+<lbr type="forced"/>
+Euer Hochwohlgeboren gestattete ich mir<lbr/>
+heute für die internationale Mozartstif<pc force="weak">=</pc><lbr/>tung, ein Gedenkblatt an die Aufführungen<lbr/>
+der 7 Mozart'schen Opern, in dem Königl.<lbr/>
+Theater hierselbst, zu übersenden, welches<lbr/>
+der Königliche Schauspieler <rend class="latin">Herbert</rend> nach<lbr/>
+meiner Angabe gezeichnet hat.<lbr type="forced"/>
+Wenn Euer Hochwohlgeboren dem Blatte<lbr/>
+in dem Mozart=Häuschen einen Platz<lbr/>
+gönnen, so würde ich dies in dem Sinne<lbr/>
+<conv><ts>________________________________________________</ts>freudig</conv>
+<pg n="2"/>
+freudig begrüßen, als ich dadurch mein<lbr/>
+Bestreben, unseren großen Meister<lbr/>
+dauernd hoch und in Ehren zu halten,<lbr/>
+gewürdigt und anerkannt sehen<lbr/>
+müßte.<lbr type="forced"/>
+Genehmigen Euer Hochwohlgeboren die<lbr/>
+Versicherung ausgezeichnetster Hochachtung<lbr/>
+mit welcher ich verbleibe<lbr type="forced"/>
+<ts>_____</ts>Hochzuverehrender Herr Freiherr<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>__________________________</ts><tspdf>\hfill </tspdf>Ihr ergebenster<lbr type="forced"/> 
+<ts>__________________________</ts><tspdf>\hfill </tspdf>Freiherr <rend class="latin">von u. zu Gilsa</rend><lbr type="forced"/>
+<ts>_____________________</ts><tspdf>\hfill </tspdf>Intendant der Königl. Schauspiele<lbr type="forced"/>
+<lbr type="forced"/>
+<rend class="latin">Cassel</rend> d. 14. Februar 1879<lbr/>
+<pg n="3"/>
+<vacat/>
+<pg n="4"/>
+<vacat/>
+
+
+</text>
+</MUP>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2012">2012-10</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1002</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:38:49 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_438.mup">
+<letter bd="438"><HEADER id="1002">LEOPOLD MOZART AN MARIA ANNA UND WOLFGANG AMADÉ MOZART IN PARIS<lbr/>
+SALZBURG, 16. MÄRZ 1778</HEADER>
+
+<pg n="1"/>
+Mein Liebes Weib <abbr expand="und">u</abbr> Lieber Sohn!<add_note type="inline" impl="pencil"><ts>________________________________</ts>46</add_note><ts>______________</ts><tspdf>\hfill </tspdf>Salzb<abbr type="curve">:</abbr> d<abbr v="en"/> 16<h>t<abbr v="en"/></h> Merz<lbr type="forced"/>
+<ts>____________________</ts><tshtm>__________________________________________________________________________________________________________</tshtm><tspdf>\hfill </tspdf><u>1778.</u><lbr type="forced"/>
+Ihr werdet mit d<abbr v="er"/> hilfe Gottes gesund in Paris angelangt se&#255;n. Ich bin seit<lbr type="BD"/> gestern d<abbr v="en"/> 15<h>t<abbr v="en"/></h><lbr/>
+sehr beängstiget, da wir so viel schnee und sehr kaltes Wetter<lbr type="BD"/> hatt<abbr v="en"/>. Ich dachte i<abbr type="topline" expand="mm">m</abbr>er an<lbr/>
+die Ma<abbr type="topline" expand="mm">m</abbr>a weg<abbr v="en"/> der so kalt<abbr v="en"/> und beschwerlich<abbr v="en"/> Reise: und da ich überlegte, und berechnete,<lbr/>
+daß ihr, sonderheitl: we<abbr type="topline" expand="nn">n</abbr><lbr type="BD"/> ihr die <rend class="latin">chaise</rend> nicht verkauft habt, nicht viel Geld mit euch nach<lbr/>
+Paris bringen<lbr type="BD"/> werdet, auch noch keine Anstalt weg<abbr v="en"/> Erhebung eines Geldes mach<abbr v="en"/> konnte,<lbr type="BD"/><lbr/>
+da im Hagenauerisch<abbr v="en"/> Hause weg<abbr v="en"/> dem fastenmarkt alles die Hände voll<lbr type="BD"/> zu thun hatte; so<lbr/>
+habe heute mit h<abbr type="curve">:</abbr> Franz Gschwendner, dessen h<abbr type="curve">:</abbr> Bruder in<lbr type="BD"/> Paris be&#255; die <u>Herrn <rend class="latin">Körman<lbr/>
+Banquiers</rend></u> sich befindet, gesprochen, welcher<lbr type="BD"/> seinem h<abbr type="curve">:</abbr> Bruder mit der do<abbr type="topline" expand="nn">n</abbr>erstagsPost<lbr/>
+den 19 schreib<abbr v="en"/> wird, daß er euch<lbr type="BD"/> einige <rend class="latin">Louisd'or</rend> für meine Rechnung geb<abbr v="en"/> möchte.<lbr/>
+da nun aber dieser Brief<lbr type="BD"/> vor dem 27 od<abbr v="er"/> 28<h>t<abbr v="en"/></h> nicht nach Paris ko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/> wird; so bin ich sehr<lbr/>
+beängstiget, daß euch etwas bis dahin fehl<abbr v="en"/> möchte, und entschloß mich ge<pc force="weak">=</pc><lbr/>genwärtiges heute voraus zu schreib<abbr v="en"/>, und euch die Wohnung, nach der vorschrift<lbr/>
+seines h<abbr type="curve">:</abbr> Bruders zu übermachen: er ist <u><rend class="latin">chez Messieurs Körman Banquieurs<lbr/>
+Rüe St. Martin</rend>.</u> also nicht weit von euch. Ich weis nun nicht ob h<abbr type="curve">:</abbr><lbr type="BD"/> Gschwendtner<lbr/>
+euch vor der Ansicht des Briefes seines h<abbr type="curve">:</abbr> Bruders etwas geb<abbr v="en"/><lbr type="BD"/> wird. In dem<lbr/>
+höchst benötigten falle will ich doch hoffen, daß er es thun<lbr type="BD"/> wird, er kennt uns ja:<lbr/>
+daß wir ehrliche Leute sind. Ich lasse mich ihm gehors<abbr type="curve">:</abbr><lbr type="BD"/> empfehl<abbr v="en"/>. Tit<abbr type="curve">:</abbr> h<abbr type="curve">:</abbr>&#160;<rend class="latin">Baron</rend><lbr/>
+von Gri<abbr type="topline" expand="mm">m</abbr> ka<abbr type="topline" expand="nn">n</abbr> vor dem 19 nicht schreib<abbr v="en"/>, od<abbr v="er"/><lbr type="BD"/> vielmehr, das schon angefangene Schreib<abbr v="en"/><lbr/>
+zu Ende bringen, es ist nichts geringeres als meine ganze Lebensbeschreibung.<lbr/>
+Ich empfehle mich ihm unter<tspdf>\-</tspdf>thänigst, und bin versichert, daß, we<abbr type="topline" expand="nn">n</abbr> er alle Bedrückung,<lbr/>
+Verfolgung, und<lbr type="BD"/> Tyrane&#255;, der wir in Salzb<abbr type="curve">:</abbr> seit 6 Jahr<abbr v="en"/> ausgesetzt war<abbr v="en"/>, genau und<lbr/>
+Umständlich wissen wird, solches sein Mittleid<abbr v="en"/> erweck<abbr v="en"/> und uns zu helfen sein<lbr type="BD"/> Herz<lbr/>
+in Bewegung bring<abbr v="en"/> wird. &#8211; Er ka<abbr type="topline" expand="nn">n</abbr> doch sein zärtliches Herz in Russland nicht mit<lbr/>
+eines Moskowitisch<abbr v="en"/> Herze verdauscht hab<abbr v="en"/>. der Oberstküchemeister <rend class="latin">Baron Pranck</rend> ist<lbr/>
+statt seines Bruders Oberster geword<abbr v="en"/>, und<lbr type="BD"/> Major ein <rend class="latin">Baron</rend> Dückher dermal in<lbr/>
+Öst<abbr type="curve">:</abbr> dienst<abbr v="en"/>. Niemals sind so erstaunliche Kriegsanstalt<abbr v="en"/> gemacht word<abbr v="en"/> als dermal<lbr/>
+in östereich; alles geht nach<lbr type="BD"/> Königsgräz und Olmütz. der Kayser wird unter einer<lbr/>
+Bedeckung von<lbr type="BD"/> 6000 <abbr type="topline" expand="Mann">M</abbr> ins Feld geh<abbr v="en"/>. nämlich: 3000 adeliche Hungarn, unter den<lbr/>
+übrig<abbr v="en"/><lbr type="BD"/> 3000 werd<abbr v="en"/> ein Theil Tyroller scharfschütz<abbr v="en"/> se&#255;n. <rend class="latin">Laudon</rend> ist Feldmarschall.<lbr/>
+Ich könnte alle die beträchtlichst<abbr v="en"/> Anstalt<abbr v="en"/> nicht hersetz<abbr v="en"/>, die h<abbr type="curve">:</abbr><lbr type="BD"/> Gscheider, der es von seiner<lbr/>
+Herrschaft umständlich weis, von Wie<abbr type="topline" expand="nn">n</abbr> geschrieb<abbr v="en"/>. der König von Preuss<abbr v="en"/> hat ein sehr<lbr/>
+spöttich und empfindliches<lbr type="BD"/> Schreib<abbr v="en"/> an den Kayser ergeh<abbr v="en"/> lass<abbr v="en"/> in betreff der öst<abbr type="curve">:</abbr> forderung<abbr v="en"/><lbr/>
+an<lbr type="BD"/> die Churbayr<abbr type="curve"></abbr> Lande. Heute sind Eri<abbr type="topline" expand="nn">n</abbr>erung<abbr v="en"/> be&#255; den Kaufleut<abbr v="en"/> hier angelangt,<lbr/>
+weg<abbr v="en"/> falsch<abbr v="en"/> unhaltbar<abbr v="en"/> Preusisch<abbr v="en"/> Thalern, die in diesem Jahr<lbr type="BD"/> geschlag<abbr v="en"/> sind, und mit den<abbr v="en"/><lbr/>
+itzt erst die Pferde, die Preussen theils in<lbr type="BD"/> türkisch<abbr v="en"/> gränz<abbr v="en"/> und Ortschaft<abbr v="en"/>, theils im Polnisch<abbr v="en"/><lbr/>
+hat kauffen<lbr type="BD"/> lass<abbr v="en"/>, bezahlt word<abbr v="en"/>. Ich hofe bald etwas gutes von euch zu hörn. leset dem<lbr type="BD"/><lbr/>
+h<abbr type="curve">:</abbr> Gschwendner diese Neuigkeit<abbr v="en"/>. ich und die<lbr type="forced"/>
+Na<abbr type="topline" expand="nn">n</abbr>erl küss<abbr v="en"/> euch millionmahl <abbr expand="und">u</abbr> bin<lbr type="forced"/>
+d<abbr v="er"/> alte Mzt <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<lbr type="forced"/>
+<rend class="latin">Mr: de Voltaire</rend> ist in Paris; ob aber <rend class="latin">Mr: Noverre</rend> |: der nun auch, wie in Zeitung<abbr v="en"/> stand,<lbr/>
+den orden vom Pabst hat :| in Paris ist, weis ich nicht gewiß.<lbr type="BD"/> Solltest du ein<abbr v="en"/>&#160;<rend class="latin">Contrapunct</rend>,<lbr/>
+oder so was fürs <rend class="latin">Concert Spirituelle</rend> machen<lbr type="BD"/> kö<abbr type="topline" expand="nn">n</abbr><abbr v="en"/>: so arbeite es mit dem grösst<abbr v="en"/> fleise aus, und<lbr/>
+höre vorher, was sie<lbr type="BD"/> da machen, was ihn<abbr v="en"/> am best<abbr v="en"/> gefällt. die <u><rend class="latin">Bassi</rend>sten</u> wirst du sehr stark und<lbr type="BD"/><lbr/>
+vortrefflich finden. Es muß recht gründlich geschrieb<abbr v="en"/> se&#255;n, da es zu weil<abbr v="en"/><lbr type="BD"/> in der <rend class="latin">Spart</rend> gestoch<abbr v="en"/> wird. <u><rend class="latin">addio</rend></u><lbr type="forced"/>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="2"/>
+<rend class="latin">Checco Barisani</rend> wird d<abbr v="en"/> 18 nach<lbr/>
+Hause reisen, er empfiehlt sich.<lbr/>
+der<lbr type="BD"/>&#160;<rend class="latin">Architect</rend> Hagenauer ist<lbr/>
+mit dem Bischof von Gurk abge<pc force="weak">=</pc><lbr/>reiset, die Residenz<lbr type="BD"/> in Gurk<lbr/>
+auszubau<abbr v="en"/>, &#8211; <u>wird aber nicht<lbr/>
+mehr ko<abbr type="topline" expand="mm">m</abbr>en,</u> d<abbr v="er"/> Erzb<abbr type="curve">:</abbr> hat ihn<lbr type="BD"/><lbr/>
+abscheulich, wie ein<abbr v="en"/> Bueb<abbr v="en"/><lbr/>
+tracktiert, und ihm itzt<lbr/>
+10 thaler geschenkt.<lbr type="BD"/> folglich hat<lbr/>
+er, für alles, so lang er hier<lbr/>
+ist. <u>14 thaler und 4 duggatt<abbr v="en"/></u><lbr/>
+beko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>. Nach Ostern wird<lbr/>
+d<abbr v="er"/> h<abbr type="curve">:</abbr> Oberbereuter die freule<lbr/>
+<rend class="latin">Antonia Barisani</rend><lbr type="BD"/> Ha&#255;rath<abbr v="en"/>,<lbr/>
+<u>ohne Gnad<abbr v="en"/>geld.</u><lbr type="forced"/>
+die schwester des h<abbr type="curve">:</abbr> Gschwendner,<lbr/>
+<suppl hand="self" pos="inline">Jungf<abbr type="curve">:</abbr></suppl>&#160;<u>Na<abbr type="topline" expand="nn">n</abbr>erl</u> wird den h<abbr type="curve">:</abbr>&#160;<u><rend class="latin">Nicolo<pc force="weak">=</pc><lbr/>doni</rend></u><lbr type="BD"/> Heyrath<abbr v="en"/>, der be&#255;<lbr/>
+h<abbr type="curve">:</abbr> Spangler in <rend class="latin">Compagnie</rend><lbr/>
+ist, und dess<abbr v="en"/> Tochter hatte.<lbr type="forced"/>
+<lbr type="forced"/>
+<lbr/>
+<anschrift rot="270"><add_seal type="post">ALLEMAGNE</add_seal><lbr/>
+<rend class="latin">A Monsieur<lbr type="forced"/>
+Monsieur Wolfgang Amadé<lbr type="forced"/>
+<u>Mozart</u> Maître de Musique<lbr type="forced"/>
+<lbr type="forced"/>
+<u>chez Mr: Mayer</u><ts>___________</ts>à<lbr type="forced"/>
+<u>Marchand fripier<lbr type="forced"/>
+Ruë bourg l'abbé</u><lbr type="forced"/>
+<ts>________________</ts><tshtm>__________________________</tshtm><u>Paris</u></rend></anschrift><lbr/>
+<add_num><rend class="latin">N<h>ro</h></rend> 44.</add_num><lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+</letter>
+</text>
+</MUP>

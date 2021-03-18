@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2014">2014-5</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=479</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Verbleib unbekannt</bibl>
+            <bibl type="source" subtype="RISM">Verbleib unbekannt</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:36:09 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_1144.mup">
+<letter bd="1144"><NI src="Unbekannt"><HEADER id="479">WOLFGANG AMADÉ MOZART AN CONSTANZE MOZART IN WIEN<lbr/>
+MÜNCHEN, 2. NOVEMBER 1790</HEADER>
+<pg n="1"/>
+<add_num impl="pencil"><ts>____________________________________________________________________________</ts>XXXIII</add_num>
+<add_note type="inline" impl="pencil">Schidermair</add_note><lbr/>
+<add_note type="inline" impl="pencil"><ts>____</ts>Nr 326</add_note><ts>_______</ts><tshtm>__________________</tshtm><tspdf>\hfill </tspdf>München den 2. <rend class="latin">Nov</rend>&#160;<abbr type="topline" expand="1790">790</abbr><lbr type="forced"/>
+<add_note type="inline" impl="pencil"><ts>_____</ts>(II, 324)</add_note><add_num type="inline" impl="pencil"><ts>______</ts>B/D 1144</add_num>
+<lbr type="forced"/>
+<ts>__________</ts><tshtm>________</tshtm>Liebstes, bestes Herzens=Weibchen!<lbr type="forced"/>
+<lbr type="forced"/>
+Was mir das weh thut, daß ich bis <rend class="latin">Linz</rend> warten muß um<lbr/>
+von dir Nachricht zu<lbr type="BD"/> haben, das kannst du nicht glauben.<lbr/>
+Geduld, we<abbr type="topline" expand="nn">n</abbr> man nicht weis wie lange<lbr type="BD"/> man sich an einem<lbr/>
+Orte aufhalten wird; so kann man auch keine bessere<lbr type="BD"/> An<pc force="weak">=</pc><lbr/>stalten treffen. &#8211; Ich habe |: ohngeachtet ich gerne lan<pc force="weak">=</pc><lbr/>ge bey meinen alten<lbr type="BD"/> Mannheimer Freunden bleiben möch<pc force="weak">=</pc><lbr/>te :| nur einen Tage hier bleiben wollen.<lbr type="BD"/> Nun muß ich aber<lbr/>
+bis den 5<h>ten</h> oder 6.<h>t</h> bleiben, weil mich der Churfürst we<pc force="weak">=</pc><lbr/>gen<lbr type="BD"/> des Konigs von <rend class="latin">Neapel</rend> zur <rend class="latin">Accademie</rend> gebethen hat.<lbr/>
+das ist wirklich eine<lbr type="BD"/>&#160;<rend class="latin">Distinction</rend>. &#8211; Eine schöne Ehre<lbr/>
+für den Wiener Hof, daß mich der König in<lbr type="BD"/> fremden<lbr/>
+Landern hören muß! <line w="8em"/> daß ich mich<lbr/>
+mit Ca<abbr type="topline" expand="nn">n</abbr>abichischen, la <rend class="latin">Bo<abbr type="topline" expand="nn">n</abbr>e</rend>,<lbr type="BD"/>&#160;<rend class="latin">Ra<abbr type="topline" expand="mm">m</abbr></rend>, <rend class="latin">Marchand</rend>, und <rend class="latin">Bro<pc force="weak">=</pc><lbr/>chard</rend> gut unterhalten, und recht viel von <u>dir</u> meine<lbr type="BD"/> Lie<pc force="weak">=</pc><lbr/>be gesprochen wird, ka<abbr type="topline" expand="nn">n</abbr>st du dir wohl einbilden. &#8211; <lbr/>
+Ich freue mich auf<lbr type="BD"/> dich, de<abbr type="topline" expand="nn">n</abbr> ich habe viel mit dir zu<lbr/>
+sprechen. Ich habe im Si<abbr type="topline" expand="nn">n</abbr>e zu Ende<lbr type="BD"/> künftigen So<abbr type="topline" expand="mm">m</abbr>ers<lbr/>
+diese <rend class="latin">tour</rend> mit dir, meine liebe zu machen, damit du ein<lbr type="BD"/><lbr/>
+anderes Bad besuchest. Dabey wird dir auch die Unter<pc force="weak">=</pc><lbr/>haltung, <rend class="latin">Motion</rend>, und<lbr type="BD"/> Luftveränderung gut thun, so wie<lbr/>
+es mir herrlich anschlägt; da freue ich mich<lbr type="BD"/> recht dar<pc force="weak">=</pc><lbr/>auf, und alles freuet sich. &#8211; <lbr type="forced"/>
+<lbr/>
+<add_num impl="crayon" color="red"><ts>____________________________________</ts>7</add_num>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="2"/>
+Verzeihe, we<abbr type="topline" expand="nn">n</abbr> ich dir nicht so viel schreibe als ich<lbr/>
+gern möchte; du kanst<lbr type="BD"/> dir aber nicht vorstellen<lbr/>
+wie das Gereiß um mich ist. &#8211; Nun muß ich zu<lbr type="BD"/><lbr/>
+<rend class="latin">Cannabich</rend>, denn es wird mein <rend class="latin">Concert</rend> probiert. <rend class="latin">Adieu,</rend><lbr/>
+liebes Weibchen; auf<lbr type="BD"/> diesen Brief kann ich nach meiner<lbr/>
+Rechnung keine Antwort hoffen. Leb' wohl,<lbr type="BD"/> meine<lbr/>
+Liebe; ich küsse dich Millionenmal, und bin ewig<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____</ts><tshtm>______________________________</tshtm><tspdf>\hfill </tspdf>dein dich bis in  Tod liebender<lbr type="BD"/><lbr type="forced"/>
+<ts>_____</ts><tshtm>________________________________________</tshtm><tspdf>\hfill </tspdf><rend class="latin">Mozart</rend><lbr type="forced"/>
+<lbr type="forced"/>
+<rend class="latin">P. S.</rend> Die Grethel ist <suppl hand="self" pos="supra">nun</suppl> mit der <rend class="latin">Le bru<abbr type="topline" expand="nn">n</abbr></rend> Bruder<lbr/>
+verheurathet, heißt also<lbr type="BD"/>&#160;<rend class="latin">M<h><u>me</u></h> Danzi</rend>. des <rend class="latin">Brochard</rend><lbr/>
+Ha<abbr type="topline" expand="nn">n</abbr>chen ist nun 16 Jahre alt, und ist leider<lbr type="BD"/> durch<lbr/>
+die Blattern häßlich geworden. &#8211; Schade! &#8211; <lbr/>
+die kann nicht genug von<lbr type="BD"/> dir sprechen. Sie<lbr/>
+spielt ganz artig <rend class="latin">Clavier</rend>. &#8211; </NI></letter>
+</text>
+</MUP>

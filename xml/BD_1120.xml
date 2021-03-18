@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2014">2014-5</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1690</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Verbleib unbekannt</bibl>
+            <bibl type="source" subtype="RISM">Verbleib unbekannt</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:42:05 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_1120.mup">
+<letter bd="1120"><NI src="Erstdruck"><HEADER id="1690">WOLFGANG AMADÉ MOZART AN MICHAEL PUCHBERG IN WIEN<lbr/>
+WIEN, ENDE MÄRZ ODER ANFANG APRIL 1790</HEADER>
+<pg n="1"/>
+<ts>_____</ts>Hier schicke ich Ihnen, liebster Freund, Händels Leben. &#8211; Als ich letzhin von<lbr type="BD"/>
+Ihnen nach Hause kam, fand ich beyliegendes Billet von B. Swieten. Sie werden<lbr type="BD"/>
+so wie ich daraus sehen, daß ich nunmehro mehr Hoffnung habe als allzeit. &#8211;<lbr type="BD"/>
+Nun stehe ich vor der Pforte meines Glückes &#8211; verliere es auf ewig, wenn ich<lbr type="BD"/>
+diesmal nicht Gebrauch davon machen kann. Meine gegenwärtigen Umstände<lbr type="BD"/>
+sind aber &#8211; daß ich, bey all meinen angenehmen Aussichten, ohne der Hülfe<lbr type="BD"/>
+eines biedern Freundes, meine Hoffnung zu meinem ferneren Glücke ganz für<lbr type="BD"/>
+verlohren geben muß; &#8211; Sie werden an mir die Zeither immer etwas trauriges<lbr type="BD"/>
+bemerket haben &#8211; und nur die zu vielen Gefälligkeiten, die Sie mir schon<lbr type="BD"/>
+erwiesen haben, hießen mich schweigen; aber nur noch einmal und zum<lbr type="BD"/>
+letztenmale, im allernothwendigsten Augenblike, welcher mein ganzes ferneres<lbr type="BD"/>
+Glück entscheidet, rufe ich Sie voll des Zutrauens in Ihre mir bewährte Freund<lbr type="BD"/>schaft
+und Bruderliebe an, mir nach Ihrer ganzen Möglichkeit beyzustehen.<lbr type="BD"/>
+Sie wissen, wie mir meine dermaligen Umstände, wenn Sie kund würden,<lbr type="BD"/>
+in meinem Gesuche bey Hofe schaden würden &#8211; wie nöthig es ist, daß dies<lbr type="BD"/>
+ein Geheimnis bleibe; denn man urtheilt bey Hofe nicht nach den Umständen,<lbr type="BD"/>
+sondern leider blos nach dem Schein. Sie wissen, sind gewis ganz überzeugt,<lbr type="BD"/>
+daß wenn ich, wie ich dermalen gewis zu hoffen habe, in meinem Gesuche<lbr type="BD"/>
+glücklich bin, Sie ganz gewis nicht verlohren haben &#8211; mit welchem Vergnügen<lbr type="BD"/>
+werde ich Ihnen dann meine Schulden abzahlen! &#8211; mit welchem Vergnügen<lbr type="BD"/>
+Ihnen danken! &#8211; und mich überdies ewig als Ihren Schuldner anerkennen! &#8211;<lbr type="BD"/>
+welch eine angenehme Empfindung, wenn man endlich seinen Zweck erreicht<lbr type="BD"/>
+hat! &#8211; welch eine seelige Empfindung, wenn man dazu geholfen hat &#8211; meine<lbr type="BD"/>
+Thränen lassen mich das Bild nicht ganz ausmalen &#8211; Kurz! &#8211; mein ganzes<lbr type="BD"/>
+ferneres Glücke ist in Ihren Händen &#8211; handeln Sie nach Ihrem edeln Herzen &#8211;<lbr type="BD"/>
+thun Sie was Sie können und denken Sie daß Sie mit einem rechtschaffenen,
+ewig dankbaren Manne zu thun haben, dem seine Lage mehr wegen Ihnen als<lbr type="BD"/>
+wegen seiner selbst schmerzhaft ist! &#8211; <lbr type="forced"/>
+<ts>__________</ts><tshtm>____________________________________________________________________________________________________________</tshtm><tspdf>\hfill </tspdf>Mozart.<lbr type="forced"/>
+<add_note schr_id="57866"><ts>_____</ts>150 fl. gesandt.</add_note>
+</NI></letter>
+</text>
+</MUP>

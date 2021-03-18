@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2019">2019-12</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=569</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">I-FOc</bibl>
+            <bibl type="source" subtype="RISM">I-FOc (Biblioteca Comunale Aurelio Saffi)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:36:18 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_12.mup">
+<letter bd="12">
+<NI src="I-FOc">
+<HEADER id="569">LEOPOLD MOZART AN JOHANN JAKOB LOTTER IN AUGSBURG<lbr/>
+SALZBURG, 6. NOVEMBER 1755</HEADER>
+<pg n="1"/>
+<ts>_______________________________</ts><tshtm>________________</tshtm><tspdf>\hfill </tspdf>Salzb<abbr type="curve">:</abbr> d<abbr v="en"/> 6<h>t<abbr v="en"/></h>&#160;<rend class="latin">Novemb<abbr type="curve">:</abbr></rend><lbr type="forced"/>
+<ts>____________________________________</ts><tshtm>_______________________</tshtm><tspdf>\hfill </tspdf><u>1755</u><lbr type="forced"/>
+<ts>__________</ts><rend class="latin"><persName key="76865">Monsieur</persName> mon tres cher amy</rend>!<lbr type="forced"/>
+<lbr type="forced"/>
+Gott se&#255; unendlicher Dank gesagt, daß ihre Bekehrung<lbr/>
+so nahe ist. Diess hab<lbr type="BD"/> ich wohl nur der gütig<abbr v="en"/> Ermahnung<abbr v="en"/><lbr/>
+ihrer Besten Frauen zu danken. Nun<lbr type="BD"/> will ich voll<lbr/>
+des Vertrauens auf dero Worte iedem Posttage mit<lbr/>
+Vergnügen<lbr type="BD"/> entgeg<abbr v="en"/> sehen. In dem letzt<abbr v="en"/> C Bogen setzen<lbr/>
+sie, we<abbr type="topline" expand="nn">n</abbr> es sich thun lässt,<lbr type="BD"/>&#160;<rend class="latin">p</rend>. 17 noch etwas Be&#255;, und zwar<lbr/>
+nur vier Nam<abbr v="en"/>. Ich will sie alle in d<abbr v="er"/> Ord<lbr type="BD"/>nung<lbr/>
+herschreib<abbr v="en"/>. <u><persName key="52789">Glarean</persName></u>, <u><persName key="60791">Zarlin</persName>,</u>&#160;<u><persName key="84662">Bontemps</persName></u>&#160;<abbr expand="etc:">p:</abbr> bis auf<lbr/>
+<u><persName key="54636">Kepler</persName></u>, nach dem<lbr type="BD"/>&#160;<u>Kepler</u> setz<abbr v="en"/> sie: <u><persName key="84663">Vogt</persName>, <persName key="84664">Neidhart</persName></u>,<lbr/>
+<u><persName key="51880">Euler</persName>, <persName key="58779">Scheibe</persName>, <persName key="47989">Prinz</persName>, <persName key="60513">Werkmeister</persName>, <persName key="52444">Fux</persName>,</u><lbr type="BD"/>&#160;<u><persName key="47860">Mattheson</persName></u>,<lbr/>
+<u><persName key="84647">Mizler</persName></u>, <u><persName key="59365">Spieß</persName></u>, <u><persName key="64633">Marpurg</persName>, <persName key="64744">Quantz</persName></u>, und andere mehr <abbr expand="etc:">p:</abbr><lbr/>
+<rend class="latin">p</rend>: 20 wer<lbr type="BD"/>d<abbr v="en"/> sie wohl sehen, daß ich gleich nacheinand<abbr v="er"/>: <rend class="latin">Corrig</rend>irt<lbr/>
+habe: <u>dem Gedächt<lbr type="BD"/>nisse vollko<abbr type="topline" expand="mm">m</abbr>en einpräge: da wi<pc force="weak">=</pc><lbr/>drigenfalls</u>&#160;<abbr expand="etc:">p:</abbr>&#160;<rend class="latin">pag</rend>. 21. in <rend class="latin">Notis</rend> heist es:<lbr type="BD"/>&#160;<u><rend class="latin">Contrapunto</rend></u>.<lbr type="forced"/>
+<add_seal type="owner">BIBLIOTECA<lbr/>
+PIANCASTELLI</add_seal>
+<pg n="2"/>
+<rend class="latin">p</rend>: 22 sind ein paar Semicolon hineinzusetz<abbr v="en"/>.<lbr type="forced"/>
+<rend class="latin">p</rend>. 23 ist es<lbr type="BD"/> weg<abbr v="en"/>&#160;<u>schlüssl</u> fre&#255;lich gefehlt.<lbr type="forced"/>
+<rend class="latin">p</rend>: 24: möchte ich § 10 die worte: <u>so ist es<lbr type="BD"/>&#160;<abbr expand="etc:">p:</abbr></u> auf<lbr/>
+folgende Art geänd<abbr v="er"/>t hab<abbr v="en"/>: <u>so würde es doch sehr gut se&#255;n,<lbr/>
+wenn<lbr type="BD"/> man den Schlüssel wenigstens be&#255; der<lbr/>
+Trompete und be&#255; dem Jägerhorn<lbr type="BD"/> versetzete.</u><lbr type="forced"/>
+die Schlüssl setzen sie also:<lbr type="forced"/>
+<pg n="3"/>
+<object type="mus" src="briefe_BD_12_NBsp_1-300"></object><lbr type="forced"/>
+Wenn sie nur vier Schlüssel auf eine Seite bring<abbr v="en"/> woll<abbr v="en"/>,<lbr/>
+so kö<abbr type="topline" expand="nn">n</abbr><abbr v="en"/> sie be&#255;<lbr type="BD"/> dem <u>oder</u> kecklich absetz<abbr v="en"/>.<lbr type="forced"/>
+<lbr type="forced"/>
+Nun sehen sie auch dahin, daß ich die <rend class="latin">Corrig</rend>iert<abbr v="en"/> und<lbr/>
+neu abgedruckt<abbr v="en"/><lbr type="BD"/> Bög<abbr v="en"/> wied<abbr v="er"/> nach und nach beko<abbr type="topline" expand="mm">m</abbr>e,<lbr/>
+theils um alles vorhergehende wegen<lbr type="BD"/> des zusa<abbr type="topline" expand="mm">m</abbr>enhanges<lbr/>
+in Händen zu haben; um mich dari<abbr type="topline" expand="nn">n</abbr>e weg<abbr v="en"/> ein und<lbr type="BD"/><lbr/>
+anderem erseh<abbr v="en"/> zu kö<abbr type="topline" expand="nn">n</abbr><abbr v="en"/>; Theils um nach und nach mit<lbr/>
+Gelegenheit das<lbr type="BD"/> Register anfang<abbr v="en"/> zu kö<abbr type="topline" expand="nn">n</abbr><abbr v="en"/>. Wegen des<lbr/>
+erstern ist es gar Nothwendig: de<abbr type="topline" expand="nn">n</abbr><lbr type="BD"/> mir ka<abbr type="topline" expand="mm">m</abbr> in dem<lbr/>
+letzt<abbr v="en"/> Bog<abbr v="en"/> z. E. das Wort <u>Unterschied</u> vor. Nun weis<lbr type="BD"/><lbr/>
+<pg n="4"/>
+<add_empf>
+1755. d<abbr v="en"/> 6. <rend class="latin">Nov.</rend> aus Salzburg, von h<abbr type="curve">.</abbr><lbr/>
+<rend class="latin">Leopold Mozart</rend>.</add_empf>
+<lbr/>
+ich, daß <persName key="64420">Gottsched</persName> allemal schreibt: <u>Unterscheid.</u> Ich weis<lbr/>
+aber auch, daß<lbr type="BD"/>&#160;<u>Unterschied</u> recht ist.<lbr/>
+Ich würde aber <u>Unterscheid</u>&#160;<rend class="latin">Corrig</rend>irt hab<abbr v="en"/>, we<abbr type="topline" expand="nn">n</abbr> ich<lbr type="BD"/> nicht im<lbr/>
+erst<abbr v="en"/> Bog<abbr v="en"/>, den ich in hand<abbr v="en"/> habe <rend class="latin">p</rend>. 3. <rend class="latin">l</rend>. 13 schon<lbr/>
+<u>Unterschied</u><lbr type="BD"/> gesetzet hätte. Ich liess also<lbr/>
+<u>Unterschied</u> steh<abbr v="en"/> weg<abbr v="en"/> d<abbr v="er"/> Gleichheit d<abbr v="er"/><lbr type="BD"/> Schreibart.<lbr/>
+Es ist mir Leid, ich hab in dem erst<abbr v="en"/> Bog<abbr v="en"/> überseh<abbr v="en"/><lbr/>
+<rend class="latin">p</rend>. 1 <rend class="latin">L</rend>. 5<lbr type="BD"/>&#160;<u>Pferdharen</u> zu <rend class="latin">Corrig</rend>ir<abbr v="en"/>: de<abbr type="topline" expand="nn">n</abbr> es sollen zwe&#255;<lbr/>
+(a) se&#255;n. <u>Pferdhaaren.</u>&#160;<u><rend class="latin">Basta</rend></u><lbr type="BD"/> in den andern bög<abbr v="en"/><lbr/>
+hab ich es schon <rend class="latin">Corrig</rend>irt.<lbr type="forced"/>
+Wie gefällt ihn<abbr v="en"/> diese ordentliche Schreibart, die sie<lbr/>
+in diesem Briefe erblic<lbr type="BD"/>k<abbr v="en"/>? &#8211; &#8211; Es geht nicht anderst<lbr/>
+we<abbr type="topline" expand="nn">n</abbr> man viel zu thun hat. Leb<abbr v="en"/> sie wohl,<lbr type="BD"/> und<lbr/>
+bleib<abbr v="en"/> sie be&#255; dem gut<abbr v="en"/> Vorsatze, ja lass<abbr v="en"/> sie mich<lbr/>
+beständige Wirkung<lbr type="BD"/> davon sehen. Ich bin<lbr type="forced"/>
+<ts>______________</ts><tshtm>________________________________</tshtm><tspdf>\hfill </tspdf>dero<lbr type="forced"/>
+<ts>______________________________________________</ts><tspdf>\hfill </tspdf>Ergebenstr<lbr type="BD"/><lbr type="forced"/>
+<ts>______________</ts><tshtm>_______________________________</tshtm><tspdf>\hfill </tspdf><persName key="39408"><rend class="latin">Leopold Mozart</rend></persName>&#160;<abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<postxt>Da ich eb<abbr v="en"/> die Baurenmusik beyschliess<abbr v="en"/> wollte,<lbr/>
+sehe ich, daß die <u><rend class="latin">Fagötte</rend></u> auszuschreib<abbr v="en"/> sind vergess<abbr v="en"/><lbr/>
+word<abbr v="en"/>. ich schicke sie also mit nächstem.</postxt><lbr type="forced"/>
+<lbr type="forced"/>
+<postxt loc="top" rot="180">P: S: <u>Bitte den be&#255;liegend<abbr v="en"/> Brief mein<abbr v="en"/>&#160;<persName key="77441">Brud<abbr v="er"/></persName> bestell<abbr v="en"/> zu lass<abbr v="en"/>, aber<lbr type="BD"/> so<lbr/>
+bald es se&#255;n ka<abbr type="topline" expand="nn">n</abbr></u>.</postxt>
+<lbr/>
+<add_seal type="owner">BIBLIOTECA<lbr/>
+PIANCASTELLI</add_seal>
+<pg n="5"/>
+Eben itzt erhalte ich 3 f 15 X<h>r</h> vom h<abbr type="curve">:</abbr> Forster; die ich auch <rend class="latin">quitti</rend>rt<lbr/>
+habe.<lbr type="BD"/> was ich damit thun solle, das mög<abbr v="en"/> sie befehl<abbr v="en"/>.<lbr type="forced"/>
+Hier ko<abbr type="topline" expand="mm">m</abbr>t auch die <u>Baurenhochzeit.</u> Sie kö<abbr type="topline" expand="nn">n</abbr><abbr v="en"/>, we<abbr type="topline" expand="nn">n</abbr> sie es recht an<lbr type="BD"/>stell<abbr v="en"/>,<lbr/>
+auch die <rend class="latin">Cassa</rend> des <rend class="latin">Collegii Musici</rend> damit bereichern. Es ist eine<lbr/>
+<u>Le&#255;er</u><lbr type="BD"/> und <u>ein Dudlsack</u> od<abbr v="er"/> <u>Pollnischerpock</u> darbe&#255;. Diess könnte man<lbr/>
+auf die<lbr type="BD"/>&#160;<u>fassnacht</u>&#160;<rend class="latin">produci</rend>r<abbr v="en"/>. Es wäre gut, wenn sie auch ein<lbr/>
+<u>Hackbrettl</u> od<abbr v="er"/> <rend class="latin">Cymbal</rend> darbe&#255; hätten, solches müsste der, so es spielet<lbr/>
+aus der Violinsti<abbr type="topline" expand="mm">m</abbr>e<lbr type="BD"/>&#160;<rend class="latin">Exerci</rend>r<abbr v="en"/>, und we<abbr type="topline" expand="nn">n</abbr> ers gut mach<abbr v="en"/> will, die<lbr/>
+Violin und den <rend class="latin">Bass</rend> unter<lbr type="BD"/> einand<abbr v="er"/> setz<abbr v="en"/>. Ja es ist gar leicht<lbr/>
+nach dem Gehör dazu zu spiel<abbr v="en"/>. kö<abbr type="topline" expand="nn">n</abbr><abbr v="en"/><lbr type="BD"/> sie aber keine Le&#255;er be<pc force="weak">=</pc><lbr/>ko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>, so will ich alsdan ein<abbr v="en"/> and<abbr v="er"/><abbr v="en"/> Vor<lbr type="BD"/>schlag thun. Die le&#255;er kan<lbr/>
+ein <rend class="latin">organist</rend> am ehesten spiel<abbr v="en"/>. <persName key="59446">h<abbr type="curve">:</abbr> Stein</persName> wird<lbr type="BD"/> d<abbr v="er"/> beste dazu se&#255;n.<lbr/>
+Anfangs ist der <rend class="latin">Marche</rend>, welchen man recht Baurenhaft<lbr type="BD"/> abspiel<abbr v="en"/> muß<lbr/>
+<lbr/>
+<add_seal type="owner">BIBLIOTECA<lbr/>
+PIANCASTELLI</add_seal>
+<pg n="6"/>
+in welchem man be&#255; dem 19<h>t<abbr v="en"/></h> und 21<h>t<abbr v="en"/></h> Tacte<lbr type="forced"/>
+<object type="mus" src="briefe_BD_12_NBsp_2-300"></object><lbr type="forced"/>
+des erst<abbr v="en"/> Theiles,<lbr/>
+und be&#255;m 27<h>t<abbr v="en"/></h> und 29<h>t<abbr v="en"/></h> Tacte des zweyt<abbr v="en"/> theiles<lbr type="forced"/>
+<object type="mus" src="briefe_BD_12_NBsp_3-300"></object><lbr type="BD"/><lbr type="forced"/>
+<rend class="latin">à tempo</rend> nach<lbr/>
+diesen Not<abbr v="en"/>&#160;<u>Jauchzen</u> muß. ich bitte aber <u><rend class="latin">piano</rend></u> und <u><rend class="latin">forte</rend></u> wohl<lbr type="BD"/> beob<pc force="weak">=</pc><lbr/>acht<abbr v="en"/> zu lass<abbr v="en"/>; und sond<abbr v="er"/>heitl: we<abbr type="topline" expand="nn">n</abbr> die <u>Le&#255;er</u> und <u>Dudlsack</u> darein<pc force="inter">=</pc><lbr/>spiel<abbr v="en"/>, müss<abbr v="en"/> alle and<abbr v="ern"/> Instrument<abbr v="en"/>&#160;<u><rend class="latin">piano</rend></u> geh<abbr v="en"/>. Das <u><rend class="latin">Violin</rend></u> ist<lbr/>
+<rend class="latin">Unisono</rend>,<lbr type="BD"/> man muss es öfter <rend class="latin">Copi</rend>r<abbr v="en"/>. Die <u><rend class="latin">viola</rend></u> muss man mit<lbr/>
+2 od<abbr v="er"/> 3 Person<abbr v="en"/> besetz<abbr v="en"/>.<lbr type="BD"/> Was be&#255; dem <u><rend class="latin">Adagio</rend></u> stehet weg<abbr v="en"/> der<lbr/>
+<u>Bedaurniss des Jungferkranzes,</u> ka<abbr type="topline" expand="nn">n</abbr><lbr type="BD"/> meinethalb<abbr v="en"/> auf eine noch bessere Art<lbr/>
+erkläret werd<abbr v="en"/>. Ich schrieb es in d<abbr v="er"/><lbr type="BD"/> E&#255;l. Das <u><rend class="latin">piano</rend></u> dari<abbr type="topline" expand="nn">n</abbr>e stellet halt eine<lbr/>
+schamhafte betrübniss d<abbr v="er"/> Braut vor,<lbr type="BD"/> be&#255; dem <u><rend class="latin">forte</rend></u> aber wird ihr von d<abbr v="er"/><lbr/>
+ganz<abbr v="en"/> Freundschaft ein Herz eingespro<lbr type="BD"/>ch<abbr v="en"/>: man muss also die <u><rend class="latin">piano</rend></u> und <u><rend class="latin">forte</rend></u> allemal<lbr/>
+recht wohl beobacht<abbr v="en"/>. Be&#255;<lbr type="BD"/> dem <rend class="latin">Marche</rend> mag auch nach dem Jauchz<abbr v="en"/> iedesmal<lbr/>
+ein Pistoll<abbr v="en"/> Schuss gesche<lbr type="BD"/>h<abbr v="en"/>, wie es be&#255; den Hochzeit<abbr v="en"/> gebräuchlich ist. und wer recht<lbr/>
+auf den Fingern<lbr type="BD"/> Pfeiff<abbr v="en"/> kan, mag auch unter dem Jauchz<abbr v="en"/> darein Pfeiff<abbr v="en"/>.<lbr/>
+<u>Die <rend class="latin">Fagott</rend>stim<lbr type="BD"/>m<abbr v="en"/>, so <rend class="latin">obligat</rend> sind, sende mit nächstem.</u><lbr/>
+<lbr/>
+<add_seal type="owner">BIBLIOTECA<lbr/>
+PIANCASTELLI</add_seal>
+</NI>
+</letter>
+</text>
+</MUP>

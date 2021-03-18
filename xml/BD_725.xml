@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2014">2014-5</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1292</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:40:20 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_725.mup">
+<letter bd="725"><HEADER id="1292">WOLFGANG AMADÉ MOZART AN LEOPOLD MOZART IN SALZBURG<lbr/>
+WIEN, 5. FEBRUAR 1783</HEADER>
+<pg n="1"/>
+<ts>____</ts><rend class="latin">Mon Trés cher Pére!</rend><ts>____</ts><tshtm>____________________________________________________</tshtm><tspdf>\hfill </tspdf><rend class="latin"><u>Vienne</u> ce</rend> 5 <rend class="latin">de fevrier.</rend><lbr type="forced"/>
+<ts>_______</ts><tshtm>____________________________________________________________________________________________________________</tshtm><tspdf>\hfill </tspdf><uu>1783</uu><lbr type="forced"/>
+<lbr type="forced"/>
+Ich habe ihr leztes schreiben richtig erhalten, und hoffe, daß sie unterdessen<lbr type="BD"/><lbr/>
+meinen lezten Brief auch werden erhalten, und meine Bitte wegen dem<lbr/>
+<rend class="latin">Harle<lbr type="BD"/>quin</rend>-kleid verno<abbr type="topline" expand="mm">m</abbr>en haben; &#8211; ich widerholle sie noch einmal &#8211; und<lbr/>
+zwar<lbr type="BD"/> mit dem zusatz, daß sie die güte haben möchten, es mir auf<lbr/>
+das bäldeste zu<lbr type="BD"/> schicken; &#8211; und wegen den <rend class="latin">Sinfonien</rend>, besonders aber<lbr/>
+die <u>lezte</u> &#8211; bitte ich sie<lbr type="BD"/> recht bald zu schicken. &#8211; de<abbr type="topline" expand="nn">n</abbr> am 3:<h>tn</h><lbr/>
+So<abbr type="topline" expand="nn">n</abbr>tage in der fasten nemlich den<lbr type="BD"/> 23:<h>tn</h> März ist schon meine<lbr/>
+<rend class="latin">accademie</rend> &#8211; und ich muß sie noch öfters <rend class="latin">radopiren</rend><lbr type="BD"/> lassen. &#8211; <lbr type="forced"/>
+drum dächte ich, we<abbr type="topline" expand="nn">n</abbr> sie nicht schon abgeschrieben ist, sollen sie sie mir<lbr type="BD"/><lbr/>
+gerade in <rend class="latin">Partitur</rend>, wie ich sie ihnen geschickt habe, zurück<lbr/>
+schicken; aber die<lbr type="BD"/>&#160;<rend class="latin">Menuetts</rend> auch mit. &#8211; <lbr type="forced"/>
+ist de<abbr type="topline" expand="nn">n</abbr> der <rend class="latin">Ceccarelli</rend> nicht mehr in Salzburg? &#8211; oder hat er be&#255;<lbr/>
+des <rend class="latin">Gatti</rend><lbr type="BD"/> seiner <rend class="latin">Cantata</rend> keine Rolle beko<abbr type="topline" expand="mm">m</abbr>en? &#8211; weil sie ihn nicht auch<lbr/>
+unter die<lbr type="BD"/> Streitter oder zänker setzen! &#8211; <lbr type="forced"/>
+gestern ist meine <rend class="latin">opera</rend> zum 17:<h>t</h> Male mit gewöhnlichem be&#255;fall und<lbr/>
+vollem<lbr type="BD"/> Theater wieder aufgeführt worden. &#8211; <lbr type="forced"/>
+künftigen fre&#255;tag als übermorgen wird eine Neue <rend class="latin">Opera</rend> gegeben<lbr/>
+werden,<lbr type="BD"/> die <rend class="latin">Musique</rend> |: ein <rend class="latin">galimathias</rend> :| vom einen hiesigen Jungen<lbr/>
+Menschen, <rend class="latin">sco<lbr type="BD"/>laren</rend> vom Wagenseil, welcher heist, <rend class="latin">Gallus Cantans,<lbr/>
+in arbore sedens, gigirigi<lbr type="BD"/> faciens;</rend> &#8211; Vermuthlich wird sie nicht<lbr/>
+viel gefallen; &#8211; aber doch besser als<lbr type="BD"/> ihre vorfahrerin, eine<lbr/>
+alte <rend class="latin">opera</rend> von <rend class="latin">gasman</rend> |: <rend class="latin">la notte crittica</rend> :| zu teutsch<lbr type="BD"/><lbr/>
+die unruhige Nacht &#8211; welche mit Mühe 3 <rend class="latin">representationen</rend> aus<pc force="weak">=</pc><lbr/>gehalten &#8211; de<abbr type="topline" expand="nn">n</abbr><lbr type="BD"/> &#8211; vor dieser war die <rend class="latin">exegrable opera</rend> von<lbr/>
+umlauf wovon ich ihnen geschrieben &#8211;<lbr type="BD"/> die ko<abbr type="topline" expand="nn">n</abbr>te sich nicht auf<lbr/>
+die dritte vorstellung hinauf arbeiten; &#8211; es ist, als<lbr type="BD"/> we<abbr type="topline" expand="nn">n</abbr> sie,<lbr/>
+da die teutsche oper ohne dies nach ostern stirbt, sie noch vor der<lbr type="BD"/><lbr/>
+zeit umbringen wollten; &#8211; und das thun selbst teutsche &#8211; <lbr/>
+pfui teufel! &#8211; <lbr type="forced"/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="2"/>
+Ich habe sie in meinem lezten brief ersuchet, den <rend class="latin">Gatti</rend> fleissig zu<lbr/>
+Mahnen,<lbr type="BD"/> wegen den welschen <rend class="latin">oper</rend> bücheln, und thue es nun auch; &#8211; <lbr/>
+&#8211; nun muß ich<lbr type="BD"/> ihnen meine <rend class="latin">Idèe</rend> sagen; &#8211; Ich glaube nicht<lbr/>
+daß sich die Welsche oper lange<lbr type="BD"/>&#160;<rend class="latin">Souteniren</rend> wird &#8211; und <u>ich</u> &#8211; halte<lbr/>
+es auch mit den Teutschn. &#8211; we<abbr type="topline" expand="nn">n</abbr> es mir<lbr type="BD"/> schon mehr Mühe kostet,<lbr/>
+so ist es mir doch lieber. &#8211; Jede <rend class="latin">Nation</rend> hat ihre<lbr type="BD"/> Oper &#8211; warum<lbr/>
+sollen wir Teutsche sie nicht haben? &#8211; ist die teutsche<lbr/>
+sprache<lbr type="BD"/> nicht so gut singbar wie die französische, und Englische? &#8211; <lbr/>
+&#8211; nicht singbarer<lbr type="BD"/> als die Russische? &#8211; Nun; &#8211; Ich schreibe<lbr/>
+izt eine teutsche <rend class="latin">opera</rend>&#160;<u>für mich:</u> &#8211;<lbr type="BD"/> Ich habe die <rend class="latin">Comœdie</rend><lbr/>
+vom <rend class="latin">goldoni</rend> &#8211; <rend class="latin">Il servitore di Due Padroni</rend> &#8211; dazu ge<pc force="weak">=</pc><lbr/>wählt &#8211; und der Erste Ackt ist schon ganz übersezt &#8211; <lbr/>
+der übersezer ist <rend class="latin">Baron</rend><lbr type="BD"/> Binder. &#8211; es ist aber alles noch<lbr/>
+ein geheimnüss, bis alles fertig ist; &#8211; nun,<lbr type="BD"/> was halten<lbr/>
+sie davon? &#8211; glauben sie nicht daß ich meine Sache gut<lbr/>
+dabe&#255; werde<lbr type="BD"/> machen kö<abbr type="topline" expand="nn">n</abbr>en? &#8211; Nun &#8211; ich muß schliessen;<lbr/>
+<rend class="latin">fischer</rend> ist be&#255; mir &#8211; der <rend class="latin">Bassist</rend><lbr type="BD"/> &#8211; er hat mich ersucht ich<lbr/>
+möchte wegen seiner dem <rend class="latin">Le gròs</rend> nach Paris schrei<lbr type="BD"/>ben &#8211; <lbr/>
+weil er noch diese fasten dahin gehen wird; &#8211; man<lbr/>
+thut hier den<lbr type="BD"/> Narrenstreich und lässt einen Ma<abbr type="topline" expand="nn">n</abbr> weg,<lbr/>
+der ni<abbr type="topline" expand="mm">m</abbr>er ersezt werden wird; &#8211;<lbr type="BD"/> Meine frau und<lbr/>
+ich küssen ihnen 1000mal die hände, und unsre liebe<lbr/>
+schwester<lbr type="BD"/> umarmen wir von herzen und sind Ewig Dero<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>______</ts><tshtm>____________________________________________________</tshtm><tspdf>\hfill </tspdf>gehorsamste kinder<lbr type="BD"/><lbr type="forced"/>
+<ts>______</ts><tshtm>____________________________________________________</tshtm><tspdf>\hfill </tspdf><rend class="latin">W: et C: Mozart</rend>&#160;<abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="3"/>
+<vacat/>
+<pg n="4"/>
+<rend class="latin">Gaetano Majorani<lbr type="forced"/>
+|: Caffarello :|<lbr type="forced"/>
+Amphion Theba<lbr type="forced"/>
+ego Domum.<lbr type="forced"/></rend>
+<lbr/>
+<anschrift rot="270">
+<add_seal type="post">Von Wien</add_seal><lbr/>
+<rend class="latin">À<lbr type="forced"/>
+Monsieur<lbr type="forced"/>
+Monsieur Leopold de Mozart<lbr type="forced"/>
+maitre de la Chapelle<lbr type="BD"/> de S: A: R:<lbr type="forced"/>
+l'archeveque de et à<lbr type="forced"/>
+<uu>Salzbourg</uu></rend></anschrift>
+<lbr/>
+<add_note rot="90" impl="pencil" schr_id="39408">1783<lbr/>5<h>t<abbr v="en"/></h>&#160;<rend class="latin">Febr</rend></add_note>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+</letter>
+</text>
+</MUP>

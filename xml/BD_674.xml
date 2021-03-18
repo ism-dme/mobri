@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2014">2014-5</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1240</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm (S. 1-2); Verbleib unbekannt (S. 3; Nachweis: Stargardt, Katalog 76, Nr. 944)</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana), S. 1-2</bibl>
+            <bibl type="source" subtype="RISM">Verbleib unbekannt, S. 3</bibl>
+            <bibl type="source" subtype="RISM">Nachweis: Stargardt, Katalog 76, Nr. 944</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:40:06 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_674.mup">
+<letter bd="674"><HEADER id="1240">WOLFGANG AMADÉ MOZART AN LEOPOLD MOZART IN SALZBURG<lbr/>
+WIEN, 25. MAI 1781<lbr/>
+mit Nachschrift von Constanze Weber</HEADER>
+<pg n="1"/>
+<add_num type="inline" impl="ink">96</add_num><ts>______</ts><tshtm>____________________________________________________________________</tshtm><tspdf>\hfill </tspdf><rend class="latin"><u>vienne</u> ce</rend> 25 <rend class="latin">de may</rend><lbr type="forced"/>
+<ts>_______</ts><tshtm>___________________________________________________________________________________________</tshtm><tspdf>\hfill </tspdf><uu>1781</uu><lbr type="forced"/>
+<rend class="latin">Mon trés cher Pére!</rend><lbr type="forced"/>
+<lbr type="forced"/>
+dermalen muß ich wirklich auch die Zeit stehlen, um sie nicht zu lange<lbr/>
+auf<lbr type="BD"/> einen Brief warten zu lassen. &#8211; de<abbr type="topline" expand="nn">n</abbr> Morgen ist unsere<lbr/>
+Erste Musick im au<lbr type="BD"/>garten. &#8211; um halb 9 uhr kö<abbr type="topline" expand="mm">m</abbr>t der <rend class="latin">Martin</rend><lbr/>
+mit einer kutsche; &#8211; da haben wir<lbr type="BD"/> noch 6 <rend class="latin">visiten</rend> zu machen. &#8211; <lbr/>
+de<abbr type="topline" expand="nn">n</abbr> um 11 uhr muß ich damit fertig se&#255;n, weil<lbr type="BD"/> ich zur <rend class="latin">Rombeck</rend><lbr/>
+muß. &#8211; da<abbr type="topline" expand="nn">n</abbr> speise ich bey der gräfin thun &#8211; <rend class="latin"><u>NB</u>:</rend> in ihren<lbr type="BD"/> garten.<lbr/>
+abends ist da<abbr type="topline" expand="nn">n</abbr> die Probe von der <rend class="latin">Musique</rend>. &#8211; Es wird<lbr/>
+eine <rend class="latin">Sinfonie</rend><lbr type="BD"/> von <rend class="latin">van suiten</rend> und von mir gemacht. &#8211; eine<lbr/>
+<rend class="latin">Dilettantin Mad:<h>ele</h></rend> Berger wird<lbr type="BD"/> singen. &#8211; ein knabe &#8211; mit<lbr/>
+Na<abbr type="topline" expand="mm">m</abbr>en Türk &#8211; wird ein <rend class="latin">Violin Concert</rend> &#8211; und<lbr type="BD"/> die frl: <rend class="latin">v:</rend> Auer<pc force="weak">=</pc><lbr/>ha<abbr type="topline" expand="mm">m</abbr>er und ich werden das <rend class="latin">Duett Concert ex Eb</rend> spiellen.<lbr/>
+<NS schr_id="48818">so öben ist ihr lieber sohn zur graffin thun ge<pc force="weak">=</pc><lbr/>rufen worden, und hat also die<lbr type="BD"/> zeit nicht seinem<lbr/>
+lieben Vatter dan briff zu eintigen, daß ihm ser<lbr/>
+leit ist, er<lbr type="BD"/> hat mir die <rend class="latin">Comesion</rend> gegeben ihnen es<lbr/>
+zu wisen zu machen, weil nun heit der<lbr type="BD"/> posttag<lbr/>
+ist damit sie nicht ohne briff von ihm sein<lbr/>
+daß nöchtemal würt er<lbr type="BD"/> seinem lieben Vatter<lbr/>
+schon daß mehrere schreiben, bitte also um Ver<pc force="weak">=</pc><lbr/>zeiun daß<lbr type="BD"/> ich schreibe, daß, was ihnen nicht<lbr/>
+so angenem ist, als daß was ihnen ihr herr<lbr type="BD"/><lbr/>
+so<abbr type="topline" expand="nn">n</abbr> geschriben hette; ich bin ihre ware dinerin<lbr/>
+und freindin,<lbr type="forced"/>
+<ts>______</ts><tshtm>______________________________________________</tshtm><tspdf>\hfill </tspdf><rend class="latin">Costanza Weber</rend><lbr type="forced"/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="2"/>
+bitte dero liebenswürtiget <rend class="latin">Ma:<h>elle</h></rend> tochter<lbr type="forced"/>
+mein <rend class="latin">compliment</rend> aus zu richten</NS>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal><lbr/>
+<pg n="3"/>
+<NI src="Unbekannt"><anschrift><rend class="latin">À<lbr type="forced"/>
+Monsieur<lbr type="forced"/>
+Monsieur Leopold de Mozart<lbr type="forced"/>
+maitre de la Chapelle<lbr type="BD"/> de S: A: R:<lbr type="forced"/>
+l'archeveque de et à<lbr type="forced"/>
+<u>Salzbourg</u>.</rend></anschrift></NI>
+</letter>
+</text>
+</MUP>

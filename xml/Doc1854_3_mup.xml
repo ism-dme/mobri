@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2010">2010-04</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=222</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:30:40 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/Doc1854_3_mup.txt">
+<HEADER id="222">LUDWIG FUCHS AN CARL THOMAS MOZART IN MAILAND<lbr/>
+MAILAND, 17. JANUAR 1854</HEADER>
+
+
+<pg n="1"/>
+<add_num type="inline" impl="ink"><rend class="latin">N<h><uu>o</uu></h></rend> 98</add_num><ts>__________________</ts><add_ident type="inline" impl="ink"><rend class="latin">Poststempel</rend> 17/I. 54</add_ident><lbr/>
+<lbr/>
+<ts>_____</ts>Wehrtester Herr!<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____</ts>Ich beeile mich mit umgehender Post<lbr/>
+die Beschreibung der Dose so wie des<lbr/>
+Kammes, zu senden.<lbr type="forced"/>
+Die kleine Skize möge die Dose einige<lbr/>
+Maßen versi<abbr type="topline" expand="nn">n</abbr>lichen. Der gelbe Reif,<lbr/>
+ist von Gold, die Dose selbst vom schwarzen<lbr/>
+Bein. Das Bild, auf Elfenbein gemahlt,<lbr/>
+unter Glas.<lbr type="forced"/>
+Der Kamm war ehemahls von weißer<lbr/>
+Bein durch die Zeit jedoch schon bedeutend<lbr/>
+gelb geworden, ungefähr 6-7 Zoll,<lbr type="forced"/>
+Ich bitte Sie um Vergebung, wenn<lbr/>
+ich so sehr belästige, aber ich <amend value="thue">thut</amend> es für<lbr/>
+meine Mutter, und glaube daß auch<lbr/>
+Sie für die Wittwen Ihres alten Freundes<lbr/>
+gerne ein kleines Opfer bringen werden.<lbr type="forced"/>
+Nächster Tage werde ich die Ehre haben,<lbr/>
+selbst zu kommen <abbr expand="und">u</abbr> zu danken womit<lbr/>
+ich verbleibe<lbr type="forced"/>
+<ts>______________________________</ts><tspdf>\hfill </tspdf>Ihr<lbr type="forced"/>
+<ts>_____________________________________</ts><tspdf>\hfill </tspdf>dankbarer<lbr type="forced"/>
+<ts>_______________________________</ts><tspdf>\hfill </tspdf>Ludwig <rend class="latin">Fuchs</rend><lbr type="forced"/>
+<ts>______________________________________</ts><tspdf>\hfill </tspdf>Kd.
+<pg n="2"/>
+<vacat/>
+<pg n="3"/>
+<vacat/>
+<pg n="4"/>
+<anschrift rot="90" lang="it"><rend class="latin"><u>All’</u><lbr type="forced"/>
+Signor S<h><uu>r</uu></h>&#160;<u>Carlo Mozart</u><lbr type="forced"/>
+<u>Contrada Chavalchina N<h>o</h></u><lbr type="forced"/>
+1419<lbr type="forced"/>
+<u>á</u><lbr type="forced"/>
+<u>Milano</u></rend></anschrift><lbr type="forced"/>
+
+<add_seal type="post">MILANO<lbr type="forced"/>
+<formula type="mfrac"><mn>17</mn><mi>1</mi></formula> </add_seal><lbr type="forced"/>
+
+<add_seal type="post">Porta Lettere<lbr type="forced"/>
+I Distribuz<h>e</h>.</add_seal></text>
+</MUP>

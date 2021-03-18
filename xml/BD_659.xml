@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2013">2013-12</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1225</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:40:01 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_659.mup">
+<letter bd="659"><HEADER id="1225">WOLFGANG AMADÉ MOZART AN LEOPOLD MOZART IN SALZBURG<lbr/>
+WIEN, 16. JANUAR 1782</HEADER>
+<pg n="1"/>
+<add_num type="inline" impl="pencil">127</add_num><ts>____</ts><tshtm>___________________________________________________________________________</tshtm><tspdf>\hfill </tspdf><rend class="latin"><uu>vienne</uu> ce</rend> 16 <rend class="latin">de Janvier</rend><lbr type="forced"/>
+<ts>___</ts><tshtm>___</tshtm><rend class="latin">Mon trés cher Pére!</rend><ts>_______</ts><tshtm>___________________________________________________________________</tshtm><tspdf>\hfill </tspdf><uu>1782</uu><lbr type="forced"/>
+<lbr type="forced"/>
+Ich danke ihnen für ihren wohlmeinenden, liebreichen Brief! &#8211; we<abbr type="topline" expand="nn">n</abbr> ich<lbr/>
+ihnen<lbr type="BD"/> auf alles, ausführliche Antwort geben wollte, müsste ich ein ganzes<lbr/>
+Buch Papier<lbr type="BD"/> voll schreiben. &#8211; weil nun das ohnmöglich ist, so will ich<lbr/>
+nur das Nothwen<lbr type="BD"/>digste Beantworten. der vormund heißt; h<abbr type="curve">:</abbr>&#160;<rend class="latin">v:</rend> thorwarth<lbr/>
+&#8211; ist <rend class="latin">inspector</rend> über die theater=<rend class="latin">quarderobbe</rend> &#8211; mit einem Wort, durch<lbr/>
+ihn muß alles gehen was<lbr type="BD"/> nur auf das theater einfluß hat. &#8211; durch<lbr/>
+ihn sind mir auch die 50 dugaten vom<lbr type="BD"/> ka&#255;ser geschickt worden. &#8211; <lbr/>
+mit ihm habe ich auch wegen der <rend class="latin">accademie</rend> im<lbr type="BD"/> theater gesprochen,<lbr/>
+weil das meiste auf ihn ankö<abbr type="topline" expand="mm">m</abbr>t, &#8211; und er sehr viel be&#255;m<lbr type="BD"/> graf<lbr/>
+Rosenberg und Baron kienma&#255;r gilt. &#8211; ich muß ihnen gestehen,<lbr/>
+daß ich<lbr type="BD"/> mir selbst gedacht habe, er wird ihnen, ohne mir ein Wort<lbr/>
+davon zu sagen,<lbr type="BD"/> die ganze sache entdecken; &#8211; und daß er dieses<lbr/>
+nicht gethan, sondern es |: ohn<lbr type="BD"/>geacht seines EhrenWorts :| der ganzen<lbr/>
+Stadt Wie<abbr type="topline" expand="nn">n</abbr> kund gemacht, hat mir<lbr type="BD"/> von der guten Me&#255;nung die<lbr/>
+ich von ihm gehabt vieles geno<abbr type="topline" expand="mm">m</abbr>en. &#8211; daß die<lbr type="BD"/>&#160;<rend class="latin">Mad:<h>me</h></rend> Weber und<lbr/>
+h<abbr type="curve">:</abbr>&#160;<rend class="latin">v:</rend> thorwarth aus zu vieller sicherheit für sich selbst<lbr type="BD"/> gefehlt haben<lbr/>
+mögen, will ich ihnen gerne zulassen, obwohlen die <rend class="latin">Madame</rend><lbr type="BD"/> nicht mehr<lbr/>
+ihre eigene frau ist, und sich, besonders in dergleichen sachen,<lbr type="BD"/> ganz dem<lbr/>
+vormund überlassen muß; und dieser |: da er mich niemalen<lbr/>
+ge<lbr type="BD"/>ka<abbr type="topline" expand="nn">n</abbr>t :| mir wahrhaftig kein zutrauen schuldig ist &#8211; doch &#8211; war<lbr/>
+er in der<lbr type="BD"/> forderung einer schriftlichen verpflichtung zu über<pc force="weak">=</pc><lbr/>eilt &#8211; das ist unwieder<lbr type="BD"/>sprechlich; &#8211; besonders da ich ihm sagte,<lbr/>
+daß sie noch gar nichts davon wüss<lbr type="BD"/>ten, und ich es ihnen nun<lbr/>
+ohnmöglich entdecken kö<abbr type="topline" expand="nn">n</abbr>te; &#8211; er möchte also nur<lbr type="BD"/> noch eine<lbr/>
+kurze zeit damit gedult haben, bis meine umstände eine<lbr/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="2"/>
+andere<lbr type="BD"/> Wendung bekä<abbr type="topline" expand="mm">m</abbr>en, da<abbr type="topline" expand="nn">n</abbr> wollte ich ihnen alles schreiben,<lbr/>
+und soda<abbr type="topline" expand="nn">n</abbr><lbr type="BD"/> würde die ganze sache in ordnung gehen. &#8211; allein &#8211; nun,<lbr/>
+es ist vorbe&#255;; &#8211; und<lbr type="BD"/> die liebe muß mich entschuldigen; &#8211; h<abbr type="curve">:</abbr>&#160;<rend class="latin">v:</rend><lbr/>
+thorwarth hat aber gefehlt; &#8211; doch<lbr type="BD"/> nicht so sehr, daß er und <rend class="latin">Mad:<h>me</h></rend><lbr/>
+Weber in E&#255;sen geschlagen Gassen kehren,<lbr type="BD"/> und am halse eine<lbr/>
+Tafel tragen sollten, mit den Worten; <u>verführer der Ju<lbr type="BD"/>gend.</u><lbr/>
+das ist auch übertrieben. &#8211; we<abbr type="topline" expand="nn">n</abbr> das wahr wäre was sie da ge<pc force="weak">=</pc><lbr/>schrieben,<lbr type="BD"/> daß man mir zur liebe thür und thor erröfnet, mir<lbr/>
+alle fre&#255;heit im hause<lbr type="BD"/> gelassen, mir alle gelegenheit dazu<lbr/>
+gegeben <abbr expand="etc">p</abbr>: <abbr expand="etc">p</abbr>: so wäre die straffe doch<lbr type="BD"/> auch noch zu auf=fallend.<lbr/>
+&#8211; daß es nicht so ist, brauch ich nicht erst zu sagen;<lbr type="BD"/> &#8211; mir<lbr/>
+thut die vermuthung weh genug daß sie glauben kö<abbr type="topline" expand="nn">n</abbr>en,<lbr/>
+daß ihr Sohn<lbr type="BD"/> so ein hauß <rend class="latin">frequent</rend>iren kö<abbr type="topline" expand="nn">n</abbr>te, wo es also<lbr/>
+zugeht. &#8211; Nur so viel muß ich<lbr type="BD"/> ihnen sagen, daß sie Just das<lbr/>
+gegentheil davon glauben därfen. &#8211; genug<lbr type="BD"/> davon; &#8211; <lbr type="forced"/>
+Nun vom <rend class="latin"><u>Clementi</u>.</rend> &#8211; dieser ist ein braver <rend class="latin">Cembalist</rend>. &#8211; <lbr/>
+da<abbr type="topline" expand="nn">n</abbr> ist auch alles<lbr type="BD"/> gesagt. &#8211; er hat sehr viele fertigkeit<lbr/>
+in der rechten hand. &#8211; seine haupt<rend class="latin">Pasa<lbr type="BD"/>gen</rend> sind die<lbr/>
+Terzen. &#8211; übrigens hat er um keinen kreutzer geschmack<lbr/>
+noch<lbr type="BD"/> empfindung. &#8211; ein blosser <rend class="latin">Mechanicus</rend>.<lbr type="forced"/>
+der ka&#255;ser that |: nach dem wir uns genug <rend class="latin">Complimenten</rend><lbr/>
+machten :| den aus=<lbr type="BD"/>spruch, daß <u>Er</u> zu spiellen anfangen<lbr/>
+sollte. <rend class="latin">La santa chiesa Catholica</rend> sagte er.<lbr type="BD"/> weil <rend class="latin">Clementi</rend><lbr/>
+ein Römer ist. &#8211; er <rend class="latin">præludi</rend>rte, und spiellte eine <rend class="latin">Sonate</rend><lbr/>
+&#8211; da<abbr type="topline" expand="nn">n</abbr><lbr type="BD"/> sagte der ka&#255;ser zu mir <rend class="latin">allons</rend> drauf los. &#8211; ich <rend class="latin">præ<pc force="weak">=</pc><lbr/>ludirte</rend> auch und spiellte<lbr type="BD"/>&#160;<rend class="latin">variazionen</rend>. &#8211; da<abbr type="topline" expand="nn">n</abbr> gab die Gros<pc force="weak">=</pc><lbr/>fürstin <rend class="latin">Sonaten</rend> von <rend class="latin">Paesello</rend> her |: <rend class="latin">Miserable</rend><lbr type="BD"/> von seiner<lbr/>
+hand geschrieben :| daraus musste ich die <rend class="latin">allegro</rend> und er die<lbr/>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="3"/>
+<rend class="latin">An<lbr type="BD"/>dante</rend> und <rend class="latin">Rondò</rend> spiellen. &#8211; da<abbr type="topline" expand="nn">n</abbr> na<abbr type="topline" expand="mm">m</abbr>en wir ein thema<lbr/>
+daraus, und führten<lbr type="BD"/> es auf 2 <rend class="latin">Piano forte</rend> aus. &#8211; Merkwürdig<lbr/>
+ist dabe&#255;, daß ich für mich das <rend class="latin">Piano<lbr type="BD"/> forte</rend> der gräfin thun gelehnt,<lbr/>
+und aber nur |: als ich allein gespiellt :| darauf<lbr type="BD"/> gespiellt habe. &#8211; <lbr/>
+weil es der ka&#255;ser also gewollt. &#8211; und <u>Nb</u>: das andere war<lbr type="BD"/><lbr/>
+versti<abbr type="topline" expand="mm">m</abbr>t und 3 Tasten blieben stecken. &#8211; <u>es thut nichts</u>, sagte der<lbr/>
+ka&#255;ser; &#8211;<lbr type="BD"/> ich ne<abbr type="topline" expand="mm">m</abbr>e es so, und zwar auf der besten Seite, daß<lbr/>
+der ka&#255;ser Meine kunst<lbr type="BD"/> und Wissenschaft in der Musick schon<lbr/>
+ke<abbr type="topline" expand="nn">n</abbr>t, und nur den fremden recht hat<lbr type="BD"/> verkosten wollen. &#8211; <lbr type="forced"/>
+übrigens weis ich von sehr guter hand, daß er recht zufrieden war.<lbr/>
+der ka&#255;ser<lbr type="BD"/> war sehr gnädig gegen mich, und hat vieles<lbr/>
+heimlich mit mir gesprochen. &#8211;<lbr type="BD"/> hat auch von meiner he&#255;rath<lbr/>
+mit mir gesprochen. &#8211; wer weis &#8211; vielleicht &#8211;<lbr type="BD"/>&#160;<lbr/>
+was glauben sie? &#8211; versuchen ka<abbr type="topline" expand="nn">n</abbr> man es i<abbr type="topline" expand="mm">m</abbr>er. &#8211; <lbr type="forced"/>
+mit Nächstem mehr. &#8211; leben sie wohl. ich küsse ihnen 1000mal<lbr/>
+die hände, und<lbr type="BD"/> meine liebe schwester umarme ich von<lbr/>
+ganzen herzen und bin Ewig dero<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>____</ts><tshtm>____________________________________________</tshtm><tspdf>\hfill </tspdf>gehorsamster Sohn<lbr type="BD"/><lbr type="forced"/>
+<ts>____</ts><tshtm>____________________________________________</tshtm><tspdf>\hfill </tspdf>W: A: Mozart <abbr expand="manu propria">mp</abbr><lbr/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="4"/>
+<anschrift rot="270"><rend class="latin">À<lbr type="forced"/>
+Monsieur<lbr type="forced"/>
+Monsieur Leopold Mozart<lbr type="forced"/>
+maitre de la Chapelle de<lbr type="BD"/> et à<lbr type="forced"/>
+<u>Salzbourg.</u></rend></anschrift>
+<lbr/>
+<add_num impl="pencil" rot="270" schr_id="39408"><rend class="latin">N:</rend>&#160;<u>46.</u></add_num>
+<lbr/>
+<add_note impl="ink" rot="90" schr_id="">16t<abbr v="en"/>&#160;<rend class="latin">Jenner</rend><lbr/> 1782.</add_note>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+</letter>
+</text>
+</MUP>

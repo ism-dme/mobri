@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2014">2014-5</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1750</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">DK-Kk</bibl>
+            <bibl type="source" subtype="RISM">DK-Kk (Det kongelige Bibliotek Slotsholmen)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:42:22 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_1179.mup">
+<letter bd="1179"><NI src="Dk-Kk"><HEADER id="1750">WOLFGANG AMADÉ MOZART AN CONSTANZE MOZART IN BADEN BEI WIEN<lbr/>
+WIEN, 5. JULI 1791</HEADER>
+<pg n="1"/>
+<ts>_____________</ts><tshtm>__________</tshtm>liebstes, bestes Weibchen! &#8211; <lbr type="forced"/>
+<lbr type="forced"/>
+Hier sind 25 fl: &#8211; mache im Baade deine Richtigkeit &#8211; wenn ich dann<lbr/>
+<add_note schr_id="57010"><ts>__________________________________________________________</ts><rend class="latin">N. N.</rend></add_note>
+ko<abbr type="topline" expand="mm">m</abbr>e,<lbr type="BD"/> machen wir sie im ganzen. &#60;Süssmayer&#62; soll mir doch <rend class="latin">N:<h>o</h></rend> 4 und<lbr/>
+5 von meiner<lbr type="BD"/> schrift schicken &#8211; auch was ich sonst begehrt habe, und soll mich<lbr/>
+&#60;im Arsch<lbr type="BD"/> lecken&#62;. &#8211; ich muß zum Wetzlar eilen sonst treffe ich ihn<lbr/>
+nicht mehr an. &#8211;<lbr type="BD"/>&#160;<rend class="latin">adieu</rend>. &#8211; ich küsse dich 1000mal und bin Ewig dein<lbr type="forced"/>
+<ts>_________</ts><tshtm>_________________________________________________________________</tshtm><tspdf>\hfill </tspdf>Mozart <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<u>Wienn</u> den 5:<h>t</h>&#160;<rend class="latin">Julliy</rend>. <uu>1791</uu>.<lbr type="forced"/>
+<lbr type="forced"/>
+<rend class="latin">P: S:</rend> hast du nicht gelacht wie du 3 fl: erhalten hast? &#8211; ich dachte mir aber<lbr type="BD"/><lbr/>
+es ist doch besser als nichts! &#8211; unterhalte dich gut schatzerl.<lbr/>
+und sey ewig<lbr type="BD"/> meine <rend class="latin">Stanzi Marini</rend>.
+<pg n="2"/>
+<add_note schr_id="57010"><rend class="latin">Nature her pencil to his hands commits,<lbr type="forced"/>
+and thus in all her forms to this great master fits.</rend></add_note>
+</NI>
+</letter>
+</text>
+</MUP>

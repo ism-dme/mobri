@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2020">2020-02</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=600</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Verbleib unbekannt (Vorlage: Abschrift um 1768 in D-B)</bibl>
+            <bibl type="source" subtype="RISM">Verbleib unbekannt, Vorlage: Abschrift um 1768 in D-B</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:36:28 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_42.mup">
+<letter bd="42">
+<NI src="unbekannt">
+<HEADER id="600">LEOPOLD MOZART AN LORENZ HAGENAUER IN SALZBURG<lbr/>
+WIEN, 24. NOVEMBER 1762</HEADER>
+<pg n="1"/>
+<tshtm><additum>[... (Schluss der Abschrift des ersten Teils des Briefes vom 6. November 1762)]</additum></tshtm><lbr/>
+<lbr/>
+<add_num schr_id="57010" impl="crayon" color="red"><ts>_________________</ts>N. 7.</add_num>
+<ts>________________________</ts><tspdf>\hfill </tspdf>Wien den 24:<h>tn</h>&#160;<rend class="latin">Novembris</rend> 1762.<lbr type="forced"/>
+<lbr type="forced"/>
+Dero Leztes habe richtig erhalten. Ich hätte auch alles<lbr/>
+so gethan wie sie mir<lbr type="BD"/> und die bewuste Gute Freunde<lbr/>
+es angerathen haben, wenn ich sogleich mit mir<lbr type="BD"/> selbst<lbr/>
+hätte einig werden können: und endlich habe ich den<lbr/>
+Entschlus gefast<lbr type="BD"/> solches auf ko<abbr type="topline" expand="mm">m</abbr>enden Post=Tag zu thun.<lbr/>
+Die Ursachen, die mich in einen<lbr type="BD"/> gewis betrübten<lbr/>
+Stand der Unentschlossenheit gesetzet, mus ich ihnen<lbr/>
+seiner<lbr type="BD"/> zeit mündlich sagen, Doch wird dann auch<lbr/>
+<pg n="2"/>
+Dieß nicht vergeblich se&#255;n? &#8211; &#8211;<lbr type="BD"/> genug! wenn auch Dieses fehl<lbr/>
+schlägt, so muß ich dann auf andere Gedanken<lbr type="BD"/> verfallen.<lbr/>
+Nun auf uns selbst zu ko<abbr type="topline" expand="mm">m</abbr>en; so leben wir Gott Lob gesund,<lbr/>
+und<lbr type="BD"/> müssen mit gedult abwarten, bis wir unsere Sache<lbr/>
+wieder hier in den alten<lbr type="BD"/> guten Gang bringen, denn hier<lbr/>
+förcht sich die <rend class="latin">Noblesse</rend> vor Blattern Flecken,<lbr type="BD"/> und allen<lbr/>
+Gattungen des Ausschlags, folglich hat uns die Krankheit<lbr/>
+des <persName key="39409">Buben</persName><lbr type="BD"/> um <rend class="latin">respective</rend> 4. Wochen zurukgeschlagen: dann<lbr/>
+obwohl wir unterdessen, als er<lbr type="BD"/> schon gesund ist, 21 Dukaten<lbr/>
+eingeno<abbr type="topline" expand="mm">m</abbr>en, so ist doch solches nur eine Kleinig<lbr type="BD"/>keit: in dem<lbr/>
+wir täglich mit einem Dukaten genau ausko<abbr type="topline" expand="mm">m</abbr>en; und<lbr/>
+es giebt täg<lbr type="BD"/>lich Nebenbe&#255; andere Ausgaben. Unter<pc force="weak">=</pc><lbr/>dessen leben wir sonst guts Muths. Die<lbr type="BD"/> Hof. <rend class="latin">Dame</rend> Frl:<lbr/>
+Gräfi<abbr type="topline" expand="nn">n</abbr> <persName key="83521"><rend class="latin">Theresia <abbr type="topline" expand="von">v</abbr> Lodron</rend></persName> hat uns kürzlich grosse Ehren<lbr/>
+erwie<lbr type="BD"/>sen; sie hat uns in der <rend class="latin">Comedie</rend> mit einer <rend class="latin">Loge</rend><lbr/>
+bedienet |: die hart zu beko<abbr type="topline" expand="mm">m</abbr>en<lbr type="BD"/> sind :| und hat meinem<lbr/>
+<persName key="39409">Woferl</persName> SchuhSchnallen verehrt, die goldene Blattl haben,<lbr type="BD"/><lbr/>
+und für ganz goldene Schnallen gehalten werden. Am<lbr/>
+Elisabetha Tag haben<lbr type="BD"/> wir die <rend class="latin">Galla</rend>=Tafel gesehen.<lbr/>
+Die Ehren und Gnaden, die uns von der <rend class="latin">Nob<lbr type="BD"/>lesse</rend> alda<lbr/>
+wiederfahren sind ausnehmend; und es wird ihnen<lbr/>
+genug se&#255;n,<lbr type="BD"/> wenn ich ihnen sage, daß Se: Maiestät<lbr/>
+die <persName key="56108">Kaiseri<abbr type="topline" expand="nn">n</abbr></persName> mich von der Tafel weg<lbr type="BD"/> angeruffen, ob der<lbr/>
+<pg n="3"/>
+<persName key="39409">Bub</persName> nun recht gesund se&#255;e? Das <rend class="latin">Caecilia</rend> Fest zu beschreiben<lbr type="BD"/><lbr/>
+mus ich auf eine mündliche Unterredung ersparen, dann<lbr/>
+wir werden viele<lbr type="BD"/>&#160;<rend class="latin">Sessiones</rend> nöthig haben, um alles ins klare<lbr/>
+zu bringen. am <rend class="latin">Caecilia</rend> Fest haben<lbr type="BD"/> wir be&#255; dem Kaiserl: h<abbr type="curve">:</abbr><lbr/>
+<rend class="latin">Capell</rend>meister <persName key="58186"><rend class="latin"><abbr type="topline" expand="von">v</abbr> Reitter</rend></persName> zu Mittag gespeiset. Wenn wir<lbr type="BD"/><lbr/>
+nach Hause ko<abbr type="topline" expand="mm">m</abbr>en, werde ich der <persName key="75368">Fr<abbr type="curve">:</abbr> Hagenauerin</persName> die<lbr/>
+<u>Speiß <rend class="latin">Lista</rend>&#160;<rend class="latin">reciti</rend><lbr type="BD"/>ren</u>. Gestern haben wir be&#255; dem <persName key="83522">h<abbr type="curve">:</abbr><lbr/>
+<rend class="latin"><abbr type="topline" expand="von">v</abbr> Wahlau</rend></persName> gespeist, und Abends hat uns<lbr type="BD"/> unser <persName key="73246">h<abbr type="curve">:</abbr>&#160;<rend class="latin">Doctor<lbr/>
+Bernhard</rend></persName> in die <rend class="latin">Opera</rend> in eine <rend class="latin">Loge</rend> abgehollet. So<lbr/>
+geht halt<lbr type="BD"/> im Namen Gottes ein Tag nach dem an<pc force="weak">=</pc><lbr/>dern weg. zum <persName key="58186">h<abbr type="curve">.</abbr>&#160;<rend class="latin">Reitter</rend></persName> und <persName key="83522">h<abbr type="curve">:</abbr>&#160;<rend class="latin">v.<lbr type="BD"/> Wahlau</rend></persName> wären<lbr/>
+wir, so oft wir wollten, eingeladen: allein es möchte<lbr/>
+der Ge<lbr type="BD"/>sundheit meiner Kinder schädlich se&#255;n, unter<lbr/>
+anderen kosten die Wägen mich sehr viel, denn 2.<lbr/>
+3. auch 4 Siebenzehner des Tags ist <rend class="latin">ordinaire</rend>,<lbr/>
+und werden<lbr type="BD"/> wir durch Herrschafts Wägen bedient,<lbr/>
+so fressen die Trünkgelder für Kutscher<lbr type="BD"/> und<lbr/>
+<rend class="latin">Laquey</rend> eben soviel. Wenn sollen wir dann nach Hause<lbr/>
+ko<abbr type="topline" expand="mm">m</abbr>en? &#8211; &#8211; auf<lbr type="BD"/> Weihnachten oder auf das Neue<lbr/>
+Jahr? &#8211; &#8211; leben sie mit dero <persName key="75368">Frau Gemahli<abbr type="topline" expand="nn">n</abbr></persName><lbr type="BD"/><lbr/>
+und sa<abbr type="topline" expand="mm">m</abbr>entl. angehörigen wohl auf, und se&#255;en<lbr/>
+sie versichert, daß ich er<lbr type="BD"/>sterbe.
+</NI>
+</letter>
+</text>
+</MUP>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2009">2009-08-20</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=202</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:30:31 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/Doc1853_8_mup.txt">
+<letter lang="it"><HEADER id="202">GIOVANNI SASSI q<h>m</h> DONATO AN CARL THOMAS MOZART IN MAILAND<lbr/>
+CAVERSACCIO, 22. AUGUST 1853</HEADER>
+
+<pg n="1"/>
+<add_num impl="ink"><u><rend class="latin">N<h><uu>o</uu></h></rend> 3</u></add_num>
+<rend class="latin">Ornati<h><ovl>mo</ovl></h> mio Caro Sig.<h>r</h> Carlo</rend><lbr type="forced"/>
+<lbr type="forced"/>
+<ts>___________________________________</ts><tspdf>\hfill </tspdf><rend class="latin">Caversaccio li 22. Agosto 1853</rend><lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____</ts><rend class="latin">Il Sig.<h>r</h> Parroco di Bizzarone mi disse per quanto abbia<lbr/>
+frugato pei libri battesimali ma non à mai pot<pc force="weak">=</pc><lbr/>uto vedere il Gisouè del signore; è percio io<lbr/>
+averej Pensato che la strada più curta e sicu<pc force="weak">=</pc><lbr/>ra per ottenere le Carte di sicurezza Personale<lbr/>
+per il Giuseppe sarebbe di Elegere lo stesso Giuseppe<lbr/>
+il suo domicilio presso di me in Caversaccio che<lbr/>
+io di tutto quore le offro, indi dietro un pronto<lbr/>
+di lei riscontro che acetta il d.<h>o</h> domicilio li farò im<pc force="weak">=</pc><lbr/>ediatamente Estrare la Carta di Sicurezza ò Passaporto<lbr/>
+come crede, e lo spedirò a Milano, in caso pero che<lbr/>
+acettasse quanto Sopra nel riscontrarmi mi scriverà<lbr/>
+i conotati Personali del Giuseppe per risparm<pc force="weak">=</pc><lbr/>iare di venire Esso in persona, e di tutta fretta<lbr/>
+ma di tutto quore Passo a Riverirla Sono</rend><lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_________________________</ts><tspdf>\hfill </tspdf><rend class="latin">Umill<h><ovl>mo</ovl></h> Servitore, Sassi Giovanni<lbr type="forced"/>
+<ts>_________________________</ts><tspdf>\hfill </tspdf>q<h><ovl>m</ovl></h>&#160;<u>Donato</u></rend><lbr/><lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="2"/>
+<vacat/>
+<pg n="3"/>
+<vacat/>
+<pg n="4"/>
+<anschrift rot="90"><rend class="latin">All Ornat<h><ovl>mo</ovl></h> Signore<lbr type="forced"/>
+Carlo Mozart', Strada<lbr type="forced"/>
+della Cavalchina N.<h>o </h>1419.<lbr type="forced"/>
+<u>Milano</u></rend></anschrift><lbr type="forced"/>
+
+<object type="stamp" price="15 centesimi"></object><lbr type="forced"/>
+<lbr type="forced"/>
+<add_seal type="post">COMO<lbr type="forced"/>
+<formula type="mfrac"><mn>23</mn><mi>8</mi></formula></add_seal><lbr type="forced"/>
+
+<add_seal type="post">MILANO<lbr type="forced"/>
+<formula type="mfrac"><mn>24</mn><mi>8</mi></formula></add_seal><lbr type="forced"/>
+
+<add_seal type="post">Porta lettere<lbr type="forced"/>
+I Distribuz<h>e</h>.</add_seal>
+</letter></text>
+</MUP>

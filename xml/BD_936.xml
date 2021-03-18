@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2016">2016-6</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1506</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:41:14 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_936.mup">
+<letter bd="936"><HEADER id="1506">LEOPOLD MOZART AN MARIA ANNA VON BERCHTOLD ZU SONNENBURG IN ST. GILGEN<lbr/>
+MÜNCHEN, 1. MÄRZ 1786</HEADER>
+<pg n="1"/>
+<ts>__________</ts><tshtm>_________________________________________________________________</tshtm><tspdf>\hfill </tspdf>Münch<abbr v="en"/> d<abbr v="en"/> 1<h>t<abbr v="en"/></h> Merz<lbr type="BD"/><lbr type="forced"/>
+<ts>__________</ts><tshtm>______________________________________________________________________________________</tshtm><tspdf>\hfill </tspdf>1786<lbr type="forced"/>
+<lbr type="forced"/>
+Da morg<abbr v="en"/> d<abbr v="en"/> 2<h>t<abbr v="en"/></h> Merz ein grosses Liebhaber <rend class="latin">Concert</rend> se&#255;n wird, <abbr expand="und">u</abbr><lbr/>
+ich<lbr type="BD"/> noch niemals den Pracht dieses <rend class="latin">Concert</rend>Sales geseh<abbr v="en"/> habe; so werde<lbr/>
+am<lbr type="BD"/> Freytag d<abbr v="en"/> 3<h>t<abbr v="en"/></h> abreisen, folglich da du dieses liesest in Salzb<abbr type="curve">:</abbr> mit<lbr/>
+Gottes<lbr type="BD"/> Hilfe angelangt se&#255;n. Der Domh<abbr type="curve">:</abbr> Gr: Starmberg ist auch hier,<lbr/>
+wohnt be&#255;m<lbr type="BD"/> h<abbr type="curve">:</abbr>&#160;<rend class="latin">Canonic<abbr v="us"/> Bernat</rend>, die sich dir empfehl<abbr v="en"/>, und er wird<lbr/>
+auch des <rend class="latin">Concerts</rend><lbr type="BD"/> weg<abbr v="en"/> erst am Freytag von hier nach Passau abgeh<abbr v="en"/>.<lbr/>
+Dieses <rend class="latin">Concert</rend> ist aber<lbr type="BD"/> aus folgend<abbr v="en"/> Ursach<abbr v="en"/> mir angenehm <abbr expand="und">u</abbr> merk<pc force="weak">=</pc><lbr/>würdig. Der Churf<abbr type="curve">:</abbr> h<abbr type="curve">:</abbr><lbr type="BD"/>&#160;<rend class="latin">Concert</rend>meister <suppl hand="self" pos="infra">Fränzl</suppl> ist <u>zum aller erst<abbr v="en"/> mahl</u><lbr/>
+von Manheim hier vor 8 tag<abbr v="en"/><lbr type="BD"/> angeko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>, &#8211; hat sein<abbr v="en"/> Sohn von<lbr/>
+18 od<abbr v="er"/> 19 Jahr be&#255; sich, sieht d<abbr v="er"/><lbr type="BD"/>&#160;<rend class="latin">Ca<abbr type="topline" expand="nn">n</abbr>abich Rosel</rend> od<abbr v="er"/> nun <rend class="latin">M:<h>dme</h> Schulz</rend><lbr/>
+ganz ähnlich, da seine seel: Mutter<lbr type="BD"/> die Schwester d<abbr v="er"/> <rend class="latin">M:<h>dme</h> Ca<abbr type="topline" expand="nn">n</abbr>abich</rend><lbr/>
+war. diese 2 <u>Fränzl</u>, Vatter <abbr expand="und">u</abbr> Sohn,<lbr type="BD"/> werd<abbr v="en"/> jed<abbr v="er"/> ein <rend class="latin">Concert</rend> auf<lbr/>
+d<abbr v="er"/> <rend class="latin">Violin</rend> spiel<abbr v="en"/>. <rend class="latin"><u>Le Brun</u></rend>&#160;<abbr expand="und">u</abbr>&#160;<rend class="latin"><u>Bologna</u></rend> werd<abbr v="en"/><lbr type="BD"/> sing<abbr v="en"/>. h<abbr type="curve">:</abbr>&#160;<rend class="latin"><u>Le brun</u></rend><lbr/>
+ein neues <rend class="latin">Hautbois Concert</rend> blas<abbr v="en"/>. h<abbr type="curve">:</abbr>&#160;<u>Schwarz</u> ein schönes<lbr type="BD"/>&#160;<rend class="latin">Concert</rend><lbr/>
+vom <rend class="latin">Reicha</rend> auf dem Violozell spiel<abbr v="en"/>. und das <u><rend class="latin">Brochard</rend></u>&#160;<u>Hanch<abbr v="en"/></u><lbr type="BD"/><lbr/>
+wird das <rend class="latin">Concert ex A</rend> von deinem Brud<abbr v="er"/> spielen. die <rend class="latin">Synfoni<abbr v="en"/></rend><lbr/>
+werd<abbr v="en"/> vom<lbr type="BD"/>&#160;<rend class="latin"><u>Rosetti</u></rend> se&#255;n, d<abbr v="er"/> hier war, aber schon wied<abbr v="er"/> nach Wallerstein<lbr/>
+abgereist ist,<lbr type="BD"/> der alte 76jährige <u><rend class="latin">Richter</rend></u>, Kapellmeister des<lbr/>
+Do<abbr type="topline" expand="mm">m</abbr>stifts zu Strasburg ist auch<lbr type="BD"/> hier, wohnt unt<abbr v="en"/> in unserm Hause<lbr/>
+be&#255;m Franz Lang. und eb<abbr v="en"/> war d<abbr v="er"/><lbr type="BD"/>&#160;<u>Musikstecher <abbr expand="und">u</abbr> Verleger <rend class="latin">Götz</rend></u><lbr/>
+von Ma<abbr type="topline" expand="nn">n</abbr>heim be&#255; mir; d<abbr v="er"/> nach 4 täge<lbr type="BD"/> wied<abbr v="er"/> nach Hause reiset.<lbr type="forced"/>
+Den <u>4<h>t<abbr v="en"/></h> wird <rend class="latin">Bologna</rend></u> nach Wie<abbr type="topline" expand="nn">n</abbr> verreisen: ich musste deinem Brud<abbr v="er"/><lbr type="BD"/><lbr/>
+schreib<abbr v="en"/>, daß er ihm ein Zi<abbr type="topline" expand="mm">m</abbr>er bestellt. Den 6 od<abbr v="er"/> 7 geh<abbr v="en"/>&#160;<rend class="latin">Le Brun</rend>&#160;<abbr expand="und">u</abbr><lbr type="BD"/><lbr/>
+seine Frau nach <rend class="latin">Neapel</rend> um alda 4 <rend class="latin">opern</rend>, das jahr durch, zu<lbr/>
+sing<abbr v="en"/>. Sie<lbr type="BD"/> geh<abbr v="en"/> über Salzb<abbr type="curve">:</abbr>, um den Erzb<abbr type="curve">.</abbr> um <u>EmpfehlungsSchreib<abbr v="en"/></u><lbr/>
+nach Rom<lbr type="BD"/> zu bitt<abbr v="en"/>: <rend class="latin"><u>NB</u></rend> vermutlich auch in d<abbr v="er"/> Hofnung, daß d<abbr v="er"/> Erzb<abbr type="curve">.</abbr><lbr/>
+verlang<abbr v="en"/><lbr type="BD"/> möchte, daß sie sich <rend class="latin">producie</rend>r<abbr v="en"/> möcht<abbr v="en"/>. h<abbr type="curve">:</abbr> Fränzl kam in d<abbr v="er"/><lbr/>
+Absicht um<lbr type="BD"/> mit seinem<tshtm>_________________________________________</tshtm>Sohn nach Wie<abbr type="topline" expand="nn">n</abbr> zu geh<abbr v="en"/>;<lbr/>
+da aber keine Anstalt<tshtm>___________________________________________</tshtm>in Wie<abbr type="topline" expand="nn">n</abbr> ge<lbr type="BD"/>troff<abbr v="en"/> war,<lbr/>
+so musste auch an dein<abbr v="en"/><tshtm>______________________________________</tshtm>Brud<abbr v="er"/> schreib<abbr v="en"/>, <abbr expand="und">u</abbr> sie erwart<abbr v="en"/><lbr/>
+nun<lbr type="BD"/> Antwort, den die<tshtm>____________________________________________</tshtm><rend class="latin">Accademi</rend>plätze werd<abbr v="en"/><lbr/>
+itzt schon alle verstellt<tshtm>________________________________________</tshtm>se&#255;n. Ich vermuthe fast<lbr/>
+daß h<abbr type="curve">:</abbr>&#160;<rend class="latin">Le Brun</rend>&#160;<abbr expand="und">u</abbr> seine<tshtm>________________________________________</tshtm>Frau sing<abbr v="en"/>&#160;<abbr expand="und">u</abbr> blas<abbr v="en"/> wird,<lbr/>
+weil<lbr type="BD"/>&#160;<rend class="latin">Le Brun</rend> be&#255;m Erzb<abbr type="curve">:</abbr> |: nach meiner Einleitung :| <rend class="latin">audienz</rend> nehm<abbr v="en"/>, ihn um<lbr type="BD"/><lbr/>
+Briefe bitt<abbr v="en"/> und sich <rend class="latin"><u>NB</u></rend> ohne <rend class="latin">Interesse</rend> antrag<abbr v="en"/> wird par <rend class="latin">Complaisence et</rend><lbr type="BD"/><lbr/>
+<rend class="latin">Ricco<abbr type="topline" expand="nn">n</abbr>oissence</rend>. das würde folglich d<abbr v="en"/> 9<h>t<abbr v="en"/></h> gescheh<abbr v="en"/>. dieses berichte in E&#255;l<lbr type="BD"/>&#160;<abbr expand="und">u</abbr><lbr/>
+bin euer redlicher Vatter Mozart <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="2"/>
+<postxt loc="lm" rot="90">Ich werde die <rend class="latin">Abderitt<abbr v="en"/></rend> zum les<abbr v="en"/> mitbring<abbr v="en"/>. &#8211; itzt hatt<abbr v="en"/> wir i<abbr type="topline" expand="mm">m</abbr>er das<lbr type="BD"/> schönste Wetter, aber<lbr/>
+eine grosse kälte, <abbr expand="und">u</abbr> alle fenster verfrohr<abbr v="en"/>, auch er<lbr type="BD"/>staunlich kalt<abbr v="en"/> Wind.</postxt><lbr type="forced"/>
+<anschrift rot="270"><rend class="latin">À Madame<lbr type="forced"/>
+Madame de So<abbr type="topline" expand="nn">n</abbr>enbourg<lbr type="forced"/>
+à<lbr type="forced"/>
+St: Gilgen</rend></anschrift>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+</letter>
+</text>
+</MUP>

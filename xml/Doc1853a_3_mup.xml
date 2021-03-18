@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2009">2009-08-20</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=360</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:36:04 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/Doc1853a_3_mup.txt">
+<HEADER id="360">SALOMON HERMANN MOSENTHAL, GEDICHT „MOZART” FÜR DIE MOZART-SOIRÉE DES HERRN HASLINGER<lbr/>
+WIEN, NACH 1842</HEADER>
+
+
+<pg n="1"/>
+<ts>_________________________</ts><u>Mozart</u><lbr type="forced"/>
+Gedichtet für die Mozart=<rend class="latin">Soire</rend> des Herrn <rend class="latin">Haslinger</rend><lbr type="forced"/>
+<ts>______________________</ts>von Mosenthal.<lbr type="forced"/>
+
+<lg type="poem"><lg type="stanza" n="1">Es war am längsten Tag. In weiter Ferne<lbr/>
+Zerfloß die Nacht in lichte Wolken schon.<lbr/>
+Da sa<abbr type="topline" expand="mm">m</abbr>elten sich all die goldnen Sterne<lbr/>
+Im Hi<abbr type="topline" expand="mm">m</abbr>el vor des ew’gen Vaters=Thron.</lg>
+
+<lg type="stanza" n="2">So standen sie gereiht im weitem Kreise<lbr/>
+Und feÿerten den Herrn mit Jubelschall<lbr/>
+Er trat hinzu und küßte jeden leise<lbr/>
+Und neues Leben strömte durch das All.</lg>
+
+<lg type="stanza" n="3">Da trat ein Stern hervor vor allen andern<lbr/>
+Im Auge einer Thräne Silberschein.<lbr/>
+„O Vater! laß mich hin zur Erde wandern<lbr/>
+Laß mich einmal ein Mensch mit Menschen sein.</lg>
+
+<lg type="stanza" n="4"> „Sie rühren mich! sie sind so reich an Leiden<lbr/>
+Und so genügsam mit dem kargen Glük<lbr/>
+Ich möchte Ihnen einen Trost bereiten:<lbr/>
+O laß mich ziehen, ich kehre bald zurük.”</lg>
+
+<lg type="stanza" n="5">Es sei gewährt! versetzt der Herr der Erden,<lbr/>
+Zieh hin mein Stern, und werde Mensch wie sie!<lbr/>
+Willst Du ein Trost den Staubgebornen werden<lbr/>
+So lehre sie die heil’ge Harmonie!</lg>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="2"/>
+<lg type="stanza" n="6">Wie liebend Stern sich hier um Sterne dreht<lbr/>
+Wie nicht der Mond die schönre Sonne haßt<lbr/>
+Wie nur ein Wohllaut durch die Sphären wehet<lbr/>
+Wie liebend ein <rend class="latin">Accord</rend> die Welt umfaßt.</lg>
+
+<lg type="stanza" n="7">Zieh hin mein Stern! und heile und versöhne<lbr/>
+Durch deine Töne jener Erde Pein<lbr/>
+Du bist der Auserwählte meiner Söhne<lbr/>
+Drum soll dein Name – <rend class="latin">Amadeus</rend> sein!</lg>
+
+<lg type="stanza" n="8">Zieh hin und trage mit der Erde Leiden<lbr/>
+Doch wenn der Schmerz gewaltig Dich durchglüht<lbr/>
+Dann greife mächtiger in deine Saiten<lbr/>
+Denn nur aus Schmerzen blüht das wahre Lied.</lg>
+
+<lg type="stanza" n="9">Zieh hin! und fühle mit der Erde Wonnen<lbr/>
+Doch wenn vor Freude Dir der Busen schwillt<lbr/>
+Dann laß ihn fließen den geweihten Bronnen<lbr/>
+Der leidend aus des Herzens Tiefen quillt.</lg>
+
+<lg type="stanza" n="10">Und weinen wird der Schmerz mit deinen Tönen<lbr/>
+Und jubeln wird mit deinem Lied die Lust<lbr/>
+Ach Alles was die Menschen sich ersehnen<lbr/>
+Ach Alles fließt aus eines Sängers Brust.</lg>
+
+<lg type="stanza" n="11">Zieh hin! mein Stern! nach kurzem Erdenleben<lbr/>
+Wirst Du für jene Erde untergeh’n,<lbr/>
+Um in den Hi<abbr type="topline" expand="mm">m</abbr>el wieder Dich zu heben;<lbr/>
+Denn dort <u>vergehn</u> heißt hier auferstehn.</lg>
+<pg n="3"/>
+<lg type="stanza" n="12">Und hörst du’s rufen dann in lauten Chören<lbr/>
+Und rauschen Aeolsharfen durch die Luft:<lbr/>
+Das sind die Brüder, welche Dein begehren,<lbr/>
+Das ist des Vaters Sti<abbr type="topline" expand="mm">m</abbr>e die Dich ruft.</lg>
+
+<lg type="stanza" n="13">So sprach der Herr; und still in sich verloren<lbr/>
+Versank der Stern am blauen Hi<abbr type="topline" expand="mm">m</abbr>elszelt.<lbr/>
+Da ward auf <u>unserm</u> Stern ein Mensch geboren,<lbr/>
+Und <rend class="latin">Amadeus</rend> nannte ihn die Welt.</lg>
+
+<lg type="stanza" n="14">Hört ihr den Ton der mächtig zu uns dringet,<lbr/>
+Der wie der Sturmwind durch die Lüfte rauscht?<lbr/>
+Das ist das Lied das <rend class="latin">Amadeus</rend> singet<lbr/>
+Dem Zug der Wolken hat er’s abgelauscht.</lg>
+
+<lg type="stanza" n="15">Und hört Ihr klagen jetzt so schmelzend leise<lbr/>
+Die Gluth der Liebe, heimlich angefacht?<lbr/>
+Ach das ist uns’res <u>Mozarts</u> Zauberweise<lbr/>
+So flüstert Stern mit Stern in stiller Nacht.</lg>
+
+<lg type="stanza" n="16">Und wie so harmlos kann der Sänger kosen<lbr/>
+Und wie so heiter kann sein Liedchen sein!<lbr/>
+So spielen dort die Engellein mit Rosen<lbr/>
+Und hüpfen heiter goldnen Wölkchen drein.</lg>
+
+<lg type="stanza" n="17">Doch wenn der Schwelger der Vergeltung Strafe<lbr/>
+Im Taumel seiner Sinne schnöd verhöhnt;<lbr/>
+Da donnert ihn die <rend class="latin">Tuba</rend> aus dem Schlafe<lbr/>
+Und mahnt ihn &#8211; daß der Grund der Erde dröhnt.</lg>
+<pg n="4"/>
+<lg type="stanza" n="18">So hat der Meister treulich fortgestrebet<lbr/>
+den kurzen Tag, den man das Leben heißt,<lbr/>
+Viel tausend Herzen hat er neu belebet<lbr/>
+Und mit sich selbst versöhnet manchen Geist</lg>
+
+<lg type="stanza" n="19">Er hat genoßen, was die Erde bietet<lbr/>
+Die reichen Leiden, und das karge Glük<lbr/>
+Jetzt hat das Menschenleben ihn ermüdet<lbr/>
+Nach seiner Heimath sehnt er sich zurük.</lg>
+
+<lg type="stanza" n="20">Er hebt den Blik sehnsüchtig in die Weiten<lbr/>
+Wo freundlich Sternlein neben Sternlein glüht &#8211; <lbr/>
+Da greift er einmal noch in seine Saiten<lbr/>
+Und dichtet sich sein eignes Schlu<abbr type="topline" expand="mm">m</abbr>erlied,</lg>
+
+<lg type="stanza" n="21">Sein <rend class="latin">Requiem</rend>. Er hebt mit stillen Zähren<lbr/>
+Den Blik zum lichten Vaterhaus empor.<lbr/>
+Da glaubt er selbst sein eignes Lied zu hören<lbr/>
+Bekannte Klänge schlagen an sein Ohr.</lg>
+
+<lg type="stanza" n="22">Und i<abbr type="topline" expand="mm">m</abbr>er lauter rauscht es durch die Sphären,<lbr/>
+Wie Orgelton, der durch die Lüfte zieht<lbr/>
+Sie singen ihm in tausendsti<abbr type="topline" expand="mm">m</abbr>igen Chören<lbr/>
+Sein <rend class="latin">Requiem</rend> &#8211; sein Schlu<abbr type="topline" expand="mm">m</abbr>erlied.</lg>
+
+<lg type="stanza" n="23">Da scheint des Sängers Blik sich zu verklären<lbr/>
+An seine Stirne spielt ein Kranz von Licht<lbr/>
+„Das sind die Brüder, welche mein Begehren!”<lbr/>
+So ruft der Meister, und sein Auge bricht! &#8211; </lg>
+<tspdf>\newpage</tspdf> 
+<lg type="stanza" n="24">Sie trugen ihn empor zu jenen Fernen<lbr/>
+Wo mildre Töne durch die Lüfte weh’n.<lbr/>
+Ihr sucht sein Grab? &#8211; o sucht es bei den Sternen! &#8211; <lbr/>
+Denn <u>hier</u> vergeh’n heißt <u>droben</u> auferstehn!</lg></lg></text>
+</MUP>

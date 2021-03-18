@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2011">2011-05</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=771</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">D-Hth</bibl>
+            <bibl type="source" subtype="RISM">D-Hth (Universität Hamburg</bibl>
+            <bibl type="source" subtype="RISM">Zentrum für Theaterforschung</bibl>
+            <bibl type="source" subtype="RISM">Theatersammlung)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:37:20 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_210.mup">
+<letter bd="210"><NI src="D-Hth"><HEADER id="771">LEOPOLD MOZART AN MARIA ANNA MOZART IN SALZBURG<lbr/>
+CROCE DEL BIACCO, 22. SEPTEMBER 1770<lbr/>
+mit Nachschrift von Wolfgang Amadé Mozart an Maria Anna (Nannerl) Mozart</HEADER>
+<pg n="1"/>
+<ts>_________________</ts><tshtm>_______________________________________________________</tshtm><tspdf>\hfill </tspdf><rend class="latin">Bologna</rend> d<abbr v="en"/> 22 <rend class="latin">Sept.</rend>&#160;<u>1770.</u><lbr type="forced"/>
+<lbr type="forced"/>
+Wir sind noch auf dem Lande; allein morg<abbr v="en"/> od<abbr v="er"/> am do<abbr type="topline" expand="nn">n</abbr>erstage geh<abbr v="en"/> wir<lbr type="BD"/>
+gewiß<lbr/>
+in die Statt. den nächst<abbr v="en"/> brief, den nun schreibst, schicke <u>nach <placeName key="50">Mayland</placeName></u><lbr/>
+unter der näml: <rend class="latin">addresse <u>à Mr: <persName key="59999">Leopolde Troger</persName> Secretaire de la Chancellerie</u><lbr/>
+<u>intime de L: L: M: M: Imp: Roy: &#38; apost<abbr type="curve">:</abbr> dans leur Lombardie à</u><lbr/>
+<tshtm>_______________________________________________________________________________________________</tshtm><u>Milan.</u></rend><lbr type="forced"/>
+<lbr type="forced"/>
+Ich hofe du wirst alles was in mein<abbr v="en"/> letzt<abbr v="en"/> Brief<abbr v="en"/> gemeldet habe, auch<lbr type="BD"/> richtig <suppl hand="self" pos="infra">befolget hab<abbr v="en"/></suppl>, da<abbr type="topline" expand="nn">n</abbr> es<lbr/>
+war keine Zeit zu verlier<abbr v="en"/>, so wohl weg<abbr v="en"/><lbr type="BD"/>&#160;<u>Frankfort</u> als <u>Nürnberg.</u><lbr type="forced"/>
+<u>Was h<abbr type="curve">:</abbr>&#160;<persName key="0">Gräfer</persName> in Wie<abbr type="topline" expand="nn">n</abbr> betrift,</u> der neuerdings 12 bücher empf<abbr type="curve">:</abbr> und alles auf<lbr/>
+das neue Jahr verrechn<abbr v="en"/> wird, ist zu merk<abbr v="en"/>, daß er es in <u>Wie<abbr type="topline" expand="nn">n</abbr>er <rend class="latin">Current</rend></u><lbr/>
+bezahl<abbr v="en"/> muß. du wirst alles in jener <rend class="latin">Specification</rend>, die auf einem Bog<abbr v="en"/><lbr/>
+hinterlass<abbr v="en"/>, genau find<abbr v="en"/>. Er ka<abbr type="topline" expand="nn">n</abbr> es an h<abbr type="curve">:</abbr>&#160;<persName key="83613">Joseph Peisser</persName> alda für h<abbr type="curve">:</abbr>&#160;<persName key="53262">Hagen<pc force="weak">=</pc><lbr/>auer</persName> bezahl<abbr v="en"/>.<lbr type="forced"/>
+<lbr type="forced"/>
+Man höret hier und in Rom neuerdings grosse Bewegung<abbr v="en"/> die dahin ziehl<abbr v="en"/>,<lbr type="BD"/> die Religion<lbr/>
+der Jesuit<abbr v="en"/> aufzuheb<abbr v="en"/>. das haus <rend class="latin">Bourbon</rend> will sich gar nicht<lbr type="BD"/> besänftig<abbr v="en"/> lass<abbr v="en"/>, und<lbr/>
+so wohl <rend class="latin">Spani<abbr v="en"/></rend> als Frankreich dring<abbr v="en"/> be&#255; dem<lbr type="BD"/> Pabst noch i<abbr type="topline" expand="mm">m</abbr>er häfftigst darauf.<lbr/>
+ferner ist ein scharfes Buch in <placeName key="57">Neapl</placeName> herausgeko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>, dess<abbr v="en"/>&#160;<rend class="latin">author</rend> ein<lbr/>
+gewisser <rend class="latin"><persName key="83614">Marchese Spiriti</persName></rend> ist. Es ist solches<lbr type="BD"/> eine widerlegung <suppl hand="self" pos="infra">eines</suppl> Päbstl:<lbr/>
+<rend class="latin">Theologi Patris Ma<abbr type="topline" expand="mm">m</abbr>achi</rend> eines <rend class="latin">Dominica</rend>ners,<lbr type="BD"/> welcher vorher auch ein sehr<lbr/>
+häftiges Buch für die geistlichkeit, nämlich für<lbr type="BD"/> die <rend class="latin">i<abbr type="topline" expand="mm">m</abbr>unitatem Ecclesias<abbr type="curve">:</abbr></rend><lbr/>
+und für das Recht der besitzung d<abbr v="er"/> geistl: gütter<lbr type="BD"/> geschrieb<abbr v="en"/>, und in solchem<lbr/>
+Buch die Regierend<abbr v="en"/> Herr<abbr v="en"/> und ihre <rend class="latin">Minister</rend><lbr type="BD"/> etwas scharf angegriff<abbr v="en"/>.<lbr/>
+wieder dieses Buch nun schrieb dieser <rend class="latin">Marchese</rend><lbr type="BD"/>&#160;<rend class="latin">Spiriti</rend> recht <rend class="latin">Sati</rend>risch, sond<abbr v="er"/><lbr/>
+zweifel aus veranstaltung des Spa<abbr type="topline" expand="nn">n</abbr>isch<abbr v="en"/>,<lbr type="BD"/> Portug<abbr type="curve">:</abbr>&#160;<abbr expand="und">u</abbr> Neapolitanisch<abbr v="en"/> hofes.<lbr type="forced"/>
+<lbr/>
+<add_seal type="owner">Theatersammlung<lbr/>A S<lbr/>Hamburg</add_seal>
+<pg n="2"/>
+Berichte mir ob h<abbr type="curve">:</abbr> Gr: <persName key="79054">Jgnati Spaur</persName> in Salzb<abbr type="curve">:</abbr> ist, und we<abbr type="topline" expand="nn">n</abbr><lbr/>
+er da ist, ob er<lbr type="BD"/> lange bleibt. ist er nicht da, so möchte wiss<abbr v="en"/>, ob<lbr/>
+er auf den ParisJahrtag<lbr type="BD"/> ko<abbr type="topline" expand="mm">m</abbr>t: ich habe eine <rend class="latin">Co<abbr type="topline" expand="mm">m</abbr>ission</rend> an ihn. Ma<abbr type="topline" expand="nn">n</abbr><lbr/>
+ka<abbr type="topline" expand="nn">n</abbr> es be&#255;m <persName key="0">Doblander</persName><lbr type="BD"/> Ma<abbr type="topline" expand="nn">n</abbr>erschn[ei]d<abbr v="er"/> erfahr<abbr v="en"/>.<lbr type="forced"/>
+Heute bin gar nicht zum schreib<abbr v="en"/> aufgelegt, indem mir etwas in mein<lbr/>
+linkes<lbr type="BD"/> schulderblath eingeschoss<abbr v="en"/>, so mir gross<abbr v="en"/> schmerz<abbr v="en"/> macht.<lbr type="forced"/>
+lebe du <abbr expand="und">u</abbr> die Na<abbr type="topline" expand="nn">n</abbr>erl gesund, wir schik<abbr v="en"/> euch viel 1000<ts>__</ts><symbol value="kiss"/> <symbol value="kiss"/> <symbol value="kiss"/> <symbol value="kiss"/> <symbol value="kiss"/> <symbol value="kiss"/> <abbr expand="etc:">p:</abbr><lbr/>
+und<lbr type="BD"/> ich bin der alte<lbr type="forced"/>
+<ts>______________________</ts><tshtm>__________________________________________________</tshtm><tspdf>\hfill </tspdf>Mzt <abbr expand="manu propria">mp</abbr> 
+<NS type="NS" schr_id="39409" adr_id="48817">Ich hoffe meine mama wird wohlauf se&#255;n, wie auch du, und<lbr/>
+wünsche daß du <suppl hand="self" pos="supra">mir</suppl> doch ins künftige auf meine brief wirst<lbr/>
+besser antworten, dan es ist Ja<lbr type="BD"/> weit leichter etwas an<pc force="weak">=</pc><lbr/>zuworten, als selbsten etwas erfenden. die 6 <rend class="latin">Menuett</rend><lbr type="BD"/> von<lbr/>
+<rend class="latin">Hai</rend>den gefallen mir besser als die ersten 12, wir haben<lbr/>
+sie der gräfin<lbr type="BD"/> oft machen müssen, und wir wünscheten<lbr/>
+daß wir im stande wären den teutschen <rend class="latin">menuetten</rend> <rend class="latin">gusto</rend><lbr/>
+in <rend class="latin">italien</rend> einzuführen, indeme ihre <rend class="latin">menuetti</rend> so lang<lbr/>
+bald als wie eine ganze <rend class="latin">sinfonie</rend> daueren. verze&#255;he mir<lbr/>
+daß ich so schlecht<lbr type="BD"/> schreibe, allein ich kunte es schon besser, aber<lbr/>
+ich eile. auf das künftige Jahr<lbr type="BD"/> möchten wir zwe&#255; kleine<lbr/>
+<rend class="latin">Calenderl</rend> haben. <rend class="latin">addio.</rend><lbr type="forced"/>
+Meinen handkus an die Mama:<ts>______________</ts><tspdf>\hfill </tspdf><rend class="latin">C: W: Mozart</rend>&#160;<abbr expand="manu propria">mp</abbr></NS>
+<NS type="NS" schr_id="39408">Wir empfehl<abbr v="en"/> uns all<abbr v="en"/> gut<abbr v="en"/> freund<abbr v="en"/> und freundin<abbr v="en"/>.<lbr type="forced"/>
+<pg n="3"/>
+jed<abbr v="er"/> von uns hat ein <u><reg><sic>Salzburigsches</sic><reg>Salzburgisches</reg></reg> Sack=Calenderl</u>. aus der <placeName key="66538">Mayrisch<abbr v="en"/> Buchdruckere&#255;:</placeName><lbr/>
+wir könnt<abbr v="en"/> in die näml: Büchl wied<abbr v="er"/> neue hineinbind<abbr v="en"/> lass<abbr v="en"/>,<lbr type="BD"/> we<abbr type="topline" expand="nn">n</abbr> wir solche hätt<abbr v="en"/>. we<abbr type="topline" expand="nn">n</abbr> ihr<lbr/>
+2 kauffet und be&#255;m Buchbind<abbr v="er"/> zusamleg<abbr v="en"/> lässt, so kanst du mir in ieden<lbr/>
+Brief, den du mir schreibst, einige blätl<lbr type="BD"/> hineinleg<abbr v="en"/>, so beko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/> wir bis auf das neue<lbr/>
+Jahr nach und nach die 2<lbr type="BD"/> Calenderl; und we<abbr type="topline" expand="nn">n</abbr> wir auch nur eins hab<abbr v="en"/> so sind<lbr/> 
+wir zu fried<abbr v="en"/>. <rend class="latin">addieu</rend></NS>
+<pg n="4"/>
+<anschrift><rend class="latin">À Madame<lbr type="forced"/>
+Madame <persName key="48815">Marie Anne<lbr type="forced"/>
+Mozart</persName><lbr type="forced"/>
+<ts>_________________</ts>à<lbr type="forced"/>
+<u>par Mantova</u><ts>_______</ts><u>Salzbourg</u></rend></anschrift><lbr/>
+<add_note schr_id="48817" rot="90"><rend class="latin">N:<h>o</h></rend> 41 aus <rend class="latin">Bologna</rend></add_note></NI></letter>
+</text>
+</MUP>

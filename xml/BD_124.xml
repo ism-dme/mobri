@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2020">2020-02</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=683</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Verbleib unbekannt (Vorlage: Abschrift um 1768 in D-B)</bibl>
+            <bibl type="source" subtype="RISM">Verbleib unbekannt, Vorlage: Abschrift um 1768 in D-B</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:36:52 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_124.mup">
+<letter bd="124">
+<NI src="unbekannt">
+<HEADER id="683">LEOPOLD MOZART AN LORENZ HAGENAUER IN SALZBURG<lbr/>
+WIEN, 23. JANUAR 1768</HEADER>
+<pg n="1"/>
+<add_num schr_id="57010" impl="crayon" color="red"><ts>__________________</ts>50</add_num>
+<ts>______________________________</ts><tspdf>\hfill </tspdf>Wienn den 23. Jänner<lbr type="forced"/>
+<ts>__________________________</ts><tshtm>________________________</tshtm><tspdf>\hfill </tspdf><u>1768.</u><lbr type="forced"/>
+<lbr type="forced"/><ts>_____</ts>Das trauerschreiben habe richtig erhal<pc force="weak">=</pc><lbr/>ten. So gehet es halt auf diesem Welt<pc force="inter">=</pc><lbr/>theater! heute sehen wir lustige Comoedi<abbr v="en"/>;<lbr/>
+Morgen Tragedien: heute schrek<lbr type="BD"/>ken uns<lbr/>
+Laster; morgen werden wir von tugend<pc force="weak">=</pc><lbr/>haften Handlungen erbauet:<lbr type="BD"/> heute empfin<pc force="weak">=</pc><lbr/>den wir Vergnügen; Morgen Quaal und<lbr/>
+Betrübniss <abbr expand="etc">p</abbr><abbr expand="etc">p</abbr> <ts>_____</ts>Ich<lbr type="BD"/> wollte das ver<pc force="weak">=</pc><lbr/>langte Buch alsogleich be&#255; herrn von Trat<pc force="weak">=</pc><lbr/>tern einkauffen;<lbr type="BD"/> alleine man versicherte<lbr/>
+mich, daß zwar <rend class="latin">P: Manzadors</rend>&#160;<u>festtäg<pc force="weak">=</pc><lbr/>liche Predigen<lbr type="BD"/> und Lobreden heraus wären,<lbr/>
+welche 6 f: Kosten; daß aber keine Pre<pc force="weak">=</pc><lbr/>digen auf<lbr type="BD"/> alle Sonntäge noch bis ietzt<lbr/>
+gedrückt wären.</u> Ich fande also noth<pc force="weak">=</pc><lbr/>wendig solches<lbr type="BD"/> zu berichten, indem die<lbr/>
+Tratterische Buchhandlung, als die ansehn<pc force="weak">=</pc><lbr/>lichste, es<lbr type="BD"/> wohl wissen müste, wenn diese<lbr/>
+verlangten SontagsPredigen in Druck<lbr/>
+wären.<lbr type="BD"/><lbr type="forced"/>
+<pg n="2"/>
+<ts>_____</ts>Das neueste so ich |: nebst unser aller,<lbr/>
+Gott Lob, guter Gesundheit :| ihnen<lbr type="BD"/> zu be<pc force="weak">=</pc><lbr/>richten habe, ist, daß wir Dienstags den<lbr/>
+19.<h>t<abbr v="en"/></h> Nachmittags von halbe<lbr type="BD"/> 3. Uhr bis halbe<lbr/>
+5. Uhr be&#255; S<h>r</h> Ma&#255;estätt der Ka&#255;serin<lbr/>
+waren. S:<h>e</h> Ma&#255;estätt<lbr type="BD"/> der Ka&#255;ser kam<pc force="weak">=</pc><lbr/>men heraus in das Vorzimmer, wo wir war<pc force="weak">=</pc><lbr/>teten, bis die höch<lbr type="BD"/>sten Herrschaften den <rend class="latin">Coffée</rend><lbr/>
+genommen hatten, und führten uns selbst<lbr/>
+hinein.<lbr type="BD"/> Es war gegenwärtig, nebst dem<lbr/>
+Ka&#255;ser und der Ka&#255;serin Majestätt der<lbr/>
+Prinz<lbr type="BD"/> Albert aus Sachsen, und alle Erz<pc force="weak">=</pc><lbr/>herzoginnen; ausser diesen höchsten Herr<pc force="inter">=</pc><lbr/>schaften aber keine Seele. Es würde<lbr/>
+zu lange se&#255;n ihnen alles zu schreiben,<lbr type="BD"/><lbr/>
+was hier gesprochen worden, und was<lbr/>
+alles geschechen. Überhaupts muß<lbr/>
+ich<lbr type="BD"/> nur sagen, daß Sie sich unmöglich<lbr/>
+vorstellen können, mit was für einer<lbr/>
+Ver<lbr type="BD"/>traulichkeit S:<h>e</h> Ma&#255;estätt die Ka&#255;<pc force="weak">=</pc><lbr/>serin mit meiner Frau sprach und sich<lbr/>
+theils<lbr type="BD"/> wegen den Blattern meiner Kin<pc force="weak">=</pc><lbr/>der, theils wegen den Umständten unse<pc force="weak">=</pc><lbr/><pg n="3" type="wordsep"/>rer<lbr type="BD"/> grossen Reise <abbr expand="etc.">p.</abbr> unterhielt; sie im<lbr/>
+Gesicht über die Wangen strich, und be&#255;<lbr type="BD"/><lbr/>
+den Händen drückte; da entzwischen<lbr/>
+S:<h>e</h> Majestätt der Ka&#255;ser mit mir mit<lbr type="BD"/><lbr/>
+dem Wolfganger<abbr type="curve">:</abbr> von der Musick <abbr expand="etc.">p.</abbr> und<lbr/>
+vielen anderen Sachen sprach und<lbr type="BD"/> der<lbr/>
+Nannerl sehr oft die Röthe ins Gesicht<lbr/>
+trieb. Mündlich seiner Zeit das<lbr type="BD"/> meh<pc force="weak">=</pc><lbr/>rere; denn sie kennen mich. Ich lieb<lbr/>
+nicht Sachen zu schreiben, die man<lbr type="BD"/>cher<lbr/>
+hinter dem ofen sitzender aufgeblasener<lbr/>
+ Gogelhopf |: das ist eine<lbr type="BD"/> schwäbische Benen<pc force="weak">=</pc><lbr/>nung :| für Lügen halten würde. Sie<lbr/>
+müssen aber dessent<lbr type="BD"/>wegen, und dieser Leut<pc force="weak">=</pc><lbr/>seeligkeit und freundschaftlich ganz ausser<pc force="weak">=</pc><lbr/>ordentlichen<lbr type="BD"/> Beschränckung <choice><orig><amend value="nicht schlüssen">schlüssen</amend></orig><corr hand="diff" schr_id="57010">nicht schlüssen</corr></choice>. Ich<lbr/>
+wenigst kann mir aus allen, was hier<lbr/>
+sehe,<lbr type="BD"/> und aus allem den dermahligen<lbr/>
+Wienerischen Umständen nichts günstiges<lbr/>
+vorstellen. Doch sind dieß alles Sach<abbr v="en"/><lbr/>
+die die Zeit lehren muß, und davon<lbr/>
+man<lbr type="BD"/> besser mündlich sprechen kann. Mei<pc force="weak">=</pc><lbr/>ne Frau und Kinder empfehlen sich,<lbr/>
+<pg n="4"/>
+und<lbr type="BD"/> ich bin der alte.
+</NI>
+</letter>
+</text>
+</MUP>

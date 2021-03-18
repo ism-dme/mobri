@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2015">2015-9</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1534</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:41:23 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_964.mup">
+<letter bd="964"><HEADER id="1534">LEOPOLD MOZART AN MARIA ANNA VON BERCHTOLD ZU SONNENBURG IN ST. GILGEN<lbr/>
+SALZBURG, 17. JUNI 1786</HEADER>
+<pg n="1"/>
+<ts>__________</ts><tshtm>_______________________________________________________</tshtm><tspdf>\hfill </tspdf>Salzb<abbr type="curve">:</abbr> d<abbr v="en"/> 17 <rend class="latin">Jun&#255;</rend><lbr type="BD"/><lbr type="forced"/>
+<ts>__________</ts><tshtm>_____________________________________________________________________________</tshtm><tspdf>\hfill </tspdf>1786<lbr type="forced"/>
+<lbr type="forced"/>
+Es ist zum Lach<abbr v="en"/>! itzt schlägts 3 uhr, die Glastragerin ko<abbr type="topline" expand="mm">m</abbr>t,<lbr/>
+will in <u>andert<lbr type="BD"/>halb Stund</u> fortgeh<abbr v="en"/>: und sagt überdas sie<lbr/>
+kö<abbr type="topline" expand="nn">n</abbr>te nicht viel trag<abbr v="en"/>, da sie<lbr type="BD"/> Mehl mittrag<abbr v="en"/> muß, dazu ich<lbr/>
+ihr natürl: das Geld geb<abbr v="en"/> musste. Sie ko<abbr type="topline" expand="mm">m</abbr>t<lbr type="BD"/> aber auf<lbr/>
+die Woche wied<abbr v="er"/> herein. <u>ich muß in Do<abbr type="topline" expand="mm">m</abbr></u>!<lbr type="forced"/>
+Itzt ko<abbr type="topline" expand="mm">m</abbr>e vom Do<abbr type="topline" expand="mm">m</abbr>, die glasträgerin steht schon<lbr/>
+da. schicke die <u>Haube</u><lbr type="BD"/>&#160;<abbr expand="etc">p</abbr>:, <u>den Rock</u>, das<lbr/>
+<u>Manterl</u>, <u>Halskraus<abbr v="en"/></u>.<lbr type="forced"/>
+küsse euch von Herz<abbr v="en"/>, grüsse die Kind<abbr v="er"/>, <abbr expand="und">u</abbr><lbr/>
+bin d<abbr v="er"/> alte<lbr type="forced"/>
+<ts>______</ts><tshtm>_____________</tshtm><tspdf>\hfill </tspdf>Mzt <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<lbr type="forced"/>
+Der Leopoldl ist Lustig, die Nandl <abbr expand="und">u</abbr> tresel<lbr/>
+küss<abbr v="en"/> euch die Hände. d<abbr v="er"/><lbr type="BD"/> March<abbr type="curve">:</abbr> empfehlt<lbr/>
+sich.<ts>________</ts><tshtm>______</tshtm>Der <u>Fürst <rend class="latin">Breiner</rend></u> ist<lbr/>
+<tshtm>____</tshtm><u>Bischof in Chiemse</u>.<lbr type="forced"/>
+die alte <u>Peregrinin</u> ist gestorb<abbr v="en"/>.<lbr type="forced"/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="2"/>
+<vacat/>
+</letter>
+</text>
+</MUP>

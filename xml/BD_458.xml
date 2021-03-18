@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2012">2012-12</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1022</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:38:55 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_458.mup">
+<letter bd="458"><HEADER id="1022">WOLFGANG AMADÉ MOZART AN LEOPOLD MOZART IN SALZBURG<lbr/>
+PARIS, 3. JULI 1778</HEADER>
+<pg n="1"/>
+<add_num type="inline"><u>52</u></add_num><ts>____________________</ts><tshtm>______________________________________________________________________________________________</tshtm><tspdf>\hfill </tspdf><rend class="latin">Paris ce 3 de julliet</rend><lbr type="forced"/>
+<ts>_______________</ts><tshtm>______________________</tshtm><rend class="latin">Monsieur</rend><ts>________________________________________</ts><add_num type="inline">49<ts>___________________________________</ts></add_num><tspdf>\hfill </tspdf><u>1778</u><lbr type="forced"/>
+<ts>____________________</ts><tshtm>________________________</tshtm><rend class="latin">mon trés cher Pére</rend>!<lbr type="forced"/>
+<lbr type="forced"/>
+Ich habe ihnen eine sehr unangenehme und trauerige nachricht zu geben, die<lbr type="BD"/> auch ursach ist,<lbr/>
+daß ich auf ihren lezten von 11<h>ten</h>&#160;<rend class="latin">Datirt</rend>, nicht eher habe<lbr type="BD"/> antworten kö<abbr type="topline" expand="nn">n</abbr>en. -<pc force="weak">-</pc><lbr type="forced"/>Meine liebe Mutter ist sehr kranck &#8211; sie hat sich, wie sie es gewohnt war,<lbr type="BD"/> adergelassen, und<lbr/>
+es war auch sehr nothwendig; es war ihr auch ganz gut<lbr type="BD"/> darauf &#8211; doch einige täge darnach<lbr/>
+klagte sie frost, und auch gleich hitzen &#8211;<lbr type="BD"/> beka<abbr type="topline" expand="mm">m</abbr> den durchlauf, kopfwehe &#8211; anfangs<lbr/>
+brauchten wir nur unsere haus<lbr type="BD"/>=mitteln, <rend class="latin">Antispasmoti</rend>sch Pulver, wir hätten auch gerne<lbr/>
+das schwarze ge<lbr type="BD"/>braucht, es mangelte uns aber, und wir ko<abbr type="topline" expand="nn">n</abbr>ten es hier nicht beko<abbr type="topline" expand="mm">m</abbr>en,<lbr/>
+es<lbr type="BD"/> ist auch unter den na<abbr type="topline" expand="mm">m</abbr>en <rend class="latin">Pulvis epilepticus</rend> nicht bekandt. &#8211; weil es aber<lbr type="BD"/> i<abbr type="topline" expand="mm">m</abbr>er<lbr/>
+ärger wurde &#8211; sie hart reden ko<abbr type="topline" expand="nn">n</abbr>te, das gehör verlor, so daß man<lbr type="BD"/> schre&#255;en muste, &#8211; <lbr/>
+so schickte der <rend class="latin">Baron <u>grim</u></rend> seinen <rend class="latin">Doctor</rend> her &#8211; sie ist sehr<lbr type="BD"/> schwach, hat noch hitzen, und<lbr/>
+<rend class="latin">Phantasirt</rend> &#8211; man giebt mir hofnung; ich habe<lbr type="BD"/> aber nicht viell &#8211; ich bin nun schon lange<lbr/>
+Tag und nacht zwischen forcht und<lbr type="BD"/> hofnung &#8211; ich habe mich aber ganz in willen gottes<lbr/>
+gegeben &#8211; und hoffe sie<lbr type="BD"/> und meine liebe schwester werden es auch thun; was ist de<abbr type="topline" expand="nn">n</abbr><lbr/>
+sonst für ein<lbr type="BD"/> Mittel um ruhig zu se&#255;n? &#8211; ruhiger, sage ich, de<abbr type="topline" expand="nn">n</abbr> ganz ka<abbr type="topline" expand="nn">n</abbr> man<lbr/>
+es nicht<lbr type="BD"/> se&#255;n; &#8211; ich bin getröstet, es <suppl hand="self" pos="supra">mag</suppl> ausfallen wie es will &#8211; weil ich weis daß<lbr type="BD"/> es<lbr/>
+gott, der alles | wens uns noch so quer vorkö<abbr type="topline" expand="mm">m</abbr>t | zu unsern besten an<lbr type="BD"/>ordnet, so<lbr/>
+haben will; de<abbr type="topline" expand="nn">n</abbr> ich glaube | und dieses lasse ich mir nicht aus<lbr type="BD"/>reden | daß kein <rend class="latin">Doctor</rend>, kein<lbr/>
+mensch, kein unglück, kein zufall, einem<lbr type="BD"/> menschen das leben geben, noch nehmen ka<abbr type="topline" expand="nn">n</abbr>,<lbr/>
+sondern gott allein &#8211; das sind<lbr type="BD"/> nur die <rend class="latin">instrumenten</rend> deren er sich meistentheils be<pc force="weak">=</pc><lbr/>dienet, &#8211; und auch nicht<lbr type="BD"/> allzeit &#8211; wir sehen ja daß leüte umsincken, umfallen<lbr/>
+und tod sind &#8211; we<abbr type="topline" expand="nn">n</abbr><lbr type="BD"/> einmahl die zeit da ist, so nutzen alle mitteln nichts, sie<lbr/>
+befördern eher den<lbr type="BD"/> tod als daß sie ihn verhindern &#8211; wir haben es ja an seeligen<lbr/>
+freünd Hefner<lbr type="BD"/> gesehen! &#8211; ich sage dessentwegen nicht daß meine Mutter sterben<lbr/>
+wird und sterben muß, daß alle hofnung verloren se&#255; &#8211; sie ka<abbr type="topline" expand="nn">n</abbr> frisch und ge<pc force="weak">=</pc><lbr/>sund<lbr type="BD"/> werden, aber nur we<abbr type="topline" expand="nn">n</abbr> gott will &#8211; ich mache mir, nachde<abbr type="topline" expand="mm">m</abbr>e ich aus allen<lbr type="BD"/><lbr/>
+meinen kräften um die gesundheit und leben meiner lieben mutter zu meinen<lbr type="BD"/><lbr/>
+Gott gebetten habe, gerne solche gedancken, und tröstungen, weil ich mich<lbr type="BD"/><lbr/>
+hernach mehr beherzt, ruhiger und getröst finde &#8211; de<abbr type="topline" expand="nn">n</abbr> sie werden sich leicht<lbr type="BD"/><lbr/>
+vorstellen daß ich dieß brauche! &#8211; nun etwas anders; verlassen wir diese<lbr type="BD"/> trauer<pc force="weak">-</pc><lbr/>gedancken. hoffen wir, aber nicht zu viell; haben wir unser vertrauen<lbr type="BD"/> auf gott,<lbr/>
+und trösten wir uns mit diesem gedancken, daß alles gut gehet, we<abbr type="topline" expand="nn">n</abbr><lbr type="BD"/> es nach den<lbr/>
+willen des allmächtigen geht, inde<abbr type="topline" expand="mm">m</abbr> er an besten weis was uns<lbr type="BD"/> allen sowohl zu<lbr/>
+unsern zeitlichen als Ewigen glück und he&#255;l erspriesslich<lbr type="BD"/> und nutzbar ist -<pc force="weak">-</pc><lbr type="forced"/><lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="2"/>
+Ich habe eine <rend class="latin">sinfonie</rend>, um das <rend class="latin">Concert spirituel</rend> zu eröfnen, machen müssen.<lbr type="BD"/> an frohnleichnams<pc force="weak">=</pc><lbr/>Tag wurde sie mit allem <rend class="latin">aplauso</rend> aufgeführt; Es ist auch so<lbr type="BD"/> viell ich höre, in <rend class="latin">Couriere</rend><lbr/>
+<rend class="latin">de L'europe</rend> eine meldung davon geschehen. &#8211; sie<lbr type="BD"/> hat also ausnehmend<lbr/>
+gefallen. be&#255; der Prob war es mir sehr bange, de<abbr type="topline" expand="nn">n</abbr> ich<lbr type="BD"/> habe mein lebe<pc force="weak">=</pc><lbr/>Tag nichts schlechters gehört; sie kö<abbr type="topline" expand="nn">n</abbr>en sich nicht vorstellen,<lbr type="BD"/> wie sie die<lbr/>
+<rend class="latin">Sinfonie</rend> 2 mahl nacheinander herunter gehudeld, und herunter ge<pc force="inter">=</pc><lbr/>krazet haben. &#8211; mir war wahrlich ganz bang &#8211; ich hätte sie gerne<lbr/>
+noch ein<lbr type="BD"/>mahl <rend class="latin">Probirt</rend>, aber weil man allzeit so viell sachen <rend class="latin">Probirt</rend>,<lbr/>
+so war keine zeit<lbr type="BD"/> mehr; ich muste also mit bangen herzen, und mit<lbr/>
+unzufriedenen und zornigen<lbr type="BD"/> gemüth ins bette gehen. den andern tage<lbr/>
+hatte ich mich entschlossen gar nicht<lbr type="BD"/> ins <rend class="latin">Concert</rend> zu gehen; es wurde<lbr/>
+aber abends gut wetter, und ich entschlosse<lbr type="BD"/> mich endlich mit den vorsaz,<lbr/>
+daß we<abbr type="topline" expand="nn">n</abbr> es so schlecht gieng, wie be&#255; der<lbr type="BD"/>&#160;<rend class="latin">Prob</rend>, ich gewis aufs <rend class="latin">orchestre</rend><lbr/>
+gehen werde, und den h<abbr type="curve">:</abbr>&#160;<rend class="latin">Lahousè</rend>&#160;<u>Ersten <rend class="latin">violin</rend></u><lbr type="BD"/> die <rend class="latin">violin</rend> aus der<lbr/>
+hand nehmen, und selbst <rend class="latin">dirigirn</rend> werde. ich batt <u>gott</u> um<lbr type="BD"/> die gnade<lbr/>
+daß es gut gehen möchte, inde<abbr type="topline" expand="mm">m</abbr> alles zu seiner grösten Ehre und<lbr type="BD"/>&#160;<rend class="latin">glory</rend><lbr/>
+ist, und <rend class="latin">Ecce</rend>, die <rend class="latin">Sinfonie</rend> fieng an, <rend class="latin">Raff</rend> stunde neben meiner,<lbr/>
+und<lbr type="BD"/> gleich mitten in Ersten <rend class="latin">Allegro</rend>, war eine <rend class="latin">Pasage</rend> die ich wohl wuste<lbr/>
+daß sie<lbr type="BD"/> gefallen müste, alle zuhörer wurden davon hingerissen &#8211; und<lbr/>
+war ein grosses<lbr type="BD"/>&#160;<rend class="latin">applaudissement</rend> &#8211; weil ich aber wuste, wie ich sie schriebe,<lbr/>
+was das für einen<lbr type="BD"/>&#160;<rend class="latin">Effect</rend> machen würde, so brachte ich sie auf die<lbr/>
+lezt noch einmahl an &#8211; da<lbr type="BD"/> giengs nun <rend class="latin">Da capo</rend>. das <rend class="latin">Andante</rend><lbr/>
+gefiel auch, besonders aber das lezte<lbr type="BD"/>&#160;<rend class="latin">Allegro</rend> &#8211; weil ich hörte daß hier<lbr/>
+alle lezte <rend class="latin">Allegro</rend> wie die Ersten mit allen<lbr type="BD"/>&#160;<rend class="latin">instrumenten</rend> zugleich<lbr/>
+und meistens <rend class="latin">unisono</rend> anfangen, so fieng ichs mit die<lbr type="BD"/> 2 <rend class="latin">violin</rend> Allein <rend class="latin">piano</rend><lbr/>
+nur 8 tact an &#8211; darauf ka<abbr type="topline" expand="mm">m</abbr> gleich ein <rend class="latin">forte</rend> &#8211; mit hin machten<lbr/>
+die zuhörer, | wie ichs erwartete | be&#255;m <rend class="latin">Piano</rend> sch &#8211; da<abbr type="topline" expand="nn">n</abbr> ka<abbr type="topline" expand="mm">m</abbr><lbr type="BD"/> gleich<lbr/>
+das <rend class="latin">forte</rend> &#8211; sie das <rend class="latin">forte</rend> hören, und die hände zu klatschen war<lbr/>
+eins &#8211;<lbr type="BD"/> ich gieng also gleich für freüde nach der <rend class="latin">Sinfonie</rend> ins <rend class="latin">Palais</rend><lbr/>
+<rend class="latin">Royale</rend> &#8211; nahm<lbr type="BD"/> ein guts gefrornes &#8211; bat den Rosenkranz den ich ver<pc force="weak">=</pc><lbr/><lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="3"/>
+sprochen hatte &#8211; und<lbr type="BD"/> gieng nach haus. &#8211; wie ich allzeit am liebsten zu<lbr/>
+hause bin, und auch allzeit<lbr type="BD"/> an liebsten zu hause se&#255;n werde &#8211; oder<lbr/>
+be&#255; einen guten wahren redlichen<lbr type="BD"/> teütschen &#8211; der we<abbr type="topline" expand="nn">n</abbr> er ledig ist für<lbr/>
+sich als ein guter Christ gut lebt, we<abbr type="topline" expand="nn">n</abbr><lbr type="BD"/> er verhe&#255;rathet ist, seine frau<lbr/>
+liebt, und seine kinder gut erzieht -<pc force="weak">-</pc><lbr type="forced"/>Nun gebe ich ihnen eine nachricht die sie vielleicht schon wissen werden,<lbr/>
+daß<lbr type="BD"/> nehmlich der gottlose und Erz=spizbub <rend class="latin">voltaire</rend> so zu sagen<lbr/>
+wie ein hund &#8211;<lbr type="BD"/> wie ein vieh <rend class="latin">crepirt</rend> ist &#8211; das ist der lohn! &#8211; <lbr/>
+der thresel sind sie wie sie es<lbr type="BD"/> geschrieben haben <formula type="mfrac"><mn>5</mn><mi>4</mi></formula> lohn aus=ständig &#8211; <lbr/>
+daß ich hier nicht gerne bin, werden<lbr type="BD"/> sie schon längst gemercket haben &#8211; <lbr/>
+ich habe so viell ursachen, und die aber<lbr type="BD"/> weil ich izt schon einmahl da<lbr/>
+bin, zu nichts nutzen. &#8211; be&#255; mir fehlt es nicht,<lbr type="BD"/> und wird es niemalen<lbr/>
+fehlen, ich werde aus allen kräften meine möglichkeit<lbr type="BD"/> thun &#8211; Nun,<lbr/>
+gott wird alles gut machen! &#8211; ich habe etwas im kopf dafür ich<lbr type="BD"/> gott<lbr/>
+täglich bitte &#8211; ist es sein göttlicher wille so, so wird es geschehen,<lbr/>
+wo<lbr type="BD"/> nicht, so bin ich auch zufrieden &#8211; ich habe da<abbr type="topline" expand="nn">n</abbr> aufs wenigst<lbr/>
+doch das meinige<lbr type="BD"/> gethan &#8211; we<abbr type="topline" expand="nn">n</abbr> dieß da<abbr type="topline" expand="nn">n</abbr> alles in ordnung ist, und<lbr/>
+so geschieht wie ich es<lbr type="BD"/> wünsche, dan müssen sie erst das ihrige darzu<lbr/>
+thun, sonst wäre das ganze<lbr type="BD"/> werck unvollko<abbr type="topline" expand="mm">m</abbr>en &#8211; ich hoffe auch<lbr/>
+von ihrer güte daß sie es gewis thun<lbr type="BD"/> werden &#8211; machen sie sich<lbr/>
+nur izt keine unütze gedancken, de<abbr type="topline" expand="nn">n</abbr> um diese<lbr type="BD"/> gnade will ich<lbr/>
+sie schon vorher gebeten haben, das ich meine gedancken nicht<lbr type="BD"/> eher<lbr/>
+ins glare setze, als bis es Zeit ist<lbr type="forced"/>
+mit der <rend class="latin">opera</rend> ist es dermalen so. man findet sehr schwehr ein gutes<lbr/>
+<rend class="latin">Poëme</rend>.<lbr type="BD"/> die alten, welche die besten sind, sind nicht auf den <rend class="latin">Modernen</rend> styl<lbr/>
+ein<lbr type="BD"/>gerichtet, und die neüen sind alle nichts nutz; den die <rend class="latin">Poesie</rend>, welches<lbr/>
+das ein<lbr type="BD"/>zige war wo die franzosen haben darauf stolz se&#255;n kö<abbr type="topline" expand="nn">n</abbr>en,<lbr/>
+wird izt alle tag<lbr type="BD"/> schlechter &#8211; und die <rend class="latin">Poesie</rend> ist eben das einzige hier<lbr/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<pg n="4"/>
+was gut se&#255;n muß &#8211; weil<lbr type="BD"/> sie die <rend class="latin">Musique</rend> nicht verstehen &#8211; es sind<lbr/>
+nun 2 <rend class="latin">opern</rend> in <rend class="latin">aria</rend> die ich schreiben<lbr type="BD"/> kö<abbr type="topline" expand="nn">n</abbr>te, eine <rend class="latin">endeuxacts</rend>, die<lbr/>
+andere <rend class="latin">en trois</rend>. die <rend class="latin">en deux</rend> ist <rend class="latin">Alexandre et<lbr type="BD"/> Roxeane</rend> &#8211; der<lbr/>
+<rend class="latin">Poet</rend> aber der sie schreibt ist noch in der <rend class="latin">Campagne</rend> &#8211; die <rend class="latin">en<lbr type="BD"/> trois</rend><lbr/>
+ist <rend class="latin">Demofont</rend> | von <rend class="latin">Metastasio</rend> | übersezt, und mit Chöre und tänze<lbr/>
+ver<lbr type="BD"/>mischt, und überhaubt auf das französische <rend class="latin">Theatre arangirt</rend>.<lbr/>
+von dieser habe<lbr type="BD"/> ich auch noch nichts sehen kö<abbr type="topline" expand="nn">n</abbr>en -<pc force="weak">-</pc><lbr type="forced"/>schreiben sie mir doch ob sie die <rend class="latin">Concerte</rend> von schrötter zu <rend class="latin">Salzbourg</rend> haben?<lbr type="BD"/> &#8211; <lbr/>
+die <rend class="latin">Sonaten</rend> von hüllmandel? &#8211; ich wollte sie kaufen, und ihnen<lbr/>
+über<lbr type="BD"/>schicken. be&#255;de <rend class="latin">oeuvre</rend> sind sehr schön &#8211; wegen <rend class="latin">versailles</rend> war es<lbr/>
+nie mein<lbr type="BD"/> gedancke &#8211; ich habe auch den Rath des <rend class="latin">Baron gri<abbr type="topline" expand="mm">m</abbr></rend> und<lbr/>
+anderer guter<lbr type="BD"/> freunde darüber gehört &#8211; sie dachten alle wie ich.<lbr type="forced"/>
+es ist wenig geld, man muß 6 Monath in einen orth verschmachten<lbr/>
+wo nichts<lbr type="BD"/> sonst zu verdienen ist, und sein <rend class="latin">talent</rend> vergraben.<lbr/>
+da<abbr type="topline" expand="nn">n</abbr> wer in königlichen<lbr type="BD"/> diensten ist, der ist zu <rend class="latin">Paris</rend> vergessen.<lbr/>
+und dan <rend class="latin">organist</rend>! &#8211; ein guter dienst<lbr type="BD"/> wäre mir sehr lieb,<lbr/>
+aber nicht anderst als kapellmeister, und gut bezahlt.<lbr type="forced"/>
+Nun leben sie recht wohl &#8211; haben sie sorg auf ihre gesundheit,<lbr/>
+verlassen sie<lbr type="BD"/> sich auf gott &#8211; da müssen sie ja trost finden;<lbr/>
+Meine liebe Mutter ist in händen<lbr type="BD"/> des allmächtigen &#8211; will er sie<lbr/>
+uns noch schencken, wie ich es wünsche, so wer<lbr type="BD"/>den wir ihn für diese<lbr/>
+gnade dancken, will er sie aber zu sich nehmen, so nutzt<lbr type="BD"/> all<lbr/>
+unser ängsten, sorgen und verzweifeln nichts &#8211; geben wir uns<lbr/>
+lieber stand<lbr type="BD"/>haft in seinen göttlichen willen, mit gänzlicher über<pc force="weak">=</pc><lbr/>zeügung daß es zu unsern<lbr type="BD"/> nutzen se&#255;n wird, weil er nichts<lbr/>
+ohne ursache thut &#8211; leben sie also recht wohl,<lbr type="BD"/> liebster Papa,<lbr/>
+erhalten sie mir ihre gesundheit; ich küsse ihnen 1000mahl die<lbr type="BD"/> hände,<lbr/>
+und meine schwester umarme ich von ganzen herzen und bin dero<lbr type="BD"/><lbr/>
+gehorsamster Sohn<lbr type="forced"/>
+<ts>______________________</ts><tshtm>_________________________________________</tshtm><tspdf>\hfill </tspdf>wolfgang Amadè Mozart <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+</letter>
+</text>
+</MUP>

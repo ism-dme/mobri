@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2012">2012-12</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1023</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Verbleib unbekannt</bibl>
+            <bibl type="source" subtype="RISM">Verbleib unbekannt</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:38:56 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_459.mup">
+<letter bd="459"><NI src="unbekannt"><HEADER id="1023">WOLFGANG AMADÉ MOZART AN JOSEPH BULLINGER IN SALZBURG<lbr/>
+PARIS, 3. JULI 1778</HEADER>
+<pg n="1"/>
+<ts>______________________</ts><tshtm>___________________________________________________________________________</tshtm><tspdf>\hfill </tspdf><rend class="latin">Paris ce 3 julliet</rend><lbr type="forced"/>
+<ts>________________________</ts><tshtm>_____________________________________________________________________________________</tshtm><tspdf>\hfill </tspdf>1778<lbr type="forced"/>
+<ts>______________________</ts><tshtm>__________________</tshtm>Allerbester freünd!<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>______________________</ts><tshtm>__________________</tshtm><u>für sie ganz allein.</u><lbr type="forced"/>
+<lbr type="forced"/>
+Trauern sie mit mir, mein freünd! &#8211; dies war der Trauerigste Tag in meinen<lbr type="BD"/><lbr/>
+leben &#8211; dies schreibe ich um 2 uhr nachts &#8211; ich muß es ihnen doch sagen,<lbr type="BD"/> meine Mutter,<lbr/>
+Meine liebe Mutter ist nicht mehr! &#8211; gott hat sie zu sich beru<lbr type="BD"/>fen &#8211; er wollte sie<lbr/>
+haben, das sahe ich klar &#8211; mithin habe ich mich in willen<lbr type="BD"/> gottes gegeben &#8211; <lbr/>
+Er hatte sie mir gegeben, er ko<abbr type="topline" expand="nn">n</abbr>te sie mir auch nehmen.<lbr type="BD"/> stellen sie sich<lbr/>
+nur alle meine unruhe, ängsten und sorgen vor die ich diese<lbr type="BD"/> 14 täge aus<pc force="weak">=</pc><lbr/>gestanden habe &#8211; sie starb ohne das sie etwas von sich wuste &#8211;<lbr type="BD"/> löschte<lbr/>
+aus wie ein licht. sie hat 3 täge vorher gebeichtet, ist <rend class="latin">Comunicirt</rend><lbr/>
+wor<lbr type="BD"/>den, und hat die heilige öehlung beko<abbr type="topline" expand="mm">m</abbr>en &#8211; &#8211; die lezten 3 täge aber<lbr/>
+<rend class="latin">phatasirte</rend> sie beständig, und heüt aber um 5 uhr 21 <rend class="latin">minuten</rend> grif sie<lbr/>
+in zügen,<lbr type="BD"/> verlohr alsogleich darbe&#255; alle empfindung und alle si<abbr type="topline" expand="nn">n</abbr>e &#8211; <lbr/>
+ich druckte ihr die<lbr type="BD"/> hand, redete sie an &#8211; sie sahe mich aber nicht, hörte<lbr/>
+mich nicht, und empfand<lbr type="BD"/> nichts &#8211; so lag sie bis sie verschied, nemlich<lbr/>
+in 5 stunden um 10 uhr 21 <rend class="latin">minu<lbr type="BD"/>ten</rend> abends &#8211; es war niemand darbe&#255;,<lbr/>
+als ich, ein guter freünd von uns | den<lbr type="BD"/> mein vatter ke<abbr type="topline" expand="nn">n</abbr>t | h<abbr type="curve">:</abbr>&#160;<rend class="latin">Haina</rend>, und<lbr/>
+die wächterin &#8211; die ganze kranckheit ka<abbr type="topline" expand="nn">n</abbr><lbr type="BD"/> ich ihnen heüte ohnmöglich<lbr/>
+schreiben &#8211; ich bin der Me&#255;nung daß sie hat ster<lbr type="BD"/>ben müssen &#8211; gott<lbr/>
+hat es so haben wollen. ich bitte sie unterdessen um nichts<lbr type="BD"/> als um<lbr/>
+das freünd=stück, daß sie meinen armen vatter ganz sachte<lbr/>
+zu dieser<lbr type="BD"/> trauerigen nachricht bereiten &#8211; ich habe ihm mit der<lbr/>
+nehmlichen Post geschrie<lbr type="BD"/>ben &#8211; aber nur daß sie schwer krank ist &#8211; <lbr/>
+warte da<abbr type="topline" expand="nn">n</abbr> nur auf eine antwort &#8211;<lbr type="BD"/> damit ich mich darnach richten<lbr/>
+ka<abbr type="topline" expand="nn">n</abbr>. gott gebe ihm stärcke und muth! &#8211; mein<lbr type="BD"/> freünd! &#8211; ich<lbr/>
+bin nicht izt, sondern schon lange her getröstet! &#8211; ich habe aus<lbr type="BD"/> be<pc force="weak">=</pc><lbr/>sonderer gnade gottes alles mit standhaftigkeit und gelassenheit<lbr/>
+übertragen.<lbr type="BD"/> wie es so gefährlich wurde, so batt ich gott nur um<lbr/>
+<pg n="2"/>
+2 dinge, nemlich um eine<lbr type="BD"/> glückliche sterbstunde für meine Mutter,<lbr/>
+und da<abbr type="topline" expand="nn">n</abbr> für mich um stärcke und<lbr type="BD"/> muth &#8211; und der gütige gott hat<lbr/>
+mich erhört, und mir die 2 gnaden im grösten<lbr type="BD"/> maaße verliehen.<lbr type="forced"/>
+ich bitte sie also, bester freünd, erhalten sie mir meinen vatter,<lbr/>
+sprechen sie<lbr type="BD"/> ihm muth zu daß er es sich nicht gar zu schwer und hart<lbr/>
+ni<abbr type="topline" expand="mm">m</abbr>t, we<abbr type="topline" expand="nn">n</abbr> er das<lbr type="BD"/> ärgste erst hören wird. Meine schwester empfehle<lbr/>
+ich ihnen auch von ganzen<lbr type="BD"/> herzen &#8211; gehen sie doch gleich hinaus<lbr/>
+zu ihnen, ich bitte sie &#8211; sagen sie ihnen<lbr type="BD"/> noch nichts daß sie<lbr/>
+Tod ist, sondern <rend class="latin">prepariren</rend> sie sie nur so dazu &#8211; Thun sie<lbr type="BD"/><lbr/>
+was sie wollen, &#8211; wenden sie alles an &#8211; machen sie nur<lbr/>
+daß ich ruhig se&#255;n<lbr type="BD"/> kan &#8211; und daß ich nicht etwa ein anderes<lbr/>
+unglück noch zu erwarten habe. &#8211;<lbr type="BD"/> Erhalten sie mir meinen<lbr/>
+lieben vatter, und meine liebe schwester. geben sie<lbr type="BD"/> mir<lbr/>
+gleich antwort ich bitte sie. &#8211; <rend class="latin">Adieu</rend>, ich bin dero<lbr type="forced"/>
+<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____</ts><u>aus fürsorg.</u><lbr type="forced"/>
+<lbr type="forced"/>
+Rue du gros chenet<lbr type="forced"/>
+vis à vis celle du croissant<lbr type="forced"/>
+à l'hôtel des quatre<lbr type="forced"/>
+<u>fils aimont.</u><lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____________</ts><tshtm>________________________________________</tshtm><tspdf>\hfill </tspdf>gehorsamster danckbarster diener<lbr type="BD"/><lbr type="forced"/>
+<ts>_____________</ts><tshtm>_________________________________________________</tshtm><tspdf>\hfill </tspdf>wolfgang Amadè <rend class="latin">Mozart</rend>&#160;<abbr expand="manu propria">mp</abbr><lbr type="BD"/>
+</NI></letter>
+</text>
+</MUP>

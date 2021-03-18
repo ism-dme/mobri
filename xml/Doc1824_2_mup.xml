@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2009">2009-08-20</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=73</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:26:12 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/Doc1824_2_mup.txt">
+<letter lang="it"><HEADER id="73">REGINA SCHLICK AN LUISE VON KNEBEL IN JENA<lbr/>
+GOTHA, 5. AUGUST 1824</HEADER>
+
+
+<pg n="1"/>
+<add_ident impl="pencil"><rend class="latin">Strinasacchi</rend></add_ident>
+<ts>__________</ts><rend class="latin">Cara e stimatissima<lbr type="forced"/>
+<ts>__________________</ts>amica<lbr type="forced"/>
+Con piacere mi ricordero<lbr/>
+sempre delle finese riceute<lbr/>
+nella sua casa e la ringrazio<lbr/>
+di cuore et al stimato suo<lbr/>
+consorte.<lbr type="forced"/>
+ti prego di darmi nove di<lbr/>
+quelle cose, che passa nella<lbr/>
+casa della <u>h.</u> &#8211; &#8211; &#8211; <lbr type="forced"/>
+come sta la povera Einsiedel,<lbr type="forced"/>
+io sto bene di salute e contin<pc force="weak">=</pc><lbr/>uo di far musicha. di mio<lbr/>
+figlio oh bone e consolante no<pc force="weak">=</pc><lbr/>ve, ma denari &#8211; denari e poi<lbr/>
+denari &#8211;. ti prego di salutare<lbr/>
+tutti quelli che si ricordano di<lbr/>
+me. io ti do un gran, bacio</rend><lbr/>
+<add_ident impl="pencil"><rend class="latin">Schlick Regina<ts>________</ts>Virtuosin</rend></add_ident>
+<pg n="2"/>
+<rend class="latin">e resto con la speranza di<lbr/>
+rivederti una volta da mè.<lbr/>
+mi pare, che la sig.<h>ra</h> di<lbr/>
+Wangenheim fa speculazione<lbr/>
+per il suo figlio ciouè il primo<lbr/>
+genito e con la figlia della<lbr/>
+sig.<h>ra</h> hendrich poi che e qui<lbr/>
+di ritorno da altenburg con<lbr/>
+tutto il suo bagaglio.<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____</ts>a dio cara mia<lbr type="forced"/>
+<ts>_____</ts>milla complimenti al<lbr type="forced"/>
+<ts>_____</ts>caro tuo sposo<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>________________________</ts><tspdf>\hfill </tspdf> tua vera amica</rend><lbr type="forced"/>
+<lbr type="forced"/>
+<suppl hand="diff">Gotha den 5ten</suppl><ts>__________</ts><tspdf>\hfill </tspdf>&#160;<rend class="latin">Regina Schlik</rend><lbr type="forced"/>
+<suppl hand="diff"><ts>___</ts><rend class="latin">August</rend> 24.</suppl><ts>___________</ts><add_ident type="inline" impl="ink">Geb. Italienerin<lbr type="forced"/>
+<ts>______________________________</ts>berühmte VioloncelloSpielerin</add_ident>
+<pg n="3"/>
+<add_ident impl="ink"><unclear>Glb</unclear> des Prinz Friedrich nachherig Herz. v Gotha<lbr type="forced"/>
+<ts>__________________________________________________</ts>Altenburg</add_ident>
+<pg n="4"/>
+<anschrift rot="270" lang="de">Ihro Hochwohlgeb<lbr type="forced"/>
+Der Frau Mayorin von <u><rend class="latin">Knebel</rend></u><lbr type="forced"/>
+<ts>_________________________</ts><u>zu</u><lbr type="forced"/>
+Durch Einschluß<ts>________</ts><u>Jena</u></anschrift>
+</letter></text>
+</MUP>

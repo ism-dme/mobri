@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2020">2020-02</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=639</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Verbleib unbekannt (Vorlage: Abschrift um 1768 in D-B)</bibl>
+            <bibl type="source" subtype="RISM">Verbleib unbekannt, Vorlage: Abschrift um 1768 in D-B</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:36:36 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_81.mup">
+<letter bd="81">
+<NI src="unbekannt">
+<HEADER id="639">LEOPOLD MOZART AN LORENZ HAGENAUER IN SALZBURG<lbr/>
+PARIS, 22. FEBRUAR 1764</HEADER>
+<pg n="1"/>
+<add_num schr_id="57010" impl="crayon" color="red"><ts>____________________</ts>20</add_num>
+<ts>_________________________</ts><tspdf>\hfill </tspdf>Paris den 22.<h>ten</h>&#160;<rend class="latin">Februa<abbr type="curve">:</abbr></rend><lbr type="forced"/>
+<ts>_____________________</ts><tshtm>_________________________________</tshtm><tspdf>\hfill </tspdf><u>1764.</u><lbr type="forced"/>
+<rend class="latin">Monsieur</rend>.<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____</ts>Es kann nicht immer die Sonne scheinen,<lbr/>
+es kommen oft Wolcken, die sich<lbr type="BD"/> aber wie<pc force="weak">=</pc><lbr/>der verziechen. Ich e&#255;lete gar nicht den<lbr/>
+Traurigen Todfall der Frau<lbr type="BD"/>&#160;<persName key="0">Gräfin von<lbr/>
+<rend class="latin">Van-Eyck</rend></persName> zu berichten, ich dachte es ware<lbr/>
+genug, daß ich die<lbr type="BD"/> Herzen der Herren<lbr/>
+Salzburger zu dieser traurigen Begebenheit<lbr/>
+vorbereitet<lbr type="BD"/> habe, ich ließ es anderen über,<lbr/>
+das Ende zu berichten. Wenn ich aus<lbr/>
+Paris bin,<lbr type="BD"/> werde ich einige Umstände zu<lbr/>
+berichten unermangeln; und ich würde der<lbr type="BD"/><lbr/>
+<persName key="0"><rend class="latin">Mademoissel Rosalia</rend></persName>, der ich mich empfehle,<lbr/>
+ein paar freundschaftliche Worte<lbr type="BD"/> geschrieben<lbr/>
+haben: Allein ich mus um Gedult bit<pc force="weak">=</pc><lbr/>ten, sie wird meine Ursachen<lbr type="BD"/> höchst ge<pc force="weak">=</pc><lbr/>gründet finden. Genug! Man stirbt<lbr/>
+nirgends gerne, allein hier sieht es<lbr type="BD"/> für einen<lbr/>
+<pg n="2"/>
+ehrlichen Deutschen, wenn er erkrancket,<lbr/>
+oder gar stirbt, gedoppelt<lbr type="BD"/> traurig aus.<lbr/>
+Übrigens hat der Todtfall der seel: Frau<lbr/>
+Gräfin die Unbässlich<lbr type="BD"/>keit des Herrn Gra<pc force="weak">=</pc><lbr/>fen nach sich gezogen, die sich nun aber<lbr/>
+nach und nach zur<lbr type="BD"/> besserung anlässt. Die<lbr/>
+Teutsche KindsFrau <rend class="latin">Sophia</rend>, die nun in<lbr/>
+wenigen Tägen<lbr type="BD"/> nach Teutschland zurück<pc force="weak">=</pc><lbr/>kehret, hätte es aus Betrübnus bald mit<lbr/>
+der Haut<lbr type="BD"/> bezahlen müssen. Mich hat<lbr/>
+bald darauf auch eine gähe und unver<pc force="weak">=</pc><lbr/>muthete<lbr type="BD"/> Begebenheit in einige Verlegenheit<lbr/>
+gesetzet. Meinen lieben <persName key="0"><rend class="latin">Wolfgang</rend></persName> über<pc force="inter">=</pc><lbr/>fühle ein gählinges Halswehe und Carthar,<lbr/>
+daß er, da er den Carthar in der<lbr type="BD"/> Fruhe<lbr/>
+den 16.<h>t<abbr v="en"/></h> merckte, in der Nacht ein solches<lbr/>
+stecken im Hals bekam,<lbr type="BD"/> daß er in Ge<pc force="weak">=</pc><lbr/>fahr war zu ersticken: Allein der Schleim,<lbr/>
+der ihm auf einmahl<lbr type="BD"/> ledig wurde, und den<lbr/>
+er nicht herausbringen kunte, fühle in<lbr/>
+den Magen zu<lbr type="BD"/>rück; Denn ich nahm<lbr/>
+ihn geschwind aus dem Bethe und führte<lbr/>
+<pg n="3"/>
+ihn im Zimmer<lbr type="BD"/> hin und wieder. Die Hitze,<lbr/>
+die ganz erstaunlich war, dämpfte ich nach<lbr/>
+und<lbr type="BD"/> nach mit dem <rend class="latin">pulvre antispas<abbr type="curve">:</abbr></rend> Hallen<abbr type="curve">:</abbr><lbr/>
+und Gott Lob, in 4. Tagen stund er<lbr type="BD"/> wieder<lbr/>
+vom Bethe auf, und befindet sich nun wie<pc force="weak">=</pc><lbr/>der besser. Zur Vorsorge<lbr type="BD"/> schrieb ich auf<lbr/>
+der kleinen Post unserm Freunde dem<lbr/>
+Teutschen Herrn <rend class="latin">Medico<lbr type="BD"/> Herrnschwand</rend>,<lbr/>
+der <choice><orig><rend class="latin">Medicin</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">Medecin</rend></corr></choice>&#160;<rend class="latin">des gardes Suisses</rend> ist. Er<lbr/>
+fand aber nicht nöthig<lbr type="BD"/> öfter als 2. mahl<lbr/>
+zu kommen. Ich habe ihn dann mit ein<lbr/>
+wenig <rend class="latin">aqua laxat:<lbr type="BD"/> Vien:</rend> Laxiren machen;<lbr/>
+nun ist er Gott Lob, gut. Mein Mädl<lbr/>
+ist auch mit<lbr type="BD"/> Carthar beunruhiget, allein<lbr/>
+ohne <rend class="latin">alteration</rend>. Und es ist kein wunder,<lbr/>
+de<abbr type="topline" expand="nn">n</abbr> den<lbr type="BD"/> 18.<h>t<abbr v="en"/></h>&#160;<rend class="latin">Novb<abbr type="curve">:</abbr></rend> sind wir in <placeName key="62">Paris</placeName> an<pc force="weak">=</pc><lbr/>gelanget, und dann hat es etliche Täge<lbr/>
+einen starcken schnee gemacht, der aber gleich<lbr/>
+wieder weg ware; und <choice><orig>se&#255;t</orig><corr hand="diff" schr_id="57010">seit</corr></choice> der Zeit<lbr type="BD"/> hat<lbr/>
+man in Paris <choice><orig>kein</orig><corr hand="diff" schr_id="57010">keinen</corr></choice> Schnee gesehen; es war<lbr/>
+immer neblichtes oder nasses<lbr type="BD"/> Wetter und<lbr/>
+so gelinde, daß der Herbst in Teutschland<lbr/>
+<pg n="4"/>
+viel kälter ist: ja es<lbr type="BD"/> waren einige ausser<pc force="weak">=</pc><lbr/>ordentliche schöne warme Täge, die aber<lbr/>
+gleich wieder<lbr type="BD"/> in das abscheulichste Regen<pc force="weak">=</pc><lbr/>wetter änderten, so daß hier kein Mensch<lbr/>
+fast<lbr type="BD"/> jemals ausgehet ohne das seidene<lbr/>
+Regendach in den Sack zu stecken. Aus<lbr type="BD"/><lbr/>
+dieser Ursache sind auch die bequemmen<lbr/>
+seidenen Regendächer aufgekom<lbr type="BD"/>men;<lbr/>
+Weil das Wetter in Paris mit der Ge<pc force="weak">=</pc><lbr/>müthsart ihrer Einwohner völlig<lbr type="BD"/> übereins<pc force="weak">=</pc><lbr/>stimmet und der Veränderung unterworf<pc force="weak">=</pc><lbr/>fen ist. Die Catharr sind hier<lbr type="BD"/> schlimmer<lbr/>
+und gefährlicher als in Teutschland, Es sind<lbr/>
+gemeiniglich hitzige<lbr type="BD"/> Cartharr, und da<lbr/>
+die hiesigen Herren <rend class="latin">Medici</rend> sehr das Ader<pc force="weak">=</pc><lbr/>lassen lieben, so<lbr type="BD"/> schicken sie manchen durch<lbr/>
+die Aderlass in die Ewigkeit. Nun<lbr/>
+bitte ich<lbr type="BD"/>&#160;<u>4. heilige Messen zu Maria<lbr/>
+Plain,</u> und 1. heilige Mess be&#255; dem heiligen<lbr/>
+Kindl<lbr type="BD"/> zu <choice><orig><rend class="latin">Loretho</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">Loretto</rend></corr></choice> so bald es sein kann,<lbr/>
+lesen zu lassen, die <amend value="wir">mir</amend> wegen unsern<lbr/>
+Kindern<lbr type="BD"/> versprochen haben, und mir zu<lbr/>
+<conv><ts>________________________________________________</ts><rend class="latin">noti</rend>ren</conv>
+<pg n="5"/>
+<rend class="latin">noti</rend>ren. Ich hoffe die heiligen Messen<lbr/>
+zu <choice><orig><rend class="latin">Lo<lbr type="BD"/>retho</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">Loretto</rend></corr></choice> werden allzeit fort gelesen<lbr/>
+werden, so lange wir aus sind, wie ich<lbr type="BD"/><lbr/>
+gebethen habe. Zu folge dessienigen, was<lbr/>
+ich ihnen wegen des nassen Wetters<lbr type="BD"/> ge<pc force="weak">=</pc><lbr/>schrieben habe, mus ich ihnen noch sagen,<lbr/>
+daß die <rend class="latin">Seine</rend> hier vor etwa<lbr type="BD"/> 14. Täge<lbr/>
+so erstaunlich angeloffen ware, daß<lbr/>
+man auf dem Plaz <rend class="latin">la gréve</rend> mit Schiffen<lbr/>
+fahren muste, und viele gegenden der<lbr/>
+<choice><orig>Statt</orig><corr hand="diff" schr_id="57010">Stadt</corr></choice>, gegen dem Fluss zu,<lbr type="BD"/> nicht <rend class="latin">passi</rend><pc force="weak">=</pc><lbr/>ren <choice><orig>kunte</orig><corr hand="diff" schr_id="57010">konte</corr></choice>. Was das Wasser um<lbr/>
+Franckfurt und in Holland auch<lbr type="BD"/> anderer<lbr/>
+Orts für schaden gethan, das werden sie<lbr/>
+in Zeitungen genug lesen.<lbr type="BD"/> Wir werden<lbr/>
+in längstens 14. tägen wieder nach <rend class="latin">Versail<pc force="weak">=</pc><lbr/>les</rend> fahren um das<lbr type="BD"/>&#160;<u><rend class="latin">œuvre 1.<h>er</h></rend></u> der gestoche<pc force="weak">=</pc><lbr/>nen <rend class="latin">Sonat</rend>en des grossen H<abbr type="curve">:</abbr>&#160;<rend class="latin">Wolfgang</rend><lbr/>
+der <rend class="latin">Madame<lbr type="BD"/> Victoire</rend>, zwe&#255;ten Tochter<lbr/>
+des Königs, zu überreichen, welcher es<lbr/>
+<rend class="latin">dedici</rend>ert wird.<lbr type="BD"/> Das <u><rend class="latin">Œuvre</rend> 2:<h>d</h></u> wird<lbr/>
+glaublich der <rend class="latin">Madame la Comtesse de<lbr/>
+Tessé</rend>&#160;<rend class="latin">dedici</rend>rt wer<lbr type="BD"/>den. In Zeit von<lbr/>
+<pg n="6"/>
+3. bis höchsten 4. Wochen müssen, wenn Gott<lbr/>
+will, wichtige<lbr type="BD"/> Sachen vorgehen; wir haben<lbr/>
+gut angebauet, nun hoffen wir auch eine<lbr/>
+gute<lbr type="BD"/> Ärnte. Man mus alles nehmen<lbr/>
+wie es kommt. Ich wurde auch 12. <rend class="latin">Louvis<lbr/>
+d'or</rend><lbr type="BD"/> wenigst mehr haben, wenn meine Kin<pc force="weak">=</pc><lbr/>der nicht hätten einige Täge das Haus<lbr type="BD"/><lbr/>
+hütten müssen: Ich dancke Gott, daß<lbr/>
+sie besser sind &#8211; &#8211; &#8211; wissen sie, was die<lbr type="BD"/><lbr/>
+Leute immer hier wollen? &#8211; &#8211; Sie wollen<lbr/>
+mich bereden meinem Bueben die<lbr type="BD"/> Blattern<lbr/>
+einpfropfen zu lassen. Nachdem ich nun<lbr/>
+aber meinen wiederwillen<lbr type="BD"/> gegen dießen<lbr/>
+Vortrag genug habe zu verstehen gegeben,<lbr/>
+so lassen sie mich zu<lbr type="BD"/> frieden. Hier ist<lbr/>
+es die allgemeine Mode, nur, daß man<lbr/>
+es ohne Erlaubniß nicht in der <choice><orig>Statt</orig><corr hand="diff" schr_id="57010">Stadt</corr></choice>, son<pc force="weak">=</pc><lbr/>dern auf der <rend class="latin">Campagne</rend>, thun darf: dieß<lbr/>
+aber nur darum, weil<lbr type="BD"/> wegen dem gu<pc force="weak">=</pc><lbr/>ten Erfolg der Einpfropfung, die Leute<lbr/>
+hauffenweis und zu<lbr type="BD"/> gleicher Zeit, sowohl<lbr/>
+kleinen als erwachsenen, die Blattern<lbr/>
+haben einpfropfen<lbr type="BD"/> lassen, so daß in<lbr/>
+<pg n="7"/>
+einem Hause manchmal, 3, 4, und mehr<lbr/>
+Personen in Blattern<lbr type="BD"/> lagen. Da nun<lbr/>
+dieß üble folgen hätte nach sich ziechen<lbr/>
+können, so mus es auf<lbr type="BD"/> der <rend class="latin">campagne</rend><lbr/>
+geschechen, oder be&#255; dem <rend class="latin">Intendant de<lbr/>
+Paris</rend> angezeigt werden.<lbr type="BD"/> Ich meinestheils<lbr/>
+lasse es der Gnade Gottes über. Es<lbr/>
+hänget von S:<h>r</h> göttlichen<lbr type="BD"/> Gnade ab, ob<lbr/>
+er dieß Wunder der Natur, so er in<lbr/>
+die Welt gesetzet hat, auch<lbr type="BD"/> darinnen<lbr/>
+erhalten, oder zu sich nehmen will. Von<lbr/>
+mir wird er gewiß so<lbr type="BD"/> beobachtet, daß<lbr/>
+es eines ist, ob wir in Salzburg oder in<lbr/>
+welchem Ort der Welt<lbr type="BD"/> wir sind. Das<lbr/>
+ist es auch, was die Reisen kostbar ma<pc force="weak">=</pc><lbr/>chet. Wer diese Reisen<lbr type="BD"/> nicht gemacht<lbr/>
+hat, der kann es sich nicht vorstellen, was<lbr/>
+alles dazu erforderet<lbr type="BD"/> wird. Man<lbr/>
+muß die Hände beständig im Geldbeutl,<lbr/>
+und seine 5. <choice><orig>Sünnen</orig><corr hand="diff" schr_id="57010">Sinnen</corr></choice> immer<lbr type="BD"/> wohl be&#255;sam<pc force="weak">=</pc><lbr/>men, und ohnaufhörlich <choice><orig><amend value="einen">ein</amend></orig><corr hand="diff" schr_id="57010">einen</corr></choice> Plan auf<lbr/>
+viele Monate hinein vor<lbr type="BD"/> Augen haben;<lbr/>
+einen Plan aber, den man nach Verän<pc force="weak">=</pc><lbr/>derung der Umstände,<lbr type="BD"/> auch gleich ver<pc force="weak">=</pc><lbr/><pg n="8" type="wordsep"/>änderen kann. Nun kommt etwas an<pc force="weak">=</pc><lbr/>ders. Wundern sie sich<lbr type="BD"/> nicht, wenn alles<lbr/>
+unter einander hinschreibe, man muß in<lbr/>
+solchen Fällen die<lbr type="BD"/> Gedancken hinschreiben,<lbr/>
+wie sie kommen, sonst fallen sie aus dem<lbr/>
+Sinne.<lbr type="BD"/> Man hat in Teutschland das<lbr/>
+Vorurtheil, daß die Franzosen keine käl<pc force="weak">=</pc><lbr/>te ertragen<lbr type="BD"/> können; Allein dieß ist ein<lbr/>
+Vorurtheil, welches Augenblicklich wegfällt,<lbr/>
+wenn<lbr type="BD"/> man den ganzen Winter alle <rend class="latin">Bou<pc force="weak">=</pc><lbr/>tiqu</rend>en offen siehet. Der Kaufmann <abbr expand="etc">p</abbr><lbr/>
+nicht<lbr type="BD"/> alleine, sonder Schneider, Schuster, Sat<pc force="weak">=</pc><lbr/>ler, Messerschmied, Goldschmied <abbr expand="etc">p</abbr><lbr type="BD"/>&#160;<rend class="latin">en fin</rend> alle<lbr/>
+Arten der Gewerbe Arbeiten in offenen<lbr/>
+<rend class="latin">Boutiqu</rend>en und vor aller<lbr type="BD"/> Menschen Augen,<lbr/>
+so das alle <rend class="latin">Boutiqu</rend>en eben so viel Zimmer<lbr/>
+sind, wo man<lbr type="BD"/> Jahr aus Jahr ein, be&#255;<lbr/>
+Hitze und kälte die Menschen arbeiten<lbr/>
+siehet. so bald<lbr type="BD"/> es Abend wird, sind alle<lbr/>
+<rend class="latin">Boutiqu</rend>en beleuchtet, so daß in mancher<lbr/>
+6, 7, 8,<lbr type="BD"/> bis 10. Liechter brennen, in manchen<lbr/>
+vielle Wandleuchter, und in der mitte<lbr type="BD"/> ein<lbr/>
+schöner Kronleuchter hanget. Bis gegen 10.<lbr/>
+<conv><ts>_________________________________________________________</ts>Uhr</conv>
+<pg n="9"/>
+Uhr sind die meisten <rend class="latin">Boutiqu</rend>en<lbr type="BD"/> offen.<lbr/>
+die <rend class="latin">Boutiqu</rend>en der Ess-waren bleiben<lbr/>
+bis 11. Uhr offen. Hier haben nun<lbr type="BD"/> die<lbr/>
+Frauenzimmer nichts als <rend class="latin">chauffre</rend>tten<lbr/>
+unter den füssen: das sind kleine<lbr type="BD"/><lbr/>
+hölzerne und mit blech gefütterte Käst<pc force="weak">=</pc><lbr/>chen die durchlöcheret sind, darin ein<lbr type="BD"/><lbr/>
+gliender Ziegel, oder heisser Aschen, oder<lbr/>
+erdene Kästl mit Glut gefüllt<lbr type="BD"/> sind.<lbr/>
+So bald ein heller Tag ist, so sehen sie<lbr/>
+den ganzen Winter, auch be&#255;m<lbr type="BD"/> käl<pc force="weak">=</pc><lbr/>testen Winde, eine unzahlbahre Menge<lbr/>
+Menschen be&#255;derle&#255; Geschlechts<lbr type="BD"/> und Alters<lbr/>
+in dem Garten der <rend class="latin">Thuillerie</rend>, im<lbr/>
+<rend class="latin">Palais Royal</rend>, <rend class="latin">Boulevard</rend> und anderen<lbr/>
+<rend class="latin">promenaden</rend> spazieren gehen. Sagen<lbr/>
+sie mir nun, ob die Franzosen<lbr type="BD"/> sich vor<lbr/>
+der kälte scheuen. Beym mündesten<lbr/>
+Sonnscheine sind alle Fenster<lbr type="BD"/> offen. und<lbr/>
+be&#255; dem kältesten Winde, sind die<lbr/>
+Thüren offen, und sie sitzen<lbr type="BD"/> be&#255;m<lbr/>
+Caminfeuer.<lbr type="forced"/>
+</NI>
+</letter>
+</text>
+</MUP>

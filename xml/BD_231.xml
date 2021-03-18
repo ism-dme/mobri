@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2011">2011-05</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=792</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:37:28 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_231.mup">
+<letter bd="231"><HEADER id="792">LEOPOLD MOZART AN MARIA ANNA MOZART IN SALZBURG<lbr/>
+VENEDIG, 13. FEBRUAR 1771<lbr/>
+mit Nachschriften von Wolfgang Amadé Mozart an Maria Anna (Nannerl) Mozart und an Johann Nepomuk Hagenauer</HEADER>
+<pg n="1"/>
+<ts>_________________</ts><tshtm>_______________________________________________________</tshtm><tspdf>\hfill </tspdf>Venedig 13 <rend class="latin">feb<abbr type="curve">:</abbr></rend> 1771<lbr type="forced"/>
+<lbr type="forced"/>
+Weg<abbr v="en"/> dem übl<abbr v="en"/> Wetter und erstaunlich<abbr v="en"/> Wind sind wir erst am fasching<pc force="weak">=</pc><lbr/>montag in der frühe in Venedig angelangt, nachmittag sucht<abbr v="en"/> wir d<abbr v="en"/><lbr/>
+h<abbr type="curve">:</abbr> Wider anzutreff<abbr v="en"/>, der uns da<abbr type="topline" expand="nn">n</abbr> sa<abbr type="topline" expand="mm">m</abbr>t seiner Frau in die <rend class="latin">opera</rend><lbr/>
+begleitete.<lbr type="BD"/> den faschingerchtag speist<abbr v="en"/> wir mittags be&#255; ihm, gieng<abbr v="en"/> in die <rend class="latin">opera</rend><lbr/>
+die um<lbr type="BD"/> 2 uhr anfieng und geg<abbr v="en"/> 7 uhr abends aus war, da<abbr type="topline" expand="nn">n</abbr> assen wir<lbr/>
+zu nachts<lbr type="BD"/> be&#255; ihm und zwisch<abbr v="en"/> 11 und 12 uhr in d<abbr v="er"/> nacht teutscher uhr war<abbr v="en"/> wir<lbr/>
+auf<lbr type="BD"/> dem <rend class="latin">Marcus</rend>Platz um in die <rend class="latin">Redout</rend> zu geh<abbr v="en"/>, und sagt<abbr v="en"/> zu einand<abbr v="er"/><lbr/>
+daß ihr<lbr type="BD"/> itzt vielleicht be&#255; h<abbr type="curve">:</abbr> Hagenauer se&#255;n, und euch nicht einbild<abbr v="en"/><lbr/>
+werdet, daß<lbr type="BD"/> wir auf dem <rend class="latin">Marcus</rend>Platz von euch sprech<abbr v="en"/> werd<abbr v="en"/>. Es war<lbr/>
+das abscheulichste<lbr type="BD"/> Regenwetter, heute aber, am Aschermittwoche, ist das schönste<lbr/>
+Wett[er]. Wir<lbr type="BD"/> sind Gott Lob wohl auf. We<abbr type="topline" expand="nn">n</abbr> vermeinst du wohl, daß<lbr/>
+wir in <rend class="latin">Brescia</rend> angetroff<abbr v="en"/>? &#8211; &#8211; wir gieng<abbr v="en"/> in die <rend class="latin">opera Buffa</rend> alda,<lbr/>
+und fand<abbr v="en"/> die <rend class="latin">Sg<h>a</h>: Angelica Maggiore</rend> als <rend class="latin">prima Do<abbr type="topline" expand="nn">n</abbr>a</rend>, die<lbr/>
+mit einem <rend class="latin">Tenor</rend> verhe&#255;rat ist, der auch<lbr type="BD"/> alda <rend class="latin">recitie</rend>rte. Sie war<lbr/>
+ganz erstaunt uns zu seh<abbr v="en"/>. Sage dem h<abbr type="curve">:</abbr>&#160;<rend class="latin">Spizeder</rend>,<lbr type="BD"/> we<abbr type="topline" expand="nn">n</abbr> er<lbr/>
+sein<abbr v="en"/> ehemahlig<abbr v="en"/>&#160;<rend class="latin">impressario Crosa</rend> seh<abbr v="en"/> will, ka<abbr type="topline" expand="nn">n</abbr> er ihn in<lbr/>
+Mayland antreff<abbr v="en"/>; wo er elend gekleidet mit einem lang<abbr v="en"/> Bart<lbr/>
+betteln gehet.<lbr type="BD"/> also Strafft Gott die betrüger! daß der<lbr/>
+<rend class="latin">Carattoli</rend> und <rend class="latin">Laschi</rend> gestorb<abbr v="en"/> wirst du<lbr type="BD"/> gehort hab<abbr v="en"/>.<lbr type="forced"/>
+dein<abbr v="en"/> Brief hier habe erhalt<abbr v="en"/> sa<abbr type="topline" expand="mm">m</abbr>t dem <rend class="latin">billet</rend>&#160;<abbr expand="von">v</abbr> h<abbr type="curve">.</abbr>&#160;<abbr expand="von">v</abbr> Vogt.<lbr/>
+Lebts wohl ich<lbr type="BD"/> muß e&#255;l<abbr v="en"/>. wir kiss<abbr v="en"/> euch 100000 mahl und bin<lbr type="forced"/>
+<ts>_________________</ts><tshtm>______________________________________________</tshtm><tspdf>\hfill </tspdf>d<abbr v="er"/> alte<lbr type="forced"/>
+h<abbr type="curve">:</abbr> Wid<abbr v="er"/> d<abbr v="er"/> ehrliche Ma<abbr type="topline" expand="nn">n</abbr> sa<abbr type="topline" expand="mm">m</abbr>t seiner<ts>_______________________</ts><tspdf>\hfill </tspdf>Mozart mp<lbr type="forced"/>
+frau und töchter empf<abbr type="curve">:</abbr> sich.<lbr type="forced"/>
+<lbr type="forced"/>
+unsere Empf<abbr type="curve">:</abbr> an ganz Salzb<abbr type="curve">:</abbr><lbr type="forced"/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal><lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="2"/>
+<NS type="NS" schr_id="39409" adr_id="48817">
+<ts>_________________________</ts>Allerliebste schwester!<lbr type="forced"/>
+daß ich gesund bin, wirst du schon von meinen papa erfahren<lbr/>
+haben. ich weiß<lbr type="BD"/> nichts zu schreiben. als meinen handkus an<lbr/>
+die mama. lebe wohl.</NS>
+<NS type="NS" schr_id="39409" adr_id="75367"><rend class="latin"><ts>_________________________</ts>Al sig: giova<abbr type="topline" expand="nn">n</abbr>i.<lbr type="forced"/>
+la sig:<h>ra</h> perla ricona la riverisce tanto, come anche<lbr/>
+tutte le altre perle, e li<lbr type="BD"/> assicuro che tutte sono inamo<pc force="weak">=</pc><lbr/>rata di lei, e che sperano che lei prenderá per<lbr type="BD"/> moglie<lbr/>
+tutte, come i turchi per contentar tutte sei. questo<lbr/>
+scrivo in casa del<lbr type="BD"/> sig: Wider il quale é un galant'uomo<lbr/>
+come lei melo scrisse, ed Jeri abbiamo finito<lbr type="BD"/> il<lbr/>
+Carnovale da lui, cenando da lui, e poi balla<abbr type="topline" expand="mm">m</abbr>o<lbr/>
+ed anda<abbr type="topline" expand="mm">m</abbr>o Colle perle<lbr type="BD"/> in compagnie nel ridotto<lbr/>
+nuovo, che mi piacque assai. quando stó dal Sig:<lbr/><lbr type="BD"/>
+Wider e quardando fuori della finestra [ve]do<lbr/>
+la casa dove lei abitó quando lei fú in<lbr type="BD"/> venezia<lbr/>
+di nuovo non só niente. venezia mi piace assai.<lbr/>
+il mio complimendo al<lbr type="BD"/> sig: suo padre e madre sorelle<lbr/>
+fratelli e á tutti i miei amici ed amiche. addio.<lbr type="forced"/>
+<lbr type="forced"/>
+13 di feb: <u>1771.</u><ts>_______________________</ts><tspdf>\hfill </tspdf>Wolfgango Amadeo<lbr type="forced"/>
+<ts>_______________________________________________________</ts><tspdf>\hfill </tspdf>Mozart</rend></NS><lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal><lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+</letter></text>
+</MUP>

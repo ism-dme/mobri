@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2014">2014-6</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1491</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">D-B</bibl>
+            <bibl type="source" subtype="RISM">D-B (Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Musikabteilung mit Mendelssohn-Archiv)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:41:10 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_921.mup">
+<letter bd="921"><NI src="D-B"><HEADER id="1491">WOLFGANG AMADÉ MOZART AN TOBIAS PHILIPP FREIHERR VON<tspdf>\newline</tspdf> GEBLER(?) IN WIEN<lbr/>
+WIEN, 14. JANUAR 1786(?)</HEADER>
+<pg n="1"/>
+<ts>________________</ts><tshtm>___________</tshtm>Lieber Br:<lbr type="forced"/>
+<lbr type="forced"/>
+Nun ist es eine Stunde daß ich nach haus kam &#8211; und zwar mit starken<lbr type="BD"/> kopfschmerzen<lbr/>
+und Magenkrampf behaftet; ich hofte i<abbr type="topline" expand="mm">m</abbr>er auf besserung &#8211;<lbr type="BD"/> da ich aber leider das gegen<pc force="weak">=</pc><lbr/>theil empfinde, so sehe ich wohl daß ich nicht<lbr type="BD"/> dazu besti<abbr type="topline" expand="mm">m</abbr>t bin unserer heutigen ersten fe&#255;erlich<pc force="weak">=</pc><lbr/>keit be&#255;zuwohnen, und<lbr type="BD"/> bitte sie also, lieber br:, mich deswegen an ort und stelle bestens<lbr/>
+zu entschul<lbr type="BD"/>digen. &#8211; Niemand verliert mehr dabe&#255; als ich; &#8211; ich bin Ewig ihr<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____________</ts><tshtm>_____________________________________________________________________________</tshtm><tspdf>\hfill </tspdf>aufrichtigster br: Mozart <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<ts>___________</ts><tshtm>____________________________</tshtm>Euer Hochgräflich &#8211; &#8211; <lbr type="forced"/>
+<ts>_____________</ts>O Ja gewis &#8211; um 8 M und<lbr type="forced"/>
+<lbr/>
+<add_seal type="owner">DEUTSCHE<lbr/>STAATS=<lbr/>BIBLIOTHEK<lbr/>BERLIN</add_seal>
+<pg n="2"/>
+<vacat/>
+</NI></letter>
+</text>
+</MUP>

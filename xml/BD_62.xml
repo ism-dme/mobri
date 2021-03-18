@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2020">2020-02</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=620</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Verbleib unbekannt (Vorlage: Abschrift um 1768 in D-B)</bibl>
+            <bibl type="source" subtype="RISM">Verbleib unbekannt, Vorlage: Abschrift um 1768 in D-B</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:36:32 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_62.mup">
+<letter bd="62">
+<NI src="unbekannt">
+<HEADER id="620">LEOPOLD MOZART AN LORENZ HAGENAUER IN SALZBURG<lbr/>
+FRANKFURT AM MAIN, 13. AUGUST 1763</HEADER>
+<pg n="1"/>
+<tshtm><additum>[... (Schluss der Abschrift des Briefes vom 3. August 1763)]</additum><lbr/>
+<lbr/></tshtm>
+<add_num schr_id="57010" impl="crayon" color="red"><ts>_______________________________</ts>N. 15.</add_num>
+<ts>_________________________</ts><tspdf>\hfill </tspdf>Frankfurt den 13<h>t<abbr v="en"/></h>&#160;<rend class="latin">Aug<abbr type="curve">:</abbr></rend>&#160;<u>1763.</u><lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____</ts>Der Churfürst in Ma&#255;nz war, und<lbr/>
+ist noch mit einem starken Fieber behaftet.<lbr type="BD"/><lbr/>
+Man war sehr um ihn besorgt, weil er noch<lbr/>
+niemals sein LebsTage Kranck<lbr type="BD"/> war. Wir<lbr/>
+<rend class="latin">logie</rend>rten im König von Engelland, gaben ent<pc force="weak">=</pc><lbr/>zwischen ein <rend class="latin">Concert</rend> be&#255;m römischen König, lies<pc force="weak">=</pc><lbr/>sen dann unsern Waagen und einige <rend class="latin">Ba<pc force="weak">=</pc><lbr/>gage</rend> in<lbr type="BD"/> unserm <rend class="latin">Quarti</rend>er, und fuhren mit<lbr/>
+dem <choice><orig><amend value="Marckt">Marck</amend></orig><corr hand="diff" schr_id="57010">Marckt</corr></choice>-Schiffe nach <choice><orig>Franckfort</orig><corr hand="diff" schr_id="57010">Frankfurt</corr></choice>.<lbr type="forced"/>
+<pg n="2"/>
+Wir<lbr type="BD"/> sind schon einige Tage hier. Am kom<pc force="weak">=</pc><lbr/>menden <choice><orig>DonersTage</orig><corr hand="diff" schr_id="57010">DonnersTage</corr></choice> werden wir<lbr type="BD"/> glaublich ein<lbr/>
+<rend class="latin">Concert</rend> geben, und dann wieder nach Ma&#255;nz<lbr/>
+zuruckkehren,<lbr type="BD"/>&#160;<choice><orig>dann</orig><corr hand="diff" schr_id="57010">denn</corr></choice> die <choice><orig><amend value="Marcktschiffe">Marckschiffe</amend></orig><corr hand="diff" schr_id="57010">Marcktschiffe</corr></choice> gehen alle<lbr/>
+Tage zu Ma&#255;nz und Franckfurt gegen ein<pc force="inter">=</pc><lbr/>ander ab. Wir wohnen hier im <choice><orig>golden</orig><corr hand="diff" schr_id="57010">goldenen</corr></choice> Löwen;<lbr/>
+Ihren so wohl, als h<abbr type="curve">:</abbr> Adl<lbr type="BD"/>gassers h<abbr type="curve">:</abbr> Spizeders<lbr/>
+Briefe habe richtig durch meinen Freund H<abbr type="curve">:</abbr><h>n</h><lbr/>
+Wahler<lbr type="BD"/> empfangen. Ob ich aber so wohl ei<pc force="weak">=</pc><lbr/>nem als <choice><orig>den</orig><corr hand="diff" schr_id="57010">dem</corr></choice> anderen dieser meiner lieben<lbr type="BD"/><lbr/>
+Freunden antworten werde, weis ich nicht, denn<lbr/>
+ich komme bluthart ans<lbr type="BD"/> schreiben, <choice><orig>weill</orig><corr hand="diff" schr_id="57010">weil</corr></choice> ich bald<lbr/>
+da bald dort bin. <choice><orig><rend class="latin">baste</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">basta</rend>,</corr></choice> ich <choice><orig>zehle</orig><corr hand="diff" schr_id="57010">zähle</corr></choice> auf ihre<lbr/>
+Freundschaft<lbr type="BD"/> und empfehle uns alle in ihre Freund<pc force="weak">=</pc><lbr/>schaft und <choice><orig>Gebett</orig><corr hand="diff" schr_id="57010">Gebet</corr></choice>. Wenn ich dem H<abbr type="curve">:</abbr><h>n</h><lbr type="BD"/> Adl<pc force="weak">=</pc><lbr/>gasser, und ihnen, liebster H<abbr type="curve">:</abbr> Hagenauer! zu<lbr/>
+dero NahmensTage nicht<lbr type="BD"/> glück gewunschen, so<lbr/>
+thun wir es nun gegenwärtig, und haben uns<lbr/>
+fleisig<lbr type="BD"/> deroselben erinnert. Am <rend class="latin">Caietani</rend><pc force="strong">-</pc><lbr/>Fest, haben wir in Ma&#255;nz bei einem gewis<pc force="inter">=</pc><lbr/>sen <rend class="latin">Canonico Starck</rend> gespeisset, Nachmittag<lbr/>
+sind wir in Gesellschaft der Ur<lbr type="BD"/>sprungerischen<lbr/>
+<rend class="latin">Familie</rend>, der Churfürstl: Kammerdiener, das<lbr/>
+ist Leibka<abbr type="topline" expand="mm">m</abbr>er<lbr type="BD"/>diener, und ein gebohrner Salz<pc force="weak">=</pc><lbr/><pg n="3" type="wordsep"/>burger ist, in die <rend class="latin">Favorite</rend> gegangen, und<lbr/>
+Abends<lbr type="BD"/> auf dem <choice><orig>Rein</orig><corr hand="diff" schr_id="57010">Rhein</corr></choice> spazieren gefahren. Die<lbr/>
+<rend class="latin">Favorite</rend> ist ein Churfürstliches So<abbr type="topline" expand="mm">m</abbr><lbr type="BD"/>merGebäu<pc force="weak">=</pc><lbr/>de samt einem Garten, der jedermann offen<lbr/>
+stehet. Die Lage ist die<lbr type="BD"/> schönste so man<lbr/>
+sehen kann. Der Churfürst siehet vom Zim<pc force="weak">=</pc><lbr/>mer, und wenn er<lbr type="BD"/> will, vom Bette aus, nicht<lbr/>
+nur den <choice><orig>Rein</orig><corr hand="diff" schr_id="57010">Rhein</corr></choice>, sondern auch den Ma&#255;n, und<lbr/>
+den<lbr type="BD"/> Zusammenfluß beeder flüsse; alle Schiffe,<lbr/>
+dann eine nicht zu übersehende<lbr type="BD"/> Aussicht von<lbr/>
+Weinbergen, Gärten, Dörffer, Feldern und<lbr/>
+kleine <choice><orig>Stättchen</orig><corr hand="diff" schr_id="57010">Städtchen</corr></choice>.<lbr type="BD"/>&#160;<choice><orig><u>Frankfurth</u></orig><corr hand="diff" schr_id="57010"><u>Frankfurt</u></corr></choice> ist ein <choice><orig>alt<pc force="weak">=</pc><lbr/>vätterischer</orig><corr hand="diff" schr_id="57010">altväterischer</corr></choice> Ort, und von dem Römer habe ich<lbr/>
+mir viel<lbr type="BD"/> andere Vorstellungen gemacht: Es<lbr/>
+will weder der Platz noch der Römer <choice><orig>gahr</orig><corr hand="diff" schr_id="57010">gar</corr></choice><lbr type="BD"/><lbr/>
+nichts sagen. Es giebt doch einige schöne<lbr/>
+Gebäude, doch <choice><orig>wenig</orig><corr hand="diff" schr_id="57010">wenige</corr></choice>: Hingegen<lbr type="BD"/> giebt es<lbr/>
+schöne Kaufmanns Gewölber, und viel 1000.<lbr/>
+Juden. <u>Jetzt wircklich muß<lbr type="BD"/> ich ihnen sagen,<lbr/>
+daß alles sehr Stille unter der Handelschaft ist,<lbr/>
+auch gar<lbr type="BD"/> wenig, ja fast nichts gethan wird,<lbr/>
+wegen dem erstaunlichen <rend class="latin">Banquerot</rend> der in<lbr type="BD"/><lbr/>
+Amsterdam ausgebrochen, und <rend class="latin">million</rend>en, auch<lbr/>
+bereits 30. Häuser alda betrift.<lbr type="BD"/> Nun trauet</u><lbr/>
+<pg n="4"/>
+<u>hier keiner dem anderen, bis man besser weiß,<lbr/>
+wie tief ein und<lbr type="BD"/> anderer stecket.</u> &#8211; &#8211; &#8211; -<pc force="weak">-</pc><lbr type="forced"/>Den 12.<h>t<abbr v="en"/></h> kam Nachmittag gegen 3. Uhr ein<lbr/>
+Donnerwetter. Auf den aller<lbr type="BD"/>ersten Blitz<lbr/>
+erfolgte augenblicklich ein ganz erstaunlicher<lbr/>
+unversehener <choice><orig>Donerschlag</orig><corr hand="diff" schr_id="57010">Donnerschlag</corr></choice>, der unfern unserer<lbr/>
+Wohnung eine <choice><orig>Egge</orig><corr hand="diff" schr_id="57010">Ecke</corr></choice> vom Haus wegschlug, 3.<lbr type="BD"/><lbr/>
+<choice><orig>Personnen</orig><corr hand="diff" schr_id="57010">Personen</corr></choice>&#160;<rend class="latin">blessi</rend>rte, und und in einen Garten fuhr.<lbr/>
+Hiemit war aber auch das<lbr type="BD"/> Wetter vorbe&#255;.<lbr/>
+Die Jungfrau <rend class="latin">Rosalia</rend>&#160;<choice><orig><rend class="latin">Jolj</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">Joli</rend></corr></choice> Ca<abbr type="topline" expand="mm">m</abbr>erkätzchen be&#255;<lbr/>
+<choice><orig>S.<h>r</h></orig><corr hand="diff" schr_id="57010">Ihrer</corr></choice>&#160;<rend class="latin">Excel<lbr type="BD"/>lenz</rend> Gräfin <abbr type="topline" expand="von">v</abbr>&#160;<rend class="latin">Arco</rend>, hat mir<lbr/>
+versprochen mit der Gräfin <choice><orig><rend class="latin"><abbr type="topline" expand="von">v</abbr> Vaneck</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">Van Eyck</rend></corr></choice> wegen<lbr/>
+<choice><orig>einem</orig><corr hand="diff" schr_id="57010">eines</corr></choice><lbr type="BD"/>&#160;<choice><orig><rend class="latin">Quarti</rend>er</orig><corr hand="diff" schr_id="57010"><rend class="latin">Quarti</rend>ers</corr></choice> in Paris zu sprechen, und mir,<lbr/>
+durch Sie, Nachricht zu geben. Bitte,<lbr type="BD"/> so bald<lbr/>
+es möglich ist mit ihr zu sprechen, und mir in<lbr/>
+ihrem ersten Schreiben<lbr type="BD"/> davon Nachricht zu ge<pc force="weak">=</pc><lbr/>ben. Wenn sie eine <rend class="latin">Violin</rend>schule wollen,<lbr/>
+so sind solche<lbr type="BD"/> in <rend class="latin">Cabinetl</rend> gegen der Bettstatt<lbr/>
+hin an der Mauer zu finden. Es mus be&#255;<lbr/>
+iedem<lbr type="BD"/> Buch eine <rend class="latin">Tabelle</rend>, 4. Kupferblätter,<lbr/>
+ein Bericht an den Buchbinder, und ein<lbr type="BD"/>&#160;<rend class="latin">errata</rend><lbr/>
+<choice><orig>blätchen</orig><corr hand="diff" schr_id="57010">blättchen</corr></choice> se&#255;n. sind sie nicht darin, so fin<pc force="weak">=</pc><lbr/>det man diese Sachen<lbr type="BD"/> nebenbe&#255;.<lbr type="forced"/>
+<ts>_____</ts>Unser aller vergnügen war ausnehmend,<lbr/>
+<pg n="5"/>
+als wir in dem eingeschickten Zei<lbr type="BD"/>tungsblatt die<lbr/>
+grosse Ehre laßen, die H<abbr type="curve">:</abbr> Hof<rend class="latin">Statuarius</rend><lbr/>
+<rend class="latin">Hagenauer</rend> dem Salz<lbr type="BD"/>burglichen Hofe und seinen<lbr/>
+freunden gemacht hat. Wenn sie ihm schreiben,<lbr type="BD"/><lbr/>
+so melden sie ihm mein <choice><orig>Glückwunschs</orig><corr hand="diff" schr_id="57010">Glückwunsch</corr></choice>&#160;<rend class="latin">Compli<pc force="weak">=</pc><lbr/>ment</rend>, und geben sie ihm Nach<lbr type="BD"/>richt von unsrer<lbr/>
+Reiße. Er soll von Italien nach Franckreich<lbr/>
+gehen: Allein Rom<lbr type="BD"/> und <rend class="latin">Neapel</rend> wird ihn so<lbr/>
+lange aufhalten, daß er uns nicht mehr in<lbr/>
+Paris an<lbr type="BD"/>treffen würde. Wir wollen uns<lbr/>
+be&#255;de befleissen, unserem Hofe Ehre zu<lbr type="BD"/> machen,<lbr/>
+und Gelegenheit zu geben, daß zu zeiten et<pc force="weak">=</pc><lbr/>was in den Zeitungen<lbr type="BD"/> gelesen wird.<lbr type="forced"/>
+<lbr/>
+<tshtm><additum>[... (Beginn der Abschrift des Briefes vom 20. August 1763)]</additum></tshtm>
+</NI>
+</letter>
+</text>
+</MUP>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2014">2014-6</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1743</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Verbleib unbekannt</bibl>
+            <bibl type="source" subtype="RISM">Verbleib unbekannt</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:42:21 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_1172.mup">
+<letter bd="1172"><NI src="Erstdruck"><HEADER id="1743">WOLFGANG AMADÉ MOZART AN CONSTANZE MOZART IN BADEN BEI WIEN<lbr/>
+WIEN, VOR DEM 2. JULI 1791</HEADER>
+<pg n="1"/>
+<ts>__________</ts><tshtm>______</tshtm>Liebstes Weibchen! &#8211; <lbr type="forced"/>
+<ts>___</ts><tshtm>___</tshtm>Den Augenblick komme ich an; ich war schon bey Puchberg und <rend class="latin">Monte<lbr type="BD"/>cuculi</rend>
+&#8211; letzterer war nicht zu Hause, &#8211; gehe heute noch um <formula type="mfrac"><mn>1</mn><mi>2</mi></formula> 10 Uhr zu<lbr type="BD"/>
+ihm &#8211; nun suche <rend class="latin">N. N.</rend><tspdf>\newline</tspdf> auf &#8211; Du wirst ietzt einen Brief an mich von<lbr type="BD"/>
+<rend class="latin">Montecuculi</rend> in Händen haben. &#8211; Da ich vermuthe daß ich bei Dir über<lbr type="BD"/>
+Sonntag in Wien werde bleiben müssen, so bitte Dich mir die 2 Sommerkleider<lbr type="BD"/>
+das weiße und braune mit den Hosen zu schicken &#8211; ich bitte Dich bade nur alle<lbr type="BD"/>
+andere Tage und nur <u>eine Stunde</u> &#8211; wenn Du aber willst daß ich ganz ruhig<lbr type="BD"/>
+seyn soll, so bade <u>gar nicht</u>, bis ich nicht <u>wieder bey Dir</u> bin &#8211; <rend class="latin">adjeu</rend> &#8211; ich<lbr type="BD"/>
+küsse Dich 1000mal und bin ewig<ts>______</ts><tshtm>________________________________________</tshtm><tspdf>\hfill </tspdf>Dein<lbr type="BD"/><lbr type="forced"/>
+<ts>______________</ts><tshtm>_____________________________________________________________________________________________________________________</tshtm><tspdf>\hfill </tspdf>Mozart.<lbr type="forced"/>
+<ts>___</ts><tshtm>___</tshtm><rend class="latin">NB.</rend> Grüße mir den <rend class="latin">Snai</rend> &#8211; ich laß ihn fragen wie's ihm geht? &#8211; wie einem<lbr type="BD"/>
+Ochsen halt, er soll fleißig schreiben daß ich meine Sachen bekomme &#8211; <rend class="latin">adjeu</rend>.<lbr type="forced"/>
+<ts>_________</ts><tshtm>_______</tshtm>Beym Primus bey dem braven Mann petschiere ich diesen Brief.
+</NI></letter>
+</text>
+</MUP>

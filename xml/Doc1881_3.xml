@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2014">2014-11</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=326</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:33:49 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/Doc1881_3.mup">
+<HEADER id="326">FRANZ KEIM AN CARL VON STERNECK IN SALZBURG<lbr/>
+GMUNDEN, 3. AUGUST 1881</HEADER>
+
+<pg n="1"/>
+<rend class="latin">S<h>r</h>. Hochwohlgeboren, Freiherr von Sterneck, Salzburg.</rend><lbr type="forced"/>
+<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____</ts><rend class="latin">Euer Hochwohlgeboren!<lbr type="forced"/>
+<ts>_____</ts>Hochgeehrtester Freiherr!</rend><lbr type="forced"/>
+<lbr type="forced"/>
+Es ist dringende Pflicht, daß ich mich von dem peinlichen<lbr/>
+Anschein absichtlicher Säumigkeit reinige, als hätte<lbr/>
+ich nicht längst schon ernstlich daran gedacht, sowohl für<lbr/>
+die mir gewordene höchst ehrenvolle Zuschrift von<lbr/>
+Seiten <rend class="latin">Euer Hochwohlgeboren</rend> als Ausschuß des <rend class="latin">Inter<pc force="weak">-</pc><lbr/>nationalen Mozartvereines</rend> herzlichst zu danken, als<lbr/>
+auch der schmeichelhaften Aufforderung einer Beschickung<lbr/>
+des Albums bereitwilligst zu folgen. &#8211; Endlich vollziehe ich es. &#8211; <lbr/>
+Brief und Blatt war mir jedoch im <rend class="latin">September</rend> vo<pc force="weak">-</pc><lbr/>rigen Jahres von einem Schüler unsres Gymnasiums<lbr/>
+mit der beigefügten Bemerkung übergeben worden,<lbr/>
+Herr. <rend class="latin">Alb. Weltner</rend>, der Übringer desselben, ließe<lbr/>
+mir in herzlicher u. freundlicher Weise zu wissen<lbr/>
+thun, ich solle Blatt u. Photographie nicht versenden,<lbr/>
+sondern bis zu seiner hieher im Winter erfolgen<pc force="weak">-</pc><lbr/>den Durchreise (von <rend class="latin">Wien</rend> nach <rend class="latin">Salzburg</rend>) bei mir<lbr/>
+erliegen lassen. Darnach benahm ich mich. -<pc force="weak">-</pc><lbr type="forced"/>Dieser Durchreise bis heute vergeblich entgegen<pc force="weak">-</pc><lbr/>sehend, sende ich beides, um es vor Schädigung zu<lbr/>
+<pg n="2"/>
+bewahren und den Schein unfreiwilliger Unart<lbr/>
+von mir zu weisen.<lbr type="forced"/>
+Ich brauche wohl nicht zu versichern, wie sehr<lbr/>
+ich jederzeit bereit bin, die Interessen des Vereines<lbr/>
+meinerseits thätig fördern zu helfen, sobald es gilt. &#8211; <lbr/>
+Insbesondere aber bitte ich <rend class="latin">Euer Hochwohlgeboren</rend>,<lbr/>
+den Ausdruck meiner persönlichen Ergebenheit<lbr/>
+und aufrichtigen Verehrung hiemit ent<pc force="weak">-</pc><lbr/>gegenzunehmen, womit ich mich<lbr/>
+zeichne<lbr type="forced"/>
+<ts>_________________</ts>hochachtungsvollst<lbr type="forced"/>
+Gmund<rend class="latin">en</rend> am Traunsee 3/8 1881.<ts>________________</ts><tspdf>\hfill </tspdf>Professor<lbr type="forced"/>
+<ts>_____________________</ts><tshtm>_______________________________________________</tshtm><tspdf>\hfill </tspdf><rend class="latin">Franz Keim</rend><lbr type="forced"/>
+(bis 13. <rend class="latin">Sept</rend>: Kirchengasse <rend class="latin">N</rend> 34 Gmunden<lbr type="forced"/>
+<ts>________________________</ts>Ob. Östch)
+<pg n="3"/>
+<vacat/>
+<pg n="4"/>
+<vacat/></text>
+</MUP>

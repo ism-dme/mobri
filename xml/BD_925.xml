@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2015">2015-8</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1495</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:41:11 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_925.mup">
+<letter bd="925"><HEADER id="1495">LEOPOLD MOZART AN MARIA ANNA VON BERCHTOLD ZU SONNENBURG IN ST. GILGEN<lbr/>
+SALZBURG, 27. UND 28. JANUAR 1786</HEADER>
+<pg n="1"/>
+<ts>____________</ts><tshtm>_________________________________________________________________</tshtm><tspdf>\hfill </tspdf>Salzb<abbr type="curve">:</abbr> d<abbr v="en"/> 27<h>t<abbr v="en"/></h> Je<abbr type="topline" expand="nn">n</abbr>er 1786.<lbr type="forced"/>
+Nachts um 10 uhr, nach Tische.<lbr type="forced"/>
+<lbr type="forced"/>
+Die <rend class="latin">Co<abbr type="topline" expand="mm">m</abbr>oedie</rend> hat kein<abbr v="en"/> od<abbr v="er"/> wenig Beyfahl gehabt. Ein Liebhaber von<lbr type="BD"/> Mahlere&#255;,<lbr/>
+und <rend class="latin">insecten</rend>, von stein<abbr v="en"/> und naturali<abbr v="en"/>, &#8211; &#8211; ein and<abbr v="er"/>er vom<lbr type="BD"/> Bauwes<abbr v="en"/>,<lbr/>
+und der <rend class="latin">Architectur</rend>, &#8211; wied<abbr v="er"/> ein and<abbr v="er"/>er von d<abbr v="er"/> Physonomie d<abbr v="er"/> Mensch<abbr v="en"/>,<lbr/>
+und der Beurtheilung daraus: &#8211; kö<abbr type="topline" expand="nn">n</abbr><abbr v="en"/> wohl alle diese mit ihrem<lbr type="BD"/> Ge<pc force="weak">=</pc><lbr/>schwätz und langen Erklärung<abbr v="en"/> das Publikum unterhalt<abbr v="en"/>? &#8211; &#8211; <lbr/>
+der meiste<lbr type="BD"/> Theil versteht gar nicht ein Wort davon. &#8211; <lbr type="forced"/>
+<lbr type="BD"/><lbr type="forced"/>
+We<abbr type="topline" expand="nn">n</abbr> ihr mit dem Salzstock auf ein<abbr v="en"/> Schlittweg wartet, so bleibt er i<abbr type="topline" expand="mm">m</abbr>er<lbr type="BD"/><lbr/>
+hier; de<abbr type="topline" expand="nn">n</abbr> heuer ko<abbr type="topline" expand="mm">m</abbr>t kein Schlittweg mehr, das ist gewis! &#8211; <lbr type="forced"/>
+<lbr type="BD"/><lbr type="forced"/>
+Der Magistrat giebt die Baal: <rend class="latin">Md:<h>me</h></rend>&#160;<u>Schlaucher</u>&#160;<abbr expand="und">u</abbr>&#160;<u>Saurwein</u> schaff<abbr v="en"/> die<lbr type="BD"/><lbr/>
+fress <abbr expand="und">u</abbr> Sauf=bedienung. Und den <rend class="latin"><u>Faro</u></rend> giebt &#8211; wer? &#8211; erstaunet!<lbr/>
+und lachet!<lbr type="BD"/> das Chor d<abbr v="er"/> h<abbr type="curve">:</abbr>&#160;<u>h<abbr type="curve">:</abbr>&#160;<rend class="latin">Officier</rend></u>, die 500 f den Kaufleut<abbr v="en"/> schuldig<lbr/>
+sind, mancher<lbr type="BD"/> kein<abbr v="en"/> bissen Brod zu Hauß hat, &#8211; und itzt die, welche gross<lbr/>
+genug thun<lbr type="BD"/> wolt<abbr v="en"/>, und mit thun, <u>ied<abbr v="er"/> 50 f aufgeno<abbr type="topline" expand="mm">m</abbr><abbr v="en"/></u>, um mit<lbr/>
+in die <rend class="latin">Banco Cassa</rend><lbr type="BD"/> zu trett<abbr v="en"/>. Fre&#255;lich legte das meiste d<abbr v="er"/> h<abbr type="curve">:</abbr> Oberst,<lbr/>
+da<abbr type="topline" expand="nn">n</abbr> gr: <rend class="latin">Lizow</rend>, &#8211; <rend class="latin">Wicka</rend>,<lbr type="BD"/> &#8211; <rend class="latin">Major</rend> &#8211; <rend class="latin">Biber</rend> vom Schloss, &#8211; da<abbr type="topline" expand="nn">n</abbr> müss<abbr v="en"/><lbr/>
+auch and<abbr v="er"/>e wie <rend class="latin">Clessin</rend>, &#8211;<lbr type="BD"/>&#160;<rend class="latin">Schenkind</rend>, &#8211; <rend class="latin">Andretter</rend>, &#8211; <rend class="latin">Mölk</rend>, &#8211; und<lbr/>
+Gr: <rend class="latin">Menin</rend> ihre Nase mit 50 f ied<abbr v="er"/><lbr type="BD"/> hineinsteck<abbr v="en"/>, und wer etwa<lbr/>
+noch, das ich nicht weis. d<abbr v="er"/> Erzb<abbr type="curve">:</abbr> gab be&#255;m<lbr type="BD"/> erst<abbr v="en"/>&#160;<rend class="latin">Baal</rend> Gesellschaft,<lbr/>
+und, wie höre, war<abbr v="en"/> etlich <u><abbr expand="und">u</abbr> 70 Person<abbr v="en"/></u> da.<lbr type="BD"/> Alle <u>bälle</u> in den<lbr/>
+Wirtshäusern |: ausser den Fre&#255;dänz<abbr v="en"/> :| sind verboth<abbr v="en"/>.<lbr type="BD"/> Geschlossne <rend class="latin">Compag</rend>ni<abbr v="en"/><lbr/>
+müssen vom Würth <u>mit dem ganz<abbr v="en"/>&#160;<rend class="latin">personale</rend></u><lbr type="BD"/> angezeigt, für die <u>Erlaubniß</u>,<lbr/>
+und auch zur <u>Armen<rend class="latin">Cassa</rend></u> bezahlt werd<abbr v="en"/>. also<lbr type="BD"/> müss<abbr v="en"/> doch Leute aufs Rathhaus<lbr/>
+geh<abbr v="en"/>, od<abbr v="er"/> zu Hauß, od<abbr v="er"/> be&#255;m Fre&#255;danz<lbr type="BD"/> unter all<abbr v="en"/> Leut<abbr v="en"/> danz<abbr v="en"/>.<lbr type="forced"/>
+<lbr type="BD"/><lbr type="forced"/>
+Den Process d<abbr v="er"/> 3 Könige habe schon vor 3 Jahr<abbr v="en"/>, Französisch im<lbr/>
+<rend class="latin">original</rend>, &#8211;<lbr type="BD"/>&#160;<abbr expand="und">u</abbr> hi<abbr type="topline" expand="nn">n</abbr>ach deutsch gelesen. Es war damals mein<lbr/>
+<rend class="latin">Favorit</rend>buch, weils den<lbr type="BD"/> gross<abbr v="en"/> Herr<abbr v="en"/> die warheit sagt.<lbr type="forced"/>
+<lbr type="BD"/><lbr type="forced"/>
+Für das Kraut habe 16 <rend class="latin">X</rend>, fürs häfen 8 <rend class="latin">X</rend> bezahlt, das sind also <u>24 x</u><lbr type="forced"/>
+<lbr type="forced"/>
+<u>Heut frühe den</u> 28<h>t<abbr v="en"/></h>. der Leopoldl ist wohl auf <abbr expand="und">u</abbr> lustig. Noch habe ihm<lbr type="BD"/> keine<lbr/>
+<u>Geige</u> hör<abbr v="en"/> lass<abbr v="en"/>. ich machte eine Probe ohngefähr mit dem <u>messin<lbr type="BD"/>gen<abbr v="en"/><lbr/>
+Leichter</u>, wo ich mit einem klein<abbr v="en"/> Schlüssl unt<abbr v="en"/> an die <u>Schale</u>&#160;<rend class="latin">Pia<lbr type="BD"/>nissimo</rend><lbr/>
+und dan <rend class="latin">Forte</rend> abwechselnd spielte, und dazu sang. In dem Augen<pc force="weak">=</pc><lbr/>blick<lbr type="BD"/> wurde er so ohnbeweglich aufmerksam, daß er nicht nur kein<lbr/>
+Aug mehr von<lbr type="BD"/> mir abwand, sond<abbr v="ern"/> kein<abbr v="en"/> Fuß und kein<abbr v="en"/> Hand nicht<lbr/>
+mehr bewegte, so<lbr type="BD"/> gar nicht ein<abbr v="en"/> finger, da er sonst ohne Aufhör<abbr v="en"/><lbr/>
+alles bewegt, daß er so gar<lbr type="BD"/> die Strimpf, da man ihms kaum<lbr/>
+angelegt, in einer Minute wied<abbr v="er"/> herunter<lbr type="BD"/> wetzt. die Menscher<lbr/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="2"/>
+konnt<abbr v="en"/> ihn anred<abbr v="en"/>, wie sie wollt<abbr v="en"/>, es half alles nichts,<lbr type="BD"/><lbr/>
+er hatte nicht die mündest<abbr v="en"/> Achtung darauf, kurz!<lbr/>
+ohnbeweglich sahe er auf<lbr type="BD"/> mich <abbr expand="und">u</abbr> den Leichter. &#8211; <lbr type="forced"/>
+Nun muß den Brief zum both<abbr v="en"/> schick<abbr v="en"/>, er möchte nicht<lbr/>
+ko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>, da er mir<lbr type="BD"/> nichts zu bring<abbr v="en"/> hatt. Ich küsse euch<lbr/>
+be&#255;de von Herz<abbr v="en"/>, grüsse die Kind<abbr v="er"/><lbr type="BD"/>&#160;<abbr expand="und">u</abbr> bin<lbr/>
+<ts>__________</ts><tshtm>________________________________</tshtm><tspdf>\hfill </tspdf>euer alter Vatter<lbr type="forced"/>
+<ts>__________</ts><tshtm>___________________________________________</tshtm><tspdf>\hfill </tspdf>Mozart <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<lbr type="forced"/>
+<tshtm>____________</tshtm>Den augenblick beko<abbr type="topline" expand="mm">m</abbr>e<lbr/>
+<tshtm>____________</tshtm>die Schue.<ts>__</ts><tshtm>_________</tshtm>à 34 <rend class="latin">X<h>r</h></rend><lbr type="forced"/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+</letter>
+</text>
+</MUP>

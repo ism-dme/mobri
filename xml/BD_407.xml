@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2012">2012-10</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=971</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:38:36 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_407.mup">
+<letter bd="407"><HEADER id="971">FRANZ EDLER VON HEUFELD AN LEOPOLD MOZART IN SALZBURG<lbr type="forced"/>
+WIEN, 23. JANUAR 1778</HEADER>
+<pg n="1"/>
+<add_note schr_id="57010">An</add_note>
+<add_note type="inline" schr_id="57010">Leopold</add_note><ts>_________________________________________</ts><add_num type="inline" impl="pencil">36</add_num><ts>____</ts><add_note type="inline" schr_id="57010">Dieser Heufeld hatte die Auf-</add_note><lbr type="forced"/>
+<add_note type="inline" schr_id="57010">Mozart.</add_note> Schätzbarester Freund!<add_note type="inline" schr_id="57010"><ts>___________</ts>sicht des Wiener Theaters unter</add_note>
+<add_note schr_id="57010"><ts>____________________________________________________________</ts>dem baron Bender, in<lbr/>
+<ts>________________________________________________________________</ts>den 1770<h><u>er</u></h> Jahren.</add_note>
+<lbr type="forced"/>
+Dero wertheste Zuschrift vom 16<h><uu>t</uu></h> dieses ist mir richtig zuge<pc force="weak">=</pc><lbr/>ko<abbr type="topline" expand="mm">m</abbr>en. Ich<lbr type="BD"/> erstatte Ihnen für dero werthestes Andenken<lbr/>
+den verbindlichsten Dank, und<lbr type="BD"/> freue mich über Ihr allerseitiges<lbr/>
+Wohlseyn. Daß Ihr Sohn sich von einem Orte<lbr type="BD"/> entfernet,<lbr/>
+welches für sein <rend class="latin">Genie</rend> zu enge war, ist wohl sehr gut geschehen.<lbr/>
+Ich<lbr type="BD"/> bin versichert, er werde überall anständiger aufge<pc force="weak">=</pc><lbr/>no<abbr type="topline" expand="mm">m</abbr>en werden, auch wird<lbr type="BD"/> es ihm zur vollendlichen bildung<lbr/>
+und Erlangung der nöthigen Weltkenntniß<lbr type="BD"/> dienen, wenn<lbr/>
+er sich ein wenig in der Welt umsieht. Ich traue den ihm<lbr/>
+von<lbr type="BD"/> seinen rechtschaffenen Eltern von Jugend an eingepflanz<pc force="weak">=</pc><lbr/>ten guten Grundsätzen<lbr type="BD"/> zu, daß er sich nicht leicht in üble<lbr/>
+Gesellschaften verfangen wird.<lbr type="forced"/>
+Itzt bester Freund! muß ich Ihnen über den Antrag Ihren<lbr/>
+Sohn hier auf die<lbr type="BD"/> mir bekannt gemachte Art anzubringen,<lbr/>
+meine Gedanken mit der Aufrichtigkeit entdecken, mit<lbr/>
+welcher ich gegen meine Freunde zu handeln gewohnt<lbr type="BD"/> bin.<lbr type="forced"/>
+<ts>_____</ts>Es ist an dem, daß S:<h>e</h> M: der Kaiser, welchem seine Mutter<lbr/>
+das Theater gänzlich überlaßen hat, eine deutsche komische<lbr/>
+Opera zu errichten willens sind.<lbr type="BD"/> Alle befehle ko<abbr type="topline" expand="mm">m</abbr>en vom<lbr/>
+allerhöchsten durch den Oberstkä<abbr type="topline" expand="mm">m</abbr>erer Grafen<lbr type="BD"/> v Rosenberg<lbr/>
+an die Truppe, bey welcher eine Art von Rath aus den<lbr/>
+ersten<lbr type="BD"/>&#160;<rend class="latin">Acteurs</rend> und <rend class="latin">Actricen</rend> wegen Ein= und Austheilung<lbr/>
+der Stücke und Rollen<lbr type="BD"/>&#160;<rend class="latin">établirt</rend> ist. zur Oper, welche mit<lbr/>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+
+
+<pg n="2"/>
+der national Truppe vereiniget wird, sind<lbr type="BD"/> außer dem<lbr/>
+als Sängerinnen dermalen <rend class="latin">engagi</rend>rt die <rend class="latin">D<h>lle</h> Cavalir</rend><lbr/>
+und die Schindlerische Tochter verehligte Langin, und<lbr/>
+ein bassist, dessen Namen mir nicht einfällt. Es war diser<lbr/>
+Tagen die erste Probe der ersten Oper, wozu Hr Weidmann<lbr type="BD"/><lbr/>
+den Text geliefert und der bratschist vom theater Orchester<lbr/>
+Hr Umlauf die<lbr type="BD"/> Musick <rend class="latin">compon</rend>irt hat; die Vorstellung<lbr/>
+soll ehestens geschehen. Alles dises<lbr type="BD"/> ist dermalen nur ein<lbr/>
+Versuch, ob mit den deutschen in diesem Fache etwas<lbr type="BD"/> anzu<pc force="weak">=</pc><lbr/>fangen? Gewiß ist indessen, daß dermale<abbr type="topline" expand="nn">n</abbr> kein<lbr/>
+eigener Musick<rend class="latin">compositor</rend><lbr type="BD"/> aufgeno<abbr type="topline" expand="mm">m</abbr>en wird, zumalen<lbr/>
+da <rend class="latin">Gluck</rend> und <rend class="latin">Salieri</rend> in des Kaisers Diensten<lbr type="BD"/> sind. dem<lbr/>
+Herrn jemanden <rend class="latin">recomendi</rend>ren, wäre gerade das Mittel den<lbr type="BD"/><lbr/>
+<rend class="latin">Recomendi</rend>rten gewiß nicht anzubringen. Auch ist kein<lbr/>
+Mittelmann vorhanden, durch welchen man an den<pc force="weak">=</pc><lbr/>selben ko<abbr type="topline" expand="mm">m</abbr>en könnte, weil derselbe als selbst Kenner<lbr/>
+alles nach seiner <rend class="latin">Idée</rend>, nach seinem Gefallen anordnet und<lbr type="BD"/><lbr/>
+wählet. Jedermann weis dises, und Niemand waget es<lbr/>
+mit Vorschlägen und<lbr type="BD"/>&#160;<rend class="latin">recomendationen</rend> aufzutretten.<lbr/>
+auf dise Art haben S:<h>e</h> M: den <rend class="latin">Gluck</rend>, <rend class="latin">Salieri</rend><lbr type="BD"/> und schon<lbr/>
+eine geraume zeit her die meiste in dero diensten<lbr/>
+stehende leute<lbr type="BD"/> selbst ausgesucht. Ich könnte Ihnen auch<lbr/>
+einige beyspiele anführen, wo Leute,<lbr type="BD"/> welche sich unmittel<pc force="weak">=</pc><lbr/>bar an den Herrn gewendet haben, nicht <rend class="latin">reuiss</rend>irten.<lbr/>
+Den<lbr type="BD"/> Weeg, welchen Sie vermeinen, an denselben zu gehen,<lbr/>
+kann ich nicht gut<lbr type="BD"/> heißen, und das ist die Ursache, warum<lbr/>
+<pg n="3"/>
+ich durch eine bittschrift keinen<lbr type="BD"/> Schritt gemacht, weil ich<lbr/>
+zum voraus <rend class="latin">evidenter</rend> versichert bin, daß es unnütz<lbr type="BD"/><lbr/>
+und vielmehr nachtheilig wäre. Hingegen bleibet guten<lbr/>
+Talenten ein anderer<lbr type="BD"/> rühmlicherer und sicherer Weeg<lbr/>
+offen, wodurch sie ihr Glück bey dem Herrn<lbr type="BD"/> machen<lbr/>
+können, nämlich ihre <rend class="latin">produci</rend>rung, wozu jeder gerne<lbr/>
+gelassen wird.<lbr type="BD"/> Will dero Sohn sich die Mühe nehmen<lbr/>
+zu irgend einer guten deutschen komischen Oper die<lbr/>
+Musick zu setzen, solche einschicken, sein Werk dem<lbr/>
+allerhöchsten Wohlgefallen anheimstellen und dann<lbr/>
+die Entschließung abwarten,<lbr type="BD"/> so kann es ihm gerathen,<lbr/>
+wenn das Werk beyfall findet, anzuko<abbr type="topline" expand="mm">m</abbr>en. In<lbr type="BD"/><lbr/>
+disem Falle aber wäre es wohl nöthig selbst gegenwärtig<lbr/>
+zu seyn. Wegen<lbr type="BD"/> des <rend class="latin">Benda</rend> und Schweizers darf<lbr/>
+dero Sohn ganz außer allen Sorgen seyn. Ich<lbr type="BD"/> wollte<lbr/>
+dafür stehen, daß keiner anko<abbr type="topline" expand="mm">m</abbr>en wird. Sie haben<lbr/>
+hier den Ruhm<lbr type="BD"/> nicht, wie draußen. Vielleicht hat selbst<lbr/>
+Wieland etwas von der großen Meinung, welche er<lbr/>
+von disen leuten hatte, mit seinem Aufenthalt in<lbr/>
+Manheim<lbr type="BD"/> fahren lassen. Ich habe ein Schreiben vom<lbr/>
+5<h><u>ten</u></h> dises von ihm gelesen, worinn<lbr type="BD"/> er bekennet in<lbr/>
+Manheim ein ganz anderes Licht, als er jemals gehabt,<lbr/>
+in der<lbr type="BD"/> Musick erlanget zu haben. Er meldet daß<lbr/>
+die Oper dort eingestellt sey, und<lbr type="BD"/> daß er im begriffe<lbr/>
+stehe nach Weimar zurück zu kehren.<lbr type="forced"/>
+<pg n="4"/>
+Meinem lieben Wolfgang ein Empfehlungsschreiben an die Kö<pc force="weak">=</pc><lbr/>niginn von<lbr type="BD"/> Frankreich zuwegen zu bringen, Freund! finde<lbr/>
+ich keine Möglichkeit. die<lbr type="BD"/> Freunde, welche es hätten thun<lbr/>
+können, sind nicht mehr. Ich will es Ihnen<lbr type="BD"/> lieber gerade<lbr/>
+heraus sagen! als Ihnen eine leere Hofnung machen.<lbr/>
+Wäre er<lbr type="BD"/> gegenwärtig, so ließ sich in ein und anderm<lbr/>
+Falle eher was thun, aber so<lbr type="BD"/> bin ich nichts im Stande.<lbr/>
+Vom Theater habe ich mich völlig entfernet, zu den<lbr type="BD"/> Großen<lbr/>
+ko<abbr type="topline" expand="mm">m</abbr>e ich gar nicht mehr, indem ich es satt bin mich zu<lbr/>
+bücken.<lbr type="BD"/> Jedoch stehe ich mit einem Manne gut, welcher<lbr/>
+bey der Kaiserinn Majestät<lbr type="BD"/> dermalen viel vermag, und<lbr/>
+welcher |: zum Glücke in diesem Falle :| ein <rend class="latin">passioni</rend>rter<lbr/>
+Liebhaber der Musick ist, selbst schlägt und singt, welcher<lbr/>
+durch<lbr type="BD"/> nichts mehr <rend class="latin">oblig</rend>irt werden kann, als durch<lbr/>
+eine kleine gute <rend class="latin">Composition</rend> der Musick; allein ich kann<lbr/>
+ihm nicht zumuthen, für ihren Sohn, den er<lbr type="BD"/>&#160;<suppl hand="self" pos="supra">nicht</suppl> kennet,<lbr/>
+etwas zu thun, und für den er, wenn er ihn kennte,<lbr/>
+gewiß sich<lbr type="BD"/> anspannen würde.<lbr type="forced"/>
+Nun ein Wort von mir. Ich bin seit anderthalb Jahren<lbr/>
+verheiratet, habe schon<lbr type="BD"/> einen Jungen, und etwas frisches<lbr/>
+auf dem Weege. Meine Frau ist eine Zach<lbr type="BD"/> von Hartenstein<lbr/>
+mit der ich recht vergnügt lebe. Ich genieße die zufrie<pc force="weak">=</pc><lbr/>denheit<lbr type="BD"/> meiner Oberen und die Gnade meiner <rend class="latin">Souverainin</rend><lbr/>
+von welcher Gnade Sie<lbr type="BD"/> einen beweis in meiner Unter<pc force="weak">=</pc><lbr/>schrift finden werden. Empfehlen Sie mich Ihrer<lbr type="BD"/> lieben<lbr/>
+Familie, und erhalten Sie mir dero Freundschaft, so<lbr/>
+wie ich Ihnen die<lbr type="BD"/> meinige aufs bündigste bestättige.<lbr type="forced"/>
+Ich bin mit unveränderter Hochschätzung<lbr type="forced"/>
+<ts>_________________________</ts><tshtm>__________________________</tshtm><ts>____________________</ts>dero ergebenster<lbr type="forced"/>
+Wien den 23:<h>ten</h> Jäner <abbr type="topline" expand="1778">77<corr type="overwr" value="8" schr_id="57010" pos="inline">7</corr></abbr>.<ts>_____________</ts><tspdf>\hfill </tspdf>Franz Edler von Heufeld <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+Mit dem <rend class="latin">Director</rend> Mesmer werde ich abkampeln<lbr type="forced"/>
+so bald ich ihn antreffen werde.<lbr type="forced"/>
+<lbr type="forced"/>
+<postxt loc="lm" rot="270">Ich wohne itzt N<h>o</h>: 416 in der<lbr/>
+Wildwerkerstraße.</postxt>
+<add_note schr_id="57010"><ts>_______________________________________________</ts><stroke>1778? Ja</stroke></add_note><lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal></letter>
+</text>
+</MUP>

@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2012">2012-09</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=896</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:38:06 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_333.mup">
+<letter bd="333"><HEADER id="896">WOLFGANG AMADÉ MOZART AN LEOPOLD MOZART IN SALZBURG<lbr/>
+MÜNCHEN, 26. SEPTEMBER 1777<lbr/>
+mit Nachschrift von Maria Anna Mozart</HEADER>
+<pg n="1"/>
+<add_num type="inline" schr_id="57010">2</add_num><ts>_____________</ts><tshtm>_____________________________________________________</tshtm><tspdf>\hfill </tspdf>München den 26:<h>ten</h>&#160;<rend class="latin">Septembre</rend><lbr type="forced"/>
+<ts>_____________</ts><tshtm>_____________________________________________________________________</tshtm><tspdf>\hfill </tspdf>1777<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>________________________</ts><rend class="latin">Mon trés cher Pére</rend>.<lbr type="forced"/>
+<lbr type="forced"/>
+wir sind den 24:<h>ten</h> abends um halbe 5. uhr glücklich in München angelanget;<lbr type="BD"/> was<lbr/>
+mir gleich das neüeste war, daß wir zur Mauth fahren musten, begleitet<lbr type="BD"/> mit einen<lbr/>
+<rend class="latin">grenadier</rend> mit aufgepflanzten <rend class="latin">bajonette</rend>. die erste bekante Person die<lbr type="BD"/> uns im fahren<lbr/>
+begegnete, war <rend class="latin">sig:<h>re</h> Consoli</rend>, welcher mich gleich ka<abbr type="topline" expand="nn">n</abbr>te, und<lbr type="BD"/> eine unbeschreibliche freüde<lbr/>
+hatte, mich zu sehen. er war den andern tag<lbr type="BD"/> gleich be&#255; mir. die freüde von h<abbr type="curve">:</abbr><lbr/>
+<rend class="latin">Albert</rend> kan ich nicht genug ausdrücken. er<lbr type="BD"/> ist in der that ein grund Ehrlicher Ma<abbr type="topline" expand="nn">n</abbr>,<lbr/>
+und unser sehr guter freünd. nach<lbr type="BD"/> meiner ankunft war ich bis zum essen=Zeit<lbr/>
+i<abbr type="topline" expand="mm">m</abbr>er be&#255;m <rend class="latin">Clavier</rend>. h<abbr type="curve">:</abbr> Albert<lbr type="BD"/> war noch nicht zu hause. hernach aber ka<abbr type="topline" expand="mm">m</abbr> er, und<lbr/>
+wir giengen mitsa<abbr type="topline" expand="mm">m</abbr>en<lbr type="BD"/> herab zum tisch. da traf ich den <rend class="latin">M:<h>r</h> sfeer</rend>, und einen gewissen<lbr/>
+<rend class="latin">Secretaire</rend><lbr type="BD"/> seinen recht guten freünd, an. be&#255;de lassen sich empfehlen. wir ka<abbr type="topline" expand="mm">m</abbr>en<lbr/>
+späth ins beth, und waren müd von der Reiß. wir stunden doch schon um 7 uhr auf;<lbr type="BD"/><lbr/>
+<suppl hand="self" pos="infra">den 25<h>ten</h>;</suppl><lbr/>
+meine haar waren aber in einer solchen unordnung, daß ich<lbr type="BD"/> vor <formula type="mfrac"><mn>1</mn><mi>2</mi></formula> 11 uhr nicht<lbr/>
+zum graf <rend class="latin">Seeau</rend> ka<abbr type="topline" expand="mm">m</abbr>. als ich hinka<abbr type="topline" expand="mm">m</abbr>, hiesse es, er se&#255;e<lbr type="BD"/> schon auf die Jagd ge<pc force="weak">=</pc><lbr/>fahren: Gedult! ich wollte unterdessen zum Chorherrn<lbr type="BD"/>&#160;<rend class="latin">Bernad</rend> gehen, er ist aber<lbr/>
+mit dem <rend class="latin">B:<h>ron</h> Schmid</rend> auf güter gereiset. h<abbr type="curve">:</abbr>&#160;<rend class="latin">Bellval</rend><lbr type="BD"/> traf ich voll in geschäften<lbr/>
+an. er gab mir 1000 <rend class="latin">Complimenten</rend> auf. unter dem<lbr type="BD"/> mittag=essen ka<abbr type="topline" expand="mm">m</abbr> <rend class="latin">Rossi</rend>.<lbr/>
+um 2 uhr ka<abbr type="topline" expand="mm">m</abbr> <rend class="latin">Consoli</rend>, und um 3 uhr <rend class="latin">Beeché</rend> und<lbr type="BD"/> h<abbr type="curve">:</abbr> von Bellval. ich machte meine<lbr/>
+<rend class="latin">visite</rend> be&#255; der f<abbr type="curve">:</abbr> von Durst; welche sich be&#255;<lbr type="BD"/> den franziska<abbr type="topline" expand="nn">n</abbr>ern logirt. um 6 uhr<lbr/>
+machte ich mit h<abbr type="curve">:</abbr>&#160;<rend class="latin">Beché</rend> einen kleinen<lbr type="BD"/> spazier gang. Es giebt hier einen gewissen<lbr/>
+<rend class="latin">Professor Huber</rend>, vielleicht eri<abbr type="topline" expand="nn">n</abbr>ern<lbr type="BD"/> sie sich besser als ich, er sagt er hat mich das<lbr/>
+lezte mahl zu wienn be&#255;m<lbr type="BD"/> jungen h<abbr type="curve">:</abbr> von Mesmer gesehen und gehört. er<lbr/>
+ist nicht zu gross, nicht zu<lbr type="BD"/> klein, bleich, weisse graue harr, und sieht in<lbr/>
+der <rend class="latin">Phisonomie</rend> den h<abbr type="curve">:</abbr> Unterbereiter nicht ungleich. Dieser ist auch eine<lbr/>
+<rend class="latin">vice intendant du theatre</rend>:<lbr type="BD"/> seine arbeit ist, die komödien die man auf<pc force="weak">=</pc><lbr/><lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="2"/>
+führen will, durch zu lesen, zu verbessern, zu verderben, hinzuzuthun,<lbr/>
+hinweck=zu sezen. er kö<abbr type="topline" expand="mm">m</abbr>t alle abend<lbr type="BD"/> zum <rend class="latin">Albert</rend>. er spricht sehr oft<lbr/>
+mit mir. heut als den 26:<h>ten</h> freÿtag, war ich um <formula type="mfrac"><mn>1</mn><mi>2</mi></formula> 9 uhr beÿm graf<lbr/>
+<rend class="latin">Seeau</rend>. es war so, ich gieng ins haus hinein, und <rend class="latin">Mad<abbr type="curve">:</abbr></rend><lbr type="BD"/>&#160;<rend class="latin">Niesser</rend> die <rend class="latin">Comœ<pc force="weak">=</pc><lbr/>diantin</rend> gieng just heraus, und fragte mich, sie wollen gewis<lbr type="BD"/> zum grafen?<lbr/>
+ja. er ist noch in seinen garten gott weis wen er kö<abbr type="topline" expand="mm">m</abbr>t. ich<lbr type="BD"/> fragte sie<lbr/>
+wo sein garten se&#255;, ja, sagte sie, ich habe auch mit ihm zu sprechen,<lbr type="BD"/> wir<lbr/>
+wollen mitsa<abbr type="topline" expand="mm">m</abbr>en gehen. kaum ka<abbr type="topline" expand="mm">m</abbr>en wir vors thor hinaus, so ka<abbr type="topline" expand="mm">m</abbr><lbr type="BD"/> uns der<lbr/>
+graf entgegen, und war etwa 12 schritt von mir, so erka<abbr type="topline" expand="nn">n</abbr>te er mich,<lbr type="BD"/> und<lbr/>
+na<abbr type="topline" expand="nn">n</abbr>te mich be&#255;m namen. er war sehr höflich. er wuste schon was mit<lbr type="BD"/> mir<lbr/>
+forgegangen ist. wir giengen ganz allein und langsam die treppe hinauf;<lbr type="BD"/><lbr/>
+ich entdeckte mich ihm ganz kurz. er sagte ich sollte nur schnurgerade<lbr/> 
+be&#255;<lbr type="BD"/> S: Churf: Durchl: <rend class="latin">audienz</rend> begehren. sollte ich aber, im fall nicht zu<pc force="weak">=</pc><lbr/>ko<abbr type="topline" expand="mm">m</abbr>en<lbr type="BD"/> können, so sollte ich meine sache nur schriftlich vorbringen. ich bat<lbr/>
+ihn sehr,<lbr type="BD"/> dieses alles still zu halten, er versprache es mir. als ich<lbr/>
+ihn sagte, es gieng<lbr type="BD"/> hier wircklich ein rechter <rend class="latin">Compositeur</rend> ab, so sagte er:<lbr/>
+das weis ich wohl! nach<lbr type="BD"/> diesen gieng ich zum bischof in Chiemsee, und war<lbr/>
+eine halbe stund be&#255; ihm.<lbr type="BD"/> ich erzählte ihm alles. er versprach mich sein<lbr/>
+möglichstes in dieser sache zu<lbr type="BD"/> thun. er fuhr um 1 uhr nach Nümphenburg,<lbr/>
+und versprach mir mit S: Chr: Durchlaücht der Churfürstin gewis zu sprechen.<lbr/>
+sontag abends ko<abbr type="topline" expand="mm">m</abbr>t der hof<lbr type="BD"/> herein. heüt Mittag waren wir gast be&#255;<lbr/>
+h<abbr type="curve">:</abbr> von <rend class="latin">Belval</rend>, be&#255;m <rend class="latin">Rasco</rend>; Er und<lbr type="BD"/> sie, h<abbr type="curve">:</abbr> von <rend class="latin">lori</rend>, <rend class="latin">Belval</rend>, <rend class="latin">Passauer</rend><lbr/>
+alles läst sich empfehlen. alsdan giengen<lbr type="BD"/> wir zur frau <rend class="latin">v:</rend>. Durst. sie<lbr/>
+<rend class="latin">logirt</rend> im burgermeister schmadl haus über 3 stiegen.<lbr type="BD"/> in 2ten stock <rend class="latin">logirt</rend><lbr/>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="3"/>
+der h<abbr type="curve">:</abbr> von <rend class="latin">lori</rend>. von da aus hollte uns h<abbr type="curve">:</abbr> Sigl, |: welcher<lbr type="BD"/> nun 2 Monath verhe&#255;rathet<lbr/>
+ist :| ab, und wir giengen alle mitsa<abbr type="topline" expand="mm">m</abbr>en zur<lbr type="BD"/> f<abbr type="curve">:</abbr> von hofstetten; ihr herr ist nicht<lbr/>
+hier, wird aber bald ko<abbr type="topline" expand="mm">m</abbr>en. Franz<lbr type="BD"/>&#160;<rend class="latin">Dufresne</rend> ist hoffrath, aber <rend class="latin">sine auro</rend> bis dato:<lbr/>
+nachdem führte Siegl meine<lbr type="BD"/> Mama nachhaus, die dem <rend class="latin">Beeche</rend> daß wort gegeben<lbr/>
+hat mit ihm in die<lbr type="BD"/>&#160;<rend class="latin">Comoedie</rend> zu gehen, und ich begleitete fr: <rend class="latin">v:</rend> durst nach haus,<lbr/>
+und alsda<abbr type="topline" expand="nn">n</abbr><lbr type="BD"/> in die <rend class="latin">Comœdie</rend>, allwo wir uns antrafen. man spiellte: <rend class="latin">Henriette</rend>,<lbr/>
+oder sie<lbr type="BD"/> ist schon gehe&#255;rathet. heüt vormittag um <formula type="mfrac"><mn>1</mn><mi>2</mi></formula> 12 uhr war ich mit <rend class="latin">Becche</rend><lbr/>
+be&#255;<lbr type="BD"/> der bildschönen frl: von Seau. die frl: von <rend class="latin">tosson</rend> hat eine sehr gute<lbr/>
+<rend class="latin">Partie</rend><lbr type="BD"/> getroffen. er heist Hepp. man sagt er se&#255;e sehr reich. h<abbr type="curve">:</abbr>&#160;<rend class="latin">Joa<abbr type="topline" expand="nn">n</abbr>es</rend><lbr/>
+krönner ist<lbr type="BD"/>&#160;<rend class="latin">vice=Concert</rend>=meister deklarirt worden. und das durch eine<lbr/>
+grobe red. er hat<lbr type="BD"/> zwe&#255; <rend class="latin">Sinfonien</rend>, |: <rend class="latin">Dio mene liberi</rend> :| von seiner <rend class="latin">Com<pc force="weak">=</pc><lbr/>position producirt</rend>: der<lbr type="BD"/> Churfürst fragt ihn: hast du das wircklich <rend class="latin">Com<pc force="weak">=</pc><lbr/>ponirt</rend>? &#8211; &#8211; ja, Euer Churf:<lbr type="BD"/> Durchl: von wem hasts dus gelernt? &#8211; von<lbr/>
+einen schulmeister in der<lbr type="BD"/> schweitz &#8211; &#8211; man macht so viell aus der <rend class="latin">Com<pc force="weak">=</pc><lbr/>position</rend> &#8211; &#8211; dieser schullmeister<lbr type="BD"/> hat mir doch mehr gesagt, als alle unsre<lbr/>
+<rend class="latin">Compositeur</rend> hier mir sagen könten.<lbr type="BD"/> heüt ist der Graf Schönborn und<lbr/>
+seine gemahlin die schwester des Erzb: angelanget. ich war just in der <rend class="latin">Comoedie</rend>:<lbr/>
+h<abbr type="curve">:</abbr><rend class="latin"> Albert</rend> sagte in discurs daß ich<lbr type="BD"/> hier seye. und erzehlte ihm, daß ich aus den<lbr/>
+diensten bin. Er und sie haben<lbr type="BD"/> sich verwundert. sie haben ihm <rend class="latin">absolument</rend><lbr/>
+nicht glauben wollen, daß ich<lbr type="BD"/> 12 fl: 30 kr: seeligen angedenckens, gehabt<lbr/>
+habe! sie wechselten nur Post. sie<lbr type="BD"/> hätten mich gern gesprochen. ich traf sie<lbr/>
+aber nicht mehr an. iezt aber bitt ich,<lbr type="BD"/> daß ich nach ihren umständen und<lbr/>
+ihrer gesundheit mich erkundigen darf. ich<lbr type="BD"/> hoffe wie auch meine mama daß<lbr/>
+sich be&#255;de recht wohl befinden.<lbr type="forced"/>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="4"/>
+Ich bin i<abbr type="topline" expand="mm">m</abbr>er in meinen schönsten <rend class="latin">Humor</rend>. mir ist so feder leicht ums herz<lbr type="BD"/> seit<lbr/>
+dem ich von dieser <rend class="latin">chicane</rend> weg bin! &#8211; &#8211; ich bin auch schon fetter. h<abbr type="curve">:</abbr> von<lbr type="BD"/><lbr/>
+Wallau hat mich heüt in theater gesprochen. und der gräfin <rend class="latin">Larose</rend> habe<lbr type="BD"/><lbr/>
+ich meine <rend class="latin">visite</rend> in der <rend class="latin">loge</rend> gemacht. Nun muß ich doch meiner Mama<lbr/>
+auch<lbr type="BD"/> ein bischen plaz machen. ich bitte an die ganze Hochansehnliche<lbr/>
+schützen=<rend class="latin">Compagnie</rend>, von 3 gliedern <rend class="latin">Complimenten</rend> zu entrichten. nemlich<lbr/>
+von meiner Mama, mir, und <rend class="latin">M:<h>r</h>&#160;<u>Novac</u></rend> welcher täglich zum <rend class="latin">Albert</rend> kö<abbr type="topline" expand="mm">m</abbr>t.<lbr/>
+leben sie<lbr type="BD"/> unterdessen recht wohl, Mein Allerliebster Papa; ich küsse ihnen<lbr/>
+unzählige<lbr type="BD"/> Mahl die hände, und Meine schwester die <rend class="latin">Canaglie</rend>, umarme<lbr/>
+ich.<lbr type="forced"/>
+<ts>____</ts><tshtm>____________________________________________</tshtm><tspdf>\hfill </tspdf>wolfg: Amadé Mozart<abbr expand="manu propria"> mp</abbr><lbr type="forced"/>
+<lbr/>
+<NS type="NS" schr_id="48815">Von Neuigkeiten hat mir der wolfgang nichts übrig<pc force="weak">=</pc><lbr/>gelassen, ich hoffe von dir<lbr type="BD"/> bald ein<abbr v="en"/> brief zu bekom<abbr v="en"/>, und mit freiden<lbr/>
+zu vernehm<abbr v="en"/>, das du dich<lbr type="BD"/> gesund befindest. mir seind gott lob wohlauf,<lbr/>
+und winschen michts andres als<lbr type="BD"/> das du be&#255; uns wehrest, welches mit<lbr/>
+der hilf gottes gescheh<abbr v="en"/> wird, se&#255; nur<lbr type="BD"/> indess<abbr v="en"/> ohne sorg<abbr v="en"/>, und schlage<lbr/>
+dir alle verdrüsslichkeit<abbr v="en"/> aus den Sinn, es<lbr type="BD"/> wird schon alles recht<lbr/>
+werden, wann die hafftel daran Kom<abbr v="en"/>. wür führ<abbr v="en"/> ein<lbr type="BD"/>&#160;<rend class="latin">charmantes</rend><lbr/>
+leben, früh auf spath ins beth, den ganzen dag hab<abbr v="en"/> wür <rend class="latin">visiten</rend>,<lbr type="BD"/><lbr/>
+leben wie die fürst<abbr v="en"/> Kinder, bis uns holt der schinder.<lbr type="forced"/>
+<rend class="latin">adio ben mio</rend> leb gesund, Reck den arsch zum mund.<lbr type="forced"/>
+ich winsch ein guete<lbr type="BD"/> nacht, scheiss ins beth das Kracht.<lbr type="forced"/>
+es ist schon über oas iezt kanst selber<lbr type="BD"/> Reim<abbr v="en"/>.<lbr type="forced"/>
+<ts>_______________</ts><tshtm>__________</tshtm>sch<lbr type="forced"/>
+an mein liebe sallerl <ts>_________</ts><tshtm>_____________________________</tshtm><tspdf>\hfill </tspdf>Maria Anna Mozartin<lbr type="forced"/>
+Catherl nanerl bimberl alles erdenckliches</NS><lbr type="forced"/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+</letter>
+</text>
+</MUP>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2012">2012-10</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=929</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:38:19 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_365.mup">
+<letter bd="365"><HEADER id="929">LEOPOLD MOZART AN MARIA ANNA UND WOLFGANG AMADÉ MOZART IN MANNHEIM<lbr/>
+SALZBURG, 6. NOVEMBER 1777</HEADER>
+<pg n="1"/>
+<ts>_____</ts>Mein Liebes Weib, und mein Lieber Sohn!<ts>_________</ts><add_num type="inline"><u>15.</u></add_num>&#160;<tshtm>____________</tshtm><tspdf>\hfill </tspdf>Salzb<abbr type="curve">:</abbr> d<abbr v="en"/>&#160;<u>6<h>t<abbr v="en"/></h>&#160;<rend class="latin">Nov<abbr type="curve"></abbr></rend>: 1777</u><lbr type="forced"/>
+<lbr type="forced"/>
+Gott Lob, daß ihr glückl: in Manheim angelangt seyd! Ich weis zwar nicht,<lbr type="BD"/> und zweifle<lbr/>
+sehr, daß der Wolfg<abbr type="curve">:</abbr> alles dieses alda find<abbr v="en"/> wird, was er sich vorgestellt, und was<lbr/>
+ihm vielleicht mancher vorteilhaftes vorgemahlt hat.<lbr type="BD"/> dieser lange Zug von Augsp<abbr type="curve">:</abbr> bis<lbr/>
+Manheim wird dem Beutl sehr schaden<lbr type="BD"/> gethan hab<abbr v="en"/>, und Manheim wird ihn schwerlich<lbr/>
+wieder vüllen. <rend class="latin">Basta</rend>! ihr<lbr type="BD"/> seyd einmal da. h<abbr type="curve">:</abbr>&#160;<rend class="latin">Becke</rend> wird herzlich frohe se&#255;n,<lbr/>
+daß dich der Fürst Taxis<lbr type="BD"/> und der Prelat zu Kaysersheim nicht gehört,<lbr/>
+so bleibt er i<abbr type="topline" expand="mm">m</abbr>er Hahn im<lbr type="BD"/> Korbe in seiner Gegend und der <rend class="latin">Clavier</rend>=Gott seiner<lbr/>
+Anbetter. <u>h<abbr type="curve">:</abbr> Vogler</u> wird<lbr type="BD"/> derjenige seyn, der, so viel weis, ein<abbr v="en"/> Tracktat von<lbr/>
+der musikal: Berechnung<lbr type="BD"/> herausgegeb<abbr v="en"/>, er ist ein starker <rend class="latin">Contrapunctist</rend> und<lbr/>
+<rend class="latin">algebraist</rend>; er hat die<lbr type="BD"/> Musikschule od<abbr v="er"/> Accademie d<abbr v="er"/> jung<abbr v="en"/> Leute unter sich.<lbr type="forced"/>
+Gestern abends ist d<abbr v="er"/> Oberst <rend class="latin">B: Pranck</rend> begrab<abbr v="en"/> word<abbr v="en"/>. Heute ist der<lbr type="BD"/><lbr/>
+<rend class="latin">Violoncelist</rend> h<abbr type="curve">:</abbr>&#160;<u>Baumgartner</u> und der Flötenist h<abbr type="curve">:</abbr>&#160;<u>Gering</u> hier an<pc force="weak">=</pc><lbr/>geko<abbr type="topline" expand="mm">m</abbr>en,<lbr type="BD"/> sie war<abbr v="en"/> eb<abbr v="en"/> be&#255; mir, und lass<abbr v="en"/> sich empfehl<abbr v="en"/>, sie geh<abbr v="en"/> nach Wie<abbr type="topline" expand="nn">n</abbr>.<lbr type="BD"/><lbr/>
+die Seide hat die Na<abbr type="topline" expand="nn">n</abbr>erl von Augsp<abbr type="curve">:</abbr> beko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>, aber sie ist sehr wenig, ich<lbr type="BD"/> glaub<lbr/>
+weil dort das Gewicht kleiner od<abbr v="er"/> geringer se&#255;n wird. der Gr: Wolfegg<lbr type="BD"/> ist heute<lbr/>
+auch angeko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>, aber ich habe noch nicht mit ihm gesproch<abbr v="en"/>.<lbr type="BD"/> we<abbr type="topline" expand="nn">n</abbr>s, wie be&#255;<lbr/>
+solch<abbr v="en"/> Höfen zu gescheh<abbr v="en"/> pflegt, das Anseh<abbr v="en"/> hat ins lange<lbr type="BD"/> zu geh<abbr v="en"/>, so sorgt für ein and<abbr v="er"/>es<lbr/>
+Quartier: vielleicht ka<abbr type="topline" expand="nn">n</abbr> es der Wolfg<abbr type="curve">:</abbr> dahin bring<abbr v="en"/>, daß ihn der Churf<abbr type="curve">:</abbr> eine<lbr/>
+Deutsche opera mach<abbr v="en"/> lässt. <u>Ich bin in<lbr type="BD"/> der That besorgt:</u> da<abbr type="topline" expand="nn">n</abbr> Manheim ist<lbr/>
+ein theuerer Ort. Ihr wisst wie die Sach<abbr v="en"/><lbr type="BD"/> steh<abbr v="en"/>. Ich hoffe h<abbr type="curve">:</abbr> Da<abbr type="topline" expand="nn">n</abbr>er, dem mich<lbr/>
+höflichst empfehle, wird euch be&#255;steh<abbr v="en"/>, und Anleitung geben. Ich hoffe der<lbr/>
+Wolfg<abbr type="curve">:</abbr> wird sich Mühe geben sich<lbr type="BD"/> alle Leute durch vorko<abbr type="topline" expand="mm">m</abbr>ende Höflichkeit<lbr/>
+zu freunde zu mach<abbr v="en"/>, und h<abbr type="curve">:</abbr><lbr type="BD"/>&#160;<rend class="latin">ViceCp<abbr type="curve"></abbr></rend>: Vogler muß ein sehr geschickter Ma<abbr type="topline" expand="nn">n</abbr><lbr/>
+se&#255;n, de<abbr type="topline" expand="nn">n</abbr> er stehet in vielem<lbr type="BD"/>&#160;<rend class="latin">Credit</rend> beim Churf<abbr type="curve">:</abbr> Ich bin sehr begierig<lbr/>
+ob du dir die Gunst des h<abbr type="curve">:</abbr>&#160;<rend class="latin">Raff</rend>, dem<lbr type="BD"/> mich geh<abbr type="curve">:</abbr> empfehle, erhältst, er ist<lbr/>
+mir als ein recht ehrlicher und Christ<abbr type="curve">:</abbr><lbr type="BD"/> Ma<abbr type="topline" expand="nn">n</abbr> allzeit angerühmt word<abbr v="en"/>;<lbr/>
+ich hab dem Misliw<abbr type="curve">:</abbr> geschrieb<abbr v="en"/>, daß er<lbr type="BD"/> wegen deiner an ihn schreib<abbr v="en"/> soll.<lbr/>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="2"/>
+Nun hoffe daß ihr gesund seyd, und der Catharr der Ma<abbr type="topline" expand="mm">m</abbr>a nachgelass<abbr v="en"/><lbr type="BD"/> hat.<lbr/>
+wir sind, Gott Lob, beyde gesund, auch der <u>Pimperl</u>, der nie so frisch war,<lbr type="BD"/> als<lbr/>
+itzt. d<abbr v="en"/> 2<h>t<abbr v="en"/></h> am Sontag hab<abbr v="en"/> wir die Mitzerl eingelad<abbr v="en"/>, und des Wolfg<abbr type="curve">:</abbr><lbr type="BD"/> Nah<pc force="weak">=</pc><lbr/>menstag mit einer He<abbr type="topline" expand="nn">n</abbr>e und Copäundl <rend class="latin">Cele</rend>briert. We<abbr type="topline" expand="nn">n</abbr> ich alle Compt<abbr type="curve">:</abbr><lbr type="BD"/><lbr/>
+hersetze<abbr v="en"/> wollte müste ich den Kopf eines Engels hab<abbr v="en"/>, um alle die Leute im<lbr type="BD"/><lbr/>
+Gedechtnisse zu behalten, und den würde ich mich müde schreib<abbr v="en"/>. Lebt<lbr type="BD"/> gesund,<lbr/>
+wir be&#255;de Kissen euch beyde million<abbr v="en"/> mahl und bin der alte<lbr type="forced"/> 
+<ts>___________________</ts><tshtm>_________________________________________________________________</tshtm><tspdf>\hfill </tspdf>Mozart <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+Ist das nicht der schönste Herbst, den man sich wünsch<abbr v="en"/> kan? &#8211; <lbr/>
+hier hat aber<lbr type="BD"/> auch schon, weg<abbr v="en"/> der Trückne und Wärme, das Brod und<lbr/>
+Mehl aufgeschlag<abbr v="en"/>.<lbr type="forced"/>
+<lbr type="forced"/>
+H<abbr type="curve">:</abbr>&#160;<u>Rust</u> ka<abbr type="topline" expand="nn">n</abbr> nun reisen: allein da er nicht nur das<lbr/>
+Reisegeld, sond<abbr v="er"/>n auch<lbr type="BD"/> noch <u>3 Monat=besoldung<abbr v="en"/></u> hab<abbr v="en"/> will, so will sich<lbr/>
+der Erzb<abbr type="curve">:</abbr> auf das letztere<lbr type="BD"/> nicht versteh<abbr v="en"/>. <u>Rust</u> bleibt also hier<lbr/>
+im Zi<abbr type="topline" expand="mm">m</abbr>er hinter dem Ofen, und zieht<lbr type="BD"/> se&#255;n Geld als <u><rend class="latin">invalidus</rend></u><lbr/>
+da<abbr type="topline" expand="nn">n</abbr> es ko<abbr type="topline" expand="mm">m</abbr>t itzt an Tage, daß er nicht nur sein Weib,<lbr type="BD"/> sond<abbr v="ern"/><lbr/>
+auch seines Weibs Vatter erhalt<abbr v="en"/> muß, daß er eine Menge<lbr/>
+schulden<lbr type="BD"/> und versetzte Sach<abbr v="en"/> in Itali<abbr v="en"/> hat; er ka<abbr type="topline" expand="nn">n</abbr> also nicht reis<abbr v="en"/>.<lbr/>
+bleibt er aber,<lbr type="BD"/> so ka<abbr type="topline" expand="nn">n</abbr> er umsonst das Geld einnehm<abbr v="en"/>, und da<abbr type="topline" expand="nn">n</abbr><lbr/>
+hineinschick<abbr v="en"/> und abzahl<abbr v="en"/>. kann er nicht ausgeh<abbr v="en"/>, so bleibt er zu hause.<lbr/>
+der Erzb<abbr type="curve">:</abbr> muß ihn doch<lbr type="BD"/> bezahl<abbr v="en"/>.<lbr type="forced"/>
+<lbr type="forced"/>
+<u><rend class="latin">addio</rend>.</u> We<abbr type="topline" expand="nn">n</abbr> du nicht Zeit hast, so soll die Ma<abbr type="topline" expand="mm">m</abbr>a, we<abbr type="topline" expand="nn">n</abbr> sie zu haus<lbr/>
+<tshtm>_________</tshtm>ist,<lbr type="BD"/> und etwa nicht viel zu thun hat, was vorbe&#255;gehet schreib<abbr v="en"/>.<lbr type="forced"/>
+<lbr type="forced"/>
+<u><rend class="latin">NB</rend></u> Ich habe bis <rend class="latin">dato</rend> alle Posttäge geschrieb<abbr v="en"/>, damit ihr also wisst<lbr/>
+<tshtm>_________</tshtm>ob ihr<lbr type="BD"/> alle Brief empf<abbr type="curve">:</abbr><lbr/>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="3"/>
+<vacat/>
+<pg n="4"/>
+<lbr type="forced"/>
+<anschrift><rend class="latin">À Monsieur<lbr type="forced"/>
+Monsieur Wolfgang Amadé<lbr type="forced"/>
+<u>Mozart</u> Maître de Musique<lbr type="forced"/>
+<add_note type="inline"><rend class="latin">Frcoaug<abbr type="curve"></abbr></rend></add_note><ts>___________</ts>à</rend><lbr type="forced"/>
+im Pfälzischen<ts>_____</ts><rend class="latin"><u>Manheim</u></rend><lbr type="forced"/>
+Hof.</anschrift><lbr/>
+<add_num rot="180" type="inline"><rend class="latin">N</rend>: <stroke>14.</stroke> 15.</add_num><lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+</letter>
+</text>
+</MUP>

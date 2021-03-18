@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2020">2020-02</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=621</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Verbleib unbekannt (Vorlage: Abschrift um 1768 in D-B)</bibl>
+            <bibl type="source" subtype="RISM">Verbleib unbekannt, Vorlage: Abschrift um 1768 in D-B</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:36:32 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_63.mup">
+<letter bd="63">
+<NI src="unbekannt">
+<HEADER id="621">LEOPOLD MOZART AN LORENZ HAGENAUER IN SALZBURG<lbr/>
+FRANKFURT AM MAIN, 20. AUGUST 1763</HEADER>
+<pg n="1"/>
+<tshtm><additum>[... (Schluss der Abschrift des Briefes vom 13. August 1763)]</additum>
+<lbr/></tshtm>
+<add_num schr_id="57010"><ts>_______________________________</ts>N. 16.</add_num>
+<ts>______________________</ts><tspdf>\hfill </tspdf><rend class="latin">Frankfurt</rend> den 20. <rend class="latin">aug<abbr type="curve">:</abbr></rend>&#160;<u>1763.</u><lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____</ts>Vor 3. Tägen ist hier eine Geld-<rend class="latin">deval<pc force="weak">=</pc><lbr/>vations=Tabell</rend>&#160;<rend class="latin">affigi</rend>ret worden. Es<lbr type="BD"/> wäre<lbr/>
+zu Umständlich alles hier anzusetzen. Ge<pc force="weak">=</pc><lbr/>nug, alle 12 Xr: Stücke, wenige<lbr type="BD"/> Churbajrische,<lbr/>
+die nach 1752. geprägt worden, ausgenommen,<lbr/>
+sind auf 10 Xr.<lbr type="BD"/> gesetzet. Die <rend class="latin">Carolin</rend> 11 f.<lbr/>
+<pg n="2"/>
+die <rend class="latin">Louis d'or</rend> 11 f: die <rend class="latin">Duca</rend>ten 5 f. Alle<lbr/>
+<rend class="latin">Conven<lbr type="BD"/>tions</rend> Thaller 2 f: 24 Xr: Die grossen Tha<pc force="weak">=</pc><lbr/>ller 2 f: 45 Xr: <abbr expand="etc">p</abbr><abbr expand="etc.">p.</abbr> unsre 2 Xr:<lbr type="BD"/>
+Stücke haben<lbr/>
+unter der kleinen Münz die Ehre, auf 6. Pfen<pc force="weak">=</pc><lbr/>ing gesetzt zu<lbr type="BD"/> se&#255;n. Gewisse batzen sind<lbr/>
+auf 3. Xr:, gewisse 6:<h>er</h> auf 5. Xr: abgewir<pc force="weak">=</pc><lbr/>diget. Eine<lbr type="BD"/> Menge Kreuzer gelten 2. Pfening,<lbr/>
+einige gar nichts.<lbr type="forced"/>
+<ts>_____</ts>Der <persName key="83535">Churfürst von Ma&#255;nz</persName> war vor<lbr/>
+3. Tägen wircklich hier Tod gesagt. Gestern<lbr type="BD"/><lbr/>
+und <choice><orig>heunt</orig><corr hand="diff" schr_id="57010">heut</corr></choice> habe ich aber Briefe vom H<abbr type="curve">:</abbr> Cammer<pc force="weak">=</pc><lbr/>diener <persName key="84319">Urspringer</persName>, und H<abbr type="curve">:</abbr><h>n</h>&#160;<rend class="latin">Canonico</rend>&#160;<persName key="83534">Starck</persName> er<pc force="weak">=</pc><lbr/>halten, die mir schreiben, daß der Churfürst<lbr/>
+3. Täge in<lbr type="BD"/> wirckl: Todtgefahr <choice><orig>ware</orig><corr hand="diff" schr_id="57010">war</corr></choice>; seit dem<lbr/>
+17.<h>t<abbr v="en"/></h> aber hat sich die Kranckheit so ge<lbr type="BD"/>brochen,<lbr/>
+daß der Churfürst, Gott Lob, um viel besser ist.<lbr type="forced"/>
+<ts>_____</ts>Vor 2. <choice><orig>tägen</orig><corr hand="diff" schr_id="57010">tagen</corr></choice> hat ein Jud den Anfang gemacht,<lbr/>
+und ist wegen <choice><orig>dem</orig><corr hand="diff" schr_id="57010">des</corr></choice> Hollän<lbr type="BD"/>dischen <choice><orig><rend class="latin">falliment</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">falliments</rend></corr></choice>&#160;<choice><orig>aus<pc force="weak">=</pc><lbr/>getretten</orig><corr hand="diff" schr_id="57010">ausgetreten</corr></choice>. In Berlin sind 2. der grösten<lbr/>
+Häuser gefallen.<lbr type="BD"/> Mit einem Worte: kein<lbr/>
+Mensch <corr hand="diff" schr_id="57010" value="trauet">traut</corr> hier dem anderen, bis die Sache<lbr type="BD"/><lbr/>
+mehr ins klare kommt.<lbr type="forced"/>
+<pg n="3"/>
+<ts>_____</ts>Seit 4. bis 5. Tägen haben wir hier eine<lbr/>
+unausprechliche Hitze, so daß man die<lbr type="BD"/> gan<pc force="weak">=</pc><lbr/>ze Nacht <rend class="latin">s: v:</rend> im Schweiss liegt, ob man gleich<lbr/>
+alle Fenster offen lässt.<lbr type="BD"/> Es ist aber auch<lbr/>
+nothwendig, <choice><orig>den</orig><corr hand="diff" schr_id="57010">denn</corr></choice> mit dem Weine sahe es noch<lbr/>
+sehr schlecht<lbr type="BD"/> aus. Man <choice><orig>kiehlt</orig><corr hand="diff" schr_id="57010">kühlt</corr></choice> sich hier mit<lbr/>
+den Sauerwassern ab. Schon zu Geissling<pc force="weak">=</pc><lbr/>en<lbr type="BD"/> findet man eine Art sauerwasser, und<lbr/>
+man findet verschiedene Quellen bis<lbr type="BD"/> Stuttgard.<lbr/>
+jedermann trinckt solche unter dem Weine,<lbr/>
+weil die brunnenwasser<lbr type="BD"/> meistens Schlecht,<lbr/>
+matt, stinckend, oder <choice><orig>trieb</orig><corr hand="diff" schr_id="57010">trüb</corr></choice> sind. Zu Mann<pc force="weak">=</pc><lbr/>heim, Ma&#255;nz,<lbr type="BD"/>&#160;<choice><orig>Franckfurth</orig><corr hand="diff" schr_id="57010">Franckfurt</corr></choice>&#160;<abbr expand="etc">p</abbr> wird nichts als<lbr/>
+Schwalbacher und Selzerwasser <choice><orig>getruncken</orig><corr hand="diff" schr_id="57010">getrunken</corr></choice>.<lbr/>
+Ich<lbr type="BD"/> wässere meinen Wein meist mit Selzer<lbr/>
+Wasser. Liebster <persName key="53262">Herr Hagenauer</persName>! nun<lbr type="BD"/><lbr/>
+sehe ich den Unterschied unter den Rheinweinen.<lbr/>
+Es ist kein Wein in der<lbr type="BD"/> Welt, von dem es<lbr/>
+mehr Gattungen giebt. Er ist auch nichts we<pc force="weak">=</pc><lbr/>niger als Wohl<lbr type="BD"/>feil, indem die Maas, wenn<lbr/>
+sie ein wenig gut ist, 40 Xr: kostet, und<lbr/>
+dieß ist<lbr type="BD"/> unser <choice><orig>Dischwein</orig><corr hand="diff" schr_id="57010">Tischwein</corr></choice>. so dann bekom<pc force="weak">=</pc><lbr/>men sie die Maas zu 1 f: 2. 3. 4. auch zu<lbr/>
+<pg n="4"/>
+5 f:,<lbr type="BD"/> welches erstaunlich ist. Die Maas zu 36 Xr:<lbr/>
+ist auch ein ehrlich glas Wein:<lbr type="BD"/> Allein wenn<lbr/>
+man nur einmal die Naße in das Glaß<lbr/>
+gestecket hat, wo <choice><orig>Weine</orig><corr hand="diff" schr_id="57010">Wein</corr></choice> ist<lbr type="BD"/> die Maaß nur<lbr/>
+für 1 f: so glaubt man der 40 Xr: Wein<lbr/>
+se&#255;e kein Rheinwein mehr.<lbr type="BD"/> Die hiesige Maaß<lbr/>
+wird Salzburg<abbr type="curve">:</abbr><h>e</h> 5. Mässel betragen. Nun<lbr/>
+weil wir vom<lbr type="BD"/> Wein reden, so muß ich ihnen<lbr/>
+eine besondere Geschichte erzehlen. Lachen sie!<lbr type="BD"/><lbr/>
+Gestern Vormittage kam in unser <choice><orig>Wirts</orig><corr hand="diff" schr_id="57010">Wirths</corr></choice><pc force="weak">=</pc><lbr/>haus ein Wagen. Darinne saß ein<lbr type="BD"/> Frauen<pc force="weak">=</pc><lbr/>zimmer <rend class="latin">amazon</rend>isch gekleidet oder in einer so<lbr/>
+genannten <rend class="latin">Cassack</rend>en,<lbr type="BD"/> und ein Ca<abbr type="topline" expand="mm">m</abbr>ermädl,<lbr/>
+und auf den Sitz ein Bedienter. Be&#255;m<lbr/>
+aussteigen glaubte<lbr type="BD"/> man die <rend class="latin">Madame</rend>&#160;<choice><orig>ware</orig><corr hand="diff" schr_id="57010">war</corr></choice><lbr/>
+krum, Lahm, oder sonst <choice><orig>kranck</orig><corr hand="diff" schr_id="57010">krank</corr></choice>; Allein<lbr/>
+es zeigte sich<lbr type="BD"/> gleich, daß sie etwas weniges <choice><orig>be<pc force="weak">=</pc><lbr/>truncken</orig><corr hand="diff" schr_id="57010">betrunken</corr></choice> ware. Sie speiste allein in ihrem<lbr/>
+Zim<lbr type="BD"/>mer, und der Postillion <choice><orig>erzehlte</orig><corr hand="diff" schr_id="57010">erzählte</corr></choice>, daß sie,<lbr/>
+ihr Cammermädl, der Bediente, und<lbr type="BD"/> er der<lbr/>
+Postillion theils in der fruhe, theils auf <choice><orig>den</orig><corr hand="diff" schr_id="57010">dem</corr></choice><lbr/>
+<choice><orig>Weege</orig><corr hand="diff" schr_id="57010">Wege</corr></choice>, wo sie sehr oft,<lbr type="BD"/> sonderheitlich im<lbr/>
+Walde, halt gemacht, und den grossen Flaschen<pc force="weak">=</pc><lbr/><pg n="5" type="wordsep"/>keller heim<lbr type="BD"/>suchten, 12. Maas Wein vor lau<pc force="weak">=</pc><lbr/>ter Hitze nach und nach hineingetröpfelt<lbr type="BD"/><lbr/>
+hätten. Und in der That, der Flaschenkeller<lbr/>
+war rein <choice><orig>ausgeleheret</orig><corr hand="diff" schr_id="57010">ausgeleert</corr></choice>; Die <rend class="latin">Madame</rend>, und<lbr/>
+das Ka<abbr type="topline" expand="mm">m</abbr>ermädl muste man über die Stiege<lbr/>
+führen. Sie assen sehr<lbr type="BD"/> wenig; die <rend class="latin">Ma<pc force="weak">=</pc><lbr/>dame</rend>&#160;<choice><orig>erzehlte</orig><corr hand="diff" schr_id="57010">erzählte</corr></choice> mit einer unausgesetzten<lbr/>
+Beredsamkeit alle ihre<lbr type="BD"/> He&#255;raths Umstände<lbr/>
+<abbr expand="etc:">&#38;c:</abbr>&#160;<abbr expand="etc:">&#38;c:</abbr>&#160;<abbr expand="etc:">&#38;c:</abbr> &#8211; &#8211; Und nachdem sie aber<pc force="weak">=</pc><lbr/>mahlen, nämlich<lbr type="BD"/> die <rend class="latin">Madame</rend>, das Mädl,<lbr/>
+der Bediente, und der neue Postillion, der<lbr/>
+dazu einge<lbr type="BD"/>laden ware, 4. und eine <formula type="mfrac"><mn>1</mn><mi>2</mi></formula> Maas<lbr/>
+Weine ausgestochen, und den Flaschenkeller<lbr type="BD"/><lbr/>
+auf den <rend class="latin">Vesper</rend>-<choice><orig>Trunck</orig><corr hand="diff" schr_id="57010">Trunk</corr></choice> füllen lassen; sind<lbr/>
+sie alle Stern <choice><orig>Hagl</orig><corr hand="diff" schr_id="57010">Hagel</corr></choice> voll in den<lbr type="BD"/> Wagen ge<pc force="weak">=</pc><lbr/>führet worden: so daß es ein wunder ist, wenn<lbr/>
+sie der Postillion,<lbr type="BD"/> der auch besoffen war,<lbr/>
+nicht einige mahl umschmeist. Die <rend class="latin">Ma<pc force="weak">=</pc><lbr/>dame</rend> ist eine<lbr type="BD"/> junge Person, die viel Geld hat:<lbr/>
+Ein Mann von 70. Jahren hat sie wegen <choice><orig>ih<pc force="weak">=</pc><lbr/>ren</orig><corr hand="diff" schr_id="57010">ihres</corr></choice><lbr type="BD"/>&#160;<choice><orig>Gelde</orig><corr hand="diff" schr_id="57010">Geldes</corr></choice>, und wegen ihrer Jugend geha&#255;<pc force="weak">=</pc><lbr/>ratet. Sie reiset<suppl hand="diff" schr_id="57010" pos="inline">,</suppl> ihre Freunde in Bam<pc force="inter">=</pc><lbr/>berg zu besuchen. Hilf Hi<abbr type="topline" expand="mm">m</abbr>el! wie<lbr/>
+<pg n="6"/>
+<choice><orig>vielle</orig><corr hand="diff" schr_id="57010">viele</corr></choice> maas Wein wird diese edle Gesell<pc force="inter">=</pc><lbr/>schaft noch verschlingen, bis sie zu den ihrigen<lbr/>
+kommt. Schade, und immer<lbr type="BD"/> Schade, daß<lbr/>
+Sie nicht nach Salzburg kommt um der <rend class="latin">Ma<pc force="weak">=</pc><lbr/>dame</rend> Zahlmeisterinn<lbr type="BD"/> Gesellschaft zu leisten.<lbr/>
+Die würde ihrem Manne gar bald <choice><orig>ein</orig><corr hand="diff" schr_id="57010">einen</corr></choice> Raths<pc force="weak">=</pc><lbr/><choice><orig>titl</orig><corr hand="diff" schr_id="57010">titel</corr></choice> an<lbr type="BD"/> den Hals sauffen.<lbr type="forced"/>
+<ts>_____</ts>Hier speist unter andern der <persName key="84338">Churtrieri<pc force="weak">=</pc><lbr/>sche <choice><orig>Gesannte</orig><corr hand="diff" schr_id="57010">Gesandte</corr></choice></persName>, ein Braunschweigischer<lbr type="BD"/> Husaren<pc force="strong">=</pc><lbr/>Rittmeister, und ein <choice><orig>Preiss<abbr type="curve">:</abbr></orig><corr hand="diff" schr_id="57010">Preuss<abbr type="curve">:</abbr></corr></choice> Hauptmann,<lbr/>
+und der bekannte <rend class="latin">labati</rend><lbr type="BD"/> mit uns, der von<lbr/>
+französischen <rend class="latin">Desserteurs</rend> ein Regiment <choice><orig>aufge<pc force="weak">=</pc><lbr/>richt</orig><corr hand="diff" schr_id="57010">aufgerichtet</corr></choice>, das aber<lbr type="BD"/> wieder ihn <rend class="latin">revolti</rend>rt, und<lbr/>
+auf einmahl durchgegangen ist.<lbr type="forced"/>
+<ts>_____</ts>Nun haben sie einen langen Brief, und<lbr/>
+zwar in der ordentlichen Unordnung.<lbr type="BD"/> ich<lbr/>
+Schreibe wie es mir gefällt. So gehet es, we<abbr type="topline" expand="nn">n</abbr><lbr/>
+man reiset. Eine Menge<lbr type="BD"/> Sachen kom<pc force="weak">=</pc><lbr/>men vor, die ich ihnen sagen möchte, allein<lbr/>
+ich muste ganze Tage<lbr type="BD"/> schreiben.<lbr type="forced"/>
+<ts>_____</ts>Den 18.<h>t<abbr v="en"/></h> war unser <rend class="latin">Concert</rend>. <u>Es<lbr/>
+war gut.</u> am 22.<h>t<abbr v="en"/></h> wird es wieder se&#255;n,<lbr type="BD"/><lbr/>
+<pg n="7"/>
+und auch am 25.<h>t<abbr v="en"/></h> oder 26.<h>t<abbr v="en"/></h> Der Kayserl:<h>e</h><lbr/>
+Gesandte <persName key="83539">Graf von Pergen</persName> und seine<lbr type="BD"/>&#160;<persName key="84523"><rend class="latin">Dame</rend></persName>&#160;<abbr expand="etc">p</abbr><lbr/>
+waren auch da. Alles gerieth in Erstaunen!<lbr/>
+Gott giebt uns die<lbr type="BD"/> Gnade, daß wir, Gott<lbr/>
+Lob, gesund sind, und aller Orten bewundert<lbr/>
+werden.<lbr type="BD"/> Der <persName key="39409"><rend class="latin">Wolfang<abbr type="curve">:</abbr></rend></persName> ist ganz ausseror<pc force="weak">=</pc><lbr/>dentlich lustig, aber auch schlimm. Die<lbr type="BD"/>&#160;<persName key="48817">Nan<pc force="weak">=</pc><lbr/>nerl</persName> leidet nun durch den Buben nichts mehr,<lbr/>
+indem sie so spielt, daß alles<lbr type="BD"/> von ihr spricht,<lbr/>
+und ihre Fertigkeit bewundert. Ich habe ein<lbr/>
+artiges <rend class="latin">Clavierl</rend><lbr type="BD"/> vom <persName key="59446">H<abbr type="curve">:</abbr> Stein</persName> in Aug<pc force="weak">=</pc><lbr/>spurg gekauft, welches uns wegen dem <rend class="latin">Exercitio</rend><lbr/>
+auf der<lbr type="BD"/> Reise grosse Dienste thut. Das<lbr/>
+Geld dafür habe be&#255; <persName key="0">H<abbr type="curve">:</abbr>&#160;<rend class="latin">Calligari</rend></persName> angewie<pc force="weak">=</pc><lbr/>sen;<lbr type="BD"/> Dann <persName key="59446">H<abbr type="curve">:</abbr> Stein</persName> hat es be&#255; einem guten<lbr/>
+Freund in Augspurg weggenommen,<lbr type="BD"/> der eben<lbr/>
+nicht in Augspurg <choice><orig>ware</orig><corr hand="diff" schr_id="57010">war</corr></choice>. Und er wuste mir<lbr/>
+selbst nicht zu sagen, wie<lbr type="BD"/> viel ihm der Freund<lbr/>
+dafür bezahlt hatte. Einmahl seit dem wir<lbr/>
+auf der Reise sind, ich glaube es war zu<lbr/>
+Augspurg, fieng der <persName key="39409">Wolfgang<abbr type="curve">:</abbr></persName> da er mor<pc force="weak">=</pc><lbr/>gens<lbr type="BD"/> erwachte an zu weinen. Ich fragte wa<pc force="weak">=</pc><lbr/>rum: er sagte es ware ihm Leid, daß er<lbr type="BD"/><lbr/>
+den <persName key="53262">H<abbr type="curve">:</abbr>&#160;<rend class="latin">Hagenauer</rend></persName>, <persName key="83523">h<abbr type="curve">.</abbr>&#160;<rend class="latin">Wenzl</rend></persName>, <persName key="59370"><rend class="latin">Spizeder</rend></persName>,<lbr/>
+<pg n="8"/>
+<rend class="latin"><persName key="83537">Deibl</persName></rend>, <rend class="latin"><persName key="76730">Leitgeb</persName></rend>, <rend class="latin"><persName key="60284">Vogt</persName></rend>, <rend class="latin"><persName key="53260">Caietan</persName></rend>, <rend class="latin"><persName key="53261">Nazerl</persName></rend><lbr type="BD"/>&#160;<abbr expand="etc">p</abbr>.<lbr/>
+und andere gute Freunde nicht sehe. Wir<lbr/>
+empfehlen uns demnach alle<lbr type="BD"/> ihnen, allen den<lbr/>
+ihrigen, allem im Hause, und so viellen mei<pc force="weak">=</pc><lbr/>nen guten Freun<lbr type="BD"/>dinen, und Freunden, daß<lbr/>
+es besonders zu benennen nicht möglich ware.<lbr type="BD"/><lbr/>
+Leben sie gesund. Und wenn sie schreiben,<lbr/>
+so schreiben sie nach <u>Ma&#255;nz</u> im<lbr type="BD"/> Gasthof zum<lbr/>
+König <abbr type="topline" expand="von">v</abbr> Engelland, oder nach <rend class="latin">Coblenz</rend>. Auf<lbr/>
+der Post liegen zu<lbr type="BD"/> Lassen. Addio.<lbr type="forced"/>
+<lbr type="forced"/>
+<rend class="latin">P: S:</rend> Die <persName key="48817">Na<abbr type="topline" expand="nn">n</abbr>erl</persName> trägt zum spazieren gehen<lbr/>
+einen Englischen Hut, wie es in<lbr type="BD"/> diesen gegenden be&#255;<lbr/>
+Frauenzimmern <rend class="latin">mode</rend> ist. Wenn wir so zu Salz<pc force="weak">=</pc><lbr/>burg<abbr type="curve">:</abbr><lbr type="BD"/> durch die Strassen giengen, lieffe es alles<lbr/>
+zusa<abbr type="topline" expand="mm">m</abbr>, als wenn der <choice><orig><rend class="latin">Rinoceros</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">Rhinoceros</rend></corr></choice><lbr type="BD"/>&#160;<choice><orig>ko<abbr type="topline" expand="mm">m</abbr>te</orig><corr hand="diff" schr_id="57010">käme</corr></choice>. Sie be<pc force="weak">=</pc><lbr/>kam ihn in Ma&#255;nz, samt einen <choice><orig><rend class="latin">gallanterie</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">galanterie</rend></corr></choice> fla<pc force="weak">=</pc><lbr/>schenkeller<abbr type="curve">:</abbr> zum<lbr type="BD"/>&#160;<rend class="latin">præsent</rend>. Der Hut kost 1. <choice><orig>Dugaten</orig><corr hand="diff" schr_id="57010">Dukaten</corr></choice>.<lbr/>
+das <rend class="latin">eau Sens</rend>&#160;<choice><orig><rend class="latin">pareill:</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">pareille</rend></corr></choice> flaschenkeller<abbr type="curve">:</abbr><lbr type="BD"/> 3. <rend class="latin">Ducaten</rend>.<lbr type="forced"/>
+<ts>_____</ts>Wollen sie etwas von einer neuen <rend class="latin">Mode</rend> wissen?<lbr/>
+3. <choice><orig>Engellender</orig><corr hand="diff" schr_id="57010">Engelländer</corr></choice> speissen mit<lbr type="BD"/> uns <rend class="latin">en compagnie</rend>. Die<lbr/>
+<rend class="latin">Taille</rend> von ihrer Kleidung ist so hoch bis unter die<lbr type="BD"/><lbr/>
+Achseln; und so dann hängt der Rock bis auf<lbr/>
+die helfte d<abbr v="er"/> waden hinunter:<lbr type="BD"/> und dazu kommen<lbr/>
+noch die alten engen <choice><orig>Stifl</orig><corr hand="diff" schr_id="57010">Stiefel</corr></choice>-Ermel; so,<lbr/>
+<conv><ts>________________________________________________________</ts>daß</conv>
+<pg n="9"/>
+daß es abscheulich<lbr type="BD"/> anzusehen ist. Und das ist<lbr/>
+wircklich ihre letzte <rend class="latin">mode</rend>. Einer von ihnen<lbr/>
+gehet<lbr type="BD"/> wenigst alle zwe&#255;te <choice><orig>Täge</orig><corr hand="diff" schr_id="57010">Tage</corr></choice> vor Tische hin<pc force="weak">=</pc><lbr/>aus vor die <choice><orig>Statt</orig><corr hand="diff" schr_id="57010">Stadt</corr></choice>, und Badet sich im<lbr type="BD"/>&#160;<choice><orig>Me&#255;n</orig><corr hand="diff" schr_id="57010">Ma&#255;n</corr></choice>:<lbr/>
+und kommt dann, wie eine <choice><orig>taufte</orig><corr hand="diff" schr_id="57010">getaufte</corr></choice>&#160;<choice><orig>Mauße</orig><corr hand="diff" schr_id="57010">Maus</corr></choice><lbr/>
+zum Speisen. O wie viel<lbr type="BD"/> hätte ich zu schrei<pc force="weak">=</pc><lbr/>ben! &#8211; &#8211; &#8211; Der <persName key="39409">Wolfg<abbr type="curve">:</abbr></persName> hat auch ein<lbr/>
+<rend class="latin">Tabattiere</rend> von <rend class="latin">Por<lbr type="BD"/>cellan</rend> zum <rend class="latin">præsent</rend> be<pc force="weak">=</pc><lbr/>kommen. Die Nannerl eine von <rend class="latin">Lac Mar<pc force="weak">=</pc><lbr/>tin</rend> und <choice><orig>ein</orig><corr hand="diff" schr_id="57010">eine</corr></choice><lbr type="BD"/>&#160;<rend class="latin">garnitur pallatin<abbr type="curve">:</abbr></rend>&#160;<abbr expand="etc.">p.</abbr>
+<pg n="10"/>
+<vacat/>
+</NI>
+</letter>
+</text>
+</MUP>

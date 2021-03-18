@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2020">2020-03</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=608</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Verbleib unbekannt (Vorlage: Abschrift um 1768 in D-B)</bibl>
+            <bibl type="source" subtype="RISM">Verbleib unbekannt, Vorlage: Abschrift um 1768 in D-B</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:36:30 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_50.mup">
+<letter bd="50">
+<NI src="unbekannt">
+<HEADER id="608">LEOPOLD MOZART AN LORENZ HAGENAUER IN SALZBURG<lbr/>
+MÜNCHEN, 21. JUNI 1763</HEADER>
+<pg n="1"/>
+<add_num schr_id="57010" impl="crayon" color="red"><ts>______________________________________________</ts>N. <corr hand="self" schr_id="57010" impl="ink" value="10">11</corr>.</add_num>
+<ts>_______________________</ts><tshtm>_______</tshtm><tspdf>\hfill </tspdf>München den 21 <rend class="latin">Junij</rend> 1763.<lbr type="forced"/>
+<lbr type="forced"/>
+Wir sitzen in München. am Sonntage den 12:<h>tn</h> Abends sind<lbr/>
+wir angelanget;<lbr type="BD"/> am Montage war <rend class="latin">galla</rend> wegen dem <rend class="latin">Antoni</rend><lbr/>
+Fest, wir fuhren nach N&#255;mphen<lbr type="BD"/>burg. der <persName key="83524">Prinz von<lbr/>
+Zwe&#255;brücken</persName>, der uns von Wien kannte, sahe uns vom<lbr type="BD"/><lbr/>
+Schlose aus im Garten spazieren, er erkannte uns, und<lbr/>
+gab uns ein zeichen<lbr type="BD"/> vom Fenster, wir näherten uns, und<lbr/>
+nachdem er vieles mit uns sprach, fragte<lbr type="BD"/> er, ob der<lbr/>
+<persName key="56247">Churfürst</persName> wuste, daß wir hier wären. Wir sagten<lbr/>
+Nein; Er schickte<lbr type="BD"/> gleich einen neben ihm stehenden <rend class="latin">Cavaglier</rend><lbr/>
+zum Churfürsten um ihm zu<lbr type="BD"/> sagen, ob er die <persName key="48817 39409">Kinder</persName> nicht<lbr/>
+hören wollte? &#8211; &#8211; wir sollten entzwischen im<lbr type="BD"/> Garten spa<pc force="weak">=</pc><lbr/>zieren gehen, und die Antwort erwarten. &#8211; &#8211; In<lbr/>
+der That kam gleich<lbr type="BD"/> darauf ein Laufer, der uns meldete,<lbr/>
+daß wir um 8 Uhr be&#255; der Musick er<lbr type="BD"/>scheinen sollten.<lbr/>
+Es war 4. Uhr; wir giengen demnach im Garten fort;<lbr/>
+besahen<lbr type="BD"/> Badenburg, wurden aber durch einen gähen<lbr/>
+Regen und Donnerwetter gezwun<lbr type="BD"/>gen uns unter<lbr/>
+das Dach zu begeben. kurz! der <persName key="39409">Woferl</persName> machte sein<lbr/>
+Sach gut.<lbr type="BD"/> wir kamen erst um <formula type="mfrac"><mn>1</mn><mi>4</mi></formula><h>tl</h> nach 11 Uhr nach<lbr/>
+Hause. assen erst, und kamen<lbr type="BD"/> folglich spät schlaffen.<lbr/>
+am Erchtage und Mittwoch-Abends waren wir be&#255;m<lbr/>
+<persName key="73112">Herzoge <rend class="latin">Clemens</rend></persName>, am DonnersTag blieben wir, wegen<lbr/>
+starken Regen, Abends<lbr type="BD"/> zu Hause. Nun hat es Hitze<lbr/>
+<pg n="2"/>
+wie wir hier weiter ko<abbr type="topline" expand="mm">m</abbr>en: da der schöne<lbr type="BD"/> Gebrauch hier<lbr/>
+ist, die Leute lange auf die <rend class="latin">Regal</rend>ien warten zu lassen;<lbr/>
+so, daß<lbr type="BD"/> man frohe se&#255;n mus, das zu beko<abbr type="topline" expand="mm">m</abbr>en, was<lbr/>
+man verzehret. <persName key="59926">h<abbr type="curve">.</abbr>&#160;<rend class="latin">Tomasini</rend></persName> ist<lbr type="BD"/> schon 3. Wochen hier.<lbr/>
+Nun endlich ist er <rend class="latin">expedi</rend>rt. sagen sie dem <persName key="83523">h<abbr type="curve">.</abbr> Wenzl</persName>,<lbr type="BD"/><lbr/>
+er soll sich vorstellen: was für eine Freude wir be&#255;de<lbr/>
+hatten, uns ohnver<lbr type="BD"/>muthet hier zusehen. Er kannte<lbr/>
+mich eher, als ich ihn; weil er nun Groß, stark,<lbr type="BD"/> und<lbr/>
+schön gewachsen ist. Er zeigte eine gewisse Erkänntlich<pc force="weak">=</pc><lbr/>keit gegen meine<lbr type="BD"/> alte Freundschaft, die ich ihm in<lbr/>
+Salzburg erwiesen, die mich rührte, und<lbr type="BD"/> mir zeigte,<lbr/>
+daß er ein gutes Herz hat. Er gehet auch nach<lbr/>
+<choice><orig>Stuggard</orig><corr hand="diff" schr_id="57010">Stutgard</corr></choice>, und<lbr type="BD"/>&#160;<choice><orig>Manheim</orig><corr hand="diff" schr_id="57010">Mannheim</corr></choice>; dann aber wieder<lbr/>
+nach Wien zurük. Der <persName key="83504">Bischof von Passau</persName> ist<lbr type="BD"/><lbr/>
+also Tod? &#8211; &#8211; <rend class="latin">requiescat in pace! Judicia Dei</rend>&#160;<abbr expand="etc.">p.</abbr>&#160;<abbr expand="etc.">p.</abbr><lbr type="forced"/>
+Gott kann ein Strich durch<lbr type="BD"/> manche Rechnung machen.<lbr type="forced"/>
+<tshtm><additum>[... (Eine Zeile durch Georg Nikolaus Nissen unleserlich gemacht.)]</additum></tshtm><lbr type="BD"/><lbr type="forced"/>
+Den 18:<h>tn</h> speiste der <persName key="56247">Churfürst</persName> in der Stadt. wir<lbr/>
+giengen zur Tafel; Er, <persName key="56097">seine<lbr type="BD"/> Schwester</persName> und<lbr/>
+der <persName key="83524">Prinz von zwe&#255;brücken</persName> unterhielten sich mit<lbr/>
+uns die<lbr type="BD"/> ganze Tafel durch; ich ließ den <persName key="39409">Buben</persName> sagen,<lbr/>
+daß wir Morgen weggehen<lbr type="BD"/> wollten. Der <persName key="56247">Chur<pc force="weak">=</pc><lbr/>fürst</persName> sagte zwe&#255;mal, daß es ihm Leid wäre,<lbr/>
+<pg n="3"/>
+daß er das <persName key="48817">Mädl</persName><lbr type="BD"/> nicht gehört hätte: denn als wir zu N&#255;mphen<pc force="weak">=</pc><lbr/>burg waren, war die zeit zu kurz.<lbr type="BD"/> weil der <persName key="39409">Bub</persName> allein mit<lbr/>
+<rend class="latin">praeambuli</rend>ren, dann mit dem <rend class="latin">Concert</rend> auf dem<lbr type="BD"/>&#160;<rend class="latin">Violin</rend> und <rend class="latin">Clavier</rend><lbr/>
+die meiste zeit wegnahm; zwe&#255; <rend class="latin">Damen</rend> sangen, dann war<lbr type="BD"/><lbr/>
+es vorbe&#255;. Da er also das zwe&#255;te mal sagte: <u>ich hätte sie doch<lbr/>
+hören mögen</u>;<lbr type="BD"/> so konnte ich nicht anders sagen, <u>als daß es<lbr/>
+darauf nicht anko<abbr type="topline" expand="mm">m</abbr>e ein paar<lbr type="BD"/> Tage noch zu verbleiben</u>.<lbr/>
+Es ist also nicht anders möglich, als aufs geschwin<lbr type="BD"/>deste am<lbr/>
+Mittwoch nach AugsPurg hinüber zufahren. denn gestern<lbr/>
+<choice><orig>ware</orig><corr hand="diff" schr_id="57010">war</corr></choice> jagd.<lbr type="BD"/> heut ist franz<abbr type="curve">:</abbr>&#160;<rend class="latin">Comedie</rend>, und folglich kann sie erst<lbr/>morgen schlagen. werde<lbr type="BD"/> ich nun am Erchtage <rend class="latin">expedi</rend>ret,<lbr/>
+so darf ich Gott danken. be&#255;m <persName key="73112">Herzog</persName> werde<lbr type="BD"/> ich nicht<lbr/>
+aufgehalten: allein er <choice><orig>erwart</orig><corr hand="diff" schr_id="57010">erwartet</corr></choice> erst, was der <persName key="56247">Churfürst</persName><lbr/>
+giebt. <persName key="59926">h<abbr type="curve">.</abbr>&#160;<rend class="latin">To<lbr type="BD"/>masini</rend></persName> hat Ursach mit dem Churfürsten<lbr/>
+übl zufrieden zu se&#255;n. Er hat sich<lbr type="BD"/> 2 mal <rend class="latin">produci</rend>ret; hat<lbr/>
+lange warten müssen, und endlich 8 <choice><orig><rend class="latin">Maxter</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">Max d`or</rend></corr></choice><lbr type="BD"/> beko<abbr type="topline" expand="mm">m</abbr>en.<lbr/>
+der <persName key="73112">Herzog</persName> hat ihm doch eine schöne goldene Uhr gegeben.<lbr/>
+<rend class="latin">Basta!</rend><lbr type="BD"/> ich bin froh, wenn ich beko<abbr type="topline" expand="mm">m</abbr>e, was ich hier<lbr/>
+zahlen mus, und etwa bis nach<lbr type="BD"/> AugsPurg nöthig habe.<lbr/>
+ich kann die Stunde kaum erwarten, wenn ich hier<lbr type="BD"/><lbr/>
+leedig werde. Ueber den <persName key="56247">Churfürsten</persName> habe ich mich<lbr/>
+nicht zu beklagen. Er ist gnädigst, und sagte mir erst<lbr/>
+gestern: wir sind schon alte Bekannte; Es wird<lbr type="BD"/> schon<lbr/>
+19 Jahr se&#255;n, daß wir einander kennen. allein<lbr/>
+<pg n="4"/>
+die <choice><orig>Apostl.</orig><corr hand="diff" schr_id="57010">Aposteln</corr></choice> die denken<lbr type="BD"/> ieder auf sich, und ihren <choice><orig>Beutl</orig><corr hand="diff" schr_id="57010">Beutel</corr></choice>.<lbr/>
+leztlich haben wir be&#255; dem Hamburg<abbr type="curve">:</abbr> Kauf<lbr type="BD"/>mann <persName key="84271"><choice><orig><rend class="latin">Ms</rend>.</orig><corr hand="diff" schr_id="57010"><rend class="latin">Mr</rend>.</corr></choice>&#160;<rend class="latin">König</rend></persName><lbr/>
+gespeiset, der in Salzburg be&#255; uns war; er wohnte auch<lbr type="BD"/> be&#255;m<lbr/>
+<persName key="84272">Störzer</persName> vornhinaus: wir aber sind in Neugebau über 2.<lbr/>
+Stiegen. Da<lbr type="BD"/> wurde ich mit einem gewissen <persName key="84273">h<abbr type="curve">:</abbr> Johann<lbr/>
+Georg Wahler</persName> von Frankfurt be<lbr type="BD"/>kannt, der auch mit uns<lbr/>
+speisete, und der mir seine <rend class="latin">addresse</rend> gab, er wohnt<lbr type="BD"/> auf dem<lbr/>
+Römerberg, und will mir in Frankfurt ein <rend class="latin">privat quartier</rend><lbr/>
+verschaffen.<lbr type="BD"/> be&#255; der näml: Gelegenheit bekamen<lbr/>
+wir Bekanntschaft mit zwe&#255; sächs<abbr type="curve">:</abbr><lbr type="BD"/> Räthen, <choice><orig><rend class="latin">Mr</rend></orig><corr hand="diff" schr_id="57010"><rend class="latin">Mrs</rend></corr></choice>&#160;<persName key="83525"><rend class="latin">de Bose</rend></persName>,<lbr/>
+und <persName key="83526"><rend class="latin">Hopfgarten</rend></persName>; be&#255;de sind die artigsten Leute, und<lbr type="BD"/><lbr/>
+alle diese Herren werden wir oder in <choice><orig>Stuggard</orig><corr hand="diff" schr_id="57010">Stutgard</corr></choice>,<lbr/>
+oder <choice><orig>Monheim</orig><corr hand="diff" schr_id="57010">Mannheim</corr></choice>, wenn gott<lbr type="BD"/> will, wieder antreffen,<lbr/>
+denn sie machen die näml: Reise wie wir.<lbr type="forced"/>
+Da ich alle Tag an diesen Brief etwas geschrieben;<lbr/>
+so wird er endlich fertig. <suppl hand="diff" schr_id="39408" type="inline">Morgen den 22<h>t<abbr v="en"/></h> geh<abbr v="en"/> wir ab.<lbr/>
+Leben Sie wohl ich bin <abbr expand="etc:">p:</abbr></suppl><lbr type="forced"/>
+<suppl type="inline" hand="self" pos="inline"><rend class="latin"><u>P: S:</u></rend></suppl> Izt sind wir <rend class="latin">expedi</rend>rt. von <persName key="56247">Churfürst<abbr type="curve"></abbr></persName> haben wir<lbr/>
+100. f. vom Herzog<lbr type="BD"/> aber 75. f. beko<abbr type="topline" expand="mm">m</abbr>en. wie aber<lbr/>
+unser <rend class="latin">Conto</rend> im Wirthshaus lauten wird, das<lbr type="BD"/> werden<lbr/>
+wir morgen zuvernehmen die Ehre haben, h<abbr type="curve">.</abbr><lbr/>
+Störzer hat den Ruhm,<lbr type="BD"/> daß er gut bedient; aber<lbr/>
+auch braf schreibt und rechnet, Gedult! die Nä<abbr type="topline" expand="nn">n</abbr>erl<lbr type="BD"/><lbr/>
+hat mit den grösten <rend class="latin">Applausen</rend> sowohl be&#255;m<lbr/>
+<persName key="56247">Churfürst<abbr type="curve"></abbr></persName> als be&#255;m Herzog<lbr type="BD"/> gespielt. Be&#255;de<lbr/>
+<pg n="5"/>
+haben uns be&#255; der Beurlaubung eingeladen bald wieder<lbr/>
+zu<lbr type="BD"/>ko<abbr type="topline" expand="mm">m</abbr>en. der <persName key="83524">Prinz <abbr type="topline" expand="von">v</abbr> zwe&#255;brücken</persName> wird uns in<lbr/>
+<choice><orig>Monheim</orig><corr hand="diff" schr_id="57010">Mannheim</corr></choice> ansagen, er geht<lbr type="BD"/> bald dahin. Der <persName key="73112">Herzog <stroke hand="diff" schr_id="57010"><abbr type="topline" expand="von">v</abbr></stroke><lbr/>
+<rend class="latin">Clemens</rend></persName> hingegen hat uns mit einem <rend class="latin">Recomendations</rend><lbr type="BD"/><lbr/>
+Schreiben an den <persName key="50701">Churfürst<abbr type="curve"></abbr> von der Pfalz</persName> versehen.<lbr type="forced"/>
+<suppl type="inline" hand="diff" schr_id="39408">geben Sie unsern freund<abbr v="en"/> Nachricht von unserem Wohlergeh<abbr v="en"/>.</suppl>
+<lbr type="forced"/>
+<add_note schr_id="57010"><ts>________________________</ts>Hierauf folgt der Artikel: Augsburg 9. Jul.,<lbr/>
+<ts>____________________________</ts>in der Salzburger Zeitung vom 19. Jul. 1763.</add_note><lbr/>
+<pg n="6"/>
+<vacat/>
+</NI>
+</letter>
+</text>
+</MUP>

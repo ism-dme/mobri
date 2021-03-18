@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2012">2012-10</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=927</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:38:18 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_363.mup">
+<letter bd="363"><HEADER id="927">WOLFGANG AMADÉ MOZART AN LEOPOLD MOZART IN SALZBURG<lbr/>
+MANNHEIM, 4. NOVEMEBR 1777<lbr/>
+mit Nachschrift von Maria Anna Mozart</HEADER>
+<pg n="1"/>
+<add_num><u>11.</u></add_num><lbr type="forced"/>
+<ts>__________</ts><rend class="latin">Monsieur mon trés cher Pére</rend>.<lbr type="forced"/>
+<lbr type="forced"/>
+wir haben geschrieben den tag vor unserer abreise von Augspurg;<lbr/>
+sie müssen<lbr type="BD"/> halt den brief noch nicht empfangen haben. mir wäre leid<lbr/>
+we<abbr type="topline" expand="nn">n</abbr> er sollte verloren gegangen se&#255;n; da<abbr type="topline" expand="nn">n</abbr> es ist viell geschrieben.<lbr/>
+<amend value="es">er</amend> ist das ganze <rend class="latin">Concert</rend><lbr type="BD"/> darin beschrieben; es ist auch vom <u><persName key="59446">stein</persName></u>&#160;<persName key="59566">seiner<lbr/>
+Tochter</persName> etwas darin, wie auch<lbr type="BD"/> die dancksagung für die glückwünsche<lbr/>
+auf meinem Na<abbr type="topline" expand="mm">m</abbr>ens=tag. doch iezt<lbr type="BD"/> hoffe ich werden sie ihn schon haben.<lbr/>
+dieß ist der zwe&#255;te brief den ich von<lbr type="BD"/> Ma<abbr type="topline" expand="nn">n</abbr>heim schreibe. ich bin alle<lbr/>
+tage be&#255; <rend class="latin"><persName key="64271">Canabich</persName></rend>. heüt ist auch meine Mama<lbr type="BD"/> mit mir hingegangen.<lbr/>
+Er ist ganz ein anderer Ma<abbr type="topline" expand="nn">n</abbr>, als er vorher war; es sagt<lbr type="BD"/> es auch das<lbr/>
+ganze <rend class="latin">orchestre</rend>. er ist sehr für mich eingeno<abbr type="topline" expand="mm">m</abbr>en. er hat eine<lbr type="BD"/>&#160;<persName key="50665">tochter</persName><lbr/>
+die ganz artig <rend class="latin">clavier</rend> spiellt, und damit ich ihn mir recht zum freünde<lbr type="BD"/><lbr/>
+mache, so arbeite ich iezt an einer <rend class="latin">Sonata</rend> für seine <rend class="latin">Mad:<h>selle</h></rend> tochter,<lbr/>
+welche<lbr type="BD"/> schon bis auf das <rend class="latin">Rondeau</rend> fertig ist. ich habe wie ich das erste<lbr/>
+<rend class="latin">Allegro</rend>, und<lbr type="BD"/>&#160;<rend class="latin">Andante</rend> geendiget hatte selbe hingebracht und ge<pc force="weak">=</pc><lbr/>spiellt; der Papa ka<abbr type="topline" expand="nn">n</abbr> sich<lbr type="BD"/> nicht vorstellen was die <rend class="latin">sonata</rend> für<lbr/>
+einen be&#255;fall hat. es waren einige von der<lbr type="BD"/> Musick just dort,<lbr/>
+der Junge <persName key="83832">danner</persName>, ein <u>waldhornist</u> lang, und der <rend class="latin">Hautbo</rend>ist,<lbr/>
+dessen Na<abbr type="topline" expand="mm">m</abbr>en ich nicht mehr weis, welcher aber recht gut bläst,<lbr/>
+und einen<lbr type="BD"/> hübschen feinen ton hat. ich habe ihm ein <rend class="latin">Præsent</rend> mit<lbr/>
+den <rend class="latin">Hautbois Concert</rend><lbr type="BD"/> gemacht. es wird im zi<abbr type="topline" expand="mm">m</abbr>er be&#255; <rend class="latin">Canabich</rend><lbr/>
+abgeschrieben. der Mensch ist<lbr type="BD"/> Närrisch für freüde; ich hab ihm das<lbr/>
+<rend class="latin">Concert</rend> heüt auf dem <rend class="latin">Piano forte</rend> be&#255;m<lbr type="BD"/>&#160;<rend class="latin">Canabich</rend> vorgespiellt;<lbr/>
+und obwohl man wuste, <u>daß es von mir ist,</u> so gefiele<lbr type="BD"/> es doch sehr.<lbr/>
+kein mensch sagte daß es nicht <u>gut gesezt</u> se&#255;e; weil es die leüte<lbr type="BD"/><lbr/>
+hier nicht verstehen &#8211; &#8211; sie sollen nur den Erzbischof fragen,<lbr/>
+der wird sie<lbr type="BD"/> gleich auf den rechten weeg bringen.<lbr/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="2"/>
+heüte habe ich alle meine sechs <rend class="latin">sonaten</rend> be&#255;m <rend class="latin">Canabich</rend> gespiellt. h<abbr type="curve">:</abbr><lbr/>
+kapellmeister Holzbauer hat mich heüt selbst zum h<abbr type="curve">:</abbr>&#160;<rend class="latin">jntendant</rend> graf<lbr/>
+<rend class="latin">Savioli</rend> geführt. kanabich war just dort. h<abbr type="curve">:</abbr> Holzbauer sagte auf<lbr/>
+welsch zum grafen;<lbr type="BD"/> das ich möchte die gnade haben mich be&#255; S: Churf:<lbr/>
+Durchl: hören zu lassen.<lbr type="BD"/> ich bin schon vor 15 jahren hier gewesen. ich<lbr/>
+war dort 7 jahr alt, aber nun<lbr type="BD"/> bin ich älter und grösser geworden,<lbr/>
+und so auch in der Musick. ah, sagte der<lbr type="BD"/> graf, das ist der &#8211; &#8211; <lbr/>
+was weis ich für wem er mich hielt, da nahm aber<lbr type="BD"/> gleich der<lbr/>
+<rend class="latin">Canabich</rend> das wort, ich stellte mich aber, als we<abbr type="topline" expand="nn">n</abbr> ich es nicht<lbr type="BD"/><lbr/>
+hörte, liess mich mit andern in <rend class="latin">Discurs</rend> ein. ich merckte aber das<lbr/>
+er ihm mit<lbr type="BD"/> einer ernsthaften Mi<abbr type="topline" expand="nn">n</abbr>e von mir sprach. der graf<lbr/>
+sagte da<abbr type="topline" expand="nn">n</abbr> zu mir, ich höre<lbr type="BD"/> daß sie so ganz <rend class="latin">Passable clavier</rend> spiellen? &#8211; <lbr/>
+ich machte eine verbeügung. Nun<lbr type="BD"/> Muß ich von der hiesigen Musick reden.<lbr/>
+ich war sa<abbr type="topline" expand="mm">m</abbr>stag am allerheiligen<lbr type="BD"/> tag in der kapelle in Hocha<abbr type="topline" expand="mm">m</abbr>t. das<lbr/>
+<rend class="latin">orchestre</rend> ist sehr gut und starck. auf<lbr type="BD"/> jeder seite 10 bis 11 <rend class="latin">violin</rend>,<lbr/>
+4 bratschn, 2 <rend class="latin">oboe</rend>, 2 <rend class="latin">flauti</rend> und 2 <rend class="latin">Clarinetti</rend>,<lbr type="BD"/>&#160;<suppl hand="self" pos="supra">2 Corni</suppl>, 4 <rend class="latin">violoncelle</rend>, 4 <rend class="latin">fagotti</rend><lbr/>
+und 4 <rend class="latin">Contrabassi</rend> und trompetten und<lbr type="BD"/> Paucken. es läst sich eine<lbr/>
+schöne Musick machen, aber ich getrauete mir keine<lbr type="BD"/> Mess von mir<lbr/>
+hier zu <rend class="latin">produciren</rend>. warum? &#8211; &#8211; wegen der kürze? &#8211; Nein,<lbr type="BD"/><lbr/>
+hier muß auch alles kurz se&#255;n &#8211; &#8211; wegen dem kirchenst&#255;l? &#8211; <lbr/>
+nichts weniger.<lbr type="BD"/> sondern weil man hier <u>iezt</u> be&#255; dermaligen um<pc force="weak">=</pc><lbr/>ständen hauptsehlich für die<lbr type="BD"/>&#160;<rend class="latin">istromenti</rend> schreiben muß, weil man<lbr/>
+sich nichts schlechters gedencken ka<abbr type="topline" expand="nn">n</abbr>, als<lbr type="BD"/> die hiesige <rend class="latin">Vocal</rend>=sti<abbr type="topline" expand="mm">m</abbr>en.<lbr/>
+6 <rend class="latin">soprani</rend>, 6 <rend class="latin">alti</rend>, 6 <rend class="latin">tenori</rend>, und 6 <rend class="latin">Bassi</rend>, zu 20 <rend class="latin">violin</rend><lbr type="BD"/> und 12 <rend class="latin">Bassi</rend>,<lbr/>
+verhält sich just wie 0 zu 1. nicht wahr h<abbr type="curve">:</abbr>&#160;<rend class="latin">Bullinger</rend>? &#8211; &#8211; <lbr type="BD"/><lbr/>
+dieß ko<abbr type="topline" expand="mm">m</abbr>t daher. die wälschen sind hier iezt <rend class="latin">miserable</rend> angeschrieben.<lbr/>
+sie<lbr type="BD"/> haben nur 2 <rend class="latin">Castraten</rend> hier, und die sind schon alt. ma<abbr type="topline" expand="nn">n</abbr><lbr/>
+läst sie halt absterben. der <rend class="latin">Sopranist</rend> möchte schon auch lieber<lbr/>
+den <rend class="latin">alt</rend> singen. er ka<abbr type="topline" expand="nn">n</abbr> nicht<lbr type="BD"/> mehr hinauf. die etliche buben die<lbr/>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="3"/>
+sie haben sind elendig. die <rend class="latin">tenor</rend> und<lbr type="BD"/>&#160;<rend class="latin">Bass</rend> wie be&#255; uns die todten<pc force="weak">=</pc><lbr/>singer. der h<abbr type="curve">:</abbr>&#160;<rend class="latin">vice</rend>=kapellmeister <u><persName key="37299">Vogler</persName></u> der neülich das A<abbr type="topline" expand="mm">m</abbr>t<lbr/>
+machte, ist ein eder Musickalischer spaß=macher. ein<lbr type="BD"/> Mensch der<lbr/>
+sich recht viell einbildet und nicht viell ka<abbr type="topline" expand="nn">n</abbr>. das ganze <rend class="latin">orchestre</rend><lbr type="BD"/><lbr/>
+mag ihn nicht. heüt aber als So<abbr type="topline" expand="nn">n</abbr>tag habe ich eine Messe vom<lbr/>
+<persName key="38790">Holzbauer</persName><lbr type="BD"/> gehört, die schon 26 jahr alt ist, und aber recht gut ist.<lbr/>
+er schreibt sehr gut.<lbr type="BD"/> einen guten kirchen=st&#255;l. einen guten saz<lbr/>
+der <rend class="latin">vocal</rend>=sti<abbr type="topline" expand="mm">m</abbr>en und <rend class="latin">instrumenten</rend>; und gute <rend class="latin">fugen</rend>. 2 <rend class="latin">orga<pc force="weak">=</pc><lbr/>nisten</rend> haben sie hier, wo es der mühe werth<lbr type="BD"/> wäre eigenst nach Ma<abbr type="topline" expand="nn">n</abbr><pc force="weak">=</pc><lbr/>heim zu reisen. ich habe gelegenheit gehabt sie recht<lbr type="BD"/> zu hören, de<abbr type="topline" expand="nn">n</abbr><lbr/>
+hier ist es nicht üblig das man ein <rend class="latin">Benedictus</rend> macht, sondern<lbr type="BD"/> der<lbr/>
+<rend class="latin">organ[ist]</rend> muß dort allzeit spiellen. das erstemahl habe ich den<lbr/>
+zwe&#255;ten<lbr type="BD"/> gehört, und das andertemahl den ersten. ich schätze<lbr/>
+aber nach meiner meynung<lbr type="BD"/> den 2:<h>ten</h> noch mehr als den ersten. de<abbr type="topline" expand="nn">n</abbr><lbr/>
+wie ich ihn gehört habe, so fragte<lbr type="BD"/> ich, wer ist der, welcher die <rend class="latin">orgl</rend> schlägt? &#8211; <lbr/>
+unser 2:<h>ter</h>&#160;<rend class="latin">organist</rend>. er schlagte<lbr type="BD"/>&#160;<rend class="latin">miserable</rend>. wie ich den andern hörte,<lbr/>
+wer ist de<abbr type="topline" expand="nn">n</abbr> der? &#8211; &#8211; unser erster. der<lbr type="BD"/> schlagte noch <rend class="latin">miserabl</rend>er.<lbr/>
+ich glaub we<abbr type="topline" expand="nn">n</abbr> ma<abbr type="topline" expand="nn">n</abbr> sie zusa<abbr type="topline" expand="mm">m</abbr>en stöste, so<lbr type="BD"/> würde noch was schlechters<lbr/>
+heraus ko<abbr type="topline" expand="mm">m</abbr>en. es ist zum todlachen diesen<lbr type="BD"/> herrn zuzusehen. der<lbr/>
+zwe&#255;te ist be&#255; der <rend class="latin">orgl</rend> wie das kind be&#255;m dreck;<lbr type="BD"/> man sieht<lbr/>
+ihm seine kunst schon im gesichte an. der erste hat doch brüllen<lbr type="BD"/> auf.<lbr/>
+ich bin zur <rend class="latin">orgl</rend> hingestanden, und habe ihm zugesehen in der absicht<lbr type="BD"/><lbr/>
+ihm etwas abzulernen; er hebt die hände be&#255; einer jeden Note in alle<lbr/>
+höhe<lbr type="BD"/> auf. was aber seine <rend class="latin">force</rend> ist, ist daß er 6 sti<abbr type="topline" expand="mm">m</abbr>ig spiellt, meisten<pc force="weak">=</pc><lbr/>theils aber<lbr type="BD"/>&#160;<rend class="latin">quint</rend>=sti<abbr type="topline" expand="mm">m</abbr>ig und <rend class="latin">octav</rend>sti<abbr type="topline" expand="mm">m</abbr>ig. er läst auch oft für<lbr/>
+spass die rechte Hand<lbr type="BD"/> aus, und spiellt mit der lincken ganz alleine,<lbr/>
+mit einem worte, er ka<abbr type="topline" expand="nn">n</abbr> machen<lbr type="BD"/> was er will, er ist völlig herr über<lbr/>
+seine <rend class="latin">orgl</rend>.<lbr type="forced"/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="4"/>
+die Mama läst der <amend value="">der</amend> Na<abbr type="topline" expand="nn">n</abbr>erl sagen, daß das futter zum Rock in<lbr/>
+grossen<lbr type="BD"/> kasten, rechterhand, und völlig unten liegt; es werden aller<pc force="weak">=</pc><lbr/>hand fleck drauf<lbr type="BD"/> liegen. schwarze, weisse, gelbe, braune, rothe,<lbr/>
+grüne, blaue <rend class="latin">Etc</rend>: die Mama<lbr type="BD"/> empfehlet sich allerseits. sie ka<abbr type="topline" expand="nn">n</abbr> ohn<pc force="weak">=</pc><lbr/>möglich schreiben, de<abbr type="topline" expand="nn">n</abbr> sie muß noch ihr<lbr type="BD"/>&#160;<rend class="latin">officium</rend> betten. wir sind<lbr/>
+gar spätt von der grossen <rend class="latin">opera</rend> Prob nach haus geko<abbr type="topline" expand="mm">m</abbr>en.<lbr/>
+das baumwoll=gaden ist keins in schleichen, sondern in kneil oder<lbr type="BD"/><lbr/>
+knal oder knul, und in einen blauen Tüchel eingebunden.<lbr/>
+ja, so ist es und nicht<lbr type="BD"/> anderst. Morgen muß ich nach dem Hocha<abbr type="topline" expand="mm">m</abbr>t<lbr/>
+zu der gestrengen frau Churfürstin, sie will mir <rend class="latin">absolument</rend><lbr/>
+<rend class="latin">filée</rend> stricken lehren; ich habe völlig sorg darauf, de<abbr type="topline" expand="nn">n</abbr> so wohl<lbr/>
+sie als auch der Edlveste h<abbr type="curve">:</abbr> Churfürst will daß ich schon<lbr/>
+künftigem do<abbr type="topline" expand="nn">n</abbr>erstag abends in der großen <rend class="latin">galla</rend> schla<rend class="latin">cademie</rend><lbr/>
+öfentlich stricken<lbr type="BD"/> soll. die jungf: Prinzessin hier, welche ein<lbr/>
+beschissens kind zur Churfürstin ist,<lbr type="BD"/> strickt auch selbst recht hübsch;<lbr/>
+um 8 uhr <rend class="latin">Puncto</rend> • ist der zweenbruck und<lbr type="BD"/> seine zwobrückin hier<lbr/>
+angelanget. <rend class="latin">appropós</rend>. Meine mama und ich bitten den<lbr type="BD"/> Papa recht<lbr/>
+schön, sie möchten doch die güte haben, und unserer lieben baase<lbr type="BD"/><lbr/>
+ein angedencken schicken. de<abbr type="topline" expand="nn">n</abbr> wir haben alle zwe&#255; bedauret daß<lbr/>
+wir nichts<lbr type="BD"/> be&#255; uns haben, aber versprochen dem Papa zu schreiben<lbr/>
+das er ihr was schickt.<lbr type="BD"/> aber zwe&#255;erle&#255; sachen. in <amend value="namen">mamen</amend><lbr/>
+der Mama ein so doppel düchel wie die<lbr type="BD"/> Mama eins hat, und<lbr/>
+im namen meiner eine <rend class="latin">galanterie</rend>. eine dose, oder Zahnstockerbüchsl <rend class="latin">etc</rend>:<lbr/>
+oder was es ist, wen es nur schön ist; de<abbr type="topline" expand="nn">n</abbr> sie verdient es.<lbr type="BD"/> sie und ihr<lbr/>
+h<abbr type="curve">:</abbr> vatter haben sich vielle Mühe gegeben, und vielle Zeit mit<lbr type="BD"/> uns ver<pc force="weak">=</pc><lbr/>loren. der h<abbr type="curve">:</abbr> vetter hat be&#255;m <rend class="latin">Concer</rend>t das Geld eingenomen. <rend class="latin">addio</rend>.<lbr type="BD"/><lbr/>
+<rend class="latin">Baccio le mani di vostra Paternità, ed abbraccio con leggiertà la mia<lbr/>
+sorella,<lbr type="BD"/> e faccendo i miei complimenti da per tutto sono di tutto Cuore<lbr/>
+Wolfgango<lbr type="BD"/> Amadeo Mozart. Ma<abbr type="topline" expand="nn">n</abbr>heim li 4 di Nov:<h>bre</h></rend> 1777<lbr type="forced"/>
+<pg n="5"/>
+<add_ident schr_id="57010"><ts>______________________________________________</ts>4. Nov 77</add_ident>
+<NS type="NS" schr_id="48815">
+ein gewisser <rend class="latin"><persName key="0">Singnor gervasio</persName></rend> und <persName key="0">seine frau</persName>, welche<lbr/>
+dich von holland aus<lbr type="BD"/> keneten, last dir graduliren<lbr/>
+zu <persName key="0">dein<abbr v="en"/>&#160;<rend class="latin">virtuosen</rend> Sohn</persName>, er spillet <rend class="latin">Mandolin<abbr v="en"/></rend> und<lbr type="BD"/><lbr/> 
+sie Singt, sie hab<abbr v="en"/> heuet ein <rend class="latin">Consert</rend> geb<abbr v="en"/>. unsere<lbr/>
+Empfehlung<abbr v="en"/> an ganz<lbr type="BD"/> Salzburg, absonderlich an<lbr/>
+unsere wahr<abbr v="en"/> freinde, <persName key="73681">herr Bullinger</persName> und <persName key="76017">Jungfer<lbr type="BD"/><lbr/>
+<rend class="latin">Sallerl</rend></persName>.</NS><lbr type="forced"/>
+<add_ident schr_id="64391">Von Mozarts Mutter:<lbr/>
+<u><rend class="latin">Maria<abbr type="topline" expand="nn">n</abbr>a Mozart</rend>.</u></add_ident><lbr type="forced"/>
+<NS type="NS" schr_id="39409"><tshtm>______________</tshtm><persName key="75091"><rend class="latin">gilowsky</rend> katherl</persName>, <persName key="83829">fr: <rend class="latin">v</rend>: gerlisch</persName>, <persName key="75512">h: von heffner</persName>,<lbr/>
+<persName key="0">fr: <rend class="latin">v</rend>: heffner</persName>, <persName key="84670">fr: <rend class="latin">v</rend>: schidenhofen</persName>, <persName key="83859">h<abbr type="curve">:</abbr> geschwendner</persName>, <persName key="0">h<abbr type="curve">:</abbr><lbr/>
+Sandner</persName> und alle die gestorben sind. die <u>scheiben,</u><lbr type="BD"/><lbr/>
+wens es nicht zu spät ist, bitte ich mir so aus. ein kleiner<lbr/>
+Mensch mit lichten<lbr type="BD"/> haaren steht gebückt da, und zeigt<lbr/>
+den blosen arsch her. aus seinen Mund<lbr type="BD"/> gehen die wort.<lbr/>
+<u>guten <rend class="latin">appetit</rend> zum schmaus.</u> der andere wird gemacht,<lbr/>
+in<lbr type="BD"/> stiefl und sporn, ein roths kleid, eine schöne <rend class="latin">Perücke</rend><lbr/>
+nach der Mode; er muß<lbr type="BD"/> von mitterer grösse se&#255;n. er<lbr/>
+wird in der <rend class="latin">Positur</rend> vorgestellt wie er den andern<lbr type="BD"/> just<lbr/>
+im arsch leckt. aus seinen Mund gehen die worte.<lbr/>
+<u>ach, da geht man<lbr type="BD"/> drüber N'aus.</u> so, ich bitte.<lbr/>
+we<abbr type="topline" expand="nn">n</abbr> es diesemahl nicht se&#255;n ka<abbr type="topline" expand="nn">n</abbr>, ein andermahl.</NS><lbr type="forced"/>
+<add_ident schr_id="64391">Von <u><rend class="latin">W. A. Mozarts</rend></u><lbr/>hand.</add_ident><lbr/>
+<pg n="6"/>
+<anschrift><rend class="latin">À Monsieur</rend><lbr type="forced"/>
+<add_note>frei <rend class="latin">Augspurg</rend></add_note>
+<rend class="latin">Monsieur Leopold Mozart<lbr type="forced"/>
+Maitre de la Chapelle de<lbr type="BD"/> S. A. R.<lbr type="forced"/>
+L'archeveque de<lbr type="forced"/>
+à<lbr type="forced"/>
+<u>Salzbourg.</u></rend></anschrift>
+</letter>
+</text>
+</MUP>

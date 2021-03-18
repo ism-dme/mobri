@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2012">2012-12</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1086</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sl</bibl>
+            <bibl type="source" subtype="RISM">A-Sl (Landesarchiv)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:39:17 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_522.mup">
+<letter bd="522"><NI src="A-Sl"><HEADER id="1086">WOLFGANG AMADÉ MOZART AN FÜRSTERZBISCHOF HIERONYMUS GRAF VON COLLOREDO<lbr/><lbr type="BD"/>
+SALZBURG, VOR DEM 17. JANUAR 1779</HEADER>
+<pg n="1"/>
+<ts>_____________________</ts><tshtm>_____</tshtm>Ihro Hochfürstlich Gnaden!<lbr type="BD"/><lbr type="forced"/>
+<ts>________________</ts>Hochwürdigster des Heil: Röm<abbr type="curve">:</abbr> Reichs<lbr type="BD"/><lbr type="forced"/>
+<ts>______________________________</ts><tshtm>____________</tshtm>Fürst!<lbr type="BD"/><lbr type="forced"/>
+<ts>____________________</ts><tshtm>_____</tshtm>Gnädigster LandesFürst und<lbr type="BD"/><lbr type="forced"/>
+<ts>_____________________________</ts><tshtm>__________</tshtm>Herr Herr!<lbr type="forced"/>
+<lbr type="forced"/>
+Euer Hochfürstlich Gnaden <abbr expand="etc">p</abbr>: hatten die Höchste Gnade nach<lbr/>
+dem Absterben<lbr type="BD"/> des Cajetan Adlgassers in Höchstdero Dienste<lbr/>
+mich gnadigst anzunehmen: Bitte demnach unterthänigst<lbr/>
+als Höchstdero Hoforganisten mich gnädigst zu<lbr type="BD"/>&#160;<rend class="latin">decretie</rend>rn.<lbr/>
+dahin, als zu all andern Höchsten Hulden und Gnaden<lbr/>
+mich in<lbr type="BD"/> tiefester unterthänigkeit empfehle<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>____________</ts><tspdf>__________</tspdf>Euer Hochfürstlich Gnaden<lbr type="BD"/><lbr type="forced"/>
+<ts>_____</ts><tspdf>_____________</tspdf>meines gnädigsten LandesFürsten<lbr type="BD"/><lbr type="forced"/>
+<ts>____________________</ts><tspdf>______</tspdf>und Herrn Herrn<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>________________________________________________</ts><tspdf>\hfill </tspdf>unterthanigster und<lbr type="BD"/><lbr type="forced"/>
+<ts>____________________________________________</ts><tspdf>\hfill </tspdf>gehorsa<abbr type="topline" expand="mm">m</abbr>ster Wolfgang<lbr type="BD"/><lbr type="forced"/>
+<add_num type="inline"><ts>______________________________</ts>11.</add_num><ts>_______________</ts><tspdf>\hfill </tspdf>Amade Mozart.<lbr type="forced"/>
+<add_note><h>17</h>/1 779</add_note>
+<pg n="2"/>
+<vacat/>
+<pg n="3"/>
+<vacat/>
+<pg n="4"/>
+
+<anschrift>An<add_num type="inline"><ts>________________________________________________</ts>40</add_num><lbr type="forced"/>
+S:<h>e</h> Hochfürstlich Gnaden<lbr type="forced"/>
+Erzbischoffen zu Salzburg <abbr expand="etc">p</abbr><abbr expand="etc">p</abbr>:<lbr type="BD"/><lbr type="forced"/>
+<lbr type="forced"/>
+unterthänigstes und gehorsa<abbr type="topline" expand="mm">m</abbr>stes<lbr type="forced"/>
+Bitten<lbr type="forced"/>
+Wolfgang Amade Mozarts<lbr type="BD"/><lbr type="forced"/>
+<lbr type="forced"/>
+<ts>____________________</ts>um gnädigste<lbr type="forced"/>
+<ts>____________________</ts><rend class="latin">Decretie</rend>rung.</anschrift><lbr type="forced"/>
+<add_note><rend class="latin">Ex Decreto. Nostro</rend> 17<h><uu><rend class="latin">ma</rend></uu></h>&#160;<rend class="latin">Januar<abbr type="curve"></abbr></rend> 1779.<lbr/>
+Demnach Wir den Supplikanten zu Un<pc force="weak">-</pc><lbr/>seren Hof-Organisten mit deme gnädigst<lbr/>
+an= und aufgeno<abbr type="topline" expand="mm">m</abbr>en haben, daß derselbe<lbr/>
+gleich den Adelgasser seine aufhabende<lbr/>
+Verrichtungen sowohl in dem Dom, als bey Hof<lbr/>
+und in dem Kapellhauß mit embsigen Fleis<lbr/>
+ohnklagbahr versehe, auf den Hof und die<lbr/>
+Kirche nach Möglichkeit mit neüen von Ihme<lbr/>
+verfertigten Kompositionen bedienne;<lbr/>
+Als bestimmen demselben hiefür, gleich<lbr/>
+dessen Vorfahrern, einen jährlichen Gehalt<lbr/>
+pr <rend class="latin">VierHundert, und Fünzig Gulden</rend>,<lbr/>
+und befehlen unserem Hofzahlamt die<pc force="weak">=</pc><lbr/>selbe in monatlichen <rend class="latin">Ratis</rend> abzuführen,<lbr/>
+und gebührenden Orts in Rechnung <rend class="latin">per</rend><lbr/>
+Ausgab einzulegen.<lbr/>
+<lbr/>
+Hieronymus mp<lbr/>
+<lbr/>
+<rend class="latin">praes. ad Cameram</rend> den 25.<h>t<abbr v="en"/></h> Hornung <ovl>ao</ovl> 1779<lbr/>
+<rend class="latin">In Cons<h><uu>o</uu></h> Crae</rend>: 26. <rend class="latin">Eiusdem</rend><lbr/>
+<ts>_____</ts>Bescheid in <rend class="latin">Decret</rend>.</add_note></NI></letter>
+</text>
+</MUP>

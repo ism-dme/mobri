@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2009">2009-08-20</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=227</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:30:43 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/Doc1854_8_mup.txt">
+<HEADER id="227">LUIGI MARINONI AN CARL THOMAS MOZART IN MAILAND<lbr/>
+MAILAND, 20. NOVEMBER 1854</HEADER>
+
+
+<pg n="1"/>
+<add_num impl="ink"><rend class="latin">N<h><uu>o</uu></h></rend> 65</add_num><lbr/>
+
+<rend class="latin">Egregio Sig.<h>r</h> Professore ed<lbr type="forced"/>
+Amico Pregiatissimo<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____</ts>Con riserva di ragguagliarla dell’esito definitivo<lbr/>
+delle mie pratiche in Verona, non voglio intanto tardare a mani<pc force="weak">=</pc><lbr/>festarle i sentimenti della più viva gratitudine mia e della fa<pc force="weak">=</pc><lbr/>milia pel caldo impegno col quale ebbe a raccomandarmi al Cavaliere<lbr/>
+Boecking, da cui ottenni pronto indirizzo ed appoggio<lbr/>
+presso il Consigliere Relatore, avendone anche argomento a<lbr/>
+sperare che fin in breve ed in modo per me soddisfacente risolta<lbr/>
+la cosa.<lbr type="forced"/>
+<ts>_____</ts>Se la mia deferenza ed affezione per lei, abbiso<pc force="weak">=</pc><lbr/>gnasse d’incitamenti, certo me ne offrirebbe d’incomparabili il<lbr/>
+Patto d’amicizia di cui mi volle graziare, ma debbo confessarle<lbr/>
+sinceramente che nulla Le resta più da conquistare sull’ani<pc force="weak">=</pc><lbr/>mo mio a Lei devotissimo.<lbr type="forced"/>
+<ts>_____</ts>Accolga i nostri più cordiali saluti ed augurj e<lbr/>
+mi creda a tutto quore per<lbr type="forced"/>
+<lbr type="forced"/>
+Milano 20. Nov.<h>e</h> 1854.<ts>___________________</ts><tspdf>\hfill </tspdf>L’Obblig.<h>o</h> Suo A.<h>o</h><lbr type="forced"/>
+<ts>______________________________________________________</ts><tspdf>\hfill </tspdf>D.<h>r</h> Luigi Marinoni</rend>
+<pg n="2"/>
+<vacat/>
+<pg n="3"/>
+<vacat/>
+<pg n="4"/>
+<anschrift rot="90"><rend class="latin">All’Egregio Sig.<h>re</h><lbr type="forced"/>
+Il Sig.<h>r</h> Prof.<h>e</h> Carlo Mozart</rend><lbr type="forced"/>
+<rend class="latin"><corr type="stroke" hand="diff" value="partito p Milano">Olgiate per</corr></rend><lbr type="forced"/>
+<corr type="stroke"><rend class="latin">Caversaccio</rend></corr><lbr type="forced"/>
+<rend class="latin"><corr type="stroke" hand="diff" value="Strada della Cavalchina N° 1419"> prov<h>a</h> di Como</corr></rend>
+</anschrift><lbr type="forced"/>
+
+<object type="stamp" price="15 centesimi"></object><lbr type="forced"/>
+<lbr type="forced"/>
+<add_seal type="post">COMO<lbr type="forced"/>
+<formula type="mfrac"><mn>21</mn><mi>11</mi></formula></add_seal><lbr type="forced"/>
+
+<add_seal type="post">MILANO<lbr type="forced"/>
+<formula type="mfrac"><mn>24</mn><mi>11</mi></formula></add_seal><lbr type="forced"/>
+
+<add_seal type="post">MILANO<lbr type="forced"/>
+<formula type="mfrac"><mn>26</mn><mi>11</mi></formula></add_seal><lbr type="forced"/>
+
+<add_seal type="post">PORTALETTERE<lbr type="forced"/>
+I. DISTRIBUZIONE</add_seal>
+</text>
+</MUP>

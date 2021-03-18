@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2013">2013-9</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1162</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:39:42 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_596.mup">
+<letter bd="596"><HEADER id="1162">WOLFGANG AMADÉ MOZART AN LEOPOLD MOZART IN SALZBURG<lbr/>
+WIEN, 16. MAI 1781</HEADER>
+<pg n="1"/>
+<add_num type="inline" impl="pencil"><u>94</u></add_num><ts>____</ts><tshtm>____________________________________________________________________</tshtm><tspdf>\hfill </tspdf><rend class="latin"><u>vienne</u> ce</rend> 16 <rend class="latin">de may</rend><lbr type="forced"/>
+<rend class="latin">Mon trés cher Pére!</rend><ts>______</ts><tshtm>________________________________________________________________</tshtm><tspdf>\hfill </tspdf><u>1781</u>.<lbr type="forced"/>
+<lbr type="forced"/>
+Ich ko<abbr type="topline" expand="nn">n</abbr>te es nie anders vermuthen, als daß sie in der ersten Hitze,<lbr/>
+da der<lbr type="BD"/> falle |: da sie mich schon ganz gewis erwarteten :| dermalen zu<lbr/>
+überaschend<lbr type="BD"/> für sie war, alles das so hinschreiben werden, wie ich<lbr/>
+es wirklich lesen<lbr type="BD"/> musste. &#8211; Nun haben sie aber der sache besser nach<pc force="weak">=</pc><lbr/>gedacht, fühlen als ein<lbr type="BD"/> Ma<abbr type="topline" expand="nn">n</abbr> von Ehre die Beleidigung stärker &#8211; <lbr/>
+<add_note schr_id="57010"><ts>__________________________________________________________________________</ts>Sie im Sinne</add_note>
+wissen und sehen ein daß nun das<lbr type="BD"/>Jenige was <encr expand="sie im sinne gehabt">ofl fa ofnnl gl=</encr><lbr/>
+<add_note schr_id="57010">gehabt<ts>__</ts>nicht erst geschehen muß, sondern schon geschehen ist.</add_note>
+<encr expand="&#8211; nicht erst geschehen muss, sondern schon geschehen ist.">umbt &#8211; nfcut lrot gloculhln ahoo, osndlrn ocusn gloculhln fot.</encr><lbr/>
+<add_note schr_id="57010"><ts>___</ts>In Salzburg ist<ts>____</ts>es immer schwerer los zu kommen. dort</add_note>
+&#8211; <encr expand="in salzburg ist so schwer los zu kommen &#8211; dort">fn omezbhrg fst lo faalr ocuwlrlr eso zh ksaaln &#8211; dsrt</encr><lbr type="BD"/><lbr/>
+<add_note schr_id="57010">ist er Herr, hier aber<ts>___</ts>fex,<ts>__</ts>so wie ich es bei ihm bin.</add_note>
+<encr expand="ist er herr, aber hier">fot lr ulrr, uflr mblr</encr> &#8211; <u><encr expand="fex">ilx</encr></u>, <encr expand="so wie ich es bey ihm bin">os wfl fcu lo bl&#255; fua bfn</encr>.<lbr/>
+&#8211; und da<abbr type="topline" expand="nn">n</abbr> &#8211; glauben<lbr type="BD"/> sie mir sicher, ich kenne sie, und ke<abbr type="topline" expand="nn">n</abbr>e mein<lbr/>
+<add_note schr_id="57010">gutes Herz<ts>___________</ts>der Erzbischof<ts>________</ts>hätte mir</add_note>
+<encr expand="gutes herz">ghtlo ulrz</encr> für sie. &#8211; <encr expand="der erzbischof hätte mir">dlr lrzbfocusi um"ttl afr</encr> etwa ein<lbr/>
+<add_note schr_id="57010"><ts>___</ts>Paar 100<ts>______</ts>Gulden mehr gegeben</add_note>
+<encr expand="paar hundert Gulden mehr gegeben">pmmr uhndlrt Ghedln alur glglbln</encr>, und<lbr type="BD"/> ich &#8211; ich hätte<lbr/>
+<add_note schr_id="57010"><ts>______________________________________________</ts>die<ts>___</ts>alte<ts>_____________</ts>Histori.</add_note>
+es gethan, und da wäre wider <encr expand="die alte histori">dfl metl ufotsrf</encr>. &#8211; <lbr type="forced"/>
+glauben sie mir, mein bester vatter, daß ich alle Mä<abbr type="topline" expand="nn">n</abbr>liche stärke<lbr/>
+brauche,<lbr type="BD"/> um ihnen das zu schreiben was die vernunft befiehlt &#8211; <lbr/>
+Gott weis es, wie<lbr type="BD"/> schwer es mir fehlt, von ihnen zu gehen; &#8211; aber<lbr/>
+sollte ich betteln gehen, so<lbr type="BD"/> möchte ich keinem solchen Herrn mehr<lbr/>
+dienen &#8211; de<abbr type="topline" expand="nn">n</abbr>, das ka<abbr type="topline" expand="nn">n</abbr> ich mein<lbr type="BD"/> lebetag nicht mehr vergessen.<lbr/>
+&#8211; und &#8211; ich bitte sie, ich bitte sie um alles in<lbr type="BD"/> der welt stärcken<lbr/>
+sie mich in diesem Entschluß, anstatt daß sie mich davon<lbr type="BD"/> abzu<pc force="weak">=</pc><lbr/><add_note schr_id="57010"><ts>_________________________________________________________________________________</ts>Wunsch</add_note>
+bringen suchen. &#8211; sie machen mich unthätig &#8211; de<abbr type="topline" expand="nn">n</abbr>, Mein <encr expand="Wunsch">Whnocu</encr>,<lbr type="BD"/><lbr/>
+<add_note schr_id="57010">und meine Hofnung mir<ts>____</ts>Ehre<ts>____</ts>Ruhm<ts>____</ts>Geld</add_note>
+und <encr expand="meine hofnung">alfnl usinhng</encr> ist &#8211; <encr expand="mir Ehre, Rhum">afr lurl, Rhua</encr> und <encr expand="Geld">Gled</encr> zu machen,<lbr/>
+<add_note schr_id="57010"><ts>______________________________________________________</ts>in Wien mehr nüzlich</add_note>
+und<lbr type="BD"/> ich hoffe gewis daß ich ihnen <encr expand="in Wien mehr nützlich">fn Wfln alur nh"tzefcu</encr> se&#255;n ka<abbr type="topline" expand="nn">n</abbr>, als<lbr/>
+<add_note schr_id="57010">in<ts>_________</ts>Salzburg.<ts>___</ts>der Weg nach Prag</add_note>
+<encr expand="in salzburg">fn omezbhrg</encr>. &#8211; <encr expand="der Weeg nach Prag">dlr Wllg nmcu Prmg</encr> ist mir izt weniger<lbr/>
+<add_note schr_id="57010"><ts>________________________________________</ts>in<ts>__________</ts>Salzburg wäre.</add_note>
+verschlossen, als wen<lbr type="BD"/> ich <encr expand="in salzbrug wäre">fn omezbhrg wm"rl</encr>. &#8211; was sie wegen den<lbr/>
+<encr expand="Weberischen schreiben">Wlblrfoculn ocurlfbln</encr>, ka<abbr type="topline" expand="nn">n</abbr><lbr type="BD"/> ich sie versichern, daß es nicht so ist &#8211; <lbr/>
+<add_note schr_id="57010">Weberischen schreiben,</add_note>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="2"/>
+<add_note schr_id="57010"><ts>______________</ts>Langinn</add_note>
+be&#255; der <encr expand="Langin">Emngfn</encr> war ich ein Narr, das<lbr type="BD"/> ist wahr, aber was ist man nicht<lbr/>
+<add_note schr_id="57010"><ts>________________</ts>verliebt ist</add_note>
+we<abbr type="topline" expand="nn">n</abbr> man <encr expand="verliebt ist">vlreflbt fot</encr>! &#8211; Ich liebte sie aber<lbr type="BD"/> in der that, und fühle<lbr/>
+daß sie mir noch nicht gleichgültig ist &#8211; und ein glück<lbr type="BD"/> für mich, daß<lbr/>
+ihr Ma<abbr type="topline" expand="nn">n</abbr> ein E&#255;fersichtiger Narr ist, und sie nirgends hinlässt, und<lbr/>
+ich sie also selten zu sehen beko<abbr type="topline" expand="mm">m</abbr>e. &#8211; glauben sie mir sicher,<lbr/>
+<add_note schr_id="57010"><ts>_______________________________</ts>Weber<ts>________________</ts>dienstfertige Frau</add_note>
+daß<lbr type="BD"/> die alte <rend class="latin">Mad:<h>me</h></rend>&#160;<encr expand="weber">wlblr</encr> eine sehr <encr expand="dienstfertige frau">dflnotilrtfgl irmh</encr> ist,<lbr/>
+und, daß ich ihr<lbr type="BD"/>&#160;<rend class="latin">à proportion</rend> ihrer dienstfertigkeit nicht genug<lbr/>
+entgegen erweisen ka<abbr type="topline" expand="nn">n</abbr>, de<abbr type="topline" expand="nn">n</abbr><lbr type="BD"/> ich habe die Zeit nicht dazu. &#8211; <lbr type="forced"/>
+Nun erwarte ich mit sehnsucht ein schreiben von ihnen, Mein<lbr/>
+Bester, liebster<lbr type="BD"/> vatter &#8211; heitern sie ihren sohn auf, de<abbr type="topline" expand="nn">n</abbr>,<lbr/>
+nur der gedancke, ihnen zu mis=<lbr type="BD"/>fallen, kann ihn mitten<lbr/>
+unter seinen gut aus=sehenden umständen unglücklich<lbr type="BD"/> machen.<lbr/>
+<rend class="latin">Adieu</rend> &#8211; leben sie tausendmal wohl, ich bin Ewig &#8211; und<lbr/>
+küsse ihn<lbr type="BD"/> 1000mal die hände als ihr<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>________</ts><tshtm>____________________________________________________</tshtm><tspdf>\hfill </tspdf>gehorsamster Sohn<lbr type="BD"/><lbr type="forced"/>
+<ts>________</ts><tshtm>__________________________________________________</tshtm><tspdf>\hfill </tspdf>W: A: Mzt <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<lbr type="forced"/>
+<postxt loc="bot"><rend class="latin">P. S:</rend> we<abbr type="topline" expand="nn">n</abbr> sie etwa glauben <u>kö<abbr type="topline" expand="nn">n</abbr>ten</u>,<lbr/>
+ich se&#255; nur aus hasse gegen Salzburg<lbr/>
+und, aus <u>unvernünftiger</u> liebe gegen Wien<lbr/>
+hier &#8211; so erkundigen sie sich &#8211; <lbr/>
+<add_note schr_id="57010"><ts>____________</ts>Strack</add_note>
+h<abbr type="curve">:</abbr>&#160;<rend class="latin">v:</rend>&#160;<u><encr expand="strack">otrmck</encr></u> &#8211; der mein sehr guter<lbr/>
+freund ist, wird ihnen als ein Ehrlicher Ma<abbr type="topline" expand="nn">n</abbr><lbr/>
+gewis die Wahrheit schreiben. &#8211; </postxt>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+</letter>
+</text>
+</MUP>

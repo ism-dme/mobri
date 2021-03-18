@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2015">2015-9</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=2040</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:42:38 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_1456.mup">
+<letter bd="1456"><HEADER id="2040">CONSTANZE NISSEN AN ALBERT STADLER IN WELS<lbr/>
+SALZBURG, 10. JANUAR 1836</HEADER>
+<pg n="1"/>
+<ts>_____</ts>Hochgeschätzter Freund!<lbr type="forced"/>
+<lbr type="forced"/>
+Mit nächstem PostWagen Erhalten Sie Ihr<lbr/>
+Bezahltes <rend class="latin">Exemplar</rend>, der Mozar<lbr type="BD"/>tischen Bio<pc force="weak">=</pc><lbr/>graphie, mit noch 10 zum weiteren Ver<suppl hand="#DME"><pc force="strong">=</pc></suppl><lbr/>kauf. Sie werden sich wun<lbr type="BD"/>deren ein<lbr/>
+so schönes Werck um diesen Preis zu<lbr/>
+<amend value="">zu</amend> beko<abbr type="topline" expand="mm">m</abbr>en allein ich<lbr type="BD"/> wünsche nur<lbr/>
+daß sie an würdige göner Mozart<lbr/>
+gelangen, wofür Sie gewiß<lbr type="BD"/> sorgen<lbr/>
+werden, und so ist den ganz zu<suppl hand="#DME"><pc force="strong">=</pc></suppl><lbr/>frieden Ihre ergebene Constanza<lbr type="forced"/>
+<ts>________________________________</ts><tspdf>\hfill </tspdf>von <rend class="latin">Nissen</rend><lbr type="forced"/>
+<lbr type="forced"/>
+Salzburg am<lbr type="forced"/>
+10 je<abbr type="topline" expand="nn">n</abbr>er 1836<lbr type="forced"/>
+<lbr type="forced"/>
+<pg n="2"/>
+Gerne wolte ich mehr schreiben<lbr/>
+allein ich habe eine Geliebte<lbr/>
+Krancke Schwester<lbr type="BD"/> und eine<lbr/>
+Krancke Magt und bin dahero<lbr/>
+nich sehr zum Briefschreiben<lbr/>
+auf<lbr type="BD"/>gelegt; nur noch so viel<lbr/>
+daß Sie inbetref der Lieder nicht irren, die in dieser<lbr type="BD"/> freude wie<lbr/>
+<postxt loc="rm" rot="90">Sie glauben</postxt>
+<postxt loc="rm" rot="180">componiert worden sind.</postxt><lbr type="forced"/>
+<lbr/>
+<anschrift rot="90" schr_id="60441">
+<u><rend class="latin">von Salzburg</rend></u><ts>__________</ts>von der Frau <rend class="latin">Etats=Räthin</rend><lbr type="forced"/>
+<ts>________________________</ts><tshtm>___________</tshtm><rend class="latin">v Nissen in Salzburg</rend><lbr type="forced"/>
+An<lbr type="forced"/>
+den Wohlgeboren<lbr type="forced"/>
+Herrn Albert <rend class="latin">Stadler</rend> k: k: Kreis<pc force="weak">=</pc><lbr type="forced"/><rend class="latin">Comissair</rend>,<lbr type="BD"/> Ehrenmitglied<lbr type="forced"/>
+des Obere<abbr type="topline" expand="nn">n</abbr>sischen Musikvereines<lbr type="forced"/>
+in<lbr type="forced"/>
+<u>Wels</u></anschrift><lbr type="forced"/>
+<lbr/>
+<add_seal type="post">SALZBURG<lbr/>
+10. JAN:</add_seal>
+</letter>
+</text>
+</MUP>

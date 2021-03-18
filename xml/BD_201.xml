@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2011">2011-05</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=762</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">D-B</bibl>
+            <bibl type="source" subtype="RISM">D-B (Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Musikabteilung mit Mendelssohn-Archiv)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:37:16 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_201.mup">
+<letter bd="201"><NI src="D-B"><HEADER id="762">LEOPOLD MOZART AN LORENZ HAGENAUER IN SALZBURG<lbr/>
+BOLOGNA, 28. JULI 1770<lbr/>
+mit Nachschrift von Wolfgang Amadé Mozart</HEADER>
+<pg n="1"/>
+<ts>________________________</ts><tshtm>___________________________________________________________</tshtm><tspdf>\hfill </tspdf><rend class="latin">Bologna</rend> d<abbr v="en"/> 28 <rend class="latin">Julij</rend><lbr type="forced"/>
+<ts>________________________</ts><tshtm>______________________________________________________________________________</tshtm><tspdf>\hfill </tspdf><uu>1770.</uu><lbr type="forced"/>
+<lbr type="forced"/>
+Wenn ich die Regeln der Wohlanständigkeit genau beobacht<abbr v="en"/> wollte,<lbr/>so<lbr type="BD"/>
+würde ich fre&#255;lich mich schäm<abbr v="en"/> müss<abbr v="en"/>, mit einem solch<abbr v="en"/> fresszettl zu<lbr/>
+erschein<abbr v="en"/>: allein, da ich versichert bin, daß sie nicht nach dem ausserlich<abbr v="en"/>,<lbr/>
+sondern, nach dem i<abbr type="topline" expand="nn">n</abbr>ern und wahr<abbr v="en"/> zu urtheil<abbr v="en"/> gewohnt sind; so nehme<lbr/>
+kein<abbr v="en"/> Anstand, ihn<abbr v="en"/> auf diesem klein<abbr v="en"/> Blat tausendfaches Vergnüg<abbr v="en"/>,<lbr type="BD"/> unzahl<pc force="weak">=</pc><lbr/>bare Jahre, und vor allem eine beständige gute Gesundheit nicht nur<lbr type="BD"/> zu<lbr/>
+dero NahmensFest, sond<abbr v="ern"/> zu all<abbr v="en"/> Zeit<abbr v="en"/>, aus redlichem Herz<abbr v="en"/> anzuwünsch<abbr v="en"/>,<lbr/>
+und mich sa<abbr type="topline" expand="mm">m</abbr>t all<abbr v="en"/> den meinig<abbr v="en"/> in dero uns so werthe und<lbr type="BD"/> schätzbare<lbr/>
+freundschaft bestens zu empfehlen. Gott erhalte sie zum Trost<lbr type="BD"/> und sicher<abbr v="en"/><lbr/>
+grossen vergnüg<abbr v="en"/> dero besten frau<abbr v="en"/> Gemahlin |: der mich sonderheitl:<lbr/>
+empfehle :| und zum nothwendig<abbr v="en"/> Be&#255;stand ihrer lieb<abbr v="en"/> Kinder, von<lbr/>
+den<abbr v="en"/> sie nichts als Ehre, freude und vergnüg<abbr v="en"/> zu hof<abbr v="en"/> hab<abbr v="en"/>. Ich empfehle<lbr/>
+mich nochmals in dero und dero geliebt<abbr v="en"/> fr: Gemahlin schätzbarste<lbr type="BD"/> freund<pc force="weak">=</pc><lbr/>schaft und <suppl hand="self" pos="supra">bin</suppl> mit ohnabänd<abbr v="er"/>licher Hochschätzung<lbr type="forced"/>
+<ts>_____________</ts><tshtm>__________________________________________________________</tshtm><tspdf>\hfill </tspdf>dero gehors<abbr type="curve">:</abbr> ergebenster<lbr type="forced"/>
+<ts>_____________</ts><tshtm>__________________________________________________________</tshtm><tspdf>\hfill </tspdf>dermal hinckender fr: <abbr expand="und">u</abbr> dr.<lbr type="forced"/>
+<ts>_____________</ts><tshtm>__________________________________________________________________________</tshtm><tspdf>\hfill </tspdf><u>Mozart mp</u><lbr type="forced"/>
+<NS type="NS" schr_id="39409">Ich schlief auch unter die Zahl der <rend class="latin">gratulanten</rend> hinein, und bekräfti<pc force="weak">=</pc><lbr/>ge alles<lbr type="BD"/> was mein lieber vatter ganz gewiß, aufrichtig gewunschen<lbr/>
+hat, und empfehle<lbr type="BD"/> mich ihnen und der lieben fr: Hagenauerin<lbr/>
+als dero<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>______________________________________________________</ts><tspdf>\hfill </tspdf>gehorsamster diener<lbr type="forced"/>
+<ts>__________________</ts><tshtm>____________________________________</tshtm><tspdf>\hfill </tspdf><rend class="latin">Wolfgango amadeo Mozart mp</rend></NS>
+<add_seal type="owner">Ex<lbr/>Bibl. Regia<lbr/>Berolin.</add_seal>
+<pg n="2"/>
+<anschrift rot="90"><rend class="latin">À Monsieur<lbr type="forced"/>
+Monsieur Lorence Hagenauer<lbr type="forced"/>
+à<lbr type="forced"/>
+<u>Salzbourg</u></rend></anschrift></NI></letter></text>
+</MUP>

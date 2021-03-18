@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2011">2011-05</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=783</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:37:25 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_222.mup">
+<letter bd="222"><HEADER id="783">LEOPOLD MOZART AN MARIA ANNA MOZART IN SALZBURG<lbr/>
+MAILAND, 8. DEZEMBER 1770</HEADER>
+<pg n="1"/>
+<ts>_________________</ts><tshtm>_________________________________________________</tshtm><tspdf>\hfill </tspdf>Ma&#255;land d<abbr v="en"/> 8<h>t<abbr v="en"/></h>&#160;<rend class="latin">Dec<abbr type="curve">:</abbr></rend> 1770<lbr type="forced"/>
+<lbr type="forced"/>
+Heut ist nach bethleitt<abbr v="en"/> die 2<h>te</h>&#160;<rend class="latin">Recitativ</rend> Probe. die erste Probe gieng so<lbr/>
+gut,<lbr type="BD"/> daß man nur ein einzigsmahl die fed<abbr v="er"/> in die hande nahm um ein<abbr v="en"/> einzig<abbr v="en"/><lbr/>
+buchstab<abbr v="en"/> zu änd<abbr v="ern"/> und <u><rend class="latin">della</rend></u> in <u><rend class="latin">dalla</rend></u> zu veränd<abbr v="ern"/>. dieß machte dem <rend class="latin">Copi</rend>st<abbr v="en"/><lbr/>
+Ehre, und be&#255; all<abbr v="en"/> erweckte es verwunderung: indem man sonst |: wie<lbr type="BD"/> alle sagt<abbr v="en"/> :|<lbr/>
+an all<abbr v="en"/> Ort<abbr v="en"/> eine erstaunliche menge worte und Nott<abbr v="en"/> änd<abbr v="ern"/><lbr type="BD"/> muste.<lbr type="forced"/>
+Ich wünsche, daß es be&#255; den Instrumentalprob<abbr v="en"/> auch so gehe, die, da<lbr type="BD"/> du<lbr/>
+diesen brief empfängst, vielleicht schon werd<abbr v="en"/> angefang<abbr v="en"/> hab<abbr v="en"/>. so viel<lbr type="BD"/> ich<lbr/>
+ohne vätterliche Parthe&#255;lichkeit sag<abbr v="en"/> ka<abbr type="topline" expand="nn">n</abbr>, finde, daß er die <rend class="latin">opera</rend> gut,<lbr/>
+und mit viellem Geist geschrieb<abbr v="en"/> hat. die Sänger sind gut. Nun ko<abbr type="topline" expand="mm">m</abbr>t<lbr/>
+es<lbr type="BD"/> aufs <rend class="latin">orchester</rend> an; und letzlich auf die <rend class="latin">Caprice</rend> der Zuhörer.<lbr/>
+folglich ko<abbr type="topline" expand="mm">m</abbr>t<lbr type="BD"/> auch vieles aufs glück an, so wie in einer <rend class="latin">Lotterie</rend>.<lbr type="forced"/>
+Was die <rend class="latin">Neapol</rend>: Strimpf<lbr type="BD"/> betrift, so sage dem h<abbr type="curve">:</abbr> von Mölk, nebst meiner<lbr/>
+gehors<abbr type="curve">:</abbr> Empf<abbr type="curve">:</abbr>, daß <u>die weiss<abbr v="en"/></u><lbr type="BD"/>&#160;<rend class="latin">Neapt<abbr type="curve"></abbr></rend>: Strimpf zwar stark, aber<lbr/>
+gar nicht schön sind. dessweg<abbr v="en"/> werd<abbr v="en"/> die<lbr type="BD"/> meist<abbr v="en"/> schwarz gefärbt. und ich<lbr/>
+zweifle gar nicht, er wird sie be&#255; h<abbr type="curve">:</abbr> Kerschbaumer find<abbr v="en"/>. hätte er<lbr/>
+mir, da in <rend class="latin">Neapl</rend> war, einige meldung gemacht, so<lbr type="BD"/> würde ihn bedient<lbr/>
+hab<abbr v="en"/>. doch, wie gesagt, die weiss<abbr v="en"/> sind grob, wie er,<lbr type="BD"/> we<abbr type="topline" expand="nn">n</abbr> nach hauß ko<abbr type="topline" expand="mm">m</abbr>e,<lbr/>
+seh<abbr v="en"/> wird, den ich trage einige. schwarze findet<lbr type="BD"/> man aller orten:<lbr/>
+ob sie aber würkl von <rend class="latin">Neapl</rend> sind, ist eine and<abbr v="er"/>e frage.<lbr type="BD"/> sie sind halt von<lbr/>
+einer gewiss gedräht<abbr v="en"/> seid<abbr v="en"/> gemacht, und das ka<abbr type="topline" expand="nn">n</abbr> man<lbr type="BD"/> aller ort<abbr v="en"/> nachmach<abbr v="en"/>.<lbr type="forced"/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal><lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="2"/>
+Was mein<abbr v="en"/> Brud<abbr v="er"/> betrift, kannst du durch h<abbr type="curve">:</abbr>&#160;<rend class="latin">Hagenauer</rend> anstalt mach<abbr v="en"/>,<lbr/>
+daß ihm h<abbr type="curve">:</abbr>&#160;<rend class="latin">Provino</rend>, oder iemand anderer <u>ein<abbr v="en"/>&#160;<rend class="latin">duccatt<abbr v="en"/></rend></u> in deinem<lbr/>
+Nahm<abbr v="en"/> giebt, als we<abbr type="topline" expand="nn">n</abbr> du es für dich selbst, ohne mich,<lbr type="BD"/> ihm geb<abbr v="en"/><lbr/>
+liessest. ich werde es gleich ersetz<abbr v="en"/>. ich schreibe dieß in Eyl. wir<lbr/>
+küss<abbr v="en"/> euch viel 10000000 mahl und bin dein alter<lbr type="forced"/>
+<ts>______________</ts><tshtm>__________________________________________________________</tshtm><tspdf>\hfill </tspdf>Mozart <abbr expand="manu propria"><rend class="latin">mp</rend></abbr><lbr type="forced"/>
+<lbr type="forced"/>
+Wir empfehl<abbr v="en"/> uns all<abbr v="en"/> gut<abbr v="en"/> freund<abbr v="en"/> und freundin<abbr v="en"/>, i<abbr type="topline" expand="nn">n</abbr> und ausser<lbr/><lbr type="BD"/>
+dem Hauße.<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____</ts>du warst mit meinem Brud<abbr v="er"/> <rend class="latin">generos</rend>!<lbr/>
+da<abbr type="topline" expand="nn">n</abbr> itzt habe dein<abbr v="en"/> brief erhalt<abbr v="en"/>.<lbr/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal><lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal></letter>
+</text>
+</MUP>

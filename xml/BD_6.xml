@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2019">2019-12</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=562</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Verbleib unbekannt (Nachweis: Friedrich Cohen, Catalog 98, 1900, Nr. 881)</bibl>
+            <bibl type="source" subtype="RISM">Verbleib unbekannt, Nachweis: Friedrich Cohen, Catalog 98, 1900, Nr. 881</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:36:15 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_6.mup">
+﻿<letter bd="6">
+<NI src="unbekannt">
+<HEADER id="562">LEOPOLD MOZART AN JOHANN JAKOB LOTTER IN AUGSBURG<lbr/>
+SALZBURG, 21. JULI 1755</HEADER>
+<pg n="1"/>
+<add_empf><ts>______________________________________________________________________________</ts>d<abbr v="en"/> 21 <rend class="latin">Julii</rend> 1755 aus <rend class="latin">Salzburg</rend><lbr/>
+ <ts>_______________________________________________________________________________________</ts>von h<abbr type="curve"></abbr> <rend class="latin">Leopold Mozart</rend></add_empf>
+<anschrift>Herren<lbr type="forced"/>
+Herren Johann Jacob Lotter<lbr type="forced"/>
+Buchdrucker und Buchhad<abbr type="curve">:</abbr><lbr type="forced"/>
+<ts>_______________</ts>in<lbr type="BD"/><lbr type="forced"/>
+<u>in Münch:</u><ts>_______________</ts><u>AugsPurg</u><lbr type="forced"/> 
+auf dem Rind=<ts>_______</ts>nebst dem weisen<lbr type="forced"/>
+markt.<ts>___________________</ts>Rössel<lbr type="forced"/></anschrift>
+<lbr type="forced"/>
+<ts>__________</ts><rend class="latin"><persName key="76865">Monsieur</persName> mon tres cher amy</rend><lbr type="forced"/>
+<ts>_____</ts>Bey dieser so guten Gelegenheit, da die <persName key="75368">Frau Hagenauerin</persName><lbr/>
+nach AugsPurg ab<lbr type="BD"/>reiset, muß ich sie belehren, wie sie mir sollen<lbr/>
+eine List ausführen helfen. Alle<lbr type="BD"/> meine geschwistert haben sich<lbr/>
+nun verheyrat; und iedes hat <rend class="latin">à Conto</rend> seiner Zukünftig<abbr v="en"/> Erb<pc force="weak">=</pc><lbr/>schaft von meiner <persName key="84658">Mutter</persName> 300 fl empfang<abbr v="en"/>. Nun möchte es<lbr type="BD"/> sich<lbr/>
+etwa ergeben, daß es mit d<abbr v="er"/> Zeit vor mich, da ich noch nichts<lbr/>
+empfang<abbr v="en"/><lbr type="BD"/> habe, sehr schlecht ausseh<abbr v="en"/> möchte: deßweg<abbr v="en"/> ist mir beyge<pc force="weak">=</pc><lbr/>fallen, daß ich<lbr type="BD"/> itzt die schönste Gelegenheit hatte auch 300 fl etwa<lbr/>
+herauszubekommen. Ich<lbr type="BD"/> hab deßweg<abbr v="en"/> bey meiner <persName key="84658">Mutter</persName>, sond<pc force="weak">=</pc><lbr/>heitl: aber beym <persName key="82851">h<abbr type="curve">:</abbr>&#160;<abbr expand="von">v</abbr> Rheling</persName> als<lbr type="BD"/> Oberpflegern eine Meldung<lbr/>
+gethan, und vorgespiegelt: daß ich <rend class="latin">absolute</rend> 300 fl<lbr type="BD"/> zu der Auf<pc force="weak">=</pc><lbr/>lage meines Buches nöthig habe, um durch dieses Kriegs=<rend class="latin">Stra<pc force="weak">=</pc><lbr/>tagema</rend><lbr type="BD"/> diese 300 fl herauszubring<abbr v="en"/>, sonst möchten sie heut<lbr/>
+od<abbr v="er"/> morg<abbr v="en"/> der Teufel<lbr type="BD"/> holl<abbr v="en"/>. gesetzt nun es ging ein Frage<lbr/>
+an sie: so müssen sie i<abbr type="topline" expand="mm">m</abbr>er sag<abbr v="en"/>: sie<lbr type="BD"/> wüßten noch nicht wie<lbr/>
+hoch es sich lauff<abbr v="en"/> würde, es könnte sich wohl auf<lbr type="BD"/> 300 fl belauff<abbr v="en"/>.<lbr/>
+weil sie das <rend class="latin">Mscrpt</rend> noch nicht alles hätt<abbr v="en"/>. dieß ist es, was<lbr type="BD"/><lbr/>
+<pg n="2"/>
+ich ihn<abbr v="en"/> sag<abbr v="en"/> wollte. Übrigens kö<abbr type="topline" expand="nn">n</abbr><abbr v="en"/> sie eine ziemliche quantität<lbr/>
+<rend class="latin">Mscrpt</rend><lbr type="BD"/> haben, ich würde solches auch mit dieser guten Gelegenheit<lbr/>
+ übermacht haben,<lbr type="BD"/> wenn sie mir letzlich nicht geschrieben hätten,<lbr/>
+ich sollte keins mehr schicken,<lbr type="BD"/> bis sie es nicht anverlang<abbr v="en"/>. Ich dachte<lbr/>
+auch, sie werden jetzt in München<lbr type="BD"/> sein; und auch etwa das Papier<lbr/>
+noch nicht haben: denn schwarzes Papier wäre<lbr type="BD"/> mir wohl untröstlich.<lbr/>
+Wenn es, gesetzter weise, nicht gar zwanzig Bogen<lbr type="BD"/> geben sollte, so<lbr/>
+wird es nur leichter zum verkaufen, allein es wird's, denk ich, <lbr type="BD"/><lbr/>
+noch gewiß geb<abbr v="en"/>, absonderlich wenn ich Vorrede, <rend class="latin">Dedication</rend>&#160;<abbr expand="etc">p</abbr> dazu<pc force="weak">=</pc><lbr/>rechne.<lbr type="BD"/> Leben sie wohl ich bin<lbr type="forced"/>
+<ts>__________________</ts>d<abbr v="er"/> Alte<lbr type="forced"/>
+ <ts>_____________________________</ts><tspdf>\hfill </tspdf><persName key="39408"><rend class="latin">Leop<abbr type="curve"></abbr> Mozart</rend></persName><lbr type="forced"/>
+<ts>_____</ts>Salzb<abbr type="curve">.</abbr>&#160;<u>d. 21 <rend class="latin">Julii</rend> 1755</u><lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____</ts>Entschuldigen sie meine saubere S. V. S=Schrift, ich eile,<lbr/>
+das mir die Finger<lbr type="BD"/> möcht<abbr v="en"/> wegfall<abbr v="en"/>.<lbr type="forced"/>
+</NI>
+</letter>
+</text>
+</MUP>

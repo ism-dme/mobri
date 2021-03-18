@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2011">2011-05</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=723</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:37:04 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_162.mup">
+<letter bd="162"><HEADER id="723">LEOPOLD MOZART AN MARIA ANNA MOZART IN SALZBURG<lbr/>
+MAILAND, 27. FEBRUAR 1770<lbr/>
+mit Nachschrift von Wolfgang Amadé Mozart an Maria Anna (Nannerl) Mozart</HEADER>
+<pg n="1"/>
+<ts>___________</ts><tshtm>___________________________________________</tshtm><tspdf>\hfill </tspdf><u>Mayland</u> am fasching Erchtag. <u>1770.</u><lbr type="forced"/>
+<lbr type="forced"/>
+Verflossen<abbr v="en"/> Samstag must<abbr v="en"/> wir unvermuthet mit h<abbr type="curve">:</abbr> HausHofmeister in die<lbr/>
+<rend class="latin">opera</rend> und Ball fahr<abbr v="en"/>, ich konnte dir also nicht schreib<abbr v="en"/>. Unsere <rend class="latin">Accademia</rend><lbr/>
+ist nun vorbe&#255;; sie war verflossen<abbr v="en"/> fre&#255;tag. Es gieng wie aller orten:<lbr/>
+und<lbr type="BD"/> braucht keine weitere Erklärung. Wir leben gesund, Gott se&#255; gelobt,<lbr/>
+und<lbr type="BD"/> we<abbr type="topline" expand="nn">n</abbr> wir gleich nicht Reich sind, so hab<abbr v="en"/> wir doch i<abbr type="topline" expand="mm">m</abbr>er ein wenig<lbr/>
+mehr als<lbr type="BD"/> die Nothwendigkeit. den Montag od<abbr v="er"/> Dienstag d<abbr v="er"/> 2<h>t<abbr v="en"/></h> fast<abbr v="en"/> woche werd<abbr v="en"/><lbr/>
+wir mit Gottes Hilfe Mayland verlass<abbr v="en"/> und nach Parma geh<abbr v="en"/>. wir würd<abbr v="en"/><lbr type="BD"/> eher geh<abbr v="en"/>;<lbr/>
+allein S<h>e</h>: <rend class="latin">Ex<abbr type="curve">:</abbr></rend> Gr: <rend class="latin">Firmian</rend> woll<abbr v="en"/> in d<abbr v="er"/> erst<abbr v="en"/> fastenwoche eine<lbr type="BD"/> grosse <rend class="latin">Accademie</rend><lbr/>
+für die <rend class="latin">Damen</rend> in seinem Hause geb<abbr v="en"/>: und es sind noch<lbr type="BD"/> and<abbr v="er"/>e Sach<abbr v="en"/> auszumach<abbr v="en"/>.<lbr/>
+Hier isst man morg<abbr v="en"/>&#160;<abbr expand="und">u</abbr> do<abbr type="topline" expand="nn">n</abbr>erstags noch<lbr type="BD"/> fleisch, alle tag ist <rend class="latin">opera</rend> und Ball, und<lbr/>
+am Samstag d<abbr v="er"/> Letzte. dieses ist nach<lbr type="BD"/> der <rend class="latin">Ambrosiani</rend>sch<abbr v="en"/> Kirch<abbr v="en"/> Ordnung, und so<lbr/>
+lebt die ganze Statt. In den<lbr type="BD"/> Clöstern aber hält man die Römisch<abbr v="en"/> Gebräuche, und<lbr/>
+fängt die fasten am<lbr type="BD"/> Aschermitwoche an. Es lauff<abbr v="en"/> aber am <suppl hand="self" pos="supra">Ascher</suppl> Mittwoche und<lbr/>
+do<abbr type="topline" expand="nn">n</abbr>erstage<lbr type="BD"/> alle Geistl: aus den Klöstern zu ihr<abbr v="en"/> bekannt<abbr v="en"/> in die Statt und lad<abbr v="en"/><lbr/>
+sich<lbr type="BD"/> zum fleischessen ein. wie gefällt es? ò, mit der zeit werde dir hundert der<pc force="weak">=</pc><lbr/>gleich<abbr v="en"/> schöne sach<abbr v="en"/> erzehlen, die gar nicht auferbäulich sond<abbr v="ern"/> höchst<lbr type="BD"/> ärgerlich sind.<lbr/>
+Mich freuet es ungemein daß Salzb<abbr type="curve">:</abbr> so Lebendig ist, und daß<lbr type="BD"/> ihr auch einige<lbr/>
+unterhaltung habt. Mache aller Ort<abbr v="en"/> meine gebührende<lbr type="BD"/> Empfehlung<abbr v="en"/>.<lbr type="forced"/>
+Ehe von hier abreise werde an S<h>e</h>: <rend class="latin">Ex<abbr type="curve">:</abbr></rend> Obersthofmeister schreib<abbr v="en"/>. Schlüsse<lbr type="BD"/> allezeit<lbr/>
+die Briefe an <rend class="latin">Mr: Troger</rend> ein; we<abbr type="topline" expand="nn">n</abbr> ich auch von hier weg bin: Er wird<lbr type="BD"/> mir sie richtig<lbr/>
+zusend<abbr v="en"/>. Lebe wohl, ich muß schlüss<abbr v="en"/>. der Wolfg<abbr type="curve">:</abbr> ist mit<lbr type="BD"/> Componirung<lbr/>
+zwe&#255;er Arien beschäftiget. ich Küsse dich und die Na<abbr type="topline" expand="nn">n</abbr>erl 1000<lbr type="BD"/> mahl. und bin<lbr type="forced"/>
+<ts>_________________</ts><tshtm>____________________________________________________________________________</tshtm><tspdf>\hfill </tspdf>d<abbr v="er"/> alte Mzt <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+Das Unglück des h<abbr type="curve">:</abbr>&#160;<rend class="latin">Basilij</rend> hat uns nicht nur höchstens betrübt, sond<abbr v="ern"/> dem<lbr type="BD"/> Wolfg<abbr type="curve">:</abbr><lbr/>
+viele thrän<abbr v="en"/> gekostet, du weist, wie empfindlich er ist. Gott gebe<lbr type="BD"/> seine Besserung:<lbr/>
+die ich ihm nebst unserer Empf<abbr type="curve">:</abbr> von Herz<abbr v="en"/> wünsche.<lbr/>
+<NS type="NS" sch="WAM" adr_id="48817">und ich küsse die mama und dich, ich bin völig verwirt vor lauter<lbr/>
+<rend class="latin">affairen</rend>, ich<lbr type="BD"/> kan ohnmöglich mehr schreiben.</NS>
+<add_ident schr_id="57010"><ts>________________________________________________________________________</ts>wolfgang.</add_ident><lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal><lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="2"/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal><lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal></letter>
+</text>
+</MUP>

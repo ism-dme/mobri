@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2020">2020-01</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=674</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Verbleib unbekannt (Vorlage: Abschrift von G. N. Nissen um 1825 in A-Sm)</bibl>
+            <bibl type="source" subtype="RISM">Verbleib unbekannt, Vorlage: Abschrift von G. N. Nissen um 1825 in A-Sm</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:36:48 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_115.mup">
+<letter bd="115">
+<NI src="unbekannt">
+<HEADER id="674">CHRISTIAN FÜRCHTEGOTT GELLERT AN LEOPOLD MOZART IN SALZBURG<lbr/>
+LEIPZIG, APRIL 1754</HEADER>
+<pg n="1"/>
+<ts>_____</ts>Hochedler, Hochzuehrender <persName key="39408">Herr</persName>,<lbr type="forced"/>
+ich müßte sehr unempfindlich se&#255;n, wenn mich die ausser<pc force="weak">-</pc><lbr/>ordentliche Gewo<lbr type="BD"/>genheit, mit der Sie mich ehren, nicht<lbr/>
+hätte rühren sollen; u. ich würde der<lbr type="BD"/> undankbarste<lbr/>
+Mann seyn, wenn ich Ihren so freundschaftlichen Brief<lbr/>
+<pg n="2"/>
+ohne<lbr type="BD"/> Erkenntlichkeit hätte lesen können. Nein, mein<lbr/>
+werthester Herr, ich nehme<lbr type="BD"/> Ihre Liebe u. Ihre Freundschaft<lbr/>
+mit eben der Aufrichtigkeit an, mit der Sie<lbr type="BD"/> mir sie an<pc force="weak">-</pc><lbr/>bieten, u. ich nehme sie nicht allein an, sondern ich bitte<lbr type="BD"/><lbr/>
+Sie darum, u. will mich bemühen, sie zu verdienen, je<lbr/>
+weniger ich sie<lbr type="BD"/> vielleicht noch verdient habe. Ich werde oft<lbr/>
+unruhig, wenn ich sehe, dass mir<lbr type="BD"/> meine Schriften die Gewo<pc force="weak">-</pc><lbr/>genheit so vieler rechtschaffenen Leute zuwege bringen;<lbr/>
+denn ich will dis Glük nicht allein erlangen, sondern<lbr/>
+auch be<lbr type="BD"/>haupten; u. dazu gehören mehr Verdienste als<lbr/>
+ich habe. Also lesen<lbr type="BD"/> Sie meine Schriften gerne, hoch<pc force="weak">-</pc><lbr/>zuehrender Herr, u. ermuntern auch Ihre<lbr type="BD"/> Freunde, sie<lbr/>
+zu lesen? Diese Belohnung, wie ich Ihnen aufrichtig sage,<lbr/>
+habe<lbr type="BD"/> ich von dem Orte, aus dem ich sie erhalte, ohne<lbr/>
+Eigenliebe kaum hoffen kön<lbr type="BD"/>nen. Wie glüklich bin<lbr/>
+ich, wenn ich glauben darf, daß ich zur Erhaltung des<lbr type="BD"/><lbr/>
+Geschmaks u. der guten Sitten auch ausser meinem<lbr/>
+Vaterlande Etwas bei<lbr type="BD"/>trage! Hat "der Christ",<lbr/>
+eins von meinen lezten Gedichten, auch Ihren<lbr type="BD"/> Beifall?<lbr/>
+Ich beantworte mir diese Frage beinahe mit Ja.<lbr/>
+Sein Inhalt, Ihr edler<lbr type="BD"/> Karakter, den Sie, ohne<lbr/>
+es zu wissen, in Ihrem Briefe mir entworfen haben,<lbr type="BD"/><lbr/>
+u. meine redliche Absicht scheinen, mir dieses Ja<lbr/>
+zu erlauben. Ich würde mehr mit Ihnen reden, wenn<lbr/>
+ich nicht im Begriffe stünde, in das<lbr type="BD"/> Carlsbad zu<lbr/>
+<pg n="3"/>
+reisen, dahin mich die elendeste Krankheit, ich<lbr/>
+meine die Hypo<lbr type="BD"/>chondrie, ruft. Mögte es doch Gott<lbr/>
+gefallen, mich von diesem Orte, den er<lbr type="BD"/> für so viel tau<pc force="weak">-</pc><lbr/>send Kranke gesegnet hat, u. an dem ich schon vorm<lbr type="BD"/><lbr/>
+Jahr oft mit Thränen u. Heiterkeit des Geists ge<pc force="weak">-</pc><lbr/>betet habe, mich, sage ich,<lbr type="BD"/> gesünder zurückzubringen,<lbr/>
+als ich hin reise! Doch vielleicht wünsche ich zu<lbr type="BD"/> viel, viel<pc force="weak">-</pc><lbr/>leicht gar Etwas, das mir nicht gut seyn würde.<lbr/>
+Begleiten Sie mich<lbr type="BD"/> indessen mit Ihren Wünschen, wer<pc force="weak">-</pc><lbr/>thester Herr. Bin ich im Stande, Ihnen hier<lbr type="BD"/>, es sei<lbr/>
+worin es wolle, zu dienen, so will ich Ihnen beweisen,<lbr type="BD"/><lbr/>
+dass ich des Vertrauens, das Sie in mich sezen, nicht<lbr/>
+unwerth bin. Allen Ihren<lbr type="BD"/> Freunden, wenn sie Ihnen<lbr/>
+gleichen (u. wie sollten Sie Freunde haben, die<lbr type="BD"/> Ihnen<lbr/>
+nicht ähnlich wären?) empfehle ich mich beßtens.<lbr/>
+Ihnen aber danke ich<lbr type="BD"/> nochmals für den schönen,<lbr/>
+beredten u. empfindungsvollen Brief, mit dem<lbr type="BD"/><lbr/>
+Sie mich erfreuet haben, u. bin mit der vollkom<pc force="weak">-</pc><lbr/>mensten Hochachtung Euer Hochedl<lbr type="BD"/> gehorsamster Diener<lbr type="BD"/><lbr/>
+<ts>____________________________________________</ts><tspdf>\hfill </tspdf><persName key="64403">Christian Fürchtegott Gellert</persName><lbr type="forced"/>
+<rend class="latin">P.S.</rend> dh<abbr type="curve">.</abbr> Professor <persName key="83499">Formey</persName> in Berlin hat einen kleinen<lbr/>
+Roman von mir<lbr type="BD"/> Leben der schwedischen Gräfinn<lbr/>
+in das französische schön über<lbr type="BD"/>setzt &#8211; wenn Sie<lbr/>
+vielleicht dieses Werk lesen wollen.
+</NI>
+</letter>
+</text>
+</MUP>

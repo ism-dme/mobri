@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2014">2014-5</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1650</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">D-B</bibl>
+            <bibl type="source" subtype="RISM">D-B (Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Musikabteilung mit Mendelssohn-Archiv)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:41:55 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_1080.mup">
+<letter bd="1080"><NI src="D-B"><HEADER id="1650">WOLFGANG AMADÉ MOZART AN MICHAEL PUCHBERG IN WIEN<lbr/>
+WIEN, ANFANG JULI 1788</HEADER>
+<pg n="1"/>
+<add_num type="inline"><ts>_____</ts>4)</add_num><ts>____________</ts><tshtm>_______</tshtm>liebster freund und O:. b:.<lbr type="forced"/>
+<lbr type="forced"/>
+Meine sachen habe mit mühe und sorge so weit gebracht, daß es nur<lbr type="BD"/><lbr/>
+darauf ankö<abbr type="topline" expand="mm">m</abbr>t mir auf diese 2 versatz=zettel etwas geld vorzustrecken.<lbr/>
+&#8211; ich<lbr type="BD"/> bitte Sie be&#255; unserer freundschaft um diese gefälligkeit, aber es müsste<lbr/>
+augen<lbr type="BD"/>blicklich geschehen. &#8211; verzeihen sie meine zudringlichkeit, aber sie<lbr/>
+kennen<lbr type="BD"/> meine laage. &#8211; Ach! hätten sie doch das gethan um was ich sie<lbr/>
+bat! &#8211; thäten<lbr type="BD"/> sie es noch &#8211; so gieng alles nach Wunsch.<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>___________</ts><tshtm>______________________________________________________________________</tshtm><tspdf>\hfill </tspdf>Ewig ihr Mozart<lbr type="forced"/>
+<lbr/>
+<add_seal type="owner">Ex<lbr/>Bibl. Regia<lbr/>Berolin.</add_seal>
+<pg n="2"/>
+<vacat/>
+</NI></letter>
+</text>
+</MUP>

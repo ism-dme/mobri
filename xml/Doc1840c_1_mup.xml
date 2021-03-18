@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2009">2009-08-20</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=358</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:36:03 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/Doc1840c_1_mup.txt">
+<HEADER id="358">IGNAZ VON SEYFRIED AN GEORG FRIEDRICH TREITSCHKE IN WIEN<lbr/>
+ENDE 1840/ANFANG 1841<lbr/>
+Fragment</HEADER>
+
+
+<pg n="1"/>
+Hochverehrtester!<add_ident type="inline" impl="pencil"><ts>_______________</ts><u>Seyfried</u>, Ignaz von</add_ident><add_sign type="inline" impl="pencil"><ts>_____________________________________________________</ts>21/265</add_sign><lbr/>
+<lbr type="forced"/>
+<ts>_____</ts>Mit i<abbr type="topline" expand="nn">n</abbr>igsten Dank stelle ich das anvertraute Manuscript zurück, welches mir ein großes,<lbr/>
+gewissermassen verjüngendes Vergnügen gewährte, u: jedem Kunstfreunde ein historisches Inte<pc force="weak">=</pc><lbr/>resse bereiten muß. &#8211; Ihrem Wunsche gemäß erlaube ich mir, noch folgende Bemerkungen, welche ich<lbr/>
+notarisch  zu verbürgen im Stande bin. &#8211; <u>Schikaneders</u> persönliche Beka<abbr type="topline" expand="nn">n</abbr>tschaft mit <u>Mozart</u>, so<lbr/>
+wie auch jene spätere mit <u>Zitterbarth</u>, &#8211; datirt sich aus einer FreymaurerLoge her, &#8211; freylich<lbr/>
+nicht jene hochberühmte <u>Born'</u>sche, welche Wien's erste Dignitäten, u: die Elite der damaligen litera<pc force="weak">=</pc><lbr/>rischen Kaste unter ihre Mitglieder gezählt haben soll, &#8211; sondern schlechtweg eine sogena<abbr type="topline" expand="nn">n</abbr>te Winkel<pc force="strong">=</pc><lbr/> oder Freß=Loge, woselbst man sich in den wöchentlichen Abendzusa<abbr type="topline" expand="mm">m</abbr>enkünften mit Spiel, Musik,<lbr/>
+u: den vielen Freuden einer wohlbesetzten Tafel beschäftigte, wie <u>Gieseke</u> mir oftmals erzählte, der<lbr/>
+auch <u>Sch:</u>&#160;<u>Wieland's</u>&#160;<u>Dschi<abbr type="topline" expand="nn">n</abbr>istan</u> mittheilte, woraus Derselbe den Stoff zu mehreren seiner Opern ent<pc force="weak">=</pc><lbr/>lehnte. Sehr wahrscheinlich begann die Composition der <u>Zauberflöte</u> erst im Frühjahr <abbr type="topline" expand="1791">791</abbr>, weil <u>M:</u><lbr/>
+nie lange an dem nehmlichen Werke, u: überhaupt schnell arbeitete. Meistens schrieb er in <u>Gerl's</u><lbr/>
+Wohnung, oder in <u>Sch:s</u> Garten, nur wenige Schritte am Theater; ich selbst war oft Gast an<lbr/>
+demselben Tische, u: hielt viele Proben im nehmlichen Salon, oder auf deutsch: Holzhütte. Der Souffleur<lbr/>
+<u>Haselbeck</u> mußte <u>Sch's</u> prosaische Entwürfe versifizi[r]en; manches möchte auch wohl aus eigener Fa<pc force="weak">=</pc><lbr/>brik hersta<abbr type="topline" expand="mm">m</abbr>en, wie solche Reime: „schön Mädchen jung u: fein - viel weißer noch als Kreide,” zum vorherge<pc force="weak">=</pc><lbr/>henden: „Aha! hier seh ich Leute, &#8211; gewagt, ich geh hinein!” &#8211; Das Textbuch war bis zum ersten Finale vol<pc force="weak">=</pc><lbr/>lendet, als in der Leopoldstadt: <u>„Die Zauberzither,”</u> oder: <u>„Kaspar der Fagottist”</u> erschien. <u>Perinet</u> hatte eben<pc force="weak">=</pc><lbr/>falls dasselbe <u>Wieland</u>'sche Märchen benützt, war aber, den lokalen Zuschnitt abgerechnet, dem Originale<lbr/><lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="2"/>
+treu gefolgt. Das genirte wohl etwas weniges unsern Emanuel; doch wußte er bald Rath dafür, durch Herumdrehen<lbr/>
+des ganzen Plan; zum Heil u: Glück des Ganzen, weil uns sonst <u>M:</u> schwerlich in seinem dramatischen Schwanengesang ein<lbr/>
+also wunderherrliches, poetisch romantisches Vorbild hätte hinterlassen kö<abbr type="topline" expand="nn">n</abbr>en. &#8211; Die Frankfurter=Krönung besuchte <u>M:</u><lbr/>
+auf eigene Speculation, um durch Concerte ein Löchlein in den zerrütteten Finanzen zu stopfen; als er, der Einladung<lbr/>
+der böhmischen Stände entsprechend, die Prager=Reise antrat, waren bereits alle <rend class="latin">Ensemble</rend>stücke, bis zum letzten<lbr/>
+Finale, der Zauber<rend class="latin">flöte</rend> fertig, versteht sich: Singsti<abbr type="topline" expand="mm">m</abbr>en, Grundbaß, nebst angemerkten Hauptmotiven; aus<lbr/>
+welchen <rend class="latin">Particello</rend> mein Gevatter <u>He<abbr type="topline" expand="nn">n</abbr>eberg</u> inzwischen fleißig einstudierte. Nach <u>Mozart's</u> Rückkunft &#8211; 10<h><uu>t</uu></h> oder<lbr/>
+12<h><uu><abbr expand="ten">t<abbr type="curve"></abbr></abbr></uu></h> Sept: &#8211; gieng es rasch zum instrumentiren, u: nachholen der fehlenden kleineren <rend class="latin">Pieçen</rend>; am 28<h><uu>ten</uu></h> entfloß erst,<lbr/>
+wie der eigenhändige themat<abbr type="curve">:</abbr> Katalog ausweißt, der Priestermarsch u: die Ouvertüre seiner Feder; letztere kam<lbr/>
+sogar noch in nassen Auflagparten zur Generalprobe. &#8211; Meines Wissens veranlaßte <rend class="latin"><u>Guardasoni</u></rend> in Prag<lbr/>
+die italienische Uebersetzung, im Winter <abbr type="topline" expand="1793">793.</abbr>
+Ich selbst ließ mich in der ersten Vorstellung, dieser <rend class="latin">flauto</rend><lbr/>
+<rend class="latin">magico</rend>, vom filzigen Impressar bezüglich des ungewohnten Kostenaufwands an Scenerie, Decorationen u:<lbr/>
+Vestiariums i<abbr type="topline" expand="mm">m</abbr>er <rend class="latin">la maledetta</rend> Zauberflut gescholten, &#8211; tüchtig zusa<abbr type="topline" expand="mm">m</abbr>enquetschen, u: eri<abbr type="topline" expand="nn">n</abbr>ere mich noch<lbr/>
+recht lebhaft, wie der Tenor <rend class="latin">Benedetti</rend> heraustrippelte, u: die schneckenartig sich nachwindende Schlange<lbr/>
+apostrophirte mit seinem <amend value="Lamentobild">Lamentabild</amend>: <u>„<rend class="latin">Ajuto</rend></u>! <rend class="latin"><u>ajuto</u>! <u>ò sono perduto</u></rend>!” &#8211; Trefflich war <rend class="latin"><u>Bassi</u></rend> als<lbr/>
+Papageno; die <rend class="latin"><u>Danzi</u></rend> eine bezaubernde <rend class="latin">Pamina</rend>; &#8211; die <rend class="latin"><u>Campi</u></rend> eine Nachtköniginn <rend class="latin">par excellence</rend>, &#8211; <lbr/>
+deren Gemahl <rend class="latin"><u>Gaetano</u></rend> jedoch der pitoyabelste <rend class="latin"><u>Sarastro</u></rend>, so jemals mir vorgeko<abbr type="topline" expand="mm">m</abbr>en; eine carrikir<pc force="weak">=</pc><lbr/>te Parodie. &#8211; Am Abend des 4<h><uu>ten</uu></h>&#160;<rend class="latin">Dec:</rend> lag <u>M:</u> schon in Fantasien, u: wähnte im Wiednertheater<lbr/>
+der Zauberflöte beizuwohnen; fast die letzten, seiner Frau zugeflüsterten Worte waren: „Still! still!<lbr/>
+jetzt ni<abbr type="topline" expand="mm">m</abbr>t die <u>Hofer</u> das hohe F; &#8211; jetzt singt die Schwägerinn ihre zweyte Arie: „Der Hölle Rache;”<lbr/>
+wie kräftig sie das B anschlagt, u: aushält: „Hört! hört! hört! der Mutter Schwur!” &#8211; <lbr type="forced"/>
+<ts>_____</ts>Den 2<h><uu>ten</uu></h> Theil: „<u>Das Labyrinth,</u>” oder: „<u>Der Kampf mit den Elementen</u>” schrieb <u>Winter</u> ganz al<pc force="weak">=</pc><lbr/>lein. &#8211; Die gemeinschaftlich mit <u>Gallus</u> componirte Oper hieß: <u>„Babylons Pyramiden.”</u> &#8212;</text>
+</MUP>

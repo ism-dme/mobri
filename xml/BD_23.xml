@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2019">2019-12</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=580</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Wn</bibl>
+            <bibl type="source" subtype="RISM">A-Wn (Österreichische Nationalbibliothek)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:36:22 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_23.mup">
+﻿<letter bd="23">
+<NI src="A-Wn">
+<HEADER id="580">LEOPOLD MOZART AN JOHANN JAKOB LOTTER IN AUGSBURG<lbr/>
+SALZBURG, 12. FEBRUAR 1756</HEADER>
+<pg n="1"/>
+<ts>______________________________________________</ts><tspdf>\hfill </tspdf><rend class="latin">Salzb<abbr type="curve">:</abbr></rend> d<abbr v="en"/> 12. <rend class="latin">feb<abbr type="curve">.</abbr></rend><lbr type="forced"/>
+<ts>_____________________________________________________________</ts><tspdf>\hfill </tspdf><u>1756</u><lbr type="forced"/>
+<ts>__________</ts><rend class="latin"><persName key="76865">Monsieur</persName> mon tres cher amy</rend>!<lbr type="forced"/>
+<lbr type="forced"/>
+Ich danke vor dero bemühung die sie be&#255; übermach<pc force="weak">=</pc><lbr/>ung des Geldes über sich<lbr type="BD"/> geno<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>. mein Danksagungs<pc force="weak">=</pc><lbr/>schreiben an die Musickübende Gesellschaft<lbr type="BD"/> muß ich auf<lbr/>
+eine and<abbr v="er"/>e Zeit verschieb<abbr v="en"/>: obwohl selbes allemal sehr schlecht<lbr type="BD"/><lbr/>
+gerath<abbr v="en"/> wird; de<abbr type="topline" expand="nn">n</abbr> ich kan sie versicher<abbr v="en"/>, daß ich so viel<lbr/>
+zu thun habe, daß<lbr type="BD"/> ich manchmal nicht weis wo mir d<abbr v="er"/> kopf<lbr/>
+stehet. nicht zwar weg<abbr v="en"/> vielem<lbr type="BD"/> Componir<abbr v="en"/>, sond<abbr v="ern"/> weg<abbr v="en"/> viel<abbr v="en"/><lbr/>
+<rend class="latin">Scolaren</rend> und den <rend class="latin">opern</rend> be&#255; Hofe. Und<lbr type="BD"/> das wiss<abbr v="en"/> sie auch,<lbr/>
+daß wa<abbr type="topline" expand="nn">n</abbr> die frau wöchnerin ist, daß i<abbr type="topline" expand="mm">m</abbr>er iemand kö<abbr type="topline" expand="mm">m</abbr>t<lbr/>
+d<abbr v="er"/> einem die Zeit wegstihlt. dergleich<abbr v="en"/> Histori<abbr v="en"/> nehm<abbr v="en"/> geld<lbr type="BD"/><lbr/>
+und Zeit weg. Sie schreib<abbr v="en"/> mir, daß auch die <u><rend class="latin">Chine</rend>sische<lbr/>
+<rend class="latin">Music</rend></u> wird wied<abbr v="er"/><lbr type="BD"/>holt werd<abbr v="en"/>. Ich werde dieselbe Part&#255;<lbr/>
+mit 2 neu<abbr v="en"/> Stück<abbr v="en"/> bereichern, die<lbr type="BD"/> ich mit nächster Poste<lbr/>
+einschick<abbr v="en"/> will: dieß wird helfen dero gute Mei<lbr type="BD"/>nung so sie<lbr/>
+<lbr/>
+<add_seal type="owner">ÖST. NATIONALBIBLIOTHEK<lbr/>
+WIEN</add_seal>
+<pg n="2"/>
+vor mich högen auszuführen. Ich bedaure das <persName key="84665">h<abbr type="curve">:</abbr>&#160;<rend class="latin">Zi<abbr type="topline" expand="nn">n</abbr>er</rend></persName><lbr/>
+nicht<lbr type="BD"/>&#160;<rend class="latin">satisfaci</rend>rt ist. so geht es mit meiner Musik! ich<lbr/>
+lasse ihn bitt<abbr v="en"/> nur bis ostern<lbr type="BD"/> in Gedult zu steh<abbr v="en"/>, so<lbr/>
+werde ich diese scharte mit einem ganz neu<abbr v="en"/>&#160;<rend class="latin">Con<lbr type="BD"/>ce</rend>rte,<lbr/>
+so ich ihm eigens mach<abbr v="en"/> will, auszuwetz<abbr v="en"/> such<abbr v="en"/>.<lbr type="forced"/>
+was den Verfasser des so du<abbr type="topline" expand="mm">m</abbr><abbr v="en"/> Schreibens, betrift, scheint<lbr/>
+es mir selbst nur<lbr type="BD"/> all zu wahrscheinlich, daß es h<abbr type="curve">:</abbr>&#160;<rend class="latin">Hemerlin</rend><lbr/>
+se&#255;n mag. Das war in d<abbr v="er"/> That<lbr type="BD"/> ein von herz<abbr v="en"/> einfältiger<lbr/>
+Gedank<abbr v="en"/>. Aber meine h<abbr type="curve">:</abbr>! Gedult! nur die Sache<lbr type="BD"/> nicht<lbr/>
+übereilt, sonst möchte euch der Vogl ausflieg<abbr v="en"/>, man muß<lbr/>
+gar nicht<lbr type="BD"/> Hitzig an die Sache geh<abbr v="en"/>. sonst wird man nichts erfahr<abbr v="en"/>.<lbr/>
+Man muß seh<abbr v="en"/><lbr type="BD"/> eine Schrift von ihm zu hand<abbr v="en"/> zu bring<abbr v="en"/>:<lbr/>
+das ist die Hauptsache. Und man<lbr type="BD"/> muß ihn be&#255;leibe nicht<lbr/>
+anpack<abbr v="en"/>, bis man ihn nicht gründlich über<lbr type="BD"/>führen kan.<lbr type="forced"/>
+Nun auf mein <u>Violinschule</u> zu ko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>: so wund<abbr v="er"/>t michs sehr, daß sie<lbr/>
+von<lbr type="BD"/> d<abbr v="er"/> Zeichnung und von der folge des <u><rend class="latin">Mspts</rend></u> etwas meld<abbr v="en"/><lbr/>
+<pg n="3"/>
+mög<abbr v="en"/>, da sie erst<lbr type="BD"/> das 4<h>te</h> Hauptstück zu setz<abbr v="en"/> angefang<abbr v="en"/>.<lbr/>
+überzeig<abbr v="en"/> sie mich durch ihren<lbr type="BD"/> fleiß, daß ich an d<abbr v="er"/> verzegerung<lbr/>
+Schuldbin, und mach<abbr v="en"/> sie das, so sie in<lbr type="BD"/> Hand<abbr v="en"/> hab<abbr v="en"/>, bis auf<lbr/>
+die versprochne zeit fertig, so will ich die Schuld auf<lbr type="BD"/> mich<lbr/>
+nehm<abbr v="en"/>. wiss<abbr v="en"/> sie was sie mir geschrieb<abbr v="en"/> hab<abbr v="en"/>, ich soll mein Herz<lbr type="BD"/><lbr/>
+ruh<abbr v="en"/> lass<abbr v="en"/>, und auf ihr Wort glaub<abbr v="en"/>? ich hab es gethan:<lbr/>
+allein den 28 diess<lbr type="BD"/> Monats ist der Geburtstag <persName key="59220">S:<h>r</h> Hochf<abbr type="curve">:</abbr><lbr/>
+Gnad<abbr v="en"/></persName>. hätte nun eine bessere Gelegen<lbr type="BD"/>heit se&#255;n kö<abbr type="topline" expand="nn">n</abbr><abbr v="en"/><lbr/>
+meine Arbeit zu überreich<abbr v="en"/>? alle do<abbr type="topline" expand="mm">m</abbr>h<abbr type="curve">:</abbr> sind itzt<lbr/>
+hier.<lbr type="BD"/> und der Markt hätte mir auch geschwind einige<lbr/>
+<rend class="latin">Ex</rend>emplari<abbr v="en"/> zu Geld gemacht.<lbr type="BD"/> Nun ko<abbr type="topline" expand="mm">m</abbr>t noch eine<lbr/>
+dergleich<abbr v="en"/> Gelegenheit bevor die domherr<abbr v="en"/> gar alle<lbr type="BD"/><lbr/>
+auseinand<abbr v="er"/> geh<abbr v="en"/>. nämlich der <u>Wahltag.</u> darf ichs aber<lbr/>
+sagen we<abbr type="topline" expand="nn">n</abbr> er ist? &#8211; &#8211;<lbr type="BD"/> de<abbr type="topline" expand="nn">n</abbr> sie verlass<abbr v="en"/> sich gleich gar<lbr/>
+zu sehr darauf. Sie därff<abbr v="en"/> gar nicht<lbr type="BD"/> langsam,<lbr/>
+sond<abbr v="ern"/> recht fleisig se&#255;n we<abbr type="topline" expand="nn">n</abbr> sie mich nicht wiederum mit<lbr type="BD"/><lbr/>
+Schneelahn<abbr v="en"/> überschütt<abbr v="en"/> woll<abbr v="en"/>. der <u>Wahltag</u> ist<lbr/>
+<pg n="4"/>
+<add_empf><ts>__________</ts>1756. d<abbr v="en"/> 12. <rend class="latin">Febr.</rend> aus Salzburg von<lbr/>
+<ts>__________</ts>h<abbr type="curve">:</abbr>&#160;<rend class="latin">Leopold Mozart</rend>.</add_empf><lbr/>
+<lbr/>
+der 5<h>te</h>&#160;<rend class="latin">April</rend>. An diesem<lbr type="BD"/> Tage sind die meisten domherr<abbr v="en"/><lbr/>
+noch hier: de<abbr type="topline" expand="nn">n</abbr> sie beko<abbr type="topline" expand="mm">m</abbr>en das wahlgeld;<lbr type="BD"/> folglich hat ied<abbr v="er"/><lbr/>
+geld an diesem Tage. und gleich darauf geh<abbr v="en"/> die mehrest<abbr v="en"/><lbr type="BD"/><lbr/>
+weg und ko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/> erst geg<abbr v="en"/> dem Herbst wied<abbr v="er"/>. Nun<lbr/>
+ko<abbr type="topline" expand="mm">m</abbr>t es darauf an ob<lbr type="BD"/> sie mich woll<abbr v="en"/> recht sitz<abbr v="en"/> lass<abbr v="en"/>?<lbr/>
+de<abbr type="topline" expand="nn">n</abbr> sie seh<abbr v="en"/> wohl: diess ist d<abbr v="er"/> Tag, wo noch domh<abbr type="curve">:</abbr>&#160;<amend value="da sind">dasind</amend>,<lbr/>
+wo sie eb<abbr v="en"/> Geld einnehm<abbr v="en"/>. wo d<abbr v="er"/> <persName key="59220">Erzbischof</persName> ein<abbr v="en"/> Gross<abbr v="en"/><lbr type="BD"/><lbr/>
+Hoffesttag hat. und wo ich folglich ein<abbr v="en"/>&#160;<rend class="latin">Conto</rend> am<lbr/>
+besten dabe&#255; find<abbr v="en"/> kan.<lbr type="BD"/> Ich bitte sie also um alles<lbr/>
+was ich sie bitt<abbr v="en"/> kan. Sie hab<abbr v="en"/> ja doch leute genug<lbr type="BD"/> die and<abbr v="er"/>e<lbr/>
+Arbeit fördern. ich bitte sie noch einmal darum, sie seh<abbr v="en"/><lbr/>
+daß ich<lbr type="BD"/> es Ursach habe. an dero <persName key="84656">frau Gemahlin</persName><lbr/>
+von mir und d<abbr v="er"/> <persName key="48815">meinig<abbr v="en"/></persName> alles<lbr type="BD"/> schönes. ô könte doch die<lbr/>
+<persName key="84656">frau Lötterin</persName> so gut Buchstab<abbr v="en"/> setz<abbr v="en"/>, als sie ein<abbr v="en"/><lbr type="BD"/> brafen<lbr/>
+Bueb<abbr v="en"/> statt einer halb<abbr v="en"/> Note der Heba<abbr type="topline" expand="mm">m</abbr>e in die Schooss<lbr/>
+gesetzt hat,<lbr type="BD"/> ô, das weis ich mein Buch wäre<lbr/>
+längst fertig. ô die gute frau!<lbr type="forced"/>
+ich gebleibe in Posttäglicher anhoffnung eines paar bög<abbr v="en"/><lbr type="forced"/>
+dero<ts>_____________________________________________</ts><tspdf>\hfill </tspdf>Ergbenstr<lbr type="forced"/>
+<ts>_________________________________________________</ts><tspdf>\hfill </tspdf><persName key="39408"><rend class="latin">Leop Mozart</rend></persName>&#160;<abbr expand="manu propria">mp</abbr>
+</NI>
+</letter>
+</text>
+</MUP>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2014">2014-5</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1753</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Privatbesitz (Nachweis: J. A. Stargardt, 20.-21.2.1979, Katalog 617,  Nr. 731)</bibl>
+            <bibl type="source" subtype="RISM">Privatbesitz, Nachweis: J. A. Stargardt, 20.-21.2.1979, Katalog 617,  Nr. 731</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:42:23 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_1182.mup">
+<letter bd="1182"><NI src="Privat"><HEADER id="1753">WOLFGANG AMADÉ MOZART AN CONSTANZE MOZART IN BADEN BEI WIEN<lbr/>
+WIEN, 6. JULI 1791</HEADER>
+<pg n="1"/>
+<ts>____________</ts><tshtm>_________</tshtm>liebstes, bestes Weibchen! &#8211; <lbr type="forced"/>
+<lbr type="forced"/>
+Mit unbeschreiblichen vergnügen erhielt ich die Nachricht des<lbr/>
+sicheren Emp<lbr type="BD"/>fangs des Geldes; &#8211; ich kann mich nicht<lbr/>
+erinnern daß ich dir geschrieben<lbr type="BD"/> hätte, du sollst <u>alles</u><lbr/>
+in Richtigkeit bringen? &#8211; wie könnt' ich denn das als ein<lbr type="BD"/><lbr/>
+vernünftiges Geschöpf schreiben? &#8211; ist es so &#8211; so muß es<lbr/>
+sehr in gedanken<lbr type="BD"/> geschehen seyn! &#8211; wie es dermalen,<lbr/>
+da ich so viele wichtige Sachen im kopfe<lbr type="BD"/> habe, schon<lbr/>
+möglich ist. &#8211; meine Absicht war <u>nur</u> auf das<lbr/>
+<u>Baad</u> gerichtet. &#8211;<lbr type="BD"/> das übrige ist für deinen Gebrauch &#8211; <lbr/>
+&#8211; und was dann noch zu bezahlen ist,<lbr type="BD"/> wovon ich<lbr/>
+schon so meine Rechnung gemacht habe, werde selbst<lbr/>
+bey meiner<lbr type="BD"/> hinkunft in Ordnung bringen. &#8211; <lbr type="forced"/>
+eben izt wird <rend class="latin">Blanchard</rend> entweder <u>Steigen</u> &#8211;<lbr type="BD"/> oder<lbr/>
+die Wiener zum 3:<h>t</h> male fopen! &#8211; <lbr type="forced"/>
+die Historie mit <rend class="latin">Blanchard</rend> ist mir heute gar nicht lieb &#8211; <lbr/>
+&#8211; sie bringt mich um<lbr type="BD"/> den schlusse meines Geschäftes &#8211; <lbr/>
+<add_note type="inline" schr_id="57010"><rend class="latin"><u>N. N</u>.</rend></add_note>&#160;<additum>[... (1 Wort unkenntlich)]</additum> versprach mir bevor er hinaus<lbr type="BD"/>führe zu<lbr/>
+mir zu ko<abbr type="topline" expand="mm">m</abbr>en &#8211; ka<abbr type="topline" expand="mm">m</abbr> aber nicht &#8211; vieleicht kö<abbr type="topline" expand="mm">m</abbr>t<lbr/>
+er wenn der<lbr type="BD"/> Spass vorbey ist &#8211; ich warte bis 2 uhr &#8211; <lbr/>
+da<abbr type="topline" expand="nn">n</abbr> werfe ich ein bischen Essen<lbr type="BD"/> hinein &#8211; und suche<lbr/>
+ihn aller Orten auf. &#8211; das ist ein nicht gar<lbr/>
+<pg n="2"/>
+angenehmes<lbr type="BD"/> leben. &#8211; gedult! es wird schon besser ko<abbr type="topline" expand="mm">m</abbr>en<lbr/>
+&#8211; ich ruhe dann in deinen<lbr type="BD"/> Armen aus! &#8211; <lbr type="forced"/>
+Ich danke dir für deinen Rath mich nicht ganz<lbr/>
+<add_note type="inline" schr_id="57010"><ts>__________________</ts><rend class="latin">N. N.</rend></add_note><lbr/>
+auf <additum>[... (1 Buchstabe unkenntlich)]</additum> zu verlassen. &#8211;<lbr type="BD"/> aber in dergleichen<lbr/>
+fällen <u>muß</u> man nur mit <u>einem</u> zu thun haben<lbr/>
+&#8211; wendet<lbr type="BD"/> man sich an 2 oder 3 &#8211; und das<lbr/>
+Geschäft geht überall &#8211; so erscheint man<lbr type="BD"/> bey<lbr/>
+den andern, wo man es dann nicht annehmen kann,<lbr/>
+als ein Narr, oder<lbr type="BD"/> unverlässlicher Mann.<lbr type="forced"/>
+&#8211; Nun kannst du mir aber kein grösseres<lbr/>
+Vergnügen machen, als wenn du<lbr type="BD"/> vergnügt und<lbr/>
+lustig bist &#8211; denn wenn ich nur <u>gewis weis</u><lbr/>
+daß <u>dir</u> nichts<lbr type="BD"/> abgeht &#8211; dann ist mir alle<lbr/>
+meine Mühe lieb und angenehm; &#8211; denn<lbr/>
+die<lbr type="BD"/> fataleste und verwirrteste laage in der<lbr/>
+ich mich i<abbr type="topline" expand="mm">m</abbr>er befinden könnte, wi[rd<lbr type="BD"/> mir] nur zur<lbr/>
+kleinigkeit wenn ich weis, daß du <u>Gesund</u> und<lbr/>
+<u>lustig</u> bist. &#8211;<lbr type="BD"/> und nun lebe recht wohl &#8211; be<pc force="weak">=</pc><lbr/>nutze deinen tischNarren &#8211; denkt und redet<lbr type="BD"/><lbr/>
+oft von mir &#8211; liebe mich ewig wie ich dich<lbr/>
+<pg n="3"/>
+liebe, und sey Ewig meine <rend class="latin">stanzi<lbr type="BD"/> Marini</rend>, wie ich<lbr/>
+ewig seyn werde dein<lbr type="forced"/>
+<ts>______</ts><tshtm>____________________________________</tshtm><tspdf>\hfill </tspdf><rend class="latin"><u>Stu</u>!</rend> &#8211; <rend class="latin">Knaller paller</rend> &#8211; <lbr type="BD"/><lbr type="forced"/>
+<ts>______</ts><tshtm>____________________________________</tshtm><tspdf>\hfill </tspdf><rend class="latin">schnip</rend> &#8211; <rend class="latin">schnap</rend> &#8211; <rend class="latin">schnur</rend> &#8211; <lbr type="BD"/><lbr type="forced"/>
+<ts>______</ts><tshtm>______________________________________________</tshtm><tspdf>\hfill </tspdf><rend class="latin"><u>schnepeperl.</u></rend><lbr type="BD"/><lbr type="forced"/>
+<ts>______</ts><tshtm>_________________________________________________________</tshtm><tspdf>\hfill </tspdf><rend class="latin">snai!</rend> &#8211; <lbr type="forced"/>
+<add_note type="inline" schr_id="57010"><ts>____________________</ts><rend class="latin">N. N.</rend></add_note><lbr type="forced"/>
+Gieb dem &#60;Süssmayer&#62; eine Ohrfeige, und sag du<lbr type="forced"/>
+hättest eine fliege tod schlagen müssen, die<lbr type="forced"/>
+<u>ich</u> sitzen gesehen hätte! &#8211; <rend class="latin"><uu>adieu</uu>.</rend><lbr type="forced"/>
+<lbr type="forced"/>
+fang auf &#8211; fang auf &#8211; &#8211; bi &#8211; bi &#8211; bi<lbr type="forced"/>
+3 busserln, zuckersüsse fliegen daher! &#8211; <lbr type="forced"/>
+<lbr type="forced"/>
+<u>Mittwoch</u>. <u>Wienn</u> den <u>6:<h>t</h></u> Julliy. <uu>791</uu>.<lbr type="forced"/>
+<lbr/>
+<add_seal type="owner">A JUNCKER<lbr/>Autogr. 1730</add_seal>
+<pg n="4"/>
+<anschrift rot="90"><rend class="latin">À<lbr type="forced"/>
+Madame<lbr type="forced"/>
+Madame Costance de Mozart<lbr type="forced"/>
+<ts>____________</ts><tshtm>________</tshtm>à</rend><lbr type="forced"/>
+bey Hr: Syndikus<ts>___</ts><tshtm>__</tshtm><rend class="latin"><uu>Baaden</uu>.</rend><lbr type="forced"/>
+<u>abzugeben.</u></anschrift>
+<lbr/>
+<add_note schr_id="48818"><ts>______</ts>49<lbr/><ts>______</ts>27<lbr/><ts>__</ts><u><ts>_____</ts>9</u><lbr/>1 f 25</add_note>
+</NI></letter>
+</text>
+</MUP>

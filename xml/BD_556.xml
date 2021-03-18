@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2013">2013-5</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1122</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:39:27 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_556.mup">
+<letter bd="556"><HEADER id="1122">LEOPOLD MOZART AN WOLFGANG AMADÉ MOZART IN MÜNCHEN<lbr/>
+SALZBURG, 7. DEZEMBER 1780</HEADER>
+<pg n="1"/>
+<ts>_________________</ts><tshtm>___________________________________________________________</tshtm><tspdf>\hfill </tspdf>Salzb<abbr type="curve">:</abbr> d<abbr v="en"/> 7 <rend class="latin">Deceb<abbr type="curve"></abbr></rend>.<lbr type="forced"/>
+<ts>__</ts><rend class="latin">Mon tres cher Fils</rend><ts>_______________</ts><tshtm>______________________________________________________</tshtm><tspdf>\hfill </tspdf>1780<lbr type="forced"/>
+<lbr type="forced"/>
+Die 2 Trompett<abbr v="en"/>&#160;<rend class="latin">Sordini</rend> werden mit dem Postwag<abbr v="en"/> gewiß ko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>.<lbr/>
+allein<lbr type="BD"/> die Waldhorn <rend class="latin">Sordini</rend> gehör<abbr v="en"/> den 2 thurnergesell<abbr v="en"/>, welche itzt<lbr/>
+nicht in<lbr type="BD"/> Salzb<abbr type="curve">:</abbr> sond<abbr v="ern"/> be&#255;m gewöhnlich<abbr v="en"/>&#160;<rend class="latin">Advent</rend>=blaßen auf dem Lande<lbr/>
+sind, nun<lbr type="BD"/> weis man nicht hab<abbr v="en"/> sie die <rend class="latin">Sord</rend>in<abbr v="en"/> |: da sie ihn<abbr v="en"/> gehör<abbr v="en"/> :|<lbr/>
+mit sich<lbr type="BD"/> geno<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>, od<abbr v="er"/> sind sie in ihrem Kast<abbr v="en"/> eingesperrt, ich werde es<lbr/>
+<amend value="">es</amend> künftige Woch<abbr v="en"/>, da sie, aber nur auf ein<abbr v="en"/> Tag, hieherko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>, hören,<lbr/>
+ob ich sie<lbr type="BD"/> hab<abbr v="en"/> ka<abbr type="topline" expand="nn">n</abbr> od<abbr v="er"/> nicht. Ich weis ohnehin nicht obs recht gemacht<lbr/>
+sind: de<abbr type="topline" expand="nn">n</abbr><lbr type="BD"/> sie liessen solche nur vom sehen und ihrer Beschreibung<lbr/>
+nachmach<abbr v="en"/>. &#8211; Die<lbr type="BD"/> Hauptsache ko<abbr type="topline" expand="mm">m</abbr>t ja ohnehin nur auf die Trom<pc force="weak">=</pc><lbr/>pet<abbr v="en"/>&#160;<rend class="latin">Sordi</rend>nen an, das ist<lbr type="BD"/> was fremdes und neues. die Waldhor<pc force="weak">=</pc><lbr/>nist<abbr v="en"/> hab<abbr v="en"/> zu all<abbr v="en"/> zeit<abbr v="en"/> schon solche<lbr type="BD"/>&#160;<rend class="latin"><u>piano</u></rend> gemacht, und sich mit<lbr/>
+hineinsteck<abbr v="en"/> eines Schnupfduches geholf<abbr v="en"/>, da<lbr type="BD"/> es leichter als be&#255;<lbr/>
+der Trompet<abbr v="en"/> Thunlich ist, weil sie den Kessel nahe be&#255; der<lbr type="BD"/><lbr/>
+Hand hab<abbr v="en"/>, alle Waldhornist<abbr v="en"/> wissen so ein<abbr v="en"/>&#160;<rend class="latin">piano</rend> vortheil. &#8211; &#8211; <lbr/>
+Ich<lbr type="BD"/> Hoffe dein Catharr wird nicht schli<abbr type="topline" expand="mm">m</abbr>er se&#255;n, Gott gebe es, wir<lbr/>
+sind, Gott<lbr type="BD"/> lob, gesund. Heute vormittag tratt <rend class="latin">Ceccarelli</rend> zu mir<lbr/>
+<amend value="">mir</amend> mit einem fremd<abbr v="en"/><lbr type="BD"/> ins zi<abbr type="topline" expand="mm">m</abbr>er, &#8211; ich kannte zwar das<lbr/>
+Gesicht, &#8211; &#8211; aber wusste nicht wers war.<lbr type="BD"/> Es war h<abbr type="curve">:</abbr> Esser der<lbr/>
+Violinist den wir in Maynz vor 18 Jahr<abbr v="en"/> geseh<abbr v="en"/>, und<lbr type="BD"/> dem du<lbr/>
+sagtest, <u>er spiele gut, mache aber zu viell und soll lieber geig<abbr v="en"/> wie<lbr type="BD"/><lbr/>
+es geschrieb<abbr v="en"/> stehet</u>. Er ko<abbr type="topline" expand="mm">m</abbr>t von Wie<abbr type="topline" expand="nn">n</abbr> und im Thorzettl stand:<lbr/>
+h<abbr type="curve">:</abbr>&#160;<u>Esser<lbr type="BD"/> Ritter vom Golden<abbr v="en"/> Sporn</u>. <rend class="latin">Sciavo Sgre Collega!</rend><lbr/>
+Er trägt auch fleisig den<lbr type="BD"/> Orden. und ich verzweifle nicht, daß<lbr/>
+er <u>sein<abbr v="en"/> Sporn</u> auf seiner Violine, <rend class="latin">Viola<lbr type="BD"/> d'amour</rend>&#160;<abbr expand="etc">p</abbr>: und and<abbr v="ern"/><lbr/>
+ausserordentlich<abbr v="en"/> Kunstübung<abbr v="en"/> der ganz<abbr v="en"/> Welt im<lbr type="BD"/> vollen<lbr/>
+Liechte darstellen wird; den er spielt, wie höre, ein ganzes <rend class="latin">Concert</rend><lbr/>
+von<lbr type="BD"/> seiner <rend class="latin">Composition</rend> auf einer überspo<abbr type="topline" expand="nn">n</abbr>en<abbr v="en"/>&#160;<rend class="latin">G</rend> Seite ganz allein.<lbr/>
+be&#255; allem<lbr type="BD"/> dem mag er doch auch ein trefflicher Violinspieler se&#255;n,<lbr/>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="2"/>
+Der seine wahr<abbr v="en"/><lbr type="BD"/> verdienste mit <rend class="latin">charlatan</rend>er&#255; verdunkelt. <rend class="latin">Basta!<lbr/>
+Sentiremo!</rend> Er ko<abbr type="topline" expand="mm">m</abbr>t von<lbr type="BD"/> Wie<abbr type="topline" expand="nn">n</abbr>, wo er im Theater <rend class="latin">Concert</rend><lbr/>
+gegeben; ich laß es schon in Zeitung<abbr v="en"/>.<lbr type="BD"/>&#160;<rend class="latin">Ceccarelli</rend> ke<abbr type="topline" expand="nn">n</abbr>t ihn von<lbr/>
+Italien. &#8211; itzt eb<abbr v="en"/> ko<abbr type="topline" expand="mm">m</abbr>t <rend class="latin">Mr: Esser</rend> und wird deine<lbr type="BD"/> Clavier<lbr/>
+<rend class="latin">Sonaten</rend> deiner Schwester <rend class="latin">accompag<abbr type="curve">:</abbr></rend> &#8211; ich muß also schlüss<abbr v="en"/><lbr/>
+um<lbr type="BD"/> die Post nicht zu versäu<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>: da<abbr type="topline" expand="nn">n</abbr> ich ko<abbr type="topline" expand="mm">m</abbr> eb<abbr v="en"/> aus<lbr/>
+der Vesper <abbr expand="und">u</abbr><lbr type="BD"/> Lytane&#255;. Hier ist alles vom <rend class="latin">Varesco</rend> bis auf<lbr/>
+die letzte <rend class="latin">Arie</rend> für <rend class="latin">M: Raff</rend>. du<lbr type="BD"/> wirst noch einige<lbr/>
+and<abbr v="er"/>e Anmerkung<abbr v="en"/> find<abbr v="en"/>, die du sogleich notier<abbr v="en"/> und<lbr type="BD"/><lbr/>
+<rend class="latin">Corrigi</rend>er<abbr v="en"/> musst, damit nichts vergess<abbr v="en"/> wird. deine Schwester<lbr/>
+und ich<lbr type="BD"/> küss<abbr v="en"/> dich <rend class="latin">addio</rend> dein redlicher Vatter<lbr type="forced"/>
+<ts>______________</ts><tshtm>__________________________________________________</tshtm><tspdf>\hfill </tspdf>Mzt <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+Empfehle uns überal.<lbr type="forced"/>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+</letter>
+</text>
+</MUP>

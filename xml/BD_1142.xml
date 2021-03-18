@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2014">2014-5</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1712</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Verbleib unbekannt</bibl>
+            <bibl type="source" subtype="RISM">Verbleib unbekannt</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:42:13 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_1142.mup">
+<letter bd="1142"><NI src="Erstdruck"><HEADER id="1712">WOLFGANG AMADÉ MOZART AN CONSTANZE MOZART IN WIEN<lbr/>
+MANNHEIM, 23. OKTOBER 1790</HEADER>
+<pg n="1"/>
+<ts>_______</ts><tshtm>______________________________________________________________________________________</tshtm><tspdf>\hfill </tspdf>Mannheim den 23. Octbr. 1790.<lbr type="forced"/>
+<ts>__________</ts><tshtm>______</tshtm>Liebstes, bestes Herzens=Weibchen! &#8211; <lbr type="forced"/>
+<ts>__</ts><tshtm>___</tshtm>Morgen gehen wir nach Schwetzingen um den Garten zu sehen &#8211; Abends<lbr type="BD"/>
+ist hier zum erstenmal <rend class="latin">Figaro</rend> &#8211; dann übermorgen fahren wir fort. Eben<lbr type="BD"/>
+<rend class="latin">Figaro</rend> ist Ursache warum ich noch hier bin &#8211; denn das ganze Personale be<lbr type="BD"/>schwor
+mich noch so lange hier zu bleiben und ihnen bey der Probe bey<lbr type="BD"/>zustehen,
+eben das ist auch die Ursache warum ich Dir nicht so viel schreiben<lbr type="BD"/>
+kann als ich schriebe, weil es eben Zeit zur Hauptprobe ist &#8211; Ja, wenigstens<lbr type="BD"/>
+der erste Act schon vorbey sein wird &#8211; ich hoffe daß Du mein Schreiben vom<lbr type="BD"/>
+17ten aus Maintz richtig wirst erhalten haben &#8211; ich habe den Tag vor meiner<lbr type="BD"/>
+Abreise beym Churfürsten gespielt, aber magere 15 Carolin erhalten &#8211; <rend class="latin">in<lbr type="BD"/>caminire</rend>
+Du nur daß das geschieht mit <rend class="latin">H.</rend> &#8211; Nun hoffe ich Dich in 14 Tagen<lbr type="BD"/>
+ganz gewis zu umarmen, in 6 oder 7 Tagen also nach Erhaltung dieses Briefes
+&#8211; doch wirst Du noch von Augsburg, München und Linz Briefe von mir<lbr type="BD"/>
+erhalten, &#8211; Du kannst mir aber nun nicht mehr schreiben, doch wenn Du<lbr type="BD"/>
+gleich nach Empfang schreibst, so kann ich ihn noch in Linz erhalten. Probiere<lbr type="BD"/>
+es. &#8211; Nun lebe wohl, liebstes Weibchen! ich küsse Dich 1000mal und bin<lbr type="forced"/>
+<ts>______</ts><tshtm>__________________________________________________</tshtm><tspdf>\hfill </tspdf>ewig und unveränderlich<lbr type="BD"/><lbr type="forced"/>
+<ts>______</ts><tshtm>____________________________________________________________________________</tshtm><tspdf>\hfill </tspdf>Dein getreuer Gatte<lbr type="BD"/><lbr type="forced"/>
+<ts>______</ts><tshtm>___________________________________________________________________________________________________________</tshtm><tspdf>\hfill </tspdf>Mozart.<lbr type="forced"/>
+</NI></letter>
+</text>
+</MUP>

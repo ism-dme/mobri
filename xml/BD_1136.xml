@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2014">2014-5</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1706</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">US-SPA°</bibl>
+            <bibl type="source" subtype="RISM">US-SPA° (The Schubert Club, Gilman Ordway Manuscript Collection)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:42:10 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_1136.mup">
+<letter bd="1136"><NI src="US-SPA"><HEADER id="1706">WOLFGANG AMADÉ MOZART AN CONSTANZE MOZART IN WIEN ODER BADEN BEI WIEN<lbr/>
+FRANKFURT AM MAIN, 30. SEPTEMBER 1790</HEADER>
+<pg n="1"/>
+<ts>_______________</ts><tshtm>_________</tshtm>Herzallerliebstes Weibchen! &#8211; <lbr type="forced"/>
+<lbr type="forced"/>
+Wenn ich nur schon einen brief von dir hätte, dann wäre mir alles recht. &#8211; <lbr type="BD"/><lbr/>
+Ich hoffe du wirst mein schreiben aus Efferding, und das aus frankfurt<lbr type="BD"/> erhalten<lbr/>
+<add_note schr_id="57010"><ts>__________________________________________________________________________________________________________</ts>N. N.</add_note>
+haben. &#8211; ich habe dir in meinem lezten geschrieben du sollst mit dem<lbr type="BD"/> &#60;Ribisel<pc force="strong">=</pc><lbr/>Gesicht&#62; Sprechen; &#8211; mir wäre, sicherheits halber, recht lieb, wenn ich<lbr type="BD"/> auf des<lbr/>
+H . . . . seinen <rend class="latin">giro</rend> 2000 fl: beko<abbr type="topline" expand="mm">m</abbr>en könnte; &#8211; du musst aber<lbr type="BD"/> eine<lbr/>
+andere Ursache vorwenden, nemlich daß ich eine <rend class="latin">Speculation</rend> im kopf hätte,<lbr/>
+die dir unbewusst wäre; &#8211; Meine liebe! ich werde zweifelsohne gewis<lbr type="BD"/> etwas<lbr/>
+hier machen &#8211; so gros aber wie du und verschiedene freunde es sich<lbr type="BD"/> vor<pc force="weak">=</pc><lbr/>stellen wird es sicherlich nicht se&#255;n. &#8211; bekannt und angesehen bin ich hier<lbr type="BD"/><lbr/>
+genug, das ist gewis. &#8211; Nun &#8211; wir wollen sehen. &#8211; ich liebe aber in<lbr/>
+iedem<lbr type="BD"/> falle das sichere zu Spielen, darum möchte ich gerne das Geschäft<lbr/>
+mit H . . . .<lbr type="BD"/> machen, weil ich dadurch geld beko<abbr type="topline" expand="mm">m</abbr>e, und keines zahlen<lbr/>
+darf, sondern<lbr type="BD"/> blos arbeiten, und das will ich Ja meinen Weibchen<lbr/>
+zu liebe gerne. &#8211; wenn<lbr type="BD"/> du mir schreibst, so schreibe mir i<abbr type="topline" expand="mm">m</abbr>er <rend class="latin"><u>Poste<lbr/>
+restante</u>.</rend> &#8211; wo glaubst du daß<lbr type="BD"/> ich wohne &#8211; be&#255; <rend class="latin">Böhm</rend> im nemlichen<lbr/>
+Hause; Hofer auch. &#8211; wir zahlen 30<lbr type="BD"/> gulden das Monath, und das<lbr/>
+ist noch ausserordentlich wenig. &#8211; wir gehen<lbr type="BD"/> auch zu ihnen in die kost.<lbr/>
+wen glaubst du daß ich hier angetroffen? &#8211; das<lbr type="BD"/> Mädchen welche so<lbr/>
+oft mit uns im Aug=gottes verstecken gespielt hat &#8211;<lbr type="BD"/> buchner glaub' ich<lbr/>
+hiess sie. &#8211; sie heist nun <rend class="latin">Mad:<h>me</h></rend> Porsch, und ist zum<lbr type="BD"/> zweytenmale<lbr/>
+verhe&#255;rathet. &#8211; Sie hat mir aufgetragen alles schöne von ihr<lbr type="BD"/> an dich<lbr/>
+zu schreiben. &#8211; <lbr type="forced"/>
+<pg n="2"/>
+da ich nicht weis ob du in Wien oder in baaden bist so <rend class="latin">adressi</rend>re ich diesen<lbr type="BD"/> brief<lbr/>
+wieder an die Hofer. &#8211; ich freue mich wie ein kind wieder zu dir<lbr type="BD"/> zurück &#8211; <lbr/>
+&#8211; wenn die leute in mein herz sehen könnten, so müsste ich mich fast<lbr type="BD"/> schämen.<lbr/>
+&#8211; es ist alles kalt für mich &#8211; eiskalt &#8211; Ja, wenn du be&#255; mir wärest,<lbr type="BD"/> da<lbr/>
+würde ich vieleicht an dem artigen betragen der leute gegen mich mehr<lbr type="BD"/><lbr/>
+vergnügen finden, &#8211; so ist es aber so leer &#8211; <rend class="latin">adieu</rend> &#8211; liebe &#8211; ich bin<lbr/>
+Ewig<lbr type="forced"/>
+<lbr type="forced"/>
+frankfurt am Main.<lbr type="forced"/>
+<tshtm>_______</tshtm>den 30:<h>t</h> Sept. <uu>790</uu>.<ts>____</ts><tshtm>________________________</tshtm><tspdf>\hfill </tspdf>dein dich von ganzer Seele liebender<lbr type="forced"/>
+<ts>_________</ts><tshtm>_____________________________________________________________________________</tshtm><tspdf>\hfill </tspdf>Mozart <abbr expand="manu propria">mp</abbr>
+</NI></letter>
+</text>
+</MUP>

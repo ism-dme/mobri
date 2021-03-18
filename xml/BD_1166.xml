@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2014">2014-6</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1737</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">US-NYpm</bibl>
+            <bibl type="source" subtype="RISM">US-NYpm (The Morgan Library &amp; Museum)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:42:19 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_1166.mup">
+<letter bd="1166"><NI src="US-NYpm"><HEADER id="1737">WOLFGANG AMADÉ MOZART AN MICHAEL PUCHBERG IN WIEN<lbr/>
+WIEN, 25. JUNI 1791</HEADER>
+<pg n="1"/>
+<ts>____________________</ts><tshtm>_____________</tshtm>liebster, Bester Freund!<lbr type="forced"/>
+<ts>_________________________</ts><tshtm>_______________</tshtm>verehrungswürdigster br:.<lbr type="forced"/>
+<lbr type="forced"/>
+Geschäfte halber habe heute nicht das vergnügen haben können, mit ihnen<lbr type="BD"/> Mündlich zu Sprechen;<lbr/>
+&#8211; Ich habe eine bitte &#8211; Meine frau schreibt mir, daß<lbr type="BD"/> Sie merke man möchte |: obwohl<lbr/>
+es nicht zu <rend class="latin">pretendi</rend>ren seye :| sowohl wegen <rend class="latin">Quartier</rend> als auch wegen kost und Baad gerne<lbr/>
+etwas Geld sehen, und verlanget<lbr type="BD"/> also ich möchte ihr schicken; &#8211; Ich, in der Meinung alles<lbr/>
+auf die lezt beym Abzug<lbr type="BD"/> in ordnung zu bringen, befinde mich nun deswegen in einer<lbr/>
+grossen verlegen<lbr type="BD"/>heit &#8211; Meine arme Frau möchte ich nicht <u>unangenehmen sachen</u> aus=setzen<lbr/>
+&#8211; und<lbr type="BD"/>&#160;<u>entblössen</u> kann ich mich dermalen nicht &#8211; wenn Sie, bester freund, mich<lbr/>
+mit etwas<lbr type="BD"/> unterstützen können, daß ich ihr es sogleich hinaus=schicke, so verbinden<lbr/>
+sie<lbr type="BD"/> mich recht sehr. &#8211; es kö<abbr type="topline" expand="mm">m</abbr>t ohnehin nur auf einige tage an so empfangn<lbr type="BD"/><lbr/>
+Sie in meinem Namen 2000 fl &#8211; wovon sie sich dann gleich bezahlt machen<lbr type="BD"/> können<lbr type="forced"/>
+<ts>_____</ts>Ewig ihr<lbr type="BD"/><lbr type="forced"/>
+<u>von haus</u> den 25:<h>t</h> Jun. <uu>791</uu>.<ts>__</ts><tshtm>______</tshtm><tspdf>\hfill </tspdf>Mozart<lbr type="forced"/>
+<add_note schr_id="57866"><rend class="latin">eod: d:<h>o</h></rend> f 25. geschickt</add_note>
+<add_note type="inline" schr_id="57010"><ts>___________</ts>Daß Voranstehendes meines seligen Mannes<lbr type="forced"/>
+<ts>___________</ts>eigne Schrift ist, bezeuge ich.</add_note>
+<add_note type="inline" schr_id="48818"> izige <rend class="latin">Nissen, W. A Mozarts</rend><lbr type="forced"/>
+<ts>_____________________________________________________</ts>Wittwe seit 1791.</add_note><lbr/>
+<add_note type="inline" schr_id="57010"><ts>__________________________________________________</ts>Ihr <rend class="latin">Gatte <u>Nissen</u></rend><lbr/>
+<ts>_____________________________</ts>Geschrieben im Jahr 1822.</add_note>
+<add_prov><ts>_________</ts><rend class="latin">by M<h>r</h> Swaine</rend></add_prov>
+<pg n="2"/>
+<anschrift><rend class="latin">À<lbr type="forced"/>
+Monsieur<lbr type="forced"/>
+Monsieur Michael de <uu>Puchberg</uu><lbr type="forced"/>
+<uu>chez Lui</uu>.</rend>
+</anschrift>
+</NI></letter>
+</text>
+</MUP>

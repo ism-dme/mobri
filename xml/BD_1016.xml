@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2014">2014-6</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1586</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Privatbesitz</bibl>
+            <bibl type="source" subtype="RISM">Privatbesitz</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:41:39 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_1016.mup">
+<letter bd="1016"><NI src="Unbekannt"><HEADER id="1586">WOLFGANG AMADÉ MOZART AN UNBEKANNT IN WIEN<lbr/>
+WIEN, NACH DEM 16. MAI 1787</HEADER>
+<pg n="1"/>
+Ich bitte um verzeihung daß ich lezthin so frey war die Haydnischen<lbr/>
+<rend class="latin">Quar<lbr type="BD"/>tetten</rend> weg<tshtm>=</tshtm>zunehmen &#8211; aber ich glaube i<abbr type="topline" expand="mm">m</abbr>er, ich <u>flegel</u><lbr/>
+hätte eine Aus<lbr type="BD"/>nahme. &#8211; ich bitte Sie recht schön mir auf Morgen<lbr/>
+zu lehnen. meine 6 <rend class="latin">quar<lbr type="BD"/>tetti</rend> &#8211; das <rend class="latin">Quintett <u>ex g minor</u></rend><lbr/>
+und das Neue <rend class="latin">ex <u>C minor</u></rend>. &#8211; werde es<lbr type="BD"/> morgen alles<lbr/>
+mit Dank zurückstellen. &#8211; gute Nacht.<lbr type="forced"/>
+<ts>_______</ts><tshtm>________________________________________________________</tshtm><tspdf>\hfill </tspdf>Mozart<lbr type="forced"/>
+<pg n="2"/>
+<vacat/></NI>
+</letter>
+</text>
+</MUP>

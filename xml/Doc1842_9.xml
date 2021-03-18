@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2013">2013-3</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=166</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:29:44 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/Doc1842_9.mup">
+<HEADER id="166">EDUARD ANSCHÜTZ, PROLOG ZUR ERÖFFNUNG DES ERSTEN KONZERTES DES MOZARTFESTES IN SALZBURG<lbr/>
+SALZBURG, 4. SEPTEMBER 1842<lbr/>
+Abschrift von Heinrich Anschütz</HEADER>
+
+<pg n="1"/>
+<ts>________________________</ts><rend class="latin">Prolog</rend><lbr type="forced"/>
+<lbr type="forced"/>
+zur Eröffnung des ersten großen Concertes<lbr type="forced"/>
+bey dem Mozartfeste in Salzburg d. 4. <rend class="latin">Sept</rend>. 1842<lbr type="forced"/>
+<ts>_____</ts><rend class="latin">In magnis et voluisse sat est</rend>.<lbr type="forced"/>
+<lbr type="forced"/>
+
+<lg type="poem">Willkommen Alle, die herbeigeströmt<lbr/>
+Von nah und fern aus ihrer Heimath Gauen!<lbr/>
+Im Namen dieser schönen Alpenstadt,<lbr/>
+Heiß ich willkommen Euch &#8211; ein Fremdling selber &#8211; <lbr/>
+Die fremden Gäste. &#8211; &#8211; Doch Ihr seid nicht fremd!<lbr/>
+Denn wie die Losung in der Heereswoge<lbr/>
+Den Waffenbruder schleunig lehrt erkennen,<lbr/>
+So schallt ein Ruf aus Eurem Munde auch,<lbr/>
+Der schnell befreundet, die sich nie gesehn.<lbr/>
+Dies Wort heißt <rend class="latin">Mozart</rend>! &#8211; Gar ein reicher Klang,<lbr/>
+An Großes mahnend, was der Mensch vermag,</lg>
+<pg n="2"/>
+<lg type="poem">Wenn er sich aufschwingt aus dem Erdenstaube.<lbr/>
+Den Schöpfer nennt er süßer Harmonieen,<lbr/>
+Den Zauberer, der oft des Lebens Last<lbr/>
+Uns tragen half in kummervollen Stunden,<lbr/>
+Und lauter tönet heut, wie nie zuvor,<lbr/>
+Der Wiederhall in uns'rer frohen Brust,<lbr/>
+Die wir vereint an jener Stätte weilen,<lbr/>
+Wo einst des Meisters kleine Wiege stand.<lbr/>
+Zwar stammt der Funke, den er in sich trug,<lbr/>
+Von oben her aus höh'rer Lichtesquelle,<lbr/>
+Allein der Ort, der ihn geboren, fachte<lbr/>
+Die Gluthen an mit manchem Liebeshauch.<lbr/>
+Hier, wo aus heiterm, reitzbegabten Thale<lbr/>
+Der Berge Rund sich majestatisch hebt,<lbr/>
+Aufragend in des Himmels dunkle Bläue,</lg>
+<tspdf>\newpage</tspdf> 
+<pg n="3"/>
+<lg type="poem">Hier mußte wohl des Knaben reger Geist,<lbr/>
+In Gottes großem Bildersaal genährt,<lbr/>
+Für lieblich Schönes und Erhab'nes reifen.<lbr/>
+Drum laßt auch uns den Boden den Natur<lbr/>
+Und Kunst geweiht &#8211; wie's ächten Pilgern ziemt -<pc force="weak">-</pc><lbr/>Mit ernstem Sinn und Ehrfurcht nur betreten.<lbr/>
+<ts>_____</ts>Doch ist' s ein freudig Fest, das wir begehen:<lbr/>
+Getilgt ward endlich eine Ehrenschuld,<lbr/>
+Auf uns vererbt noch von der Väter Zeit.<lbr/>
+Nicht länger wahren Mozarts <suppl hand="self" pos="supra">theure</suppl> Züge<lbr/>
+Nur enge Kreise - allem Volk zur Schau,<lbr/>
+Auf offnem Markte, prangen sie aus Erz<lbr/>
+Von würd'ger Hand geformt, an würd'ger Stelle,<lbr/>
+Die ein prophetisch Ahnen ausgewählt.<lbr/>
+Denn aufgerißen gab der Erde Schooß<lbr/>
+Den tausend Jahr verhehlten Raub zurück;<lbr/>
+Ein altes Kunstwerk trat aus seinem Grabe</lg>
+<pg n="4"/>
+<lg type="poem">Dem jüngern weichend, daß des Meisters Bild<lbr/>
+Fortan auf klaßisch heil'gem Grunde throne,<lbr/>
+Wie's dem Verdienst gebührt mit vollem Recht.<lbr/>
+Dort steht es nun und dauernd mag es stehen<lbr/>
+So lang ein Stein von Salzburgs Mauern hält,<lbr/>
+Die vor Juvaviens, der Römerstadt,<lbr/>
+Beklagenswerthem Loos auf immerdar<lbr/>
+Des Doppeladlers starker Fittich schirmt.<lbr/>
+Und ob der Menge launenvolle Gunst,<lbr/>
+Die oft den Gott im Götzen nur erblickt,<lbr/>
+Bekanntes schmähend, nach dem Neusten greife,<lbr/>
+Wird Mozarts Ruhm doch stets gefeiert bleiben,<lbr/>
+Wo edle Herzen warmes Blut durchwallt,<lbr/>
+Und gleich der Lyra, die am Sternenhimmel<lbr/>
+Allnächtlich strahlt, mit nie erloschnem Glanz,<lbr/>
+Wird auch sein Saitenspiel durch's Dunkel strahlen<lbr/>
+Ergrauter Tage, noch in später Zeit,<lbr/>
+Denn unvergänglich lebt in <u>seinen</u> Tönen<lbr/>
+Der reine Geist des Wahren und des Schönen</lg>
+
+</text>
+</MUP>

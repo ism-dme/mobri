@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2014">2014-5</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1349</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Wn</bibl>
+            <bibl type="source" subtype="RISM">A-Wn (Österreichische Nationalbibliothek)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:40:33 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_780.mup">
+<letter bd="780"><HEADER id="1349">WOLFGANG AMADÉ MOZART AN LEOPOLD MOZART IN SALZBURG<lbr/>
+WIEN, 20. MÄRZ 1784</HEADER>
+<pg n="1"/>
+<table rules="none" rows="56" cols="3">
+<tr><td><rend class="latin">Princesse d'Auersperg</rend></td><td><rend class="latin">Comte de Sauer</rend></td><td><rend class="latin">Le Comte Fries</rend></td></tr>
+<tr><td><rend class="latin">Prince charles d'Auersperg</rend></td><td><rend class="latin">d'Härring</rend></td><td><rend class="latin">de Schleinitz</rend></td></tr>
+<tr><td><rend class="latin">Comte Nadasty general</rend></td><td><rend class="latin">Comte Wilhelm d'Auersperg</rend></td><td><rend class="latin">de Puthon</rend></td></tr>
+<tr><td><rend class="latin">L'Ambassadeur</rend></td><td><rend class="latin">Prince Joseph Lobkowitz</rend></td><td><rend class="latin">de Madruce</rend></td></tr>
+<tr><td><rend class="latin">d'Espagne</rend></td><td><rend class="latin">E: Würm</rend></td><td><rend class="latin">de Jacobi</rend></td></tr>
+<tr><td><rend class="latin">Comte Joseph Seilern</rend></td><td><rend class="latin">Comte de Banffi</rend></td><td><rend class="latin">de Lutz</rend></td></tr>
+<tr><td><rend class="latin">Comte de Soldyk</rend></td><td><rend class="latin">Prince Adam d'Auersperg</rend></td><td><rend class="latin">Comtesse Thun née d'Ulfeld</rend></td></tr>
+<tr><td><rend class="latin">Mad:<h>me</h> de Trattner</rend></td><td><rend class="latin">P: J: schwab</rend></td><td><rend class="latin">Jos: de Weinbremes</rend></td></tr>
+<tr><td><rend class="latin">de Grezmüller Maj:</rend></td><td><rend class="latin">Pentzenstein</rend></td><td><rend class="latin">de Smitmer</rend></td></tr>
+<tr><td><rend class="latin">Mad:<h>me:</h> de Hess née Bar: de Ka<abbr type="topline" expand="nn">n</abbr>egiesser</rend></td><td><rend class="latin">de Rosty</rend></td><td><rend class="latin">Ürmeny</rend></td></tr>
+<tr><td><rend class="latin">Comte de Würm</rend></td><td><rend class="latin">Bar: de Waldstätten</rend></td><td><rend class="latin">Bar: de Martini</rend></td></tr>
+<tr><td><rend class="latin">Mad:<h>me</h> de Margelique</rend></td><td><rend class="latin">Isdenizy</rend></td><td><rend class="latin">de Born</rend></td></tr>
+<tr><td><rend class="latin">Bar: Gondar</rend></td><td><rend class="latin">Bedekowich</rend></td><td><rend class="latin">Prince Gallizin</rend></td></tr>
+<tr><td><rend class="latin">Waseige</rend></td><td><rend class="latin">Nèvery</rend></td><td><rend class="latin">Bar: Vockel</rend></td></tr>
+<tr><td><rend class="latin">M<h>r</h>: de Lamezan</rend></td><td><rend class="latin">de Hönikstein</rend></td><td><rend class="latin">Comte Ladislaus d'Ertödy</rend></td></tr>
+<tr><td><rend class="latin">Comtesse Kevenhüller</rend></td><td><rend class="latin">Paszthory</rend></td><td><rend class="latin">Comte Hugart</rend></td></tr>
+<tr><td><rend class="latin">Bar: van Suiten</rend></td><td><rend class="latin">de Grezmüller Jun:</rend></td><td><rend class="latin">Comte Kollnitsch</rend></td></tr>
+<tr><td><rend class="latin">Comtesse Sauer</rend></td><td><rend class="latin">Comtesse Staremberg née Neiperg</rend></td><td><rend class="latin">Leopold Hoyos</rend></td></tr>
+<tr><td><rend class="latin">de So<abbr type="topline" expand="nn">n</abbr>enfels</rend></td><td><rend class="latin">Comtesse Althan née Batiany</rend></td><td><rend class="latin">Comte Czernin</rend></td></tr>
+<tr><td><rend class="latin">Lewenau</rend></td><td><rend class="latin">Comtesse Passowitz</rend></td><td><rend class="latin">Comte Neiperg</rend></td></tr>
+<tr><td><rend class="latin">Comte charles d'Auersperg</rend></td><td><rend class="latin">Comte Nep: d'Herberstein</rend></td><td><rend class="latin">Comte Antoine Batiany</rend></td></tr>
+<tr><td><rend class="latin">Chotek</rend></td><td><rend class="latin">Comte Joseph Potztatzky</rend></td><td><rend class="latin">Prince de Würtemberg</rend></td></tr>
+<tr><td><rend class="latin">C: Aug: Seilern</rend></td><td><rend class="latin">Comte Paar</rend></td><td><rend class="latin">Grenieri Envoyé de Sardaigne</rend></td></tr>
+<tr><td><rend class="latin">Comte d'Herberstein</rend></td><td><rend class="latin">Joseph Palfy</rend></td><td><rend class="latin">Comte Kluschofsky</rend></td></tr>
+<tr><td><rend class="latin">de Fichtl Agent.</rend></td><td><rend class="latin">Comte Koller</rend></td><td><rend class="latin">Joh: Adam Bienenfeld</rend></td></tr>
+<tr><td><rend class="latin">Princesse Palm</rend></td><td><rend class="latin">d'Arensteiner</rend></td><td><rend class="latin">Bar: Wezlar Raymond</rend></td></tr>
+<tr><td><rend class="latin">Prince Palm</rend></td><td><rend class="latin">Bar: Wetzlar Pére.</rend></td><td><rend class="latin">de Drostik</rend></td></tr><lbr type="BD"/>
+<tr><td><rend class="latin">Comte de Nimptsch</rend></td><td><rend class="latin">Comtesse Nimptsch</rend></td><td><rend class="latin">Strurrewitz</rend></td></tr>
+<tr><td><rend class="latin">Conseiller Greiner</rend></td><td><rend class="latin">de Braun</rend></td><td><rend class="latin">Arenfeld</rend></td></tr>
+<tr><td><rend class="latin">Ployer Agent</rend></td><td><rend class="latin">de Luerewald</rend></td><td><rend class="latin">Mad:<h>me</h> Türkheim</rend></td></tr>
+<tr><td><rend class="latin">Mad:<h>me</h> de Hess née de Leporini</rend></td><td><rend class="latin">de Hentschl</rend></td><td><rend class="latin">Mad:<h>me</h> de Poncet</rend></td></tr>
+<tr><td><rend class="latin">L'Evecque d'Herberstein</rend></td><td><rend class="latin">Bar: de Ditmar</rend></td><td><rend class="latin">Dominic Kaunitz</rend></td></tr>
+<tr><td><rend class="latin">Comte de Rottenhan</rend></td><td><rend class="latin">Bar: de Gebsattel</rend></td><td><rend class="latin">Comte d'Ötting</rend></td></tr>
+<tr><td><rend class="latin">Comte Jos: d'Herberstein</rend></td><td><rend class="latin">Comtesse Esterhazy</rend></td><td><rend class="latin">Comte de Kuffstein</rend></td></tr>
+<tr><td><rend class="latin">Jacomini</rend></td><td><rend class="latin">Comte Jean Esterhazy</rend></td><td><rend class="latin">Bar: Winkler</rend></td></tr>
+<tr><td><rend class="latin">Mad.:<h>me</h> de stökel</rend></td><td><rend class="latin">Joseph Dietrichstein</rend></td><td>Reichshof: von Wölkern</td></tr>
+<tr><td><rend class="latin">Comte Gundacker sternberg</rend></td><td><rend class="latin">Bar: de Brandau</rend></td><td><rend class="latin">Bar: de Braun</rend></td></tr>
+<tr><td><rend class="latin">Bar: Toegelman</rend></td><td><rend class="latin">Bar: de Stockmayer</rend></td><td><rend class="latin">Prince de Paar</rend></td></tr>
+<tr><td><rend class="latin">M:<h>r</h> de Käs.</rend></td><td><rend class="latin">Bar: d' Hochstätter</rend></td><td><rend class="latin">Comte d'Oe&#255;nhausen</rend></td></tr>
+<tr><td><rend class="latin">Raab</rend></td><td><rend class="latin">Comtesse Sauer</rend></td><td><rend class="latin">Le Comte de Dzierzanowschy</rend></td></tr>
+<tr><td><rend class="latin">M:<h>r</h> de Jahn</rend></td><td><rend class="latin">Prince Louis Lichtenstein</rend></td><td><rend class="latin">de Knecht</rend></td></tr>
+<tr><td><rend class="latin">d'Edlenbach</rend></td><td><rend class="latin">de Meyenberg</rend></td><td><rend class="latin">Comte sternberg</rend></td></tr>
+<tr><td><rend class="latin">Comtesse Schafgotsch née Kollnitsch</rend></td><td><rend class="latin">Comte Sallabourg</rend></td><td><rend class="latin">Comte Waldstein</rend></td></tr>
+<tr><td><ts>__</ts></td><td><rend class="latin">Bar: de Mandelsloh</rend></td><td><rend class="latin">Comte George Waldstein</rend></td></tr>
+<tr><td><ts>__</ts></td><td><rend class="latin">Louis Würben</rend></td><td><rend class="latin">Le Comte Harrach l'ainé.</rend></td></tr>
+<tr><td><ts>__</ts></td><td><rend class="latin">Ernest Harrach</rend></td><td><rend class="latin">Bar: Zois</rend></td></tr>
+<tr><td><ts>__</ts></td><td><rend class="latin">Le Comte Keplowitz</rend></td><td><rend class="latin">von Ott</rend></td></tr>
+<tr><td><ts>__</ts></td><td><ts>__</ts></td><td><rend class="latin">Le Comte de Nostiz</rend></td></tr>
+<tr><td><ts>__</ts></td><td><ts>__</ts></td><td><rend class="latin">de Nostiz General</rend></td></tr>
+<tr><td><ts>__</ts></td><td><ts>__</ts></td><td><rend class="latin">Bar: Jungwirth</rend></td></tr>
+<tr><td><ts>__</ts></td><td><ts>__</ts></td><td><rend class="latin">Hofrath Bötti</rend></td></tr>
+<tr><td><ts>__</ts></td><td><ts>__</ts></td><td><rend class="latin">Mad:<h>me</h> d'Engelsbourg</rend></td></tr>
+<tr><td><ts>__</ts></td><td><ts>__</ts></td><td><rend class="latin">Comte Marchal</rend></td></tr>
+<tr><td><ts>__</ts></td><td><ts>__</ts></td><td>Hofrath Müller.</td></tr></table>
+<add_note impl="pencil" schr_id=""><rend class="latin">Geschenk des Hrn Custos v. Karajan.</rend></add_note>
+<pg n="2"/>
+<table rules="none" rows="16" cols="2">
+<tr><td><rend class="latin">Bar: Brandau</rend></td><td><rend class="latin">Comte Zinzendorf</rend></td><td>&#160;</td></tr>
+<tr><td><rend class="latin">Comte Wolscheck</rend></td><td><rend class="latin">de Hartenstein</rend></td><td>&#160;</td></tr>
+<tr><td><rend class="latin">Comtesse Waldstein née d'Ulfeld.</rend></td><td><rend class="latin">Bar: Burkardt</rend></td><td>&#160;</td></tr>
+<tr><td><rend class="latin">Mylord Morton.</rend></td><td><rend class="latin">Comte Bergen</rend></td><td>&#160;</td></tr>
+<tr><td><rend class="latin">Mad:<h>me</h> de Puffendorf</rend></td><td><rend class="latin">Bar: de Dalberg</rend></td><td>&#160;</td></tr>
+<tr><td><rend class="latin">chev: Hall</rend></td><td><rend class="latin">Mad:<h>me</h> Betty</rend></td><td>&#160;</td></tr>
+<tr><td><rend class="latin">Mad:<h>me</h> de Neuhold</rend></td><td><rend class="latin">Bar: de Gleichen</rend></td><td>&#160;</td></tr>
+<tr><td><rend class="latin">Comte Adam sternberg</rend></td><td><rend class="latin">M<h>r</h>: de techenbach</rend></td><td>&#160;</td></tr>
+<tr><td><rend class="latin">Comte Etienne Zitchi</rend></td><td><rend class="latin">Bar: Findak</rend></td><td>&#160;</td></tr>
+<tr><td><rend class="latin">Lord stopford</rend></td><td><rend class="latin">Comtesse Apumoni</rend></td><td>&#160;</td></tr>
+<tr><td><rend class="latin">Princesse Lignowsky</rend></td><td><rend class="latin">Comte Charles Zitchi</rend></td><td>&#160;</td></tr>
+<tr><td><rend class="latin">de So<abbr type="topline" expand="nn">n</abbr>enfeld</rend></td><td><rend class="latin">Comte François d'Esterhazy</rend></td><td>&#160;</td></tr>
+<tr><td><rend class="latin">Mad:<h>me</h> de Burkart</rend></td><td><rend class="latin">Bar: d'Engelstrom</rend></td><td>&#160;</td></tr>
+<tr><td><rend class="latin">Prince de Schwarzenberg</rend></td><td><rend class="latin">Prince de Meklenbourg</rend></td><td>&#160;</td></tr>
+<tr><td><rend class="latin">Mad:<h>me</h> d'Eichelbourg</rend></td><td><rend class="latin">Comtesse de Hazfeld</rend></td><td>&#160;</td></tr>
+<tr><td><ts>__</ts></td><td><rend class="latin">Comte Montecuculi<lbr type="BD"/></rend></td><td>&#160;</td></tr></table>
+<add_num impl="pencil"><ts>________________________________________________________________________________________________________________</ts>174</add_num>
+<tshtm><lbr type="forced"/></tshtm>
+Hier haben sie die Liste von allen meinen <rend class="latin">Souscribenten;</rend> &#8211; Ich habe allein<lbr type="BD"/><lbr/>
+um 30 <rend class="latin">Abbonenten</rend> mehr als <rend class="latin">Richter</rend> und <rend class="latin">Fischer</rend> zusa<abbr type="topline" expand="mm">m</abbr>en. &#8211; die Erste<lbr type="BD"/><lbr/>
+<rend class="latin">Academie</rend> am 17:<h>tn</h> dieses ist glücklich abgelauffen &#8211; der Saal war angesteckt<lbr type="BD"/><lbr/>
+voll. &#8211; und das Neue <rend class="latin">Concert</rend> so ich gespiellt hat ausserordentlich gefallen.<lbr type="BD"/><lbr/>
+und wo man hinko<abbr type="topline" expand="mm">m</abbr>t hört man diese <rend class="latin">academie</rend> loben. &#8211; Morgen hätte<lbr/>
+meine<lbr type="BD"/> erste <rend class="latin">academie</rend> im theater se&#255;n sollen &#8211; fürst <rend class="latin">Louis Lichtenstein</rend><lbr/>
+giebt aber<lbr type="BD"/> be&#255; sich <rend class="latin">opera</rend> &#8211; entführt mir nicht allein den kern der<lbr/>
+Noblesse, sondern<lbr type="BD"/>&#160;<rend class="latin">debauchirt</rend> mir auch die Besten leute aus dem <rend class="latin">orchestre</rend>.<lbr/>
+&#8211; ich hab sie also<lbr type="BD"/> durch ein gedrucktes <rend class="latin">Avertissement</rend> auf den 1:<h>tn</h>&#160;<rend class="latin">aprill</rend><lbr/>
+verschieben lassen. &#8211;<lbr type="BD"/> Nun muß ich schlüssen, weil ich zum graf <rend class="latin">Zitchi</rend><lbr/>
+zur <rend class="latin">Academie</rend> muß. &#8211; bis<lbr type="BD"/> die fasten vorbe&#255; ist, müssen sie schon<lbr/>
+mit mir gedult haben. &#8211; wir küssen<lbr type="BD"/> ihn be&#255;de die Hände, und<lbr/>
+umarmen unsre liebe schwester von Herzen und<lbr type="BD"/> sind Ewig dero<lbr type="forced"/>
+<tshtm><lbr type="forced"/></tshtm>
+<rend class="latin"><u>Vie<abbr type="topline" expand="nn">n</abbr>ne</u> ce</rend> 20 <rend class="latin">de mars</rend><lbr type="forced"/>
+<tshtm>____________________</tshtm><uu>1784</uu><ts>____</ts><tshtm>_______________________________________</tshtm><tspdf>\hfill </tspdf>gehorsamste kinder<lbr type="forced"/>
+<lbr type="forced"/>
+Ihr leztes schreiben habe richtig erhalten.<ts>__</ts><tshtm>______</tshtm><tspdf>\hfill </tspdf>W: A: Mozart <abbr expand="manu propria">mp</abbr><lbr/>
+<lbr/>
+<add_seal type="owner">ÖST. NATIONALBIBLIOTHEK<lbr/>WIEN</add_seal>
+</letter>
+</text>
+</MUP>

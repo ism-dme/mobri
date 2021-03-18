@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2019">2019-12</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=557</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">D-B</bibl>
+            <bibl type="source" subtype="RISM">D-B (Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Musikabteilung mit Mendelssohn-Archiv)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:36:13 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_1.mup">
+<letter bd="1">
+<NI src="D-B">
+<HEADER id="557">LEOPOLD MOZART AN JOHANN JAKOB LOTTER IN AUGSBURG<lbr/>
+SALZBURG, 10. APRIL 1755</HEADER>
+<pg n="1"/>
+<ts>_______________</ts>WohlEdl<lbr type="forced"/>
+<ts>__________</ts>Insonders geehrtester <persName key="76865">Herr</persName>!<lbr type="forced"/>
+<ts>_______________</ts>wertester Freund!<lbr type="forced"/>
+<lbr type="forced"/>
+Es Thut mir wirklich recht sehr leid, daß sie die mit<pc force="weak">=</pc><lbr/>gegebene Serenat vergebens<lbr type="BD"/> mit sich nach Augspurg<lbr/>
+geführt haben. Ich dachte es fast; ja ich glaube,<lbr/>
+ich<lbr type="BD"/> hab es ihnen gesagt, daß ich es dem <persName key="82851">h<abbr type="curve">:</abbr> von Rhe<pc force="weak">=</pc><lbr/>ling</persName> überschicket, folglich sehr<lbr type="BD"/> glaubwirdig mutmasse,<lbr/>
+der <persName key="84655">h<abbr type="curve">:</abbr> Wagner</persName> werde es daher etwa erhalt<abbr v="en"/> und<lbr type="BD"/> gar<lbr/>
+schon weiters verhandelt haben. Das beste ist, daß<lbr/>
+man diesen nicht mit<lbr type="BD"/> Vorsatz begangenen fehler heunt<lbr/>
+od<abbr v="er"/> morgen be&#255; Gelegenheit mit was<lbr type="BD"/> anderm ausflick<abbr v="en"/><lbr/>
+mag. warum kaufen sie denn von Se&#255;ten des Musikalisch<abbr v="en"/><lbr type="BD"/><lbr/>
+<rend class="latin">Collegij</rend> nicht lieber eine Sache von der ersten Hand,<lbr/>
+wenn sie doch etwas<lbr type="BD"/> weniges darauf wenden wollen?<lbr/>
+Ist es denn nicht besser ein solches Stück von<lbr type="BD"/> dem Autor<lbr/>
+<lbr/>
+<add_seal type="owner">Ex<lbr/>
+Bibl. Regia<lbr/>
+Berolin.</add_seal>
+<pg n="2"/>
+selbst in guter Schrift und ohne fehler zu haben?<lbr/>
+wissen die guten<lbr type="BD"/> Herrn denn nicht wie schlecht des<lbr/>
+<persName key="84655">h<abbr type="curve">:</abbr> Wagners</persName> Schrift aussieht? Ein solche<lbr type="BD"/> Serenat<lbr/>
+will ich ihnen auch vor diess geld gut und rein<lbr/>
+geschriebner ein<lbr type="BD"/>schicken. Ich hab derer zwe&#255;<lbr/>
+mit fleiss zurück, mit welchen ich ohne zweifel<lbr type="BD"/> Ehre<lbr/>
+einlegen würde. Sie sind: <u>die erste</u>&#160;<rend class="latin">á</rend> 2 <rend class="latin">Violini</rend><lbr/>
+2 <rend class="latin">Hautbois</rend>, 2 <rend class="latin">corni</rend>,<lbr type="BD"/> 2 <rend class="latin">Clarini</rend>, 2 <rend class="latin">fagotti</rend>, <rend class="latin">viola et</rend><lbr/>
+<rend class="latin">Basso</rend> alles <rend class="latin">obligat</rend>. die <rend class="latin">Hautbois</rend>, das <rend class="latin">Clarin</rend> und<lbr type="BD"/><lbr/>
+<rend class="latin">Corno</rend> nicht weniger die 2 <rend class="latin">fagotti</rend> haben ihre zwisch<abbr v="en"/><lbr/>
+<rend class="latin">Solo</rend>. Man darf aber<lbr type="BD"/> nicht denken, daß etwa die<lbr/>
+<rend class="latin">fagott</rend> etwas schweres haben, Nein! sie haben nur<lbr type="BD"/><lbr/>
+gewisse artige zwischenspiele. <u>die zwe&#255;te Serenat</u>.<lbr/>
+bestehet in 2 <rend class="latin">Violin</rend><abbr v="en"/>,<lbr type="BD"/> 2 <rend class="latin">Hautbois</rend>, 2 <rend class="latin">Corni</rend>, 2 <rend class="latin">clarini</rend>, <rend class="latin">viola</rend><lbr/>
+<rend class="latin">e Basso</rend>. Hier hab<abbr v="en"/> die <rend class="latin">Hautb:</rend>, und nicht<lbr type="BD"/> die <rend class="latin">fagott</rend> artige<lbr/>
+<pg n="3"/>
+Zwischenspiele, die <rend class="latin">Corni</rend> und das <rend class="latin">Clarino</rend> 1<h><rend class="latin">mo</rend></h> ihre Solos.<lbr type="BD"/><lbr/>
+Be&#255;de Serenaten sind Prächtig, haben viele, und durchaus<lbr/>
+fröhliche Stücke,<lbr type="BD"/> die mit Abwechselung der Instrumente<lbr/>
+i<abbr type="topline" expand="mm">m</abbr>er etwas besonderes vortragen.<lbr type="BD"/> Allein! die Production,<lbr/>
+die liebe Production, darauf ko<abbr type="topline" expand="mm">m</abbr>t halt alles an.<lbr type="forced"/>
+<lbr type="forced"/>
+Nun auf meine Schmierere&#255; zu ko<abbr type="topline" expand="mm">m</abbr>en. Ich hab in d<abbr v="er"/> That<lbr/>
+mit vielem Ver<lbr type="BD"/>langen dero zuschrift entgeg<abbr v="en"/> gesehen.<lbr/>
+und werde dieser Täge so viel als<lbr type="BD"/> ein Bogen wenigst<lbr/>
+austrägt ins Reine schreiben und so gleich damit i<abbr type="topline" expand="mm">m</abbr>er<lbr type="BD"/><lbr/>
+fortfahren. Entzwischen bitte mir mit nächster Post<lbr/>
+zu berichten wie viel <u>der<lbr type="BD"/> Unterschied von 500 und<lbr/>
+1000 <rend class="latin">Exemplar</rend> beträgt</u>. <u>wie hoch das Papier ko<abbr type="topline" expand="mm">m</abbr>et,<lbr type="BD"/><lbr/>
+nämlich in klein <rend class="latin">Median quart</rend>.</u>&#160;<u>mit einem Wort, was<lbr/>
+es mehr beträgt wenn<lbr type="BD"/> 1000 Exemplar aufgelegt werd<abbr v="en"/></u>.<lbr/>
+<pg n="4"/>
+<add_empf>1755. d<abbr v="en"/> 10. Aprill, aus Salzburg, von<lbr/>
+h<abbr type="curve">.</abbr>&#160;<rend class="latin">Leopold Mozart</rend>.</add_empf>
+<lbr type="forced"/>
+Ich vertraue auf dero Ehre und freundschaft,<lbr type="BD"/> und kan<lbr/>
+versichern, daß, wenn sie mich, wie ich mir schmeichle,<lbr/>
+gut halten;<lbr type="BD"/> ich nicht weniger be&#255; aller Gelegenheit<lbr/>
+mich nach Kräften beeufern werde, dero<lbr type="BD"/> Bestes nach<lbr/>
+meiner Möglichkeit zu befördern.<lbr type="forced"/>
+Ich gedenke mit dem Druck gleich be&#255; dem ersten<lbr/>
+Hauptstück anfangen zu<lbr type="BD"/> lassen: denn das Titul<pc force="weak">=</pc><lbr/>blat, zuaignungsschrift, und Vorrede kan allezeit<lbr type="BD"/><lbr/>
+gedruckt werden. Ich hoffe, weil ich die Ehre<lbr/>
+habe der erste zu se&#255;n von wel<lbr type="BD"/>chem sie von<lbr/>
+dieser Art Schriften in dero ansehnlich<abbr v="en"/> Druckere&#255;<lbr/>
+etwas auf<lbr type="BD"/>legen, se&#255;t der zeit als sie verehlicht, und<lbr/>
+gänzlich Patron sind: so werden sie<lbr type="BD"/> auch mir etwas<lbr/>
+zu gute Thun, so mich i<abbr type="topline" expand="mm">m</abbr>er mehr dero freundschaft über<pc force="weak">=</pc><lbr/>zeiget<lbr type="BD"/> und mich noch mehr verbindet mich leblänglich<lbr/>
+zu ne<abbr type="topline" expand="nn">n</abbr>en.<lbr type="forced"/>
+<ts>_____________________________</ts>EE:<ts>_____</ts>Dero<lbr type="forced"/>
+<ts>__________________________________________</ts><tspdf>\hfill </tspdf>Ergebensten<lbr type="forced"/>
+ich empfehle mich dem Musikalisch<abbr v="en"/><ts>_______</ts><tspdf>\hfill </tspdf><persName key="39408">Leopold Mozart</persName>&#160;<abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<rend class="latin">Collegio</rend>. nicht weniger dero<lbr type="forced"/>
+<persName key="84656">Frau Liebsten</persName>.<ts>____________________</ts><tspdf>\hfill </tspdf>Salzb<abbr type="curve">:</abbr> d<abbr v="en"/> 10<h>ten</h>&#160;<rend class="latin">aprilis</rend> 1755
+</NI>
+</letter>
+</text>
+</MUP>

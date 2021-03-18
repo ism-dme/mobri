@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2014">2014-9</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=763</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm (S. 1-2); P-La (S. 3-4)</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana), S. 1-2</bibl>
+            <bibl type="source" subtype="RISM">P-La (Biblioteca do Palácio Nacional da Ajuda), S. 3-4</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:37:17 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_202.mup">
+<letter bd="202"><HEADER id="763">LEOPOLD MOZART AN MARIA ANNA MOZART IN SALZBURG<lbr/>
+BOLOGNA, 4. AUGUST 1770<lbr/>
+mit Beilage von Wolfgang Amadé Mozart an Maria Anna (Nanner) Mozart</HEADER>
+<pg n="1"/>
+<ts>______________</ts><tshtm>_____________________________________________________</tshtm><tspdf>\hfill </tspdf><rend class="latin">Bologna</rend> d<abbr v="en"/> 4<h>t<abbr v="en"/></h>&#160;<rend class="latin">augusti</rend><lbr type="forced"/>
+<ts>______________</ts><tshtm>______________________________________________________________________________</tshtm><tspdf>\hfill </tspdf><u>1770</u><lbr type="forced"/>
+<lbr type="forced"/>
+Ich schreibe dieses noch auf dem Bette. nicht aber daß mein rechter<lbr/>
+fuß gefährlich ist: Nein! Gott Lob, dieser ist besser, obwohl itzt die<lbr/>
+Haut abgeht,<lbr type="BD"/> und er so aussieht, als hätte ich die Kindsblattern gehabt.<lbr/>
+allein, nebst dem,<lbr type="BD"/> daß ich diesen recht<abbr v="en"/> fuß noch schone, um nicht eine<lbr/>
+neue Geschwulst zu<lbr type="BD"/> zuzieh<abbr v="en"/>, so ka<abbr type="topline" expand="nn">n</abbr> nicht geh<abbr v="en"/>, weg<abbr v="en"/> dem Linck<abbr v="en"/> fuß; be&#255;<lbr/>
+dem ich über<lbr type="BD"/> Nacht am ball<abbr v="en"/> und ein und and<abbr v="er"/><abbr v="en"/> Zeh<abbr v="en"/> ein solcher starker<lbr/>
+schmerz<abbr v="en"/> und<lbr type="BD"/> kleine Geschwulst angesetzt, die schier gar dem Podagra<lbr/>
+gleich siehet, und<lbr type="BD"/> mich zu geh<abbr v="en"/> hindert. Nun ko<abbr type="topline" expand="mm">m</abbr>e schwärlich aus diesem<lbr/>
+Wirtshause unter<lbr type="BD"/> 20 duccatt<abbr v="en"/>, we<abbr type="topline" expand="nn">n</abbr>s nur kleckt. In Gottes Nahm<abbr v="en"/>,<lbr/>
+we<abbr type="topline" expand="nn">n</abbr> man nur i<abbr type="topline" expand="mm">m</abbr>er<lbr type="BD"/> seine Haut davon bringt, holle der Plund<abbr v="er"/> das geld!<lbr/>
+Es war uns sehr traurig zu vernehm<abbr v="en"/>, daß die Jungf<abbr type="curve">:</abbr> Martherl eine<lbr/>
+Lungensucht und Abzehrung am Halß hat. Sie hat freylich schon i<abbr type="topline" expand="mm">m</abbr>er<lbr/>
+so mager<lbr type="BD"/> ausgeseh<abbr v="en"/>. solle man da<abbr type="topline" expand="nn">n</abbr> mit anfeuchtend<abbr v="en"/> sach<abbr v="en"/> einer so Jung<abbr v="en"/><lbr/>
+Person<lbr type="BD"/> nicht zu Hilfe ko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/> könn<abbr v="en"/>? &#8211; &#8211; Man ka<abbr type="topline" expand="nn">n</abbr> halt nicht gewiß wiss<abbr v="en"/>, wo<lbr/>
+eine solche Abzehrung herko<abbr type="topline" expand="mm">m</abbr>t. Es darf nicht allzeit eine Lungensucht se&#255;n.<lbr/>
+Es giebt viele and<abbr v="er"/>e Ursach<abbr v="en"/>, die dem Mensch<abbr v="en"/> eine Abzehrung zuziehen,<lbr/>
+sond<abbr v="er"/>heitl: be&#255;m frauenzi<abbr type="topline" expand="mm">m</abbr>er. Es ist also freylich hart zu helfen, we<abbr type="topline" expand="nn">n</abbr><lbr/>
+man die Ursache nicht ergründ<abbr v="en"/> ka<abbr type="topline" expand="nn">n</abbr>. Ich ka<abbr type="topline" expand="nn">n</abbr> dich versichern, daß uns be&#255;de<lbr/>
+diese Nachricht in eine grosse Betrübniß gesetzt hat. Gott Helfe ihr! &#8211; &#8211; <lbr/>
+wir<lbr type="BD"/> empfehl<abbr v="en"/> uns und wünsch<abbr v="en"/> von Herz<abbr v="en"/> gute besserung.<lbr type="forced"/>
+Und ist der h<abbr type="curve">:</abbr> Stöckl also wirkl: närrisch? &#8211; &#8211; Es ist doch ganz was beson<pc force="weak">=</pc><lbr/>deres, daß ich die Ehre nicht hatte, so lange ich in Salzb<abbr type="curve">:</abbr> war, ihn in seinem<lbr/>
+rechten närrisch<abbr v="en"/> Wurm zu seh<abbr v="en"/>. Ich bedaure seine Frau von herz<abbr v="en"/>.<lbr/>
+das<lbr type="BD"/> ist ganz gewiß ein unglücklicher Zufall.<lbr type="forced"/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal><lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="2"/>
+Ich dancke der fr: <rend class="latin">Hagenauerin</rend> für die abschrift der Strizlsalb<abbr v="en"/>,<lbr/>
+wenigst ist<lbr type="BD"/> es, we<abbr type="topline" expand="nn">n</abbr> nicht irre, ihre Handschrift.<lbr type="forced"/>
+Wir hab<abbr v="en"/> noch keine Hitze, und ich <suppl hand="self" pos="supra">bin</suppl> frohe, da<abbr type="topline" expand="nn">n</abbr> sonst hätte<lbr/>
+ich, beständig<lbr type="BD"/> auf dem bette zu se&#255;n, verzweifeln müss<abbr v="en"/>.<lbr type="forced"/>
+dem H<abbr type="curve">:</abbr> Joha<abbr type="topline" expand="nn">n</abbr>es lasse sag<abbr v="en"/>, daß den <rend class="latin">Sgr Bortolo Tiboni</rend> hart bis<lbr/>
+<rend class="latin">Venedig</rend><lbr type="BD"/> mehr seh<abbr v="en"/> werde. Ich weis nicht ob ich es geschrieb<abbr v="en"/> habe, daß<lbr/>
+ich zu <rend class="latin">Neapl</rend><lbr type="BD"/> be&#255;m <rend class="latin">Banquier Boracini</rend> in einer abend<pc force="weak">=</pc><lbr/>geselschaft den h<abbr type="curve">:</abbr>&#160;<rend class="latin">Obexer</rend> angetroff<abbr v="en"/>, welcher Jesuiter gewes<abbr v="en"/>.<lbr/>
+dieser tag<abbr v="en"/> war der h<abbr type="curve">:</abbr>&#160;<u><rend class="latin">Misliwetschek</rend></u> be&#255;<lbr type="BD"/> mir, da<abbr type="topline" expand="nn">n</abbr> der <rend class="latin">Castrat<lbr/>
+<u>Manfredini</u></rend>, der be&#255; uns im Zi<abbr type="topline" expand="mm">m</abbr>er war, da er von<lbr type="BD"/> Russland kam.<lbr/>
+auch war be&#255; mir sein Bruder der <u>Capellmstr. <rend class="latin">Manfredini</rend></u>,<lbr/>
+und<lbr type="BD"/> ein gewisser <u><rend class="latin">Schmid</rend></u> welcher in <rend class="latin">Bern Concert</rend> gegeb<abbr v="en"/>, den<lbr/>
+h<abbr type="curve">:</abbr>&#160;<rend class="latin">Schulz</rend> |: dem<lbr type="BD"/> wir uns empf<abbr type="curve"></abbr> :| gut ke<abbr type="topline" expand="nn">n</abbr><abbr v="en"/> wird, der h<abbr type="curve">:</abbr>&#160;<rend class="latin">Mis<pc force="weak">=</pc><lbr/>liwetschek</rend> hat die <rend class="latin">Scrittura</rend> in<lbr type="BD"/> Mayland die erste <rend class="latin">opera</rend><lbr/>
+des <rend class="latin">Carnevals</rend> 1772 zu mach<abbr v="en"/>, folglich ein Jahr<lbr type="BD"/> nach dem Wolfgangerl.<lbr/> 
+Aus meinem letzt<abbr v="en"/> schreib<abbr v="en"/> wirst umständlich geseh<abbr v="en"/> hab<abbr v="en"/>, was die erste<lbr/>
+<rend class="latin">opera</rend> in Mayland ist, und wer die Sänger sind.<lbr type="BD"/> die Zwe&#255;te <rend class="latin">opera</rend><lbr/>
+<add_note schr_id="57010">in Mailand</add_note>
+wird die <rend class="latin">Nitetti</rend> se&#255;n. lebet wohl, wir kiss<abbr v="en"/> euch 1000 mahl<lbr/>
+und ich bin d<abbr v="er"/> alte d<abbr v="er"/>mahl ungedultige Podagrische<lbr type="forced"/>
+<ts>___________________</ts><tshtm>__________________________________________</tshtm><tspdf>\hfill </tspdf>bettsitzer <u>Mzt <abbr expand="manu propria">mp</abbr></u><lbr type="forced"/>
+<lbr type="forced"/>
+unser <rend class="latin">Compt:<h>e</h></rend> in und ausser dem Hauß.<lbr type="forced"/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal><lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="3"/>
+<NI src="P-La"><NS type="Beilage" schr_id="39409" adr_id="48817">Ich bedaure recht von herzen, daß die Jungfrau <rend class="latin">Martha</rend> i<abbr type="topline" expand="mm">m</abbr>er so<lbr/>
+krank ist, und<lbr type="BD"/> bette alle tag für sie, damit sie gesund werde; sage<lbr/>
+ihr an statt meiner, sie<lbr type="BD"/> solle nicht zu viel bewegung<lbr/>
+machen, und brav gesulzte sachen essen. <rend class="latin">appropos</rend>, hast du den<lbr/>
+Robinigsigerl meinen brief geben? du schreibst mir<lbr type="BD"/> nichts<lbr/>
+darvon, ich bitte, wenn du ihn siehst, so sage ihm, er soll<lbr/>
+auf mich<lbr type="BD"/> nit gar vergessen. Ich kan ohnmöglich schöner schreiben,<lbr/>
+dan die feder<lbr type="BD"/> ist eine nottenfeder und keine schriftfeder.<lbr/>
+Nun ist meine geigen neü beseitet,<lbr type="BD"/> und ich spielle alle<lbr/>
+tag; aber dieses seze ich nur darzu, weil meine mama<lbr type="BD"/> ein<pc force="weak">=</pc><lbr/>mahl zu wissen verlangte, ob ich noch geige. gewis über<lbr/>
+6 mahl habe ich<lbr type="BD"/> die ehre gehabt allein in die kirchen und<lbr/>
+prächtigen <rend class="latin">funtiones</rend> zu gehen.<lbr type="BD"/> unterdessen habe ich schon<lbr/>
+4 itallienische <rend class="latin">Sinfonien componirt</rend>, außer de<abbr type="topline" expand="nn">n</abbr><lbr type="BD"/> arien,<lbr/>
+derer ich gewis 5 oder 6 schon gemacht habe, und auch eine<lbr/>
+<rend class="latin"><amend value="motetten">mottenten</amend></rend>. ko<abbr type="topline" expand="mm">m</abbr>t der herr <rend class="latin">deibl</rend> öfters, beehrt er eüch<lbr/>
+noch mit seinen unterhaltlichen<lbr type="BD"/>&#160;<rend class="latin">Discorsen</rend>? und h<abbr type="curve">:</abbr> edler<lbr/>
+<rend class="latin">Carl</rend> von Vogt, würdiget er sich noch eüre unerträgliche<lbr type="BD"/> stim<pc force="weak">=</pc><lbr/>men anzuhören? Der h<abbr type="curve">:</abbr> von schidenhofen soll dir fleissig<lbr/>
+<rend class="latin">Menuett</rend> schreiben<lbr type="BD"/> helfen, sonst beko<abbr type="topline" expand="mm">m</abbr>t er keine zuckerl nit.<lbr type="forced"/>
+<pg n="4"/>
+meine schuldigkeit wäre, wen es mir die zeit erlaubete, h<abbr type="curve">:</abbr> von<lbr/>
+Mölck und<lbr type="BD"/> schidenhofen mit ein paar zeilen beede zu belästigen,<lbr/>
+aber da mir das nothwendigste darzu mangelt, so bitte ich<lbr/>
+meinen fehler zu verze&#255;en, und mir auf<lbr type="BD"/> das zukünftige diese<lbr/>
+ehre aufgehoben se&#255;n zu lassen.<lbr type="forced"/>
+<ts>__________________________</ts>Anfäng unterschiedlicher <rend class="latin">Casationes</rend>:<lbr type="forced"/>
+<object type="mus" src="BD202_T"></object><lbr type="forced"/><lbr type="BD"/>
+hier habe ich dein verlangen<lbr/>
+vollbracht, Ich glaube<lbr/>
+schwerlich daß es einer<lbr type="BD"/> von mir se&#255;n wird; dan wer wurde<lbr/>
+sich den unterstehen eine <rend class="latin">Composition</rend>,<lbr type="BD"/> welche der Sohn des<lbr/>
+<rend class="latin">capell</rend>meisters gemacht hat und dessen mutter und<lbr type="BD"/> schwester<lbr/>
+da ist, für sich aus zugeben? <rend class="latin">addio</rend>, lebe wohl: meine einzige<lbr/>
+lustbarkeit besteht dermallen in englischen schritten und<lbr/>
+<rend class="latin">Caprioll</rend> und <rend class="latin">spaccad</rend> machen. Italien ist ein schlafland,<lbr/>
+es schläffert einen imer. <rend class="latin">addio</rend>, lebe wohl.<lbr type="forced"/>
+<lbr type="forced"/>
+den 4<h>ten</h>&#160;<rend class="latin">august</rend>&#160;<u>1770</u>.<lbr type="forced"/>
+<ts>_________________________________________</ts><tspdf>\hfill </tspdf><rend class="latin">Wolfgang Mozart</rend> mp<lbr type="forced"/>
+<postxt loc="rm" rot="90">an alle gute<lbr/>
+freünd und freündinen<lbr/>
+mein <rend class="latin">Compliment</rend>.<lbr/>
+meinen Handkus an die mama.</postxt></NS></NI></letter>
+</text>
+</MUP>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2015">2015-5</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1382</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:40:42 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_813.mup">
+<letter bd="813"><HEADER id="1382">LEOPOLD MOZART AN MARIA ANNA VON BERCHTOLD ZU SONNENBURG IN ST. GILGEN<lbr/>
+SALZBURG, NACH DEM 9. OKTOBER 1784</HEADER>
+<pg n="1"/>
+<add_note schr_id=""><ts>________________</ts>[Salzburg &#8211; Im <rend class="latin">October</rend> 1784]</add_note>
+Als ich nach Hauß ka<abbr type="topline" expand="mm">m</abbr> <u>um 6 uhr</u>, gieng ich noch in die<lbr/>
+<rend class="latin">Comoedie</rend>. &#8211; die<lbr type="BD"/> tresel war der Esel und schickte mir den brief<lbr/>
+von meinem Sohn nicht, d<abbr v="er"/><lbr type="BD"/> schon d<abbr v="en"/> 9<h>t<abbr v="en"/></h> geschrieb<abbr v="en"/> und gleich nach meiner<lbr/>
+hinausreise anka<abbr type="topline" expand="mm">m</abbr>.<lbr type="BD"/> Schicke mir also be&#255; d<abbr v="er"/> allererst<abbr v="en"/> Gelegenheit<lbr/>
+das <rend class="latin">Concert <u>ex G</u></rend>, damit es<lbr type="BD"/> geschwind ka<abbr type="topline" expand="nn">n</abbr> abschreib<abbr v="en"/> lass<abbr v="en"/>.<lbr type="forced"/>
+Unterdess<abbr v="en"/> schreibe dir die <u><rend class="latin">Cadenzen</rend> zum <rend class="latin">Concert ex D</rend></u> selbst ab,<lbr/>
+und schicke<lbr type="BD"/> mirs durch den Both<abbr v="en"/>: du magst nun deine Schrift<lbr/>
+alsda<abbr type="topline" expand="nn">n</abbr> behalt<abbr v="en"/>, od<abbr v="er"/><lbr type="BD"/> deines Bruders, das ist eins.<lbr type="forced"/>
+Herr Haselberger schickte nur 100 f, ließ mir dabe&#255; sag<abbr v="en"/>, er hätte<lbr/>
+vom<lbr type="BD"/>&#160;<rend class="latin">Syndicat</rend> ein<abbr v="en"/> and<abbr v="er"/><abbr v="en"/> Befehl <amend value="">befehl</amend> beko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>. ich ließ ihm meld<abbr v="en"/>,<lbr/>
+er<lbr type="BD"/> möchte es nur an h<abbr type="curve">:</abbr> Pfleger selbst bericht<abbr v="en"/>.<lbr type="forced"/>
+Hier sind die 2 Thaler zurück.<lbr type="forced"/>
+folgt da<abbr type="topline" expand="nn">n</abbr> auch <u>die Seifen</u>, und <u>die Kerz<abbr v="en"/></u>. <u>die 7 Th<abbr type="curve">:</abbr></u> des <rend class="latin">Carl<lbr/>
+Grandison</rend>.<lbr type="BD"/> die <u>4 th: <rend class="latin">Schoberths Sonaten</rend></u>. die <u><rend class="latin">Phantasien</rend>.</u><lbr/>
+<u>6 grosse Limoni<abbr v="en"/> à 5 <rend class="latin">X</rend></u> anders<lbr type="BD"/> waren sie nicht zu beko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>.<lbr/>
+<u>die Hausenblater, à 8 <rend class="latin">X</rend><h>r</h></u>. und <u>d<abbr v="er"/> Spiegl</u>. h<abbr type="curve">:</abbr><lbr type="BD"/> Pertl wird ihn<lbr/>
+leimen. Die Hausenblater liegt im Spiegl. Ich danke dem<lbr/>
+h<abbr type="curve">:</abbr><lbr type="BD"/> Sohn auf das verbindlichste für alle empfangene Höflichkeit<abbr v="en"/><lbr/>
+küsse be&#255;de<lbr type="BD"/> von Herz<abbr v="en"/> und bin d<abbr v="er"/> alte redliche Vatter Mozart <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+Küsse die Kind<abbr v="er"/> alle! in E&#255;l.<lbr type="forced"/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="2"/>
+<anschrift rot="90"><rend class="latin">À Madame<lbr type="forced"/>
+Madame de So<abbr type="topline" expand="nn">n</abbr>enbourg</rend></anschrift>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+</letter>
+</text>
+</MUP>

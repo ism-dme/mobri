@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2009">2009-08-20</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=143</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:29:37 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/Doc1840_1_mup.txt">
+<HEADER id="143"> P. E. BEYER AN CONSTANZE NISSEN IN SALZBURG<lbr/>
+KOPENHAGEN, 18. JANUAR 1840</HEADER>
+
+
+<pg n="1"/>
+Den Belauf Dero halbjährigen Pension aus der hiesigen algemeine<lbr/>
+Witwencasse, bis 31 <rend class="latin">Dec</rend>br ist <unclear>unsere schult</unclear> zum Btg. &#38; 292 = 7 (welche<lbr/>
+ich heute remittire an Herrn <rend class="latin">M J Jenisch</rend> in Hamburg. wie ge<pc force="weak">-</pc><lbr/>wöhnlich, <suppl hand="self" pos="supra"><unclear>bereit</unclear></suppl> durch ihn an Sie befördert zu werden. &#8211; Obschon dero letzten<lbr/>
+Schreiben mir aufgibt das Geld an <rend class="latin">Schuler &#38; Co.</rend> in Wienn zu<lbr/>
+überschikken habe ich dieses so verstanden daß solches durch <rend class="latin">Jenisch<h>s</h></rend><lbr/>
+Mithülfe geschehen muß, weil hier nicht Wechseln directe auf<lbr/>
+<rend class="latin">Wien</rend> zu haben sind und es weit größere Weytläuftigkeit und Kosten<lbr/>
+verursachen würde wenn ich einen in Hamburg zahlbaren Wech<suppl hand="#DME"><pc force="strong">-</pc></suppl><lbr/>sel nach <rend class="latin">Wien</rend> versandte, von wo aus es nachher rükwarts nach<lbr/>
+Hamburg müßte zur EinCassirung.<lbr type="forced"/>
+<ts>_____</ts>Da Conferenzrath <rend class="latin">Thorwaldsen</rend> sein aufenhalt hat gehabt auf<lbr/>
+<rend class="latin">Nysbe</rend> bis er vor kurzer Zeit hieher zurükkam so ließ ich dero<lbr/>
+Schreiben an ihn mit der Post befördern und er wird es also<lbr/>
+gewis erhalten haben.<lbr type="forced"/>
+<ts>_____</ts>Copenhagen den 18<h><uu>ten</uu></h>&#160;<rend class="latin">Jan<h><uu>uar</uu></h></rend><ts>____</ts><tshtm>_________________</tshtm><tspdf>\hfill </tspdf>ergebenst<h>er</h><lbr type="forced"/>
+<ts>________________</ts>1840.<ts>__________</ts><tshtm>________________________________________________</tshtm><tspdf>\hfill </tspdf><rend class="latin">Beyer</rend><lbr/><lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="2"/>
+<anschrift rot="270">An<lbr type="forced"/>
+die Frau Etatsrathinn <rend class="latin">Constanze</rend><lbr type="forced"/>
+von <rend class="latin">Nissen</rend><lbr type="forced"/>
+in<lbr type="forced"/>
+<rend class="latin">Salzburg</rend><lbr type="forced"/>
+<rend class="latin">franco</rend><ts>__</ts><suppl hand="diff" pos="inline"><abbr expand="Oesterreich Grenze">OestrGr</abbr></suppl><ts>_____</ts>in Österreich<lbr type="forced"/>
+<stroke>&#160;<rend class="latin">Hamburg</rend></stroke></anschrift><lbr type="forced"/>
+<add_seal type="post">DANEMARK<lbr/>
+PAR HAMBOURG</add_seal><lbr type="forced"/>
+<add_seal type="post">T. T. <lbr type="forced"/>
+HAMBURG<lbr type="forced"/>
+21. JAN. 40.</add_seal><lbr type="forced"/>
+<add_seal type="post">SALZBURG<lbr type="forced"/>
+1. FEB</add_seal></text>
+</MUP>

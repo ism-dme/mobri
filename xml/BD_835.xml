@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2015">2015-5</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1404</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Privatbesitz</bibl>
+            <bibl type="source" subtype="RISM">Privatbesitz</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:40:47 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_835.mup">
+<letter bd="835"><NI src="Privat"><HEADER id="1404">LEOPOLD MOZART AN MARIA ANNA VON BERCHTOLD ZU SONNENBURG IN ST. GILGEN<lbr/>
+SALZBURG, 14. JANUAR 1785</HEADER>
+<pg n="1"/>
+<tshtm>_________________________________________________________________</tshtm><add_num type="inline" impl="pencil"><ts>____________</ts>5</add_num><ts>______________</ts><tspdf>\hfill </tspdf>Salzb<abbr type="curve"></abbr> d<abbr v="en"/> 14<h>t<abbr v="en"/></h> Je<abbr type="topline" expand="nn">n</abbr>er<lbr type="forced"/>
+<ts>_____________</ts><tshtm>__________________________________________________________________________________________________</tshtm><tspdf>\hfill </tspdf>1785.<lbr type="forced"/>
+<lbr type="forced"/>
+Die Salztragerin kam vor einer stunde, und wird um 11 od<abbr v="er"/> 12 uhr wied<abbr v="er"/><lbr type="BD"/> abreis<abbr v="en"/>.<lbr/>
+Ich danke für das überschickte; wir werd<abbr v="en"/> es schon geg<abbr v="en"/> einand<abbr v="er"/><lbr type="BD"/> abrechn<abbr v="en"/>. Hier ist<lbr/>
+die <u>Strützlsalbe</u>, ihr därft nur schreib<abbr v="en"/>, we<abbr type="topline" expand="nn">n</abbr> ihr wied<abbr v="er"/><lbr type="BD"/> eine braucht, die Fr hagenauer<lbr/>
+macht sich die grösste freude daraus euch zu<lbr type="BD"/> bedien<abbr v="en"/>, sie wird dieser täge eine frische<lbr/>
+mach<abbr v="en"/>: es hat erst eine Magd ihr<lbr type="BD"/> die Hände jä<abbr type="topline" expand="mm">m</abbr>erlich verbre<abbr type="topline" expand="nn">n</abbr>t, und sich damit<lbr/>
+vollko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>&#160;<rend class="latin">Curie</rend>rt. von<lbr type="BD"/> d<abbr v="er"/> Köchin Andacht konnte ich nichts anders als gutes<lbr/>
+urtheil<abbr v="en"/>, da<abbr type="topline" expand="nn">n</abbr> ich<lbr type="BD"/> sahe sie, so oft ich in d<abbr v="er"/> 10 uhr Messe war, welches da<abbr type="topline" expand="nn">n</abbr> auch<lbr/>
+alle Son<lbr type="BD"/>tag und Feyrtag gewiß geschah, allezeit an dem näml: Platze. &#8211; &#8211; <lbr type="forced"/>
+das übrige betreffend, hast du vollko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/> recht: nur soll die Na<abbr type="topline" expand="nn">n</abbr>erl aufmerk<pc force="weak">=</pc><lbr/>sam und fleisig seyn. den Englisch<abbr v="en"/>&#160;<rend class="latin">Conto</rend> weg<abbr v="en"/> der uhr habe frei<lbr type="BD"/>lich, &#8211; aber konnte<lbr/>
+ich ihn itzt in d<abbr v="er"/> Geschwindigkeit find<abbr v="en"/>? <u>ich werde noch<lbr type="BD"/> nachsuch<abbr v="en"/></u>, &#8211; da ist er gewis:<lbr/>
+so viel mir eri<abbr type="topline" expand="nn">n</abbr>erlich ist, werde 4 <formula type="mfrac"><mn>1</mn><mi>2</mi></formula> <rend class="latin">guinés</rend><lbr type="BD"/> bezahlt hab<abbr v="en"/>, das wären also<lbr/>
+<u>49 f 30 <rend class="latin">X</rend><h>r</h> od<abbr v="er"/> 50 f</u>. &#8211; Die <rend class="latin">opera</rend> war wied<abbr v="er"/><lbr type="BD"/> so voll, wie sonst, ich weis<lbr/>
+nicht wie viels über 100 f Ei<abbr type="topline" expand="nn">n</abbr>ahme war. Am<lbr type="BD"/>&#160;<u>Montag</u> d<abbr v="en"/> 17<h>t<abbr v="en"/></h> ists wied<abbr v="er"/>.<lbr/>
+nachdem aber wirds wohl nicht mehr bis den<lbr type="BD"/>&#160;<u>Fasching Erchtag</u> gegeb<abbr v="en"/> werd<abbr v="en"/>.<lbr/>
+Die Einwilligung zu meiner Reise habe<lbr type="BD"/> zwar noch nicht, &#8211; weis aber auch<lbr/>
+nicht, ob d<abbr v="er"/> Obersthofmeister schon mit<lbr type="BD"/> dem Erzb<abbr type="curve">:</abbr> gesproch<abbr v="en"/>, ob er schon be&#255;<lbr/>
+Hof war, da<abbr type="topline" expand="nn">n</abbr> er hatte ein<abbr v="en"/> Catharr;<lbr type="BD"/> unterdess<abbr v="en"/> hat d<abbr v="er"/> alte <rend class="latin">Arco</rend> schon vor<pc force="weak">=</pc><lbr/>läuftig den Erzb<abbr type="curve">:</abbr>&#160;<rend class="latin">informie</rend>rt, und mir<lbr type="BD"/> gesagt, er hätte gar nichts<lbr/>
+bemerkt, daß er entgeg<abbr v="en"/> se&#255;n werde. Daß es euch<lbr type="BD"/> nicht Lieb ist, das glaube<lbr/>
+von Herz<abbr v="en"/> gern, mir selbst ists, weg<abbr v="en"/> euch, nicht<lbr type="BD"/> angenehm: allein weg<abbr v="en"/><lbr/>
+einig<abbr v="en"/> wenig<abbr v="en"/> täg<abbr v="en"/> euers hiesig<abbr v="en"/> Aufenthalts<lbr type="BD"/> ka<abbr type="topline" expand="nn">n</abbr> ich ja eine solche Reise<lbr/>
+nicht ausschlag<abbr v="en"/>, die, obs mir gleich zu einer<lbr type="BD"/> ungelegen<abbr v="en"/> Jahrszeit ko<abbr type="topline" expand="mm">m</abbr>t,<lbr/>
+mir gelegenheit verschafft, die <rend class="latin">opera</rend> eines<lbr type="BD"/> neu<abbr v="en"/>&#160;<rend class="latin">Maestro</rend>, den ich nicht<lbr/>
+ke<abbr type="topline" expand="nn">n</abbr>e, in Münch<abbr v="en"/> zu hör<abbr v="en"/>; und ohne meine<lbr type="BD"/> Unköst<abbr v="en"/> nach Wie<abbr type="topline" expand="nn">n</abbr> zu reisen,<lbr/>
+die schöne Wirtschaft deines Brud<abbr v="er"/>s zu<lbr type="BD"/> bewund<abbr v="ern"/>, und die <rend class="latin">gravie</rend>rung<lbr/>
+der <rend class="latin">ClavierSonat<abbr v="en"/></rend> d<abbr v="er"/> Marsch<abbr type="curve">:</abbr> Kind<abbr v="er"/>, samt<lbr type="BD"/> ein<abbr v="en"/> und and<abbr v="ern"/> zu veranstalt<abbr v="en"/>.<lbr/>
+geht die Reise vor sich so reise den 28<h>t<abbr v="en"/></h><lbr type="BD"/> hier weg.<lbr type="forced"/>
+auf dem erst<abbr v="en"/>&#160;<rend class="latin">Ball</rend> war<abbr v="en"/> einige 40 Person<abbr v="en"/>. d<abbr v="er"/> alte h<abbr type="curve">:</abbr>&#160;<rend class="latin">v</rend><lbr/>
+<rend class="latin">Aman</rend> ist i<abbr type="topline" expand="mm">m</abbr>er schlecht. das schwarze düchl wird mit dem<lbr/>
+weis<abbr v="en"/> ko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>. die tücher sind in<lbr type="BD"/> d<abbr v="er"/> wäsche. das übrige werde<lbr/>
+besorg<abbr v="en"/>. die Glastragerin sitzt be&#255;m ofen und<lbr type="BD"/> wartet, ich küsse<lbr/>
+den h<abbr type="curve">:</abbr> Sohn, dich und alle von Herz<abbr v="en"/>&#160;<abbr expand="und">u</abbr> bin d<abbr v="er"/> alte<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>______________</ts><tshtm>________________________________________________________</tshtm><tspdf>\hfill </tspdf>Mozart <abbr expand="manu propria">mp</abbr>
+<pg n="2"/>
+<vacat/>
+</NI></letter>
+</text>
+</MUP>

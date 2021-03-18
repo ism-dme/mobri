@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2011">2011-05</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=786</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Wn</bibl>
+            <bibl type="source" subtype="RISM">A-Wn (Österreichische Nationalbibliothek)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:37:26 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_225.mup">
+<letter bd="225"><NI src="A-Wn"><HEADER id="786">LEOPOLD MOZART AN MARIA ANNA MOZART IN SALZBURG<lbr/>
+MAILAND, 29. DEZEMBER 1770</HEADER>
+<pg n="1"/>
+<ts>______________</ts><tshtm>________________________________________________________________</tshtm><tspdf>\hfill </tspdf>Mayland d<abbr v="en"/> 29<h>t<abbr v="en"/></h>&#160;<rend class="latin">Dec<abbr type="curve">:</abbr></rend> 1770<lbr type="forced"/>
+<lbr type="forced"/>
+Gott se&#255; gelobt die erste Aufführung der <rend class="latin">Opera</rend> ist d<abbr v="en"/> 26<h>t<abbr v="en"/></h> mit allgemein<abbr v="en"/><lbr/><lbr type="BD"/>
+Be&#255;fall vorsich gegang<abbr v="en"/>: und zwe&#255; sach<abbr v="en"/>, die in Mayland noch niemals<lbr type="BD"/> gescheh<abbr v="en"/>,<lbr/>
+sind dabe&#255; vorgegang<abbr v="en"/>; nämlich, daß |: wied<abbr v="er"/> alle Gewohnheit<lbr type="BD"/> der erst<abbr v="en"/>&#160;<rend class="latin">Sera</rend> :|<lbr/>
+eine <rend class="latin">Arie</rend> der <rend class="latin">prima Do<abbr type="topline" expand="nn">n</abbr>a</rend> ist wiederhollt word<abbr v="en"/>, da man<lbr type="BD"/> sonst be&#255; der erst<abbr v="en"/><lbr/>
+<rend class="latin">production</rend> niemals <rend class="latin">fora</rend> rufft, und zweytens, daß be&#255;<lbr type="BD"/> fast all<abbr v="en"/> Arien,<lbr/>
+kaum ein paar Ari<abbr v="en"/>&#160;<rend class="latin">delle ultime Parti</rend> ausgeno<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>, nach<lbr type="BD"/> d<abbr v="er"/> Arie ein erstaunliches<lbr/>
+Händeklatsch<abbr v="en"/> und <rend class="latin">Viva il Maestro, viva il<lbr type="BD"/> Maestrino</rend> ruff<abbr v="en"/> erfolget.<lbr type="forced"/>
+den 27<h>t<abbr v="en"/></h> sind 2 <rend class="latin">Arien</rend> der <rend class="latin">prima do<abbr type="topline" expand="nn">n</abbr>a</rend> wied<abbr v="er"/>hollt word<abbr v="en"/>: und da es do<abbr type="topline" expand="nn">n</abbr>erstag war,<lbr/>
+folglich, da es in den freytag hineingieng, so muste man<lbr type="BD"/> such<abbr v="en"/> kurz davon zu<lbr/>
+ko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>, sonst würde auch das <rend class="latin">Duetto</rend> wiederhollt<lbr type="BD"/> word<abbr v="en"/> se&#255;n, de<abbr type="topline" expand="nn">n</abbr> d<abbr v="er"/> Lerm fieng<lbr/>
+schon an. allein die meist<abbr v="en"/> wollt<abbr v="en"/> noch<lbr type="BD"/> zu hause etwas Ess<abbr v="en"/>, und die <rend class="latin">opera</rend><lbr/>
+mit 3 <rend class="latin">ballett<abbr v="en"/></rend> dauert seine 6 Starke<lbr type="BD"/> stunde: man wird aber itzt die <rend class="latin">Ballett</rend><lbr/>
+abkürz<abbr v="en"/> den sie dauern 2 Starke stunde.<lbr type="BD"/><tshtm>___</tshtm> Wie hab<abbr v="en"/> wir nicht gewunsch<abbr v="en"/>, daß<lbr/>
+du und die Na<abbr type="topline" expand="nn">n</abbr>erl das vergnüg<abbr v="en"/><lbr type="BD"/> hab<abbr v="en"/> könntest die <rend class="latin">opera</rend> zu seh<abbr v="en"/>! &#8211; &#8211; <lbr type="forced"/>
+Niemals war be&#255; Mannsgedenk<abbr v="en"/> eine solche Begierde die erste <rend class="latin">opera</rend> in <lbr type="BD"/> Mayland<lbr/>
+zu seh<abbr v="en"/>, als disses mahl; indem bevor ein so erschröcklicher widerspruch war, und<lbr/>
+da zwe&#255; sagt<abbr v="en"/> daß die <rend class="latin">opera</rend> gut se&#255;n werde, schon 10 and<abbr v="er"/>e<lbr type="BD"/> war<abbr v="en"/>, die zum<lbr/>
+voraus wust<abbr v="en"/>, daß es eine dalkere&#255;, and<abbr v="er"/>e, daß es ein<lbr type="BD"/> Mischmasch, and<abbr v="er"/>e aber<lbr/>
+daß es eine deutsche barbarische Musick se&#255;n werde.<lbr type="BD"/> Hier hilft auch<lbr/>
+nichts die <rend class="latin">Protection</rend> zum Beyfall d<abbr v="er"/> <rend class="latin">opera</rend>, da<abbr type="topline" expand="nn">n</abbr> ied<abbr v="er"/> der<lbr type="BD"/> hineingehet will<lbr/>
+red<abbr v="en"/>, schre&#255;<abbr v="en"/> und urtheil<abbr v="en"/> für sein Geld, wie er es findet.<lbr type="BD"/> die <rend class="latin">Protection</rend><lbr/>
+diente uns, und war nothwendig, damit die <rend class="latin">Composition</rend> nicht<lbr type="BD"/> gehindert,<lbr/>
+und dem <rend class="latin">Maestro</rend> kein Brügel unter die füsse geworff<abbr v="en"/> wird unter<lbr type="BD"/> d<abbr v="er"/> Zeit,<lbr/>
+da er schreibt, und dan be&#255; den Prob<abbr v="en"/>, damit er nicht gehind<abbr v="er"/>t<lbr type="BD"/> wird, und<lbr/>
+<lbr/>
+<add_seal type="owner">BIBLIOTHECA PALAT<lbr/>
+VINDOBONENSIS</add_seal>
+<pg n="2"/>
+damit einige bosshaft<abbr v="en"/> im <rend class="latin">Orchester</rend> od<abbr v="er"/> unter den <rend class="latin">Reciti</rend>erend<abbr v="en"/><lbr type="BD"/> ihm<lbr/>
+kein<abbr v="en"/> Poss<abbr v="en"/> spiel<abbr v="en"/> könn<abbr v="en"/>. dieses schreibe in Eyl, indem heute die<lbr/>
+3<h>te</h><lbr type="BD"/>&#160;<rend class="latin">Recita</rend> ist. du weist, daß alle Leute in <rend class="latin">Itali</rend><abbr v="en"/> and<abbr v="er"/>e Na<abbr type="topline" expand="mm">m</abbr><abbr v="en"/> beko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>.<lbr/>
+zum<lbr type="BD"/> Exmp<abbr type="curve">.</abbr>&#160;<rend class="latin">Hasse</rend> heist <rend class="latin">Sassone. Galuppi</rend> heist <rend class="latin">Buranello</rend>&#160;<abbr expand="etc:">p:</abbr>&#160;<abbr expand="etc:">p:</abbr><lbr/>
+unsern Sohn<lbr type="BD"/> heiss<abbr v="en"/> sie <rend class="latin">il Sgr: Cavaliere Filarmonico</rend>.<lbr type="forced"/>
+Wir küss<abbr v="en"/> euch beyde 100000mahl, empfehl<abbr v="en"/> uns all<abbr v="en"/> freund<abbr v="en"/> und<lbr/>
+freundin<abbr v="en"/>&#160;<abbr expand="und">u</abbr> bin dein alter<lbr type="forced"/>
+<ts>___________</ts><tshtm>_______________________________________________________</tshtm><tspdf>\hfill </tspdf><u>Mozart <abbr expand="manu propria">mp</abbr></u><lbr type="forced"/>
+<lbr type="forced"/>
+Man wird dir im Nahm<abbr v="en"/> der <rend class="latin">Mad:<h>e</h> d'Aste</rend> od<abbr v="er"/> Troger<pc force="strong">=</pc><lbr/>Mariandl <u>60 <rend class="latin">duccatt<abbr v="en"/></rend></u> auszahl<abbr v="en"/>. das übrige werde<lbr/>
+mit nächst<abbr v="en"/> bericht<abbr v="en"/>.<lbr/>
+<lbr/>
+<add_seal type="owner">ÖST: NATIONALBIBLIOTHEK<lbr/>WIEN</add_seal></NI></letter>
+</text>
+</MUP>

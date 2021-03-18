@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2011">2011-05</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=768</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:37:19 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_207.mup">
+<letter bd="207"><HEADER id="768">LEOPOLD MOZART AN MARIA ANNA MOZART IN SALZBURG<lbr/>
+CROCE DEL BIACCO, 8. SEPTEMBER 1770<lbr/>
+mit Nachschrift von Wolfgang Amadé Mozart an Maria Anna (Nannerl) Mozart</HEADER>
+<pg n="1"/>
+
+<ts>____________</ts><tshtm>_________________________________________________________________</tshtm><tspdf>\hfill </tspdf><rend class="latin">Bologna</rend> 8 <rend class="latin">Sept:</rend> 1770<lbr type="forced"/>
+<lbr type="forced"/>
+Dein<abbr v="en"/> Brief vom 24 <rend class="latin">aug<abbr type="curve">:</abbr></rend> habe richtig erhalt<abbr v="en"/>, so wie du meine Briefe<lbr/>
+vom<lbr type="BD"/> 21, 25, <rend class="latin">aug<abbr type="curve">:</abbr></rend> und 1<h>t<abbr v="en"/></h>&#160;<rend class="latin">Sept<abbr type="curve">:</abbr></rend> hoffentl: wirst empf<abbr type="curve">:</abbr> hab<abbr v="en"/>.<lbr type="forced"/>
+Die Violinschule hat h<abbr type="curve">:</abbr>&#160;<rend class="latin">Brinsechi</rend> noch nicht erhalt<abbr v="en"/>, und ich wünschte, daß<lbr/>
+<lbr type="BD"/> noch <suppl hand="self" pos="supra"><u>2</u></suppl>, auf diese Art in einem Leinwadball<abbr v="en"/>, od<abbr v="er"/> be&#255; Gelegenheit<lbr/>
+des Ko<abbr type="topline" expand="mm">m</abbr>end<abbr v="en"/> Ander=Bozner Markt nach Botz<abbr v="en"/> gebracht und einem<lbr/>
+<rend class="latin">Bologne</rend>ser<lbr type="BD"/> Kaufman alda behändiget würde, der es alsda<abbr type="topline" expand="nn">n</abbr> dem<lbr/>
+<u>h<abbr type="curve">:</abbr>&#160;<rend class="latin">Brinsechi</rend></u> hier in<lbr type="BD"/>&#160;<rend class="latin">Bologna</rend> einlieferte: de<abbr type="topline" expand="nn">n</abbr> h<abbr type="curve">:</abbr>&#160;<rend class="latin">Brinsechi</rend> ko<abbr type="topline" expand="mm">m</abbr>t<lbr/>
+niemals nach <rend class="latin">Bozen</rend>, aber<lbr type="BD"/> and<abbr v="er"/>e Kaufleute aus <rend class="latin">Bologna</rend>.<lbr type="forced"/>
+Unterlasse nicht mir zu schreib<abbr v="en"/>, ja umständlich zu schreib<abbr v="en"/> was für<lbr/>
+Geistl:<lbr type="BD"/> Räthe in Salzb<abbr type="curve">:</abbr> angelanget, und wie es mit diesen <rend class="latin">Congress</rend><lbr/>
+gehet, und wo<lbr type="BD"/> er gehalt<abbr v="en"/> wird. kannst du es nicht schreib<abbr v="en"/>, so bitte<lbr/>
+den h<abbr type="curve">:</abbr> Joha<abbr type="topline" expand="nn">n</abbr>es hag<abbr type="curve">:</abbr><lbr type="BD"/> od<abbr v="er"/> h<abbr type="curve">:</abbr> Joseph, daß er es schreibt.<lbr type="forced"/>
+<u>Was du mir sonst geschrieb<abbr v="en"/>, darauf werde dir zu seiner Zeit ant<pc force="weak">=</pc><lbr/>wort<abbr v="en"/>.</u><lbr type="BD"/> bis itzt sind wir noch auf dem Lande, Gott Lob, gesund.<lbr type="forced"/>
+Ich habe nach Mayland geschrieb<abbr v="en"/>, um zu vernehm<abbr v="en"/> ob unser wohnung<lbr/>
+alda in Ordnung <suppl hand="self" pos="supra">ist</suppl>,<lbr type="BD"/> und gebett<abbr v="en"/>, daß man solche besorg<abbr v="en"/> solle, indem <suppl hand="self" pos="infra">wir</suppl><lbr/>
+ein Monat eher eintreff<abbr v="en"/> werd<abbr v="en"/>, nämlich, längstens anfangs <rend class="latin">octobris</rend>,<lbr/>
+anstatt anfangs <rend class="latin">Novembris:</rend> und da ich <rend class="latin">Livorno</rend> nicht habe seh<abbr v="en"/> kö<abbr type="topline" expand="nn">n</abbr><abbr v="en"/>,<lbr/>
+so werde von Mayland<lbr type="BD"/> aus eine kleine Reise nach den <rend class="latin">Boromæi</rend>sch<abbr v="en"/><lbr/>
+Inseln mach<abbr v="en"/>, die nicht weit<lbr type="BD"/> entfernt und sehenswürdig sind.<lbr type="forced"/>
+<u>Sind an h<abbr type="curve">:</abbr> otto in Frankfurt einige Bücher geschickt word<abbr v="en"/>?</u> &#8211; &#8211; <lbr/>
+Es ist die<lbr type="BD"/> höchste Zeit. sind sie nicht geschickt word<abbr v="en"/>, und ist es<lbr/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal><lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="2"/>
+schon zu spät, daß<lbr type="BD"/> h<abbr type="curve">:</abbr> Wall[n]er eine <rend class="latin">quantität</rend> wenigst von 15 <rend class="latin">Ex<abbr type="curve">:</abbr></rend><lbr/>
+mitnehm<abbr v="en"/>, od<abbr v="er"/> vorausschick<abbr v="en"/> ka[<abbr type="topline" expand="nn">n</abbr>], so ist das sicherste Mittl<lbr/>
+alsogleich an <u>h<abbr type="curve">:</abbr> JoHann Jacob Lotter Buchdrucker und Musikver</u><pc force="weak">=</pc><lbr/><u>leger</u>&#160;<suppl hand="self" pos="supra">in augspurg</suppl>&#160;<u>ohnweit dem Voglthor wohnhaft</u><lbr type="BD"/> zu schreib<abbr v="en"/>, und ihm<lbr/>
+zu <rend class="latin">ordini</rend>er<abbr v="en"/>, daß er alsogleich 24 <rend class="latin">Ex<abbr type="curve">:</abbr></rend> an <u>h<abbr type="curve">:</abbr> David<lbr type="BD"/> Otto Organist<abbr v="en"/></u><lbr/>
+<u>zu den Baarfüssern, wohnhaft ohnweit dem Leonardsthor in<lbr type="BD"/> Frankfort</u><lbr/>
+<u>am Ma&#255;n</u> absend<abbr v="en"/> solle, damit solche in der Frankforter Messe<lbr type="BD"/> noch<lbr/>
+alda eintreff<abbr v="en"/>. <tshtm>___</tshtm>du wirst diesen Brief d<abbr v="en"/> 15<h>t<abbr v="en"/></h> empfang<abbr v="en"/>;<lbr/>
+du must<lbr type="BD"/> also gleich den 17<h>t<abbr v="en"/></h> schreib<abbr v="en"/>, so empfengt h<abbr type="curve">:</abbr> Lotter den Brief<lbr/>
+den 19<h>t<abbr v="en"/></h>;<lbr type="BD"/> und kann gleich anstalt mach<abbr v="en"/>. Sollt<abbr v="en"/> aber bereits einige<lbr/>
+Bücher, wie hoffe,<lbr type="BD"/> nach Frankfort geschickt word<abbr v="en"/> se&#255;n; indem ich dir<lbr/>
+geschrieb<abbr v="en"/> habe, daß<lbr type="BD"/> es mich gewundert, daß du d[ic]h dessweg<abbr v="en"/> angefragt,<lbr/>
+indem du aus dem Brief<lbr type="BD"/> des h<abbr type="curve">:</abbr> Otto und aus meiner hinterlassen<abbr v="en"/><lbr/>
+<rend class="latin">specification</rend> geseh<abbr v="en"/>, od<abbr v="er"/> hättest<lbr type="BD"/> seh<abbr v="en"/> könn<abbr v="en"/>, daß er alle empfangene<lbr/>
+Bücher bezahlt hat, folglich von Neapl<lbr type="BD"/>&#160;<rend class="latin">[o]rdini</rend>ert, daß<lbr/>
+man ihm einige schick<abbr v="en"/> solle: sollten nun, sage ich, einige bereits<lbr/>
+geschickt word<abbr v="en"/> se&#255;n; so ka<abbr type="topline" expand="nn">n</abbr> man, dem h<abbr type="curve">:</abbr> Wallner noch einige<lbr/>
+<u>6 St<abbr type="curve">:</abbr></u> od<abbr v="er"/> so viel er <suppl hand="self" pos="infra">gleich</suppl> mit nehm<abbr v="en"/> ka<abbr type="topline" expand="nn">n</abbr>, mit geb<abbr v="en"/>. Ich ka<abbr type="topline" expand="nn">n</abbr> nicht auf<lbr/>
+alles denk<abbr v="en"/>, und ich glaubete, daß ihr zu Hause dergleich<abbr v="en"/> sachen<lbr/>
+besorg<abbr v="en"/>,<lbr type="BD"/> daran denken, mich be&#255; Zeit<abbr v="en"/> eri<abbr type="topline" expand="nn">n</abbr>ern, und unser aller<lbr/>
+<rend class="latin">interesse</rend> mit Eyfer<lbr type="BD"/> besorg<abbr v="en"/> solltet, da ihr wisst, wie viel Sach<abbr v="en"/> ich<lbr/>
+zu denk<abbr v="en"/> habe; und <u><rend class="latin">NB</rend></u><lbr type="BD"/> Frankfort ist einer d<abbr v="er"/> besten ort.<lbr type="forced"/>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="3"/>
+In deinem nächst<abbr v="en"/> Briefe gieb mir umständlich hierauf antwort,<lbr/>
+damit ich<lbr type="BD"/> dem h<abbr type="curve">:</abbr> otto auch selbst schreib<abbr v="en"/> und ihm von d<abbr v="er"/> Anzahl<lbr/>
+der <rend class="latin">Exe<abbr type="curve">:</abbr></rend>, die man<lbr type="BD"/> ihm schicket, od<abbr v="er"/> geschicket hat nachricht geb<abbr v="en"/> kann.<lbr/>
+indem ihm ohnehin<lbr type="BD"/> schreib<abbr v="en"/> und ihn belehr<abbr v="en"/> muß, daß er mir in<lbr/>
+seiner letzt<abbr v="en"/> verrechnung noch<lbr type="BD"/> 2 <abbr_cur expand="Gulden"><rend class="latin">f</rend></abbr_cur> schuldig geblieb<abbr v="en"/>. Ich erwarte also<lbr/>
+diese Antwort, wir kiss<abbr v="en"/> euch beyde<lbr type="BD"/> 1000 mahl und bin dein alter<lbr type="forced"/>
+<ts>__________</ts><tshtm>_______________________________________________________________</tshtm><tspdf>\hfill </tspdf>Leop Mozart <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+An alle freunde und freundin<abbr v="en"/> in und<lbr/>
+ausser dem Hause unsere Empf<abbr type="curve">:</abbr><lbr type="forced"/>
+<lbr type="forced"/>
+<NS type="NS" schr_id="39409" adr_id="48817">Damit ich nicht wider meine schuldigkeit fehle, so will ich ein<lbr/>
+parr wort<lbr type="BD"/> auch schreiben. ich bitte mir zu schreiben, in was für <u>bruder</u><pc force="weak">=</pc><lbr/><u>schaften</u> ich bin,<lbr type="BD"/> und mir selbige <u>darzu nothwendige gebetter</u> zu<lbr/>
+wissen zu machen. izt lese ich<lbr type="BD"/> Just den <u>telemach,</u> ich bin schon in<lbr/>
+zwe&#255;ten theil. inz[w]ischen lebe wohl.<lbr type="forced"/>
+meinen handkus an <suppl hand="self" pos="supra">die</suppl> mama.<lbr type="forced"/>
+<ts>___________</ts><tshtm>____________________________________________________</tshtm>
+<tspdf>\hfill </tspdf><rend class="latin">Wolfgang Mozart</rend>&#160;<abbr expand="manu propria">mp</abbr><lbr/>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal></NS>
+<pg n="4"/>
+<anschrift rot="270"><rend class="latin">À Madame<lbr type="forced"/>
+Madame Marie Anne Mozart<lbr type="forced"/>
+<ts>______________</ts>à<lbr type="forced"/>
+<u>par Mantova</u><ts>______</ts><u>Salzbourg</u></rend></anschrift><lbr/>
+<add_note schr_id="48817" rot="90"><rend class="latin">N:<h>o</h></rend> 39 aus <rend class="latin">Bologna</rend>.</add_note><lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal></letter>
+</text>
+</MUP>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2014">2014-6</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1639</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">CZ-JIa</bibl>
+            <bibl type="source" subtype="RISM">CZ-JIa (Jindřichúv Hradec (= Neuhaus)</bibl>
+            <bibl type="source" subtype="RISM">Státní oblastní archív Třebon</bibl>
+            <bibl type="source" subtype="RISM">pobocka Jindřichúv Hradec)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:41:52 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_1069.mup">
+<letter bd="1069"><NI src="CZ-JIa"><HEADER id="1639">WOLFGANG AMADÉ MOZART AN GOTTFRIED VON JACQUIN IN WIEN<lbr/>
+PRAG, 15. BIS 25. OKTOBER 1787</HEADER>
+<pg n="1"/>
+<ts>_________</ts><tshtm>________________________________________________________________________________________</tshtm><tspdf>\hfill </tspdf>Prag den 15:<h>ten</h>&#160;<rend class="latin">octb:</rend>&#160;<uu>1787</uu>.<lbr type="forced"/>
+<ts>__________</ts><tshtm>__________</tshtm>liebster freund! &#8211; <lbr type="forced"/>
+<lbr type="forced"/>
+Sie werden vermuthlich glauben daß nun meine Oper schon vorbe&#255; ist &#8211; doch &#8211;<lbr type="BD"/> da irren<lbr/>
+sie sich ein bischen; Erstens ist das hiesige theatralische Personale nicht so geschickt<lbr/>
+wie das zu Wienn um eine solche oper in so kurzer zeit ein<lbr type="BD"/>zustudiren.<lbr type="forced"/>
+zwe&#255;tens fand ich be&#255; meiner Ankunft so wenige vorkehrungen und Anstal<lbr type="BD"/>ten,<lbr/>
+daß es eine blosse unmöglichkeit gewesen se&#255;n würde, Sie am 14:<h>ten</h> als<lbr type="BD"/> gestern zu<lbr/>
+geben; &#8211; Man gab also gestern be&#255; ganz <rend class="latin">illumini</rend>rten theater<lbr type="BD"/> meinen <rend class="latin">figaro</rend>,<lbr/>
+den ich selbst dirigirte. &#8211; be&#255; dieser gelegenheit muß ich ihnen<lbr type="BD"/> einen Spass erzehlen.<lbr/>
+&#8211; einige von den hiesigen ersten damen |: besonders<lbr type="BD"/> eine gar hocherläuchte :| geruhten<lbr/>
+es sehr lächerlich, unschicklich, und was weis<lbr type="BD"/> ich alles zu finden, daß man der Prinzessin<lbr/>
+den <rend class="latin">figaro</rend>, <u>den tollen tag</u> |: wie<lbr type="BD"/> sie sich auszudrücken beliebten :| geben wollte; &#8211; Sie<lbr/>
+bedachten nicht daß<lbr type="BD"/> keine oper in der Welt sich zu einer solchen gelegenheit schiken<lbr/>
+kann, wenn<lbr type="BD"/> Sie nicht beflissentlich dazu geschrieben ist; daß es sehr gleichgültig<lbr/>
+se&#255;e, ob<lbr type="BD"/> sie diese oder Jene oper geben, wenn es nur eine gute und der Prinzessin<lbr/>
+unbe<lbr type="BD"/>kannte oper ist; und das lezte wenigstens war <rend class="latin">figaro</rend> gewis. &#8211; kurz, die Radl<pc force="weak">=</pc><lbr/>führerin brachte es durch ihre wohlredenheit so weit, daß dem <rend class="latin">impressario</rend><lbr type="BD"/> von der<lbr/>
+Regierung aus dieses Stück auf Jenen tag untersagt wurde. &#8211; Nun<lbr type="BD"/> triumphirte Sie! &#8211; <lbr/>
+&#8211; <rend class="latin">hò vinta</rend> schrie Sie eines abends aus der <rend class="latin">Loge;</rend> &#8211; Sie ver<lbr type="BD"/>muthete wohl gewis nicht<lbr/>
+daß sich das <rend class="latin">hò</rend> in ein <rend class="latin">Sono</rend> verändern könne! &#8211;<lbr type="BD"/> des tags darauf ka<abbr type="topline" expand="mm">m</abbr> aber <rend class="latin">le Noble</rend><lbr/>
+&#8211; brachte den befehl S: Ma&#255;t: daß wenn<lbr type="BD"/> die Neue oper nichtgegeben werden könne,<lbr/>
+<rend class="latin">figaro</rend> gegeben werden müsse! &#8211;<lbr type="BD"/> wenn Sie, mein freund, die schöne, herrliche Nase<lbr/>
+dieser dame nun gesehen<lbr type="BD"/> hätten! &#8211; O es würde ihnen so viel vergnügen verursachet<lbr/>
+haben wie mir! &#8211;<lbr type="BD"/>&#160;<rend class="latin">Don Giovanni</rend> ist nun auf den 24:<h>ten</h> besti<abbr type="topline" expand="mm">m</abbr>t; &#8211; <lbr type="forced"/>
+<u>den 21</u>:<h>ten</h> er war auf den 24:<h>ten</h> besti<abbr type="topline" expand="mm">m</abbr>t, aber eine Sängerin die krank ge<lbr type="BD"/>worden verursachet<lbr/>
+noch eine Neue verzögerung; &#8211; da die truppe klein ist,<lbr type="BD"/> so mus der <rend class="latin">Impressario</rend> i<abbr type="topline" expand="mm">m</abbr>er in Sorgen<lbr/>
+leben, und seine leute so viel möglich<lbr type="BD"/> schonen, damit er nicht, durch eine unvermuthete unpässlichkeit<lbr/>
+in die unter<lbr type="BD"/> allen krittischen allerkrittischste laage versezt wird, gar kein Spektakl geben<lbr type="BD"/> zu können! &#8211; <lbr/>
+deswegen geht hier alles in die lange bank, weil die <rend class="latin">Reciti</rend>renden<lbr type="BD"/> | aus faulheit :| an operntägen<lbr/>
+<pg n="2"/>
+nicht Studieren wollen, und der <rend class="latin">Entrepreneur</rend><lbr type="BD"/> | aus forcht und angst | Sie nicht dazu anhalten will;<lbr/>
+aber was ist das? &#8211; &#8211; ist<lbr type="BD"/> es möglich? &#8211; was sehen meine ohren, was hören meine augen? &#8211; <lbr/>
+&#8211; ein brief<lbr type="BD"/> von &#8211; &#8211; &#8211; ich mag mir meine augen fast wund wischen &#8211; er ist &#8211; holl mich<lbr type="BD"/> der<lbr/>
+teufel + gott se&#255; be&#255; uns + doch von ihnen; &#8211; in der that; wäre nicht der<lbr type="BD"/> winter vor der thüre,<lbr/>
+ich würde den ofen einschlagen. da ich ihn aber dermalen schon öfters brauche, und in zukunft<lbr/>
+noch mehr zu brauchen gedenke, so wer<lbr type="BD"/>den sie mir erlauben, daß ich die verwunderung in etwas<lbr/>
+mässige, und ihnen<lbr type="BD"/> nur in wenig worten sage, daß es mich ausserordentlich freuet Nachrichten<lbr type="BD"/> von ihnen<lbr/>
+und ihrem mir so werthen hause zu erhalten. &#8211; <lbr type="forced"/>
+<u>den 25</u>: &#8211; heute ist der eilfte tag daß ich an diesem briefe kritzle; &#8211; Sie sehen<lbr type="BD"/> doch<lbr/>
+daraus daß es an gutem willen nicht fehlt &#8211; we<abbr type="topline" expand="nn">n</abbr> ich ein bischen zeit<lbr type="BD"/> finde so male ich<lbr/>
+ein Stückchen wieder daran &#8211; aber lange kann ich halt nicht<lbr type="BD"/> dabe&#255; bleiben &#8211; weil<lbr/>
+ich zu viel andern leuten &#8211; und zu wenig &#8211; mir selbst<lbr type="BD"/> angehöre; &#8211; daß dies nicht<lbr/>
+mein lieblings=leben ist, brauche ich ihnen wohl<lbr type="BD"/> nicht erst zu sagen; &#8211; <lbr type="forced"/>
+künftigen Montag den 29:<h>t</h> wird die oper das erstemal aufgeführt; &#8211; tags dar<lbr type="BD"/>auf<lbr/>
+sollen Sie gleich von <suppl hand="self" pos="infra">mir</suppl>&#160;<rend class="latin">Raport</rend> davon beko<abbr type="topline" expand="mm">m</abbr>en; &#8211; wegen der <rend class="latin">Arie</rend>, ist<lbr type="BD"/> es,<lbr/>
+|: aus ursachen die ich ihnen mündlich sagen werde :| schlechterdings un<lbr type="BD"/>möglich Sie ihnen<lbr/>
+zu schicken. &#8211; <lbr type="forced"/>
+was Sie mir wegen der kathel schreiben, freuet mich recht sehr, daß Sie wohl<lbr type="BD"/> auf<lbr/>
+ist, und Sich mit den katzen in <rend class="latin">Respect</rend>, mit den hunden aber in freund<pc force="weak">=</pc><lbr/>schaft zu erhalten weis; &#8211; wenn Sie ihr Papa |: dem ich mich bestens em<pc force="weak">=</pc><lbr/>p<lbr type="BD"/>fehle :| gerne behält, so ist es schon so viel als wenn Sie nie mein gewesen<lbr type="BD"/><lbr/>
+wäre; &#8211; Nun leben Sie wohl; &#8211; ich bitte dero gnädigen frau Mama in meinem<lbr type="BD"/><lbr/>
+Namen die hände zu küssen, der frl: Schwester und h<abbr type="curve">:</abbr> bruder mich bestens<lbr/>
+zu<lbr type="BD"/> empfehlen und versichert zu se&#255;n daß ich stetts se&#255;n werde<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_________</ts><tshtm>_____________________________________________________________________________</tshtm><tspdf>\hfill </tspdf>ihr wahrer freund und diner<lbr type="BD"/><lbr type="forced"/>
+<ts>_________</ts><tshtm>_______________________________________________________________________________________</tshtm><tspdf>\hfill </tspdf>W: A: Mozart <abbr expand="manu propria">mp</abbr>
+<pg n="3"/>
+<vacat/>
+<pg n="4"/>
+<anschrift><rend class="latin">À<lbr type="forced"/>
+Monsieur<lbr type="forced"/>
+Monsieur Geoffroy de Jacquin<lbr type="forced"/>
+<ts>_____________</ts><tshtm>_________________</tshtm>à<lbr type="forced"/>
+<u>Auf dem<lbr type="BD"/> Rennweeg<lbr type="forced"/>
+im bottanischen Garten</u>.<ts>____</ts><tshtm>___</tshtm><uu>Vienne</uu>.</rend></anschrift>
+</NI></letter>
+</text>
+</MUP>

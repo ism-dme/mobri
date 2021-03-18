@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2019">2019-12</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=561</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Verbleib unbekannt (Nachweis: Sotheby &amp; Co, London, 9.-10. April 1962, Lot 95)</bibl>
+            <bibl type="source" subtype="RISM">Verbleib unbekannt, Nachweis: Sotheby &amp; Co, London, 9.-10. April 1962, Lot 95</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:36:14 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_5.mup">
+﻿<letter bd="5">
+<NI src="unbekannt">
+<HEADER id="561">LEOPOLD MOZART AN JOHANN JAKOB LOTTER IN AUGSBURG<lbr/>
+SALZBURG, 10. JULI 1755</HEADER>
+<pg n="1"/>
+<ts>_________________________________________________________</ts><tspdf>\hfill </tspdf>Salzb<abbr type="curve">:</abbr> d<abbr v="en"/> 10<h>t<abbr v="en"/></h><lbr type="forced"/>
+<ts>_____</ts><rend class="latin"><persName key="76865">Monsieur</persName> mon tres cher amy</rend>!<ts>________________</ts><tspdf>\hfill </tspdf><rend class="latin">Julij</rend> 1755<lbr type="forced"/> 
+<lbr type="forced"/><u>Schon wied<abbr v="er"/> ein Brief!</u> &#8211; &#8211; also müssen sie notwendig<lbr/>
+be&#255; dem Anblick<lbr type="BD"/> dieses Schreibens denken. Allein<lbr/>
+Gedult! itzt sind sie schon mit mein<abbr v="en"/> Briefen geplagt<lbr/>
+<additum> [... (Textverlust)]</additum> [er]st nach genauer durchlesung des ersten Bog<abbr v="en"/><lbr/>
+<additum> [... (Textverlust)]</additum> daß <u>zwe&#255;te</u><lbr type="BD"/> in <u>zwote</u>&#160;<rend class="latin">p</rend>. 2. ist abgeändert<lbr/>
+<additum> [... (Textverlust)]</additum> hab vielleicht ich selbst <u>zwote</u> geschrieb<abbr v="en"/>?<lbr type="BD"/> daß<lbr/>
+<additum> [... (Textverlust)]</additum> se&#255;n. Ich gedenke eben nicht wegen diesem<lbr/>
+<u>zwe&#255;te</u> od<abbr v="er"/> <u>zwote</u><lbr type="BD"/> Krieg zu führen; doch will ich eri<abbr type="topline" expand="nn">n</abbr>ern,<lbr/>
+daß in der Folge meines <rend class="latin">Mscrpts</rend> alle<lbr type="BD"/>zeit <u>zwe&#255;te</u> stehet:<lbr/>
+denn ich brauche das wort <u>zwe&#255;te</u> durch alle 3 <rend class="latin">Genera</rend>.<lbr/>
+Und<lbr type="BD"/> wenn man <suppl hand="self" pos="supra">be&#255;m <rend class="latin">foeminino</rend></suppl>&#160;<u>zwote</u> sprech<abbr v="en"/> wollte; so müsste man be&#255;m<lbr/>
+<rend class="latin">Mas<lbr type="BD"/>culino</rend>&#160;<u>zweente</u> sagen: welches doch gar zu gezwung<abbr v="en"/><lbr/>
+lässt; und eben also<lbr type="BD"/> meinet es <persName key="64420">Gottsched</persName>&#160;<rend class="latin">p</rend>. 241 in <rend class="latin">Notis</rend> *<lbr/>
+Nichtsdestoweniger bin ich nicht eigen<lbr type="BD"/>si<abbr type="topline" expand="nn">n</abbr>ig darauf, und<lbr/>
+<pg n="2"/>
+will es nur eri<abbr type="topline" expand="nn">n</abbr>ert haben, daß, wenn sie das <u>zwote</u><lbr/>
+steh<abbr v="en"/><lbr type="BD"/> lass<abbr v="en"/>, solches auch ins künftige, wenn es be&#255;<lbr/>
+mir Vorko<abbr type="topline" expand="mm">m</abbr>t beobachtet und<lbr type="BD"/>&#160;<u>zwe&#255;te</u> in <u>zwote</u> abge<pc force="weak">=</pc><lbr/>and<abbr v="er"/>t werde. Auf der letzt<abbr v="en"/> Seit<abbr v="en"/> od<abbr v="er"/> <rend class="latin">p</rend>. 8. wird<lbr/>
+es in<lbr type="BD"/> d<abbr v="er"/> zwe&#255;t<abbr v="en"/> Anmerkung heiss<abbr v="en"/> müss<abbr v="en"/>: die <u>Jahre</u><lbr/>
+ne<abbr type="topline" expand="nn">n</abbr>et man die <u>verschie<lbr type="BD"/>denen</u> Züge <abbr expand="etc:">p:</abbr> ich <additum>[... (Textverlust)]</additum><lbr/>
+wohl einbild<abbr v="en"/>, daß ich selbst gefehlt hab  <additum>[... (Textverlust)]</additum><lbr type="BD"/><lbr/>
+<u>dene</u> Züge, geschrieb<abbr v="en"/> habe.<lbr type="forced"/>
+wegen dem Wort <u>mehr</u> od<abbr v="er"/> <u>mehrere</u> bin ich oft in zweifl<lbr/>
+gestand<abbr v="en"/>. ich weis<lbr type="BD"/> nicht hab ich z: E: geschrieb<abbr v="en"/>:<lbr/>
+<u>wenn mehr solche Not<abbr v="en"/>,</u> od<abbr v="er"/> <u>mehrere solche<lbr type="BD"/> Not<abbr v="en"/> vorko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/></u>.<lbr/>
+ich glaube das erste wird besser se&#255;n. wenn<lbr/>
+ihn<abbr v="en"/> etwas<lbr type="BD"/> d<abbr v="er"/>gleich<abbr v="en"/> aufstosst, erwehl<abbr v="en"/> sie gleichwohl<lbr/>
+das bessere. ich bin der<lbr type="forced"/>
+<ts>______________________________________</ts><tspdf>\hfill </tspdf>Ergebenster<lbr type="forced"/>
+<ts>______________________________________</ts><tspdf>\hfill </tspdf><persName key="39408"><rend class="latin">Leop: Mozart</rend></persName>&#160;<abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+Salzb<abbr type="curve">:</abbr>&#160;<rend class="latin">ut Supra</rend>
+</NI>
+</letter>
+</text>
+</MUP>

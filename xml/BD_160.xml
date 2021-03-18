@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2011">2011-05</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=721</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Wn</bibl>
+            <bibl type="source" subtype="RISM">A-Wn (Österreichische Nationalbibliothek)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:37:04 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_160.mup">
+<letter bd="160"><NI scr="A-Wn"><HEADER id="721">LEOPOLD MOZART AN MARIA ANNA MOZART IN SALZBURG<lbr/>
+MAILAND, 10. FEBRUAR 1770<lbr/>
+mit Nachschrift von Wolfgang Amadé Mozart</HEADER>
+<pg n="1"/>
+<add_sign impl="pencil">VII.60</add_sign>
+<ts>_________</ts><tshtm>_________________________________________________</tshtm><tspdf>\hfill </tspdf>Ma&#255;land d<abbr v="en"/> 10<h>t<abbr v="en"/></h> feb<abbr type="curve">:</abbr>&#160;<u>1770.</u><lbr type="forced"/>
+<lbr type="forced"/>
+Meine Briefe vom 27 Je<abbr type="topline" expand="nn">n</abbr>er und 3<h>t<abbr v="en"/></h> Feb<abbr type="curve">:</abbr> wirst du hofentl: erhalt<abbr v="en"/> hab<abbr v="en"/>,<lbr type="BD"/> so,<lbr/>
+wie jen<abbr v="en"/> von Mantua. was ich sicher vorsehe, ist, daß wir bis Ende des<lbr type="BD"/> faschings<lbr/>
+hier bleib<abbr v="en"/> werd<abbr v="en"/>. S:<h>e</h>&#160;<rend class="latin">Exc<abbr type="curve">:</abbr></rend> Graf <abbr expand="von">v</abbr>&#160;<rend class="latin">Firmian</rend> sind nun wied<abbr v="er"/> besser,<lbr type="BD"/> und wir hatten<lbr/>
+die gnade Mittwoch den 7<h>t<abbr v="en"/></h> das erste mahl be&#255; seiner Tafel<lbr type="BD"/> zu speisen. S<h>e</h>: <rend class="latin">Exc<abbr type="curve">:</abbr></rend><lbr/>
+haben nach der Tafel dem Wolfg<abbr type="curve">:</abbr> die 9 Theile der <rend class="latin">Metastasi</rend>sche Werke verehrt.<lbr/>
+Es ist eine der schönst<abbr v="en"/>&#160;<rend class="latin">Edition</rend>en nämlich die <rend class="latin">Turiner=Edition</rend>, und sehr schön ein<pc force="weak">=</pc><lbr/>gebund<abbr v="en"/>. du kannst dir leicht vorstell<abbr v="en"/>, daß<lbr type="BD"/> dieß ein so wohl mir als dem<lbr/>
+Wolfg<abbr type="curve">:</abbr> sehr angenehmes <rend class="latin">present</rend> ist. S<h>e</h>: <rend class="latin">Exc<abbr type="curve">:</abbr></rend><lbr type="BD"/> sind durch die geschicklichkeit<lbr/>
+des Wolfg<abbr type="curve">:</abbr> auserist gerührt, und <rend class="latin">distingui</rend>r<abbr v="en"/><lbr type="BD"/> uns mit besond<abbr v="er"/>er gnade und<lbr/>
+vorzüglichkeit; und es würde zu weitläuftig<lbr type="BD"/>se&#255;n, dir umständlich zu erzehl<abbr v="en"/>,<lbr/>
+was der Wolfg<abbr type="curve">:</abbr> in Gegenwart des <rend class="latin">Maestro<lbr type="BD"/> Sa<abbr type="topline" expand="mm">m</abbr>artino</rend> und einer menge der<lbr/>
+geschicktest<abbr v="en"/> Leute für Prob<abbr v="en"/> seiner<lbr type="BD"/> Wissenschaft abgelegt, und alle in<lbr/>
+Erstaunung gesetzt. du weist es ohnedem,<lbr type="BD"/> wie es in dergleich<abbr v="en"/> fäll<abbr v="en"/> zu<pc force="weak">=</pc><lbr/>gehet, du hast es oft genug geseh<abbr v="en"/>. <tshtm>___</tshtm>Wir sind,<lbr type="BD"/> Gott lob, gesund.<lbr type="forced"/>
+Nur verdrüsst mich, daß ich nicht weis, ob wir noch nach <rend class="latin">Turin</rend> geh<abbr v="en"/> werd<abbr v="en"/>.<lbr/>
+de<abbr type="topline" expand="nn">n</abbr>, we<abbr type="topline" expand="nn">n</abbr> wir auf die Heilige Woche in Rom se&#255;n woll<abbr v="en"/>, so muß die<lbr type="BD"/>&#160;<rend class="latin">Turiner</rend><pc force="weak">=</pc><lbr/>reise zurückbleib<abbr v="en"/>, weil wir uns auf dem Weeg nach Rom, in <rend class="latin">Parma</rend>,<lbr/>
+<rend class="latin">Bologna</rend> und <rend class="latin">Florenz</rend> aufhalt<abbr v="en"/>, und ich vorsehe, daß vor der erst<abbr v="en"/> fasten<pc force="weak">=</pc><lbr/>woche nicht von hier wegko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/> kann. das beste ist, daß wir hier sichere,<lbr/>
+beque<abbr type="topline" expand="mm">m</abbr>e und angenehme Wohnung hab<abbr v="en"/>. Wir hatt<abbr v="en"/> lange das schönste<lbr type="BD"/> Wetter,<lbr/>
+den 6<h>t<abbr v="en"/></h> aber kam ein heftiger Wind, welcher den 7<h>t<abbr v="en"/></h> in der Nacht<lbr type="BD"/> noch stärker<lbr/>
+wurde und ein<abbr v="en"/> solch<abbr v="en"/> schnee mit sich brachte, daß den 8<h>t<abbr v="en"/></h><lbr type="BD"/> morgens alles mit<lbr/>
+häuftigem Schnee bedecket war. da nun aber kein Schnee hier<lbr type="BD"/>bleib<abbr v="en"/> ka<abbr type="topline" expand="nn">n</abbr>, so<lbr/>
+sind die Strass<abbr v="en"/> abscheulich kottig, und kaum durchzuko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>.<lbr type="forced"/>
+Unterdess<abbr v="en"/> hab<abbr v="en"/> wir hier verschiedene KirchenMusik<abbr v="en"/> zu hör<abbr v="en"/> Gelegenheit<lbr type="BD"/> gehabt; und<lbr/>
+unter and<abbr v="er"/><abbr v="en"/> gestern das Seelena<abbr type="topline" expand="mm">m</abbr>t od<abbr v="er"/> <rend class="latin">Requiem</rend> für den alt<abbr v="en"/><lbr type="BD"/>&#160;<rend class="latin">Marquese<lbr/>
+Litta</rend>, welcher zum Verdruss der so gross<abbr v="en"/>&#160;<rend class="latin">Familie</rend> itzt im fasching<lbr type="BD"/> gestorb<abbr v="en"/> ist,<lbr/>
+da sie ihm doch das leb<abbr v="en"/> gerne noch bis in die Fasten gegö<abbr type="topline" expand="nn">n</abbr>et<lbr type="BD"/> hätt<abbr v="en"/>. Das <rend class="latin"><u>Dies</u><lbr/>
+<u>iræ</u></rend> von diesem <rend class="latin">Requiem</rend> dauerte geg<abbr v="en"/> 3 viertlstund um<lbr type="BD"/> 2 uhr Nachmittag<lbr/>
+war alles aus: wir assen also um halbe 3 zu mittag.<lbr type="forced"/>
+<lbr/>
+<add_seal type="owner">BIBLIOTHECA PALAT.<lbr/>VINDOBONENSIS.</add_seal>
+<pg n="2"/>
+du must dir nicht einbild<abbr v="en"/>, daß ich dir eine Beschreibung der hiesig<abbr v="en"/><lbr/>
+Andacht<abbr v="en"/> mach<abbr v="en"/> werde; ich könnte es für Ärgerniß nicht thun:<lbr/>
+alles bestehet<lbr type="BD"/> in der Musik, und im kirchen aufputz, das übrige<lbr/>
+ist alles die abscheulichste<lbr type="BD"/> Ausgelassenheit.<lbr type="forced"/>
+<lbr type="forced"/>
+Nun ko<abbr type="topline" expand="mm">m</abbr>e eben von einer Vesper so über 2 Stunden gedauert, so<lbr/>
+daß<lbr type="BD"/> mehr nicht Zeit hatte als diesen Brief zu Hause zu hohl<abbr v="en"/>, und be&#255;<lbr/>
+h<abbr type="curve">:</abbr> Hausmeister im grafl: <rend class="latin">Firmianisch<abbr v="en"/></rend> Hause auszuschreib<abbr v="en"/>, indem auch<lbr/>
+vorhero alda<lbr type="BD"/> sehen wollte, ob nicht ein Brief von dir alda ist: allein ich<lbr/>
+fand nichts. du bist<lbr type="BD"/> sehr faul; nun sind wir schon lange hier und dieser<lbr/>
+ist der dritte Brief den<lbr type="BD"/> ich dir von Ma&#255;land schreibe, und noch keine<lbr/>
+Antwort. Ich weis nichts bessers<lbr type="BD"/> als auch einige Woch<abbr v="en"/> nicht mehr zu schreib<abbr v="en"/>.<lbr/>
+Der Wolfg<abbr type="curve">:</abbr> freuet sich von<lbr type="BD"/> Posttage zu Posttage von dir ein<abbr v="en"/> Brief zu<lbr/>
+seh<abbr v="en"/>, und de<abbr type="topline" expand="nn">n</abbr>och ko<abbr type="topline" expand="mm">m</abbr>t nichts.<lbr type="BD"/>&#160;<tshtm>___</tshtm><rend class="latin">addio</rend>. ich bin d<abbr v="er"/> alte<lbr type="forced"/>
+<ts>____</ts><tshtm>__________________________________________________________________________________</tshtm><tspdf>\hfill </tspdf>Mzt <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<ts>_____</ts>An alle gute freunde und freundin<abbr v="en"/> nach Standsgebühr<lbr/>
+<tshtm>_____</tshtm>meine, ja unser<lbr type="BD"/> Beyd<abbr v="er"/> Empfehlung.<lbr type="forced"/>
+
+<NS type="NS" schr_id="39409">wen man die Sau ne<abbr type="topline" expand="nn">n</abbr>t so ko<abbr type="topline" expand="mm">m</abbr>t sie gerent: ich bin wohlauf got lob und<lbr type="BD"/> danck,<lbr/>
+und kan kaum die stunde erwarten, eine antwort zu sehen, ich<lbr/>
+küsse<lbr type="BD"/> der mama die hand, und meiner schwester schicke ich ein bla=<lbr/>dernades busel,<lbr type="BD"/> und bleibe der nehmliche . . . . aber wer? . . . der nehm<pc force="weak">=</pc><lbr/>liche hanswurst,<ts>___________</ts><rend class="latin">Wolfgang</rend> in <u>Teütschland</u>&#160;<u><rend class="latin">Amadeo</rend></u> in <rend class="latin">italien<lbr/>
+De Mozartini</rend>.</NS>
+<NS type="NS" schr_id="39408">Ich kisse dich und die Na<abbr type="topline" expand="nn">n</abbr>erl: aber nur einmahl, weil ihr nichts schreibet.<lbr type="forced"/>
+<lbr type="forced"/>
+<rend class="latin">Mr: Troger</rend> lasst sich dir empfehlen: sage der <rend class="latin">Madss:<h>le</h> Troger</rend> nebst<lbr/>
+meiner<lbr type="BD"/> Empfehlung, daß ich ihrem h<abbr type="curve">:</abbr> Bruder sehr grosse Verbindlichkeit habe,<lbr/>
+indem er uns ein so gute Wohnung ausgesucht, wo wir mit allem wohl<lbr/>
+versorgt sind, und ein<abbr v="en"/> eigen<abbr v="en"/> Bruder zu unserer Bedienung hab<abbr v="en"/>.</NS></NI></letter>
+</text>
+</MUP>

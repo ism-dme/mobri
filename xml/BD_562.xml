@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2013">2013-5</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1128</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Privatbesitz</bibl>
+            <bibl type="source" subtype="RISM">Privatbesitz</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:39:29 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_562.mup">
+<letter bd="562"><NI src="Privat"><HEADER id="1128">LEOPOLD MOZART AN WOLFGANG AMADÉ MOZART IN MÜNCHEN<lbr/>
+SALZBURG, 15. DEZEMBER 1780</HEADER>
+<pg n="1"/>
+<ts>___</ts><rend class="latin">Mon très cher Fils</rend><ts>_______</ts><tshtm>________________________________________</tshtm><tspdf>\hfill </tspdf>Salzb<abbr type="curve">:</abbr> d<abbr v="en"/> 15<h>t<abbr v="en"/></h>&#160;<rend class="latin">Decemb<abbr type="curve"></abbr></rend><lbr type="forced"/>
+<ts>__________________</ts><tshtm>_____________________________________________________________________________</tshtm><tspdf>\hfill </tspdf>1780<lbr type="forced"/>
+Du schreibst mir, daß ich dir zu kurze Brief geschrieb<abbr v="en"/>, allein was ka<abbr type="topline" expand="nn">n</abbr><lbr/>
+ich dir<lbr type="BD"/> viel neues von hier schreib<abbr v="en"/>? &#8211; &#8211; Nun wirst du die <rend class="latin">Aria</rend> für<lbr/>
+<rend class="latin">Mr. Raff</rend> |: dem<lbr type="BD"/> wir uns empfehl<abbr v="en"/> :| erhalt<abbr v="en"/> hab<abbr v="en"/>, ich schickte sie am<lbr/>
+verflossn<abbr v="en"/> Montage<lbr type="BD"/> mit der Post fort, sie soll also am dienstag<lbr/>
+abends, od<abbr v="er"/> Mittwoch frühe in<lbr type="BD"/> dein<abbr v="en"/> Hand<abbr v="en"/> gewesen se&#255;n.<lbr type="forced"/>
+Was die Waldhorn <rend class="latin">Sord</rend>in<abbr v="en"/> anbelangt, sind solche nicht zu hab<abbr v="en"/>.<lbr/>
+h<abbr type="curve">:</abbr><lbr type="BD"/>&#160;<rend class="latin">Proschalka</rend> des h<abbr type="curve">:</abbr>&#160;<rend class="latin">Fiala</rend> Schwiegervatter hat selbst ein paar,<lbr/>
+so sagte mir h<abbr type="curve"></abbr><lbr type="BD"/>&#160;<rend class="latin">Fiala</rend>, d<abbr v="er"/> be&#255; mir war und mir ein<abbr v="en"/> Brief zeigte<lbr/>
+vom h<abbr type="curve">:</abbr>&#160;<rend class="latin">Becke</rend>, welcher voll<lbr type="BD"/> der Lobeserhebung<abbr v="en"/> deiner Musik des<lbr/>
+erst<abbr v="en"/> Ackts war: er schrieb, daß ihm<lbr type="BD"/>&#160;<u>die Zeher in die Augen<lbr/>
+tratt<abbr v="en"/></u>, als er diese Musik hörte vor freude und ver<lbr type="BD"/>gnügen,<lbr/>
+und daß alle behauptet<abbr v="en"/>, <u>das wäre die schönste Musik, die sie<lbr type="BD"/><lbr/>
+gehört hätten, daß alles neu und fremd wäre</u> &#38;c: <u>daß sie nun<lbr/>
+im Begriffe<lbr type="BD"/> wär<abbr v="en"/> den zwe&#255;t<abbr v="en"/> Ackt zu probier<abbr v="en"/>, &#8211; daß er mir<lbr/>
+da<abbr type="topline" expand="nn">n</abbr> selbst schreib<abbr v="en"/><lbr type="BD"/> werde, &#8211; daß ich ihm verzeich<abbr v="en"/> möchte</u>,<lbr/>
+<u>daß er mir nicht geschrieb<abbr v="en"/> hätte,<lbr type="BD"/> indem er etwas un</u><pc force="weak">=</pc><lbr/><u>bass gewesen wäre</u> &#38;c: Nun, Gott se&#255; dank gesagt, das<lbr type="BD"/><lbr/>
+gehet gut. Ich ka<abbr type="topline" expand="nn">n</abbr> nicht glaub<abbr v="en"/>, <u>da ich deine Arbeit ke<abbr type="topline" expand="nn">n</abbr>e</u>,<lbr/>
+daß es <rend class="latin">Com<lbr type="BD"/>pliment<abbr v="en"/></rend> sind; da<abbr type="topline" expand="nn">n</abbr> ich bin überzeugt, daß<lbr/>
+deine <rend class="latin">Composition</rend>, we<abbr type="topline" expand="nn">n</abbr> sie<lbr type="BD"/> gehörig ausgeführt wird,<lbr/>
+auch ihre Wirkung thun muß.<lbr type="forced"/>
+h<abbr type="curve">:</abbr> Sieger ist gestern ganz allein nach Hallein gereiset um<lbr/>
+ins Salzbergwerk<lbr type="BD"/> einzufahr<abbr v="en"/>. da<abbr type="topline" expand="nn">n</abbr> wird er nach Wie<abbr type="topline" expand="nn">n</abbr><lbr/>
+abreis<abbr v="en"/>. Er ist nicht nur ein Musik<lbr type="BD"/>liebhaber, sond<abbr v="ern"/> er<lbr/>
+spielt die Violin recht gut, und hat die gestochn<abbr v="en"/><lbr type="BD"/>&#160;<rend class="latin">Sonaten</rend><lbr/>
+vorgestern in gegenwart des <rend class="latin">Mr: D'Jppold</rend>, und h<abbr type="curve">:</abbr> Schickan<pc force="weak">=</pc><lbr/>eders<lbr type="BD"/> recht gut deiner Schwester <rend class="latin">accompag</rend>niert.<lbr type="forced"/>
+<pg n="2"/>
+übrigens spielt er auch etwas das Clavier, ist ein treflicher<lbr/>
+jurist, und wird<lbr type="BD"/> in Wie<abbr type="topline" expand="nn">n</abbr> be&#255;m ReichsHofrath <rend class="latin">practici</rend>eren.<lbr/>
+h<abbr type="curve">:</abbr> Esser hat ausser einig<abbr v="en"/><lbr type="BD"/> solch<abbr v="en"/> Leut<abbr v="en"/> schon angebohrn<abbr v="en"/><lbr/>
+<rend class="latin">grimassen</rend> und geschnittn<abbr v="en"/> Nudeln die<lbr type="BD"/>&#160;<rend class="latin">Sonaten</rend> bassabl <rend class="latin">accom<pc force="weak">=</pc><lbr/>pagnie</rend>rt. du weist es ja wohl, daß solche Leute nichts<lbr type="BD"/><lbr/>
+natürlich spiel<abbr v="en"/> kö<abbr type="topline" expand="nn">n</abbr><abbr v="en"/>. ò wie wenige spiel<abbr v="en"/>, wie ichs wünsche!<lbr/>
+Die <u>Trauer</u><lbr type="BD"/> betreffend, hat mans hier dem Münchner Hof nachge<pc force="weak">=</pc><lbr/>macht, &#8211; auch 3 Monate<lbr type="BD"/> Hof=trauer, &#8211; die <rend class="latin">Co<abbr type="topline" expand="mm">m</abbr>oedi<abbr v="en"/></rend> geh<abbr v="en"/> fort,<lbr/>
+Schickaned<abbr v="er"/> hat in Laybach<lbr type="BD"/> abgeschrieb<abbr v="en"/> und bleibt hier, vest ent<pc force="weak">=</pc><lbr/>schlossen deine <rend class="latin">Opera</rend> zu hören. Er<lbr type="BD"/> war besorgt die <rend class="latin">Noblesse</rend> in<lbr/>
+Laybach werde ihm ein<abbr v="en"/> abscheulich<abbr v="en"/> Schmäh=Brief zurückschreib<abbr v="en"/>:<lbr/>
+allein, da er zum Glück alsogleich nach Laybach<lbr type="BD"/> schrieb, und sie<lbr/>
+noch be&#255; Ankunft seines Briefes nicht wusst<abbr v="en"/>, was der<lbr type="BD"/> Kayser<lbr/>
+verordn<abbr v="en"/> würde, anbe&#255; besorgt<abbr v="en"/>, sie müsst<abbr v="en"/> ihm weg<abbr v="en"/> den<lbr type="BD"/><lbr/>
+<rend class="latin">engagement</rend> ein<abbr v="en"/> Ersatz mach<abbr v="en"/>, we<abbr type="topline" expand="nn">n</abbr> seine truppe weg<abbr v="en"/> ihn<abbr v="en"/> ohne brod<lbr type="BD"/><lbr/>
+wäre, so gab<abbr v="en"/> sie ihm alsogleich Antwort, und rieth<abbr v="en"/> ihm selbst<lbr/>
+daß er die<lbr type="BD"/> Erlaubniß in Salzb<abbr type="curve">:</abbr> zu verbleib<abbr v="en"/> zu erhalt<abbr v="en"/> alles<lbr/>
+mögliche anwend<abbr v="en"/> sollte:<lbr type="BD"/> er hatte es unterdess<abbr v="en"/> schon in Hand<abbr v="en"/>.<lbr/>
+er empfehlt sich dir. &#8211; &#8211; an dem<lbr type="BD"/>&#160;<rend class="latin">Familien</rend> gemählde ist nichts<lbr/>
+weiter gemacht word<abbr v="en"/>, Ursache: weil, anfangs,<lbr type="BD"/> da die täge noch<lbr/>
+länger und heiter war<abbr v="en"/> deine schwester Kranck, und da<abbr type="topline" expand="nn">n</abbr><lbr type="BD"/> auch<lbr/>
+ich an einem Schwer<abbr v="en"/> Catharr und <rend class="latin">Revmatismus</rend> durch alle<lbr/>
+äusserlich<abbr v="en"/><lbr type="BD"/> Theile des Leibes stark krank war: ich schrieb dirs<lbr/>
+nicht, um dich nicht zu<lbr type="BD"/> beunruhig<abbr v="en"/>, da<abbr type="topline" expand="nn">n</abbr> du weist wohl, daß<lbr/>
+ich mich selbst <rend class="latin">Curie</rend>re. Ich hatte eine<lbr type="BD"/> Kälte in allen Gliedern,<lbr/>
+alle Kleider, und Pelze, selbst d<abbr v="er"/> Ofen, den ich nicht<lbr type="BD"/> sehr<lbr/>
+liebe, weil mir die starke Ofenhitze den Kopf einni<abbr type="topline" expand="mm">m</abbr>t,<lbr/>
+<pg n="3"/>
+alles half nichts,<lbr type="BD"/> &#8211; nichts konnte mich erwärm<abbr v="en"/>. Ich trank mein<abbr v="en"/><lbr/>
+gewöhnlich<abbr v="en"/> Klettwurz<abbr v="en"/><lbr type="BD"/> Thee; blieb morgens wohl zugedeckt<lbr/>
+im eingeheitzt<abbr v="en"/> zi<abbr type="topline" expand="mm">m</abbr>er bis 10 uhr im<lbr type="BD"/> Bethe, und konnte in<lbr/>
+kein<abbr v="en"/> Schweis, auch nicht in die geringste Ausdünstung<lbr type="BD"/> ko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>.<lbr/>
+das geschahe in deinem Zi<abbr type="topline" expand="mm">m</abbr>er, wo ich |: weils leichter zu heitz<abbr v="en"/> :|<lbr type="BD"/><lbr/>
+seit der zeit schlaffe. Was meinst du was ich that? &#8211; Ich liess<lbr/>
+mir <u>Hollerblühe</u><lbr type="BD"/> ko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>; liess mir <u>ein<abbr v="en"/> Thee</u> angiess<abbr v="en"/>, trank etliche<lbr/>
+Schaalen; gieng wohl<lbr type="BD"/> ankleidet in die <rend class="latin">Co<abbr type="topline" expand="mm">m</abbr>oedie</rend>, <u>den fußsack<lbr/>
+nicht vergessen</u>, es war recht voll,<lbr type="BD"/> ich kam neb<abbr v="en"/> der <u><rend class="latin">Barisani</rend><lbr/>
+Teresl</u> zu sitz<abbr v="en"/>. Die <rend class="latin">Comoedie</rend> dauerte 3 <formula type="mfrac"><mn>1</mn><mi>2</mi></formula> Stund<lbr type="BD"/> ich gerieth<lbr/>
+in so ein<abbr v="en"/> Schweiß, daß ich zu Hause be&#255;m Of<abbr v="en"/> ein and<abbr v="er"/>es<lbr type="BD"/><lbr/>
+Hemde nehm<abbr v="en"/> musste. Nun ist die grosse frage, ob mir<lbr/>
+der <u>Hollerblüh=thée</u><lbr type="BD"/> od<abbr v="er"/> die <u>Terese <rend class="latin">Barisani</rend></u> den Schweiß<lbr/>
+ausgetrieb<abbr v="en"/>, od<abbr v="er"/> ob ich be&#255;d<abbr v="en"/> diese<lbr type="BD"/> erwünschte Wirkung zu<lbr/>
+verdanc<abbr v="en"/> habe? &#8211; &#8211; übrigens musste ich diese<lbr type="BD"/>&#160;<rend class="latin">Co<abbr type="topline" expand="mm">m</abbr>oedie</rend>&#160;<u>die<lbr/>
+Schlaflosen nächte</u> mit deiner <rend class="latin">Aria</rend> hör<abbr v="en"/>, da half nichts dafür!<lbr type="BD"/><lbr/>
+Von Wezlar ist keine Antwort geko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>. &#8211; vielleicht ko<abbr type="topline" expand="mm">m</abbr>t sie<lbr/>
+noch. &#8211; &#8211;<lbr type="BD"/> aber ich hatte wohl unter dieser Zeit ein schreib<abbr v="en"/><lbr/>
+von <rend class="latin"><u>M:<h>dme</h> Duscheck</u></rend> mit<lbr type="BD"/> einem Text zu einer <rend class="latin">Aria</rend> beko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>,<lbr/>
+hab ihr auch schon geantwortet, daß<lbr type="BD"/> vor dem neu<abbr v="en"/> Jahre<lbr/>
+nichts möglich se&#255;. Sie schrieb, daß sie noch ein Schuld<lbr type="BD"/>nerin weg<abbr v="en"/><lbr/>
+der vorig<abbr v="en"/>&#160;<rend class="latin">Aria</rend> wäre, und da sie es zi<abbr type="topline" expand="mm">m</abbr>lich <rend class="latin">pressant</rend> machte,<lbr/>
+so<lbr type="BD"/> mußte ich ihr mit aller Höflichkeit die dermalige unmög<pc force="weak">=</pc><lbr/>lichkeit alsogleich um<lbr type="BD"/>ständlich schreib<abbr v="en"/>. Ich verstehe wohl, was<lbr/>
+es ist: &#8211; &#8211; h<abbr type="curve">:</abbr>&#160;<rend class="latin">Kuzelow</rend> |: od<abbr v="er"/> wie<lbr type="BD"/> das ding heist, ist schon lange<lbr/>
+nicht mehr in Prag, sond<abbr v="ern"/> itzt in Wie<abbr type="topline" expand="nn">n</abbr>.<lbr type="forced"/>
+<pg n="4"/>
+Gestern freitags hat man d<abbr v="er"/> Gräfin <rend class="latin">Londron</rend> um 5 uhr<lbr/>
+Morgens das Sterb<lbr type="BD"/>glöckl geleutet; sie starb aber erst um<lbr/>
+halbe 7 uhr, sie lag von 3 uhr in der<lbr type="BD"/> nacht bis frühe um<lbr/>
+halbe Sieb<abbr v="en"/> uhr in den Zügen. der Capuziner domSontag<pc force="weak">=</pc><lbr/>Prediger war seit 8 täg<abbr v="en"/> tag und Nacht be&#255; ihr. Du ka<abbr type="topline" expand="nn">n</abbr>st<lbr/>
+dir nichts<lbr type="BD"/> elenders denck<abbr v="en"/>, nicht schmerzhafters vorstell<abbr v="en"/>, sie<lbr/>
+konnte nicht mehr laut<lbr type="BD"/> sprech<abbr v="en"/>, der ganze Halß und Mund<lbr/>
+war i<abbr type="topline" expand="nn">n</abbr>wendig von Brandblattern<lbr type="BD"/> schwarz: 2 täge vor<lbr/>
+ihrem Tod beka<abbr type="topline" expand="mm">m</abbr> sie noch ein<abbr v="en"/>&#160;<rend class="latin">abscessum</rend>, od<abbr v="er"/> Art<lbr type="BD"/> geschwör<lbr/>
+im Rügg<abbr v="en"/>, da<abbr type="topline" expand="nn">n</abbr> das ganze Geblüth war faul. Ein er<pc force="weak">=</pc><lbr/>schröcklicher<lbr type="BD"/> Tod! &#8211; &#8211; Die Kind<abbr v="er"/> sind alle be&#255;m Hofmarschall.<lbr/>
+<rend class="latin"><u>NB</u>.</rend> Man sagt sich in die<lbr type="BD"/> Ohr<abbr v="en"/>, es wär<abbr v="en"/> weg<abbr v="en"/> d<abbr v="er"/> Hayrath noch<lbr/>
+einige Schwürigkeit<abbr v="en"/>. Ich wünsche,<lbr type="BD"/> daß es zurück gehet,<lbr/>
+die Hayrath ist zu ungleich. Der <rend class="latin"><u>Æsopus</u></rend> wird Psallier<abbr v="en"/><lbr type="BD"/> od<abbr v="er"/><lbr/>
+fackel=trag<abbr v="en"/>. <rend class="latin">à proposito.</rend> Es sind freilich <rend class="latin">Arien</rend> von ihm<lbr/>
+geschrieb<abbr v="en"/><lbr type="BD"/> da, &#8211; allein <u>einige hab<abbr v="en"/> kein<abbr v="en"/> Text</u>, und ich ke<abbr type="topline" expand="nn">n</abbr>e sie gar<lbr/>
+nicht. Mit diesem<lbr type="BD"/> Postwag<abbr v="en"/> könnte ichs ohnehin nicht mehr schick<abbr v="en"/>.<lbr/>
+also über 8 tag. wir<lbr type="BD"/> hatt<abbr v="en"/> unterdess<abbr v="en"/> 2 Scheib<abbr v="en"/>: auf einer war<lbr/>
+ein Theater, und die <rend class="latin">Solo</rend><lbr type="BD"/> Tanzende <rend class="latin">Maresquelle</rend>, unt<abbr v="en"/> im <rend class="latin">Noble parterre</rend><lbr/>
+sahe man köpfe mit Haar<lbr type="BD"/>beutl, zöpf<abbr v="en"/>, und auch rund<abbr v="en"/> Perück<abbr v="en"/> mit einer<lbr/>
+geistl: Platte, von iedem<lbr type="BD"/> Kopf, gieng eine schrift, <rend class="latin"><u>brava</u>, <u>bravissima</u>,</rend><lbr/>
+oh che <rend class="latin">prodigio</rend>&#160;<abbr expand="etc">p</abbr><abbr expand="etc">p</abbr>: und der<lbr type="BD"/>
+gleich<abbr v="en"/> hinauf <abbr expand="etc">p</abbr>: die and<abbr v="er"/>e scheib<abbr v="en"/>, war<lbr/>
+eine verliebte Historie, die<lbr type="BD"/>&#160;<rend class="latin">Maresquelle</rend> über eine Linzer Geschichte<lbr/>
+des Schickaneders gegeb<abbr v="en"/>. h<abbr type="curve">:</abbr><lbr type="BD"/> Schickaned<abbr v="er"/> stand auf der donaubrücke in<lbr/>
+Lintz mit einem Linzer Mädch<abbr v="en"/>,<lbr type="BD"/> und sein Mund sagte: <u>ich verspreche, was ich<lbr/>
+keiner halte</u>. auf der andern<lbr type="BD"/> seyte war ein Linzer Mädch<abbr v="en"/> in einem Garten<lbr/>
+Be&#255; einem Tische mit wei<abbr type="topline" expand="nn">n</abbr>;<lbr type="BD"/> hatte ein weinglaß in d<abbr v="er"/> Hand, und sagte:<lbr/>
+<u>Er wird schon ko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/></u>. Als h<abbr type="curve">:</abbr><lbr type="BD"/> Schickaned<abbr v="er"/> zum Schüss<abbr v="en"/> kam, sahe er die Scheib<abbr v="en"/>,<lbr/>
+betrachtete sie, und ward<lbr type="BD"/> roth. ich fragte ihn, <u>ob er wüsste wer das Beste heute<lbr/>
+giebt</u>. Er antwortete, &#8211;<lbr type="BD"/>&#160;<u>die <rend class="latin">M:d<h>me</h> Maresquelle</rend></u>; <u>ich ke<abbr type="topline" expand="nn">n</abbr>e es an d<abbr v="er"/> Scheibe</u>. <conv><symbol value="hash">#</symbol></conv><lbr/>
+<pg n="5"/>
+<conv><symbol value="hash">#</symbol></conv><add_note type="inline" schr_id="57010"><ts>____________________________________________________________________________________</ts>15 <rend class="latin">Dec.</rend> 80</add_note><lbr/>
+<u>Morgen den 16</u><h>t<abbr v="en"/></h> nachts<lbr type="BD"/> wird die Gräfin <rend class="latin">Lodron</rend> begrab<abbr v="en"/>.<lbr/>
+<u>dienstags</u> werd<abbr v="en"/> die <rend class="latin">Exequien</rend> für die<lbr type="BD"/> Kayserin, da<abbr type="topline" expand="nn">n</abbr> <u>Mitwoch<lbr/>
+do<abbr type="topline" expand="nn">n</abbr>erstag</u> und <u>fre&#255;tag</u> für die grafin <rend class="latin">Lodron</rend> ge<lbr type="BD"/>halt<abbr v="en"/>. <u>das erste</u>&#160;<suppl hand="self" pos="inline">für die Kayserin</suppl><lbr/>
+natürlicher weise <u>im Do<abbr type="topline" expand="mm">m</abbr></u>: <u>die and<abbr v="er"/><abbr v="en"/></u> be&#255;<lbr type="BD"/> St: <u>Sebastian</u>.<lbr type="forced"/>
+Nun weis ich nichts mehr. wir Küssen dich be&#255;de und ich bin dein<lbr/>
+alter red<lbr type="BD"/>licher vatter<ts>____</ts><tshtm>_______________________</tshtm><tspdf>\hfill </tspdf>L Mzt <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<lbr type="forced"/>
+<add_note schr_id="57010"><ts>_______________________________________________________________</ts>Salzb 15 Dec <stroke>??</stroke> 1780</add_note>
+<tshtm><lbr type="forced"/></tshtm>
+du erhaltest auch hier durch den <rend class="latin">Conducteur</rend> ein paar<lbr/>
+unterstrimpf.<lbr type="forced"/>
+<pg n="6"/>
+<vacat/>
+</NI></letter>
+</text>
+</MUP>

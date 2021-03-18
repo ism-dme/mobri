@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2013">2013-9</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1151</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:39:38 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_585.mup">
+<letter bd="585"><HEADER id="1151">WOLFGANG AMADÉ MOZART AN LEOPOLD MOZART IN SALZBURG<lbr/>
+WIEN, 24. UND 28. MÄRZ 1781</HEADER>
+<pg n="1"/>
+<ts>_____________________________________</ts><tshtm>______________________________________________________</tshtm><tspdf>\hfill </tspdf><u>Wie<abbr type="topline" expand="nn">n</abbr> den 24:<h>ten</h> Merz 1781</u><lbr type="forced"/>
+<ts>_____</ts><rend class="latin">Mon Trés Cher Pére!</rend><lbr type="forced"/>
+<lbr type="forced"/>
+Ich habe ihr schreiben vom 20:<h>ten</h> dieses richtigst erhalten, und daraus mit<lbr type="BD"/> vergnügen<lbr/>
+dero be&#255;derseitige glückliche Ankunft und gutes Wohlse&#255;n ver<lbr type="BD"/>no<abbr type="topline" expand="mm">m</abbr>en. &#8211; sie<lbr/>
+müssen es meiner schlechten dinte und feder verdanken, we<abbr type="topline" expand="nn">n</abbr><lbr type="BD"/> sie diesen brief mehr<lbr/>
+Buchstabieren als lesen kö<abbr type="topline" expand="nn">n</abbr>en. &#8211; <rend class="latin">Basta;</rend> geschrieben<lbr type="BD"/> muß es doch se&#255;n &#8211; und<lbr/>
+mein Herr federschneider |: h<abbr type="curve">:</abbr>&#160;<rend class="latin">v:</rend> Lirzer, &#8211; :| hat<lbr type="BD"/> mich dermalen angesetzt &#8211; <lbr/>
+Ich ka<abbr type="topline" expand="nn">n</abbr> ihnen diesen |: weil sie ihn vermuthlich<lbr type="BD"/> selbst besser ke<abbr type="topline" expand="nn">n</abbr>en werden :| nicht anders<lbr/>
+beschreiben, als daß er &#8211; glaub<lbr type="BD"/> ich ein Salzburger ist &#8211; und daß ich ihn mein lebetag<lbr/>
+niemal als be&#255;m<lbr type="BD"/>&#160;<rend class="latin">Robinig</rend> etwelchemal be&#255; der sogena<abbr type="topline" expand="nn">n</abbr>ten 11 uhr Musick gesehen<lbr/>
+habe. &#8211; er<lbr type="BD"/> hat mir aber gleich <rend class="latin">visite</rend> gemacht, und scheint mir ein sehr artiger,<lbr/>
+und |: weil<lbr type="BD"/> er mir meine federn geschnitten :| höflicher mensch zu se&#255;n &#8211; ich<lbr/>
+halte ihn<lbr type="BD"/> für einen <rend class="latin">Secretaire</rend>. &#8211; wer mich auch mit einem Besuche über=raschte<lbr/>
+war der<lbr type="BD"/>&#160;<rend class="latin">gilowsky</rend> der kahterl ihr Bruder &#8211; warum überraschte &#8211; weil ich<lbr/>
+es ganz<lbr type="BD"/> vergessen hatte daß dieser in Wie<abbr type="topline" expand="nn">n</abbr> ist &#8211; was ein fremder ort einen<lbr/>
+Menschen<lbr type="BD"/> gleich bilden ka<abbr type="topline" expand="nn">n</abbr>! &#8211; aus diesem wird gewis ein Rechtschafner braver<lbr type="BD"/><lbr/>
+Mensch &#8211; sowohl in seinen <rend class="latin">Metièr</rend> als äusserlichen betragen. &#8211; <lbr type="forced"/>
+sie werden unterdessen die briefe vom ka&#255;ser und fürst kaunitz erhalten<lbr/>
+<add_note schr_id="57010"><ts>______________________________________</ts>Erzbischof<ts>___________________________________________________</ts>Ehrgeiz</add_note>
+ha<lbr type="BD"/>ben. &#8211; was sie mir vom <encr expand="erzbischof">lrzbfocusi</encr> schreiben, hat &#8211; was seinen <encr expand="ehrgeitz">lurglftz</encr>,<lbr type="BD"/><lbr/>
+meine Perso<abbr type="topline" expand="nn">n</abbr> betreffend, kitzelt, in so weit seine Richtigkeit &#8211; allein<lbr/>
+was nützt<lbr type="BD"/> mich alles dieß? &#8211; &#8211; von diesem lebt man nicht; &#8211; glauben sie<lbr/>
+nur sicher,<lbr type="BD"/> daß er mir hier gleich einen <u>lichtschirm</u> ist &#8211; was giebt<lbr/>
+<add_note schr_id="57010"><ts>____________________________________</ts>distinktion?</add_note>
+er mir de<abbr type="topline" expand="nn">n</abbr> für<lbr type="BD"/>&#160;<rend class="latin"><encr expand="distinction">dfotfnctfsn</encr></rend>? &#8211; h<abbr type="curve">:</abbr>&#160;<rend class="latin">v:</rend> kleinma&#255;er, <rend class="latin">Beneckè</rend> haben mit<lbr/>
+<add_note schr_id="57010"><ts>______________________________________</ts><rend class="latin">Arco</rend><ts>________________</ts><rend class="latin">Tafel</rend><ts>________________________</ts>distinktion</add_note>
+dem Erlauchten graf <rend class="latin"><encr expand="Arco">Mrcs</encr></rend> eine <rend class="latin">extra</rend>=<encr expand="tafel">tmile</encr>; &#8211; das wäre <rend class="latin"><encr expand="distinction">dfotfnctfsn</encr></rend><lbr/>
+<add_note schr_id="57010"><ts>________________________________</ts>Tafel wäre<ts>____________________________________</ts>Kammerdienern,</add_note>
+we<abbr type="topline" expand="nn">n</abbr> ich be&#255; dieser <encr expand="tafel wäre">tmile <lbr type="BD"/> wm"rl</encr> &#8211; aber nicht be&#255; den <encr expand="kammerdienern">kmaalrdflnlrn</encr> die,<lbr/>
+<add_note schr_id="57010"><ts>__________________________________________________</ts>Tisch</add_note>
+<u>ausser den Ersten Platz<lbr type="BD"/> be&#255;m <encr expand="tisch">tfocu</encr></u> die lüster anzünden, die thür auf<pc force="weak">=</pc><lbr/>machen, und in vorzi<abbr type="topline" expand="mm">m</abbr>er bleiben<lbr type="BD"/> müssen, <u>we<abbr type="topline" expand="nn">n</abbr> ich dari<abbr type="topline" expand="nn">n</abbr> bin</u> &#8211; und be&#255; die<lbr/>
+herrn köche. &#8211; und da<abbr type="topline" expand="nn">n</abbr>, we<abbr type="topline" expand="nn">n</abbr><lbr type="BD"/> wir wo hingerufen werden wo ein <rend class="latin">Concert</rend><lbr/>
+ist, so muß der h<abbr type="curve">:</abbr> Angelbauer<lbr type="BD"/> herauß Passen bis die h<abbr type="curve">:</abbr> Salzburger kö<abbr type="topline" expand="mm">m</abbr>en,<lbr/>
+und sie da<abbr type="topline" expand="nn">n</abbr> durch einen laka&#255;<lbr type="BD"/> weisen lassen, damit sie hinein därfen &#8211; <lbr/>
+wie das der <rend class="latin">Brunetti</rend> so im <rend class="latin">discurs</rend><lbr type="BD"/> erzählte &#8211; so dachte ich, wartet nur bis ich einmal<lbr/>
+ko<abbr type="topline" expand="mm">m</abbr>e; &#8211; als wir also<lbr type="BD"/> lezthin zum fürst <rend class="latin">gallizin</rend> musten, sagte mir <rend class="latin">Brunetti</rend>,<lbr/>
+nach seiner höflichen<lbr type="BD"/> art; <rend class="latin">tu, bisogna che <suppl hand="self" pos="supra">sei</suppl> qui sta sera alle sette, per andare insieme<lbr/>
+dal Prencipe<lbr type="BD"/> gallizin. l'Angelbauer ci condurrà. &#8211; <u>hò risposto</u>: và bene &#8211; <lbr/>
+ma &#8211; se in caso mai<lbr type="BD"/> non <suppl hand="self" pos="infra">fossi</suppl> qui alle sette in punto: ci andate pure; non<lbr/>
+serve aspettarmi &#8211; sò ben<lbr type="BD"/> dovè stà, e ci verrò sicuro;</rend> &#8211; Ich gieng also mit fleiß<lbr/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="2"/>
+weil ich mich schäme mit<lbr type="BD"/> ihnen wohin zu gehen, allein hin; &#8211; als ich hinauf ka<abbr type="topline" expand="mm">m</abbr> stund<lbr/>
+schon h<abbr type="curve">:</abbr><lbr type="BD"/> Angelbauer da den h<abbr type="curve">:</abbr> bedienten zu sagen, daß er mich hinein führen<lbr/>
+sollte &#8211;<lbr type="BD"/> ich gab aber weder auf den h<abbr type="curve">:</abbr> leibka<abbr type="topline" expand="mm">m</abbr>erdiener noch h<abbr type="curve">:</abbr> bedienten<lbr/>
+acht,<lbr type="BD"/> sondern gieng gerade die zi<abbr type="topline" expand="mm">m</abbr>er durch in das Musick=zi<abbr type="topline" expand="mm">m</abbr>er, de<abbr type="topline" expand="nn">n</abbr> die<lbr/>
+thürn<lbr type="BD"/> warn alle offen. &#8211; und schnurgerade zum Prinzen hin und machte ihn<lbr/>
+mein<lbr type="BD"/>&#160;<rend class="latin">Compliment</rend> &#8211; wo ich da<abbr type="topline" expand="nn">n</abbr> stehen blieb, und i<abbr type="topline" expand="mm">m</abbr>er mit ihm sprach; &#8211; <lbr/>
+ich<lbr type="BD"/> hatte ganz auf meine <rend class="latin">Ceccarelli</rend> und <rend class="latin">Brunetti</rend> vergessen, da<abbr type="topline" expand="nn">n</abbr> man sahe sie<lbr type="BD"/><lbr/>
+nicht &#8211; die steckten ganz hinterm <rend class="latin">orchestre</rend> an die Mauer gelehnt, und traueten<lbr type="BD"/><lbr/>
+sich keinen schritt hervor. &#8211; we<abbr type="topline" expand="nn">n</abbr> ein <rend class="latin">Cavalier</rend> oder dame mit dem <rend class="latin">Cecca<pc force="weak">=</pc><lbr/>relli</rend><lbr type="BD"/> redet, so lacht er i<abbr type="topline" expand="mm">m</abbr>er. &#8211; und redet so Jemand mit den <rend class="latin">Brunetti</rend><lbr/>
+so wird<lbr type="BD"/> er roth, und giebt die trockenste antworten. &#8211; O, ich hätte viel<lbr/>
+zu schreiben<lbr type="BD"/> we<abbr type="topline" expand="nn">n</abbr> ich all die <rend class="latin">scenen</rend> die es schon dieweil ich hier bin und Ehe ich<lbr/>
+<add_note schr_id="57010"><ts>_________________________</ts>Erzbischof</add_note>
+ka<abbr type="topline" expand="mm">m</abbr><lbr type="BD"/> wegen dem <encr expand="erzbischof">lrzbfocusi</encr> und <rend class="latin">Ceccarelli</rend> und <rend class="latin">Brunetti</rend> gegeben hat,<lbr/>
+beschreiben<lbr type="BD"/> wollte. &#8211; mich wundert nur daß sich der &#8211; des <rend class="latin">brunetti</rend><lbr/>
+nicht schä<abbr type="topline" expand="mm">m</abbr>t; ich<lbr type="BD"/> schäme mich anstatt seiner. &#8211; und wie der kerl so ungern<lbr/>
+hier ist &#8211; das ding<lbr type="BD"/> ist ihm halt als zu <rend class="latin">Nobel</rend> &#8211; so am tisch &#8211; das<lbr/>
+glaub ich sind seine vergnüg<lbr type="BD"/>testen stunden &#8211; Heute hat der Prinz <rend class="latin">gallizin</rend><lbr/>
+den <rend class="latin">Ceccarelli</rend> zum Singen be<lbr type="BD"/>gehren lassen &#8211; das nächstemal wird es wohl<lbr/>
+mich treffen &#8211; Ich gehe heute<lbr type="BD"/> abends mit h<abbr type="curve">:</abbr>&#160;<rend class="latin">v:</rend> kleinma&#255;ern zu einem<lbr/>
+seiner guten freunde zum hofrath<lbr type="BD"/> Braun, wo mir alle sagen daß er der<lbr/>
+gröste liebhaber von <rend class="latin">clavier</rend> se&#255;e &#8211; be&#255;<lbr type="BD"/> der gräfin Thun habe schon<lbr/>
+2 mal gespeist, und ko<abbr type="topline" expand="mm">m</abbr>e fast alle tage hin &#8211;<lbr type="BD"/> das ist die <rend class="latin">charmanteste</rend>,<lbr/>
+liebste Da<abbr type="topline" expand="mm">m</abbr>e die ich in meinem leben gesehen; und ich gelte auch sehr viel<lbr/>
+be&#255; ihr &#8211; ihr herr ist noch der nemliche sonder<lbr type="BD"/>bare &#8211; aber gutdenkende<lbr/>
+rechtschafene <rend class="latin">Cavalier</rend>. &#8211; be&#255;m grafen <rend class="latin">Cobenzl</rend><lbr type="BD"/> habe auch gespeist, und das<lbr/>
+<add_note impl="pencil"><ts>____________________________________</ts>o</add_note>
+wegen der gräfin <rend class="latin">v:</rend> Rumbeck seine Muhme, die<lbr type="BD"/> schwester vom <rend class="latin">Cobenzl</rend> in<lbr/>
+der <rend class="latin">Pagerie</rend>, welche mit ihrem herrn in Salzburg<lbr type="BD"/> war. &#8211; <lbr type="forced"/>
+<add_note schr_id="57010"><ts>__________________________________________________________________________________________________________</ts>Kaiser</add_note>
+Nun ist meine Haupt=absicht hier daß ich mit schöner Manier zum <encr expand="kaiser">km&#255;olr</encr><lbr/>
+ko<abbr type="topline" expand="mm">m</abbr>e, de<abbr type="topline" expand="nn">n</abbr> ich will <rend class="latin">absolument</rend> daß er mich <u>ke<abbr type="topline" expand="nn">n</abbr>en lernen soll</u>. &#8211; Ich<lbr type="BD"/> möchte<lbr/>
+ihm mit lust meine <rend class="latin">opera</rend> durchpeitschen, und da<abbr type="topline" expand="nn">n</abbr> brav fugen spillen,<lbr type="BD"/> de<abbr type="topline" expand="nn">n</abbr> das<lbr/>
+ist seine Sache. &#8211; O, hätte ich gewust, daß ich die fasten nach Wie<abbr type="topline" expand="nn">n</abbr><lbr type="BD"/> kö<abbr type="topline" expand="mm">m</abbr>en würde,<lbr/>
+hätte ich ein kleines <rend class="latin">oratorio</rend> geschrieben, und zu meinen<lbr type="BD"/> vortheile im theater ge<pc force="weak">=</pc><lbr/>geben, wie es hier alles macht &#8211; ich hätte leicht vorher<lbr type="BD"/> zu schreiben gehabt, weil ich<lbr/>
+die sti<abbr type="topline" expand="mm">m</abbr>en alle ke<abbr type="topline" expand="nn">n</abbr>e; &#8211; wie gerne gäb ich<lbr type="BD"/> nicht ein öfentliches <rend class="latin">Concert</rend> wie es<lbr/>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="3"/>
+hier der Brauch ist, aber &#8211; es wird mir<lbr type="BD"/> nicht erlaubt, das weis ich gewis, de<abbr type="topline" expand="nn">n</abbr>,<lbr/>
+stellen sie sich vor &#8211; sie wissen daß<lbr type="BD"/> hier eine <rend class="latin">Societet</rend> ist, welche zum vortheile<lbr/>
+der Witwen von den <rend class="latin">Musicis acca<lbr type="BD"/>demien</rend> giebt &#8211; alles was nur Musik<lbr/>
+heist spiellt da umsonst &#8211; das <rend class="latin">orchestre</rend><lbr type="BD"/> ist 180 Perso<abbr type="topline" expand="nn">n</abbr>en stark &#8211; kein<lbr/>
+<rend class="latin">virtuos</rend> der nur ein bischen liebe des Nächsten<lbr type="BD"/> hat, schlägt es ab darin<lbr/>
+zu spiellen, we<abbr type="topline" expand="nn">n</abbr> er von der <rend class="latin">Societet</rend> aus darum<lbr type="BD"/> ersuchet wird &#8211; de<abbr type="topline" expand="nn">n</abbr>, man<lbr/>
+macht sich auch sowohl be&#255;m ka&#255;ser als be&#255;m<lbr type="BD"/>&#160;<rend class="latin">Publicum</rend> darum beliebt. &#8211; <lbr type="forced"/>
+starzer hatte den Auftrag mich darum zu bitten, und ich sagte es ihm gleich<lbr/>
+zu,<lbr type="BD"/> doch müste ich vorher meines fürsten Gutachten darüber vernehmen &#8211; <lbr/>
+und ich<lbr type="BD"/> hatte gar keinen zweifel weil es eine geistliche art, und unentgeldlich<lbr/>
+nur um<lbr type="BD"/> eines gutes Werk zu thun, ist; &#8211; <u>er erlaubte es mir nicht</u>; &#8211; <lbr/>
+die ganze noblesse<lbr type="BD"/> hier hat ihm dieses übel geno<abbr type="topline" expand="mm">m</abbr>en. &#8211; mir ist es nur<lbr/>
+wegen diesem leid; &#8211; ich<lbr type="BD"/> hätte kein <rend class="latin">Concert</rend>, sondern |: weil der ka&#255;ser in der<lbr/>
+<rend class="latin">Proscen loge</rend> ist :| ganz<lbr type="BD"/> allein |: die gräfin thun hätte mir ihr schönes steiner<pc force="weak">=</pc><lbr/><rend class="latin">Pianforte</rend> darzu ge<lbr type="BD"/>geben :| <rend class="latin">Preludirt</rend>, eine <rend class="latin">fuge</rend> &#8211; und da<abbr type="topline" expand="nn">n</abbr> die <rend class="latin">variationen</rend><lbr/>
+<rend class="latin">je suis lindor</rend> ge<lbr type="BD"/>spiellt. &#8211; wo ich noch das so öfentlich gemacht habe,<lbr/>
+habe ich den grösten<lbr type="BD"/> be&#255;fall erhalten &#8211; weil es so gut gegen einander<lbr/>
+absticht, und weil Jeder &#8211;<lbr type="BD"/> was hat; aber <rend class="latin">Pazienza</rend>; &#8211; <lbr type="forced"/>
+<rend class="latin">Fiala</rend> gilt nun 1000mal mehr be&#255; mir daß er nicht unter einen<lbr/>
+ducaten<lbr type="BD"/> spiellt. &#8211; ist meine schwester noch nicht ersucht worden? &#8211; <lbr/>
+sie wird Ja hof<lbr type="BD"/>fentlich <u>2 begehren</u>. &#8211; de<abbr type="topline" expand="nn">n</abbr> mir wäre nicht lieb, we<abbr type="topline" expand="nn">n</abbr> wir<lbr/>
+&#8211; die wir uns alle<lbr type="BD"/> so von der ganzen hof<rend class="latin">musick</rend>&#160;<u>in allem</u> unterscheiden &#8211; <lbr/>
+nicht auch es in diesem falle thäten &#8211; de<abbr type="topline" expand="nn">n</abbr>, wollen sie nicht, so sollen<lbr/>
+sie es bleiben lassen &#8211; und<lbr type="BD"/> wollen sie sie haben &#8211; so sollen sie im<lbr/>
+gottes Namen zahlen. &#8211; <lbr type="forced"/>
+Ich werde diese täge zu <rend class="latin">Mad.<h>me</h> Rosa</rend> gehen, und sie werden gewis mit<lbr/>
+ihrem<lbr type="BD"/> feinen <rend class="latin">Ministre</rend> zufrieden se&#255;n &#8211; ich will die sache so fein an<pc force="weak">=</pc><lbr/>greifen, wie der<lbr type="BD"/>&#160;<u>weiser</u> als man seiner frau ihrer Mutter die sterb<pc force="weak">=</pc><lbr/>glocke litt; &#8211; <lbr type="forced"/>
+h<abbr type="curve">:</abbr>&#160;<rend class="latin">v:</rend> Zetti hat mir gleich anfangs angetragen meine briefe ihm zu<lbr/>
+übergeben,<lbr type="BD"/> er wird sie mit dem <rend class="latin">Paquet</rend> fortschicken. &#8211; <lbr type="forced"/>
+die 2 <rend class="latin">Quartetten</rend> brauch ich nicht, und die Baumgartische <rend class="latin">aria</rend> auch nicht.<lbr type="forced"/>
+<lbr type="forced"/>
+<add_note schr_id="57010"><ts>__________________________________________________________</ts>Präsent vom Kurfürsten?</add_note>
+<rend class="latin">apropos</rend>; wie steht es de<abbr type="topline" expand="nn">n</abbr> mit dem <rend class="latin"><encr expand="Present">Prlolnt</encr></rend>&#160;<encr expand="vom Chur=fürsten">vsa Cuhr=ih"rotln</encr> &#8211; ist<lbr/>
+<add_note schr_id="57010"><ts>_____________</ts>was<ts>________</ts>geschikt<ts>___</ts>worden?</add_note>
+schon<lbr type="BD"/>&#160;<encr expand="was geschickt worden">wmo glocufckt wsrdln</encr>? &#8211; waren sie, bevor sie abgereiset sind,<lbr/>
+be&#255; <encr expand="der Baumgarten">dlr<lbr type="BD"/> Bmhagmrtln</encr>? &#8211; <lbr type="forced"/>
+<add_note schr_id="57010"><ts>_______</ts>der Baumgarten?</add_note>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="4"/>
+Nun bitte ich allen guten freunden und freudin meine Empfehlung zu<lbr type="BD"/><lbr/>
+machen, besonders der katherl &#8211; dem schachter, und <rend class="latin">fiala</rend> &#8211; <lbr/>
+h<abbr type="curve">:</abbr> v. kleinma&#255;er,<lbr type="BD"/> zetti, <rend class="latin">ceccalli</rend>, <rend class="latin"><amend value="Brunetti">Bruntti</amend></rend>, <rend class="latin"><amend value="Controleur">Contoleur</amend></rend>, 2 ka<abbr type="topline" expand="mm">m</abbr>erdiener,<lbr/>
+leitgeb, <rend class="latin">Ra<abbr type="topline" expand="mm">m</abbr></rend> welcher<lbr type="BD"/> so<abbr type="topline" expand="nn">n</abbr>tag abreist, empfehlen sich alle;<lbr type="forced"/>
+<rend class="latin">apropós</rend>; der Peter Vogt ist hier. &#8211; Nun leben sie recht wohl ich<lbr/>
+küsse ihnen<lbr type="BD"/> 1000mal die hände und meine schwester umarme ich von<lbr/>
+herzen, und bin Ewig dero<ts>__________</ts><tspdf>\hfill </tspdf>|: Der <rend class="latin">Buffo Rossi</rend> ist auch hier.<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>________</ts><tshtm>_____________________________________________________</tshtm><tspdf>\hfill </tspdf>gehorsamster Sohn<lbr type="forced"/>
+<ts>________</ts><tshtm>_______________________________________________</tshtm><tspdf>\hfill </tspdf>Wolfg: Amadè Mozart <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<postxt loc="bot"><u><uu>Den 28:<h>tn</h> März</uu></u>: Ich bin mit dem briefe nicht fertig geworden, weil mich<lbr/>
+h<abbr type="curve">:</abbr><lbr type="BD"/>&#160;<rend class="latin">v:</rend> kle&#255;nma&#255;er zum <rend class="latin">Concert</rend> be&#255; <rend class="latin">Baron</rend> Braun in der kutsche abgehollet<lbr/>
+<add_note schr_id="57010"><ts>_____________________________________________________</ts>Erzbischof<ts>______</ts>erlaubt hat</add_note>
+hat &#8211;<lbr type="BD"/> mithin schreibe izt daß mir der <encr expand="erzbischof erlaubt hat">lrzbfocusi lremhbt umt</encr><lbr/>
+<add_note schr_id="57010"><ts>_________________</ts>witwenkoncert zu<ts>_____</ts>spielen.</add_note>
+in den <encr expand="Witwen Concert">Wftwln<lbr type="BD"/> Csnclrt</encr> zu <encr expand="spielen">opfleln</encr>. &#8211; de<abbr type="topline" expand="nn">n</abbr>, <u>starzer</u> ist<lbr/>
+<add_note schr_id="57010"><ts>_____________________________________</ts>Gallizin</add_note>
+zur <rend class="latin">accademie</rend> be&#255;m <rend class="latin"><encr expand="Gallizin">Gmeefzfn</encr></rend> gegangen, und er und<lbr/>
+<add_note schr_id="57010"><ts>______</ts>ganze<ts>________</ts>Noblesse ihn<ts>_____</ts>so gequält<ts>_________</ts>er es erlaubt</add_note>
+die <encr expand="ganze">gmnzl</encr>&#160;<rend class="latin"><encr expand="Noblesse">Nsbelool</encr></rend> haben <encr expand="ihn so quält">fun os qhm"et</encr>, bis <encr expand="er es erlaubt">lr lo <lbr type="BD"/>lremhbt</encr><lbr/>
+<add_note schr_id="57010">hat</add_note>
+<encr expand="hat">umt</encr>. &#8211; <u>bin ich so froh</u>; &#8211; Ich habe dieweil ich hier bin 4 mal zu<lbr/>
+hause<lbr type="BD"/> gespeist; &#8211; es ist mir zu früh &#8211; und man isst gar zu schlecht. &#8211; <lbr/>
+Nur we<abbr type="topline" expand="nn">n</abbr><lbr type="BD"/> es recht schlecht Wetter ist, da<abbr type="topline" expand="nn">n</abbr> bleib ich zu hause wie heute<lbr/>
+<rend class="latin">par Exemple</rend> &#8211; <lbr type="forced"/>
+<lbr type="forced"/>
+schreiben sie mir doch was neues in<lbr/>
+Salzburg passiert, de<abbr type="topline" expand="nn">n</abbr> man hat<lbr/>
+mich entsezlich darum gefragt, &#8211; die<lbr/>
+herrn haben mehr begierde nach Salzburger<lbr/>
+Neuekeiten als ich &#8211; <lbr/>
+die <rend class="latin">Mara</rend> ist hier; &#8211; sie hat vergangen dienstag eine <rend class="latin">accademie</rend><lbr/>
+im Theater<lbr type="BD"/> gegeben. &#8211; ihr Ma<abbr type="topline" expand="nn">n</abbr> hat sich nicht dürfen sehen lassen, sonst<lbr/>
+hätte das<lbr type="BD"/>&#160;<rend class="latin">orchestre</rend> nicht <rend class="latin">accompagnirt</rend>, weil er in die zeitungen gedruckt<lbr/>
+hat, in ganz<lbr type="BD"/> Wie<abbr type="topline" expand="nn">n</abbr> se&#255;e kein Mensch im stande ihm zu <rend class="latin">accompagniren</rend>.<lbr/>
+&#8211; <u><rend class="latin">Adieu</rend></u>.<lbr type="forced"/>
+<tspdf>\newpage</tspdf>&#160;<tshtm>___________________________________</tshtm>H<h>r</h>: <rend class="latin">v:</rend> Moll hat mir heute eine <rend class="latin">visite</rend> gemacht &#8211; ich werde<lbr/>
+Morgen oder über<lbr type="BD"/>morgen auf ein frühstück zu ihm gehen, und die <rend class="latin">opera</rend> mitnehmen.<lbr/>
+&#8211; er läst<lbr type="BD"/> sich ihnen be&#255;derseits empfehlen &#8211; zum h<abbr type="curve">:</abbr>&#160;<rend class="latin">v:</rend> Auerha<abbr type="topline" expand="mm">m</abbr>er und dessen<lbr/>
+dicken<lbr type="BD"/> frl. tochter werde so bald das Wetter besser ist, gehen &#8211; aus diesen<lbr/>
+sehen sie,<lbr type="BD"/> daß ich ihren lezten von 24:<h>ten</h> auch erhalten. der alte fürst <rend class="latin">Colloredo</rend><lbr/>
+|: be&#255;<lbr type="BD"/> dem wir Musick hatten :| hat Jedem von uns 5 duckaten gegeben &#8211; die<lbr/>
+gräfin<lbr type="BD"/> Rumbeck habe zur <u>schüllerin</u> &#8211; h<abbr type="curve">:</abbr>&#160;<rend class="latin">v:</rend> Mesmer |: der <rend class="latin">Normal</rend>schul <rend class="latin">In<pc force="weak">=</pc><lbr/>spector</rend>: :|<lbr type="BD"/> sa<abbr type="topline" expand="mm">m</abbr>t seiner gnädigen frau und sohn, empfiehl sich. &#8211; se&#255;n sohn spiellt <rend class="latin">magni<pc force="weak">=</pc><lbr/>fique</rend> &#8211; Nur, daß er aus Einbildung schon genug zu kö<abbr type="topline" expand="nn">n</abbr>en, faul ist &#8211; hat<lbr type="BD"/> auch<lbr/>
+viel <rend class="latin">genie</rend> zur <rend class="latin">Composition</rend> &#8211; ist aber zu träg sich damit abzugeben &#8211;<lbr type="BD"/> das ist seinem<lbr/>
+<tshtm>_____________________</tshtm>vatter nicht recht. <rend class="latin">Adieu</rend>.</postxt>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+</letter>
+</text>
+</MUP>

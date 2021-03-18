@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2009">2009-08-20</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=141</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:29:36 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/Doc1839_5_mup.txt">
+<HEADER id="141">LUDWIG VON KÖCHEL AN UNBEKANNT<lbr/>
+SCHLOSS WEILBURG, 3. OKTOBER 1839</HEADER>
+
+
+<pg n="1"/>
+<add_num impl="pencil"><ts>______________________________________</ts>1240</add_num><lbr/>
+Verehrter Herr und Landsmann!<lbr type="forced"/>
+<lbr type="forced"/>
+Sie haben mir durch die freundliche<lbr/>
+Zumittlung Ihrer Inaugural-Disser<pc force="weak">=</pc><lbr/>tation ein recht angenehmes Geschenk<lbr/>
+gemacht, wofür ich Ihnen sehr dank<pc force="weak">-</pc><lbr/>bar bin. Verfasser und Gegenstand<lbr/>
+riefen mir eine Menge Erinnerungen<lbr/>
+einer vergangenen Zeit zurück,<lbr/>
+die bei dem vielen Düsteren in den<lbr/>
+zunächst liegenden Vordergründen doch<lbr/>
+die hei<tspdf>\-</tspdf>teren Fernsichten der Jugend<lbr/>
+nicht ganz verdrängen konnte. &#8211; Auf<pc force="weak">=</pc><lbr/>richtig gesagt, stellte ich mir nur selbst<lbr/>
+<pg n="2"/>
+die Frage, wie es doch kam, daß erst<lbr/>
+ein ganz fremdartiges Ereigniß Ver<pc force="weak">-</pc><lbr/>anlassung werden mußte, daß ich nach<lbr/>
+langer Pause Zeichen gütiger Erinne<pc force="weak">-</pc><lbr/>rung aus der Ferne von einem wacke<pc force="weak">-</pc><lbr/>ren Landsmanne erhalten mußte, wäh<pc force="weak">-</pc><lbr/>rend wir doch eine lange Zeit in den<pc force="weak">=</pc><lbr/>selben Ringmauern lebend einander<lbr/>
+nicht näher kamen. Ohne über Vergan<pc force="weak">=</pc><lbr/>genes nutzlos grübeln zu wollen, wer<pc force="weak">=</pc><lbr/>den Sie doch in Zukunft, ohne einzu<pc force="weak">-</pc><lbr/>sprechen, nicht vorübergehen an der<lbr/>
+Thüre<lbr type="forced"/>
+<ts>_____</ts>Ihres<lbr type="forced"/>
+<ts>_____________________________________</ts><tspdf>\hfill </tspdf>dankverpflichteten Lands<suppl hand="#DME"><pc force="strong">-</pc></suppl><lbr type="forced"/><abbr expand="Schloss">Schl</abbr> Weilburg, 3 October <suppl hand="self" pos="supra"><abbr expand="1839">839</abbr></suppl><lbr type="forced"/>
+<ts>____________________________________</ts><tspdf>\hfill </tspdf> mannes L Köchel <abbr_mp expand="manu propria">mp</abbr_mp>
+<pg n="3"/>
+<vacat/>
+<pg n="4"/>
+<vacat/></text>
+</MUP>

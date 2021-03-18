@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2013">2013-3</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=319</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:33:46 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/Doc1879_9.mup">
+<HEADER id="319">MARIE VON SPAUR AN CARL VON STERNECK IN SALZBURG<lbr/>
+SALZBURG, 27. JUNI 1879</HEADER>
+
+<pg n="1"/>
+<add_num>219</add_num>
+<lbr/>
+<ts>_____</ts>Verehrtester Herr Baron,<lbr type="forced"/>
+<lbr type="forced"/>
+Nur nach einem großen mora<pc force="weak">-</pc><lbr/>lischen Kampfe vermag ich es,<lbr/>
+dem strengen Gebote meines<lbr/>
+Arztes Herrn Professor <rend class="latin">Doktor<lbr/>
+<persName key="76447">Kuhn</persName></rend> zu folgen u. Ihnen mitzu<pc force="weak">=</pc><lbr/>theilen, daß ich die versprochene<lbr/>
+u. leider schon veröffentliche Zusage<lbr/>
+meiner Mitwirkung an dem <rend class="latin">Concerte</rend><lbr/>
+der Internationalen Mozartstiftung<lbr/>
+am Juli wieder zurücknehmen<lbr/>
+muß. Meine Krankheit hat eine<lbr/>
+beinahe lebensgefährliche Wendung<lbr/>
+angeno<abbr type="topline" expand="mm">m</abbr>en u. ich darf für einige<lbr/>
+Monate die Harfe nicht berühren.<lbr type="forced"/>
+<pg n="2"/>
+Nehmen Sie verehrtester Herr Baron<lbr/>
+die Versicherung entgegen, daß<lbr/>
+nur die allergrößte Noth mich<lbr/>
+dazu bringen ko<abbr type="topline" expand="nn">n</abbr>te, mein<lbr/>
+Wort zu brechen u. mich selbst<lbr/>
+des großen Vergnügens u. der<lbr/>
+großen Ehre zu berauben an<lbr/>
+dem <rend class="latin">illustern Concerte</rend> mitzuwirken.<lbr/>
+Mein Gemüthszustand, durch mein<lbr/>
+Leiden ohnedies sehr deprimirt<lbr/>
+ist durch diese beklagenswerthe<lbr/>
+Wendung ein wahrhaft peinlicher<lbr/>
+geworden. Mit dem Ausdruck<lbr/>
+der ausgezeichnesten Hochachtung<lbr type="forced"/>
+<ts>_____</ts>Ihre<lbr type="forced"/>
+<ts>________</ts>untröstliche<lbr type="forced"/>
+<ts>______________</ts><tspdf>\hfill </tspdf><rend class="latin">Marie Spaur</rend><lbr type="forced"/>
+den 27/Juni 879.
+<pg n="3"/>
+<vacat/>
+<pg n="4"/>
+<vacat/>
+</text>
+</MUP>

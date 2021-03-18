@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2009">2009-08-20</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=215</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:30:37 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/Doc1853_20_mup.txt">
+<letter lang="it"><HEADER id="215">GIOVANNI SASSI q<h>m</h> DONATO AN CARL THOMAS MOZART IN MAILAND<lbr/>
+CAVERSACCIO, 25. NOVEMBER 1853</HEADER>
+
+
+<pg n="1"/>
+<add_num impl="ink"><rend class="latin">N.<h><u>o</u></h></rend> 57</add_num>
+<ts>_____</ts><rend class="latin">Riveritis.<h><ovl>mo</ovl></h> Mio Caro Sig.<h>r</h> Carlo</rend><lbr type="forced"/><lbr type="forced"/>
+<ts>________________________________________</ts><tspdf>\hfill </tspdf><rend class="latin">Caversaccio li <formula type="mfrac"><mn>25</mn><mi>11</mi></formula> 53</rend><lbr type="forced"/>
+<ts>_____</ts><rend class="latin">Il Clementino spedisce col mezzo del solito Cavalante di Binago</rend><lbr type="forced"/>
+<table rules="none" rows="4" cols="2"><tr><td><rend class="latin">Patatis libre 100. Comasche, pagati milanesi</rend></td><td><rend class="latin"><abbr_cur expand="Lire">£</abbr_cur> 15 &#8211; &#8211; &#8211;</rend></td></tr>
+<tr><td><rend class="latin">per Essere aumentati di prezzo e vanno aume=</rend><lbr type="forced"/>
+<rend class="latin">ntando ancora ogni Settimana,<lbr type="forced"/>
+riceverà Farina di Froina N<h>o</h> 8. quartine<lbr type="forced"/>
+pagatta Soldi 8. alla quartina</rend></td><td><lbr type="forced"/><lbr type="forced"/><lbr type="forced"/><rend class="latin">= 3.4. &#8211;</rend></td></tr>
+<tr><td><rend class="latin">per il trasporto da Caversaccio a Binago dei d.<h>o</h> generi allo</rend></td></tr>
+<tr><td><rend class="latin">stesso Clementino</rend></td><td><u><rend class="latin">= 1.5. &#8211;</rend></u></td></tr>
+<tr><td><rend class="latin">Sommano Milanesi abrosine</rend></td><td><rend class="latin">£ <uu>19.9</uu> &#8211;</rend></td></tr></table>
+<rend class="latin"><ts>_____</ts>Il d.<h>o</h> Clementino giusto l’intelligenza fatto prima della di lei<lbr/>
+partenza da Caversaccio à Comperato N.<h>o</h> 17 fasci legna<lbr/>
+grossa da foco di ottima qualita avvendo fatto un Solo contratto</rend><lbr type="forced"/>
+<table rules="none" rows="2" cols="2"><tr><td><rend class="latin">col Sig.<h>r</h> Paroco per d. legnacione dovendo Milanesi</rend></td><td>
+<ts>___</ts><rend class="latin"><abbr_cur expand="Lire">£</abbr_cur>&#160;<u>3.10</u></rend></td></tr>
+<tr><td><rend class="latin">al fascio indi fasci 17. importano</rend></td><td><rend class="latin"><abbr_cur expand="Lire">£</abbr_cur> 59.10</rend></td></tr></table>
+<rend class="latin">che cade sud.<h>o</h>&#160;<abbr_cur expand="Lire">£</abbr_cur> 19.9. fanno in tutto <abbr_cur expand="Lire">£</abbr_cur> 78.19. &#8211; la qual<lbr/>
+Somma disse il Clementino che li sarebbe gratto a spedirle<lbr/>
+col mezzo del d.<h>o</h> Cavalante onde far fronte alli suoi interessi<lbr type="forced"/>
+<ts>_____</ts>In quanto poi al Coltivare il Giardino e battere le viti del gen<pc force="weak">=</pc><lbr/>ero del Clementino, à suo tempo sarà tutto fatto<lbr type="forced"/>
+<ts>_____</ts>Martedi giorno 22. del Corente sono statto a Como a Presentare al<lbr/>
+uff.<h>o</h> delle Ipoteche N<h>o</h> 4. petizioni per avvere quatro Certi<pc force="weak">=</pc><lbr/>fficati che altretanti furono i Possessori della Casa ed<lbr/>
+orto da lei aquistati, dal 1806. a quel Epoca, che il Sig.<h>r</h><lbr/>
+Conservatore mi à assicuratto che per l’ultimo del cor<pc force="weak">=</pc><lbr/>ente mese saro Esaudito, ma prima di levare il</rend><lbr/>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="2"/>
+<rend class="latin">denaro aspetti altra mia d’avviso, a mutivo che avv<pc force="weak">=</pc><lbr/>endo ritrovato Erore d’intestazione lo si è fatto coregere<lbr/>
+potrebbe forse Essere anche qualche gravamme d’ip<pc force="weak">=</pc><lbr/>otecca sopra li Sig.<h>r</h> dottori Morosini indi aspetta<lbr/>
+che tosto che mi verrànno datti li Sud.<h>i</h> Certifficati<lbr/>
+li Scrivano il tutto per di lei norma,<lbr type="forced"/>
+<ts>_____</ts>Cosi pure ò parlato anche col Sig.<h>r</h> D.<h>r</h> Cesare Somigliana<lbr/>
+il quale mi disse che è pronto e di farne<lbr/>
+conto dal suo pagamento<lbr type="forced"/>
+<ts>_____</ts>E colla solita stima E Rispetto passo a Riverirla<lbr/>
+a nome di tutti della partita della sera, anche<lbr/>
+il Giuseppe, ed in particolare il Sig.<h>r</h> Curato, ed il<lbr/>
+Broggi, e Clementino e Sua familia Sono della<lbr/>
+V. S. St.<h><ovl>ma</ovl></h> ed ornat<h><ovl>ma</ovl></h><lbr type="forced"/>
+<lbr type="forced"/>
+<ts>__________________________________</ts><tspdf>\hfill </tspdf>Umill<h><ovl>mo</ovl></h> ed obb<h><ovl>mo</ovl></h> Servitore<lbr type="forced"/>
+<ts>___________________________________</ts><tspdf>\hfill </tspdf>Sassi Giovanni q<h><ovl>m</ovl></h> Donato<lbr type="forced"/>
+<ts>_____</ts>P. S. Il Clementino disse se ne occore un poco di legna<lbr/>
+anche per Milano vadi dacordo pel trasporto col cavalante<lbr/>
+e poi dietro un Suo ordine li spedira, intanto la<lbr/>
+detta legna hà colocato in casa del Clementino, cosi<lbr/>
+pure, Il Paroco mi disse di dire alla. VS.</rend><lbr/>
+<pg n="3"/>
+<rend class="latin">che a Compratto, è gia fatto bagnare Calce di ottima<lbr/>
+qualita fasci N.<h>o</h> 15.. E di Belnuovo addio</rend>
+<pg n="4"/>
+<anschrift rot="90"><rend class="latin"><u>con due Sachi Pieni</u><lbr type="forced"/>
+Al’ Sig.<h>r</h> Sti.<h><ovl>mo</ovl></h> ed<lbr type="forced"/>
+Ornat.<h><ovl>mo</ovl></h> Carlo Mozart.<lbr type="forced"/>
+Strada della Cavalchina in<lbr type="forced"/>
+Casa al Civico N<h><u>o</u></h> 1419. P<ovl>mo</ovl> Piano<lbr type="forced"/>
+<u>Milano</u></rend></anschrift>
+</letter></text>
+</MUP>

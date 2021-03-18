@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2013">2013-12</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1193</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Verbleib unbekannt (Nachweis: Sotheby's London, 26.5.2000, Katalog, Lot 186)</bibl>
+            <bibl type="source" subtype="RISM">Verbleib unbekannt, Nachweis: Sotheby's London, 26.5.2000, Katalog, Lot 186</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:39:53 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_627.mup">
+<letter bd="627"><NI src="Unbekannt"><HEADER id="1193">WOLFGANG AMADÉ MOZART AN LEOPOLD MOZART IN SALZBURG<lbr/>
+WIEN, NACH DEM 19. SEPTEMBER 1781</HEADER>
+<pg n="1"/>
+<add_note schr_id="57010"><ts>_______________________________</ts>Vor <stroke>nach</stroke>26 Sept 81</add_note>
+Ich schicke ihnen einen kleinen <rend class="latin">Prægusto</rend> von der <rend class="latin">opera</rend><lbr/>
+weil ich<lbr type="BD"/> nichts Neues und Nothwendiges zu schreiben<lbr/>
+habe. &#8211; die Personen<lbr type="BD"/>
+sind.<lbr type="forced"/>
+<ts>_____</ts>Bassa Selim<ts>___</ts> &#8211; <ts>___</ts>h<abbr type="curve">:</abbr> Jautz<lbr type="BD"/> / <rend class="latin"><u>Ein acteur</u></rend><lbr type="BD"/><lbr type="forced"/>
+<ts>________________________</ts><tshtm>__________________________</tshtm>hat nichts zu singen.<lbr type="BD"/><lbr type="forced"/>
+<ts>_____</ts>kostanze. geliebte des belmont. <rend class="latin">Mad.<h>me</h> Cavalieri.</rend><lbr type="BD"/><lbr type="forced"/>
+<ts>_____</ts>blonde. Mädchen der konstanze <rend class="latin">Mad.<h>lle</h></rend> teiber.<lbr type="BD"/><lbr type="forced"/>
+<ts>_____</ts>Belmont.<ts>_____</ts><tshtm><line w="8em"/>_______</tshtm><tspdf><line w="5em"/>__________</tspdf>h<abbr type="curve">.</abbr> Adamberger<lbr type="BD"/><lbr type="forced"/>
+<ts>_____</ts>Pedrillo. bedienter des belmont<ts>______</ts>h<abbr type="curve">:</abbr> Dauer<lbr type="BD"/><lbr type="forced"/>
+<ts>___________</ts>und aufseher über die gärten des bassa.<lbr type="BD"/><lbr type="forced"/>
+<ts>_____</ts><rend class="latin"><u>Osmin</u>.</rend> aufseher über das landhaus des bassa<ts>__</ts>h<abbr type="curve">:</abbr> fischer.<lbr type="BD"/><lbr type="forced"/>
+<tshtm>__________________</tshtm><ts>________________________</ts><u>Ein grober kerl</u>.<ts>___</ts><rend class="latin"><u>Bassist.</u></rend><lbr type="forced"/>
+bitte die <rend class="latin">Concert</rend> bald zu schicken.<lbr type="forced"/>
+<pg n="2"/>
+<anschrift><rend class="latin">A<lbr type="forced"/>
+Monsieur<lbr type="forced"/>
+Monsieur Leopold Mozart<lbr type="forced"/>
+Maitre de la Chapelle<lbr type="forced"/>
+de<lbr type="BD"/> S: A: R: l'archeveque de et<lbr type="forced"/>
+à<lbr type="forced"/>
+<u>Salzbourg.</u></rend></anschrift>
+</NI>
+</letter>
+</text>
+</MUP>

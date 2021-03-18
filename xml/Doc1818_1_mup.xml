@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2009">2009-08-20</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=64</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:26:08 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/Doc1818_1_mup.txt">
+<HEADER id="64">GEORG NIKOLAUS NISSEN AN CARL THOMAS MOZART IN MAILAND<lbr/>
+KOPENHAGEN, 14. JANUAR 1818</HEADER>
+
+
+<pg n="1"/>
+<add_num loc="rm" rot="270" impl="ink"><ts>____________________________________________________________________________</ts><rend class="latin">N<h><uu>o</uu></h> </rend> 22</add_num>
+Lieber Karl,<lbr type="forced"/>
+Ihre Mutter und ich bitten Sie, dem Ueberbringer Herrn<lbr/>
+Professor Keyser aus Christiania (in Norwegen) bey<lbr/>
+seinem dortigen Aufenthalte so gefällig und nüzlich<lbr/>
+zu seyn, als es von Ihnen abhängt, und ihm namentlich<lbr/>
+die Bekanntschaft ausgezeichneter Mineralogen und<lbr/>
+Physiker zu erleichtern. Es ist ein Biedermann, mit<lbr/>
+dem ich Umgang gehabt habe, noch ehe er aufhörte<lbr/>
+mein Landsmann zu seyn.<lbr type="forced"/>
+<ts>_____</ts>Unser letzter Brief war vom 15 Nov. v. J.; ich zweifle nicht, daß Sie<lbr/>
+ihn schon durch den Konsul (in Palermo, glaube ich, bisher in Ancona,)<lbr/>
+Hofmeister erhalten haben. Wolf schreibt nicht, Sophie schreibt<lbr/>
+nicht. Seyn sie desto braver! Ihr lezter Brief war vom 12 August.<lbr/>
+<postxt loc="lm" rot="270">Melden Sie mir von Spagnolini, und grüßen Sie<lbr/>
+ihn auf das zärtlichste.<lbr type="forced"/>
+Ihre gute Mutter umarmt Sie mit mir. Ich<lbr/>
+bin der Ihrige. Copenhagen 14 Jan. 1818.<lbr type="forced"/>
+<ts>__________</ts>Nißen</postxt>
+<pg n="2"/>
+<anschrift>Herrn Karl Mozart,<lbr type="forced"/>
+<rend class="latin">Mailand.</rend><lbr type="forced"/>
+<div lang="it"><rend class="latin">Sul corso di porta orientale,<lbr type="forced"/>
+casa Belloni,<lbr type="forced"/>
+2<h>o</h>. piano<lbr type="forced"/>
+dal. Sign.<h>e</h> Colonello Casella</rend>.</div></anschrift></text>
+</MUP>

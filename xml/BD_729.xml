@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2014">2014-6</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1296</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Privatbesitz</bibl>
+            <bibl type="source" subtype="RISM">Privatbesitz</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:40:21 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_729.mup">
+<letter bd="729"><HEADER id="1296">WOLFGANG AMADÉ MOZART AN MARTHA ELISABETH BARONIN VON<tspdf>\newline</tspdf> WALDSTÄTTEN IN WIEN<lbr/>
+WIEN, 15. FEBRUAR 1783</HEADER>
+<pg n="1"/>
+<NI src="Unbekannt">
+<ts>______________</ts><tshtm>__________</tshtm>Hochschätzbareste fr: Baronin!<lbr type="forced"/>
+<lbr type="forced"/>
+Nun Befinde ich mich in einer schönen lage! &#8211; Hr: von Tra<abbr type="topline" expand="nn">n</abbr>er und ich<lbr/>
+besprachen uns lezthin, daß wir eine <rend class="latin">prolongation</rend> auf<lbr type="BD"/> 14 Täge<lbr/>
+begehren wollten; &#8211; da dieses doch Jeder kaufma<abbr type="topline" expand="nn">n</abbr> thut, ausge<pc force="weak">=</pc><lbr/>no<abbr type="topline" expand="mm">m</abbr>en es müsste der <rend class="latin">indiscret</rend>este Ma<abbr type="topline" expand="nn">n</abbr> von der Welt se&#255;n, so<lbr/>
+war ich<lbr type="BD"/> ganz ruhig, und hoffte bis dahin, we<abbr type="topline" expand="nn">n</abbr> ich es auch nicht selbst<lbr/>
+zu zahlen<lbr type="BD"/> im Stande wäre, die <rend class="latin">Su<abbr type="topline" expand="mm">m</abbr>a</rend> geborgt zu beko<abbr type="topline" expand="mm">m</abbr>en! &#8211; <lbr/>
+&#8211; Nun lässt mir<lbr type="BD"/> h<abbr type="curve">:</abbr> von Tra<abbr type="topline" expand="nn">n</abbr>er sagen, daß derjenige <rend class="latin">absolu<pc force="weak">=</pc><lbr/>ment</rend> nicht warten will, und<lbr type="BD"/> we<abbr type="topline" expand="nn">n</abbr> ich zwischen heut und Morgen<lbr/>
+nicht zahle, so wird er <u>klagen</u>; &#8211;<lbr type="BD"/> Nun denken Euer gnaden<lbr/>
+was das für ein unangenehmer Streich für mich wäre! &#8211; <lbr type="forced"/>
+Ich ka<abbr type="topline" expand="nn">n</abbr> izt nicht zahlen, nicht einmal die hälfte! &#8211; hätte<lbr type="BD"/> ich<lbr/>
+mir vorstellen kö<abbr type="topline" expand="nn">n</abbr>en, daß es mit der <rend class="latin">souscription</rend> meiner <rend class="latin">Con<pc force="weak">=</pc><lbr/>certen</rend><lbr type="BD"/> so langsam hergehen würde, so hätte ich das geld<lbr/>
+auf längere zeit geno<abbr type="topline" expand="mm">m</abbr><lbr type="BD"/>en! &#8211; Ich bitte Euer gnaden ums<lbr/>
+Hi<abbr type="topline" expand="mm">m</abbr>elswillen, helfen Sie mir meine Ehre und<lbr type="BD"/> guten Na<abbr type="topline" expand="mm">m</abbr>en<lbr/>
+nicht zu verlieren! &#8211; Mein armes Weiberl befindet sich ein<lbr/>
+wenig<lbr type="BD"/> unpasslich, und folglich ka<abbr type="topline" expand="nn">n</abbr> ich sie nicht verlassen, sonst<lbr/>
+würde ich selbst<lbr type="BD"/> geko<abbr type="topline" expand="mm">m</abbr>en se&#255;n, um Euer Gnaden Mündlich<lbr/>
+darum zu bitten. &#8211; wir küssen Euer<lbr type="BD"/> gnaden 1000mal<lbr/>
+die hände und sind be&#255;de<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>__________________________</ts>Euer gnaden<lbr type="BD"/><lbr type="forced"/>
+<lbr type="forced"/>
+<u>Vom Haus</u> den 15:<h>t</h>&#160;<uu><rend class="latin">feb:</rend> 1783</uu><lbr type="forced"/>
+<ts>________</ts><tshtm>____________________________________________</tshtm><tspdf>\hfill </tspdf>gehorsamste kinder<lbr type="BD"/><lbr type="forced"/>
+<ts>________</ts><tshtm>_______________________________________________</tshtm><tspdf>\hfill </tspdf>W: A: <rend class="latin">et</rend> C: Mozart <abbr expand="manu propria">mp</abbr></NI><lbr/>
+<pg n="2"/>
+<anschrift><rend class="latin">À<lbr type="forced"/>
+Madame<lbr type="forced"/>
+Madame La Baronne<lbr type="forced"/>
+de Waldstaedten nèe de<lbr type="forced"/>
+Scheffer<lbr type="BD"/><lbr type="forced"/>
+à<lbr type="forced"/>
+<uu>Leopoldstadt</uu><lbr type="forced"/>
+<uu>N:<h>o</h> 360</uu></rend></anschrift>
+</letter>
+</text>
+</MUP>

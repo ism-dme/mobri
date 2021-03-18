@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2016">2016-6</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=884</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Wgm</bibl>
+            <bibl type="source" subtype="RISM">A-Wgm (Gesellschaft der Musikfreunde in Wien</bibl>
+            <bibl type="source" subtype="RISM">Bibliothek und Archiv)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:38:03 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_322.mup">
+<letter bd="322">
+<NI src="A-Wgm">
+<HEADER id="884">LEOPOLD MOZART AN BREITKOPF &#38; SOHN IN LEIPZIG<lbr/>
+SALZBURG, 16. AUGUST 1776</HEADER>
+<pg n="1"/>
+<ts>_________________________________________________</ts><tspdf>\hfill </tspdf>Salzburg d<abbr v="en"/> 16 August 1776.<lbr type="forced"/>
+<add_empf><ts>_____________________________________________________________</ts>pr. d.<abbr v="en"/> 26</add_empf>
+<lbr type="forced"/>
+<ts>_____</ts>Wohledle insonders hochzuehrende Herrn!<lbr type="forced"/>
+<lbr type="forced"/>
+Vor etwa 4 Jahrn hatten sie die Gütte für mich nicht nur<lbr/>
+be&#255; <persName key="25376">h<abbr type="curve">:</abbr>&#160;<rend class="latin">Grenser</rend></persName><lbr type="BD"/> Blasinstrumentmacher in Dresden die baldige<lbr/>
+Lieferung anverlangter In<lbr type="BD"/>strumente zu betreib<abbr v="en"/> und <suppl hand="self" pos="supra">auf</suppl> mein Ersuchen<lbr/>
+gut zu sprech<abbr v="en"/>, sondern so gar<lbr type="BD"/> die wirkliche Bezahlung zu besorgen.<lbr/>
+Ich bin in dem nä<abbr type="topline" expand="mm">m</abbr>lich<abbr v="en"/> Falle: doch<lbr type="BD"/> betrift es dermahlen eine kleinig<pc force="weak">=</pc><lbr/>keit die etwa 48 f 15 k betragen mag, da es<lbr type="BD"/> nur eine<lbr/>
+Lieferung von einem <u>paar <rend class="latin">Hautbois</rend></u> und einem <u>paar englischen<lbr type="BD"/><lbr/>
+Horn</u> ist. H<abbr type="curve">:</abbr> Grenser wird es, wie nach seinem unterm <u>5 Ma&#255;</u><lbr/>
+mir gethan<abbr v="en"/><lbr type="BD"/> Versprech<abbr v="en"/> hoffe, bereits fertig haben. Nun habe ich<lbr/>
+Anstand wegen der<lbr type="BD"/> Bezahlung, indem kein<abbr v="en"/> and<abbr v="ern"/> weeg vor mir<lbr/>
+sehe, als einen Wechsbrief:<lbr type="BD"/> da es doch nur so eine kleinigkeit<lbr/>
+ist. Sollten Sie nun aber für diesen Betrag<lbr type="BD"/> einiger <u>Violinschul<abbr v="en"/></u><lbr/>
+benötigt se&#255;n, so könnte solche dem <persName key="73569">h<abbr type="curve">:</abbr> Breitkopf</persName> be&#255; nächst<pc force="inter">=</pc><lbr/><lbr/>
+<add_empf>[... (Berechnungen)]</add_empf>
+<pg n="2"/>
+ko<abbr type="topline" expand="mm">m</abbr>endem Herbstmarkt behändigen, und auf diese Art durch<lbr/>
+dero Gütte <persName key="25376">h<abbr type="curve">:</abbr><lbr type="BD"/> Grenser</persName> näher und geschwinder bezahlen.<lbr type="forced"/>
+Widrigenfalls muß ich Sie freundschaftlich und angelegentlichst<lbr/>
+bitten <u>die<lbr type="BD"/> Einsendung dieser Instrumente gütigst zu betreib<abbr v="en"/>,</u><lbr/>
+indem es für unsern Hof<lbr type="BD"/> gehört, welcher in Mitte des ko<abbr type="topline" expand="mm">m</abbr>end<abbr v="en"/><lbr/>
+Septembers ein<abbr v="en"/> Besuch von vielen<lbr type="BD"/> StandsPerson<abbr v="en"/> aus Wie<abbr type="topline" expand="nn">n</abbr><lbr/>
+erwartet. bena<abbr type="topline" expand="nn">n</abbr>tlich wird der Vater unsers<lbr type="BD"/>&#160;<persName key="83053">Fürsten</persName> der herr<lbr/>
+ReichsVicekanzler <persName key="51010">Fürst <rend class="latin">Colloredo</rend></persName>, der Russische Gesandte<lbr type="BD"/>&#160;<persName key="74960">Prinz<lbr/>
+Gallizin</persName>, der <persName key="78355">Graf <abbr expand="von">v</abbr> Rosenberg</persName>, <persName key="58958">Graf Schönborn</persName> der sich<lbr/>
+erst kurz<lbr type="BD"/> mit unsers Fürst<abbr v="en"/>&#160;<persName key="83822">Schwester</persName> verehligt gewiß ein<pc force="weak">=</pc><lbr/>treff<abbr v="en"/>. Hauptsächlich muß<lbr type="BD"/> ich bitten, bis ich von ihn<abbr v="en"/> antwort<lbr/>
+erhalte, um die Absendung der Instru<lbr type="BD"/>ment<abbr v="en"/> nicht aufzuhalt<abbr v="en"/>,<lbr/>
+be&#255; <persName key="25376">h<abbr type="curve">:</abbr> Grenser</persName> für mich gut zu seyn. Verzeih<abbr v="en"/> Sie<lbr type="BD"/> mein<lbr/>
+fre&#255;es Zutrau<abbr v="en"/>. Erbiethe mich zu all erdenklich gefällig<abbr v="en"/> Gegen<pc force="weak">=</pc><lbr/>diensten<lbr type="BD"/> und bin mit aller Hochachtung<lbr type="forced"/>
+<ts>______________________________</ts>Euer Wohledl.<lbr type="BD"/><lbr type="forced"/>
+<ts>__________________________________</ts>ergebenster Dr<lbr type="BD"/><lbr type="forced"/>
+<ts>________________________________________________________</ts><tspdf>\hfill </tspdf><persName key="39408">Mozart</persName>&#160;<abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<pg n="3"/>
+<add_empf>
+nach Bl. a M.<lbr/>
+<ts>__</ts>– hab. a T.<lbr/>
+<ts>__</ts>– Magd. a R.<lbr/>
+<ts>__</ts>– Salzb. a. M.</add_empf>
+<lbr/>
+<add_ident>Componist<lbr/>
+<ts>_____</ts>Vater von <persName key="39409">Mozart</persName></add_ident>
+<pg n="4"/>
+<add_empf>Rp<h>o</h>. d<abbr v="en"/>. 3. Xbr. Melden dß wir 2mal an <persName key="25376">Grensern</persName><lbr/>
+nach Dresden wegen der be&#255; ihm bestellten Instrum: geschr. aber niemals<lbr/>
+Antwort beko<abbr type="topline" expand="mm">m</abbr>en; daher ko<abbr type="topline" expand="mm">m</abbr>t unsre Antwort so spät, <abbr expand="und">u</abbr> wissen nicht,<lbr/>
+ob Sie die Instr. nunmehro haben od<abbr v="er"/> nicht.<lbr type="forced"/>
+Wenn <persName key="84800">H<abbr type="curve">:</abbr> Schwarzkopf</persName> noch vor Ostern aus Nürnberg nach Salzburgt<lbr/>
+ko<abbr type="topline" expand="mm">m</abbr>t, bitten ihm 25. Ex. von dero Violinschule zu<lbr/>
+geben für unsre Rech<abbr type="curve">.</abbr></add_empf>
+<lbr/>
+<add_empf>
+1776<ts>___________</ts>726<lbr/>
+<u> – Aug<abbr type="curve">.</abbr></u><ts>___</ts><rend class="latin">Salzburg</rend><lbr/>
+<u>R d<abbr v="en"/> 3 <rend class="latin">Dec</rend>&#160;</u><rend class="latin">Mozard</rend>.</add_empf>
+<lbr/>
+<anschrift rot="270">
+Herrn<lbr type="forced"/>
+Herrn <u>Breitkopf</u> und<lbr type="forced"/>
+Sohne berühmt<abbr v="en"/> Buchhändler<abbr v="en"/><lbr type="forced"/>
+in<lbr type="forced"/>
+<u>Leipzig</u></anschrift>
+<lbr type="forced"/>
+<lbr/>
+<add_empf>[... (Berechnungen)]</add_empf>
+<lbr/>
+<add_empf><rend class="latin">Maitre de la<lbr/>
+Chapelle de S. A. S.<lbr/>
+le Prince Èvêque<lbr/>
+à<lbr/>
+Salzburg</rend></add_empf>
+<lbr/>
+<add_note>Leop: Mozart<lbr/>
+<ts>___</ts>Geb. 1719<ts>___</ts>† 1787</add_note>
+</NI>
+</letter>
+</text>
+</MUP>

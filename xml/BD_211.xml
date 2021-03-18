@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2011">2011-05</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=772</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Verbleib unbekannt</bibl>
+            <bibl type="source" subtype="RISM">Verbleib unbekannt</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:37:21 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_211.mup">
+<letter bd="211"><NI src="unbekannt"><HEADER id="772">LEOPOLD MOZART AN MARIA ANNA MOZART IN SALZBURG<lbr/>
+CROCE DEL BIACCO, 29. SEPTEMBER 1770<lbr/>
+mit Nachschrift von Wolfgang Amadé Mozart</HEADER>
+<pg n="1"/>
+<ts>__________________________</ts><tshtm>____________________________________________________</tshtm><tspdf>\hfill </tspdf><rend class="latin">Bologna</rend> d<abbr v="en"/> 29 <rend class="latin">Sept<abbr type="curve">.</abbr></rend><lbr type="forced"/>
+<add_note schr_id="57010"><ts>__________________________________________________________________________________________________________</ts><tspdf>\hfill </tspdf>1770.</add_note>
+Deine 2 letzt<abbr v="en"/> Briefe sind vom <u>7<h>t<abbr v="en"/></h></u> und <u>21</u>&#160;<rend class="latin">Sept<abbr type="curve">:</abbr></rend> folglich hast du den<lbr/>
+<u>14<h>t<abbr v="en"/></h>&#160;<rend class="latin">Sept:</rend></u> nicht geschrieb<abbr v="en"/>: wenigst hab<abbr v="en"/> wir vom 14 <rend class="latin">Sept.</rend> kein<abbr v="en"/> brief erhalt<abbr v="en"/>.<lbr/>
+in meinem letzt<abbr v="en"/> habe dir schon geschrieb<abbr v="en"/>, daß du nach Mayland schreib<abbr v="en"/><lbr type="BD"/> sollst.<lbr/>
+ich hofe auch eine antwort auf denselb<abbr v="en"/> brief in Mayland anzutreff<abbr v="en"/>.<lbr type="forced"/>
+heute hat uns h<abbr type="curve">:</abbr> Troger die Wohnung angezeigt, die wir in Mayl: bezieh<abbr v="en"/><lbr/>
+werd<abbr v="en"/>; und wir werd<abbr v="en"/>, we[<abbr type="topline" expand="nn">n</abbr>] Gott will, den 6<h>t<abbr v="en"/></h> od<abbr v="er"/> d<abbr v="en"/> 8<h>t<abbr v="en"/></h>&#160;<rend class="latin">octb<abbr type="curve">:</abbr></rend> von<lbr type="BD"/>&#160;<rend class="latin">Bologna</rend><lbr/>
+abreis<abbr v="en"/>. so wohl d<abbr v="er"/> Wolfg<abbr type="curve">:</abbr> als auch ich sind unglaubl: betriebt<lbr type="BD"/> weg<abbr v="en"/> der<lbr/>
+gut<abbr v="en"/> Martherl, die allem anseh<abbr v="en"/> nach schon lange, wie ihr brud<abbr v="er"/><lbr type="BD"/> Lorenz,<lbr/>
+ein<abbr v="en"/> unheilbar<abbr v="en"/> i<abbr type="topline" expand="nn">n</abbr>erlich<abbr v="en"/> zustand hat. Gott stärke sie! was ist zu<lbr type="BD"/> mach<abbr v="en"/>? &#8211; <lbr/>
+wir könn<abbr v="en"/> sie be&#255;de den ganz<abbr v="en"/> tag nicht aus dem Kopf bring<abbr v="en"/>. &#8211; &#8211; <lbr/>
+richte ihr unsere <rend class="latin">Compt<abbr type="curve">:</abbr></rend> [aus].<lbr type="forced"/>
+Wen Du zu Zeit<abbr v="en"/> etwas nicht recht les<abbr v="en"/> ka<abbr type="topline" expand="nn">n</abbr>st, darf es dich nicht wund<abbr v="ern"/>,<lbr type="BD"/> de<abbr type="topline" expand="nn">n</abbr><lbr/>
+ich habe ein<abbr v="en"/> krampf im finger und ka<abbr type="topline" expand="nn">n</abbr> nicht recht schreib<abbr v="en"/>; und eine<lbr type="BD"/> fliegende Gall,<lbr/>
+oder was es i<abbr type="topline" expand="mm">m</abbr>er ist, spatziert von meiner Schulter in den<lbr type="BD"/> Arm, und spasset sich<lbr/>
+gar bis in die finger. <u>Es wird sich wohl verzieh<abbr v="en"/>:</u> sagte<lbr type="BD"/> h<abbr type="curve">:</abbr>&#160;<rend class="latin">Fischer</rend>.<lbr type="forced"/>
+wir sind Gott lob wohl auf. der Wolfg<abbr type="curve">:</abbr> hat heute die <rend class="latin">Recitativ</rend> zur <rend class="latin">opera</rend><lbr/>
+angefangt. Er kisset euch 1000000000 <abbr expand="etc:">p:</abbr> mahl sa<abbr type="topline" expand="mm">m</abbr>t mir.<lbr type="forced"/>
+das zwisch<abbr v="en"/> dem Pabst und Portugall alles wied<abbr v="er"/> in guter Ver<pc force="weak">=</pc><lbr/>ständniß ist,<lbr type="BD"/> wird euch schon bekannt se&#255;n: man förchtet aber sehr, daß<lbr/>
+die Aufhebung des<lbr type="BD"/> Jesuiter ordens vorsich geh<abbr v="en"/> soll; da<abbr type="topline" expand="nn">n</abbr> der von den<lbr/>
+Jesuitern seiner Zeit<lbr type="BD"/> so sehr verfolgte Bischoff <rend class="latin">Palofox</rend>, wird heilig gesproch<abbr v="en"/><lbr/>
+werd<abbr v="en"/>: Ich könnte<lbr type="BD"/> euch eine Menge dergleich<abbr v="en"/> Streittigkeit<abbr v="en"/> erzehl<abbr v="en"/>, allein<lbr/>
+<pg n="2"/>
+es ist euch wenig<lbr type="BD"/> daran geleg<abbr v="en"/>. übel genug, daß itzt in Catolisch<abbr v="en"/><lbr/>
+länd<abbr v="ern"/>, ja in Itali<abbr v="en"/> die<lbr type="BD"/> abscheulichst<abbr v="en"/> Streittschrift<abbr v="en"/>, wied<abbr v="er"/> die Päbstl:<lbr/>
+<rend class="latin">autoritet</rend>, wied<abbr v="er"/> die geistl:<lbr type="BD"/>&#160;<rend class="latin">i<abbr type="topline" expand="mm">m</abbr>unitet</rend>&#160;<abbr expand="etc:">p:</abbr> herausko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>.<lbr type="forced"/>
+Lebts beyde wohl, unser <rend class="latin">Compt<abbr type="curve">:</abbr></rend> an alle freunde und freundin<abbr v="en"/><lbr/>
+in und<lbr type="BD"/> ausser dem Haus; ich bin d<abbr v="er"/> alte<lbr type="forced"/>
+<ts>______________</ts><tshtm>____________________________________________________________</tshtm><tspdf>\hfill </tspdf>Mozart <abbr expand="manu propria">mp</abbr>.
+<NS type="NS" schr_id="39409">damit der brief Ein wenig völler wird, will<lbr/>
+Ich auch ein paar worte darzufügen. mir ist von herzen leid<lbr/>
+wegen der so lang anhaltende krangkeit welche<lbr type="BD"/> die arme Jugf:<lbr/>
+Martha empfinden und mit gedult übertragen mus, hoffe mit<lbr/>
+der hülf gottes wird sie schon wieder gesund werden, wo nicht, so mus<lbr/>
+man<lbr type="BD"/> sich nicht zu starck betrüben, da<abbr type="topline" expand="nn">n</abbr> der willen gottes ist al<pc force="weak">=</pc><lbr/>lzeit der beste, und<lbr type="BD"/> gott wird schon besser wissen ob es besser ist<lbr/>
+zu se&#255;n auf dieser welt oder<lbr type="BD"/> in der andern, aber sie solle<lbr/>
+sich trösten, indem sie Jezt von den Regen in das<lbr type="BD"/> schöne wet<pc force="weak">=</pc><lbr/>ter ko<abbr type="topline" expand="mm">m</abbr>en kan: Ich küsse der mama die hand, und lebe wohl.<lbr/>
+<rend class="latin">Addio</rend>.<ts>_____________</ts><tshtm>_________________________________</tshtm><tspdf>\hfill </tspdf>wolfgang Mozart <abbr expand="manu propria">mp</abbr></NS></NI></letter>
+</text>
+</MUP>

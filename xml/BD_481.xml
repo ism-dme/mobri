@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2012">2012-12</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1045</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sl</bibl>
+            <bibl type="source" subtype="RISM">A-Sl (Landesarchiv)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:39:05 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_481.mup">
+<letter bd="481"><HEADER id="1045">LEOPOLD MOZART AN FÜRSTERZBISCHOF HIERONYMUS GRAF VON COLLOREDO<lbr/>
+SALZBURG, VOR DEM 27. AUGUST 1778</HEADER><NI src="A-Sl">
+<pg n="1"/>
+<ts>_________________________</ts>Ihro Hochfürstlich Gnaden!<lbr type="BD"/><lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_______________</ts>Hochwürdigster des Heil: Röm<abbr type="curve">:</abbr> Reichs Fürst!<lbr type="BD"/><lbr type="forced"/>
+<ts>____________________</ts><tshtm>_______</tshtm>Gnädigster LandsFürst und Herr Herr!<lbr type="forced"/>
+<lbr type="forced"/>
+Euer Hochfürstl Gnaden lege mich unterthänigst zu Füssen,<lbr/>
+und da der<lbr type="BD"/> Capellmeister in die Ewigkeit gegangen, und dieser<lbr/>
+Lolli keine andere, als<lbr type="BD"/> die <rend class="latin">Vice</rend>Capellmeister Besoldung hatte,<lbr/>
+Euer Hochfürstl: Gnaden auch gnädigst<lbr type="BD"/> bekannt ist, daß ich bereits<lbr/>
+38 Jahre dem Hohen Erzstift diene, und seit dem<lbr type="BD"/> Jahre 1763 als<lbr/>
+<rend class="latin">Vice</rend>Capellmeister in die 15 Jahre die meisten und fast alle<lbr type="BD"/> dienste<lbr/>
+unklagbar verrichtet habe und noch verrichte: als empfehle ich<lbr/>
+mich<lbr type="BD"/> Euer Hochfürstl: Gnaden demüthigst und ersterbe in<lbr/>
+tiefester Unterwerffung<lbr type="forced"/>
+<ts>______________</ts>Euer Hochf<abbr type="curve">:</abbr> Gnaden<lbr type="BD"/><lbr type="forced"/>
+<ts>__________</ts>meines Gnadigst<abbr v="en"/> LandesFürst<abbr v="en"/><lbr type="BD"/><lbr type="forced"/>
+<ts>______________</ts>und Herrn Herrn<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>____________________</ts><tshtm>_____________________________</tshtm><tspdf>\hfill </tspdf>unterthänigster und gehorsa<abbr type="topline" expand="mm">m</abbr>ster<lbr type="forced"/>
+<ts>____________________</ts><tshtm>________________________________</tshtm><tspdf>\hfill </tspdf>Leopold Mozart <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<lbr/>
+<add_note type="inline">30/8 778</add_note><add_num type="inline"><ts>_______________________</ts>9.</add_num>
+<pg n="2"/>
+<add_num><ts>_________________________________________________________</ts>16</add_num>
+<ts>_______</ts><tshtm>______</tshtm>An<lbr type="forced"/>
+S:<h>e</h> Hochfürstlich Gnaden<lbr type="BD"/><lbr type="forced"/>
+Erzbischoffen zu Salzburg <abbr expand="etc">p</abbr>:<lbr type="BD"/><lbr type="forced"/>
+<lbr type="forced"/>
+unterthänigst gehorsa<abbr type="topline" expand="mm">m</abbr>stes Bitt<abbr v="en"/><lbr type="BD"/><lbr type="forced"/>
+Leopold Mozarts <rend class="latin">vice</rend>=Capellmeisters<lbr type="BD"/><lbr type="forced"/>
+<lbr type="forced"/>
+<ts>____________________</ts><tshtm>______________</tshtm>um i<abbr type="topline" expand="nn">n</abbr>gebettne<lbr type="BD"/><lbr type="forced"/>
+<ts>____________________</ts><tshtm>______________</tshtm>Höchste <u>Gnade</u>.<lbr type="forced"/>
+<lbr/>
+<add_note><rend class="latin">Ex Decreto Nostr</rend>o 30. <rend class="latin">Augusti</rend> 1778.<lbr/>
+Demnach wir dem Supplikanten<lbr/>
+zu dessen dermahligen gehalt jährlichen<lbr/>
+<rend class="latin">Hundert Gulden</rend> unter der Bedingniße be&#255;<pc force="weak">=</pc><lbr/>geleget haben, daß selber bis zur Ankunft<lbr/>
+eines neuen Kapellmeisters be&#255; der Hof<pc force="weak">-</pc><lbr/>und Dom-<rend class="latin">Musique</rend> fleissig erscheine, auch an<pc force="weak">=</pc><lbr/>dere zu ihren Schuldigkeiten anweise, be&#255;<pc force="weak">=</pc><lbr/>nebst in dem Kapell-Hause, sowohl über<lbr/>
+die Lehrmeistern als <rend class="latin">Scholarn</rend> eine<lbr/>
+emsige Aufsicht führe; als hat un<pc force="weak">=</pc><lbr/>ser Hofzahlamt hieran monatlich<lbr/>
+das Ratum erfolgen zu lassen, und<lbr/>
+gebührenden orts in Rechnung einzu<pc force="weak">=</pc><lbr/>legen.<lbr type="forced"/>
+<ts>___</ts>Hieronymus <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<lbr type="forced"/>
+<rend class="latin">praes. ad Cameram</rend> den 22:t<abbr v="en"/> 7ber <rend class="latin">ao</rend>: <u>1778</u></add_note>
+<add_note type="inline"><ts>_____________</ts><formula type="mfrac"><mn>30</mn><mi>8</mi></formula> 778</add_note><add_note type="inline"><ts>_____________________________</ts>3.
+</add_note>
+</NI>
+</letter></text>
+</MUP>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2014">2014-5</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1662</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">US-NYpm</bibl>
+            <bibl type="source" subtype="RISM">US-NYpm (The Morgan Library &amp; Museum)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:41:59 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_1092.mup">
+<letter bd="1092"><NI src="US-NYpm"><HEADER id="1662">WOLFGANG AMADÉ MOZART AN CONSTANZE MOZART IN WIEN<lbr/>
+DRESDEN, 13. APRIL 1789</HEADER>
+<pg n="1"/>
+<ts>______</ts><tshtm>_____________________________________________________________</tshtm><tspdf>\hfill </tspdf><u>um 7 uhr früh</u><lbr type="forced"/>
+<ts>_______</ts><tshtm>_____</tshtm>liebstes, bestes Weibchen! &#8211; <ts>____</ts><tshtm>_____________________________________</tshtm><tspdf>\hfill </tspdf><u>Dresden</u> den 13:<h>t</h>&#160;<rend class="latin">april</rend><lbr type="forced"/>
+<ts>________</ts><tshtm>___________________________________________________________________________________________________________________</tshtm><tspdf>\hfill </tspdf><uu>1789</uu>.<lbr type="forced"/>
+<lbr type="forced"/>
+Wir glaubten Sa<abbr type="topline" expand="mm">m</abbr>stags nach tisch in Dresden zu se&#255;n, ka<abbr type="topline" expand="mm">m</abbr>en aber erst<lbr type="BD"/> gestern<lbr/>
+So<abbr type="topline" expand="nn">n</abbr>tags um 6 uhr abends an; &#8211; so schlecht sind die Weege. &#8211; <lbr type="forced"/>
+Ich gieng gestern noch zu Neumans, wo <rend class="latin">Mad:<h>me</h> Duscheck</rend> wohnt, um ihr den<lbr type="BD"/><lbr/>
+brief von ihrem Manne zu übergeben. &#8211; es ist im dritten Stock auf dem<lbr/>
+gange:<lbr type="BD"/> und man Sieht vom zi<abbr type="topline" expand="mm">m</abbr>er Jeden der kö<abbr type="topline" expand="mm">m</abbr>t; &#8211; als ich an die thüre ka<abbr type="topline" expand="mm">m</abbr>,<lbr/>
+war schon h<abbr type="curve">:</abbr> Neumann da, und fragte mich, mit wem er die Ehre hätte zu<lbr type="BD"/><lbr/>
+Sprechen; &#8211; ich antwortete; gleich werde ich sagen wer ich bin, nur haben sie<lbr type="BD"/> die güte<lbr/>
+<rend class="latin">Mad:<h>me</h> Duscheck</rend> heraus rufen zu lassen, damit mein Spass nicht ver<lbr type="BD"/>dorben<lbr/>
+wird; in diesem augenblick stund aber schon <rend class="latin">Mad: Duscheck</rend> vor meiner,<lbr type="BD"/> denn<lbr/>
+Sie erkannte mich vom fenster aus, und sagte gleich, da kö<abbr type="topline" expand="mm">m</abbr>t Jemand<lbr type="BD"/> der<lbr/>
+aus=sieht wie Mozart; &#8211; nun war alles voller freude; &#8211; die gesellschaft<lbr/>
+war<lbr type="BD"/> gros, und bestund aus lauter meist hässlichen frauenzi<abbr type="topline" expand="mm">m</abbr>ern, aber Sie<lbr/>
+ersezten<lbr type="BD"/> den mangel der schönheit durch artigkeit; &#8211; heute geht der fürst<lbr/>
+und ich zum<lbr type="BD"/> frühstücke hin, dann zu <rend class="latin">Naumann</rend>, dann in die kapelle. &#8211; <lbr/>
+wir werden morgen<lbr type="BD"/> oder übermorgen von hier nach <rend class="latin">Leipzig</rend> abgehen; &#8211; <lbr type="forced"/>
+Nach empfang dieses briefes must du schon nach <rend class="latin"><u>Berlin post restante</u></rend> schreiben;<lbr type="BD"/><lbr/>
+Ich hoffe du wirst mein Schreiben vom Prag richtig erhalten haben.<lbr type="forced"/>
+<rend class="latin">Neumanns</rend> lassen sich alle dir sa<abbr type="topline" expand="mm">m</abbr>t <rend class="latin">Duscheck</rend> empfehlen; wie auch dem<lbr/>
+h<abbr type="curve">:</abbr><lbr type="BD"/> und fr: schwägerin Langens; &#8211; <lbr type="forced"/>
+liebstes Weibchen, hätte ich doch auch schon einen briefe von dir! &#8211; wenn ich<lbr type="BD"/> dir<lbr/>
+alles erzehlen wollte, was ich mit deinem lieben <rend class="latin"><u>Porträt</u></rend> anfange, würdest<lbr type="BD"/> du<lbr/>
+wohl oft lachen. &#8211; zum be&#255;Spiell; wenn ich es aus seinem <rend class="latin">Arrest</rend> heraus<lbr type="BD"/>=ne<abbr type="topline" expand="mm">m</abbr>e, so<lbr/>
+sage ich; grüss dich gott Stanzerl! &#8211; grüss dich gott, grüss dich<lbr type="BD"/> gott; &#8211; Spizbub<lbr/>
+&#8211; knallerballer; &#8211; Spizignas &#8211; <rend class="latin">bagatellerl</rend> &#8211; schluck und<lbr type="BD"/> druck! &#8211; und wenn ich<lbr/>
+es wieder hinein thue; so lasse ich es so nach und nach<lbr type="BD"/> hinein rutschen, und sage i<abbr type="topline" expand="mm">m</abbr>er,<lbr/>
+Stu! &#8211; Stu! &#8211; Stu! &#8211; aber mit dem <u>gewissen<lbr type="BD"/> Nachdruck</u>, den dieses so viel<lbr/>
+bedeutende Wort, erfordert; und be&#255; dem lezten<lbr type="BD"/> schneller, gute Nacht; Mauserl,<lbr/>
+schlaf gesund; &#8211; Nun glaube ich so ziemlich<lbr type="BD"/> was du<abbr type="topline" expand="mm">m</abbr>es | für die Welt wenigstens |<lbr/>
+hingeschrieben zu haben &#8211; für<lbr type="BD"/> uns aber, die wir uns so i<abbr type="topline" expand="nn">n</abbr>ig lieben, ist<lbr/>
+es gewis nicht du<abbr type="topline" expand="mm">m</abbr>; &#8211; heute ist der<lbr type="BD"/> 6<h>t</h>: tag daß ich von dir weg bin,<lbr/>
+<pg n="2"/>
+und, be&#255; gott, mir scheint es schon ein Jahre<lbr type="BD"/> zu se&#255;n. &#8211; <lbr type="forced"/>
+du wirst wohl oft mühe haben meinen brief zu lesen, weil ich in Eyle,<lbr/>
+und<lbr type="BD"/> folglich etwas schlecht schreibe; &#8211; <rend class="latin">adieu</rend> liebe, einzige! &#8211; der<lbr/>
+Wagen ist da &#8211;<lbr type="BD"/> da heist es nicht, <rend class="latin">bravo</rend>, und der Wagen ist auch<lbr/>
+schon da &#8211; sondern &#8211; <rend class="latin"><u>Male</u>;</rend> &#8211;<lbr type="BD"/> lebe wohl, und liebe mich Ewig<lbr/>
+so wie ich dich; ich küsse dich Millionenmahl<lbr type="BD"/> auf das zärtlichste<lbr type="forced"/>
+<ts>______</ts>und bin Ewg<lbr type="forced"/>
+<ts>_______</ts><tshtm>___________________________________________________</tshtm><tspdf>\hfill </tspdf>dein dich zärtlich liebender gatte<lbr type="BD"/><lbr type="forced"/>
+<ts>_______</ts><tshtm>_____________________________________________________________</tshtm><tspdf>\hfill </tspdf>W: A: Mozart <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+P: S: wie führt sich unser <rend class="latin">Carl</rend> auf? &#8211; <lbr type="forced"/>
+Ich hoffe gut; &#8211; küsse ihn statt meiner.<lbr type="forced"/>
+an Hr. und fr: von Puchberg alles schöne.<lbr type="forced"/>
+<lbr type="forced"/>
+<rend class="latin"><u>NB</u></rend> du musst in deinen briefen nicht das Maaß nach den meinigen ne<abbr type="topline" expand="mm">m</abbr>en<lbr type="BD"/><lbr/>
+be&#255; mir fallen Sie nur deswegen etwas kurz aus, weil ich Pressirt<lbr/>
+bin; sonst<lbr type="BD"/> würde ich einen ganzen bogen überschreiben. &#8211; du<lbr/>
+hast aber mehr Musse. &#8211;<lbr type="BD"/>&#160;<uu><rend class="latin">adieu.</rend></uu><lbr type="forced"/>
+<lbr/>
+<add_sign><ts>_______________________________________________________________________________________________________</ts>MFTT.</add_sign>
+</NI></letter>
+</text>
+</MUP>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2016">2016-6</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1602</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:41:43 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_1032.mup">
+<letter bd="1032"><HEADER id="1602">LEOPOLD MOZART AN MARIA ANNA VON BERCHTOLD ZU SONNENBURG IN ST. GILGEN<lbr/>
+SALZBURG, 9. FEBRUAR 1787</HEADER>
+<pg n="1"/>
+Der Leopoldl ist gesund und folgsa<abbr type="topline" expand="mm">m</abbr>,<ts>____</ts><tshtm>_________</tshtm><tspdf>\hfill </tspdf>Salzb<abbr type="curve">:</abbr> d<abbr v="en"/> 9<h>t<abbr v="en"/></h>&#160;<rend class="latin">febr:</rend><lbr type="BD"/><lbr type="forced"/>
+we<abbr type="topline" expand="nn">n</abbr> er nur mein<abbr v="en"/> Nam<abbr v="en"/> hört.<ts>______________</ts><tshtm>__________________________________</tshtm><tspdf>\hfill </tspdf>1787<lbr type="forced"/>
+<lbr type="BD"/><lbr type="forced"/>
+Gestern als ich um halbe 5 uhr eb<abbr v="en"/> den Brief versiegl<abbr v="en"/> wollte,<lbr/>
+wo dem<lbr type="BD"/>&#160;<rend class="latin">Marchand</rend> Nachricht kam, daß wir <u>keine Erlaubniß<lbr/>
+erhalt<abbr v="en"/> hab<abbr v="en"/></u>, trat der<lbr type="BD"/> deutsche neue Violinist ein, den ich um<lbr/>
+5 uhr bestellt hatte um ihn mit <rend class="latin">Quartett<abbr v="en"/></rend><lbr type="BD"/> zu prüff<abbr v="en"/>, da<lbr/>
+ich ihn schon mit einem Violino <rend class="latin">Solo</rend> Vormittag aus Befehl<lbr type="BD"/><lbr type="forced"/>
+des Erzb<abbr type="curve">:</abbr> be&#255;m Gr: Starmberg probiert hatte, <abbr expand="und">u</abbr> dieser<lbr/>
+hatte den Auftrag<lbr type="BD"/> mir zu sag<abbr v="en"/>, daß wir die Erlaubnis zu<lbr/>
+reisen erhalt<abbr v="en"/> hab<abbr v="en"/>, &#8211; das ließ uns<lbr type="BD"/> Gr: Starmberg meld<abbr v="en"/>.<lbr/>
+Ich fand den Mensch<abbr v="en"/>, der einige zwanzig Jahr<lbr type="BD"/> hab<abbr v="en"/> mag, sehr<lbr/>
+gut, <abbr expand="und">u</abbr> musste heute um 11 uhr morgens dem Fürst<abbr v="en"/><lbr type="BD"/>&#160;<rend class="latin">refer</rend>ier<abbr v="en"/>,<lbr/>
+bekam liebe <rend class="latin">Co<abbr type="topline" expand="mm">m</abbr>ission<abbr v="en"/></rend> nach Münch<abbr v="en"/>, und hiemit [fahren] wir morg<abbr v="en"/><lbr type="BD"/><lbr/>
+um 6 uhr frühe in einem gut<abbr v="en"/> Gläserwag<abbr v="en"/> mit 3 Pferd ab.<lbr type="forced"/>
+<lbr type="BD"/><lbr type="forced"/>
+Die zwote Neuigkeit! &#8211; als ich eb<abbr v="en"/> gemeldet wurde, kam h<abbr type="curve">:</abbr><lbr/>
+<u>Pfleger von<lbr type="BD"/> Deissendorf</u> in die <rend class="latin">AnteCamera</rend>. Man <rend class="latin">gratulie</rend>rte<lbr/>
+ihm, &#8211; ich sagte also: giebt<lbr type="BD"/> es hier etwas zu <rend class="latin">gratulie</rend>r<abbr v="en"/>, so bin<lbr/>
+auch dabe&#255;: <u>ja! er ist Pfleger zu Werffen<lbr type="BD"/> geword<abbr v="en"/></u>.<lbr type="forced"/>
+Im nach Hause geh<abbr v="en"/> sagte mir der <rend class="latin">Caplan</rend> vom Gr: Starnberg &#8211; <lbr/>
+der <rend class="latin">Agliardi</rend><lbr type="BD"/> wäre durch Vorschub des Luidl <abbr expand="etc">p</abbr>: Pfleger zu<lbr/>
+Deissendorf geword<abbr v="en"/>. We<abbr type="topline" expand="nn">n</abbr><lbr type="BD"/> dieses war ist, muß ich den h<abbr type="curve">:</abbr><lbr/>
+Oberschreiber bedaur<abbr v="en"/>. wird man, da d<abbr v="er"/><lbr type="BD"/> Pfleger ein <rend class="latin">igno<pc force="weak">=</pc><lbr/>rant</rend> ist, ein<abbr v="en"/> neu<abbr v="en"/> Oberschreiber hinsetz<abbr v="en"/>, der keine Ein<lbr type="BD"/>sicht<lbr/>
+hat? &#8211; &#8211; der <rend class="latin">Caplan</rend> sagte mir zwar er hätte es so gehört,<lbr/>
+wüsste nicht<lbr type="BD"/> ob es wahr wäre. allein <rend class="latin">Agliardi</rend> ist hier, &#8211; <lbr/>
+wenigst sucht er etwas. Längst<lbr type="BD"/> hätte der h<abbr type="curve">:</abbr> Sohn be&#255;<lbr/>
+seinem Hierseyn dem Fürst<abbr v="en"/> einmahl aufwart<abbr v="en"/>, und<lbr type="BD"/><lbr/>
+sich be&#255; allem Falle d<abbr v="er"/> Erledigung d<abbr v="er"/> Pfleg Deissen<pc force="weak">=</pc><lbr/>dorf empfehl<abbr v="en"/> soll<abbr v="en"/>,<lbr type="BD"/> um weg<abbr v="en"/> Erziehung d<abbr v="er"/> Kind<abbr v="er"/> näher<lbr/>
+an d<abbr v="er"/> Statt zu se&#255;n. &#8211; Vielleicht wäre<lbr type="BD"/> es noch Zeit?<lbr type="forced"/>
+<lbr type="BD"/><lbr type="forced"/>
+Auf dem letzt<abbr v="en"/> Ball war<abbr v="en"/> 280 <abbr expand="und">u</abbr> etliche Person.<lbr/>
+d<abbr v="er"/> Erzb<abbr type="curve">:</abbr> war krank. &#8211;<lbr type="BD"/> befindet sich etwas besser!<lbr type="forced"/>
+<lbr type="BD"/><lbr type="forced"/>
+Daß ich heute so viel zu thun habe, daß gar nicht in die<lbr/>
+<rend class="latin">Comoedie</rend> gehe, kö<abbr type="topline" expand="nn">n</abbr>t<lbr type="BD"/> ihr euch leicht vorstell<abbr v="en"/>. die Arbeit des<lbr/>
+Heinrich ist schwäzen; und sich in<lbr type="BD"/> Wag<abbr v="en"/> zu setz<abbr v="en"/>.<lbr type="forced"/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="2"/>
+Eben war d<abbr v="er"/> Schuster Catharin be&#255; mir, <abbr expand="und">u</abbr> sagt der <rend class="latin">Agliardi</rend><lbr/>
+wäre wirkl:<lbr type="BD"/> Pfleger zu Deissendorf geword<abbr v="en"/>. Nach St:<lbr/>
+Joha<abbr type="topline" expand="nn">n</abbr>is ko<abbr type="topline" expand="mm">m</abbr>e ein gewesener<lbr type="BD"/> Landrichter, <abbr expand="und">u</abbr> an die<lbr/>
+Landrichter Stelle, ein Oberschreiber.<lbr type="forced"/>
+<lbr type="BD"/><lbr type="forced"/>
+<tspdf>\newpage</tspdf> h<abbr type="curve">:</abbr> von <rend class="latin">D'yppold</rend>, dem ich die Sorge für den Leopoldl<lbr/>
+übergeb<abbr v="en"/> habe,<lbr type="BD"/> empfehlt sich, <abbr expand="und">u</abbr> schickt euch hier <u>Leckerl</u>.<lbr/>
+auch folg<abbr v="en"/> die Mandlkleib<abbr v="en"/>. &#8211;<lbr type="BD"/> der Heinrich empfehlt sich.<lbr/>
+ich küsse euch be&#255;de von Herz<abbr v="en"/>, grüsse die<lbr type="BD"/> Kind<abbr v="er"/> <abbr expand="und">u</abbr> bin<lbr/>
+ewig euer redlicher Vatter<lbr type="forced"/>
+<ts>_______</ts><tshtm>______________________________________</tshtm><tspdf>\hfill </tspdf>Mozart <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<lbr type="forced"/>
+Es wäre mir lieb gewesen das <u>Resultat des Emserbad</u><lbr/>
+zurück zu erhalt<abbr v="en"/>, das<lbr type="BD"/> ich mit dem Both<abbr v="en"/> erwartete, um<lbr/>
+es mit nach Münch<abbr v="en"/> zu nehm<abbr v="en"/>. doch<lbr type="BD"/> hoffe, es wird schon da<lbr/>
+genug bekannt seyn.<lbr type="forced"/>
+Der Leopoldl schückt euch Busserl, seine sprach ist:<lbr type="forced"/>
+<u>Nana</u> &#8211; Nandl. <u>Bü</u> &#8211; Büchl<lbr type="BD"/> zum lesen. <u>Mo</u>, Mohren.<lbr/>
+<u>Ge</u> &#8211; Geld. <u>wa</u> &#8211; wagen zum fahr<abbr v="en"/>&#160;<abbr expand="etc">p</abbr>:<lbr type="forced"/>
+Die Nandl <abbr expand="und">u</abbr> Tresel küssen die Hände, ich grüsse die Lenerl.<lbr type="forced"/>
+<lbr type="BD"/><lbr type="forced"/>
+Am Aschermittwoche od<abbr v="er"/> do<abbr type="topline" expand="nn">n</abbr>erstag werd<abbr v="en"/> wir mit Gottes Hilfe<lbr/>
+wied<abbr v="er"/><lbr type="BD"/> von Münch<abbr v="en"/> abreis<abbr v="en"/>. Gott erhalte euch und mich<lbr/>
+gesund.<lbr type="forced"/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+</letter>
+</text>
+</MUP>

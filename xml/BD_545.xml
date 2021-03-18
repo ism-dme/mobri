@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2013">2013-5</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1111</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Verbleib unbekannt</bibl>
+            <bibl type="source" subtype="RISM">Verbleib unbekannt</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:39:24 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_545.mup">
+<letter bd="545"><HEADER id="1111">WOLFGANG AMADÉ MOZART AN LEOPOLD MOZART IN SALZBURG<lbr/>
+MÜNCHEN, 29. NOVEMBER 1780</HEADER>
+<pg n="1"/>
+Die überschickte Arie für Raff gefällt mir und ihm gar nicht; von dem era<lbr type="BD"/>
+will ich gar nichts sagen, denn das ist bey einer solchen Arie allezeit gefehlt.<lbr type="BD"/>
+Metastasio hat es auch bisweilen, aber äußerst selten, und sind auch dieselben<lbr type="BD"/>
+Arien nicht seine besten; und was für Nothwendigkeit ist da? &#8211; Ueberdiess<lbr type="BD"/>
+ist sie auch gar nicht so, wie wir sie gewünscht haben, nämlich sie soll nichts<lbr type="BD"/>
+als Ruhe und Zufriedenheit zeigen, und das zeigt sie hier nur erst im zweyten<lbr type="BD"/>
+Theile: denn das Unglück, welches er alles auszustehen gehabt hat, haben<lbr type="BD"/>
+wir die ganze Oper durch genug gesehen, gehört und gefühlt, aber von seinem<lbr type="BD"/>
+gegenwärtigen Zustande kann er wohl reden. Wir brauchen auch gar keinen<lbr type="BD"/>
+zweyten Theil &#8211; desto besser. &#8211; In der Oper: <rend class="latin">Achille in Sciro</rend> von Metastasio<lbr type="BD"/>
+ist so eine Arie auf diese Art, und nach welcher Art sie Raff zu haben<lbr type="BD"/>
+wünschte:<lbr type="forced"/>
+<ts>_____________</ts><tshtm>________</tshtm><rend class="latin">Or che mio figlio sei,<lbr type="BD"/><lbr type="forced"/>
+<ts>_____________</ts><tshtm>________</tshtm>O fido il destin nemico<lbr type="BD"/><lbr type="forced"/>
+<ts>_____________</ts><tshtm>________</tshtm>Sento degl' anni miei<lbr type="BD"/><lbr type="forced"/>
+<ts>_____________</ts><tshtm>________</tshtm>Il Peso a leggierir.</rend><lbr type="forced"/>
+Sagen sie mir, finden Sie nicht, daß die Rede von der unterirdischen Stimme<lbr type="BD"/>
+zu lang ist? Ueberlegen Sie es recht. &#8211; Stellen Sie sich das Theater vor, die<lbr type="BD"/>
+Stimme muss schreckbar seyn &#8211; sie muss eindringen &#8211; man muss glauben,<lbr type="BD"/>
+es sey wirklich so &#8211; wie kann sie das bewirken, wenn die Rede zu lang ist,
+durch welche Länge die Zuhörer immer mehr von dessen Nichtigkeit überzeugt
+werden? &#8211; Wäre im Hamlet die Rede des Geistes nicht so lang, sie<lbr type="BD"/>
+würde noch von besserer Wirkung seyn. &#8211; Diese Rede hier ist auch ganz<lbr type="BD"/>
+leicht abzukürzen, sie gewinnt mehr dadurch, als sie verliert.<lbr type="forced"/>
+Nun brauche ich wegen des Marsches im 2<h>ten</h> Acte, den man von der Ferne<lbr type="BD"/>
+hört, solche Sordinen für die Trompeten und Hörner, die man hier nicht hat.<lbr type="BD"/>
+Wollten Sie mir wohl mit nächstem Postwagen von jedem Eines schicken, um<lbr type="BD"/>
+sie hier nachmachen lassen zu können?<lbr type="forced"/>
+</letter>
+</text>
+</MUP>

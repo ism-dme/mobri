@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2012">2012-12</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1040</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:39:02 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_476.mup">
+<letter bd="476"><HEADER id="1040">LEOPOLD MOZART AN WOLFGANG AMADÉ MOZART IN PARIS<lbr/>
+SALZBURG, 13. AUGUST 1778</HEADER>
+<pg n="1"/>
+<rend class="latin">Mon tres cher Fils!</rend><add_num type="inline" impl="pencil"><ts>________________________________________________</ts>56</add_num><ts>__________________</ts><tspdf>\hfill </tspdf>Salzburg den 13<h>t<abbr v="en"/></h>&#160;<rend class="latin">aug<abbr type="curve"></abbr></rend>: 1778.<lbr type="forced"/>
+<lbr type="forced"/>
+Endlich erhielt ich zwe&#255; Briefe auf einmahl, nämlich die vom <u>20<h>t<abbr v="en"/></h></u> und <u>31</u>&#160;<rend class="latin">Julii</rend>.<lbr type="BD"/> be&#255;de ka<abbr type="topline" expand="mm">m</abbr><abbr v="en"/> erst<lbr/>
+den 11<h>t<abbr v="en"/></h>&#160;<rend class="latin">aug<abbr type="curve"></abbr></rend>: H<abbr type="curve">:</abbr>&#160;<rend class="latin">Baron</rend>&#160;<abbr expand="von">v</abbr>&#160;<rend class="latin">Gri<abbr type="topline" expand="mm">m</abbr></rend> schrieb mir d<abbr v="en"/> 27 <rend class="latin">Julii</rend>.<lbr type="BD"/> Sein Schreib<abbr v="en"/> machte mir <u>Vergnüg<abbr v="en"/></u>!<lbr/>
+und <u>Missvergnüg<abbr v="en"/></u>. <u>Vergnüg<abbr v="en"/></u>, weil<lbr type="BD"/> ich daraus sahe, daß du dich wohl befindest; und weil<lbr/>
+er schrieb, daß du alle<lbr type="BD"/> Kindliche Schuldigkeit an deiner lieb<abbr v="en"/> seel: mutter mit der grössten<lbr/>
+Ge<lbr type="BD"/>nauigkeit |: daran ich zwar nicht zweifelte :| genau erfüllt hättest. <u>Missvergnü<lbr type="BD"/>gen</u><lbr/>
+aber, weil er |: mit den nämlichen Ausdrück<abbr v="en"/> wie er zu dir sprach :| sehr<lbr type="BD"/> in zweifel zog,<lbr/>
+wie du nun in Paris dein fortko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/> od<abbr v="er"/> Glück od<abbr v="er"/> vielleicht<lbr type="BD"/> meint er dein<abbr v="en"/> nötigen<lbr/>
+Unterhalt find<abbr v="en"/> werdest. Er sagt: <rend class="latin">il est</rend> zu <u>treuherzig</u>,<lbr type="BD"/>&#160;<rend class="latin">peu actif, trop aisé á attraper,<lbr/>
+trop peu occupé des moyens, qui peuvent con<lbr type="BD"/>duire à la fortune. ici, pour percer, il<lbr/>
+faut être retors, entreprenant, audacieux.<lbr type="BD"/> je lui voudrais pour sa fortune la moitié<lbr/>
+moins de talent et le double plus<lbr type="BD"/> d'entregent, et je n'en serais pas embarassé.</rend><lbr/>
+<rend class="latin">au reste, il ne peut tenter ici que deux chemins pour se faire un sort. Le<lbr type="BD"/> premier<lbr/>
+c'est de do<abbr type="topline" expand="nn">n</abbr>er des Leçon de Clavecin; mais sans compter qu'on n'a<lbr type="BD"/> des écoliers<lbr/>
+qu'avec beaucoup d'activité et même de charlatanerie, je ne sais<lbr type="BD"/> s'il aurait assez<lbr/>
+de Santé pour Soutenir ce metier, car c'est une chose trés<lbr type="BD"/> fatigante de<lbr/>
+courir les quatre coins de Paris et de s'épuiser à parler pour<lbr type="BD"/> montrer. Et puis<lbr/>
+ce métier ne lui plaira pas, parcequ'il l'empêchera d'ecrire, ce<lbr type="BD"/> qu'il aime par<lbr/>
+dessus tout. Il pourrait donc s'y livrer tout à fait; mais en ce<lbr type="BD"/> pays ci le gros du<lbr/>
+public ne se connait pas en musique. On do<abbr type="topline" expand="nn">n</abbr>e par con<lbr type="BD"/>séquent tout aux noms, et<lbr/>
+le mérite de l'ouvrage ne peut être jugé que par un<lbr type="BD"/> très petit nombre. Le public<lbr/>
+est dans ce moment ci ridiculement partagé entre<lbr type="BD"/> Piccini et Gluck, et touts les<lbr/>
+raisonnemens, qu'on entend sur la musique font<lbr type="BD"/> pitié. il est donc trés difficile<lbr/>
+pour votre Fils de réussir entre ces deux partis</rend>&#160;<abbr expand="etc">p</abbr>:<lbr type="BD"/> alles das hat seine<lbr/>
+Richtigkeit. &#8211; Nur das letzte hängt grossen Theils vom<lbr type="BD"/> Glück und zufahl an.<lbr/>
+und <u>eben weil zwe&#255; Part&#255;en sind; so ka<abbr type="topline" expand="nn">n</abbr> ein dritter sich<lbr type="BD"/> mehr Be&#255;fahl hoff<abbr v="en"/></u>,<lbr/>
+<u>als we<abbr type="topline" expand="nn">n</abbr> das ganze Publikum nur für ein<abbr v="en"/> Componist<abbr v="en"/> alleine eingeno<abbr type="topline" expand="mm">m</abbr><abbr v="en"/><lbr/>
+wäre</u>. Ich, meines theils halte für das schwereste<lbr type="BD"/> eine <rend class="latin">opera</rend> zu beko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>: und<lbr/>
+da brauchts <u>geh<abbr v="en"/>,</u>&#160;<u>treib<abbr v="en"/></u>, alles <u>anwend<abbr v="en"/></u>,<lbr type="BD"/>&#160;<u>freunde suchen</u>&#160;<abbr expand="etc">p</abbr>: und zwar itzt ist schon<lbr/>
+die höchste zeit &#8211; da<abbr type="topline" expand="nn">n</abbr> <rend class="latin">Piccini</rend> und<lbr type="BD"/> Gluck werd<abbr v="en"/> alles thun solches zu hindern, und<lbr/>
+mir scheint es fast nicht<lbr type="BD"/> möglich, daß du eine beko<abbr type="topline" expand="mm">m</abbr>st. <rend class="latin">Noverre</rend> würde es alleine<lbr/>
+vielleicht durch<lbr type="BD"/>getrieb<abbr v="en"/> hab<abbr v="en"/>. Be&#255; diesen Umständ<abbr v="en"/>, und da ich fast abnehm<abbr v="en"/> konnte,<lbr/>
+daß<lbr type="BD"/> du itzt nichts verdientest, welches auch, da deine <rend class="latin">Scolarin<abbr v="en"/></rend> auf dem Lande<lbr type="BD"/> sind,<lbr/>
+gewisser mass<abbr v="en"/> sich so verhält; er mir auch schrieb: <rend class="latin">vous voyez, mon<lbr type="BD"/> cher maitre,<lbr/>
+que dans un pays où tant de musiciens médiocres et détestables<lbr type="BD"/> même ont fait<lbr/>
+des fortunes immenses, je crains fort que Mr: Votre Fils ne se<lbr type="BD"/> tire pas seulement d'affaire.</rend><lbr/>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="2"/>
+Be&#255; diesen Umständ<abbr v="en"/>, sage ich, muste mir aber<lbr type="BD"/>mahl ein schwerer Stein aufs Herz<lbr/>
+fallen, und da er be&#255;setzte: <rend class="latin">Je vous ai fait<lbr type="BD"/> cet exposé fidele non pour vous<lbr/>
+affliger, mais pour prendre ensemble le<lbr type="BD"/> mellieur parti possible. Il est<lbr/>
+malheureux que la morte de l'Electeur de Baviere<lbr type="BD"/> ait empésché M: Votre Fils d'être<lbr/>
+placé à Manheim</rend>&#160;<abbr expand="etc">p</abbr>: &#8211; so schrieb ich ihm,<lbr type="BD"/> daß man dich gerne wied<abbr v="er"/> hier hätte,<lbr/>
+daß der Churf<abbr type="curve">:</abbr> nach Münch<abbr v="en"/> geh<abbr v="en"/> und<lbr type="BD"/> Manheim verlass<abbr v="en"/> wird, daß du hier<lbr/>
+näher wärest um Be&#255;m Churf<abbr type="curve">:</abbr> anzu<lbr type="BD"/>ko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>&#160;<abbr expand="etc">p</abbr>: welches er dir vermuthlich wird<lbr/>
+gesagt hab<abbr v="en"/>: alleine alles dieses<lbr type="BD"/> verstehe nur unter annehmlich<abbr v="en"/>&#160;<rend class="latin">Condition</rend><abbr v="en"/>,<lbr/>
+und weil |: we<abbr type="topline" expand="nn">n</abbr>s nicht gut<lbr type="BD"/> thut :| man Salzb<abbr type="curve">:</abbr> wied<abbr v="er"/> verlass<abbr v="en"/> ka<abbr type="topline" expand="nn">n</abbr>, ohne sich dadurch<lbr/>
+zu schad<abbr v="en"/>. Ma<abbr type="topline" expand="nn">n</abbr><lbr type="BD"/> redet i<abbr type="topline" expand="mm">m</abbr>er um mich herum, und ich gebe keine antwort,<lbr/>
+wollte die Gräfin<lbr type="BD"/> mich einführ<abbr v="en"/>, so würde auch sie selbst schon davon gesproch<abbr v="en"/> hab<abbr v="en"/>:<lbr/>
+allein<lbr type="BD"/> bis <rend class="latin">dato</rend> kein Wort, &#8211; nur i<abbr type="topline" expand="mm">m</abbr>er frag<abbr v="en"/> &#8211; wie es dir gehet &#8211; ob ich briefe<lbr type="BD"/> von<lbr/>
+dir erhalt<abbr v="en"/> habe? &#8211; meine antwort &#8211; i<abbr type="topline" expand="mm">m</abbr>er &#8211; gut &#8211; vortreflich. Nun ist<lbr type="BD"/><lbr/>
+der alte <rend class="latin">Lolli</rend> Todt, den <u>11<h>t<abbr v="en"/></h></u>&#160;<rend class="latin">aug<abbr type="curve"></abbr></rend>: hab<abbr v="en"/> wir ihn begrab<abbr v="en"/> und gestern hab<abbr v="en"/><lbr type="BD"/> wir ihm zu<lbr/>
+St: Sebastian den Gottesdienst gehalt<abbr v="en"/>. Nun bin unter 4 Capell<lbr type="BD"/>mstr, die im<lbr/>
+Calend<abbr v="er"/> steh<abbr v="en"/>, der <u>einzige</u>. Nun wird sich wied<abbr v="er"/> etwas in Be<lbr type="BD"/>wegung setz<abbr v="en"/>. Ich werde<lbr/>
+morgen an <u><rend class="latin">Padre Martini</rend></u> schreib<abbr v="en"/>. wie weit du<lbr type="BD"/> dich auf deine Freunde wirst ver<pc force="weak">=</pc><lbr/>lass<abbr v="en"/> könn<abbr v="en"/>, &#8211; und was sie zu thun im<lbr type="BD"/> Stande sind, wird die zeit lehr<abbr v="en"/>.<lbr type="forced"/>
+die Erfahrung |: die du mit Schad<abbr v="en"/> erst mach<abbr v="en"/> wirst :| hat mich genug über<lbr type="BD"/>zeugt,<lbr/>
+daß es kein<abbr v="en"/> wahr<abbr v="en"/> freund &#8211; <u>im äusersten Grade</u> geno<abbr type="topline" expand="mm">m</abbr><abbr v="en"/> &#8211; giebt,<lbr type="BD"/> als ein<abbr v="en"/><lbr/>
+vatter. &#8211; selbst die Kind<abbr v="er"/> sind es nicht, <u>in dem nämlich<abbr v="en"/> Grade</u>,<lbr type="BD"/> geg<abbr v="en"/> ihre Eltern:<lbr/>
+denke nach &#8211; überlege Gedanken und Thatsach<abbr v="en"/> &#8211; du wirst<lbr type="BD"/> Beyspiele in der<lbr/>
+Welt genug find<abbr v="en"/>, die dich der Wahrheit meines Satzes überzeug<abbr v="en"/> werd<abbr v="en"/>. Gott<lbr/>
+hat auch dessentweg<abbr v="en"/> den<abbr v="en"/> Kind<abbr v="ern"/> das Geboth<lbr type="BD"/> ihre Eltern zu ehr<abbr v="en"/> und Strafe<lbr/>
+so gar beyzusetz<abbr v="en"/> für nothwendig befund<abbr v="en"/>,<lbr type="BD"/> da er den Eltern ein Geboth<lbr/>
+zu setz<abbr v="en"/> nicht nötig fand. <u>Missliwecek</u> hat mir<lbr type="BD"/> so viele Brief<rend class="latin">porto</rend> gekostet,<lbr/>
+und in allen Brief<abbr v="en"/> war die <rend class="latin">Scrittura</rend> von Neapl<lbr type="BD"/> für dich richtig, ohngezweifelt,<lbr/>
+entschied<abbr v="en"/>, gewiß. Nachdem ich ihm zu 37<lbr type="BD"/> duggatt<abbr v="en"/> geholf<abbr v="en"/>, ist er von Münch<abbr v="en"/> vor<lbr/>
+Ostern schon weg &#8211; und nun<lbr type="BD"/> kein Wort mehr. &#8211; daß du nun etwas<lbr/>
+zum <rend class="latin">gravie</rend>rn um 15 <rend class="latin">Louisd'or</rend> ver<lbr type="BD"/>kauft hast &#8211; wünsche daß es gescheh<abbr v="en"/> ist.<lbr/>
+we<abbr type="topline" expand="nn">n</abbr> du nun itzt deine <rend class="latin">Scola</rend>rn<lbr type="BD"/> nicht hast, so schreibe abermahl etwas, we<abbr type="topline" expand="nn">n</abbr> du<lbr/>
+auch es itzt um weniger weg<lbr type="BD"/> giebst, um Gottes will<abbr v="en"/>, das muß dich ja bekannt<lbr/>
+machen. Nur Kurz &#8211;<lbr type="BD"/> leicht &#8211; <rend class="latin">popular</rend>. Rede mit einem <rend class="latin">Graveur</rend>, was er<lbr/>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="3"/>
+am liebst<abbr v="en"/> haben möchte, &#8211;<lbr type="BD"/> vielleicht <u>leichte <rend class="latin">Quatro</rend></u>&#160;<u><rend class="latin">à</rend> 2 <rend class="latin">Violini Viola e Basso</rend></u>. glaubst<lbr/>
+du dich vielleicht<lbr type="BD"/> durch solche Sach<abbr v="en"/> herunter zu setz<abbr v="en"/>? &#8211; keinesweegs! hat da<abbr type="topline" expand="nn">n</abbr> <rend class="latin">Bach</rend><lbr/>
+in<lbr type="BD"/>&#160;<rend class="latin">London</rend> iemals etwas anders, als derle&#255; Kleinigkeit<abbr v="en"/> herausgegeb<abbr v="en"/>? das<lbr type="BD"/><lbr/>
+<u>Kleine</u> ist <u>Groß</u>, we<abbr type="topline" expand="nn">n</abbr> es natürlich &#8211; flüssend und leicht geschrieb<abbr v="en"/> und<lbr type="BD"/> gründlich<lbr/>
+gesetzt ist. Es so zu mach<abbr v="en"/> ist schwerer als alle <suppl hand="self" pos="supra">die</suppl>&#160;<u>den meist<abbr v="en"/><lbr type="BD"/> unverständliche</u><lbr/>
+Künstliche <rend class="latin">Harmon</rend>ische <rend class="latin">progressionen</rend>, und <u>schwer auszu<lbr type="BD"/>führende</u> Melod&#255;<abbr v="en"/>.<lbr/>
+hat sich <rend class="latin">Bach</rend> dadurch heruntergesetzt? &#8211; &#8211; keineswegs!<lbr type="BD"/> der gute Satz und die<lbr/>
+Ordnung, <rend class="latin">il filo</rend> &#8211; dieses unterscheidet den Meister vom<lbr type="BD"/> Stümper auch in Kleinig<pc force="weak">=</pc><lbr/>keiten. Wäre ich an deiner Stelle, so würde ich itzt so<lbr type="BD"/> etwas vorarbeiten und<lbr/>
+da<abbr type="topline" expand="nn">n</abbr> auch alles mögliche anwenden um eine <rend class="latin">opera</rend><lbr type="BD"/> zu beko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>. itzt must du bemühet<lbr/>
+se&#255;n an ein oder andern <rend class="latin">Graveur</rend> etwas<lbr type="BD"/> zu verkauff<abbr v="en"/>. must du nicht geld hab<abbr v="en"/> um<lbr/>
+zu leben? und wie ka<abbr type="topline" expand="nn">n</abbr>st du<lbr type="BD"/> sonst auf and<abbr v="er"/>e Art Geld mach<abbr v="en"/>, we<abbr type="topline" expand="nn">n</abbr> die <rend class="latin">Scolarn</rend><lbr/>
+auf dem Lande sind?<lbr type="BD"/> etwas muß man thun! ich hab dir von den Umständen der<lbr/>
+<rend class="latin">Md:<h>me</h> d'Epinay</rend><lbr type="BD"/> niemals etwas geschrieb<abbr v="en"/>; &#8211; allein nun da du be&#255; ihr im<lbr/>
+Hause bist und ver<lbr type="BD"/>muthlich be&#255; ihr zu Tische gehest, so ist es zeit, daß ich sie dir<lbr/>
+näher bekannt<lbr type="BD"/> mache. Ihre Umstände sind nicht so gut, als sie dir vielleicht vor<pc force="weak">=</pc><lbr/>ko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>,<lbr type="BD"/> schon damals als wir alle in Paris war<abbr v="en"/> musste sie von dem wenig<abbr v="en"/> nur<lbr type="BD"/> leb<abbr v="en"/>,<lbr/>
+was ihr ihr Ma<abbr type="topline" expand="nn">n</abbr> |: der ein Pariser Schwermer ist :| nothwendig geb<abbr v="en"/><lbr type="BD"/> muß. folglich<lbr/>
+ka<abbr type="topline" expand="nn">n</abbr> ich nicht verlangen, daß du ihr weg<abbr v="en"/> d<abbr v="er"/> Kost und<lbr type="BD"/> druck beschwerlich fall<abbr v="en"/> solltest;<lbr/>
+und ich bin versichert, daß ihr h<abbr type="curve">:</abbr> von<lbr type="BD"/>&#160;<rend class="latin">Gri<abbr type="topline" expand="mm">m</abbr></rend> solches etwa bezahlet. daß aber auch<lbr/>
+dieser in kein<abbr v="en"/> so glänzend<abbr v="en"/> Umständ<abbr v="en"/> se&#255;n mag ka<abbr type="topline" expand="nn">n</abbr> ich mir leicht vorstell<abbr v="en"/>, weil<lbr/>
+ein so kleiner Hof,<lbr type="BD"/> wie Sachsengotha, keine grosse Bezahlung geben ka<abbr type="topline" expand="nn">n</abbr>: und ich<lbr/>
+nehme vieles<lbr type="BD"/> aus folgend<abbr v="en"/> Wort<abbr v="en"/>, die er mir schrieb, ab: &#8211; &#8211; <rend class="latin">je voudrais que ma<lbr/>
+position<lbr type="BD"/> me permit de le secourir efficacement; si j'avais deux ou trois mille<lbr/>
+livres à<lbr type="BD"/> lui donner tous les ans, je ne vous en parlerais seulement pas, et je vous<lbr type="BD"/> épargne<pc force="weak">=</pc><lbr/>rais tous les soins: mais vous m'avez vu pendant votre séjour à Paris<lbr type="BD"/> dans un état<lbr/>
+beaucoup plus obscur, et cependant j'étais plus riche alors que je<lbr type="BD"/> ne le suis aujourdhui<lbr/>
+que ma place m'oblige à une infinité de depenses que je<lbr type="BD"/> n'avais pas alors. Depuis<lbr/>
+trente ans, que je suis en France, je n'ai jamais été<lbr type="BD"/> dans un état aussi gêné<lbr/>
+que cette année qu'il a fallu faire avec un revenu très<lbr type="BD"/> modique<lbr/>
+mon établissement de Ministre, après avoir voyagé de Paris par<lbr type="BD"/> Naples à Peters<pc force="weak">=</pc><lbr/>bourg et de Petersbourg par Stockholm à Paris, ce qui m'a<lbr type="BD"/> mangé un argent<lbr/>
+incroyable.</rend> Er wird natürlicher Weise seine Umstände mit<lbr type="BD"/> einem äusserlich<abbr v="en"/><lbr/>
+gut<abbr v="en"/> Schein bedecken. du must ihn aber in deinem eigen<abbr v="en"/><lbr type="BD"/> und mein<abbr v="en"/> Nahm<abbr v="en"/><lbr/>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="4"/>
+ersuchen, daß du, we<abbr type="topline" expand="nn">n</abbr> du da zu speisen die Erlaubniß<lbr type="BD"/> hättest, es dir eine gnade<lbr/>
+wäre, we<abbr type="topline" expand="nn">n</abbr> du für die Bezahlung da zu verbleib<abbr v="en"/><lbr type="BD"/> hättest, indem es etwas<lbr/>
+ganz anders ist einige mahl eingelad<abbr v="en"/> zu se&#255;n, und<lbr type="BD"/> wieder ganz etwas and<abbr v="er"/>s<lbr/>
+beständig an einem Orte zu Tische zu gehen, wel<lbr type="BD"/>ches letztere eine <rend class="latin">indiscretion</rend><lbr/>
+wäre. &#8211; du wirst aller Ort<abbr v="en"/> bezahl<abbr v="en"/> müss<abbr v="en"/>,<lbr type="BD"/> es ist doch ja i<abbr type="topline" expand="mm">m</abbr>er vernünfti<pc force="weak">=</pc><lbr/>ger, vorträglicher, und mehr Ehre zu tracht<abbr v="en"/><lbr type="BD"/> daß du be&#255; h<abbr type="curve">:</abbr>&#160;<rend class="latin">B. v Gri<abbr type="topline" expand="mm">m</abbr></rend><lbr/>
+bleiben darfst. umsonst ist dieses nicht zu ver<lbr type="BD"/>langen, es wäre die güte<lbr/>
+eines freundes missbraucht, der anstatt gutem Ver<lbr type="BD"/>mög<abbr v="en"/> nun Schuld<abbr v="en"/> zu bezahl<abbr v="en"/><lbr/>
+hat. überdas möchte &#8211; und muß wissen, ob<lbr type="BD"/> du ihm etwas schuldig bist? &#8211; &#8211; <lbr/>
+ob er dir etwa einiges paares Geld gelieh<abbr v="en"/>?<lbr type="BD"/> und genauest will ich wissen<lbr/>
+ wie viel es ist. mir scheint aus seinem Schreiben<lbr type="BD"/> so etwas entdecket zu<lbr/>
+haben. &#8211; Ich habe mich bereits gegen ihn erkleret, daß ich<lbr type="BD"/> für alles stehe.<lbr/>
+ich habe ihn gebett<abbr v="en"/>, dich in seiner Obsorge, we<abbr type="topline" expand="nn">n</abbr>s i<abbr type="topline" expand="mm">m</abbr>er<lbr type="BD"/> möglich zu behalt<abbr v="en"/>. bist du<lbr/>
+etwas schuldig so sehe, daß du nur etwas wenigst<lbr type="BD"/> davon bezahl<abbr v="en"/> kannst, lasse es<lbr/>
+nicht be&#255; den leern wort<abbr v="en"/>, daß du deine<lbr type="BD"/>&#160;<rend class="latin">Sonaten</rend> für 15 <rend class="latin">Louis d'or</rend> hingeb<abbr v="en"/> willst,<lbr/>
+gebe sie hin, und mache daß sie<lbr type="BD"/> bald <rend class="latin">gravie</rend>rt werd<abbr v="en"/>. du wirst ja hoffentl: itzt,<lbr/>
+ein Mensch alleine, leb<abbr v="en"/><lbr type="BD"/> kö<abbr type="topline" expand="nn">n</abbr><abbr v="en"/> und keine Schuld<abbr v="en"/> mach<abbr v="en"/>. <u>Ob</u> &#8211; und <u>was</u> du dem h<abbr type="curve">:</abbr><lbr/>
+<rend class="latin">B</rend>: <abbr expand="von">v</abbr>&#160;<rend class="latin">Grim</rend><lbr type="BD"/> etwa schuldig bist, schreibe mir ohne zeitverluest, er hat uns so<lbr/>
+viel gutes ge<lbr type="BD"/>tha<abbr type="topline" expand="nn">n</abbr>, wir müssen nicht undankbar se&#255;n. hat er dir etwas gegeb<abbr v="en"/>,<lbr/>
+so wird<lbr type="BD"/> ers auch wieder zu sein<abbr v="en"/> Ausgaab<abbr v="en"/> brauch<abbr v="en"/>. überdas weis ich, daß die <rend class="latin">Md:<h>me</h><lbr/>
+d'Epinay</rend> eine schwache Frau schon damals war, und auch i<abbr type="topline" expand="mm">m</abbr>er kränk<lbr type="BD"/>lich se&#255;n<lbr/>
+wird, ich habe mitleid<abbr v="en"/> mit ihr. Alles das übrige, was h<abbr type="curve">:</abbr>&#160;<abbr expand="von">v</abbr>&#160;<rend class="latin">gri<abbr type="topline" expand="mm">m</abbr></rend><lbr type="BD"/> an mich schreibt<lbr/>
+ist Sorgfalt und Wunsch dich glückl: zu wissen. Er sieht ein<lbr type="BD"/> daß du bereits 4 Monat<lbr/>
+in Paris bist und darüber. <rend class="latin">et il est</rend> |: sagt er :|<lbr type="BD"/>&#160;<rend class="latin">presqu'aussi peu avancé que<lbr/>
+le premier jour ayant pourtant mangé près de mille<lbr type="BD"/> livres.</rend> Nun so must du<lbr/>
+doch dieses Geld eingeno<abbr type="topline" expand="mm">m</abbr><abbr v="en"/> hab<abbr v="en"/> &#8211; od<abbr v="er"/> bist du es<lbr type="BD"/> schuldig? &#8211; &#8211; Er wünscht, daß<lbr/>
+ich be&#255; dir wäre, ja, da würde fre&#255;lich die Sache<lbr type="BD"/> ganz eine and<abbr v="er"/>e Wendung<lbr/>
+beko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>. Er sagt: <rend class="latin">un malheur à ajouter à tous<lbr type="BD"/> les autres, c'est, que je suis<lbr/>
+si accablé d'affaires, que je n'en puis faire que<lbr type="BD"/> la moitié, par conséquent<lbr/>
+il ne me reste aucun moyen de m'occuper de Mr.<lbr type="BD"/> Votre Fils ou de lui chercher<lbr/>
+des ressources</rend> &#8211; ja, und du bist dazu wenig od<abbr v="er"/><lbr type="BD"/> gar nicht aufgelegt.<lbr/>
+über alles dieses hast du i<abbr type="topline" expand="mm">m</abbr>er die allerweitest<abbr v="en"/> im<lbr type="BD"/> tiefest<abbr v="en"/>&#160;<rend class="latin">perspectiv</rend>punckt<lbr/>
+liegenden Sachen vor Augen, und vernachlässigst<lbr type="BD"/> dadurch das gegenwärtige,<lbr/>
+<tshtm>___________________________________________________________________________________________________________________</tshtm>und<lbr/>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="5"/>
+folglich auch die nothwendigen Mittl dorthin<lbr type="BD"/> zu gelangen, was dir in Kopf stecket.<lbr/>
+du bist itzt in Paris, du must also alle<lbr type="BD"/> Mittl ergreiff<abbr v="en"/> dir alda den Unterhalt auf<lbr/>
+das allerwenigste, und wo möglich<lbr type="BD"/> einig<abbr v="en"/> vorrath an Geld zu mach<abbr v="en"/>, und unterdess<abbr v="en"/><lbr/>
+das übrige erwart<abbr v="en"/>, über<lbr type="BD"/> welches man nur <rend class="latin">Speculie</rend>rt, we<abbr type="topline" expand="nn">n</abbr> man darüber etwas<lbr/>
+zu schreib<abbr v="en"/> od<abbr v="er"/> zu<lbr type="BD"/> beantwort<abbr v="en"/> hat. deine Be&#255;de Brief werde nächstens in viel<abbr v="en"/> Stück<abbr v="en"/><lbr/>
+ordent<lbr type="BD"/>lich beantwort<abbr v="en"/>: und dasjenige dir sag<abbr v="en"/>, was du mir noch nicht sagen<lbr/>
+willst,<lbr type="BD"/> und ich dir längst hätte sag<abbr v="en"/> könn<abbr v="en"/>. du wirst sehen, daß ich dich zwar<lbr/>
+be<lbr type="BD"/>dauere, aber be&#255; allem dem, so weit es mit der gesund<abbr v="en"/> vernunft über<lbr/>
+eins<lbr type="BD"/> komt, dir nicht entgegen se&#255;n, sond<abbr v="ern"/> selbst, we<abbr type="topline" expand="nn">n</abbr>s möglich, helfen werde.<lbr type="BD"/><lbr/>
+deine Schwester danket dir fürs <rend class="latin">præambulum</rend>, welches vortrefflich ist. Sie will<lbr type="BD"/> dir<lbr/>
+selbst schreiben. um 4 uhr hat sie es beko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>. nach 5 uhr kam ich nach<lbr type="BD"/> Hause, und sie<lbr/>
+sagte, sie hätte sich etwas ausgedacht, we<abbr type="topline" expand="nn">n</abbr> es mir gefiehl, so<lbr type="BD"/> wollte sie es aufschreib<abbr v="en"/>.<lbr/>
+<tshtm>__________________________________</tshtm>sie fieng das <rend class="latin">præludi<abbr v="um"/></rend> auswendig, die erste Seite,<lbr type="BD"/><lbr/>
+<tshtm>__________________________________</tshtm>zu spiel<abbr v="en"/> an. ich riss die Augen auf und sagte,<add_note type="inline" schr_id="57010"><ts>_________</ts>13 Aug. 78</add_note><lbr/>
+<tshtm>__________________________________</tshtm>wo teufl hast du diese Gedank<abbr v="en"/><lbr type="BD"/> her? sie lachte, und<lbr/>
+<tshtm>__________________________________</tshtm>zog die Briefe aus dem Sack. H<abbr type="curve">:</abbr>&#160;<rend class="latin">Bullinger</rend><lbr/>
+<tshtm>__________________________________</tshtm>und alle gute<lbr type="BD"/> Freunde, sond<abbr v="er"/>htl: die Schütz<abbr v="en"/><rend class="latin">Compagnie</rend><lbr/>
+empfehlt sich. die Mitzerl dankt<lbr type="BD"/> für die Eri<abbr type="topline" expand="nn">n</abbr>erung, schwert ihre alte treu, hat<lbr/>
+aber abscheuliche ahndung<abbr v="en"/><lbr type="BD"/> deinerseits. den Krieg betreffend hast du dich um<lbr/>
+den Kayser dermahl lange<lbr type="BD"/> nichts zu sorg<abbr v="en"/>. der König in Preuss<abbr v="en"/> steht noch am alt<abbr v="en"/><lbr/>
+Platz in Böhm<abbr v="en"/>,<lbr type="BD"/> wo sie ihn hereingelass<abbr v="en"/> ohne ein<abbr v="en"/> Schuß zu thun, damit man sagen<lbr/>
+ka<abbr type="topline" expand="nn">n</abbr>,<lbr type="BD"/>&#160;<u>er ist eingefall<abbr v="en"/></u>. Er hat <u><rend class="latin">Nachod</rend></u>&#160;<abbr expand="etc">p</abbr>: im Rück<abbr v="en"/> und muß alle Lebensmittel für seine<lbr/>
+truppen aus Schlesien hereinführ<abbr v="en"/> lass<abbr v="en"/>. der <u>Kayser</u> stehet vor ihm<lbr type="BD"/> und hat die vestung<lbr/>
+<u>Königsgratz</u> im Ruggen, verbreitet sich lincks und rechts<lbr type="BD"/> bis geg<abbr v="en"/> die <u>Lausnitz</u> hin<pc force="weak">=</pc><lbr/>auf, wo sich der <rend class="latin">Grl <u>Laudon</u></rend> mit einer Arme nach<lbr type="BD"/>&#160;<rend class="latin">Zittau</rend> gezog<abbr v="en"/>. unterdess<abbr v="en"/> bemühet<lbr/>
+sich Prinz Heinrich mit Preuss<abbr v="en"/> und<lbr type="BD"/> Sachs<abbr v="en"/> auf der and<abbr v="ern"/> Seite be&#255; <u><rend class="latin">Komotau</rend></u> in Böhm<abbr v="en"/><lbr/>
+einzudring<abbr v="en"/>: allein<lbr type="BD"/> einmahl hat es ihm schon misslung<abbr v="en"/>, ein <rend class="latin">Laudoni</rend>sches <rend class="latin">Corpo</rend> kam<lbr/>
+durch ein<abbr v="en"/><lbr type="BD"/>
+<rend class="latin">forçi</rend>erten marsch schon voraus nach <u><rend class="latin">Co<abbr type="topline" expand="mm">m</abbr>otau</rend></u>, und das <rend class="latin">Corpo</rend> des Prinz<lbr type="BD"/> Heinrichs<lbr/>
+zog sich wied<abbr v="er"/> in Sachsen zurück: keine Haupt<rend class="latin">Bataille</rend> wird nicht<lbr type="BD"/> vorgeh<abbr v="en"/>, sie werd<abbr v="en"/> nur itzt<lbr/>
+such<abbr v="en"/> einand<abbr v="er"/> den weg abzulauff<abbr v="en"/>, bis einer<lbr type="BD"/> recht abgeschnitt<abbr v="en"/> wird und da<abbr type="topline" expand="nn">n</abbr> recht rauff<abbr v="en"/><lbr/>
+muß, itzt giebts nur Husarn<lbr type="BD"/> Croat<abbr v="en"/> und Dragoner Scharmützl; und sollt<abbr v="en"/> auch 2000<lbr/>
+3000 <abbr type="topline" expand="Mann">M</abbr> daraufgeh<abbr v="en"/>,<lbr type="BD"/> so ists so viel als nichts. der Prinz Heinrich muß sich Mühe geb<abbr v="en"/>,<lbr/>
+dem König<lbr type="BD"/> Luft zu mach<abbr v="en"/>, sonst kan er kein<abbr v="en"/> Schritt weiter geg<abbr v="en"/> den Kayser vor<lbr type="BD"/>rück<abbr v="en"/>.<lbr/>
+Er wird auch i<abbr type="topline" expand="mm">m</abbr>er tracht<abbr v="en"/> be&#255; Marienberg und Ko<abbr type="topline" expand="mm">m</abbr>otau herein<lbr type="BD"/>zukomen, <rend class="latin">Laudon</rend> wird<lbr/>
+sich bemüh<abbr v="en"/> es zu hind<abbr v="ern"/>. <rend class="latin">addio</rend> die Post geht. ich<lbr type="BD"/> bin dein redlicher vatter<lbr/>
+<ts>__</ts><tshtm>____________________________________________________________________________________________________________</tshtm><tspdf>\hfill </tspdf>Mzt <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="6"/>
+<anschrift rot="270"><rend class="latin">À Monsieur<lbr type="forced"/>
+Monsieur Wolfgang Amadé<lbr type="forced"/>
+<u>Mozart</u> maître de musique<lbr type="BD"/><lbr type="forced"/>
+<ts>___________</ts><tshtm>_________</tshtm>à<lbr type="forced"/>
+chez Mr: Le Baron<lbr type="forced"/>
+de Grimm <abbr expand="etc">p</abbr>.<lbr type="forced"/>
+<u>Rue de la Chaussée</u><lbr type="BD"/><ts>____</ts><tshtm>______</tshtm><u>Paris</u><lbr type="forced"/>
+<u>d'Antin</u> près le Boulevard.</rend></anschrift><lbr/>
+<add_num rot="90"><rend class="latin">N</rend>: 54</add_num><lbr/>
+<add_note impl="pencil" rot="90"><rend class="latin">Morzapfl &#8211; Chunigonde<lbr/>
+Mozock Emilie<lbr/>
+Mozacker &#8211; Mari A<abbr type="topline" expand="nn">n</abbr>e<lbr/>
+<ts>_______________</ts>di Fodas</rend></add_note><lbr/>
+</letter>
+</text>
+</MUP>

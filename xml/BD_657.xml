@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2013">2013-12</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1223</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:40:01 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_657.mup">
+<letter bd="657"><HEADER id="1223">WOLFGANG AMADÉ MOZART AN LEOPOLD MOZART IN SALZBURG<lbr/>
+WIEN, 12. JANUAR 1782</HEADER>
+<pg n="1"/>
+<add_num type="inline" impl="pencil">127</add_num><ts>____</ts><tshtm>______________________________________________________________________</tshtm><tspdf>\hfill </tspdf><rend class="latin"><u>Vienne</u> ce</rend> 12 <rend class="latin">de Janvier</rend><lbr type="forced"/>
+<ts>_______</ts><tshtm>____</tshtm><rend class="latin">Mon trés cher Pére!</rend><ts>_______</ts><tshtm>_______________________________________________________</tshtm><tspdf>\hfill </tspdf><uu>1782</uu><lbr type="forced"/>
+<lbr type="forced"/>
+Ich habe eine antwort auf ihr leztes vom 7:<h>tn</h> dieses angefangen &#8211; <lbr/>
+ka<abbr type="topline" expand="nn">n</abbr> sie<lbr type="BD"/> aber ohnmöglich ganz aus=schreiben. &#8211; weil eben ein be<pc force="weak">=</pc><lbr/>dienter von der gräfin<lbr type="BD"/>&#160;<rend class="latin">Rombeck</rend> geko<abbr type="topline" expand="mm">m</abbr>en, und mir gesaget ich<lbr/>
+möchte zu einer kleinen Musick zur<lbr type="BD"/> gräfin ko<abbr type="topline" expand="mm">m</abbr>en. &#8211; Nun muß<lbr/>
+ich mich erst frisiren lassen, und ganz vom fus<lbr type="BD"/> auf anderst an<pc force="weak">=</pc><lbr/>ziehen, mithin |: da ich ihnen doch ohne Nachricht von mir nicht<lbr type="BD"/><lbr/>
+lassen ko<abbr type="topline" expand="nn">n</abbr>te :| ka<abbr type="topline" expand="nn">n</abbr> ich ihnen nicht viel schreiben. &#8211; <lbr type="forced"/>
+der <rend class="latin">Clementi</rend> spielt gut, we<abbr type="topline" expand="nn">n</abbr> es auf <rend class="latin">execution</rend> der rechten<lbr/>
+hand ankö<abbr type="topline" expand="mm">m</abbr>t. &#8211;<lbr type="BD"/> seine <rend class="latin">force</rend> sind die terzen <rend class="latin">Passagen</rend> &#8211; <lbr/>
+übrigens hat er um keinen kreützer<lbr type="BD"/> gefühl oder geschmack.<lbr/>
+mit einem Wort ein blosser <rend class="latin">Mechanicus</rend>. &#8211; <lbr type="forced"/>
+der <rend class="latin">friseur</rend> ist da. &#8211; ich muß schliessen. mit nächsten<lbr/>
+mehr davon. &#8211; ich bitte<lbr type="BD"/> sie machen sie mich durch ihre<lbr/>
+zufriedenheit glücklich &#8211; ich bitte sie. ich weis<lbr type="BD"/> gewis sie wer<pc force="weak">=</pc><lbr/>den meine liebe konstanze noch lieben. &#8211; leben sie<lbr/>
+wohl. ich<lbr type="BD"/> küsse ihnen 1000mal die hände und bin<lbr/>
+Ewig dero<lbr type="forced"/>
+<lbr type="forced"/>
+Meine liebe schwester umarme<ts>___</ts><tshtm>___</tshtm><tspdf>\hfill </tspdf>gehorsamster Sohn<lbr type="forced"/>
+ich von ganzen herzen.<ts>___</ts><tshtm>____________________</tshtm><tspdf>\hfill </tspdf>W: A: Mozart <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="2"/>
+<vacat/>
+</letter>
+</text>
+</MUP>

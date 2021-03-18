@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2011">2011-05</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=734</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:37:07 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_173.mup">
+<letter bd="173"><HEADER id="734">LEOPOLD MOZART AN MARIA ANNA MOZART IN SALZBURG<lbr/>
+FLORENZ, 3. APRIL 1770</HEADER>
+<pg n="1"/>
+<ts>______________</ts><tshtm>________________________________________________________</tshtm><tspdf>\hfill </tspdf><rend class="latin">Fiorenze</rend> 3 <suppl hand="self" pos="supra">d'</suppl> <u><rend class="latin">aprile</rend></u><u> 1770</u><lbr type="forced"/>
+<lbr type="forced"/>
+Den 30<h>t<abbr v="en"/></h> Merz sind wir abends glückl: in <rend class="latin"><placeName key="27">Florenz</placeName></rend> angelanget, den 31 sind wir<lbr/>
+den ganz<abbr v="en"/> Tage, und der Wolfg<abbr type="curve">:</abbr> bis zum Mittag ess<abbr v="en"/> im Bette geblieb<abbr v="en"/>, weil<lbr type="BD"/> er<lbr/>
+durch den Reg<abbr v="en"/> und stark<abbr v="en"/> Wind, den wir über das Gebürg hatt<abbr v="en"/> ein<abbr v="en"/><lbr type="BD"/> klein<abbr v="en"/> Catharr<lbr/>
+beko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>. ich ließ ihn thee und Violensaft nehm<abbr v="en"/> und ein<lbr type="BD"/> wenig schwitz<abbr v="en"/>. den 1 <rend class="latin">aprill</rend><lbr/>
+sind wir um 10 uhr morgens zu S<h>r</h>: <rend class="latin">Ex:</rend> dem<lbr type="BD"/> Graf<abbr v="en"/>&#160;<abbr expand="von">v</abbr>&#160;<rend class="latin">Rosenberg</rend> gefahr<abbr v="en"/>, der uns<lbr/>
+alsogleich vor sich gelass<abbr v="en"/>, obwohl<lbr type="BD"/> über 50 Person<abbr v="en"/> in der <rend class="latin">AnteCamera</rend> war<abbr v="en"/>, weil<lbr/>
+wir ein schreib<abbr v="en"/> von S:<lbr type="BD"/>&#160;<rend class="latin">Ex:</rend> gr: <rend class="latin">Firmian</rend> hatt<abbr v="en"/>, und weil er schon durch<lbr/>
+den Graf <rend class="latin">Joseph</rend>&#160;<abbr expand="von">v</abbr>&#160;<rend class="latin">Kaunitz</rend><lbr type="BD"/> von uns Nachricht hatte, d<abbr v="er"/> den tag vor uns ankam,<lbr/>
+und be&#255;m <persName key="78355">Graf Rosenberg</persName> wohnet, zu <rend class="latin">Bologna</rend> aber mit uns be&#255; S. <rend class="latin">Ex: <persName key="77788">Pallavicini</persName></rend><lbr/>
+gespeist hatte.<lbr type="BD"/> h<abbr type="curve">:</abbr> gr: Rosenberg schickte uns gleich nach hofe zum <rend class="latin">Duca</rend> <rend class="latin">de<lbr/>
+Salviati</rend> mit<lbr type="BD"/> Vermeld<abbr v="en"/>, daß er uns dem GrossHerzog vorstell<abbr v="en"/> sollte, wir hört<abbr v="en"/><lbr/>
+alda in<lbr type="BD"/> d<abbr v="er"/> <rend class="latin">Capelle</rend> Predig und Amt, und nach dem Amt hatt<abbr v="en"/> wir <rend class="latin">audienz</rend>.<lbr/>
+der<lbr type="BD"/> GroßHerzog war ungemein gnädig, und fragte gleich um die Na<abbr type="topline" expand="nn">n</abbr>erl.<lbr/>
+er sagte,<lbr type="BD"/> daß seine Frau sehr Begierig wäre den Wolfg<abbr type="curve">:</abbr> zu hör<abbr v="en"/>, und sprach<lbr/>
+eine gute<lbr type="BD"/> Viertlstunde mit uns. gestern den 2<h>t<abbr v="en"/></h> abends wurd<abbr v="en"/> wir nach<lbr/>
+dem schloss<lbr type="BD"/> vor der Statt abgeholt, und blieb<abbr v="en"/> alda bis nach 10 uhr. die Sache<lbr/>
+gieng wie<lbr type="BD"/> gewöhnlich und die Verwund<abbr v="er"/>ung war um so grösser, als S<h>e</h>: <rend class="latin">Ex:</rend><lbr/>
+der <rend class="latin"><persName key="29390">Marchese Ligneville</persName></rend> |: welcher <rend class="latin">Musiquedirector</rend> ist :| der stärkste <rend class="latin">Contra<pc force="weak">=</pc><lbr/>punctist</rend><lbr type="BD"/> in ganz Itali<abbr v="en"/> ist, und folglich dem Wolfg<abbr type="curve">:</abbr> die schwerest<abbr v="en"/><lbr/>
+<rend class="latin">Fugen</rend> vorgelegt<lbr type="BD"/> und die schwerest<abbr v="en"/>&#160;<rend class="latin">Themata</rend> aufgegeb<abbr v="en"/>, die der Wolfg<abbr type="curve">:</abbr><lbr/>
+wie man ein Stück<lbr type="BD"/> brod isst, weggespielt und ausgeführt. <rend class="latin"><persName key="39415">Nardini</persName></rend> der<lbr/>
+gute <rend class="latin">Violinist accompag</rend>nierte. Heute nachmittag geh<abbr v="en"/> wir zum <rend class="latin"><persName key="56057">Manzoli</persName></rend>,<lbr/>
+mit dem wir gestern auf<lbr type="BD"/> d<abbr v="er"/> gasse gesproch<abbr v="en"/>, und sich euch be&#255;d<abbr v="en"/> empfehlt.<lbr/>
+der <rend class="latin">Castrat <persName key="81524">Nicolini</persName></rend><lbr type="BD"/> der mit dem <rend class="latin"><persName key="81536">quadagni</persName></rend> zu Wie<abbr type="topline" expand="nn">n</abbr> war, ist auch hier.<lbr/>
+ich bin sehr betrübt,<lbr type="BD"/> daß wir ko<abbr type="topline" expand="mm">m</abbr>end<abbr v="en"/> fre&#255;tag schon abreis<abbr v="en"/> müss<abbr v="en"/> um in<lbr/>
+Rom einzutreff<abbr v="en"/>. Ich wünschte, daß du <placeName key="27">Florenz</placeName> selbst und die ganze<lbr/>
+gegend und Lage<lbr type="BD"/> dieser Statt seh<abbr v="en"/> solltest, du würdest sag<abbr v="en"/>, daß man hier<lbr/>
+leb<abbr v="en"/> und sterb<abbr v="en"/><lbr type="BD"/> soll. Ich werde diese paar täge alles seh<abbr v="en"/> was zu seh<abbr v="en"/> ist,<lbr type="forced"/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal><lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="2"/>
+Der <rend class="latin">Md:<h>me</h><lbr type="BD"/> Rosa</rend> lass<abbr v="en"/> wir uns sonderhtl: empfehl<abbr v="en"/>, und ihr sag<abbr v="en"/>, daß ich oft gehört<lbr/>
+habe, daß es Leute giebt, die kein<abbr v="en"/> Vatter hab<abbr v="en"/>: wenigst wiss<abbr v="en"/> sie ihn<lbr type="BD"/> nicht;<lbr/>
+allein daß habe niemals gehört, daß iemand keine Mutter hat. und ich<lbr/>
+muß sehr bedaur<abbr v="en"/>, daß die <rend class="latin">Mad:<h>me</h>&#160;<persName key="75370">Rosa</persName></rend> keine Mutter hat. Ich wollte ihr<lbr/>
+meine Aufwartung mach<abbr v="en"/>, allein sie ließ mir sag<abbr v="en"/>, sie wüste von keiner<lbr/>
+tochter in Salzb<abbr type="curve">:</abbr> nichts, ja sie hätte gar keine kind<abbr v="er"/> niemals gehabt. und<lbr type="BD"/> hätt<abbr v="en"/><lbr/>
+mir nicht alle Leute gesagt, daß sie die nämliche wäre, die ihre tochter<lbr type="BD"/> selbst<lbr/>
+nach Salzb<abbr type="curve">:</abbr> begleitet hat, und hätte ich ihr <rend class="latin">Portrait</rend> niemals geseh<abbr v="en"/>, so<lbr type="BD"/> würde<lbr/>
+ich geglaubt hab<abbr v="en"/>, daß sie wirklich nicht ihre Mutter wäre, so sehr<lbr type="BD"/> verlaugnete<lbr/>
+sie ihre Person; warum? das weis ich nicht zu errath<abbr v="en"/>. Es verdross<lbr/>
+uns ein wenig, weil wir uns dergleich<abbr v="en"/> verfahr<abbr v="en"/> niemals vorstell<abbr v="en"/><lbr/>
+konnt<abbr v="en"/>. Ich muß schliss<abbr v="en"/>, die Post geht ab. der Wolfg<abbr type="curve">:</abbr>&#160;<abbr expand="und">u</abbr> ich<lbr/>
+Empfehl<abbr v="en"/><lbr type="BD"/> uns aller ort<abbr v="en"/>, küss<abbr v="en"/>&#160;<suppl hand="self" pos="supra">euch</suppl> 1000 mahl <abbr expand="und">u</abbr> ich bin d<abbr v="er"/> alte.<lbr type="forced"/>
+<ts>_______________</ts><tshtm>_______________________________________________________________________</tshtm><tspdf>\hfill </tspdf>Mozart <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<lbr type="forced"/>
+Von meinem grauen tüchen<abbr v="en"/> kleid <abbr expand="von">v</abbr> holland, mit den goldbörteln wirst<lbr type="BD"/> du<lbr/>
+2 Ca<abbr type="topline" expand="mm">m</abbr>isol=Erml find<abbr v="en"/>. we<abbr type="topline" expand="nn">n</abbr> du sie nebst meiner gehors<abbr type="curve">:</abbr> Empfehl:<lbr/>
+der<lbr type="BD"/> Mdss<h>le</h>: <rend class="latin"><persName key="83886">Trogerin</persName></rend> behändig<abbr v="en"/> köntest, damit sie solche mir nach <placeName key="50">Mayland</placeName><lbr/>
+mitbring<abbr v="en"/> möchte, so wäre es mir sehr lieb, da<abbr type="topline" expand="nn">n</abbr> die Hosen fang<abbr v="en"/> an zu<lbr/>
+zerreiss<abbr v="en"/>, es wär<abbr v="en"/> mir solche zum ausbessern nötig.<lbr type="forced"/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal><lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal></letter></text>
+</MUP>

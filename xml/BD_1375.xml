@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2012">2012-01</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1948</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:42:31 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_1375.mup">
+<letter bd="1375"><HEADER id="1948">CONSTANZE MOZART AN CARL THOMAS MOZART IN MAILAND<lbr/>
+WIEN, 30. JANUAR 1807<lbr/>
+mit Nachschrift von Georg Nikolaus Nissen</HEADER>
+<pg n="1"/>
+<add_num type="inline"><u>N<h><u>o</u></h> 15</u></add_num><ts>____________</ts><tspdf>\hfill </tspdf>Wien den 30 jäner <amend value="1807">1806</amend>&#160;<add_note hand="diff" color="gray" type="inline">[07]</add_note><lbr type="forced"/>
+Ich kann dir nur wenig schreiben lieber<lbr/>
+Karl und will dir daher gleich die Nachricht<lbr/>
+gäben daß ich Herrn <rend class="latin">Voltiggi</rend> durch deine<lbr/>
+<rend class="latin">Tante Majer</rend> ausfündig gemacht habe und<lbr/>
+auch schon das Vergnüchen gehabt habe<lbr/>
+ihn bei mir zu sehen, und ihm selbst den<lbr/>
+Brief von <rend class="latin">H<abbr type="curve">:</abbr> Pinali</rend> zu übergaben, heute<lbr/>
+kömt er um den brief abzuhollen und, ihn<lbr/>
+wie mir scheind mit der antwort an<lbr/>
+<rend class="latin">Pinali</rend> einschließen. wir sind gott sey danck alle<lbr/>
+gesund und wohl auf, auch die <rend class="latin">Sophie</rend> samt ihren<lbr/>
+Man im Ungaren befinden sich recht wohl und<lbr/>
+sind recht glücklich, gestern erhielt ich einen<lbr/>
+Brief von ihnen worin sie auch herzlich grüßen<lbr/>
+laßen. &#8211; <suppl type="inline" schr_id="75010">hierin die gewöhnliche Anweisung.</suppl><lbr/>
+Wier haben ietz alle Montag der schon seit ein<lbr/>
+paar jahren mein gewöhnlicher gesellschafttag<lbr/>
+ist, durch die fremden <rend class="latin">virtuosen</rend> schöne <rend class="latin">Musique</rend><lbr/>
+bei mir, besonders zeichnen sich aber dabei<lbr/>
+aus, die beiden Brüder <rend class="latin">Pixis</rend> aus Ma<abbr type="topline" expand="nn">n</abbr>heim<lbr/>
+der altere auf der <rend class="latin">violin</rend> ein <rend class="latin">Scolar</rend> von <rend class="latin">vioti</rend><lbr/>
+und der jüngere auf dem <rend class="latin">Piano Forte</rend>. besonders<lbr/>
+Herr <rend class="latin">Seidler</rend> aus Berlin ein ganz fordreflicher<lbr/>
+<pg n="2"/>
+Gäiger der ietz von <rend class="latin">Paris</rend> kömt und wie man<lbr/>
+sagt dem berühmten <rend class="latin">Rode</rend> nichts nachgieb.<lbr/>
+den solst du einmahl hören deines Vaters<lbr/>
+<rend class="latin">quartetten</rend> spiellen! &#8211; was gäbe ich nicht da<pc force="weak">=</pc><lbr/>rum wen du Sie so mit uns hören könntest.<lbr/>
+Es sind sehr ardige leute, alle geben schon<lbr/>
+öfentlich <rend class="latin">Concert</rend>, sie sind schon den ganzen<lbr/>
+winter hier, und obschon Sie deswegen hier<lbr/>
+sind um <rend class="latin">concert</rend> zu geben, wo sich die Meisten<lbr/>
+Künstler wie du weist rahr machen, so spielten<lbr/>
+Sie doch alle Montag bei mir, und, in der<lbr/>
+that, wetteifferten sie mit einander und ich<lbr/>
+gewine dabei, wie du leicht denken kanst.<lbr/>
+ein jeder will sich hören laßen, und so<lbr/>
+höre ich Sie alle und recht oft; sie laßen<lbr/>
+dich alle recht herzlich grüßen.<lbr type="forced"/>
+dein Bruder gehet ietz zu <rend class="latin">Salieri</rend> und zu<lbr/>
+<rend class="latin">Humel</rend> beide haben viele liebe und freund<suppl hand="#DME"><pc force="strong">=</pc></suppl><lbr/>schaf für ihn, ich fürcht nur, daß er sie nicht<lbr/>
+so benutz wie er soll, den es ist nicht i<abbr type="topline" expand="mm">m</abbr>er<lbr/>
+gut wen ma<abbr type="topline" expand="nn">n</abbr> zu viele hülfe hat, weil Ma<abbr type="topline" expand="nn">n</abbr><lbr/>
+sich zu viel darauf verlast, und wenn<lbr/>
+ma<abbr type="topline" expand="nn">n</abbr> keine mehr hat, so kan man sich nicht fort<lbr/>
+<pg n="3"/>
+helfen, und wircklich ist dies meine Klage, Er<lbr/>
+der von allen ecken her hülfe hat, thut bei<lbr/>
+nahe gar nichts wen man ihn nicht zwingt<lbr/>
+nun hat er die 3 große meister <rend class="latin">Salieri</rend>,<lbr/>
+<rend class="latin">Albresberger</rend> und <rend class="latin">Humel</rend>, konnte ich dir<lbr/>
+nur einen von diesen Maner geben wie<lbr/>
+glücklich wäre ich den diese findst du<lbr/>
+in ganz jdalien nicht. thue mir einmahl<lbr/>
+den gefallen und frage in einem brief<lbr/>
+da du weist daß wowi noch ietz die 3<lbr/>
+großen Meister hat, ob er den auch<lbr/>
+fleißig ist und nutzen von ihnen suchen<lbr/>
+wird zu zihen, welches nur dadurch<lbr/>
+geschehen kan wen er fleißig <rend class="latin">componirt</rend><lbr/>
+und frage ihn wie viele stucke er das<lbr/>
+jahr durch <rend class="latin">componirt</rend> und ob er auch<lbr/>
+brav sich im instrumendiren übt, sage<lbr/>
+ihm was du alles thuen würdest, wen du so<lbr/>
+glücklich wärest ihr Schüller zu seyn<lbr/>
+und inder that ich wünsche daß du es mit<lbr/>
+ihm thaillen könntest, und wer weiß was noch<lbr/>
+wird indiesen hoff und verbleibe ich deine Mutter<lbr/>
+<pg n="4"/>
+<NS type="NS" schr_id="57010">Ich danke Ihnen für den Brief<lbr/>
+von <rend class="latin">Walliè</rend>, mein lieber Carl.<lbr/>
+Aber nehmen Sie künftig nicht<lbr/>
+ohne Noth fremde Briefe an, es<lbr/>
+sey dann von <rend class="latin">Pinali</rend> oder<lbr/>
+<rend class="latin">Asioli</rend>. Das Porto ist<lbr/>
+sehr theuer. Ihre lezten beyden<lbr/>
+Briefe kamen zugleich an und kosteten<lbr/>
+1 <rend class="latin">fl</rend>. 12 <rend class="latin">x</rend>.</NS>
+</letter></text>
+</MUP>

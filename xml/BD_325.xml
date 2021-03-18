@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2015">2015-11</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=887</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Wn</bibl>
+            <bibl type="source" subtype="RISM">A-Wn (Österreichische Nationalbibliothek)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:38:04 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_325.mup">
+<letter bd="325" lang="it"><NI src="A-Wn"><HEADER id="887">PADRE GIOVANNI BATTISTA MARTINI AN WOLFGANG AMADÉ MOZART IN SALZBURG<lbr/>
+BOLOGNA, 18. DEZEMBER 1776, ENTWURF</HEADER>
+<pg n="1"/>
+<additum>[... (Schluss des Briefes von Wolfgang Amadé Mozart, 4. September 1776 (BD 323)]</additum><lbr type="forced"/>
+<lbr type="forced"/>
+<rend class="latin"><ts>______________________________</ts><tshtm>________________________________________________________________________________</tshtm><tspdf>\hfill </tspdf>Bologna li 18. Xbre<lbr type="forced"/>
+<ts>____________________________________________________________</ts><tshtm>___________________________________________________________________</tshtm>1776<lbr type="forced"/>
+Unito alla sua gentiliss:<h>a</h> pervenutami da Trento ho ricevuto il <abbr type="tilde" expand="Motetto">Motto</abbr>. . . . Con<lbr type="BD"/>
+piacere L'ho<lbr/>
+considerato dal <abbr expand="proprio">ppio</abbr> sino al fine, e Le dico con tutta sincerità che<lbr type="BD"/>mi piace singolarmente ri<suppl hand="#DME"><pc force="strong">-</pc></suppl><lbr/>trovando in esso tutto <abbr type="tilde" expand="quello">qllo</abbr> che richiede La Musica<lbr type="BD"/> Moderna, buona Armonia, matura modu<suppl hand="#DME"><pc force="strong">-</pc></suppl><lbr/>lazione moderato movimento de Vio<lbr type="BD"/>lini, modulazione, delle parti naturale e buona condotta.<lbr/>
+Io me ne rallegro, e<lbr type="BD"/> godo che dacche ebbi il piacere di sentirla in Bologna nel Cembalo ora siasi<lbr/>
+di<lbr type="BD"/> molto avanzata nel Comporre. ella proseguisca sempre più ad esercitarsi,<lbr type="BD"/> perche la Musica è di<lbr/>
+tal natura, che richiede esercizio e studio grande sino che<lbr type="BD"/> si vive</rend><lbr type="forced"/>
+</NI>
+</letter>
+</text>
+</MUP>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2010">2010-04</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=238</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:30:47 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/Doc1855_10_mup.txt">
+<HEADER id="238">DOKUMENTE ÜBER DEN VERKAUF DER UHR VON WOLFGANG AMADEUS MOZART<lbr/>
+PEST, 18. OKTOBER 1855 UND 26. APRIL 1858</HEADER>
+
+<pg n="1"/>
+<ts>_____________________</ts><rend class="latin">Quittung</rend><lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_______________________</ts><rend class="latin">Uiber</rend> Vierzig <rend class="latin">Gulden</rend> CMze welche<lbr type="forced"/>
+<ts>______________</ts>ich Endesgefertigter als den von<lbr type="forced"/>
+<ts>______________</ts>dem <rend class="latin">Pesther</rend> Uhrmacher Meister<lbr type="forced"/>
+<ts>______________</ts>H <rend class="latin">Marohzik</rend> |<u>in <rend class="latin">Pest</rend>|</u> ausgesetzten<lbr type="forced"/>
+<ts>______________</ts>Schätzungs Werth für die von<lbr type="forced"/>
+<ts>______________</ts>mir an H <rend class="latin">Josef Wagner</rend> ver<pc force="weak">-</pc><lbr type="forced"/><ts>______________</ts>kaufte goldene Spindel Uhr mit<lbr type="forced"/>
+<ts>______________</ts><rend class="latin">Email-Portraet</rend> und <rend class="latin">Rosetten</rend> be<pc force="weak">-</pc><lbr type="forced"/><ts>______________</ts>setzte Uhr richtig inn baar<lbr type="forced"/>
+<ts>______________</ts>erhalten zu haben bescheunige<lbr type="forced"/>
+<ts>___________________</ts><rend class="latin">Pest</rend> am 18<h><u>tn</u></h>&#160;<rend class="latin">Oktber</rend>&#160;<abbr type="topline" expand="1855">855</abbr><lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____________________________________</ts><tspdf>\hfill </tspdf><rend class="latin">Julius Holl<lbr type="forced"/>
+<ts>_____________________________________</ts><tspdf>\hfill </tspdf>v Stahlberg</rend><lbr type="forced"/>
+<lbr type="forced"/>
+<table><tr><td>Bestättige, daß obgenannte Uhr<lbr/>
+von <rend class="latin">L'Epine a Paris</rend>, von mir<lbr/>
+zu vierzig Gulden CMz: geschätzt,<lbr/>
+und in meiner Gegenwart<lbr/>
+von Herrn <rend class="latin">Jos. Wagner</rend><lbr/>
+gekauft und ausgezahlt wurde.<lbr/>
+Pesth am 18. <rend class="latin">Octob:</rend>&#160;<abbr type="topline" expand="1855">855</abbr>.<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>________</ts><rend class="latin">Fr. Maruzig.</rend><lbr type="forced"/>
+<ts>___________</ts>Uhrmachermst.</td><td><lbr type="forced"/><lbr type="forced"/>
+Oben bezeichnete Uhr, welche dunkeln<lbr/>
+Gerüchten nach <rend class="latin">W. A. Mozarts</rend> Eigen<pc force="weak">=</pc><lbr/>thum war und im Jahre 1771 von der<lbr/>
+Kaiserin <rend class="latin">Maria Theresia</rend> in <rend class="latin">Mailand</rend><lbr/>
+für eine <rend class="latin">Serenade</rend> zum Geschenk erhielt,<lbr/>
+(laut <rend class="latin">Mozarts Biographie</rend>) habe ich<lbr/>
+heute an Herrn <rend class="latin">Ignatz Pfeffer</rend> ver<pc force="weak">=</pc><lbr/>kauft. <rend class="latin">Pest</rend> den 26<h><u>ten</u></h> Aprill 1858<lbr type="forced"/>
+<ts>________________</ts>JofWagner <abbr_mp expand="manu propria">mp</abbr_mp></td></tr></table>
+<pg n="2"/>
+<vacat/>
+<pg n="3"/>
+<vacat/>
+<pg n="4"/>
+<add_note>Schriften etc. zur Beglau<pc force="weak">-</pc><lbr/>bigung der <rend class="latin">Maria Theresia</rend><lbr/>
+Uhr<lbr/>
+Erhalten von D<h>r</h>&#160;<rend class="latin">Stigler</rend><lbr/>
+13. Nov. 1899<lbr/>
+<ts>____________</ts><additum>[... (unleserlich)]</additum></add_note></text>
+</MUP>

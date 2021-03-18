@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2011">2011-05</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=806</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Verbleib unbekannt (Abschrift von Georg Nikolaus Nissen: A-Sm)</bibl>
+            <bibl type="source" subtype="RISM">Verbleib unbekannt, Abschrift von Georg Nikolaus Nissen: A-Sm</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:37:33 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_245.mup">
+<letter bd="245"><HEADER id="806">LEOPOLD MOZART AN MARIA ANNA MOZART IN SALZBURG<lbr/>
+MAILAND, 13. SEPTEMBER 1771<lbr/>
+mit Nachschrift von Wolfgang Amadé Mozart an Maria Anna (Nannerl) Mozart<lbr/>
+Abschrift von Georg Nikolaus Nissen, 1824</HEADER>
+<pg n="1"/>
+<additum>[... (Briefabschriften)]</additum><lbr type="forced"/>
+<lbr type="forced"/>
+<add_num type="inline"><ts>_______</ts>245</add_num><ts>___</ts>125<ts>__</ts>Mailand 13 Sept.<lbr type="forced"/>
+Die Serenata, welche eigentlich mehr eine <rend class="latin">azione teatrale</rend> von 2 Theilen<lbr/>
+ist, wird Wolfg. mit der Hülfe Gottes, in 12 Tagen völlig fertig haben.<lbr/>
+Die Recitative mit und ohne Instrumente sind alle fertig, wie<lbr/>
+auch alle Chöre, deren 8 sind, und deren 5 zugleich getanzt werden.<lbr/>
+Heute haben wir die Tanzprobe gesehen, und uns sehr über den Fleiß der<lbr/>
+<pg n="2"/>
+zwei Balletmeister <rend class="latin">Pick</rend> und <rend class="latin">Fabier</rend> gewundert,<lbr/>
+Die erste Vorstellung ist Venus, die aus den Wolken kömmt, mit<lbr/>
+Genien und Grazien begleitet.<lbr type="forced"/>
+Das Andante der Sinfonie wird schon von 11 Weibspersonen getanzt,<lbr/>
+nämlich 8 Genien und den Grazien oder 8 Grazien und 3 Deesse.<lbr/>
+Das lezte Allegro der Sinfonie ist ein Chor von 32 Choristen,<lbr/>
+nämlich 8 Sopranen, 8 Contralten, 8 Tenoren und 8 Bassi,<lbr/>
+und wird von 16 Personen zugleich getanzt, 8 Frauen, 8 Männern.<lbr/>
+Ein andres Chor z. B. ist von Hirten und Hirtinnen, so wieder<lbr/>
+andre Personen sind. und wieder von 16 Personen getanzt,<lbr/>
+die andre Personen sind. Dann sind Chöre von den Hirten<lbr/>
+allein, folglich Tenore und Bassi; andre Chöre von Pastorelle,<lbr/>
+folglich Soprani und Contralti. In der lezten Scene sind alle<lbr/>
+beisammen, <rend class="latin">Geni, grazie, pastori, pastorelle</rend>, Chorsänger<lbr/>
+und Tänzer beider Geschlechter, und diese tanzen alle den<lbr/>
+lezten Chor zusammen. Hier sind die Solotänzer nicht<lbr/>
+mit eingerechnet, nämlich M.<h>r</h>&#160;<rend class="latin">Pick</rend>, Madame Binetti, M.<h>r</h><lbr/>
+<rend class="latin">Fabier</rend> und Mamsell <rend class="latin">Blache</rend>. Die kleinen Solos, die unter den<lbr/>
+Chören bald zwischen 2 Sopranen, bald Alt und Sopran etc.<lbr/>
+vorkommen, werden auch mit Solo der Tänzer und Tänzerinnen<lbr/>
+untermischt.<lbr type="forced"/>
+Die Personen in der Kantate sind: <tspdf>\hfill </tspdf><rend class="latin">la Venere, Sgra Falchini, 2.<h>a</h> donna<lbr type="forced"/>
+<ts>_______________________________________________</ts><tspdf>\hfill </tspdf>Ascanio, Sgr Manzoli, 1.<h>o</h> uomo<lbr type="forced"/>
+<ts>_______________________________________________</ts><tspdf>\hfill </tspdf>Silvia, Sgra Girelli, 1.<h>a</h> donna<lbr type="forced"/>
+<ts>______</ts><tshtm>_________________________________________</tshtm><tspdf>\hfill </tspdf>Aceste Sacerdote Sgr Tibaldi, Tenore<lbr type="forced"/>
+<ts>_______________________________________________</ts><tspdf>\hfill </tspdf>Fauno Pastore Sgr Solzi, 2.<h>o</h> uomo.</rend><lbr type="forced"/>
+<rend class="latin">NB.</rend> Wegen Venedig 1773 habe ich auch schon Alles in Händen.<lbr type="forced"/>
+<pg n="3"/>
+<NS type="NS" schr_id="39409"><add_num type="inline"><ts>____________________</ts>37</add_num>&#160;<add_ident type="inline">von W. A. M.<ts>___</ts> N. S.</add_ident><lbr/>
+A.S. Ich schreibe nur deswegen, damit ich . . . . schreibe: mir ist<lbr/>
+es zwar ungelegen, weil ich einen starken Katarrh und Strauchen habe.<lbr/>
+Sage der Fräulein W. von Mölk, daß ich mich recht auf Salzburg<lbr/>
+wieder freue, damit ich nur wieder ein solches Präsent für die<lbr/>
+Menuette bekommen kann, so wie ich es bei derselben Akademie<lbr/>
+bekommen habe: sie weiß es hernach schon.</NS><lbr type="forced"/><lbr type="forced"/>
+<additum>[... (Briefabschriften)]</additum></letter>
+</text>
+</MUP>

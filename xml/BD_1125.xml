@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2014">2014-5</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1695</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Verbleib unbekannt</bibl>
+            <bibl type="source" subtype="RISM">Verbleib unbekannt</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:42:07 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_1125.mup">
+<letter bd="1125"><NI src="Erstdruck"><HEADER id="1695">WOLFGANG AMADÉ MOZART AN MICHAEL PUCHBERG IN WIEN<lbr/>
+WIEN, 17. MAI 1790</HEADER>
+<pg n="1"/>
+<ts>___________</ts><tshtm>_______</tshtm>Allerliebster Freund u. O. B.<lbr type="forced"/>
+<ts>___</ts>Sie werden ohne Zweifel von Ihren Leuten vernommen haben, daß ich gestern<lbr type="BD"/>
+bei Ihnen war, und (nach ihrer Erlaubniß) uneingeladen bei Ihnen speisen<lbr type="BD"/>
+wollte. &#8211; Sie wissen meine Umstände, kurz &#8211; ich bin, da ich keine wahren<lbr type="BD"/>
+Freunde finde gezwungen bei Wucherern Geld aufzunehmen; da es aber<lbr type="BD"/>
+Zeit braucht, um unter dieser unchristlichen Classe Menschen doch noch die<lbr type="BD"/>
+christlichsten aufzusuchen und zu finden, so bin dermalen so entblößt, daß ich<lbr type="BD"/>
+Sie liebster Freund um Alles in der Welt bitten muß, mir mit Ihrem Entbehr<lbr type="BD"/>lichsten
+beizustehen &#8211; Wenn ich wie ich hoffe in 8 oder 14 Tagen das Geld<lbr type="BD"/>
+bekomme, so werde Ihnen gleich das mir iezt gelehnte wieder zurückzahlen. &#8211; <lbr type="BD"/>
+Mit dem, was ich Ihnen schon so lang ausständig bin, muß ich Sie leider noch<lbr type="BD"/>
+bitten Geduld zu haben. &#8211; Wenn Sie wüßten was mir das alles für Kummer<lbr type="BD"/>
+und Sorgen macht &#8211; es hat mich die ganze Zeit her verhindert meine Quar<lbr type="BD"/>tetten
+zu endigen. &#8211; Ich habe nun sehr große Hoffnung bey Hof, denn ich<lbr type="BD"/>
+weiß zuverlässig, daß der K . . . meine Bittschrift, nicht wie die andern<lbr type="BD"/>
+begünstigt oder verdammt herabgeschickt, sondern zurückbehalten hat. &#8211; <lbr type="BD"/>
+Das ist ein gutes Zeichen. &#8211; Künftigen Samstag bin ich Willens meine Quar<lbr type="BD"/>tetten
+bei mir zu machen, wozu ich Sie und ihre Fr. Gemahlin schönstens<lbr type="BD"/>
+einlade. Liebster bester Freund und B. &#8211; entziehen Sie mir meiner Zudring<lbr type="BD"/>lichkeit
+wegen Ihre Freundschaft nicht und stehen Sie mir bei. Ich verlasse<lbr type="BD"/>
+mich ganz auf Sie und bin ewig<lbr type="BD"/><lbr type="forced"/>
+<ts>___</ts>Wien 17. Mai 1790<ts>________</ts><tshtm>______________________________________________________________</tshtm><tspdf>\hfill </tspdf>Ihr dankbarster<lbr type="BD"/> Mozart.<lbr type="forced"/>
+<ts>_____</ts><rend class="latin">P. S.</rend> Nun habe ich 2 Scolaren, ich möchte es gerne auf 8 Scolaren bringen;<lbr type="BD"/>
+suchen Sie es auszustreuen daß ich Lectionen annehme.<lbr type="forced"/>
+<add_note schr_id="57866">Den 17. May Fl. 150 gesandt.</add_note>
+</NI></letter>
+</text>
+</MUP>

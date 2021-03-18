@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2019">2019-12</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=576</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">D-As</bibl>
+            <bibl type="source" subtype="RISM">D-As (Staats- und Stadtbibliothek)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:36:20 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_19.mup">
+﻿<letter bd="19">
+<NI src="D-As">
+<HEADER id="576">LEOPOLD MOZART AN JOHANN JAKOB LOTTER IN AUGSBURG<lbr/>
+SALZBURG, VOR DEM 14. JANUAR 1756</HEADER>
+<pg n="1"/>
+<add_empf><ts>___________________________________________________</ts>d<abbr v="en"/> 14. <rend class="latin">Jan</rend>. 1756 empfangen; und 20<h><uu><rend class="latin">x</rend></uu></h>&#160;<rend class="latin">Porto</rend><lbr/>
+<ts>__________________________________________________________________________</ts>dafür bezahlt.</add_empf>
+<lbr/>
+Hier sind in gröster E&#255;l die <rend class="latin">Synf<abbr type="curve">:</abbr></rend> vor <persName key="84279">h<abbr type="curve">:</abbr>&#160;<rend class="latin">Gignoux</rend></persName>.<lbr/>
+die Büchl zur <rend class="latin">Opera</rend> hab<lbr type="BD"/> noch nicht geseh<abbr v="en"/>, vielleicht<lbr/>
+ko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/> sie mit nächstem Münchner Pott<abbr v="en"/>. ich<lbr type="BD"/> werde<lbr/>
+alles befolg<abbr v="en"/>. Es ist mir eine Ehre wenn man<lbr/>
+mich in dem <rend class="latin">Collegio</rend><lbr type="BD"/>&#160;<rend class="latin">Musico</rend> gedult<abbr v="en"/> will doch<lbr/>
+<rend class="latin">Sens Consequençe</rend>. mit nächstem werde ich ihn<abbr v="en"/><lbr type="BD"/><lbr/>
+ein<abbr v="en"/> artig<abbr v="en"/> streich erzehl<abbr v="en"/> darob sie sich sehr wund<abbr v="ern"/> werd<abbr v="en"/>.<lbr/>
+geb<abbr v="en"/> sie<lbr type="BD"/> entzwisch<abbr v="en"/> wohl obacht wer in Augspurg von mir<lbr/>
+und sond<abbr v="er"/>ht<abbr type="curve">:</abbr> von der<lbr type="BD"/> Baur<abbr v="en"/> und Schlittenmusik gut od<abbr v="er"/> übel zu<lbr/>
+sprech<abbr v="en"/> ist: de<abbr type="topline" expand="nn">n</abbr> es hat seine<lbr type="BD"/> Ursach<abbr v="en"/>. aber lass<abbr v="en"/> sie sich nichts<lbr/>
+merck<abbr v="en"/>: sonst ist d<abbr v="er"/> spass verdorb<abbr v="en"/>.<lbr type="BD"/> der nächstere Posttag soll<lbr/>
+sie daß mehrere lehr<abbr v="en"/>. <rend class="latin">addio</rend>.<lbr type="forced"/>
+<ts>__________________________________________________</ts><tspdf>\hfill </tspdf><persName key="39408"><rend class="latin">LeMozart</rend></persName>&#160;<abbr expand="manu propria">mp</abbr>.<lbr type="forced"/>
+Sie werd<abbr v="en"/> sich wund<abbr v="er"/><abbr v="en"/>.<lbr type="forced"/>
+<add_ident><ts>_____</ts>Leopold</add_ident>
+<pg n="2"/>
+<add_ident rot="180">Mozart</add_ident>
+
+<add_empf>1756. d<abbr v="en"/> 14. Jan. aus Salzburg,<lbr/>
+von h<abbr type="curve">:</abbr> Leopold Mozart.</add_empf>
+<lbr/>
+<anschrift><rend class="latin">Monsieur<lbr type="forced"/>
+Monsieur</rend>&#160;<persName key="76865"><rend class="latin">Johan Jacobe</rend><lbr type="forced"/>
+Lotter</persName> Buchdruck<abbr type="curve">:</abbr><lbr type="forced"/>
+in<lbr type="forced"/>
+[Augspurg]</anschrift>
+</NI>
+</letter></text>
+</MUP>

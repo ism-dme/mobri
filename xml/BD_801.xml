@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2014">2014-5</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1370</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">US-PHhs</bibl>
+            <bibl type="source" subtype="RISM">US-PHhs (Historical Society of Pennsylvania Library)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:40:39 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_801.mup">
+<letter bd="801"><NI src="US-PHhs"><HEADER id="1370">WOLFGANG AMADÉ MOZART AN MARIA ANNA (NANNERL) MOZART IN SALZBURG<lbr/>
+WIEN, 18. AUGUST 1784</HEADER>
+<pg n="1"/>
+<ts>____________</ts><tshtm>______________________________________________________________________________________</tshtm><tspdf>\hfill </tspdf><rend class="latin"><u>Vienne</u> ce</rend> 18 <rend class="latin">d'Août</rend>&#160;<uu>1784</uu>.<lbr type="forced"/>
+<ts>__________</ts><tshtm>_______</tshtm><rend class="latin">Ma trés chere sœur!</rend> &#8211; <lbr type="forced"/>
+<lbr type="forced"/>
+Potz Saperment! &#8211; izt ist es zeit daß ich schreibe, we<abbr type="topline" expand="nn">n</abbr> ich will daß dich<lbr type="BD"/> mein brief noch<lbr/>
+als eine Westalin antreffen soll! &#8211; ein paar täg Später, und &#8211;<lbr type="BD"/> weg ist's. &#8211; <lbr type="forced"/>
+Meine frau und ich Wünschen dir alles glück und vergnügen zu deiner Standes<lbr type="BD"/>veränderung,<lbr/>
+und bedauern nur von Herzen daß wir nicht so glücklich se&#255;n<lbr type="BD"/> kö<abbr type="topline" expand="nn">n</abbr>en, be&#255; deiner ver<pc force="weak">=</pc><lbr/>mählung gegenwärtig zu se&#255;n; wir hoffen aber dich<lbr type="BD"/> künftiges früh Jahr ganz gewis in<lbr/>
+Salzburg sowohl als in St: gilgen als fr:<lbr type="BD"/> von So<abbr type="topline" expand="nn">n</abbr>enburg sa<abbr type="topline" expand="mm">m</abbr>t deinem Hr: gemahl zu<lbr/>
+umarmen; &#8211; wir bedauern<lbr type="BD"/> nun nichts mehrer als unsern lieben vatern, welcher nun<lbr/>
+so ganz allein leben<lbr type="BD"/> soll! &#8211; fre&#255;lich bist du nicht weit von ihm entfernt, und er<lbr/>
+ka<abbr type="topline" expand="nn">n</abbr> öfters zu dir<lbr type="BD"/> Spazieren fahren &#8211; allein izt ist er wieder an das verfluchte<lbr/>
+<rend class="latin">Capell</rend>haus ge<lbr type="BD"/>bunden! &#8211; we<abbr type="topline" expand="nn">n</abbr> ich aber an meines vaters Stelle wäre, so würde<lbr/>
+ich es also<lbr type="BD"/> machen; &#8211; ich bittete den Erzbischof um |: als einen Ma<abbr type="topline" expand="nn">n</abbr> der schon so lange<lbr type="BD"/><lbr/>
+gedient hat :| mich in meine Ruhe zu setzen &#8211; und nach erhaltenen <rend class="latin">Pension</rend><lbr type="BD"/> gieng<lbr/>
+ich zu meiner tochter nach <rend class="latin">st: gilgen</rend>, und lebte dort ruhig; &#8211; wollte<lbr type="BD"/> der Erzbischof<lbr/>
+meine bitte nicht eingehen, so begehrte ich meine Entlassung,<lbr type="BD"/> und gieng zu meinem<lbr/>
+Sohne nach Wie<abbr type="topline" expand="nn">n</abbr>; &#8211; und das ist, was ich dich haupt<lbr type="BD"/>sächlich bitte, daß du dir<lbr/>
+Mühe geben möchtest ihn dazu zu bereden; &#8211; ich<lbr type="BD"/> habe ihm heute in den briefe<lbr/>
+an ihn schon das nämliche geschrieben. &#8211; und nun schicke ich dir noch 1000 gute<lbr/>
+Wünsche von Wie<abbr type="topline" expand="nn">n</abbr><tspdf>\newline</tspdf> nach Salzburg, beson<lbr type="BD"/>ders daß ihr be&#255;de so gut zusa<abbr type="topline" expand="mm">m</abbr>en<lbr/>
+leben möchtet als &#8211; wir zwe&#255;e; &#8211; drum<lbr type="BD"/> ni<abbr type="topline" expand="mm">m</abbr> von meinem Poetischen<lbr/>
+Hirnkasten einen kleinen Rath an; de<abbr type="topline" expand="nn">n</abbr><lbr type="BD"/> höre nur:<lbr type="forced"/>
+<ts>__________________</ts><tshtm>______________</tshtm>Du wirst im Ehstand viel erfahren<lbr type="BD"/><lbr type="forced"/>
+<ts>__________________</ts><tshtm>______________</tshtm>was dir ein halbes Räthsel war;<lbr type="BD"/><lbr type="forced"/>
+<ts>__________________</ts><tshtm>______________</tshtm>bald wirst du aus Erfahrung wissen,<lbr type="BD"/><lbr type="forced"/>
+<ts>__________________</ts><tshtm>______________</tshtm>wie Eva einst hat handeln müssen<lbr type="BD"/><lbr type="forced"/>
+<ts>__________________</ts><tshtm>______________</tshtm>daß sie hernach den kain gebahr.<lbr type="BD"/><lbr type="forced"/>
+<ts>__________________</ts><tshtm>______________</tshtm>doch schwester, diese Ehstands Pflichten<lbr type="BD"/><lbr type="forced"/>
+<ts>__________________</ts><tshtm>______________</tshtm>wirst du vom Herzen gern verrichten,<lbr type="BD"/><lbr type="forced"/>
+<ts>__________________</ts><tshtm>______________</tshtm>de<abbr type="topline" expand="nn">n</abbr> glaube mir, sie sind nicht schwer;<lbr type="BD"/><lbr type="forced"/>
+<ts>__________________</ts><tshtm>______________</tshtm>doch Jede Sache hat zwo Seiten;<lbr type="BD"/><lbr type="forced"/>
+<ts>__________________</ts><tshtm>______________</tshtm>der Ehstand bringt zwar viele freuden,<lbr type="BD"/><lbr type="forced"/>
+<ts>__________________</ts><tshtm>______________</tshtm>allein auch ku<abbr type="topline" expand="mm">m</abbr>er bringet er.<lbr type="BD"/><lbr type="forced"/>
+<ts>__________________</ts><tshtm>______________</tshtm>drum we<abbr type="topline" expand="nn">n</abbr> dein Ma<abbr type="topline" expand="nn">n</abbr> dir finstre Mienen,<lbr type="BD"/><lbr type="forced"/>
+<ts>__________________</ts><tshtm>______________</tshtm>die du n[i]cht glaubest zu verdienen,<lbr type="BD"/><lbr type="forced"/>
+<ts>_______________________</ts><tshtm>_______________</tshtm>in seiner üblen laune macht:<lbr type="BD"/><lbr type="forced"/>
+<ts>__________________</ts><tshtm>______________</tshtm>So denke, das ist Mä<abbr type="topline" expand="nn">n</abbr>ergrille,<lbr type="BD"/><lbr type="forced"/>
+<ts>__________________</ts><tshtm>______________</tshtm>und sag: Herr, es gescheh dein Wille<lbr type="BD"/><lbr type="forced"/>
+<ts>__________________</ts><tshtm>______________</tshtm>be&#255; tag &#8211; &#8211; und meiner be&#255; der Nacht.<tshtm>__</tshtm><tspdf>\hfill </tspdf>dein aufrichtiger bruder<lbr type="BD"/>
+<ts>___________________________________</ts><tshtm>____________________________________________________________________</tshtm><tspdf>\hfill </tspdf>W: A: <uu>Mozart</uu>&#160;<abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<pg n="2"/>
+<vacat/>
+</NI></letter>
+</text>
+</MUP>

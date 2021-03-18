@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2020">2020-02</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=633</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:36:35 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_75.mup">
+<letter bd="75">
+<HEADER id="633">LEOPOLD MOZART AN LORENZ HAGENAUER IN SALZBURG<lbr/>
+VERSAILLES, ZWISCHEN 24. DEZEMBER 1763 UND 8. JANUAR 1764</HEADER>
+<pg n="1"/>
+<add_note schr_id="57010" impl="ink"><stroke hand="self">14 Nov. 1762</stroke>
+<lbr/><lbr/>aus<lbr/>
+<rend class="latin">Versailles</rend><lbr/>
+nach 8 Dec. 1763.</add_note>
+Gegenwärtiges Schreib<abbr v="en"/> könn<abbr v="en"/> sie lesen, sich ein<abbr v="en"/>&#160;<rend class="latin">Extract</rend> mach<abbr v="en"/>, solch<abbr v="en"/><lbr type="BD"/> versiegl<abbr v="en"/>, und<lbr/>
+T<abbr type="curve">:</abbr> dem gd<abbr type="curve"></abbr> h<abbr type="curve">:</abbr> Beichtvatter nebst meiner gehors<abbr type="curve">:</abbr> Empfehlung<lbr type="BD"/> und NeuJahrswunsch<lbr/>
+behändig<abbr v="en"/>, od<abbr v="er"/> ihn selbst versiegl<abbr v="en"/> lass<abbr v="en"/>. die <rend class="latin">Ma<lbr type="BD"/>dame Pompadour</rend> ist eine noch schöne Person, hat<lbr/>
+viel ähnliches mit der ver<lbr type="BD"/>storbn<abbr v="en"/> fr: Steinerin od<abbr v="er"/> Freysauff teresel. auch etwas von der<lbr/>
+Bildung<lbr type="BD"/> der Röm<abbr type="curve">:</abbr> Ka&#255;serin, sond<abbr v="er"/>heitl: in den Aug<abbr v="en"/>. Sie ist von einem gross<abbr v="en"/><lbr type="BD"/> Hochmuth,<lbr/>
+und Regiert noch zur Stunde alles. &#8211; &#8211; In <rend class="latin">Versailles</rend> ist es kostbar<lbr type="BD"/> leb<abbr v="en"/>: und es ist ein<lbr/>
+grosses glück, <u>daß es diese täge schier so warm als im So<abbr type="topline" expand="mm">m</abbr>er ist,</u> sonst würde es übl gehen, da<lbr/>
+jedes scheid Holz für 5 <rend class="latin">Sols</rend> muß<lbr type="BD"/> bezahlt werd<abbr v="en"/>. gestern hat mein Bueb von d<abbr v="er"/> <rend class="latin">Madame la Contesse<lbr/>
+de Tessé</rend><lbr type="BD"/> eine goldene <rend class="latin">Tabattier</rend>, mein Mädl heut <abbr expand="von">v</abbr> der <rend class="latin">Princesse Carignon</rend> eine kleine<lbr type="BD"/> durch<pc force="weak">=</pc><lbr/>sichtige mit Gold eingelegte <rend class="latin">tabattier</rend> und der wolfg<abbr type="curve">:</abbr> ein<abbr v="en"/> Sackschreib<lbr type="BD"/>zeig von silber mit silbern<abbr v="en"/> federn<lbr/>
+zum <rend class="latin">Componi</rend>ren beko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>, er ist so<lbr type="BD"/> klein und artig gemacht, daß es nicht zu beschreib<abbr v="en"/> möglich ist.<lbr/>
+Meine kinder<lbr type="BD"/> mach<abbr v="en"/> hier fast alles zum Narrn: allein man sieht und merket aller Orten<lbr type="BD"/> die Folg<abbr v="en"/> des letzten Krieges.<lbr/>
+man ka<abbr type="topline" expand="nn">n</abbr> nicht alles der fed<abbr v="er"/> anvertrau<abbr v="en"/>,<lbr type="BD"/> was man gerne schreib<abbr v="en"/> möchte. wünsch<abbr v="en"/> Sie allen meinen gut<abbr v="en"/> freund<abbr v="en"/><lbr type="BD"/> und<lbr/>
+Freundin<abbr v="en"/> statt unser allen ein glückl: Neuesjahr. Ich wollte gerne<lbr type="BD"/> ied<abbr v="er"/>ma<abbr type="topline" expand="nn">n</abbr> schreib<abbr v="en"/>, we<abbr type="topline" expand="nn">n</abbr> ich Zeit hätte, und we<abbr type="topline" expand="nn">n</abbr> nicht<lbr/>
+ieder Brief 20, 30,<lbr type="BD"/>&#160;<rend class="latin">Sols</rend> kostete; we<abbr type="topline" expand="nn">n</abbr> ich den Brief an S:<h>e</h> Hochf<abbr type="curve">:</abbr>Gd<abbr v="en"/>. grösser gemacht hätte, so<lbr type="BD"/> hätte ich gewiß<lbr/>
+5 <rend class="latin">livres</rend> dafür bezahl<abbr v="en"/> müss<abbr v="en"/>, denn Sie <rend class="latin">taxie</rend>rn die schwere<lbr type="BD"/> und die grösse od<abbr v="er"/> d<abbr v="en"/>&#160;<rend class="latin">Format</rend>.<lbr/>
+hab<abbr v="en"/> sie vielleicht mir geantwort?  &#8211; &#8211; &#8211; Viel<lbr type="BD"/>leicht find ich<lbr/>
+be&#255; der Zurückkunft solch<abbr v="en"/> zu Paris in unserm <rend class="latin">Hôtel</rend>.<lbr/>
+leben Sie<lbr type="BD"/> wohl. <rend class="left">á Dieu</rend>!<lbr type="forced"/>
+<lbr/>
+<postxt loc="top" rot="180">Ich, meine Frau und kind<abbr v="er"/> empfehl<abbr v="en"/> uns und wünsch<abbr v="en"/><lbr/>
+ihn<abbr v="en"/>, der frau ge<lbr type="BD"/>mahlin und sa<abbr type="topline" expand="mm">m</abbr>tl: angehörig<abbr v="en"/><lbr/>
+ein glückl: neues Jahr. wir sind, Gott Lob,<lbr/>
+alle<lbr type="BD"/> gesund. sie sollt<abbr v="en"/> den wolfg<abbr type="curve">:</abbr> im<lbr/>
+schwarz<abbr v="en"/> kleide, und französ<abbr type="curve">.</abbr> Hutte<lbr/>
+sehen.</postxt><lbr type="forced"/>
+<add_note schr_id="57010" impl="ink">NB Es ist klar, daß dieses das Cou<pc force="weak">-</pc><lbr/>vert des Briefs war, in dem<lbr/>
+von der Audienz in Versailles<lbr/>
+berichtet ward, und der<lbr/>
+verloren ist.</add_note>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="2"/>
+<anschrift>
+<rend class="latin">A Monsieur<lbr type="forced"/>
+Monsieur Lorence<lbr type="forced"/>
+Hagenauer<lbr type="forced"/>
+à<lbr type="forced"/>
+Salzbourg<lbr type="forced"/>
+<u>en Baviere</u></rend>
+</anschrift>
+<lbr/>
+<add_num schr_id="57010" impl="crayon" color="red">19</add_num>
+<lbr/>
+<add_note impl="pencil" schr_id="0"><rend class="latin">Brüssel</rend></add_note>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+</letter>
+</text>
+</MUP>

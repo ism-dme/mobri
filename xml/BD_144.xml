@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2015">2015-7</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=703</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">F-Pn</bibl>
+            <bibl type="source" subtype="RISM">F-Pn (Bibliothèque nationale de France, Département de la Musique)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:36:59 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_144.mup">
+<letter bd="144">
+<NI src="F-Pn">
+<HEADER id="703">LEOPOLD MOZART, VERZEICHNIS DER JUGENDWERKE VON WOLFGANG AMADÉ MOZART<lbr/>
+WIEN(?), 1768</HEADER>
+<pg n="1"/>
+<add_ident schr_id="52059"><ts>_______</ts><u>Eigenhändig von Leopold Mozart, Vater W. A. Mozarts, geschrieben.</u></add_ident>
+<add_note>Siehe<lbr/>
+Anhang zu <rend class="latin">W. A. Mozarts</rend><lbr/>
+Biographie <rend class="latin">von Nissen</rend><lbr/>
+Lpz. 1828. <rend class="latin">Seite</rend> 3</add_note>
+<tshtm>_____________</tshtm><ts>_______________________________</ts>Verzeichniß<lbr type="forced"/>
+<tshtm>_____________</tshtm><ts>____________</ts>alles desjenigen was dieser 12 Jährige Knab seit<lbr type="forced"/>
+<tshtm>_____________</tshtm><ts>____________</ts>seinem 7<h>t<abbr v="en"/></h> Jahre <rend class="latin">Compon</rend>iert, und in <rend class="latin">originali</rend><lbr type="forced"/>
+<tshtm>_____________</tshtm><ts>_______________________</ts>ka<abbr type="topline" expand="nn">n</abbr> aufgezeiget werden.<lbr type="forced"/>
+<lbr type="forced"/>
+<rend class="latin"><u>Sonates</u><ts>_____</ts>pour le Clavecin avec l'accompagnement de Violon<lbr type="forced"/>
+<tshtm>_____</tshtm><ts>___________</ts>dediées à <u>Madame Victoire de France</u> par Wolfgang<lbr type="forced"/>
+<tshtm>_____</tshtm><ts>___________</ts>Mozart agè de Sept ans. à Paris. <u>oeuvre I.</u></rend>&#160;<add_note type="inline" schr_id="75929"><ts>__</ts>1764.</add_note><lbr type="forced"/>
+<rend class="latin"><u>Sonates</u><ts>_____</ts>pour le Clavecin &#38;c: dediées à <u>M:<h>dme</h> la Comtesse</u><lbr type="forced"/>
+<tshtm>_____</tshtm><ts>___________</ts><u>de Tessé</u>&#160;<abbr expand="etc:">p:</abbr><ts>_____</ts>–<ts>_____</ts>–<ts>_____</ts>–<ts>_____</ts><u>oeuvre II</u></rend>&#160;<add_note type="inline" schr_id="75929"><ts>___</ts>1764.</add_note><lbr type="forced"/>
+<rend class="latin"><u>Six Sonates</u><ts>_____</ts>pour le Clavecin avec l'accomp<abbr type="curve">:</abbr> &#38;c: dediées<lbr type="forced"/>
+<tshtm>_________</tshtm><ts>____________</ts>à <u>Sa Majesté Charlotte Reine de la grande</u><lbr type="forced"/>
+<tshtm>_________</tshtm><ts>____________</ts><u>Bretagne</u> par W: Mozart agé de huit ans<lbr type="forced"/>
+<tshtm>________</tshtm><ts>_____________</ts>à Londre<ts>_____</ts>–<ts>_____</ts>–<ts>_____</ts>–<ts>_____</ts><u>oeuvre III</u></rend>&#160;<add_note type="inline" schr_id="75929"><ts>___</ts>1765.</add_note><lbr type="forced"/>
+<rend class="latin"><u>Six Sonates</u><ts>_____</ts>pour le Clavecin avec l'accomp<abbr type="curve">:</abbr> dediées<lbr type="forced"/>
+<tshtm>__________</tshtm><ts>____________</ts>à <u>M:<h>dme</h> la Princesse de Nassau Weilbourg</u> née<lbr type="forced"/>
+<tshtm>__________</tshtm><ts>____________</ts>Princesse d'Orange par W: Mozart agé de Neuf<lbr type="forced"/>
+<tshtm>__________</tshtm><ts>____________</ts>ans, à la Haye<ts>_____</ts>–<ts>_____</ts>–<ts>_____</ts><u>oeuvre IV.</u></rend>&#160;<add_note type="inline" schr_id="75929"><ts>___</ts>1766.</add_note><lbr type="forced"/>
+<u><rend class="latin">Variationes</rend></u><ts>_____</ts>fürs <rend class="latin">Clavier. gravie</rend>rt. – <rend class="latin">à la Haye</rend><add_note type="inline" schr_id="75929"><ts>___</ts>1766</add_note><lbr type="forced"/>
+<u>Andere <rend class="latin">Variationes</rend></u><ts>_____</ts>fürs <rend class="latin">Clavier. gravie</rend>rt. – <rend class="latin">à Amsterdam</rend>&#160;<add_note type="inline" schr_id="75929"><ts>___</ts>1766</add_note><lbr type="forced"/>
+<u>15 Italiänische <rend class="latin">Arien</rend></u><ts>_____</ts>theils in <rend class="latin">London</rend>, theils im <rend class="latin">Haag</rend>, <add_note type="inline" schr_id="75929"><suppl hand="diff" pos="inline">1765 u:</suppl> 1766</add_note><lbr type="forced"/>
+<tshtm>_______</tshtm><ts>___________________________</ts>Componiert.<lbr type="forced"/>
+<u>Ein <rend class="latin">Quodlibet</rend></u><ts>_____</ts>unter dem Titl <u><rend class="latin">Gallimathias musicum</rend></u>&#160;<add_note type="inline" schr_id="75929"><ts>___</ts>1766</add_note><lbr type="forced"/>
+<tshtm>_______</tshtm><ts>_________________</ts><rend class="latin">à</rend> 2 <rend class="latin">Violini</rend>, 2 <rend class="latin">Hautb:</rend> 2 <rend class="latin">Corni</rend>, <rend class="latin">Cembalo obligato</rend>,<lbr type="forced"/>
+<tshtm>_______</tshtm><ts>_________________</ts>2 <rend class="latin">fagotti, Viola e Basso</rend>. alle Instrument<abbr v="en"/><lbr type="forced"/>
+<tshtm>_______</tshtm><ts>_________________</ts>haben ihre <rend class="latin">Solos</rend>, und am Ende ist eine <rend class="latin">Fuge</rend> mit<lbr type="forced"/>
+<tshtm>_______</tshtm><ts>_________________</ts>allen Instrument<abbr v="en"/> über ein holländisches Gesang,<lbr type="forced"/>
+<tshtm>_______</tshtm><ts>_________________</ts>|: der Prinz Wilhelm genannt :| angebracht.<lbr type="forced"/>
+<tshtm>_______</tshtm><ts>_________________</ts>Componirt für den Prinz<abbr v="en"/>&#160;<abbr expand="von">v</abbr>&#160;<rend class="latin">Oranien</rend> durchl:<lbr type="forced"/>
+<u>13 <rend class="latin">Synfonien</rend></u><ts>_____</ts><rend class="latin">à</rend> 2 <rend class="latin">Violini</rend>, 2 <rend class="latin">Hautb:</rend> 2 <rend class="latin">Corni Viola e Basso</rend>&#160;<abbr expand="etc.">p:</abbr><lbr type="forced"/>
+<lbr/>
+<add_seal type="owner">CHARLES MALHERBE</add_seal>
+<pg n="2"/>
+<add_note schr_id="75929">x <u>Apollo und Hÿacinth</u></add_note><lbr type="forced"/>
+<u>Ein <rend class="latin">Oratorium</rend></u><ts>_____</ts>von 5 singend<abbr v="en"/> Person<abbr v="en"/>&#160;<abbr expand="etc:">p:</abbr> die <rend class="latin">originalSpart</rend><lbr type="forced"/>
+<tshtm>________</tshtm><ts>_________________</ts>ist <u>208 seiten</u> stark.<lbr type="forced"/>
+<add_note type="inline" schr_id="75929"><h>x</h></add_note>&#160;<u>Eine Musik zu einer lateinisch<abbr v="en"/>&#160;<rend class="latin">Comoedie</rend></u> für die <rend class="latin">Universitet</rend> zu Salzburg.<lbr type="forced"/>
+<ts>______________________</ts>von 5 singend<abbr v="en"/> Person<abbr v="en"/>. die <rend class="latin">originalSpart</rend><lbr type="forced"/>
+<ts>______________________</ts>hat <u>162 seit<abbr v="en"/>.</u>&#160;<add_note type="inline" schr_id="75929">Im 11<h><uu>ten</uu></h> Jahre geschrieben. 1767.</add_note><lbr type="forced"/>
+<tspdf>\newpage</tspdf> 
+<u>6 <rend class="latin">Divertimenti à</rend> 4</u>.<ts>_____</ts>für verschiedene Instrument<abbr v="en"/>: als <rend class="latin">Violin,<lbr type="forced"/>
+<tshtm>______</tshtm><ts>___________________</ts>clarino, Corno, Flautotrav: fagotto, Trombone<lbr type="forced"/>
+<tshtm>______</tshtm><ts>___________________</ts>Viola, Violoncello</rend>&#160;<abbr expand="etc:">p:</abbr><lbr type="forced"/>
+<u>6 <rend class="latin">Trio</rend></u><ts>_____</ts><rend class="latin">à</rend> 2 <rend class="latin">Violini e Violoncello</rend>.<lbr type="forced"/>
+<u>Eine <rend class="latin">Cantata</rend> zum hl: Grab <rend class="latin">Christi</rend></u>, von 2 singend<abbr v="en"/> Personen.<lbr type="forced"/>
+<ts>_________________</ts>mit 2 <rend class="latin">Arien, Recitat<abbr type="curve"></abbr></rend>: und <rend class="latin">Duetto</rend>.<lbr type="forced"/>
+<u>Ein kurzes <rend class="latin">Stabat Mater</rend></u><ts>_____</ts><rend class="latin">à</rend> 4 <rend class="latin">Voci</rend> ohne Instrument<abbr v="en"/>.<lbr type="forced"/>
+<u>Verschiedene <rend class="latin">Solo</rend></u><ts>______</ts> – für die <rend class="latin">Violin</rend>.<lbr type="forced"/> 
+<tshtm>________</tshtm><ts>_______________________</ts> – für das <rend class="latin">Violoncello</rend>, – <u>für den Fürst<abbr v="en"/> zu Fürstenberg</u><lbr type="forced"/>
+<tshtm>________</tshtm><ts>_______________________</ts> – für die <rend class="latin">Viola di gamba</rend>, <ts>___</ts><u>durchl.</u><lbr type="forced"/>
+<tshtm>________</tshtm><ts>_______________________</ts> – für die <rend class="latin">Flautotrav<abbr type="curve">:</abbr></rend><ts>___</ts><u>für den Herzog <rend class="latin">Louis</rend>&#160;<abbr expand="von">v</abbr>&#160;<rend class="latin">Wir=</rend></u><lbr type="forced"/>
+<tshtm>________________________</tshtm><ts>___________________________________________</ts><u><rend class="latin">tenberg</rend> dl: in <rend class="latin">Lusana</rend></u><lbr type="forced"/>
+<tshtm>_______________</tshtm><ts>_____________________________</ts>Es wurde in Gegenwart dieser Durchl: Herrn<lbr type="forced"/>
+<tshtm>_______________</tshtm><ts>_________________________________</ts><rend class="latin">Componi</rend>ert.<lbr type="forced"/>
+<u>Viele Stücke</u><ts>________</ts> – für 2 <rend class="latin">Clarini</rend><lbr type="forced"/>
+<tshtm>_________</tshtm><ts>__________________</ts> – für 2 <rend class="latin">Corni</rend><lbr type="forced"/>
+<tshtm>_________</tshtm><ts>__________________</ts> – für 2 <rend class="latin">Corni di Bassetto</rend>.<lbr type="forced"/>
+<u>Viele <rend class="latin">Menueten</rend></u><ts>_____</ts> – mit allerhand Instrumenten.<lbr type="forced"/>
+<u>Aufzüge</u><tshtm>____</tshtm><ts>_________</ts>für Trompett<abbr v="en"/> und Pauken.<lbr type="forced"/>
+<lbr type="forced"/>
+<tshtm>_____________</tshtm><ts>__________________________</ts> – a 2 <rend class="latin">Violini</rend>, 2 <rend class="latin">Corni</rend>, 2 <rend class="latin">Hautb: Basso</rend>&#160;<abbr expand="etc:">p:</abbr><lbr type="forced"/>
+<u>Verschiedene <rend class="latin">Marche</rend></u><ts>________</ts> – <u><rend class="latin">militair</rend>sche</u> mit 2 <rend class="latin">Haut:</rend> 2 <rend class="latin">Corni &#38; fagotto</rend>.<lbr type="forced"/>
+<tshtm>_____________</tshtm><ts>__________________________</ts> – <rend class="latin">à</rend> 2 <rend class="latin">Violini e Basso</rend><lbr type="forced"/>
+<pg n="3"/>
+<u>2 geschriebne Bücher</u><ts>_____</ts>mit <rend class="latin">Clavier</rend>stücken, die er in <rend class="latin">London, Holland</rend>&#160;<abbr expand="etc:">p:</abbr><lbr type="forced"/>
+<tshtm>_____________</tshtm><ts>________________________</ts>nach und nach <rend class="latin">Componi</rend>erte.<lbr type="forced"/>
+<u>Eine <rend class="latin">Fuge</rend></u><ts>___</ts> – <ts>___</ts>fürs <rend class="latin">Clavier</rend>.<lbr type="forced"/>
+<u>Eine <rend class="latin">Fuge</rend></u><ts>___</ts> – <ts>___</ts><rend class="latin">à</rend> 4 <rend class="latin">Voci</rend>.<lbr type="forced"/>
+<u>Ein <rend class="latin">Veni Sancte Spiritus</rend></u><ts>_____</ts><rend class="latin">à</rend> 4 <rend class="latin">Voci</rend> 2 <rend class="latin">Violini</rend> 2 <rend class="latin">Hautb<abbr type="curve">:</abbr></rend> 2 <rend class="latin">Corni</rend><lbr type="forced"/>
+<tshtm>______________</tshtm><ts>_________________________</ts><rend class="latin">Clarini Tympani Viola e Basso</rend>&#160;<abbr expand="etc:">p:</abbr>  <add_note type="inline" schr_id="75929">1768.</add_note><lbr type="forced"/>
+<add_note type="inline" schr_id="75929"><ts>_______________________________________________________________________</ts>1768.</add_note><lbr type="forced"/>
+<u>Die <rend class="latin">operetta Bastien</rend> und <rend class="latin">Bastie<abbr type="topline" expand="nn">n</abbr>e</rend>,</u> im Teutsch<abbr v="en"/>, hat er kürzlich hier<lbr type="forced"/>
+<tshtm>__________________________</tshtm><ts>__________________</ts>in die Musik gesetzt.<lbr type="forced"/>
+<add_note type="inline" schr_id="75929">#</add_note><lbr type="forced"/>
+<u>Und nun die <rend class="latin">opera Buffa La Finta Semplice</rend></u>, die in der <u><rend class="latin">OriginalSpart</rend></u><lbr type="forced"/>
+<ts>_________________________________</ts><u>558 seiten</u> beträgt.  <add_note type="inline" schr_id="75929">1768.</add_note><lbr type="forced"/>
+Überdas eine Grosse Messe mit 4. Singsti<abbr type="topline" expand="mm">m</abbr><abbr v="en"/> 2 <rend class="latin">Violin<abbr v="en"/></rend> 2 <rend class="latin">Hautb<abbr type="curve">.</abbr></rend><lbr type="forced"/>
+<ts>_______</ts>2 <rend class="latin">Violen</rend> 4 <rend class="latin">Clarinis Tymp:</rend>&#160;<abbr expand="etc:">p:</abbr>  <add_note type="inline" schr_id="75929">1768.</add_note><lbr type="forced"/>
+Eine kleinere Messe <rend class="latin">à</rend> 4 <rend class="latin">Vocibus</rend> 2 <rend class="latin">Violinen</rend>&#160;<abbr expand="etc:">p:</abbr>  <add_note type="inline" schr_id="75929">1768.</add_note><lbr type="forced"/>
+Ein grosses <rend class="latin">Offertorium à 4 Vocibus</rend>&#160;<abbr expand="etc:">p:</abbr> 2 <rend class="latin">Violinis</rend>&#160;<abbr expand="etc:">p:</abbr>&#160;<rend class="latin">Clarini</rend>&#160;<abbr expand="etc:">p:</abbr><lbr type="forced"/>
+<add_note type="inline" schr_id="75929"><ts>___________________________________________________________________________________</ts>1768.</add_note><lbr/>
+<lbr/>
+<add_note type="inline" schr_id="75929"># geschrieben auf <u>Kaiser Josephs</u> Befehl.</add_note>
+<lbr type="forced"/>
+<add_seal type="owner">
+CONSERVATOIRE N<h>LE</h> DE MUSIQUE PARIS<lbr/>
+BIBLIOTHEQUE</add_seal>
+<pg n="4"/>
+<vacat/>
+</NI>
+</letter></text>
+</MUP>

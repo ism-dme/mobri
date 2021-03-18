@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2020">2020-02</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=675</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Verbleib unbekannt (Vorlage: Abschrift um 1768 in D-B)</bibl>
+            <bibl type="source" subtype="RISM">Verbleib unbekannt, Vorlage: Abschrift um 1768 in D-B</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:36:48 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_116.mup">
+<letter bd="116">
+<NI src="unbekannt">
+<HEADER id="675">LEOPOLD MOZART AN LORENZ HAGENAUER IN SALZBURG<lbr/>
+WIEN, 22. SEPTEMBER 1767</HEADER>
+<pg n="1"/>
+<add_num schr_id="57010" impl="crayon" color="red"><ts>_______________________</ts>42</add_num>
+<ts>___________________________</ts><tspdf>\hfill </tspdf>Wienn den 22. <rend class="latin">Sept<abbr type="curve">:</abbr></rend><lbr type="forced"/>
+<ts>_________________________</ts><tshtm>________________________</tshtm><tspdf>\hfill </tspdf>1767.<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____</ts>Von unserm Wohlse&#255;n auf der Reiße<lbr/>
+wird ihnen die Frau Reifenstulin, und<lbr type="BD"/><lbr/>
+auch der <rend class="latin">general Platzi</rend>sche bediente Chri<pc force="weak">=</pc><lbr/>stian bereits einige Nachricht gegeben<lbr type="BD"/><lbr/>
+haben. Wir sind den ersten Tag bis<lbr/>
+Vöckelpruck, den zwe&#255;ten Mittags nach<lbr type="BD"/><lbr/>
+Lambach |: wo wir im Kloster zu Mittag<lbr/>
+assen :| und Abends nach Lintz<lbr type="BD"/> gefahren.<lbr/>
+Wir wurden auch gleich nach der Kirche<lbr/>
+fortgereiset se&#255;n, wenn uns<lbr type="BD"/> nicht der herr<lbr/>
+Prelat von Lambach zum Mittag essen<lbr/>
+gebethen hätte. Wir<lbr type="BD"/> wohnten be&#255;m<lbr/>
+grünnen Baum in der Vorstatt, und da<lbr/>
+das Lambacher Haus<lbr type="BD"/> gleich nahe be&#255; ist;<lbr/>
+so ließ ich ihm den Abend um 9 Uhr noch<lbr/>
+meine Ankunft<lbr type="BD"/> wissen. Wir giengen<lbr/>
+Sontags nicht mehr weiter als bis auf den<lbr/>
+Strengberg,<lbr type="BD"/> Montag Mittags nach Melck,<lbr/>
+wo wir nach dem Tische ins Kloster hinauf<lbr type="BD"/><lbr/>
+<pg n="2"/>
+giengen, uns die Zimmer zeigen liessen,<lbr/>
+und uns weiters nicht zu kennen<lbr type="BD"/> gaben,<lbr/>
+als bis wir be&#255; Beschauung der Kirche<lbr/>
+und der Orgel, dem Organisten<lbr type="BD"/> Gelegen<pc force="weak">=</pc><lbr/>heit gaben dem Wolfganggangganggerl<lbr/>
+am Spielen zu kennen, oder<lbr type="BD"/> vielmehr zu<lbr/>
+errathen. Wir sassen aber auch gleich<lbr/>
+darauf in Wagen und<lbr type="BD"/> fuhren nach St.<lbr/>
+Pelten, und den anderen Tag Morgens<lbr/>
+nach Burckerstorf<lbr type="BD"/> und Wien.<lbr type="forced"/>
+<ts>_____</ts>Von der Hauptmauth will ihnen nur<lbr/>
+so viel sagen, daß alles bis auf das<lbr type="BD"/><lbr/>
+Marck durchsucht wird, und das ich über<lbr/>
+eine Stund aufgehalten wurde. Mei<pc force="weak">=</pc><lbr/>ne<lbr type="BD"/>&#160;<rend class="latin">Addresse</rend> werden sie noch nicht haben.<lbr/>
+Es ist in <u>der Weinburggasse im<lbr type="BD"/>&#160;<rend class="latin">cari<pc force="weak">=</pc><lbr/>volti</rend>schen Hause be&#255; Herrn Schmalecker<lbr/>
+im 2.<h>ten</h> Stock.</u> Es wird aber<lbr type="BD"/> besser<lbr/>
+se&#255;n etwa die Brief an herrn Peisser<lbr/>
+zu schicken. Von unsern Verrich<pc force="inter">=</pc><lbr/>tungen kann noch gar nichts berichten.<lbr/>
+S:<h>e</h> Ma&#255;estät der Ka&#255;ser sind erst<lbr type="BD"/> aus<lbr/>
+<pg n="3"/>
+Ungarn zurück gekommen; und die Ka&#255;<pc force="weak">=</pc><lbr/>serin Maiestätt hatten dieser Täge<lbr type="BD"/> eine<lbr/>
+Andacht wegen dem Todtfall des seel: Ka&#255;<pc force="weak">=</pc><lbr/>sers, eine Andacht, die sie alle<lbr type="BD"/> Monat<lbr/>
+vornimmt. Es giebt übrigens alle Ta<pc force="weak">=</pc><lbr/>ge oder <rend class="latin">opera Seria</rend> oder <rend class="latin">opera<lbr type="BD"/> Buffa</rend><lbr/>
+oder <rend class="latin">Comoedie</rend>. Am Sonntage war<lbr/>
+<rend class="latin">Ball</rend> be&#255;m <rend class="latin">Neapolitani</rend>schen Gesandten,<lbr type="BD"/><lbr/>
+und Morgen den 23. wird im Liechten<pc force="weak">=</pc><lbr/>steinischen garten <rend class="latin">Illumination</rend>, <rend class="latin">Ball</rend> und<lbr type="BD"/><lbr/>
+Feuerwerck se&#255;n. Ich hoffe übrigens<lbr/>
+sie werden alle sich wohl befinden. Ich<lbr type="BD"/><lbr/>
+kann unmöglich mehr schreiben, die Feder<lbr/>
+ist zum fluchen ellendig. Wir<lbr type="BD"/> em<pc force="weak">=</pc><lbr/>pfehlen uns alle.<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____</ts>Ich habe vergessen dem Herrn Jo<pc force="weak">=</pc><lbr/>seph dasjenige herbe&#255;zurichten, was<lbr/>
+an<lbr type="BD"/> meinem Bruder hätte sollen geschicket<lbr/>
+werden. Nun ist es vorbe&#255;. Sollte<lbr type="BD"/><lbr/>
+eine Gelegenheit se&#255;n, so wäre es der<lbr/>
+gewisse <u>Braun gelblichte Rock,</u> welcher<lbr type="BD"/><lbr/>
+<pg n="4"/>
+im <rend class="latin">Cabinetl</rend> am Klaiderholz hängt, oder<lbr/>
+auf dem Bett liegt. Und auf der<lbr type="BD"/><lbr/>
+Erden liegen 2. mit spagat in Fluspapier<lbr/>
+zusammen gebundene Packel, diese<lbr type="BD"/> gehören<lbr/>
+auch dazu. mit der <rend class="latin">Adresse</rend>, H<abbr type="curve">:</abbr> Joseph<lbr/>
+Ignati Mozart burgerl: Buch<lbr type="BD"/>binder in<lbr/>
+Augsburg. im Affenwald.<lbr type="forced"/>
+<ts>_____</ts><rend class="latin">Oh, che Confusione</rend>!<lbr/>
+<lbr/>
+<tshtm><additum>[... (Beginn der Abschrift des Briefes vom 29. September 1767)]</additum></tshtm>
+</NI>
+</letter>
+</text>
+</MUP>

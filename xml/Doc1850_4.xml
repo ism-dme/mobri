@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2015">2015-5</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=2856</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:42:45 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/Doc1850_4.mup">
+<HEADER id="2856">DAVID VON MINDEN AN FRANZ VON HILLEPRANDT IN SALZRBUG<lbr/>
+ZIEGELHOF BEI KÖNIGSBERG, 14. APRIL 1850</HEADER>
+<pg n="1"/>
+<add_num type="inline"><u>N:° 254.</u></add_num><add_num type="inline" impl="pencil"><ts>_________________________________</ts><rend class="latin">ad</rend> 31.</add_num>
+<add_note><rend class="latin">Fasc.</rend> I.</add_note>
+
+<ts>_____</ts>Hochgeehrter Herr!<lbr type="forced"/>
+<lbr type="forced"/>
+Ihr leztes sehr werthes Schreiben habe ich einige<lbr/>
+Tage aus dem Grunde zu beantworten ge<pc force="weak">-</pc><lbr/>zögert, um Ihnen gleichzeitig etwas defini<pc force="weak">-</pc><lbr/>tives meiner Wirksamkeit für Ihr schönes<lbr/>
+Institut, welches Sie die Ehre zu begründen<lbr/>
+hatten, mittheilen zu können.<lbr type="forced"/>
+Ich ein eben solcher Feind der Öffentlichkeit<lbr/>
+als Sie, habe es vorgezogen: solche vorläu<pc force="weak">-</pc><lbr/>fig ganz ausser Acht zu lassen; u. es ist mir<lbr/>
+durch meine vielfachen Verbindungen ge<pc force="weak">-</pc><lbr/>lungen: die musikalische Akademie, den<lbr/>
+Sänger= u. Tonkünstlerverein zu Königs<pc force="weak">-</pc><lbr/>berg für meine Bestrebungen zu gewin<pc force="weak">-</pc><lbr/>nen. Alle drei Gesellschaften sind bereits<lbr/>
+in den Vorbereitungen zu Concerten (deren<lbr/>
+Programm nach meinem Wunsche nur<lbr/>
+aus Mozart'schen Piecen bestehen soll)<lbr/>
+für Ihr herrliches Institut zu Salzburg be<pc force="weak">-</pc><lbr/>griffen; u. es ist, hochgeehrter Herr! wie ich<lbr/>
+Sie brieflich kennen zu lernen die Ehre<lbr/>
+hatte, nicht die Pietät für den großen, unsterb<pc force="weak">-</pc><lbr/>lichen Meister allein, welche mich zu allen<lbr/>
+diesen Schritten bewegen, sondern auch für<lbr/>
+den ehemaligen Gründer eines Institutes,<lbr/>
+dessen glorreiche Fortführung bis auf die<lbr/>
+spätesten Tage der <u>Welt</u> zu sorgen anheim<lbr/>
+fällt. Ich darf es hoffen die Sache wird gute<lbr/>
+Früchte bringen u. vielleicht andere Provin<pc force="weak">-</pc><lbr/>zen u. Länder zur Nacheiferung anspornen.<lbr type="forced"/>
+<lbr/>
+<ts>______________________________________</ts><conv><u>Denn</u></conv>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="2"/>
+Denn in einer Zeit, in welcher manches Große<lbr/>
+der Vergangenheit hinzusterben droht, ist es<lbr/>
+Ehrensache jedes Gebildeten für die Größe zu<lbr/>
+arbeiten u. zu opfern, damit spätere Geschlech<pc force="weak">-</pc><lbr/>ter, in vielleicht besseren Tagen, auch noch die<lbr/>
+Früchte dieser Bemühungen genießen können.<lbr/>
+Was irgend in meinen Kräften steht, soll<lbr/>
+u. wird geschehen das schöne Werk zu för<pc force="weak">-</pc><lbr/>dern!<lbr type="forced"/>
+Was Ihr specielles, gütiges Eingehen auf das<lbr/>
+Institut u. die katholische Kirche betrifft,<lbr/>
+so bin ich gewiß Einer von denjenigen,<lbr/>
+welche (obgleich nicht Katholik) die Größe der<lbr/>
+Geister, welche unter der Obhut dieser Kirche er<pc force="weak">-</pc><lbr/>standen, im höchsten Grade zu ehren weiß. &#8211; <lbr/>
+Raphael u. Mozart sind unter ihren Einflüs<pc force="weak">-</pc><lbr/>sen die vorzugsweise größesten Männer<lbr/>
+der Kunst geworden; aller der anderen bedeu<pc force="weak">-</pc><lbr/>tenden Namen, welche sich an diese reihen,<lbr/>
+weiter nicht zu gedenken. Beide großen Talen<pc force="weak">-</pc><lbr/>te mußten die Welt so jung u. frühe ver<pc force="weak">-</pc><lbr/>lassen u. konnten als Erbschaft für die Nach<pc force="weak">-</pc><lbr/>welt Jeder nur eine Schule gründen, deren<lbr/>
+Resultate die ihrer Meister noch lange nicht<lbr/>
+erreicht haben.<lbr type="forced"/>
+Mit wahrem Hochgefühle gedenke ich jezt noch<lbr/>
+manchmal in einsamen Stunden eines<lbr/>
+Hochamtes, welchem ich auf meiner Reise (vor<lbr/>
+jezt zwölf Jahren) in dem ehrwürdigen Dome<lbr/>
+zu Cöln beizuwohnen Gelegenheit hatte. Es<lbr/>
+war für mich, in der erhabenen Umgebung<lbr/>
+<lbr/>
+<tshtm>____________________________________________________</tshtm><u>die</u><lbr/>
+<pg n="3"/>
+ergreifendste Musik, welche <suppl hand="self" pos="supra">ich je gehört u. die</suppl> mich fast zum<lbr/>
+Übergange zur katholischen Kirche in ihre<lbr/>
+Allmacht bewogen hätte. &#8211; So viel steht fest:<lbr/>
+dass für uns Menschen, die wir vermöge<lbr/>
+unseres materiellen Theils auf sinnliche Ein<pc force="weak">-</pc><lbr/>drücke viel geben müssen, in <u>keiner</u> Reli<pc force="weak">-</pc><lbr/>gion solche Höhepunkte, solche begeisternde<lbr/>
+Augenblicke herauszufinden sein dürften.<lbr type="forced"/>
+<ts>_____</ts>Neben der Musik habe ich stets mit<lbr/>
+hohem Interesse mich (obgleich selbst nicht<lbr/>
+Maler) dem Sammeln älterer Kunstwerke<lbr/>
+in Gemälden u. Kupferstichen hingegeben;<lbr/>
+u. weiß aus den mannigfachen Studien, wel<pc force="weak">-</pc><lbr/>che ich von ihnen gemacht am besten was auch<lbr/>
+diese Kunst, ohne Einfluß der katholischen<lbr/>
+Kirche geblieben wäre. &#8211; Raphael, Correggio,<lbr/>
+Michel Angelo, Carlo Dolce, die Caracci u. da Vin<pc force="weak">-</pc><lbr/>ci sind nur (wie der Stoff zu ihren Schöpfun<pc force="weak">-</pc><lbr/>gen zeigt) in der Begeisterung <u>ihrer</u> Reli<pc force="weak">-</pc><lbr/>gion <u>so groß</u> geworden!<lbr type="forced"/>
+Wegen eines Mozart'schen Autographen sehe ich<lbr/>
+Ihrer freundlichen Mittheilung entgegen<lbr/>
+u. empfehle mich Ihnen in bester Zuversicht<lbr/>
+für unsere gemeinsame Sache eben so hoch<pc force="weak">-</pc><lbr/>achtungsvoll als ganz ergebenst<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____________</ts><tspdf>\hfill </tspdf>Minden.<lbr type="forced"/>
+<ts>_______</ts><tspdf>\hfill </tspdf>Gutsbesitzer auf Ziegelhof<lbr type="forced"/>
+<ts>_______</ts><tspdf>\hfill </tspdf>bei Könisgberg in Preussen<lbr type="forced"/>
+<ts>__________________</ts><tspdf>\hfill </tspdf>p 14' April 1850.<lbr/>
+<pg n="4"/>
+<vacat/></text>
+</MUP>

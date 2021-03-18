@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2017">2017-10</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1544</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">D-KA</bibl>
+            <bibl type="source" subtype="RISM">D-KA (Badische Landesbibliothek</bibl>
+            <bibl type="source" subtype="RISM">Musikabteilung)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:41:25 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_974.mup">
+<letter bd="974">
+<NI src="D-KA">
+<HEADER id="1544">WOLFGANG AMADÉ MOZART AN SEBASTIAN WINTER IN DONAUESCHINGEN<lbr/>
+WIEN, 8. AUGUST 1786</HEADER>
+<pg n="1"/>
+<ts>_____</ts>liebster freund! &#8211; gesellschafter meiner Jugend!<lbr type="forced"/>
+<lbr type="forced"/>
+Mit ausnehmenden vergnügen erhielt ich ihr schreiben, und nur unaufschieb<lbr type="BD"/>liche<lbr/>
+geschäfte hinderten mich ihnen eher zu antworten. &#8211; mir ist es sehr lieb<lbr type="BD"/> daß<lbr/>
+sie sich an mich selbst gewendet haben. ich hätte längst ihrem verehrungs<lbr type="BD"/>würdigen<lbr/>
+fürsten |: welchem ich sie bitte mich zu füssen zu legen, und in<lbr type="BD"/> meinem Namen für<lbr/>
+das mir zugeschickte geschenk gehorsamst zu danken :|<lbr type="BD"/> etwas von meiner geringen<lbr/>
+arbeit geschickt, we<abbr type="topline" expand="nn">n</abbr> ich gewusst hätte, ob und<lbr type="BD"/> was mein vater vieleicht schon<lbr/>
+dahin geschickt hat. &#8211; ich setze am Ende des<lbr type="BD"/>wegen eine liste von meinen<lbr/>
+Neuesten geburten be&#255;, woraus Seine Durchl:<lbr type="BD"/> nur zu wählen belieben möchten,<lbr/>
+um daß ich Hochdieselben bedienen kö<abbr type="topline" expand="nn">n</abbr>e.<lbr type="BD"/> &#8211; ich werde, we<abbr type="topline" expand="nn">n</abbr> es S: D: gefällig<lbr/>
+se&#255;n wird, in zukunft i<abbr type="topline" expand="mm">m</abbr>er mit allen<lbr type="BD"/> neu verfertigten Stücken aufwarten.<lbr/>
+überdies unterstehe ich mich S: D: einen<lbr type="BD"/> kleinen Musikalischen Antrag zu<lbr/>
+machen, und bitte sie mein freund, denselben<lbr type="BD"/> ihrem fürsten vorzutragen. &#8211; <lbr/>
+da S: D: ein <rend class="latin">Orchestre</rend> besitzen, so kö<abbr type="topline" expand="nn">n</abbr>ten<lbr type="BD"/> Hochdieselben <u>eigenst nur für<lbr/>
+ihren Hof allein</u> von mir gesetzte Stücke be<lbr type="BD"/>sizen, welches nach meiner geringen<lbr/>
+Einsicht sehr angenehm se&#255;n würde. &#8211;<lbr type="BD"/> we<abbr type="topline" expand="nn">n</abbr> S: D: mir die gnade anthun<lbr/>
+wollten, mir eine gewisse Anzahl <rend class="latin">Sinfonien</rend>,<lbr type="BD"/>&#160;<rend class="latin">Quartetten</rend>, <rend class="latin">Concerten</rend> auf ver<pc force="weak">=</pc><lbr/>schiedene <rend class="latin">instrumenten</rend>, oder andere Stücke nach<lbr type="BD"/> belieben das Jahr hindurch<lbr/>
+anzuschaffen, und eine besti<abbr type="topline" expand="mm">m</abbr>te Jährliche be<lbr type="BD"/>lohnung dafür auszuSprechen, so<lbr/>
+würden S: D: geschwinder und richtiger<lbr type="BD"/> bedient werden, und ich: da es eine<lbr/>
+sichere arbeit wäre, ruhiger arbeiten. &#8211;<lbr type="BD"/> Ich hoffe nicht daß S: D: meinen<lbr/>
+Antrag ungnädig aufnehmen werden, we<abbr type="topline" expand="nn">n</abbr><lbr type="BD"/> er Hochdieselben auch wirklich nicht<lbr/>
+<pg n="2"/>
+anstehen sollte, de<abbr type="topline" expand="nn">n</abbr> er entSpringt in<lbr type="BD"/> der that aus einem wahren trieb und<lbr/>
+E&#255;fer S: d: mit thätigkeit zu diensten<lbr type="BD"/> zu se&#255;n, welches nur in einem ähnlichen<lbr/>
+falle möglich ist, we<abbr type="topline" expand="nn">n</abbr> man, wenig<lbr type="BD"/>stens auf einer Seite in etwas unter<pc force="weak">=</pc><lbr/>stüzet, die geringern arbeiten doch eher<lbr type="BD"/> entbehren ka<abbr type="topline" expand="nn">n</abbr>.<lbr type="forced"/>
+<tshtm>____</tshtm>in Erwartung einer baldigen Antwort und der befehle Ihres schätzbaresten<lbr type="BD"/><lbr/>
+<tshtm>____</tshtm>fürstens bin ich auf i<abbr type="topline" expand="mm">m</abbr>er<lbr type="forced"/>
+<lbr type="forced"/>
+<u>Wie<abbr type="topline" expand="nn">n</abbr></u> den 8:<h>ten</h>&#160;<rend class="latin">August</rend>&#160;<uu>1786</uu><lbr type="forced"/>
+<ts>_________</ts><tshtm>____________________________________________________________</tshtm><tspdf>\hfill </tspdf>ihr wahrer freund und diener<lbr type="forced"/>
+<ts>_________</ts><tshtm>_____________________________________________________________________</tshtm><tspdf>\hfill </tspdf>Wolfgang Amadè Mozart <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<pg n="3"/>
+<vacat/>
+<pg n="4"/>
+<tspdf>\newpage</tspdf> 
+<anschrift rot="270">
+<add_seal type="post">Von Wien</add_seal><lbr/>
+<rend class="latin">À<lbr type="forced"/>
+Monsieur<lbr type="forced"/>
+Monsieur Sebastien Winter<lbr type="forced"/>
+Valet de chambre de<lbr type="BD"/><lbr type="forced"/>
+S: A: S:<lbr type="forced"/>
+à<lbr type="forced"/>
+Donau<uu>Eschingen</uu></rend></anschrift>
+<lbr/>
+<add_empf rot="90" schr_id="60645">Erhalt<abbr v="en"/> d<abbr v="en"/>: 18<h><uu>t</uu></h>: <rend class="latin">aug<abbr type="curve"></abbr></rend> u: Beantwortet mit übersendung<lbr/>
+der gewählt<abbr v="en"/>&#160;<rend class="latin">Musique Thema</rend> d<abbr v="en"/>: 13<h><uu>tn</uu></h> 7<rend class="latin">bris</rend>&#160;<rend class="latin">d: a:</rend></add_empf>
+<pg n="5"/>
+<ts>_________________________________________________</ts>di Wolfgango Amadeo Mozart.<lbr type="forced"/>
+<lbr type="forced"/>
+<object type="mus" src="BD_0974_Mus"></object>
+<lbr/>
+<add_note schr_id="60645">daß nicht durchgestrichene, ist gewählet word<abbr v="en"/>:<lbr/>
+d<abbr v="en"/>: 11<h><uu>tn</uu></h>: 7<rend class="latin">bris</rend>&#160;<u><abbr type="topline" expand="">786</abbr></u>. Donauesching<abbr v="en"/>&#160;<rend class="latin">S. Winter</rend>:</add_note>
+<pg n="6"/>
+<vacat/>
+</NI>
+</letter>
+</text>
+</MUP>

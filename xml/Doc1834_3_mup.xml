@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2009">2009-08-20</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=124</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:29:30 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/Doc1834_3_mup.txt">
+<HEADER id="124">JOHANN GABRIEL SEIDL, PROLOG ZUM MUSIKFEST IN SALZBURG AM 10. SEPTEMBER 1834, VERANSTALTET VON ERNST UND CAROLINE KRÄHMER<lbr/>
+Mit Widmung von Ernst Krähmer an Constanze Nissen, Salzburg, 11. September 1834</HEADER>
+
+
+<pg n="1"/>
+<ts>___________________________</ts><rend class="latin">Prolog</rend><lbr type="forced"/>
+<lbr type="forced"/>
+zum großen Musikfeste, der Vaterstadt des unsterblichen <rend class="latin">W. A.</rend><lbr type="forced"/>
+<rend class="latin">Mozart</rend> gewidmet, eigens für dieses Erinnerungsconcert gedichtet<lbr type="forced"/>
+von Profeßor Joh. Gabriel Seidl, das Ganze veranstaltet<lbr type="forced"/>
+von <rend class="latin">Ernst</rend> und <rend class="latin">Caroline Krähmer</rend> am 10. September 1834, im<lbr type="forced"/>
+<ts>________________</ts>k: k: Theater zu Salzburg.
+<lbr type="forced"/>
+<lg type="poem"><lg type="stanza" n="1">Nicht ohne Rührung legen wir die Spende,<lbr/>
+Die uns von drey verlesnen Meistern blieb,<lbr/>
+Als ein Erinnrungspfand in Eure Hände,<lbr/>
+Euch innigst bittend: „Nehmt damit vorlieb!”<lbr/>
+Laßt sie ein freundlich Stammbuchblatt Euch bleiben,<lbr/>
+Auf dem wir uns in Eure Herzen schreiben!</lg>
+
+<lg type="stanza" n="2">Den <u>kleinen</u> Gaben steh’n ja große Namen,<lbr/>
+Als schirmender Geleitsbrief, hell voran! &#8211; <lbr/>
+Wer kennt’ <u>ihn</u> nicht, den <u>kühnen</u>, <u>wundersamen,</u><lbr/>
+Im Wonnemeer des Wohllaut’s <u>tauben</u> Mann?<lbr/>
+Den eifernd, scheint es, die <u>Natur</u>&#160;<u>verkürzte,</u><lbr/>
+Weil ihm die <u>Kunst</u> den Becher segnend würzte? &#8211; </lg><lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="2"/>
+<lg type="stanza" n="3">Und wer vergaß des lieben <u>Greises</u> wohl, <lbr/>
+Der uns der <u>Schöpfung</u> Werk gemahlt in Klängen?<lbr/>
+Der unsers Glaubens heiliges Symbol<lbr/>
+Verherrlicht hat in rauschenden Gesängen?<lbr/>
+Der mild an unserm Ohr, in Melodien,<lbr/>
+Die <u>Jahreszeiten</u> ließ vorüberzieh’n? &#8211;</lg>
+
+<lg type="stanza" n="4">Ja du, <u>Beethoven</u>, der du, wie ein Aar,<lbr/>
+Hoch überm Meer der Harmonien schwebest!<lbr/>
+Du, Vater Haydn, der du, so mild und klar,<lbr/>
+In heiterer Andacht uns gen Hi<abbr type="topline" expand="mm">m</abbr>el hebest!<lbr/>
+Ihr seyd wohl würdig, daß man ernst gesti<abbr type="topline" expand="mm">m</abbr>t,<lbr/>
+Selbst eurer Gaben <u>kleinste</u> gerne ni<abbr type="topline" expand="mm">m</abbr>t!</lg>
+
+<lg type="stanza" n="5">Noch aber ist <u>ein</u> Dritter, &#8211; nicht <u>der</u> Dritte,<lbr/>
+Vielleicht der <u>Erste</u> gar im schönen Bund!<lbr/>
+Von <u>ihm</u> auch geben wir, in Eurer Mitte,<lbr/>
+Heut ein bescheidnes Erbstück freudig kund!<lbr/>
+Doch da ich seinen <u>Namen</u> Euch will nennen<lbr/>
+Schein’ ich erst <u>Ort</u> und <u>Stelle</u> zu erkennen!</lg>
+<pg n="3"/>
+<lg type="stanza" n="6"><u>Hier</u> ist’s ja, wo vor <u>acht und siebzig Jahren,</u><lbr/>
+Er froh das Licht der schönen Welt begrüßt;<lbr/>
+<u>Hier</u> vor dem heil’gen Heerde seiner <u>Laren</u><lbr/>
+Hat, weihend, ihn sein Genius geküßt,<lbr/>
+Und ihm schon in der <u>Kindheit</u> goldene Stunden<lbr/>
+Die <u>ersten</u> Lorbeern um das Haupt gewunden.</lg>
+
+<lg type="stanza" n="7">Und <u>Mozart</u> klang es bald durchs deutsche Land,<lbr/>
+Und <u>Mozart</u> klang es übern Scheine wieder;<lbr/>
+Zerrissen war der Formen altes Band,<lbr/>
+Ein neuer Hauch durchfuhr das Reich der Lieder;<lbr/>
+Es ist der Hauch des <u>Wahren</u>, <u>Ewigschönen,</u><lbr/>
+Was <u>der</u> beseelt, wird noch der <u>Nachwelt</u> tönen!</lg>
+
+<lg type="stanza" n="8">Drum laßt uns, in des <u>Meisters</u>&#160;<u>Vaterstadt,</u><lbr/><u>
+Ihm</u> hul’gend, heut ein dankbar Fest begehen!<lbr/>
+Die <u>einz’gen </u>Geistesbrüder, die er hat,<lbr/>
+Sie mögen, <u>ehrend</u>, ihm zur Seite stehen!<lbr/>
+Nur <u>solche</u> Spenden sind ja <u>Salzburg’s</u> werth,<lbr/>
+An dem die <u>Welt</u>&#160;<u>des Meisters Heimath</u> ehrt!</lg></lg>
+<pg n="4"/>
+<NS schr_id="76369">Erinnern Sie sich zuweilen, hochverehrte, hochgeschätzte Frau<lbr/>
+an<lbr type="forced"/>
+<ts>________________________________</ts>Ihren<lbr type="forced"/>
+<ts>___</ts>Salzburg<ts>__________________</ts>Sie tief verehrenden<lbr type="forced"/>
+am 11 September<lbr type="forced"/>
+<ts>_____</ts>1834.<ts>______________________</ts>Ernst Krähmer.</NS></text>
+</MUP>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2011">2011-05</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=777</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">B-MA</bibl>
+            <bibl type="source" subtype="RISM">B-MA (Musée de Mariemont</bibl>
+            <bibl type="source" subtype="RISM">Bibliothèque)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:37:22 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_216.mup">
+<letter bd="216"><NI src="B-MA"><HEADER id="777">LEOPOLD MOZART AN MARIA ANNA MOZART IN SALZBURG<lbr/>
+MAILAND, 27. OKTOBER 1770<lbr/>
+mit Nachschrift von Wolfgang Amadé Mozart an Maria Anna (Nannerl) Mozart</HEADER>
+<pg n="1"/>
+<ts>______________________</ts><tshtm>__________________________________________________________________________________</tshtm><tspdf>\hfill </tspdf><rend class="latin">Milano</rend> 27 <rend class="latin">d'</rend><rend class="latin">ottobre</rend><lbr type="forced"/>
+<ts>______________________</ts><tshtm>_________________________________________________________________________________________________</tshtm><tspdf>\hfill </tspdf><u>1770.</u><lbr type="forced"/>
+<lbr type="forced"/>
+Mein erstes Schreib<abbr v="en"/> vom 20<h>t<abbr v="en"/></h> diss aus Ma&#255;land wirst du erhalt<abbr v="en"/> hab<abbr v="en"/>.<lbr type="BD"/> den nämlich<abbr v="en"/><lbr/>
+Posttag habe auch an S<h>e</h>: Hochf<abbr type="curve">:</abbr> Gnad<abbr v="en"/> geschrieb<abbr v="en"/>. gieb mir<lbr type="BD"/> Nachricht, ob S<h>e</h>: Hochf<abbr type="curve">:</abbr> Gd<abbr type="curve">:</abbr><lbr/>
+solch<abbr v="en"/> erhalt<abbr v="en"/> hab<abbr v="en"/>, du wirst sond<abbr v="er"/> Zweifl<lbr type="BD"/> solches bald erfahr<abbr v="en"/>. wir sind Gott lob ge<pc force="weak">=</pc><lbr/>sund, und da i<abbr type="topline" expand="mm">m</abbr>er starkes Regenwetter ist, sind wir wenig aus dem Hause geko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>.<lbr/>
+die <rend class="latin">Spangioletta</rend>, die<lbr type="BD"/> du in <rend class="latin">Lyon</rend> geseh<abbr v="en"/>, ist hier, und wird diesen <rend class="latin">Carnevale</rend> in<lbr/>
+<rend class="latin">Verona</rend>&#160;<rend class="latin">reciti</rend>er<abbr v="en"/>.<lbr type="BD"/> sie sagte uns, daß der <rend class="latin">Tenor</rend> aus Deutschland ko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/> werde, und<lbr/>
+be&#255; einem<lbr type="BD"/> Hofe ohnweit Ba&#255;ern in dienst<abbr v="en"/> stehe: ko<abbr type="topline" expand="mm">m</abbr>t vielleicht h<abbr type="curve">:</abbr>&#160;<rend class="latin">Meisner</rend> hin?<lbr/>
+da<abbr type="topline" expand="nn">n</abbr> ich weis daß er das Theater in <rend class="latin">Verona</rend> hätte hab<abbr v="en"/> könn<abbr v="en"/>; vermuthe<lbr type="BD"/> folglich<lbr/>
+daß er es ist. schreibe es mir gleich. wir werd<abbr v="en"/>, we<abbr type="topline" expand="nn">n</abbr> Gott will,<lbr type="BD"/>&#160;<u>nach dem halb<abbr v="en"/></u><lbr/>
+<u>Je<abbr type="topline" expand="nn">n</abbr>er</u> von hier abreis<abbr v="en"/> und über <rend class="latin">Brescia, Verona, vicenza,<lbr type="BD"/> Padua</rend> nach <rend class="latin">Venedig</rend> geh<abbr v="en"/>,<lbr/>
+um aldort das End des <rend class="latin">Carnevals</rend>, der heuer sehr<lbr type="BD"/> kurz ist, zu seh<abbr v="en"/>, und da<abbr type="topline" expand="nn">n</abbr> einige<lbr/>
+<rend class="latin">accademi<abbr v="en"/></rend> in der fast<abbr v="en"/> zu hören, welches,<lbr type="BD"/> wie mir alle sag<abbr v="en"/>, die beste Zeit ist um<lbr/>
+sich zu <rend class="latin">produci</rend>er<abbr v="en"/>. Es ist mir nur<lbr type="BD"/> Leyd, daß wir alsda<abbr type="topline" expand="nn">n</abbr> eine schmutzige<lbr/>
+und vielleicht auch gefährliche nach<lbr type="BD"/> Hausreise hab<abbr v="en"/> werd<abbr v="en"/>, indem durch die gebürge<lbr/>
+we<abbr type="topline" expand="nn">n</abbr> der schnee abgehet es<lbr type="BD"/> im frühjahr nicht lustig zu reis<abbr v="en"/> ist. noch habe ich<lbr/>
+i<abbr type="topline" expand="mm">m</abbr>er im kopfe durch<lbr type="BD"/> Carnth<abbr v="en"/> herauszugeh<abbr v="en"/>, de<abbr type="topline" expand="nn">n</abbr> tyroll habe nun schon<lbr/>
+geseh<abbr v="en"/>, und ich habe<lbr type="BD"/> keine freude den weeg zweymahl zu mach<abbr v="en"/>, wie die Hunde,<lbr/>
+we<abbr type="topline" expand="nn">n</abbr> es nicht<lbr type="BD"/> die Noth erfordert. Ich lasse entzwisch<abbr v="en"/> die 2 Herr<abbr v="en"/> Joha<abbr type="topline" expand="nn">n</abbr> und Joseph<lbr/>
+Hagenauer bitt<abbr v="en"/> sich zu erkundig<abbr v="en"/>, ob ich nicht an einem sichern Ort<lbr type="BD"/> in <rend class="latin">Venedig</rend><lbr/>
+eine <rend class="latin">privat</rend> wohnung hab<abbr v="en"/> könnte. ich werde mich sicher in<lbr type="BD"/>&#160;<rend class="latin">Brescia, Verona</rend>&#160;<abbr expand="etc:">p:</abbr><lbr/>
+und all<abbr v="en"/> dies<abbr v="en"/> Ort<abbr v="en"/> etwas weniges aufhalt<abbr v="en"/>, um im<lbr type="BD"/> Vorbe&#255;geh<abbr v="en"/> die <rend class="latin">opern</rend><lbr/>
+zu sehen, und folglich erst im <rend class="latin">februario</rend>, ja vielleicht<lbr type="BD"/> erst in den erst<abbr v="en"/> tägen<lbr/>
+der Woche nach Lichtmeß in <rend class="latin">Venedig</rend> eintreff<abbr v="en"/>. Herr<lbr type="BD"/> Hafner, dem mich schönstens<lbr/>
+empfehle, hat mir versproch<abbr v="en"/> uns nach <rend class="latin">Venedig</rend> Briefe zu schick<abbr v="en"/>. we<abbr type="topline" expand="nn">n</abbr> er<lbr/>
+<pg n="2"/>
+solche geb<abbr v="en"/> will, kann man sie voraus an<lbr type="BD"/> ein<abbr v="en"/> freund nach <rend class="latin">Venedig</rend> lauff<abbr v="en"/><lbr/>
+lass<abbr v="en"/>, damit ich solche alda finde, de<abbr type="topline" expand="nn">n</abbr><lbr type="BD"/> es wäre u<abbr type="topline" expand="nn">n</abbr>ötig solche nach<lbr/>
+Mayland spatzier<abbr v="en"/> zu schick<abbr v="en"/>. h<abbr type="curve">:</abbr>&#160;<rend class="latin">Misliwetscek</rend><lbr type="BD"/> hat uns in <rend class="latin">Bologna</rend>,<lbr/>
+und wir ihn öfter besucht, er hat sich des h<abbr type="curve">:</abbr> Johannes<lbr type="BD"/> Hagenauer, und ganz<lbr/>
+natürlich des h<abbr type="curve">:</abbr>&#160;<rend class="latin">Cröner</rend> öfters eri<abbr type="topline" expand="nn">n</abbr>ert. Er schrieb ein<lbr type="BD"/>&#160;<rend class="latin">Oratori<abbr v="um"/></rend> für<lbr/>
+<rend class="latin">Padua</rend>, das er nun wird fertig hab<abbr v="en"/>; und da<abbr type="topline" expand="nn">n</abbr> gehet er nach<lbr type="BD"/> Böhm<abbr v="en"/>.<lbr/>
+Er ist ein Ehrenma<abbr type="topline" expand="nn">n</abbr> und wir hab<abbr v="en"/> vollkomne freundschaft<lbr type="BD"/> mit einand<abbr v="er"/><lbr/>gemacht.<lbr type="forced"/>
+unsere Wohnung hier ist nicht weit vom Theater und bestehet in einem<lbr type="BD"/> gross<abbr v="en"/><lbr/>
+Zi<abbr type="topline" expand="mm">m</abbr>er mit einem <rend class="latin">Balcon</rend> und 3 fenster. In diesem Zi<abbr type="topline" expand="mm">m</abbr>er ist ein<lbr/>
+<rend class="latin">Camin</rend>. das schlafzi<abbr type="topline" expand="mm">m</abbr>er ist ebenso gross, mit 2 gross<abbr v="en"/> fenstern, ohne<lbr type="BD"/>&#160;<rend class="latin">Camin</rend>.<lbr/>
+folglich, we<abbr type="topline" expand="nn">n</abbr> wir nicht verfrier<abbr v="en"/>, so sind wir sicher, das wir <suppl hand="self" pos="supra">nicht</suppl><lbr type="BD"/> stinckend werd<abbr v="en"/>;<lbr/>
+den wir hab<abbr v="en"/> Luft genug. das Bett ist 9 gute Ma<abbr type="topline" expand="nn">n</abbr>sspa<abbr type="topline" expand="nn">n</abbr>e<lbr type="BD"/> breit. Nun hab<abbr v="en"/><lbr/>
+wir zi<abbr type="topline" expand="mm">m</abbr>lich weit in die Grafl: <rend class="latin">Firmiani</rend>sche behausung:<lbr type="BD"/> allein es ist nothwendig, daß wir<lbr/>
+itzt nahe beym Theater sind.<lbr type="forced"/>
+Wir wünsch<abbr v="en"/> euch beyd<abbr v="en"/> gute Gesundheit, und absond<abbr v="er"/>lich auch wohlfeilere Zeit<abbr v="en"/>, da<lbr/>
+du mir i<abbr type="topline" expand="mm">m</abbr>er die traurige Nachricht giebst, daß alles theuerer<lbr type="BD"/> wird. was wird<lbr/>
+es da<abbr type="topline" expand="nn">n</abbr> endlich mit Salzb<abbr type="curve">:</abbr> werd<abbr v="en"/>, we<abbr type="topline" expand="nn">n</abbr> man nicht auf<lbr type="BD"/> Mittel denket eine gute<lbr/>
+Pollice&#255; einzuricht<abbr v="en"/>? be&#255; so klein<abbr v="en"/> Besoldung<abbr v="en"/><lbr type="BD"/> werd<abbr v="en"/> wir mit der Zeit nichts als<lbr/>
+bettler seh<abbr v="en"/>. die arm<abbr v="en"/> Hofbedient<abbr v="en"/><lbr type="BD"/> hab<abbr v="en"/> kaum den hunger zu still<abbr v="en"/>, und da ihre<lbr/>
+Kind<abbr v="er"/> nichts lern<abbr v="en"/>, weil die<lbr type="BD"/> Mittl fehl<abbr v="en"/>, so wachs<abbr v="en"/> sie als Müssiggeher auf,<lbr/>
+und die Statt wird in Zeit<lbr type="BD"/> von 20 Jahr<abbr v="en"/> mit einer Menge u<abbr type="topline" expand="nn">n</abbr>ützer Leuthe<lbr/>
+voll se&#255;n, die im Elend<lbr type="BD"/> leben und so wohl dem Hof als dem ganzen <rend class="latin">Publico</rend><lbr/>
+<pg n="3"/>
+zur Last sind. Man wird<lbr type="BD"/> in wenig Jahr<abbr v="en"/>, ja von jahre zu Jahre seh<abbr v="en"/>, daß ich die<lbr/>
+Wahrheit rede.<lbr type="BD"/> We<abbr type="topline" expand="nn">n</abbr> man alles will heurath<abbr v="en"/> lass<abbr v="en"/>, und eine Statt bevölker<abbr v="en"/> will,<lbr/>
+so<lbr type="BD"/> muß man zum voraus schon wiss<abbr v="en"/>, wie man diesen Leut<abbr v="en"/> Arbeit und folglich<lbr/>
+zu leb<abbr v="en"/> giebt. Eine Statt mit Bettler zu bevölkern, ist ganz was leichtes.<lbr/>
+Arbeit, und Verdienst muß man ihn<abbr v="en"/> verschaff<abbr v="en"/> kö<abbr type="topline" expand="nn">n</abbr><abbr v="en"/>; da<abbr type="topline" expand="nn">n</abbr> ist die<lbr type="BD"/> bevölkerung gut.<lbr/>
+und mir scheint es nicht unmöglich; obwohl Salzb<abbr type="curve">:</abbr> sehr<lbr type="BD"/> eingeschrenkt und<lbr/>
+lincks und rechts eingesperrt ist. Man muß in solchem falle<lbr type="BD"/> auf etwas bedacht<lbr/>
+se&#255;n, das man im Land selbst verbrauch<abbr v="en"/> ka<abbr type="topline" expand="nn">n</abbr>: aber<lbr type="BD"/> auch das <rend class="latin">product</rend> im Lande<lbr/>
+hab<abbr v="en"/>.<tshtm>_____</tshtm> Wir küss<abbr v="en"/> euch 100000000 Mahl und<lbr type="BD"/> bin Dein alter<lbr type="forced"/>
+<ts>_____________________</ts><tshtm>______________________________________________________________________________________</tshtm><tspdf>\hfill </tspdf>Mozart <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<lbr type="forced"/>
+Ist die <rend class="latin">Zezische Lotterie</rend> zu stande geko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>? &#8211; &#8211; <lbr type="forced"/>
+<NS type="NS" schr_id="39409" adr_id="48817">
+<ts>_________________________</ts><tshtm>_________</tshtm>Allerliebste schwester!<lbr type="forced"/>
+Du weist daß ich ein grosser schwäzer und auch als derJenige dich verlassen<lbr type="BD"/> habe,<lbr/>
+Nun verlege ich mich aber mehr auf das deüten, indeme der sohn von<lbr type="BD"/> haus stu<abbr type="topline" expand="mm">m</abbr><lbr/>
+und gehörlos ist, von Natur aus schon. Nun habe ich zu schreiben für die <rend class="latin">opera</rend><lbr type="forced"/>
+es ist mir von herzen leid daß ich dich wegen der verlangten<lbr type="BD"/>&#160;<rend class="latin">Menuetti</rend> nicht be<pc force="weak">=</pc><lbr/>dienen kan, doch wen gott will auf ostern vieleicht wirst du<lbr type="BD"/>&#160;<suppl hand="self" pos="supra">sie</suppl> sa<abbr type="topline" expand="mm">m</abbr>t mich selbsten<lbr/>
+beko<abbr type="topline" expand="mm">m</abbr>en. mehr ka<abbr type="topline" expand="nn">n</abbr> ich und weis ich nicht zu<lbr type="BD"/> schreiben, da<abbr type="topline" expand="nn">n</abbr> neües giebt es nichts.<lbr/>
+lebe wohl, und bette für mich. Meinen<lbr type="BD"/> handkus an die mama, und an alle<lbr/>
+meine beka<abbr type="topline" expand="nn">n</abbr>te meine Empfehlung, und<lbr type="BD"/> ich bin wie allzeit dein bruder<lbr type="forced"/>
+<ts>______</ts><tshtm>______________________________________________________________________________</tshtm><tspdf>\hfill </tspdf>wolfgang Mozart <abbr expand="manu propria">mp</abbr>.</NS>
+<pg n="4"/>
+<anschrift><rend class="latin">À Madame<lbr type="forced"/>
+Madame Marie Anne<lbr type="forced"/>
+Mozart<lbr type="forced"/>
+<ts>______________</ts><tshtm>______</tshtm>à<lbr type="forced"/>
+<u>par Mantova</u><ts>________</ts><u>Salzbourg</u></rend></anschrift><lbr/>
+<add_note schr_id="48817"><rend class="latin">N:</rend> 45 aus <rend class="latin">Me&#255;land</rend></add_note></NI></letter></text>
+</MUP>

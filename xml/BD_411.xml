@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2012">2012-10</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=975</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:38:38 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_411.mup">
+<letter bd="411"><HEADER id="975">LEOPOLD MOZART AN WOLFGANG AMADÉ MOZART IN MANNHEIM<lbr type="forced"/>
+SALZBURG, 29. JANUAR 1778</HEADER>
+
+
+<pg n="1"/>
+<rend class="latin">Mon trés cher Fils!</rend><tshtm>__________________________________________________________</tshtm>_<add_num type="inline" impl="pencil">35</add_num><ts>_____________</ts><tspdf>\hfill </tspdf>Salzb<abbr type="curve">:</abbr> d<abbr v="en"/> 29<h>t<abbr v="en"/></h> Je<abbr type="topline" expand="nn">n</abbr>er <lbr type="forced"/>
+<ts>__</ts><tshtm>______________________________________________________________________________________________________</tshtm><ts>________________________</ts><tspdf>\hfill </tspdf><u>1778</u><lbr type="forced"/>
+Hier hast du das Originalschreib<abbr v="en"/> vom h<abbr type="curve">:</abbr>&#160;<abbr expand="von">v</abbr> Heufeld. die Wahrheit zu beke<abbr type="topline" expand="nn">n</abbr><abbr v="en"/>, hab ich<lbr/>
+mir nicht viel grosse Gedank<abbr v="en"/> von der Ganz<abbr v="en"/> Sache gemacht; da<abbr type="topline" expand="nn">n</abbr> mir scheint der <uu>K:</uu> macht<lbr/>
+es wie unser <uu>Erzb<abbr type="curve">:</abbr></uu> &#8211; <u>Es soll etwas<lbr type="BD"/> gutes se&#255;n, und nicht viel kost<abbr v="en"/>.</u> den Brief braucht<lbr/>
+ich nicht mehr zurück, die<lbr type="BD"/> Ma<abbr type="topline" expand="mm">m</abbr>a soll ihn nur behalt<abbr v="en"/>. be&#255; diesem Brief war ein Zettl<lbr/>
+vom <rend class="latin">Director</rend><lbr type="BD"/> Messmer eingeschloss<abbr v="en"/>, der heist von Wort zu Worte also: <u>Liebster Freund!<lbr type="BD"/><lbr/>
+Ich begreiffe gar nicht, wie es möglich, daß sie auf ihre an mich geschickte<lbr type="BD"/> Briefe keine Ant<pc force="weak">=</pc><lbr/>wort soll<abbr v="en"/> erhalt<abbr v="en"/> haben, die ich ihnen doch nach meiner<lbr type="BD"/> Krankheit, freilich etwas späth,<lbr/>
+aber gewiß geschrieben habe. Sollte wohl<lbr type="BD"/> |: welches ich aber kaum glaube :| meine Frau, die<lbr/>
+wegen ihres Joseph i<abbr type="topline" expand="mm">m</abbr>er<lbr type="BD"/> heimlich in Ängsten war, Schuld daran se&#255;n, und die briefe<lbr/>
+nicht abgeschickt<lbr type="BD"/> hab<abbr v="en"/>? &#8211; &#8211; H<abbr type="curve">:</abbr> Vetter Dr Messmer, der dieser täg<abbr v="en"/> von hier nach Paris<lbr type="BD"/> ab<pc force="weak">=</pc><lbr/>reiset, und mein<abbr v="en"/> Sohn ihn<abbr v="en"/> auf Geratewohl mit bring<abbr v="en"/> wollte, sollte<lbr type="BD"/> eb<abbr v="en"/> diesen vor<pc force="weak">=</pc><lbr/>wurf ihn<abbr v="en"/> mach<abbr v="en"/>. Nun unterbleibt wieder alles, da der h<abbr type="curve">:</abbr><lbr type="BD"/> Sohn nicht mehr in Salzb<abbr type="curve"></abbr> ist.<lbr/>
+Sie kö<abbr type="topline" expand="nn">n</abbr><abbr v="en"/> versichert se&#255;n, daß ich sie herzlich<lbr type="BD"/> liebe, und an allem Antheil nehme, was ihrem<lbr/>
+Hause begegnet. &#8211; warum<lbr type="BD"/> hab<abbr v="en"/> sie ihren h<abbr type="curve">:</abbr> Sohn nicht gleich nach Wie<abbr type="topline" expand="nn">n</abbr> geschickt? od<abbr v="er"/> warum<lbr type="BD"/><lbr/>
+schicken sie ihn nicht noch? &#8211; &#8211; ich gebe ihn<abbr v="en"/> hiermit die getreueste Versicherung, daß er be&#255;<lbr/>
+mir Wohnung, Kost und alles <abbr expand="etc">p</abbr>: so lange er will,<lbr type="BD"/> haben wird, und daß ich und alle and<abbr v="er"/>e<lbr/>
+Freunde tracht<abbr v="en"/> würden ihm bald<lbr type="BD"/> and<abbr v="er"/>e gute Verdienste zu verschaff<abbr v="en"/>: ohne seine persönliche<lbr/>
+Gegenwart wird<lbr type="BD"/> hier nichts zu machen se&#255;n. Hier ist doch i<abbr type="topline" expand="mm">m</abbr>er ein guter<lbr/>
+Platz für ein grosses<lbr type="BD"/> Talent: nur geht es manchmal nicht gleich; aber durch Unterstü<pc force="weak">=</pc><lbr/>zung guter<lbr type="BD"/> Freunde ko<abbr type="topline" expand="mm">m</abbr>t man richtig zu seinem Zweck &#8211; und am Ende ist es in Wie<abbr type="topline" expand="nn">n</abbr><lbr type="BD"/> noch<lbr/>
+i<abbr type="topline" expand="mm">m</abbr>er am besten zu leb<abbr v="en"/>. Sie ke<abbr type="topline" expand="nn">n</abbr>en ihre schwäbischen freunde, und<lbr type="BD"/> den Ort selbst. wählen<lbr/>
+sie &#8211; und lassen mir es wissen. &#8211; Ich bin ihr und all<lbr type="BD"/> der ihrig<abbr v="en"/> alter Freund und dr<lbr/>
+Messmer</u> mp hätte der gute Messmer mir geantwortet, oder vielleicht seine Frau die Briefe<lbr/>
+nicht zurück gehalt<abbr v="en"/>, so würde<lbr type="BD"/> ich ohne Zweifl auf den Gedank<abbr v="en"/> gefahl<abbr v="en"/> se&#255;n dich nach Wie<abbr type="topline" expand="nn">n</abbr><lbr/>
+zu schicken,<lbr type="BD"/> da du in seinem Hause, das du ke<abbr type="topline" expand="nn">n</abbr>est, gut gestand<abbr v="en"/> wärest. wenigst bleibt<lbr type="BD"/><lbr/>
+dir dieser Weeg nach deinem Belieb<abbr v="en"/> offen. du siehst unter andern, daß h<abbr type="curve">:</abbr><lbr type="BD"/> von Heufeld, so<lbr/>
+ein lauer Christ, als er, wie wir ihn alle ke<abbr type="topline" expand="nn">n</abbr><abbr v="en"/>, de<abbr type="topline" expand="nn">n</abbr>och die<lbr type="BD"/> Anmerkung macht, <u>daß er dir<lbr/>
+zutrauet, daß du nach den von dein<abbr v="en"/> Eltern<lbr type="BD"/> erhalten<abbr v="en"/> gut<abbr v="en"/> Grundsätz<abbr v="en"/>, dich vor üblen<lbr/>
+Gesellschaft<abbr v="en"/> hütt<abbr v="en"/> wirst.</u><lbr type="BD"/> Eben ein dergleich<abbr v="en"/> Unterredung hielt Graf Khünburg Oberst<pc force="weak">=</pc><lbr/>stallmeister<lbr type="BD"/> diese tägen mit mir, der eb<abbr v="en"/>, wie bekannt kein<abbr v="en"/> Anspruch auf die<lbr/>
+Heiligkeit<lbr type="BD"/> macht, und äusserte mir seine ängstigliche Besorgniß weg<abbr v="en"/> Paris, da er dich<lbr type="BD"/><lbr/>
+liebt und Paris kennet, wo man sich alle Mühe geb<abbr v="en"/> muß den Gefahr<abbr v="en"/> auszuweichen;<lbr/>
+sonderheitl: muß man alle familiarität überhaupts &#8211; sond<abbr v="er"/>heitl:<lbr type="BD"/> mit iung<abbr v="en"/> franzos<abbr v="en"/><lbr/>
+fliehen; und frauenzi<abbr type="topline" expand="mm">m</abbr>er die <tshtm>_________________________________________________</tshtm>ihre versorgung such<abbr v="en"/>,<lbr type="BD"/> stell<abbr v="en"/><lbr/>
+jungen Leut<abbr v="en"/> von grossem Talent <tshtm>_________________________________________________</tshtm>erstaunlich nach, um sie<lbr/>
+ums Geld<lbr type="BD"/> zu bring<abbr v="en"/>, oder gar in <tshtm>___________________________________________________</tshtm>ihre Falle und zum Ma<abbr type="topline" expand="nn">n</abbr>e<lbr/>
+zu beko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>. Gott und<lbr type="BD"/> deine <tshtm>__________________________________________________________</tshtm>wachtbare Vernunft wird<lbr/>
+dich bewahr<abbr v="en"/>. &#8211; das würde wohl <tshtm>_________________________________________________________</tshtm>wohl<lbr type="BD"/> mein Tod se&#255;n!<lbr type="forced"/>
+heute vormittage sind <u>Janitsch</u> und <rend class="latin">Reicha</rend> mit dem Postwag<abbr v="en"/> nach Linz<lbr type="BD"/> abgefahr<abbr v="en"/>. Sie werd<abbr v="en"/> in ihrem<lbr/>
+<rend class="latin">Concert</rend> geg<abbr v="en"/> 70 f eingenohm<abbr v="en"/> hab<abbr v="en"/>.<lbr type="BD"/> der Erzb<abbr type="curve">:</abbr> gab nur 8 Thaler Einlage. Sie spiel<abbr v="en"/> beyde recht schön,<lbr/>
+haben eine<lbr type="BD"/> erstaunliche fertigkeit und Leichtigkeit des Bogens, sichere <rend class="latin">Intonation</rend>, ein<abbr v="en"/><lbr type="BD"/> schön<abbr v="en"/><lbr/>
+Ton und die gröste <rend class="latin">Expression</rend>. der <u><rend class="latin">Reicha</rend></u> ist ein ganzer Kerl. <u>Janitsch</u><lbr type="BD"/> hat die Lollische manier,<lbr/>
+das <rend class="latin">adagio</rend> ist aber viel besser. Ich bin halt kein Liebhaber von den<abbr v="en"/> erschreckl: Geschwindigkeit<abbr v="en"/>, wo<lbr/>
+man nur kaum mit dem halb<abbr v="en"/> Tone d<abbr v="er"/> Violin alles herausbring<abbr v="en"/>, und so zu sag<abbr v="en"/> mit dem Bog<abbr v="en"/><lbr type="BD"/> kaum<lbr/>
+die Geige berühr<abbr v="en"/> und fast in Lüft<abbr v="en"/> spiel<abbr v="en"/> muß. da<abbr type="topline" expand="nn">n</abbr> fählt ihm<lbr type="BD"/> gar sehr viel im <rend class="latin">Cantabile</rend>, es kom<abbr v="en"/><lbr/>
+starke abstösse und <rend class="latin">allegro</rend> bossen darunter, die dem Zuhörer, der es versteht, völlig wehe thun.<lbr type="forced"/>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+
+<pg n="2"/>
+
+<postxt loc="rm" rot="270">
+<rend class="latin">Reicha</rend> spielt besser <rend class="latin">Cantabl</rend>: Beyde aber hab<abbr v="en"/> den <rend class="latin">Becki</rend>sch<abbr v="en"/> fehler <u>der zurückhaltung,</u> wo sie das ganze <rend class="latin">Orchester</rend> mit <u>Augenwink</u> und ihrer<lbr/>
+<u>Bewegung</u><lbr type="BD"/> zurück halt<abbr v="en"/>, und da<abbr type="topline" expand="nn">n</abbr> erst wied<abbr v="er"/> im vorigen Tempo fortgeh<abbr v="en"/>. am Ende<lbr type="BD"/> spielt<abbr v="en"/> sie ein <rend class="latin">Duetto</rend> zusa<abbr type="topline" expand="mm">m</abbr><abbr v="en"/> mit <rend class="latin">Contratempo</rend> und der<lbr/>
+erstaunlichst<abbr v="en"/><lbr type="BD"/>&#160;<rend class="latin">Execution</rend> und Netigkeit. allein im <u>Tempo</u> nach der Art völlig wie <u>die 2 <rend class="latin">Besozzi</rend> in <rend class="latin">Turin</rend></u>, die be&#255;de tod sind.<lbr/>
+Sie war<abbr v="en"/> gestern den ganzen Nachmittag<lbr type="BD"/> noch be&#255; uns bis 6 uhr abends. deine Schwester muste deine <rend class="latin">Clavier Concert</rend><lbr type="BD"/> aus der <rend class="latin">Spart</rend> spiel<abbr v="en"/>,<lbr/>
+und and<abbr v="er"/>e sach<abbr v="en"/>&#160;<abbr expand="etc">p</abbr>: wir spielt<abbr v="en"/> die Violine dazu.<lbr type="BD"/> deine <rend class="latin">Composition</rend> gefiehl ihn<abbr v="en"/> erstaunlich. das <rend class="latin">Concert</rend>, so <rend class="latin">Reicha</rend> spielte,<lbr type="BD"/> war von ihm,<lbr/>
+recht gut, neue Gedanck<abbr v="en"/>, und viel auf dein<abbr v="en"/> Schlag, es gefiel<lbr type="BD"/> auch dem Haydn. &#8211; die operist<abbr v="en"/> von Münch<abbr v="en"/> hätt<abbr v="en"/> soll<abbr v="en"/> am Montage<lbr/>
+den<lbr type="BD"/> 26<h>ten</h> hier anko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>, allein es kam ein Schreib<abbr v="en"/>, wo Graf <rend class="latin">Seau</rend> den<lbr type="BD"/> Artickl, <u>daß sie be&#255; den deutsch<abbr v="en"/>&#160;<rend class="latin">Comoed</rend>i<abbr v="en"/>, ein <rend class="latin">Intermezzo</rend> dazwisch<abbr v="en"/> mach<abbr v="en"/> sollt<abbr v="en"/>,</u><lbr/>
+nicht eingehen will. Es ist eine <rend class="latin">Estaffette</rend> auf gr:<lbr type="BD"/>&#160;<rend class="latin">Seaus</rend> Unkost<abbr v="en"/> nach Münch<abbr v="en"/> geschickt word<abbr v="en"/>; <u>daß sie diese zwischenspiele<lbr type="BD"/> nicht mach<abbr v="en"/> därffen.</u> Nun stehet<lbr/>
+de<abbr type="topline" expand="nn">n</abbr>och noch zu erwart<abbr v="en"/>, ob sie ko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>,<lbr type="BD"/> oder nicht: mir bleib<abbr v="en"/> sie lieber aus! Itzt bleib<abbr v="en"/> mir nur noch zween Posttäge über, wo ich dir etwas<lbr/>
+schicken ka<abbr type="topline" expand="nn">n</abbr>, we<abbr type="topline" expand="nn">n</abbr> du den 15 <rend class="latin">feb<abbr type="curve"></abbr></rend>: abreisen<lbr type="BD"/> willst: nämlich der 2<h>te</h> und 5<h>te</h>&#160;<rend class="latin">Februa<abbr type="curve">:</abbr></rend> &#8211; ich muß dir also, um alle die Musik<lbr type="BD"/> zu schick<abbr v="en"/>, allzeit ein<lbr/>
+ziemlich starkes Brief <rend class="latin">Paquet</rend> schicken, welches theuer<lbr type="BD"/> se&#255;n: allein in Gottes nahm<abbr v="en"/>, die <rend class="latin">Sonat<abbr v="en"/> à</rend> 4 <rend class="latin">mani</rend> und die <rend class="latin">Variation<abbr v="en"/></rend> sind<lbr type="BD"/> dir nothwendig.<lbr type="forced"/>
+</postxt>
+<add_note schr_id="57010"><ts>_______________________________________________________________</ts>#</add_note>
+<postxt loc="lm" rot="90">Wer wird nun dem Wolfg<abbr type="curve">:</abbr> Kampeln? Ist <u><encr expand="sein Kopf läus">olfn Kspi em"hs</encr></u> &#8211;<lbr type="BD"/> fre&#255;, nicht Kostenfre&#255;? &#8211; &#8211; ò, auf wie viele Sachen denke ich!<lbr/>
+hätte mir<lbr type="BD"/> nur h<abbr type="curve">:</abbr>&#160;<abbr expand="von">v</abbr> Gri<abbr type="topline" expand="mm">m</abbr> geantwortet, so wäre mir ein grosser Stein vom Herz<abbr v="en"/>. alles<lbr type="BD"/> empfehlt sich. die Na<abbr type="topline" expand="nn">n</abbr>erl und<lbr/>
+ich küssen euch millionmahl und bin d<abbr v="er"/> alte Mzt <abbr expand="manu propria">mp</abbr>.</postxt>
+<add_note schr_id="57010"><ts>_________________________________________________________________</ts># sein Kopf läuse &#8211; </add_note>
+<lbr/>
+<add_num rot="180"><rend class="latin">N:<h>o</h></rend> 34.</add_num><lbr/>
+
+<anschrift rot="270">
+<rend class="latin">A Monsieur </rend><lbr type="forced"/>
+<rend class="latin">Monsieur Wolfgang Amadé<lbr type="forced"/>
+<u>Mozart</u> Maître de Musique</rend><lbr type="forced"/>
+<add_note type="inline"><rend class="latin">frcoaug<abbr type="curve"></abbr></rend></add_note>&#160;<rend class="latin">à</rend><lbr type="forced"/>
+<rend class="latin"><u>Manheim</u></rend></anschrift><lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+</letter>
+</text>
+</MUP>

@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2011">2011-05</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=732</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm (S. 1-4); A-Wn (S. 5-6)</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana), S. 1-4</bibl>
+            <bibl type="source" subtype="RISM">A-Wn (Österreichische Nationalbibliothek), S. 5-6</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:37:07 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_171.mup">
+<letter bd="171"><HEADER id="732">LEOPOLD MOZART AN MARIA ANNA MOZART IN SALZBURG<lbr/>
+BOLOGNA, 27. UND 28. MÄRZ 1770<lbr/>
+mit einem Notenblatt als Beilage</HEADER>
+<pg n="1"/>
+
+<ts>__________</ts><tshtm>___________________________________________________________________</tshtm><tspdf>\hfill </tspdf><rend class="latin">Bologna</rend> d<abbr v="en"/> 27 <u><rend class="latin">Martij</rend> 1770</u><lbr type="forced"/>
+<lbr type="forced"/>
+In Parma habe ich an S<h>e</h>: <rend class="latin">Ex<abbr type="curve">:</abbr></rend> h<abbr type="curve">:</abbr> Obersthofmeister und hier unterm 24<h>t<abbr v="en"/></h> diss<lbr type="BD"/> an<lbr/>
+S<h>e</h>: Hochf<abbr type="curve">:</abbr> Gnad<abbr v="en"/>, und auch an dich geschrieb<abbr v="en"/>. Ich erwarte, ob alle<lbr type="BD"/> diese briefe richtig<lbr/>
+angelangt sind, deine Antwort. Gestern war bey S<h>r</h>: <rend class="latin">Ex<abbr type="curve">:</abbr></rend> h<abbr type="curve">:</abbr><lbr type="BD"/> feld Marschall<abbr v="en"/><lbr/>
+Grafen <rend class="latin">Pallavicini</rend> ein <rend class="latin">Concert</rend>, dazu S<h>e</h>: <rend class="latin"><amend value="Eminenz">Eminez</amend></rend> d<abbr v="er"/> <rend class="latin">Cardinal</rend> und die erste<lbr/>
+<rend class="latin">Noblesse</rend> eingelad<abbr v="en"/> wurde. Du ke<abbr type="topline" expand="nn">n</abbr>st S<h>e</h>: <rend class="latin">Ex<abbr type="curve">:</abbr></rend> Graf <rend class="latin">Carl</rend><lbr type="BD"/>&#160;<abbr expand="von">v</abbr>&#160;<rend class="latin">Firmian</rend>;<lbr/>
+nun wünschte ich, daß du auch S<h>e</h>: <rend class="latin">Ex<abbr type="curve">:</abbr></rend> Gr: <rend class="latin">Pallavicini</rend> ke<abbr type="topline" expand="nn">n</abbr><abbr v="en"/><lbr type="BD"/> möchtest. dies sind<lbr/>
+2 <rend class="latin">Cavalier</rend>, die in all<abbr v="en"/> Stück<abbr v="en"/> gleiche denkungsart,<lbr type="BD"/> freundlichkeit, Grossmuth,<lbr/>
+gelassenheit und eine besond<abbr v="er"/>e Liebe und Einsicht in alle Gattung<abbr v="en"/> d<abbr v="er"/> Wissenschaft<abbr v="en"/><lbr/>
+besitzt<abbr v="en"/>. Sontags hatte ich die<lbr type="BD"/> Gnade S<h>e</h>: <rend class="latin">Ex<abbr type="curve">:</abbr></rend> dem h<abbr type="curve">:</abbr>&#160;<rend class="latin">Gr: Pallavicini</rend> aufzuwart<abbr v="en"/> und<lbr/>
+ihm das schreib<abbr v="en"/><lbr type="BD"/> S<h>r</h>: <rend class="latin">Ex<abbr type="curve">:</abbr> Gr:</rend>&#160;<abbr expand="von">v</abbr>&#160;<rend class="latin">Firmian</rend> zu überreich<abbr v="en"/>; und kaum hörte er, daß<lbr/>
+ich in d<abbr v="er"/><lbr type="BD"/> Heil: Woche in Rom einzutreff<abbr v="en"/> gedenke, sagte er mir gleich, er wolle<lbr/>
+tracht<abbr v="en"/> es so einzuricht<abbr v="en"/>, daß er morg<abbr v="en"/> das vergnüg<abbr v="en"/> hab<abbr v="en"/> möge<lbr type="BD"/> diesen ausser<pc force="weak">=</pc><lbr/>ordentl: jung<abbr v="en"/>&#160;<rend class="latin">Virtuosen</rend> nicht nur allein zu hör<abbr v="en"/>, sond<abbr v="ern"/><lbr type="BD"/> auch dem erst<abbr v="en"/> Adl<lbr/>
+hiesiger Statt das nämliche Vergnüg<abbr v="en"/> zu verschaff<abbr v="en"/>. Alle<lbr type="BD"/> die Umstände, mit<lbr/>
+welchen wir in S<h>r</h>: <rend class="latin">Ex<abbr type="curve">:</abbr></rend> wag<abbr v="en"/> abgeholt und wie wir bedient<lbr type="BD"/> wurd<abbr v="en"/>, will ich alles<lbr/>
+nicht berühr<abbr v="en"/>, und nur meld<abbr v="en"/>, daß be&#255; 150 Person<abbr v="en"/> des erst<abbr v="en"/> Adls zugeg<abbr v="en"/> war<abbr v="en"/>&#160;<abbr expand="etc:">p:</abbr><lbr/>
+der berühmte <rend class="latin">P: Martino</rend> ward auch<lbr type="BD"/> eingelad<abbr v="en"/>; und obwohl er sonst niemals<lbr/>
+in ein <rend class="latin">Concert</rend> gehet, so kam er<lbr type="BD"/> de<abbr type="topline" expand="nn">n</abbr>och: und dieses <rend class="latin">Concert</rend> fieng etwa um halbe<lbr/>
+acht uhr an und daurte bis<lbr type="BD"/> halbe zwölf uhr, weil die <rend class="latin"><amend value="Noblesse">Nobesse</amend></rend> keinen<lbr/>
+Aufbruch machte. <rend class="latin">Sgr: Abrile</rend> und<lbr type="BD"/>&#160;<rend class="latin">Sgr. Cicognani</rend> sang<abbr v="en"/>.<lbr/>
+übermorg<abbr v="en"/> do<abbr type="topline" expand="nn">n</abbr>erstags d<abbr v="en"/> 29<h>t<abbr v="en"/></h> werd<abbr v="en"/> wir abreisen, und fre&#255;tag abends<lbr/>
+in <rend class="latin">Florenz</rend> eintreff<abbr v="en"/>, wo wir bis den 5<h>t<abbr v="en"/></h> verbleib<abbr v="en"/><lbr type="BD"/> und da<abbr type="topline" expand="nn">n</abbr> unsere<lbr/>
+Reise nach Rom fortsetz<abbr v="en"/>, so daß wir d<abbr v="en"/> 11<h>t<abbr v="en"/></h> Mittags in<lbr type="BD"/> Rom eintreff<abbr v="en"/> kö<abbr type="topline" expand="nn">n</abbr><abbr v="en"/>, we<abbr type="topline" expand="nn">n</abbr><lbr/>
+Gott keine hinderniß dazwisch<abbr v="en"/> setzt. Was mich<lbr type="BD"/> sond<abbr v="er"/>heitl: vergnügt, ist, daß<lbr/>
+wir hier ungemein beliebt sind, und daß der<lbr type="BD"/> Wolfg<abbr type="curve">:</abbr> hier noch mehr bewundert<lbr/>
+wird, als in all<abbr v="en"/> and<abbr v="ern"/> Stätt<abbr v="en"/> Italiens:<lbr type="BD"/> weil hier der Sitz und wohlplatz von<lbr/>
+vielen Meistern, Künstlern und gelehrt<abbr v="en"/><lbr type="BD"/> Leut<abbr v="en"/> ist. Hier ist er auch am stärkest<abbr v="en"/><lbr/>
+versucht word<abbr v="en"/>, und dieß vergrössert<lbr type="BD"/> sein<abbr v="en"/> Ruhm durch ganz Itali<abbr v="en"/>, weil der<lbr/>
+<rend class="latin">P: Martino</rend> der Italiäner Abgott<lbr type="BD"/> ist, und dieser mit solcher Verwund<abbr v="er"/>ung von dem<lbr/>
+wolfg<abbr type="curve">:</abbr> spricht, und alle<lbr type="BD"/> Prob<abbr v="en"/> mit ihm gemacht hat.<lbr type="forced"/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal><lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="2"/>
+Wir hab<abbr v="en"/> den <rend class="latin">P: Martino</rend> 2 mahl besucht: und jedes mahl hat der Wolfg<abbr type="curve">:</abbr><lbr/>
+eine <rend class="latin">Fuga</rend> ausgeführt, davon d<abbr v="er"/> <rend class="latin">P: Martino</rend> nur den <rend class="latin">Ducem</rend> od<abbr v="er"/> <rend class="latin">La<lbr/>
+Guida</rend> mit<lbr type="BD"/> etlich<abbr v="en"/> Not<abbr v="en"/> aufgeschrieb<abbr v="en"/> hat. Wir hab<abbr v="en"/> den <rend class="latin">Cavalier Don<lbr/>
+Broschi</rend> od<abbr v="er"/><lbr type="BD"/> sogenannt<abbr v="en"/>&#160;<rend class="latin">Sgr. Farinelli</rend> auf seinem Gut ausser d<abbr v="er"/> Statt<lbr/>
+besucht. Wir hab<abbr v="en"/><lbr type="BD"/> die <rend class="latin">Spagnoletta</rend> hier gefund<abbr v="en"/>, weil sie in d<abbr v="er"/> <rend class="latin">opera</rend>,<lbr/>
+die im Ma&#255; gespielt wird,<lbr type="BD"/>&#160;<rend class="latin">prima do<abbr type="topline" expand="nn">n</abbr>a</rend> se&#255;n wird, und zwar anstatt<lbr/>
+d<abbr v="er"/> <rend class="latin">Gabrieli</rend>, welche noch in Palermo<lbr type="BD"/> ist, und die <rend class="latin">Bologneser</rend> angesetzt<lbr/>
+hat. Vermuthlich wird sie auch die Ma&#255;länd<abbr v="er"/> ansetz<abbr v="en"/>.<lbr type="forced"/>
+Wir hab<abbr v="en"/> den <rend class="latin">Sgr: Manfredini</rend> hier angetroff<abbr v="en"/>, jen<abbr v="en"/>&#160;<rend class="latin">Castraten</rend><lbr/>
+nämlich,<lbr type="BD"/> der mit dem h<abbr type="curve">:</abbr> Panter aus Wie<abbr type="topline" expand="nn">n</abbr> von Russland ko<abbr type="topline" expand="mm">m</abbr>end<lbr/>
+be&#255; uns in<lbr type="BD"/> Salzb<abbr type="curve">:</abbr> war. <abbr expand="etc">p</abbr>&#160;<abbr expand="etc:">p:</abbr><lbr type="forced"/>
+Ein gewisser <u>alter <rend class="latin">Sigr. Abbate Zanardi</rend></u> lässt sich sa<abbr type="topline" expand="mm">m</abbr>t mir<lbr/>
+dem h<abbr type="curve">:</abbr>&#160;<rend class="latin">Andrino</rend><lbr type="BD"/> empfehl<abbr v="en"/>. Einige hab<abbr v="en"/> sich weg<abbr v="en"/> dem h<abbr type="curve">:</abbr> Capmstr<lbr/>
+<rend class="latin">Lolli</rend> erkundiget. h<abbr type="curve">:</abbr><lbr type="BD"/>&#160;<rend class="latin">Brinsechi</rend> und viele Leute haben nach<lbr/>
+dem h<abbr type="curve">:</abbr> Hof<rend class="latin">Statuario</rend> gefragt, alle empf<abbr type="curve">:</abbr><lbr type="BD"/> sich ihm sa<abbr type="topline" expand="mm">m</abbr>t mir.<lbr type="forced"/>
+Wir sind in dem <u><rend class="latin">Instituto</rend></u> gewesen, und hab<abbr v="en"/> des h<abbr type="curve">:</abbr> Hof<rend class="latin">statuarij</rend><lbr/>
+schöne<lbr type="BD"/>&#160;<rend class="latin">Statuam</rend> geseh<abbr v="en"/>. was ich hier alles geseh<abbr v="en"/>, über<pc force="weak">=</pc><lbr/>trift das <rend class="latin">Muse<abbr v="um"/></rend>&#160;<rend class="latin">Britanicum:</rend> da<abbr type="topline" expand="nn">n</abbr> hier sind nicht nur die<lbr/>
+Naturseltenheit<abbr v="en"/>, <u>sond<abbr v="er"/> alles, was nur<lbr type="BD"/> i<abbr type="topline" expand="mm">m</abbr>er Wissenschaft heisst,</u> gleich<lbr/>
+einem <rend class="latin">Lexicon</rend> in schön<abbr v="en"/> Zi<abbr type="topline" expand="mm">m</abbr>ern reinlich<lbr type="BD"/> und ordentlich verwahret<lbr/>
+zu sehen: kurz! du würdest erstaun<abbr v="en"/>&#160;<abbr expand="etc:">p:</abbr> von<lbr type="BD"/> Kirch<abbr v="en"/>, Malere&#255;<abbr v="en"/>,<lbr/>
+schöner Baukunst und Einrichtung verschiedener Paläste<lbr type="BD"/> will ich<lbr/>
+gar nichts sag<abbr v="en"/>, weil ich vor schlaf ohne deme kaum schreib<abbr v="en"/> ka<abbr type="topline" expand="nn">n</abbr>,<lbr/>
+da<abbr type="topline" expand="nn">n</abbr> es ist 1 uhr in d<abbr v="er"/> Nacht vorbe&#255;, der Wolfg<abbr type="curve">:</abbr> schnarrcht<lbr/>
+schon lang, und<lbr type="BD"/> ich schlafe beym schreib<abbr v="en"/> ein.<lbr type="forced"/>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="3"/>
+Weg<abbr v="en"/> dem Pferdl hast du gar nicht die mindeste Meldung zu mach<abbr v="en"/>. da<abbr type="topline" expand="nn">n</abbr><lbr/>
+derjenige, der meine Sache, ohne mein wiss<abbr v="en"/> und will<abbr v="en"/>, verschenket, wird<lbr/>
+<lbr type="BD"/> mir solche mit etwas besserm ersetz<abbr v="en"/>; sonderheitl: we<abbr type="topline" expand="nn">n</abbr> er ein<lbr/>
+<rend class="latin">Cavallier</rend> ist,<lbr type="BD"/> der nicht anders als Edl denk<abbr v="en"/> ka<abbr type="topline" expand="nn">n</abbr> &#8211; &#8211; &#8211; &#8211; <lbr type="forced"/>
+Das du nach Leipzig schreib<abbr v="en"/> lasst, ist gut. lasse auch an<lbr/>
+h<abbr type="curve">:</abbr> Gräffer schreib<abbr v="en"/>, od<abbr v="er"/> an <u>Heufeld</u>. Lebe wohl! Lebt alle<lbr/>
+wohl ich küsse dich und die Na<abbr type="topline" expand="nn">n</abbr>erl<lbr type="BD"/> 1000 Mahl. meine Empf<abbr type="curve">:</abbr><lbr/>
+an ganz Salzb<abbr type="curve">:</abbr> &#8211; ich bin Dein getreuer und<lbr type="forced"/>
+<ts>___________</ts><tshtm>__________________________________________</tshtm><tspdf>\hfill </tspdf>schläfriger Ma<abbr type="topline" expand="nn">n</abbr><lbr type="forced"/>
+<ts>___________</ts><tshtm>________________________________________________</tshtm><tspdf>\hfill </tspdf>Mzt <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<lbr type="forced"/>
+Es war eben kein übler gedank<abbr v="en"/> die <rend class="latin">Ball=Menuet</rend> uns bis nach <rend class="latin">Bologna</rend> zu<lbr type="BD"/> schick<abbr v="en"/><lbr/>
+um solche aufs <rend class="latin">Clavier</rend> zu setz<abbr v="en"/>, weil niemand in Salzb<abbr type="curve">:</abbr> ist, der<lbr type="BD"/> dieses hätte<lbr/>
+thun könn<abbr v="en"/>. der Wolfg<abbr type="curve">:</abbr> hat übrigens die gröste freude gehabt,<lbr type="BD"/> er dankt dem<lbr/>
+h<abbr type="curve">:</abbr>&#160;<abbr expand="von">v</abbr> Schiedenhof<abbr v="en"/> und der Na<abbr type="topline" expand="nn">n</abbr>erl. Er wird selbst nächstens<lbr type="BD"/> schreib<abbr v="en"/>; da<abbr type="topline" expand="nn">n</abbr> gestern<lbr/>
+schrieb ich, da er schon im Bette Lag, und heute setze<lbr type="BD"/> dieses be&#255;, da er noch schläft,<lbr/>
+weil die Post gleich abgehet. hier schicket er den<lbr type="BD"/>&#160;<rend class="latin">Menuet</rend>, so <rend class="latin">M: Pick</rend> auf dem<lbr/>
+theater in Mayland gedanzet hat. Wir empfehl<abbr v="en"/><lbr type="BD"/> uns nochmahls all<abbr v="en"/> gut<abbr v="en"/> freund<abbr v="en"/>,<lbr/>
+und ich bitte h<abbr type="curve">:</abbr>&#160;<abbr expand="von">v</abbr> Schidenhof<abbr v="en"/>, h<abbr type="curve">:</abbr>&#160;<abbr expand="von">v</abbr><lbr type="BD"/>&#160;<rend class="latin">Mölk</rend> und andere die mir geschrieb<abbr v="en"/> mir<lbr/>
+doch nicht übl zu nehm<abbr v="en"/>, daß nicht<lbr type="BD"/> antworte. Ich hofe sie werd<abbr v="en"/> überleg<abbr v="en"/> und einseh<abbr v="en"/>,<lbr/>
+was ein reisend<abbr v="er"/><lbr type="BD"/> zu thun hat, sond<abbr v="er"/>heitl: da ich alleine bin. <rend class="latin">Ko<abbr type="topline" expand="mm">m</abbr>abit aliquando<lbr/>
+Zeitus<lbr type="BD"/> beque<abbr type="topline" expand="mm">m</abbr>us schreibendi. nunc Kopfus meus semper vollus est multis<lbr/>
+gedankibus.</rend> der Wolfg<abbr type="curve">:</abbr> Küsset dich und die Na<abbr type="topline" expand="nn">n</abbr>erl 1000 mahl.<lbr type="forced"/><lbr type="forced"/>
+<postxt loc="top" rot="180">unter den<abbr v="en"/>&#160;<rend class="latin">Medicin Recept<abbr v="en"/></rend> wirst du |: ich glaube auf einem lang<abbr v="en"/> Papier :|<lbr type="BD"/> unter and<abbr v="er"/><abbr v="en"/> das<lbr/>
+<rend class="latin">Recept</rend> von einer Brust=Latwergen find<abbr v="en"/>, die ich mir, wie du<lbr type="BD"/> weist oft habe mach<abbr v="en"/> lass<abbr v="en"/>. lasse sie<lbr/>
+in dem nächst<abbr v="en"/> Brief hinein deutlich<lbr type="BD"/>&#160;<rend class="latin">coppi</rend>ern. Es fehlt mir, Gott lob, gar nichts; allein, ich dachte<lbr/>
+auf diese Huflattich Latwerge, weil man nicht weis, was vorfallen ka<abbr type="topline" expand="nn">n</abbr>. Das <rend class="latin">Medicin</rend><lbr type="BD"/> Papier haben<lbr type="forced"/>
+wir |: Gottlob :| nur einmahl bis itzt eröffnet, und zwar um dem<lbr type="BD"/> wolfg<abbr type="curve">:</abbr> ein<abbr v="en"/> löfl voll Weinstein zu geb<abbr v="en"/></postxt><lbr type="forced"/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal><lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="4"/>
+Die Brief schickest Du i<abbr type="topline" expand="mm">m</abbr>er nach Mayland<lbr/>
+an h<abbr type="curve">:</abbr> Troger. ich beko<abbr type="topline" expand="mm">m</abbr>e sie<lbr type="BD"/> richtig und kost<abbr v="en"/><lbr/>
+mich nicht viel. we<abbr type="topline" expand="nn">n</abbr> wir in Rom sind werde weiter<lbr/>
+dessweg<abbr v="en"/> schreib<abbr v="en"/>.<lbr type="forced"/>
+<lbr type="forced"/>
+<anschrift rot="270"><rend class="latin">À Madame<lbr type="forced"/>
+Madame Marie A<abbr type="topline" expand="nn">n</abbr>e Mozart<lbr type="forced"/>
+à<lbr type="forced"/>
+<u>Salzbourg</u></rend></anschrift><lbr/>
+<add_note schr_id="48817" rot="90"><rend class="latin">N:<h>o</h></rend> 15 aus <rend class="latin">Bologna</rend>.</add_note>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal><lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="5"/>
+<NI src="A-Wn"><NS type="Beilage" schr_id="39408">
+<additum>[... (Noten, KV 122 (73t))]</additum>
+<pg n="6"/>
+<additum>[... (Noten, KV 122 (73t))]</additum><lbr type="forced"/>
+<lbr/>
+der <rend class="latin">P: Martino</rend> hat mich um eine Violinschule gebett<abbr v="en"/><lbr/>
+du must also mit<lbr type="BD"/> h<abbr type="curve">:</abbr>&#160;<rend class="latin">Factor</rend> Hafner sprech<abbr v="en"/>. daß<lbr/>
+er die gütte hat eine mit sich nach <rend class="latin">Bozen</rend><lbr/>
+zu<lbr type="BD"/> nehm<abbr v="en"/>, und mit gelegenheit einer Leinwath<lbr/>
+<rend class="latin">Ballen</rend> solche dem h<abbr type="curve">:</abbr>&#160;<rend class="latin">Brinsechi</rend><lbr type="BD"/> be&#255;zupak<abbr v="en"/>.<lbr/>
+du must solche aber vorher einbind<abbr v="en"/> lass<abbr v="en"/>.<lbr/>
+aber nur in<lbr type="BD"/> Welsch<abbr v="en"/>=band, ganz<lbr/>
+leicht: aber eingebund<abbr v="en"/> muß es se&#255;n,<lbr/>
+weil die welsch<abbr v="en"/><lbr type="BD"/> den Bericht an den Buchbind<abbr v="er"/><lbr/>
+nicht verstünd<abbr v="en"/>.</NS></NI></letter></text>
+</MUP>

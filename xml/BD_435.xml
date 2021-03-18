@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2012">2012-10</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=999</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm (S. 1-4); Verbleib unbekannt (S. 5-6; Nachweis: J. A. Stargardt, 3.-4.3.1994, Katalog 655, Nr. 1042)</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana), S. 1-4</bibl>
+            <bibl type="source" subtype="RISM">Verbleib unbekannt, S. 5-6</bibl>
+            <bibl type="source" subtype="RISM">Nachweis: J. A. Stargardt, 3.-4.3.1994, Katalog 655, Nr. 1042</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:38:48 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_435.mup">
+<letter bd="435"><HEADER id="999">WOLFGANG AMADÉ MOZART AN LEOPOLD MOZART IN SALZBURG<lbr/>
+MANNHEIM, 7. MÄRZ 1778<lbr/>
+mit Nachschrift von Maria Anna Mozart und Nachschrift von Wolfgang Amadé Mozart an Maria Anna (Nannerl) Mozart</HEADER>
+<pg n="1"/>
+<ts>_____</ts><rend class="latin">Monsieur</rend>&#160;<add_num type="inline" impl="pencil"><ts>_____________________________________</ts>36</add_num><lbr type="forced"/>
+<ts>________</ts><rend class="latin">mon trés cher Pére</rend>!<lbr type="forced"/>
+<lbr type="forced"/>
+Heüte haben wir keinen brief von ihnen beko<abbr type="topline" expand="mm">m</abbr>en, wir hoffen aber daß<lbr type="BD"/> keine<lbr/>
+andere ursach se&#255;n wird, als daß die Post wegen den übeln wetter nicht<lbr type="BD"/> so<lbr/>
+richtig hat eintreffen kö<abbr type="topline" expand="nn">n</abbr>en, oder daß sie gar nicht geschrieben haben.<lbr type="BD"/><lbr/>
+ihren lezten von 26<h>ten:</h>&#160;<rend class="latin"><u>feb:</u><h>ro</h></rend> habe richtig erhalten. ich bin ihnen sehr ver<pc force="weak">=</pc><lbr/>bunden, daß sie sich so vielle mühe wegen den <rend class="latin">arien</rend> gegeben haben.<lbr/>
+sie sind<lbr type="BD"/> halt in allen sachen <rend class="latin">accurat</rend>. nach gott ko<abbr type="topline" expand="mm">m</abbr>t gleich der Papa;<lbr/>
+das war als<lbr type="BD"/> ein kind mein wahlspruch oder <rend class="latin">axioma</rend>, und be&#255; dem bleib<lbr/>
+ich auch noch. sie<lbr type="BD"/> haben fre&#255;lich recht wenn sie sagen: lernts was, so kö<abbr type="topline" expand="nn">n</abbr>ts<lbr/>
+was. übrigens,<lbr type="BD"/> ausser ihrer Mühe und viellen gängen, darf ihnen nichts<lbr/>
+reüen, de<abbr type="topline" expand="nn">n</abbr> die<lbr type="BD"/>&#160;<rend class="latin">Mad:<h>selle</h></rend> weber verdient es gewis. ich wollte nur wünschen<lbr/>
+daß sie meine neüe<lbr type="BD"/>&#160;<rend class="latin">aria</rend>, von welcher ich ihnen neülich gemeldet habe,<lbr/>
+von ihr singen hörten; von<lbr type="BD"/> ihr sage ich, de<abbr type="topline" expand="nn">n</abbr> sie ist ganz für sie<lbr/>
+gemacht. ein Ma<abbr type="topline" expand="nn">n</abbr> wie sie, der versteht<lbr type="BD"/> was mit <rend class="latin">portamento</rend> singen<lbr/>
+heist, würde gewis ein sattsames vergnügen daran<lbr type="BD"/> finden.<lbr type="forced"/>
+wen ich einmahl glücklich in <rend class="latin">Paris</rend> bin, das unsere<lbr/>
+umstände wie ich hoffe<lbr type="BD"/> mit der hülfe gottes gut sind, und wir alle<lbr/>
+besser aufgeräumt und bessers<lbr type="BD"/> homors sind, so will ich ihnen aus<pc force="weak">=</pc><lbr/>führlicher meine gedancken schreiben, und<lbr type="BD"/> sie um eine grosse ge<pc force="weak">=</pc><lbr/>fällickeit bitten. Nun muß ich ihnen aber sagen, daß ich<lbr type="BD"/> so<lbr/>
+erschrocken war, und mir die thränen in die augen ka<abbr type="topline" expand="mm">m</abbr>en, als ich<lbr/>
+<add_note schr_id="57010"><ts>________________________________________________</ts>so schlecht gekleidet daher</add_note>
+in ihren<lbr type="BD"/> lezten brief laß, daß sie <encr expand="so schlecht gekleidet daher">os ocuelcut glkelfdlt dmulr</encr>.<lbr/>
+<add_note schr_id="57010">gehen müssen</add_note>
+<encr expand="gehen müssen">gluln ah"ooln</encr> Mein<lbr type="BD"/> allerliebster Papa! meine schuld ist das gewis<lbr/>
+<add_note schr_id="57010"><ts>__________________________________________</ts>sparen</add_note>
+nicht &#8211; das wissen sie. wir<lbr type="BD"/>&#160;<encr expand="sparen">opmrln</encr> hier so viell es möglich ist.<lbr/>
+<add_note schr_id="57010"><ts>_____________________________________________________________</ts>uns hier nichts</add_note>
+kost und <rend class="latin">logement</rend>, holz und licht, hat<lbr type="BD"/>&#160;<encr expand="uns hier nichts gekost">hno uflr nfcuto glksot</encr>,<lbr/>
+<add_note schr_id="57010">gekostet</add_note>
+das ist alles was zu begehren ist. in kleidung wissen<lbr type="BD"/> sie ja daß<lbr/>
+<add_note schr_id="57010"><ts>______________________</ts>nicht schlecht gehen</add_note>
+man in fremden orten <encr expand="nicht schlecht gehen">nfcut ocuelcut gluln</encr> ka<abbr type="topline" expand="nn">n</abbr>. es muß allzeit<lbr type="BD"/><lbr/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal><lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="2"/>
+ein wenig ein <rend class="latin">exterieur</rend> se&#255;n. ich habe nun meine ganze hoffnung nach<lbr/>
+Paris.<lbr type="BD"/> da<abbr type="topline" expand="nn">n</abbr> die teütschen fürsten sind alle knicker. ich werde nach<lbr/>
+allen meinen kräften arbeiten, um bald das vergnügen zu haben,<lbr/>
+<add_note schr_id="57010"><ts>________________</ts>den dermaligen betrübten<ts>_____</ts>Umständen heraus zu</add_note>
+ihnen aus <encr expand="den dermaligen betrübten umständen heraus">dln dlramefgln bltrh"btln haotlndln ulrmho</encr> zu<lbr/>
+<add_note schr_id="57010">helfen</add_note>
+<encr expand="helfen">uleiln</encr>. Nun zu unserer reise. heüte 8 tag,<lbr type="BD"/> als den 14:<h>ten</h> werden wir<lbr/>
+von hier abreisen. mit der <rend class="latin">chaise</rend> verkaufen geht es<lbr type="BD"/> uns sehr<lbr/>
+schlecht. bis <rend class="latin">dato</rend> ist noch kein mensch ko<abbr type="topline" expand="mm">m</abbr>en. wenn wir 4 <rend class="latin">louisd'or</rend><lbr type="BD"/><lbr/>
+davor beko<abbr type="topline" expand="mm">m</abbr>en, so kö<abbr type="topline" expand="nn">n</abbr>en wir zufrieden se&#255;n. man rathet uns hier<lbr/>
+zwar, daß we<abbr type="topline" expand="nn">n</abbr> wir die <rend class="latin">chaise</rend> nicht anbringen kö<abbr type="topline" expand="nn">n</abbr>en, so sollen<lbr/>
+wir bis strassburg<lbr type="BD"/> einen hauderer nehmen, und mit unserer <rend class="latin">chaise</rend><lbr/>
+gehen, de<abbr type="topline" expand="nn">n</abbr> zu strassburg<lbr type="BD"/> kö<abbr type="topline" expand="nn">n</abbr>ten wir sie leichter verkaufen. weil<lbr/>
+es aber mit dem Postwagen wohlfeiler ist, so werde ich die <rend class="latin">chaise</rend> hier<lbr/>
+lassen, und sichern leüten die <rend class="latin">inspection</rend><lbr type="BD"/> darüber geben. Nur muß<lbr/>
+ich noch melden, daß, weil hier keine handels=stadt<lbr type="BD"/> ist, keine<lbr/>
+fuhrleüt nach <rend class="latin">Paris</rend> gehen, sondern alles durch den Postwagen<lbr type="BD"/><lbr/>
+geschickt wird. von hier bis strassburg wie man mir gesagt hat,<lbr/>
+bezahlt die<lbr type="BD"/>&#160;<rend class="latin">Person</rend> einen halben <rend class="latin">louis d'or</rend>, mithin glaube ich daß es<lbr/>
+uns in allen nicht<lbr type="BD"/> über 15 gulden ko<abbr type="topline" expand="mm">m</abbr>en wird. unterdessen leben<lbr/>
+sie recht wohl. hoffen wir zu<lbr type="BD"/> gott, der wird uns gewis nicht ver<pc force="weak">=</pc><lbr/>lassen. vor meiner abreise werde ich ihnen<lbr type="BD"/> noch einen oder gar<lbr/>
+noch 2 briefe schreiben. we<abbr type="topline" expand="nn">n</abbr> ich nur schon zu <rend class="latin">Paris</rend><lbr type="BD"/> wäre, die reise<lbr/>
+bis hin ist mir gar so verdrüsslich. der wendling hat geschrieben daß<lbr/>
+er sich auf der Reise ganz entsezlich <rend class="latin">Ennuirt</rend> hat. nun muß ich schliessen<lbr/>
+damit der Mama noch ein Plaz übrig bleibt. <rend class="latin">addieu</rend>. ich küsse ihnen<lbr type="BD"/><lbr/>
+100000mahl die hände und bin dero gehorsamster sohn<lbr type="forced"/>
+Ma<abbr type="topline" expand="nn">n</abbr>heim den 7:<h>ten</h> März 1778<ts>________</ts><tshtm>__________________</tshtm><tspdf>\hfill </tspdf>wolfgang Mozart <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal><lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="3"/>
+<NS type="NS" schr_id="48815" adr_id="39408">Mein lieber Mann.<lbr type="forced"/>
+Vors erste mus ich dir sagen das wür deine briefe allezeit, dienst<pc force="weak">=</pc><lbr/>tag, und Samstag bekomen, wür werden also Kinfftigen Samstag<lbr/>
+kein<abbr v="en"/> mehr erhalten könn<abbr v="en"/> weillen der Postwagen schon in der frueh<lbr/>
+um 6 uhr abgehet, und mir die<lbr type="BD"/> briefe erst um 12 uhr mittags<lbr/>
+bekomen. wan du aber negsten Montag als den<lbr type="BD"/> 9<h>t<abbr v="en"/></h> geschrieb<abbr v="en"/><lbr/>
+hast, so werden sie solch<abbr v="en"/> uns nach paris nach schick<abbr v="en"/>, die<lbr type="BD"/> arien<lbr/>
+haben wür dise wochen noch nicht beko<abbr type="topline" expand="mm">m</abbr>en, wür erwarthen<lbr/>
+sie also<lbr type="BD"/> kinfftige woch<abbr v="en"/>. der wagen macht uns grosse Verdrisslich<pc force="weak">=</pc><lbr/>keit, es last sich kein<lbr type="BD"/> mensch nicht seh<abbr v="en"/> der ihm nur anschau<abbr v="en"/><lbr/>
+will, hier woll<abbr v="en"/> die leuthe alles um<lbr type="BD"/> ein<abbr v="en"/> spoth haben, und<lbr/>
+ihnen mus man alles dre&#255;fach bezahlen. das der h<abbr type="curve">:</abbr><lbr type="BD"/>&#160;<rend class="latin">Paron</rend> von<lbr/>
+Grim in <rend class="latin">Paris</rend> ist das vergnüget mich über die massen, und ist<lbr/>
+mein<lbr type="BD"/> einziger trost, auf ihme könn<abbr v="en"/> wür uns gewis verlassen<lbr/>
+das er es aufrichtig<lbr type="BD"/> mit uns meinet und unser wahrer freind ist<lbr/>
+der wolfgang würd ihm schon ehre<lbr type="BD"/> mach<abbr v="en"/>, das es ihme nicht<lbr/>
+geRe&#255;en därff wan er sich umb ihme angenom<abbr v="en"/><lbr type="BD"/> hat. dise woch<abbr v="en"/><lbr/>
+bin ich erstaunlich beschäfftiget das ich nicht weis wo mir der Kopf stehet<lbr/>
+bis alles in ordnung gebracht ist, es komt alles auf mich allein<lbr type="BD"/><lbr/>
+an, und ich habe genug zu denck<abbr v="en"/>, das kanst du dir einbilden.<lbr/>
+doch hoffe ich<lbr type="BD"/> mit gottes hilfe wird alles guth von statten<lbr/>
+gehen und das wür gesund und<lbr type="BD"/> glicklich in <rend class="latin">Paris</rend> ankomen. dise weitte<lbr/>
+Reise würd uns zwahr sehr beschwehrlich sein, allein in gottes nam<abbr v="en"/><lbr/>
+weill gott es so hab<abbr v="en"/> will so mus es geschehen. adio lebts be&#255;de<lbr/>
+gesund ich Kisse euch vill 1000 mahl und verbleibe<lbr type="BD"/> dein getreues<lbr type="forced"/>
+<ts>___________</ts><tshtm>_____________________________________________</tshtm><tspdf>\hfill </tspdf>weib Maria Anna Mozartin<lbr type="forced"/>
+an alle unsere bekante alles<lbr/>
+erdenckliches absonderlich an <rend class="latin">Monsieur</rend> bullinger, und <rend class="latin">Mademoielle</rend><lbr/>
+Sallerl an<lbr type="BD"/> den h<abbr type="curve"></abbr> deibel in gleich<abbr v="en"/>, und andere mehr</NS><lbr type="forced"/>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<tspdf>\newpage</tspdf> 
+<pg n="4"/>
+<NS schr_id="39409" adr_id="48817" type="NS">
+<ts>__________</ts><rend class="latin">Ma très chere sœur</rend>!<lbr type="forced"/>
+<lbr type="forced"/>
+du must dir, liebste schwester, einbilden, und das sehr kräftig, als hätte ich dir<lbr type="BD"/><lbr/>
+einen <rend class="latin">extra</rend> brief geschrieben &#8211; &#8211; <lbr type="forced"/>
+ich bin da um mich be&#255; dir zu bedancken, für die mir so gütig geliehnen, aber<lbr type="BD"/><lbr/>
+sehr nothwendigen 50 fl:, und mache dir hiemit auch meinen glückwunsch und<lbr type="BD"/><lbr/>
+meine unausprechliche freüde über dein gutes herz. mir ist sehr leid daß<lbr/>
+ich in<lbr type="BD"/> die nothwendigkeit gesezt worden, dich auf eine Zeit um 50 fl zu berauben,<lbr type="BD"/><lbr/>
+ich werde aber, so wahr ich dein aufrichtiger bruder bin, nicht ruhen, bis ich<lbr type="BD"/> dir<lbr/>
+alles ersezet habe, was du alles so aus guten herzen für mich gethan hast.<lbr type="BD"/><lbr/>
+Ein glücklicher bruder der so eine gute schwester hat. ich bitte dich, habe dein<lbr type="BD"/><lbr/>
+ganzes vertrauen auf mich, und glaube niemahls daß ich auf dich vergesse.<lbr type="BD"/><lbr/>
+gedencke nur allzeit daß nicht alles geschieht was man will, oder wenigstens<lbr type="BD"/><lbr/>
+nicht allzeit ganz so wie man es wünscht. es wird noch alles recht werden.<lbr type="BD"/> se&#255; nur<lbr/>
+recht fleissig, und vergesse durch das <rend class="latin">Partitu</rend>rschlagen dein galanterie spiellen nicht,<lbr/>
+damit ich nicht zum lügner werde, we<abbr type="topline" expand="nn">n</abbr> dich die leüte<lbr type="BD"/> hören, be&#255; de<abbr type="topline" expand="nn">n</abbr> ich dich<lbr/>
+so gelobt habe. de<abbr type="topline" expand="nn">n</abbr> ich habe allzeit gesagt, daß<lbr type="BD"/> du mit mehr <rend class="latin">Præcision</rend> spiellst<lbr/>
+als ich. <rend class="latin">addieu</rend> da<abbr type="topline" expand="nn">n</abbr> liebe schwester. ich hoffe<lbr type="BD"/> daß wir uns bald ganz vergnügt<lbr/>
+umarmen kö<abbr type="topline" expand="nn">n</abbr>en. ich hoffe auf gott. ich<lbr type="BD"/> bitte ihn um das was ich glaub daß<lbr/>
+mir und uns allen Nützlich ist, setze aber<lbr type="BD"/> allzeit dazu; herr, dein willen<lbr/>
+geschehe wie im hi<abbr type="topline" expand="mm">m</abbr>el also auch auf Erden.<lbr type="BD"/> wir menschen glauben oft, das<lbr/>
+se&#255; übel, und am Ende &#8211; ist es doch gut. Gott weis es i<abbr type="topline" expand="mm">m</abbr>er an besten,<lbr/>
+wie es se&#255;n muß. <rend class="latin">addieu</rend> meine beste schwester. ich<lbr type="BD"/> küsse dich 100000mahl und<lbr/>
+bin bis in tod dein getreüer und aufrichtiger<lbr type="BD"/> bruder<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>________</ts><tshtm>_____________________________________________________________</tshtm><tspdf>\hfill </tspdf>wolfgang Amadè Mozart <abbr expand="manu propria">mp</abbr></NS><lbr type="forced"/>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="5"/>
+<NI src="unbekannt"><NS schr_id="39409">izt reise ich noch so gern nach <rend class="latin">Paris</rend>, weil<lbr/>
+unser lieber freünd gri<abbr type="topline" expand="mm">m</abbr> alda ist;<lbr type="BD"/> auf ihn<lbr/>
+habe ich all mein Vertrauen. ich werde ihm<lbr/>
+auch in allem folgen, was<lbr type="BD"/> er mir als<lbr/>
+ein so guter freund anrathen wird.</NS>
+<pg n="6"/>
+<anschrift><rend class="latin">A<lbr type="forced"/>
+Monsieur Leopold Mozart<lbr type="forced"/>
+maître de la Chapelle de S: A. R:<lbr type="forced"/>
+L'archeveque de et à<lbr type="forced"/>
+Salzbourg</rend></anschrift></NI></letter>
+</text>
+</MUP>

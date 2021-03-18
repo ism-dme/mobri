@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2019">2019-12</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=566</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">D-Asar</bibl>
+            <bibl type="source" subtype="RISM">D-Asar (Staatsarchiv Augsburg)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:36:16 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_9a.mup">
+<letter bd="9a">
+<NI src="D-Asar">
+<HEADER id="566">LEOPOLD MOZART AN MEINRAD SPIESS IM KLOSTER IRSEE BEI KAUF<tspdf>\-</tspdf>BEUREN<lbr/>
+SALZBURG, 17. SEPTEMBER 1755</HEADER>
+
+<pg n="1"/>
+<ts>__________</ts>HochEhrwürdig und Hochgelehrter<lbr type="forced"/>
+<ts>_____________</ts>insonders hochgeehrtester h<abbr type="curve">:</abbr><lbr type="forced"/>
+<ts>__________________</ts><persName key="59365"><rend class="latin">P: Meinrade</rend></persName>!<lbr type="forced"/>
+<lbr type="forced"/>
+Wie? nach 3 Jahren sehe ich erst wied<abbr v="er"/> ein Schreiben?<lbr/>
+Das lässt in der That ungemein faul! — — So werd<abbr v="en"/><lbr/>
+sie unfehlbar denken, wenn sie diese meine Zuschrift er<pc force="weak">=</pc><lbr/>blicken. Ich dancke ihnen gehors<abbr type="curve">.</abbr> vor die mir in<lbr/>
+dero gütigen Antwortsschreiben gemachte gründliche Erin<pc force="weak">=</pc><lbr/>nerungen. Die bemerkten wenig<abbr v="en"/> fehler sind die üblen<lbr/>
+Früchte meines Sanguinischen Temperamentes, welches mich<lbr/>
+so sehr forttreibet, daß ich wenig od<abbr v="er"/> gar nichts mit<lbr/>
+der gehörigen Achtsamkeit und Gedult niederschreibe. Ich habe<lbr/>
+letzthin in <u><persName key="64633">Friedrich Wilhelm Marpurgs</persName> Historisch Critischen<lbr/>
+Be&#255;träg<abbr v="en"/> zur Aufnahme d<abbr v="er"/> Musik ersten Theile</u> be&#255;<lbr/>
+Durchlesung der Vorrede od<abbr v="er"/> des Vorberichtes gefund<abbr v="en"/><lbr/>
+<lbr/>
+<add_note schr_id="0"><ts>___________________________________________________</ts>(nebst Couvert)</add_note>
+<pg n="2"/>
+daß man sich in der Musick <u>eine Anweisung</u> zur<lbr/>
+<u>Violine</u> und zu noch and<abbr v="er"/><abbr v="en"/> Instrument<abbr v="en"/> wünschet.<lbr/>
+Ich habe es gewagt eine <u>Violinschule</u> nied<abbr v="er"/>zuschreiben,<lbr/>
+die auch wirklich unter der Presse ist. Allein<lbr/>
+ob sie die Probe halt<abbr v="en"/> wird, die <u><persName key="64633">h<abbr type="curve">:</abbr> Marpurg</persName></u><lbr/>
+verlanget: daß sie nämlich nach dem Geschmacke,<lbr/>
+wie <persName key="38617">h<abbr type="curve">:</abbr> Bach</persName> vom Clavier, und <persName key="64744">H: Quanz</persName> von<lbr/>
+der Flöte geschrieb<abbr v="en"/> hab<abbr v="en"/>, sein sollen; eben daran<lbr/>
+muß ich zweifeln: weil ich weis, wie sehr ich von<lbr/>
+meinem flüchtigen Temperamente hingerissen werde.<lbr/>
+Dieß tröstet mich, daß man mir als einem Anfänger<lbr/>
+mit mehrerer Nachsicht entgegen gehen, und folglich<lbr/>
+die Fehler meiner noch unreifen Schrifte mit einer etwas<lbr/>
+gelindern <rend class="latin">Crisi</rend> Richten wird. Ich empfehle sie dero<lbr/>
+<pg n="3"/>
+Bemitleidung, wenn sie ihn<abbr v="en"/> einmal in die Hände<lbr/>
+kö<abbr type="topline" expand="mm">m</abbr>t. vor dem Neuen  Jahre wird sie mir der Buch<pc force="weak">=</pc><lbr/>drucker wohl nicht liefern. Wie stehet es denn<lbr/>
+mit der musikal: Societät? Mich düncket es ist<lbr/>
+etwa gar ins Stecken gerathen: weil man d<abbr v="er"/> Welt nichts<lbr/>
+mehr davon beka<abbr type="topline" expand="nn">n</abbr>t machet? Es wäre warhaftig<lbr/>
+Schade, wenn ein so nützliche Bemühung nicht unter<pc force="weak">=</pc><lbr/>stützet würde. Allein Es geht schon so in der<lbr/>
+Welt. Villeicht würde es in mehrern Gange<lbr/>
+ko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>, we<abbr type="topline" expand="nn">n</abbr> auch gute Practische Musikmeister von<lbr/>
+Grossen Herrn dazuko<abbr type="topline" expand="mm">m</abbr>et<abbr v="en"/>. Es hat sich die Practi<pc force="weak">=</pc><lbr/>sche Musick in wenig Jahren wirklich sehr verändert:<lbr/>
+Und alles, was i<abbr type="topline" expand="mm">m</abbr>er die Gemüter der Zuhörer rühren<lbr/>
+solle, beruhet auf der Art eines guten, schönen und<lbr/>
+natürlichen Vortrages. Das Schwache und Starke,<lbr/>
+welches man itzt nicht nur in ganz<abbr v="en"/> Passagen, sond<abbr v="ern"/><lbr/>
+<pg n="4"/>
+auch be&#255; einzeln<abbr v="en"/> Noten anbringen mus; die ver<pc force="weak">=</pc><lbr/>schiedene Art, die theils gleichen, theils ungleich<abbr v="en"/><lbr/>
+Noten zu verbinden und zusa<abbr type="topline" expand="mm">m</abbr>enzuhängen od<abbr v="er"/> auch<lbr/>
+wied<abbr v="er"/> die sonst gewöhnlich Art, zu tre<abbr type="topline" expand="nn">n</abbr><abbr v="en"/>, und derle&#255;<lbr/>
+viele andere Dinge sind es die in der sonst wohlge<pc force="weak">=</pc><lbr/>setzten Composition den Affect recht anzeigen und<lbr/>
+ergo machen müss<abbr v="en"/>. Und wie kan man diss alles<lbr/>
+durch die <rend class="latin">Theorie</rend> allein besti<abbr type="topline" expand="mm">m</abbr>en? Glauben sie mir,<lbr/>
+be&#255; dieser Welt rühret die beste Harmonie ni<abbr type="topline" expand="mm">m</abbr>ermehr,<lbr/>
+man will eine auf das edelste, ja eine i<abbr type="topline" expand="mm">m</abbr>er ganz neue<lbr/>
+und auf unerwarte Art vorgetragene Melodie hör<abbr v="en"/>,<lbr/>
+wenn man sich durch die Musik in dem Gemüthe<lbr/>
+recht soll getroffen find<abbr v="en"/>. Verzeihen sie mir meine<lbr/>
+Fre&#255;heit in verfassung eines so lang<abbr v="en"/> Briefes. Ich empfehle<lbr/>
+mich und ersterbe<lbr type="forced"/>
+<ts>____________________________</ts><tspdf>\hfill </tspdf><rend class="latin">Euer</rend> HochEhrwürd<abbr v="en"/><lbr type="forced"/>
+<rend class="latin">Salzb<abbr type="curve">:</abbr></rend> 17<h>t<abbr v="en"/></h>&#160;<rend class="latin">Sep:<h>bris</h></rend><ts>___</ts><tspdf>\hfill </tspdf>Ergebenster <persName key="39408"><rend class="latin">Leopold Mozart</rend></persName>&#160;<abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<ts>_____</ts>1755
+<pg n="5"/>
+<anschrift>
+<rend class="latin">Plur: Rdo: Relig:<h>o</h> ac Clariss:<h>o</h><lbr type="forced"/>
+Domino Patri <persName key="59365">Meinrado Spies</persName> O: S. P:<lbr type="forced"/>
+Benedicti in Celeb: et Imp<abbr type="curve">:</abbr> Monasterio<lbr type="forced"/> 
+Ursinensi Professo Colg<abbr type="curve">:</abbr> nec non p. t. Subpriori<lbr type="forced"/>
+digsso:<lbr type="forced"/>
+<ts>_______________</ts><u>Ursinium</u></rend>
+</anschrift>
+<pg n="6"/>
+<add_empf schr_id="59365">V. h<abbr type="curve">.</abbr>&#160;<rend class="latin">Leopold Mozart</rend><lbr/>
+<rend class="latin">Musico. Salisburg.</rend><lbr/>
+d.d. 17. <rend class="latin">Sept.</rend>&#160;<rend class="latin">A<h>o</h></rend> 1755.
+</add_empf>
+</NI>
+</letter></text>
+</MUP>

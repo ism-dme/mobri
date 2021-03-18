@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2011">2011-05</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=760</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">US-NYpm (S. 1-4); Verbleib unbekannt (S. 5; Abschrift von Georg Nikolaus Nissen: A-Sm)</bibl>
+            <bibl type="source" subtype="RISM">US-NYpm (The Morgan Library &amp; Museum), S. 1-4</bibl>
+            <bibl type="source" subtype="RISM">Verbleib unbekannt, S. 5</bibl>
+            <bibl type="source" subtype="RISM">Abschrift von Georg Nikolaus Nissen: A-Sm</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:37:16 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_199.mup">
+<letter bd="199"><NI src="US-NYpm"><HEADER id="760">LEOPOLD MOZART AN MARIA ANNA MOZART IN SALZBURG<lbr/>
+BOLOGNA, 21. JULI 1770<lbr/>
+mit Nachschriften von Wolfgang Amadé Mozart an Maria Anna und Maria Anna (Nannerl) Mozart</HEADER>
+<pg n="1"/>
+<add_note><rend class="latin">Jahn T.</rend> 139</add_note>
+<ts>_____________</ts><tshtm>_____________________________________________________</tshtm><tspdf>\hfill </tspdf><rend class="latin">Bologna</rend> d<abbr v="en"/> 21<h>t<abbr v="en"/></h>&#160;<uu><rend class="latin">Julij</rend> 1770</uu><lbr type="forced"/>
+<lbr type="forced"/>
+Mein und des Wolfgangerl Glückwunsch zu Deinem und der Nannerl<lbr/>
+Nahmenstage ko<abbr type="topline" expand="mm">m</abbr>t zwar spät, aber hoffentl: noch in der Octav. du wirst dir<lbr/>es<lbr type="BD"/>
+wohl so eingebildet hab<abbr v="en"/>, da du gewust hast, daß wir auf der Reise sind.<lbr/>
+ich nahm mir zwar vor unter weegs zu schreib<abbr v="en"/>; allein der Brief würde nach<lbr/>
+<rend class="latin">Venedi</rend>g und von da erst vielleicht gar über Wie<abbr type="topline" expand="nn">n</abbr> nach Salzb<abbr type="curve">:</abbr> gelauf<abbr v="en"/> se&#255;n.<lbr/>
+<add_note schr_id="57010"><ts>_________________________________________________</ts>zum Namenstage</add_note>
+Wir gratulier<abbr v="en"/> euch hiemit be&#255;de von Herz<abbr v="en"/> und wünschn euch <u>die Gesundheit,</u> vor<lbr/>
+allem aber <u>die Gnad Gottes</u>, sonst hab<abbr v="en"/> wir nichts nötig, daß<lbr type="BD"/> übrige findet<lbr/>
+sich alles. Wir sind den 10 <rend class="latin">Julij</rend> abends um 6 uhr von Rom mit<lbr type="BD"/> einem <rend class="latin">Vetturino</rend><lbr/>
+abgereist, die ganze Nacht ohne schlaff<abbr v="en"/> fortgefahr<abbr v="en"/> und<lbr type="BD"/> morgens um 5 uhr in <rend class="latin">Civita<lbr/>
+Castellana</rend> angelangt, aldort <rend class="latin">chioccolate</rend> getrunk<abbr v="en"/>, uns aufs Beth geworff<abbr v="en"/><lbr/>
+bis 10 uhr geschlaff<abbr v="en"/>, da<abbr type="topline" expand="nn">n</abbr> in der <rend class="latin">Dom</rend>kirche<lbr type="BD"/> eine hl: Mess gehört, nach derselb<abbr v="en"/><lbr/>
+hat d<abbr v="er"/> Wolfg<abbr type="curve">:</abbr> auf der Orgel gespielt,<lbr type="BD"/> da<abbr type="topline" expand="nn">n</abbr> hab<abbr v="en"/> wir Mittag gespeiset, uns<lbr/>
+wied<abbr v="er"/> ein paar stunde schlaf<abbr v="en"/> gelegt, und geg<abbr v="en"/> halbe 5 uhr abends abgereist.<lbr/>
+wir sind aber nur die erste<lbr type="BD"/> Tagreise die ganze Nacht gefahr<abbr v="en"/> aus vorsorge<lbr/>
+weg<abbr v="en"/> der <rend class="latin">Malaria</rend>. die<lbr type="BD"/> übrig<abbr v="en"/> täge sind wir allezeit morgens um 3 od<abbr v="er"/> 4 uhr<lbr/>
+morgens ausgefahr<abbr v="en"/>,<lbr type="BD"/> bis etwa 8 uhr od<abbr v="er"/> 9 uhr, da<abbr type="topline" expand="nn">n</abbr> sind wir geblieb<abbr v="en"/> bis<lbr/>
+abends um 4 uhr und<lbr type="BD"/> wied<abbr v="er"/> bis 8 od<abbr v="er"/> 9 uhr in die Nacht gefahr<abbr v="en"/>. übrigens war<lbr/>
+dieses eine<lbr type="BD"/> der mühesa<abbr type="topline" expand="mm">m</abbr>st<abbr v="en"/> Reis<abbr v="en"/> die ich gemacht habe. theils weg<abbr v="en"/> des wenig<abbr v="en"/><lbr type="BD"/> und<lbr/>
+unterbrochn<abbr v="en"/> schlafes, theils weg<abbr v="en"/> der unglaubl menge des ungezifers der<lbr/>
+flöhe und wanzen, die auch ein<abbr v="en"/> ganz ermüdet<abbr v="en"/> Cörper nicht<lbr type="BD"/> schlaff<abbr v="en"/> lass<abbr v="en"/>,<lbr/>
+sonderheitl: aber weg<abbr v="en"/> meinem fuss, welcher, ob er gleich<lbr type="BD"/> zi<abbr type="topline" expand="mm">m</abbr>lich gut war,<lbr/>
+durch die beständige Erschütterung des fahrens nicht nur<lbr type="BD"/> wied<abbr v="er"/> offen geword<abbr v="en"/>, sond<abbr v="ern"/><lbr/>
+unt<abbr v="en"/> so sehr aufgeschwoll<abbr v="en"/>, daß der waden<lbr type="BD"/> und untere theil in einer grösse war.<lbr/>
+ich konnte also meine gänge nicht mach<abbr v="en"/><lbr type="BD"/> und muste mich begnüg<abbr v="en"/> alles überhaupts<lbr/>
+nur zu seh<abbr v="en"/> und mehrentheils<lbr type="BD"/> bedacht se&#255;n mein<abbr v="en"/> fuss, so oft wir anglangt<abbr v="en"/> auf<lbr/>
+das Beth zu leg<abbr v="en"/>. Es traf<lbr type="BD"/> eb<abbr v="en"/> auf <u>d<abbr v="en"/> 16<h>t<abbr v="en"/></h>,</u> daß wir unsere Andacht in <rend class="latin">Loretto</rend><lbr/>
+macht<abbr v="en"/>. ich habe<lbr type="BD"/> 6 Glöckl. und verschiedene and<abbr v="er"/>e Sach<abbr v="en"/> gekauft. <uu><rend class="latin">NB</rend></uu> nebst <rend class="latin">Reliqui<abbr v="en"/></rend><lbr/>
+bringe<lbr type="BD"/> ich auch ein<abbr v="en"/> heil: Kreuz <rend class="latin">Particul</rend>&#160;<abbr expand="von">v</abbr> Rom mit.<lbr type="forced"/>
+<add_seal type="owner">CA</add_seal>
+<pg n="2"/>
+zu <rend class="latin">Sinegaglia</rend> hab<abbr v="en"/> wir den h<abbr type="curve">:</abbr>&#160;<rend class="latin">Brinsechi</rend> angetroff<abbr v="en"/>, weil itzt der berühmte<lbr/>
+jahrmarkt alda ist, den wir auch in augenschein geno<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>, und der würdig<lbr/>
+zu seh<abbr v="en"/> ist. die ganze Seeküste von <rend class="latin">Loretto</rend> bis <rend class="latin">Ri<abbr type="topline" expand="mm">m</abbr>ini</rend> ist mit soldat<abbr v="en"/><lbr/>
+und<lbr type="BD"/>&#160;<rend class="latin">Sbirri</rend> besetzt, der<abbr v="en"/> etwa 150, 200, auch 300 schritt von<lbr/>
+einand<abbr v="er"/> allzeit ein<lbr type="BD"/>&#160;<rend class="latin">piquet</rend> stehet, so wie auch an der höhe ein und<lbr/>
+and<abbr v="er"/>er Berge, um zu verhindern, daß die Seerauber nicht anland<abbr v="en"/>,<lbr/>
+und die reisend<abbr v="en"/> beunruhig<abbr v="en"/><lbr type="BD"/> kön<abbr v="en"/>. davon werde dir seiner Zeit mehrers<lbr/>
+erzehl<abbr v="en"/> kö<abbr type="topline" expand="nn">n</abbr><abbr v="en"/>. den 20<h>t<abbr v="en"/></h> sind<lbr type="BD"/> wir hier morgens um 8 uhr angelangt,<lbr/>
+nämlich gestern. meine erste Sorge war den ganz<abbr v="en"/> tag<lbr type="BD"/> auf dem Beth zu<lbr/>
+bleib<abbr v="en"/>, wo ich auch gespeist, so wie heut; und nun ist der<lbr type="BD"/> fuß augenscheinlich<lbr/>
+besser und die Geschwulst fast alle weg; mit nächster<lbr type="BD"/> Post werde dir mit<lbr/>
+der hilfe Gottes den fortgang der Besserung meiner Haxen<lbr type="BD"/> schreib<abbr v="en"/> könn<abbr v="en"/>.<lbr/>
+S:<h>e</h>&#160;<rend class="latin">Ex<abbr type="curve">:</abbr></rend> graf <rend class="latin">Pallavicini</rend> hab<abbr v="en"/> gestern und heut den geistl:<lbr type="BD"/> Hofmeister des<lbr/>
+jung<abbr v="en"/> h<abbr type="curve">:</abbr> graf<abbr v="en"/> zu mir geschickt, mir <rend class="latin">Doctores</rend> und<lbr type="BD"/>&#160;<rend class="latin">Chirurgos</rend> angetrag<abbr v="en"/>, ich habe<lbr/>
+mich für diesmahl bedanckt, da ich es, gottlob,<lbr type="BD"/> nicht nötig habe. S:<h>e</h>&#160;<rend class="latin">Ex<abbr type="curve">.</abbr></rend><lbr/>
+haben mir ferner sein<abbr v="en"/> Wagen und alles, was wir<lbr type="BD"/> nothwendig hab<abbr v="en"/>, angetrag<abbr v="en"/>.<lbr/>
+den Wag<abbr v="en"/> habe <rend class="latin">accepti</rend>ert, so bald auszugeh<abbr v="en"/> gesü<abbr type="topline" expand="nn">n</abbr>et bin: und wir werd<abbr v="en"/><lbr/>
+uns hier etwas lange aufhalt<abbr v="en"/>,<lbr type="BD"/> weil nicht weiter gehe, bis der fuß nicht<lbr/>
+vollko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/> gut ist. ich würde aus<lbr type="BD"/> Rom nicht gegang<abbr v="en"/> se&#255;n, we<abbr type="topline" expand="nn">n</abbr> es nicht weg<abbr v="en"/><lbr/>
+der anwachsend<abbr v="en"/> gefahr d<abbr v="er"/><lbr type="BD"/> Hitze und übl<abbr v="en"/> Luft nothwendig ge<pc force="weak">=</pc><lbr/>wesen wäre: und be&#255; diesem allem sind<lbr type="BD"/> zu iedermans Verwunderung noch<lbr/>
+i<abbr type="topline" expand="mm">m</abbr>er die Morg<abbr v="en"/> und abend nicht nur<lbr type="BD"/> frisch sond<abbr v="ern"/> so kalt gewes<abbr v="en"/>, daß wir<lbr/>
+die Nacht, die wir von Rom aus<lbr type="BD"/> nach <rend class="latin">Civita Castellana</rend> gefahr<abbr v="en"/>, unsere Peltz<lbr/>
+über unsere Mantl angelangt<lbr type="BD"/> um uns für d<abbr v="er"/> Kälte zu schütz<abbr v="en"/>; und in<lbr/>
+<rend class="latin">Sinegaglia</rend> sind wir in der frühe<lbr type="BD"/> um 8 Uhr mit dem Peltz am leib<lbr/>
+hineingefahr<abbr v="en"/>. Es war unser glück, daß<lbr type="BD"/> wir die Peltz nicht konnt<abbr v="en"/> in<lbr/>
+das <rend class="latin">Coffre</rend> bring<abbr v="en"/>. ganz Itali<abbr v="en"/> verwund<abbr v="er"/>t<lbr type="BD"/> sich über dieses Wetter.<lbr/>
+seit 2 täg<abbr v="en"/> fängt es erst an recht warm zu werd<abbr v="en"/>.<lbr type="forced"/>
+We<abbr type="topline" expand="nn">n</abbr> der Wolfg<abbr type="curve">:</abbr> so fortwächst, so wird er zi<abbr type="topline" expand="mm">m</abbr>lich gross nach Hause<lbr type="BD"/> ko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>.<lbr/>
+das düchene neue kleid, so zu Salzb<abbr type="curve">:</abbr> gemacht word<abbr v="en"/>, wird er<lbr type="BD"/> nächst<abbr v="en"/> winter<lbr/>
+<pg n="3"/>
+nicht mehr trag<abbr v="en"/>, es war die <rend class="latin">Veste</rend> letzt<abbr v="en"/> winter schon zu<lbr type="BD"/> klein.<lbr/>
+Lebt beyde wohl. ich küsse euch beyde und bin dein alter<lbr type="forced"/>
+<ts>____________________</ts><tshtm>________________________________________________________</tshtm><tspdf>\hfill </tspdf>Mozart <abbr expand="manu propria">mp</abbr>.
+<NS type="NS" schr_id="39409" adr_id="48815">Ich <rend class="latin">gratuliere</rend> der mama zu dero namensfest, und wünsche das die<lbr/>
+mama<lbr type="BD"/> noch möge viel 100 Jahr leben, und imer gesund bleiben,<lbr/>
+welches ich imer<lbr type="BD"/> be&#255; gott verlange, und bette alle tag und werde<lbr/>
+alle tag fleissig für ihnen<lbr type="BD"/> be&#255;de betten. Ich kan ohnmöglich mit<lbr/>
+etwas aufwarten, als mit etlichen <rend class="latin">loreto</rend><lbr type="BD"/> glökeln und kerzen<lbr/>
+und häubeln, und flöhe, wenn ich zurückkome, inzwischen<lbr type="BD"/> lebe die<lbr/>
+mama wohl, ich küsse der mama 1000 mahl die hände und verblei<pc force="weak">=</pc><lbr/>be bis in doth<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>____________________________</ts>ihr getreüer sohn<lbr type="forced"/>
+<ts>______________________________________________</ts><tspdf>\hfill </tspdf><rend class="latin">Wolfgang Mozart</rend>&#160;<abbr expand="manu propria">mp</abbr>.</NS>
+<NS type="NS" schr_id="39409" adr_id="48817">
+<ts>____________________________</ts><rend class="latin">Cara sorella mia:<lbr type="forced"/>
+Io vi auguro, che i dio vi dia sempre la salute e vi lasci vivere<lbr/>
+ancora cento<lbr type="BD"/> a<abbr type="topline" expand="nn">n</abbr>i, e vi faccia morire quando avrete mille a<abbr type="topline" expand="nn">n</abbr>i.<lbr/>
+spero, che voi impararete<lbr type="BD"/> meglio <amend value="conoscermi">conoscremi</amend> in awenire,<lbr/>
+e che poi ne giudicarete, come ch'egli vi<lbr type="BD"/> piace. il tempo<lbr/>
+non mi permette di scriver molto: la pena non wale un<lbr type="BD"/> corno,<lbr/>
+ne pure quello che la dirigge. il titilo dell'opera che hò da<lbr/>
+comporre à<lbr type="BD"/> Milano non si sà ancora. addio.</rend></NS>
+<pg n="4"/>
+<tspdf>\newpage</tspdf>
+<NS type="NS" schr_id="39408">An ganz Salzb<abbr type="curve">:</abbr> und sond<abbr v="er"/>heitl: an die Mariandeln<lbr/>
+unser <rend class="latin">Compt:<h>e</h></rend><lbr type="forced"/>
+schreibe nur i<abbr type="topline" expand="mm">m</abbr>er nach <u><rend class="latin">Bologna</rend>.</u><lbr type="forced"/>
+<lbr type="forced"/>
+Die 2 unglückl: <rend class="latin">histo</rend>ri<abbr v="en"/> der<abbr v="en"/>, die in ihr<abbr v="en"/> Rechnung<abbr v="en"/> um<lbr/>
+einige ziffern<lbr type="BD"/> zurück geblieb<abbr v="en"/>, wundert<abbr v="en"/> mich nicht sehr.<lbr/>
+mich wundert vielmehr, daß<lbr type="BD"/> man, da man beyspiele hat,<lbr/>
+nicht fleisiger nachsiehet. wie ka<abbr type="topline" expand="nn">n</abbr> es anders<lbr type="BD"/> se&#255;n? &#8211; <lbr/>
+kleine besoldung<abbr v="en"/>! grosse Krüge! und lange durchzüge!<lbr type="forced"/>
+<lbr type="forced"/>
+<amend value="du">durch</amend> hast geschrieb<abbr v="en"/>, daß d<abbr v="er"/> h<abbr type="curve">:</abbr> Meissner angelangt <abbr expand="und">u</abbr> mit<lbr/>
+dir<lbr type="BD"/> gesproch<abbr v="en"/>: allein du schreibst mir nicht wo er sich so<lbr/>
+lange aufgehalt<abbr v="en"/>? &#8211;<lbr type="BD"/> ob es wahr, daß er krank gewes<abbr v="en"/>? &#8211; <lbr/>
+unser <rend class="latin">Compt<abbr type="curve">.</abbr></rend> an ihn.</NS></NI>
+<pg n="5"/>
+<NS type="NS" schr_id="39409"><additum>[... (Briefabschriften)]</additum><lbr type="forced"/>
+Ich habe die Tausend und eine Nacht<lbr/>
+in italiän. Sprache von unsrer<lbr type="BD"/> Hausfrau zu Rom schenken<lbr/>
+bekommen: es ist recht lustig zu lesen.<lbr type="forced"/>
+<additum>[... (Briefabschriften)]</additum>
+</NS></letter>
+</text>
+</MUP>

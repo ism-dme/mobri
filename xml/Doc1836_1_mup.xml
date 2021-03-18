@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2009">2009-08-20</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=129</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:29:32 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/Doc1836_1_mup.txt">
+<HEADER id="129">CARL THOMAS MOZART UND CONSTANZE NISSEN AN FRIEDRICH SCHWAAN IN ROSTOCK<lbr/>
+SALZBURG, 17. OKTOBER 1836</HEADER>
+<pg n="1"/>
+Hochgeschätzter Herr!<ts>_____________________________________</ts><add_num type="inline" impl="pencil"><stroke>10f</stroke></add_num><lbr type="forced"/>
+<add_num type="inline"><ts>_________________________________________________________________________</ts>25</add_num><lbr type="forced"/>
+<ts>_____</ts>Die freundschaftliche Theilnahme welche Sie<lbr/>
+Hochgeschätzter Herr an unserer Familie nehmen, wie<lbr/>
+so häufig mir von meiner Mutter geschildert wird, und<lbr/>
+Ihr liebenswürdiger an dieselbe gerichteter Brief einen<lbr/>
+sprechenden Beweis bietet; flößet mir die Gesi<abbr type="topline" expand="nn">n</abbr>ungen<lbr/>
+der innigsten Erkenntlichkeit und Anhänglichkeit wie<lbr/>
+auch den heißen Wunsch ein daß auch mir die Ehre und<lbr/>
+das Vergnügen Ihrer persönlichen Bekanntschaft zu Theil<lbr/>
+werden möge.<lbr type="forced"/>
+<ts>_____</ts>In der Hofnung daß bey einem neuerlichen Besuche<lbr/>
+im deutschen Vaterlande die Umstände mir gestatten<lbr/>
+werden einen Ausflug in meine Geburtsstadt zu machen,<lbr/>
+und daselbst diesen Wunsch zu <rend class="latin">realisieren</rend>; ersuche ich<lbr/>
+Sie indeßen Schätzbarster H<abbr type="curve"></abbr> <rend class="latin">v: Schwaan</rend> die Versiche<pc force="weak">=</pc><lbr/>rung meiner Hochachtung und Freundschaft, wie auch das<lbr/>
+Anerbieten meiner Dienstfertigkeit zu jedem Ihrer<lbr/>
+werthen Befehle annehmen zu wollen, und unterzeichne<lbr/>
+mich<lbr type="forced"/>
+<ts>_____</ts>Dero Ergebenster aufrichtiger Diener und<lbr type="forced"/>
+<ts>____________________________</ts>Freund<lbr type="forced"/>
+<rend class="latin">Salzburg</rend> 17 8<h><abbr expand="ber">b<abbr type="curve"></abbr></abbr></h> 1836.<ts>________</ts><tspdf>\hfill </tspdf>&#160;<rend class="latin">Carl Mozart</rend>.<lbr/>
+<pg n="2"/>
+<vacat/>
+<pg n="3"/>
+<NS schr_id="48818">Sie sehen mein Hochgeschätzter Freund, daß ich Nun so glücklich, endlich auch<lbr/>
+diesen meinen so sehr geliebten Sohn in meine Arme zu schließen und<lbr/>
+ihm durch 3 Wochen täglich meinen Mütterlichen Segen mittheilen<lbr/>
+zu können <suppl hand="self" pos="supra">bin</suppl>, wofür ich meinen so gütigen Schöpfer nicht genug danck<pc force="weak">=</pc><lbr/>bar sein ka<abbr type="topline" expand="nn">n</abbr>, um so mehr, muß ich ihm danckbar sein, und bleiben,<lbr/>
+da er meinen so theueren Sohn mitten in der größten gefahr<lbr/>
+da die <rend class="latin">Cholera</rend> in Majland |: wo er angestelt ist :| war, doch<lbr/>
+wunderbar geschitzt <suppl hand="self" pos="supra">hat</suppl>; wo täglich Hunderde um ihn her<lbr/>
+das opfer dieser schrecklichen Kranckheit wurden. Ich bitte<lbr/>
+Sie mein Hochgeehrter Freund für mich ein Danckgebeth dem gütigen<lbr/>
+Schöpfer zu schicken, daß er mich dieses unaussprechlige glück, <u>mich</u><lbr/>
+<u>unwürdige</u>&#160;<u>sünderin</u> geniesen läßt, ach großer Gott! wie kan ich<lbr/>
+dir danckbar gnung sein, und werden, ich fühle wie groß deine<lbr/>
+liebe und barmherzigkeit gegen mich ist; ach ich will Dich lieben<lbr/>
+loben preißen anbethen, im geist und in der wahrheit, will dir<lbr/>
+und deinen geliebten Sohne meinen Heiland und erloßer ge<suppl hand="#DME"><pc force="strong">=</pc></suppl><lbr/>horsam sein, will Deine heiligen gebothe halten wodurch ich Hoffen<lbr/>
+ka<abbr type="topline" expand="nn">n</abbr> meinen Hi<abbr type="topline" expand="mm">m</abbr>lischem Vater und Gott Sohn in demuth<lbr/>
+und andacht wohl gefällig zu werden; um nur ja dieses<lbr/>
+Glückes würdig zu werden. Ich bitte Sie nochmahls mir mit<lbr/>
+Ihrem danck und gebete gegen unseren Hi<abbr type="topline" expand="mm">m</abbr>lischen Vater bei<lbr/>
+zu stehen, den Sie kö<abbr type="topline" expand="nn">n</abbr>en nicht glauben wie vollkomen glücklich<lbr/>
+ich bin. &#8211; bei durchlesung dieser wenigen zeilen, sehe ich daß ich<lbr/>
+recht kauter welsch geschrieben, allein Sie mein geliebter<lbr/>
+Freund werden mich doch verstehen; ich schliese daher und<lbr/>
+<tspdf>\newpage</tspdf> 
+warte auf zeiten wo ich ruhig sein werde. Leben Sie bis<lbr/>
+dahin und lieben i<abbr type="topline" expand="mm">m</abbr>er die Mozartische Famiele von meiner guten<lbr/>
+Schwester alles erdenkliche so wie von mir an Ihre liebe Gattin.</NS>
+<pg n="4"/>
+<anschrift schr_id="48820" rot="270"><rend class="latin">Herrn<lbr type="forced"/>
+Herrn Franz Schwaan</rend><lbr type="forced"/>
+Musik Lehrer<lbr type="forced"/>
+in<lbr type="forced"/>
+<rend class="latin">Rostock</rend>.</anschrift></text>
+</MUP>

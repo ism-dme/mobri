@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2012">2012-10</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=958</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:38:31 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_394.mup">
+<letter bd="394"><HEADER id="958">MARIA ANNA MOZART AN LEOPOLD MOZART IN SALZBURG<lbr/>
+MANNHEIM, 20. DEZEMBER 1777<lbr/>
+mit Nachschriften von Wolfgang Amadé Mozart an Leopold Mozart, Rosalie Joly und Maria Anna (Nannerl) Mozart</HEADER>
+<pg n="1"/>
+
+_<tshtm>__________________________________________</tshtm><ts>___</ts><add_num type="inline" impl="pencil"><u>24</u></add_num>_<tshtm>_______________________</tshtm>_<tspdf>\hfill </tspdf><rend class="latin">Manheim</rend> d<abbr v="en"/> 20<h>t<abbr v="en"/></h>&#160;<rend class="latin">decem</rend><h>ber</h><lbr type="forced"/>
+Mein lieber Mann_<tshtm>___________________________________________________________</tshtm><ts>__________</ts><tspdf>\hfill </tspdf>1777<lbr type="forced"/>
+<lbr type="forced"/>
+den augenblick habe dein schreib<abbr v="en"/> von 15<h>t<abbr v="en"/></h> erhalten, und mit Vergnüg<abbr v="en"/><lbr type="BD"/><lbr/>
+ersehen das ihr be&#255;de gesund se&#255;d, gott se&#255;e gedanckt, wür sind es in<lbr/>
+gleich<abbr v="en"/>.<lbr type="BD"/> der Wolfgang ist nicht zu haus, und würd dein<abbr v="en"/> brief erst<lbr/>
+abends um 11 uhr<lbr type="BD"/> wan er nach haus komt lesen, das es uns guth<lbr/>
+gehet, habe dir lestens als den<lbr type="BD"/> 18<h>t<abbr v="en"/></h> geschrib<abbr v="en"/>, und diese 2 täg bin ich<lbr/>
+nicht aus den haus geko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>,<lbr type="BD"/> denn es ist Nasses wetter und kald darbe&#255;.<lbr/>
+Morgen als Sontag speisen wür ich und der Wolfgang bey unsern<lbr/>
+hausherrn hofka<abbr type="topline" expand="mm">m</abbr>erRath <rend class="latin">Serarius</rend>, dessentwegen schreibe ich heunte.<lbr/>
+dan morgen mecht<abbr v="en"/> wür zu späth weck ko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>,<lbr type="BD"/> dan die post gethet<lbr/>
+abends um 6 uhr. was du wegen den beicht<abbr v="en"/> schreibest ist<lbr type="BD"/> schon zu<lbr/>
+Maria Empfängnus geschech<abbr v="en"/>, under der woch<abbr v="en"/> hören wür zwahr<lbr type="BD"/><lbr/>
+selt<abbr v="en"/> Mösse, denn es würd späth tage, so könn<abbr v="en"/> wür nicht <suppl hand="self" pos="supra">ender</suppl> förthig<lbr type="BD"/><lbr/>
+werd<abbr v="en"/>, dann die leste möss ist um 11 uhr und sehr weith von uns.<lbr/>
+Son= und<lbr type="BD"/> fe&#255;rtäg aber ist sie nächer be&#255; uns in der Pfahr Kirchen.<lbr/>
+der Wolfgang gehet<lbr type="BD"/> aber alzeit Sontags in die hofKirch in das<lbr/>
+hochampt, um die <rend class="latin">Music</rend> zu hören.<lbr type="BD"/> Neues weis ich gar nichts zu<lbr/>
+schreiben, dann es ist seyd 2 täg<abbr v="en"/> nichts pasiert,<lbr type="BD"/> ich werde hinfiro<lbr/>
+alle 8 täge schreib<abbr v="en"/>, so ist es besser der miehe werth, dan<lbr type="BD"/> der brief<lbr/>
+kost alzeit 12 <rend class="latin">X</rend> er mag gros oder klein sein, unsere schreibtäge<lbr/>
+ko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/> so nache zu sa<abbr type="topline" expand="mm">m</abbr>en, nehmlich, donerstag, und Samstag, das<lbr/>
+man es<lbr type="BD"/> leichter auf einmahl schreibt. noch ist der barth nicht<lbr/>
+barbiertet word<abbr v="en"/>, sondern nur mit den scherl geschnitt<abbr v="en"/>, es wird<lbr/>
+sich aber nicht mehr thuen lass<abbr v="en"/>,<lbr type="BD"/> mit nechsten wird der barbierer<lbr/>
+herrhalt<abbr v="en"/> miessen. der <rend class="latin">Sallel</rend> lass<abbr v="en"/> wür alles<lbr type="BD"/> erdenckliches hin<pc force="weak">=</pc><lbr/><lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal><lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+
+<pg n="2"/>
+gegen winsch<abbr v="en"/>, wie auch unsern besten freind Herrn<lbr type="BD"/> bullinger.<lbr type="forced"/>
+<NS type="NS" schr_id="39409">Ich wünsche ihnen, allerliebster Papa, ein recht glückseeliges Neües jahr, und<lbr type="BD"/> daß<lbr/>
+dero mir so werthe gesundheit täglich mehr zuni<abbr type="topline" expand="mm">m</abbr>t, und das zum Nuzen<lbr type="BD"/> und zur<lbr/>
+freüde ihrer frau, und ihrer kinder; zum vergnügen ihrer wahren<lbr type="BD"/> freünde,<lbr/>
+und zum troz und verdrus ihrer feinde! &#8211; &#8211; ich bitte sie mich das<lbr type="BD"/> ko<abbr type="topline" expand="mm">m</abbr>ende jahr<lbr/>
+auch so vätterlich zu lieben, wie sie bishero gethan haben!<lbr type="BD"/> ich meinerseits werde<lbr/>
+mich bemühen und befleissen die liebe eines so fürtreflichen Vatters i<abbr type="topline" expand="mm">m</abbr>ermehr zu<lbr/>
+verdienen; ich war mit ihren lezten schreiben,<lbr type="BD"/> nemlich von 15:<h>t:</h>&#160;<rend class="latin">dec:<h>bre</h></rend> recht herzlich zu<pc force="weak">=</pc><lbr/>frieden, weil ich daraus verno<abbr type="topline" expand="mm">m</abbr>en<lbr type="BD"/> habe, daß sie sich gott lob und danck recht<lbr/>
+gut befinden. wir sind be&#255;de auch<lbr type="BD"/> mit der hülf gottes ganz wohlauf. mir ka<abbr type="topline" expand="nn">n</abbr><lbr/>
+es ja gar nicht fehlen; denn ich<lbr type="BD"/> mach gewis <rend class="latin">Comotion</rend> genug. ich schreibe izt dieses<lbr/>
+um 11 uhr nachts, weil<lbr type="BD"/> ich sonst keine zeit habe. vor 8 uhr kö<abbr type="topline" expand="nn">n</abbr>en wir nicht auf<pc force="weak">=</pc><lbr/>stehen, <suppl hand="self" pos="infra">de<abbr type="topline" expand="nn">n</abbr></suppl> in<lbr type="BD"/> unsern zi<abbr type="topline" expand="mm">m</abbr>er |: weil es zu ebner=erd ist :| wird es erst um <formula type="mfrac"><mn>1</mn><mi>2</mi></formula> 9 uhr<lbr/>
+Tag. da<abbr type="topline" expand="nn">n</abbr><lbr type="BD"/> ziehe ich mich geschwind an. um 10 seze ich mich zum <rend class="latin">Componiren</rend>, bis 12 uhr<lbr type="BD"/><lbr/>
+oder <formula type="mfrac"><mn>1</mn><mi>2</mi></formula> 1 uhr, da<abbr type="topline" expand="nn">n</abbr> gehe ich zum wendling, dort schreibe ich noch ein wenig<lbr type="BD"/> bis <formula type="mfrac"><mn>1</mn><mi>2</mi></formula> 2 uhr,<lbr/>
+da<abbr type="topline" expand="nn">n</abbr> gehen wir zu tisch, unterdessen wird es 3 uhr; da muß ich in Mainzischen<lbr/>
+hof | wirthshaus | zu einen Holändischen <rend class="latin">officier</rend>, um ihm in <rend class="latin">gallanterie</rend> und <rend class="latin">general</rend><lbr/>
+bass <rend class="latin">lection</rend> zu geben, wofür ich wen ich nicht irre,<lbr type="BD"/> 4 <rend class="latin">ducaten</rend> für 12 <rend class="latin">lectionen</rend><lbr/>
+habe; um 4 uhr muß ich nach haus, um die tochter<lbr type="BD"/> zu <rend class="latin">instruiren</rend>; da fangen<lbr/>
+wir vor <formula type="mfrac"><mn>1</mn><mi>2</mi></formula> 5 uhr niemahl an, weil man auf die lichter<lbr type="BD"/> wartet. um 6 uhr gehe ich<lbr/>
+zum Ca<abbr type="topline" expand="nn">n</abbr>abich und lehre die <rend class="latin">Mad:<h>selle</h> Rose</rend>; dort<lbr type="BD"/> bleibe ich be&#255;m nacht essen, da<abbr type="topline" expand="nn">n</abbr> wird<lbr/>
+<rend class="latin">discurirt</rend> &#8211; &#8211; oder bisweilen gespiellt,<lbr type="BD"/> da ziehe ich aber allzeit ein buch aus<lbr/>
+meiner tasche, und lese &#8211; &#8211; wie ich es zu<lbr type="BD"/>&#160;<rend class="latin">salzburg</rend> zu machen pflegte.<lbr type="forced"/>
+Ich habe geschrieben, daß mir ihr lezter brief viell freüde gemacht hat; das<lbr type="BD"/> ist wahr!<lbr/>
+nur eines hat mich ein wenig verdrossen &#8211; &#8211; die frage, ob ich nicht<lbr type="BD"/> das beichten<lbr/>
+etwa vergessen habe? &#8211; &#8211; ich habe aber nichts dawider einzuwenden. Nur<lbr/>
+eine bitte erlauben sie mir: und diese ist, nicht gar so schlecht<lbr type="BD"/> von mir zu dencken!<lbr/>
+ich bin gern lustig, aber se&#255;en sie versichert, daß ich troz<lbr type="BD"/> einem jedem Ernsthaft<lbr/>
+se&#255;n kan. ich habe seit ich von <rend class="latin">salzburg</rend> weg bin |: und<lbr type="BD"/> auch in <rend class="latin">salzburg</rend>, selbst :|<lbr/>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="3"/>
+leüte angetroffen, wo ich mich geschämt hätte, so zu<lbr type="BD"/> reden und zu handln, ob<pc force="weak">=</pc><lbr/>wohlen sie 10, 20 und 30 jahr älter waren, als ich! &#8211; &#8211;<lbr type="BD"/> ich bitte sie also<lbr/>
+nochmahl, und recht unterthänig, eine bessere Meinung von<lbr type="BD"/> mir zu haben.<lbr/>
+an h<abbr type="curve">:</abbr> bullinger, meinen allerbesten freünd, bitte meine<lbr type="BD"/> Empfehlung, und<lbr/>
+einen recht freündschaftlichen Neu=jahrswunsch abzulegen.<lbr type="BD"/> an alle gute freünd<lbr/>
+und freündinen meine Empfehlung. <rend class="latin">NB</rend>: an <rend class="latin">P. <u>Dominicus.</u></rend><lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____</ts>Meine liebste Sallerl mein schazerl!<lbr type="BD"/><lbr type="forced"/>
+<ts>_____</ts>Meine liebste Na<abbr type="topline" expand="nn">n</abbr>erl mein schwesterl!<lbr type="BD"/><lbr type="forced"/>
+<lbr type="forced"/>
+Ich thue mich halt bedancken, für deinen glückwunsch, Engel,<lbr type="BD"/><lbr type="forced"/>
+und hier hast ein von Mozart, von den grobeinzign bengel,<lbr type="BD"/><lbr type="forced"/>
+ich wünsch dir glück und freüde, wens doch die sachen giebt,<lbr type="BD"/><lbr type="forced"/>
+und hof du wirst mich lieben, wie dich der woferl liebt;<lbr type="BD"/><lbr type="forced"/>
+ich kan dir wahrlich sagen, daß er dich thut verehren,<lbr type="BD"/><lbr type="forced"/>
+<add_note schr_id="57010"><ts>____________________________</ts><rend class="latin">X</rend></add_note>
+er luf dir ja ins foia, wens dus thatst a begehren,<lbr type="BD"/><lbr type="forced"/>
+ich me&#255;n ich mus so schreiben, wie er zu reden pflegt!<lbr type="BD"/><lbr type="forced"/>
+mir ist so frisch vor augen, die liebe die er hegt<lbr type="BD"/><lbr type="forced"/>
+für seine <rend class="latin">joli sallerl</rend>, und seine schwester Nanzerl!<lbr type="BD"/><lbr type="forced"/>
+ach ko<abbr type="topline" expand="mm">m</abbr>t gschwind her ihr lieben, wir machen gschwind ein <suppl hand="self" pos="infra">tanzerl</suppl>,<lbr type="BD"/><lbr type="forced"/>
+es sollen leben alle, der Papa und d'mama,<lbr type="forced"/>
+die schwester und der bruder, huisassa, hupsasa!<lbr type="BD"/><lbr type="forced"/>
+und auch d'metress vom woferl, und auch der woferl selbst,<lbr type="BD"/><lbr type="forced"/>
+und das so lange lange &#8211; so lang als er noch krelbst,<lbr type="BD"/><lbr type="forced"/>
+so lang als er noch Prunzen, und wacker scheissen kan,<lbr type="BD"/><lbr type="forced"/>
+so lang bleibt er und d'Sallerl, und 's schwesterle voran,<lbr type="BD"/><lbr type="forced"/>
+ein saubers g'sindel &#8211; auweh! ich mus gschwind nach schlaraffen,<lbr type="BD"/><lbr type="forced"/>
+und das izt gleich um 12 uhr; da<abbr type="topline" expand="nn">n</abbr> dort thut man schon schlaffen.<lbr type="forced"/>
+<ts>________________________________________</ts><rend class="latin">Wolfgang Amadè Mozart</rend>&#160;<abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+</NS>
+<ts>________________________________________</ts><rend class="latin">Marie a<abbr type="topline" expand="nn">n</abbr>a Mozart</rend>&#160;<abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<add_note schr_id="57010"><ts>________</ts>X ( ich lief dir ja ins Feuer)</add_note>
+
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal><lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+
+
+<pg n="4"/>
+<anschrift><add_note type="inline"><rend class="latin">frco<u>Augs<abbr type="curve"></abbr></u></rend></add_note>  <rend class="latin">À<lbr type="forced"/>
+Monsieur<lbr type="forced"/>
+Monsieur Leopold Mozart<lbr type="forced"/>
+maitre de la Chapelle de<lbr type="BD"/> S: A: R:<lbr type="forced"/>
+L'archeveque de et à<lbr type="forced"/>
+<u>Salzbourg</u></rend></anschrift><lbr/>
+<add_num impl="crayon" color="red" rot="180"><rend class="latin">N</rend>. 24</add_num>
+<add_num impl="crayon" color="red"><rend class="latin">N</rend>. 24.</add_num></letter>
+</text>
+</MUP>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2011">2011-05</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=802</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:37:32 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_241.mup">
+<letter bd="241"><HEADER id="802">LEOPOLD MOZART AN MARIA ANNA MOZART IN SALZBURG<lbr/>
+VERONA, 18. AUGUST 1771<lbr/>
+mit Nachschrift von Wolfgang Amadé Mozart an Maria Anna (Nannerl) Mozart</HEADER>
+<pg n="1"/>
+<ts>______________</ts><tshtm>____________________________________________________________________</tshtm><tspdf>\hfill </tspdf><rend class="latin">Verona</rend> 18 <u><rend class="latin">August</rend> 1771</u><lbr type="forced"/>
+<lbr type="forced"/>
+Mein<abbr v="en"/> klein<abbr v="en"/> Brief aus Botz<abbr v="en"/> wirst du richtig empfang<abbr v="en"/> hab<abbr v="en"/>. Nun will<lbr type="BD"/> ich dir<lbr/>
+ausführlicher schreib<abbr v="en"/>. der erste tag unserer Abreise war ein artiges<lbr type="BD"/> Mischmasch.<lbr/>
+im <u>Kalterl</u> assen wir stehend<abbr v="en"/> fusses ein paar Stückl <u>Dällerfleisch</u> unter der Zeit als<lbr/>
+der Postillion den Pferd<abbr v="en"/> ein wenig Heu gab, und<lbr type="BD"/> trank<abbr v="en"/> ein maas recht gut<abbr v="en"/>&#160;<u>Merz<abbr v="en"/>=</u><lbr/>
+<u>biers</u> dazu. In <u>Waidring</u> assen wir <u>eine<lbr type="BD"/> Suppe</u> und trank<abbr v="en"/> ein gar nicht übles<lbr/>
+<u>St: Johanser=bier</u> dazu. In <u>St: Joha<abbr type="topline" expand="nn">n</abbr>s</u><lbr type="BD"/> assen wir zu nacht und den 14 speist<abbr v="en"/> wir<lbr/>
+auf der Post zu <suppl hand="self" pos="supra"><u>Kundl</u></suppl> und nachts<lbr type="BD"/> in <u>I<abbr type="topline" expand="nn">n</abbr>sprugg.</u> d<abbr v="en"/> 15 mittags in <u>Steinach</u>, nachts<lbr/>
+in <u>brixen</u>. den 16 mittags in<lbr type="BD"/>&#160;<u>Botz<abbr v="en"/></u>, nachts in <suppl hand="self" pos="supra"><u>Trient</u></suppl>. D<abbr v="en"/> 17 um 9 uhr vormittag<lbr/>
+langt<abbr v="en"/> wir in <rend class="latin">Roveredo</rend><lbr type="BD"/> an in der Meinung nachts in <rend class="latin">Verona</rend> zu se&#255;n und die zwe&#255;<lbr/>
+h<abbr type="curve">.</abbr>&#160;<rend class="latin">Piccini</rend> in <rend class="latin">Alla</rend><lbr type="BD"/> auf Mittag zu überfall<abbr v="en"/>. wir wurd<abbr v="en"/> auch richtig um die Mittags<pc force="strong">=</pc><lbr/>Stunde alda<lbr type="BD"/>
+eingetroff<abbr v="en"/> se&#255;n, we<abbr type="topline" expand="nn">n</abbr> wir uns nicht <u>erstens</u> be&#255; h<abbr type="curve">:</abbr>&#160;<rend class="latin">Baron Pizzini</rend><lbr/>
+in <rend class="latin">Roveredo</rend> |: da auch gleich h<abbr type="curve">:</abbr>&#160;<rend class="latin">Dr<h>e</h>: Bridi</rend> kam :| zu lange verweilt und erst um<lbr/>
+halbe<lbr type="BD"/> 11 uhr abgereist, und da<abbr type="topline" expand="nn">n</abbr> auf dem Weeg nicht so viele Hindernisse gehabt<lbr/>
+hätt<abbr v="en"/>: da uns h<abbr type="curve">:</abbr>&#160;<rend class="latin">Lolli</rend> der berühmte <rend class="latin">Violin</rend>spieler entgeg<abbr v="en"/> kam, und folglich<lbr/>
+die Postillion die Pferde abwechselt<abbr v="en"/>, und überdaß die baurenfuhr<abbr v="en"/> uns<lbr/>
+manche hindernisse in eng<abbr v="en"/> weeg<abbr v="en"/> verursacht<abbr v="en"/>. Wir langt<abbr v="en"/> demnach erst<lbr type="BD"/> geg<abbr v="en"/><lbr/>
+1 uhr nach Mittags be&#255; d<abbr v="en"/> 2 h<abbr type="curve">.</abbr>&#160;<rend class="latin">Piccini</rend> in <rend class="latin">Alla</rend> an; und ich entschloss<lbr type="BD"/> mich schon<lbr/>
+ehe ich dahin kam dort zu verbleib<abbr v="en"/>, weil ich es nicht wag<abbr v="en"/><lbr type="BD"/> wollte nach <rend class="latin">Verona</rend> zu<lbr/>
+geh<abbr v="en"/>, indem sie alda um <rend class="latin">ave maria</rend> Zeit die thore<lbr type="BD"/> sperr<abbr v="en"/>, überdaß die Hitze<lbr/>
+sehr gross war, und wir in unsern Reisekleid<abbr v="ern"/><lbr type="BD"/> heut bequemlicher in <rend class="latin">Alla</rend> als<lbr/>
+in <rend class="latin">Verona</rend> in die Kirche geh<abbr v="en"/> kunt<abbr v="en"/>. In <rend class="latin">alla</rend><lbr type="BD"/> unterhielt<abbr v="en"/> wir uns mit Musik, od<abbr v="er"/><lbr/>
+wir unterhielt<abbr v="en"/> vielmehr sie, und reiset<abbr v="en"/> heut erst um 7 uhr von<lbr/>
+da nach <rend class="latin">Verona</rend>, wo wir um halbe 1 uhr be&#255;<lbr type="BD"/>&#160;<rend class="latin">Sgr: Luggiati</rend> abstieg<abbr v="en"/> und<lbr/>
+um 1 uhr zum Mittagmahl gieng<abbr v="en"/>. itzt nach<lbr type="BD"/> tische hat sich alles schlaff<abbr v="en"/><lbr/>
+gelegt und ich bediene mich d<abbr v="er"/> Zeit, mit einer<lbr type="BD"/> elend<abbr v="en"/> fed<abbr v="er"/>, unter einer nicht klein<abbr v="en"/><lbr/>
+Hitze dies<abbr v="en"/> Brief herzuschmier<abbr v="en"/>.<lbr type="BD"/> den Wolfgang habe mit vieler Mühe<lbr/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal><lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="2"/>
+auch zum schlaff<abbr v="en"/> beredet; allein es<lbr type="BD"/> dauerte sein schlaf nur eine halbe<lbr/>
+Stund. Nun muß dir sag<abbr v="en"/>, daß ich in der<lbr type="BD"/> Eyl vergess<abbr v="en"/> habe<lbr/>
+einige <rend class="latin">Clavier Sonaten</rend> und <rend class="latin">Trio</rend> für ein<abbr v="en"/> gut<abbr v="en"/> freund<lbr type="BD"/> in Mayland<lbr/>
+mit zu nehm<abbr v="en"/>, der uns viele dienst getha<abbr type="topline" expand="nn">n</abbr>. We<abbr type="topline" expand="nn">n</abbr> nun h<abbr type="curve">:</abbr><lbr type="BD"/> Troger<lbr/>
+nach Salzb<abbr type="curve">:</abbr> ko<abbr type="topline" expand="mm">m</abbr>t, so bitte ihn solche mit zu nehm<abbr v="en"/>, und richte<lbr type="BD"/> solche<lbr/>
+unterdess<abbr v="en"/> in Ordnung. Die Na<abbr type="topline" expand="nn">n</abbr>erl soll also die 2 <rend class="latin">Trio</rend> heraussuch<abbr v="en"/><lbr/>
+eins vom <rend class="latin">Joseph Haydn <u>ex F</u></rend> mit einem<lbr/>
+<rend class="latin">Violin</rend> und <rend class="latin">Violoncello</rend>. und eins <rend class="latin"><u>ex C</u></rend>.<lbr type="BD"/> steht darauf <rend class="latin">Wagenseil</rend><lbr/>
+<u><rend class="latin">NB</rend></u> mit <rend class="latin">Variation<abbr v="en"/></rend>. und das vom <rend class="latin">Adlgasser</rend>&#160;<u><rend class="latin">ex G</rend></u>. die<lbr type="BD"/> kleine <rend class="latin">Cassation</rend><lbr/>
+vom Wolfgang <rend class="latin">ex C</rend>. und etliche gute <rend class="latin">Sonaten</rend> von <rend class="latin">Rutini</rend>.<lbr type="BD"/> zum<lbr/>
+Exempl aus dem <u><rend class="latin">Eb</rend></u>, aus dem <u><rend class="latin">D.</rend></u>&#160;<abbr expand="etc:">p:</abbr> Die Na<abbr type="topline" expand="nn">n</abbr>erl hat solche doch,<lbr/>
+we<abbr type="topline" expand="nn">n</abbr><lbr type="BD"/> sie selbe spiel<abbr v="en"/> will, de<abbr type="topline" expand="nn">n</abbr> sie sind in den gestochn<abbr v="en"/> Rutinisch<abbr v="en"/>&#160;<rend class="latin">Sonaten</rend><lbr/>
+von <rend class="latin">Nürnberg</rend>. mache unsere Empfehlung an <rend class="latin">Mr: Troger</rend> und bittet<lbr/>
+ihn, daß<lbr type="BD"/> er euch be&#255; S:<h>r</h>&#160;<rend class="latin">Ex<abbr type="curve">:</abbr></rend> h<abbr type="curve">:</abbr> graf <abbr expand="von">v</abbr>&#160;<rend class="latin">Firmian</rend> auführe um<lbr/>
+eure Copt zu mach<abbr v="en"/>, wir<lbr type="BD"/> hab<abbr v="en"/> ihm viel <rend class="latin">obligation</rend>, und<lbr/>
+unterlasset es nicht. so bald es möglich, werde<lbr type="BD"/> von Mayland schreib<abbr v="en"/>,<lbr/>
+lebt gesund, wir kiss<abbr v="en"/> euch viel 100000 mahl<lbr type="BD"/>&#160;<abbr expand="und">u</abbr> bin<lbr type="forced"/>
+<ts>_________________</ts><tshtm>______________________________________________________________</tshtm><tspdf>\hfill </tspdf>dein alter<lbr type="forced"/>
+schön geschrieb<abbr v="en"/>!<ts>___________</ts><tshtm>___________________________________________</tshtm><tspdf>\hfill </tspdf>Mzt <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<lbr type="forced"/>
+Meine Empf<abbr type="curve">:</abbr> an alle gute freund <abbr expand="und">u</abbr> freundin<abbr v="en"/>!<lbr type="forced"/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal><lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="3"/>
+<NS type="NS" schr_id="39409" adr_id="48817">
+<ts>_________________________</ts>Allerliebste schwester.<lbr type="forced"/>
+<lbr type="forced"/>
+Ich hab nicht mehr als eine halbe stund geschlaffen, da<abbr type="topline" expand="nn">n</abbr> das schlaf<pc force="weak">=</pc><lbr/>fen nach<lbr type="BD"/> den essen freüet mich nicht. du kanst hoffen, glauben,<lbr/>
+Me&#255;nen, der me&#255;nung<lbr type="BD"/> se&#255;n, in der stäten hofnung verharren,<lbr/>
+gut befinden, dir einbilden, dir vorstellen, in Zuversicht leben<lbr/>
+daß wir gesund sind, aber gewis kan ich dir<lbr type="BD"/> nachricht geben.<lbr/>
+ich muß eilen. <rend class="latin">addio</rend>. Mein <rend class="latin">Compl:</rend> an alle gutte freünd, und<lbr/>
+freündinen. den h<abbr type="curve">:</abbr> von hefner winsche glück zur reis anstat<lbr/>
+meiner, frag ihn,<lbr type="BD"/> ob er die a<abbr type="topline" expand="nn">n</abbr>amiedl nicht gesehen?<lbr type="forced"/>
+<rend class="latin">Addio</rend>. lebe gesund. meinen handkuß an die mama.<lbr type="forced"/>
+schöne schrift!<ts>_______________________________________________</ts><tspdf>\hfill </tspdf>wolfgang.</NS><lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal><lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="4"/>
+<anschrift rot="270"><rend class="latin">À Madame<lbr type="forced"/>
+Madame Marie A<abbr type="topline" expand="nn">n</abbr>e<lbr type="forced"/>
+Mozart<lbr type="forced"/>
+à<lbr type="forced"/>
+<u>Salzbourg</u></rend></anschrift><lbr/>
+<add_note schr_id="48817" rot="90"><rend class="latin">N:</rend> 2 aus <rend class="latin">verona</rend></add_note><lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal><lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal></letter></text>
+</MUP>

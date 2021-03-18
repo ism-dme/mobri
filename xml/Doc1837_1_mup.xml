@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2009">2009-08-20</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=130</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:29:32 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/Doc1837_1_mup.txt">
+<HEADER id="130">J. G. SCHULLER &#38; CO AN CONSTANZE NISSEN IN SALZBURG<lbr/>
+WIEN, 8. FEBRUAR 1837</HEADER>
+
+
+<pg n="1"/>
+<ts>__________</ts>Wohlgeborne Frau.<lbr type="forced"/>
+<lbr type="forced"/>
+In Erwiederung Ihres Werthen vom 4 dieses<lbr/>
+haben wir die für Sie erkauften 5 <unclear>Stp</unclear>&#160;<rend class="latin">Bank<lbr/>
+actien</rend> auf Ihren w Namen schreiben laßen,<lbr/>
+und senden Ihnen diese Papiere Ihrem früheren<lbr/>
+Auftrage gemäß, mit dem morgen dahin fahrenden<lbr/>
+Postwagen, unter der <rend class="latin">adresse</rend> v dh<abbr type="curve"></abbr> Franz Xaver<lbr/>
+<rend class="latin">Späth</rend>, wovon wir Ihnen guten Empfang wünschen<lbr/>
+und wofür Sie uns zu entlasten belieben.<lbr/>
+Ihre <rend class="latin">Pension</rend> aus <rend class="latin">Copenhagen</rend> haben wir noch i<abbr type="topline" expand="mm">m</abbr>[er]<lbr/>
+nicht erhalten. &#8211; Wir zeichnen mit aller Acht[ung]<lbr type="forced"/>
+<ts>__________</ts>Euer Wohlgeborn<lbr type="forced"/>
+Wien 8 februar 1837.<lbr type="forced"/>
+<ts>__________________________________</ts><tspdf>\hfill </tspdf> ergebner Diene[r]<lbr type="forced"/>
+<ts>__________________________________</ts><tspdf>\hfill </tspdf>&#160;<rend class="latin">J G Schuller &#38; Co</rend><lbr type="forced"/>
+<ts>__</ts>An Ihro der<lbr type="forced"/>
+verwittibten <rend class="latin">Etats</rend> Räthin<lbr type="forced"/>
+<ts>_____</ts><rend class="latin">Constanze von Nissen</rend><lbr type="forced"/>
+<ts>_______</ts>Wohlgeboren
+<ts>____</ts><rend class="latin">Salzburg</rend>.
+<pg n="2"/>
+<vacat/>
+<pg n="3"/>
+<vacat/>
+<pg n="4"/>
+<anschrift rot="270">An Ihro der<lbr type="forced"/>
+verwittibten Frau <rend class="latin">Etats</rend>-Räthin<lbr type="forced"/>
+<rend class="latin">Constanze von Nissen</rend><lbr type="forced"/>
+Wohlgeborn<lbr type="forced"/>
+<rend class="latin">Salzburg</rend></anschrift><lbr type="forced"/>
+<add_seal type="post">WIEN</add_seal><lbr type="forced"/>
+<add_seal type="post">SALZBURG<lbr type="forced"/>
+14 FEB.</add_seal></text>
+</MUP>

@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2012">2012-10</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=984</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:38:41 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_420.mup">
+<letter bd="420"><HEADER id="984">LEOPOLD MOZART AN MARIA ANNA UND WOLFGANG AMADÉ MOZART IN MANNHEIM<lbr/>
+SALZBURG, 9. FEBRUAR 1778<lbr/>
+mit Nachschrift von Maria Anna (Nannerl) Mozart</HEADER>
+
+<pg n="1"/>
+Mein Liebes Weib!_<tshtm>____________________________________________________________</tshtm><ts>__</ts><add_num type="inline" impl="crayon">39</add_num><ts>____________________</ts><tspdf>\hfill </tspdf>Salzb<abbr type="curve">:</abbr> d<abbr v="en"/> 9<h>t<abbr v="en"/></h>&#160;<rend class="latin">febr<abbr type="curve"></abbr></rend>:<lbr type="forced"/>
+<ts>__</ts><tshtm>_______________________________________________________________</tshtm><ts>_____</ts><tshtm>_____________________________</tshtm><ts>__________________________________</ts><tspdf>\hfill </tspdf><u>1778</u><lbr type="forced"/>
+<lbr type="forced"/>
+Itzt wird man wohl von den<abbr v="en"/> Umständ<abbr v="en"/> des Beyerlandes in Manheim genug<lbr type="BD"/> wiss<abbr v="en"/>, nachdem die<lbr/>
+öst<abbr type="curve">:</abbr> Manifeste bereits in den Zeitung<abbr v="en"/> sind. Nun sollte<lbr type="BD"/> der Wolfg<abbr type="curve">:</abbr> in Münch<abbr v="en"/> se&#255;n, so hätte er<lbr/>
+mit dem <u><rend class="latin">Baron Zehmen</rend></u> sprech<abbr v="en"/><lbr type="BD"/> kö<abbr type="topline" expand="nn">n</abbr><abbr v="en"/>. dieser war, und ist vielleicht noch als abgesa<abbr type="topline" expand="nn">n</abbr>dter von Sachsen alda,<lbr type="BD"/><lbr/>
+es würde zu lange se&#255;n die ganze Sache umständlich zu schreib<abbr v="en"/>, überhaupts<lbr type="BD"/> betrift seine Gesandtschaft<lbr/>
+ein Anforderung von 11 Million<abbr v="en"/>, od<abbr v="er"/> wieviel<lbr type="BD"/> es se&#255;n mag, und da<abbr type="topline" expand="nn">n</abbr> eine Anford<abbr v="er"/>ung auf alles Haus<pc force="weak">=</pc><lbr/>geschmuck &#8211; mobili<abbr v="en"/> und <rend class="latin">allodial</rend>gütter, welches alles die verwittibte Churfürstin von Sachsen,<lbr/>
+die Schwester des seel: Churf<abbr type="curve">:</abbr> anspricht, und solche Anforderung dem<lbr type="BD"/> Churfürst<abbr v="en"/> von Sachs<abbr v="en"/> überlass<abbr v="en"/>,<lbr/>
+und für ihre Person den Schutz des<lbr type="BD"/> Königs in Preuss<abbr v="en"/> angeruff<abbr v="en"/> hat. Es ist an deme, daß, da noch<lbr/>
+Bayern vertheilt war, durch ein<abbr v="en"/> d<abbr v="er"/> Bayer<abbr type="curve"></abbr> Herzog<abbr v="en"/>, welcher das Straubingische in<lbr type="BD"/> besitz hatte,<lbr/>
+dieses an ein<abbr v="en"/> Herzog von öster<abbr type="curve">:</abbr> geko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>, aber auch nach<lbr type="BD"/> der Hand weg<abbr v="en"/> einer Anford<abbr v="er"/>ung<lbr/>
+von 11, od<abbr v="er"/> was weis ich von wie viel<lbr type="BD"/> Million<abbr v="en"/>, und weg<abbr v="en"/> dem Herzog von Öster<abbr type="curve"></abbr> geleistet<abbr v="en"/> Beystand<lbr/>
+und aufgewandt<abbr v="en"/> Kriegsunköst<abbr v="en"/>, an die Herzog<abbr v="en"/> von Bayern auf ewig wieder überlass<abbr v="en"/> word<abbr v="en"/>,<lbr/>
+so zwar, daß nachdem hi<abbr type="topline" expand="nn">n</abbr>ach be&#255; sich ereigneter Gelegenheit,<lbr type="BD"/> daß Hauß Öster<abbr type="curve"></abbr> abermahl<lbr/>
+solches an sich zu bring<abbr v="en"/>&#160;<tspdf>\newline</tspdf> |: nur mit der feder<lbr type="BD"/>&#160;<u><rend class="latin">NB</rend></u> :| bemühet war, solches ihm vom Reichs<pc force="weak">=</pc><lbr/>gericht für allzeit abgesproch<abbr v="en"/><lbr type="BD"/> word<abbr v="en"/>. da es nun aber itzt mit bewafneter Hand in Besitz ge<pc force="weak">=</pc><lbr/>no<abbr type="topline" expand="mm">m</abbr><abbr v="en"/> wird, so macht die Schwester des verstorbn<abbr v="en"/> Churf: die Ansprüche auf <u>die besagt<abbr v="en"/> Million<abbr v="en"/>,</u><lbr/>
+und auf die <rend class="latin">allodiali<abbr v="en"/></rend> und anderen Haus<rend class="latin">mobilien</rend>, davon sie<lbr type="BD"/> sich als Erbin erkläret.<lbr type="forced"/>
+Ich habe eine vermuthung, die vielleicht ein<abbr v="en"/> Grund hab<abbr v="en"/> ka<abbr type="topline" expand="nn">n</abbr>. Es fällt<lbr type="BD"/> mir nicht geschwind be&#255;,<lbr/>
+wie iener Herzog von Wirtemberg hieß, welcher aus<lbr type="BD"/> dem Lande flieh<abbr v="en"/> muste, in die<lbr/>
+Reichsacht erkläret wurde, und auch nicht<lbr type="BD"/> mehr zur Regierung kahm. sein Land erhielt der<lbr/>
+Nachfolger aus den Händ<abbr v="en"/><lbr type="BD"/> des Kaysers, dem es heimgefall<abbr v="en"/> ware, mit dem Vorbehalt, daß<lbr/>
+nach dem<lbr type="BD"/> Aussterb<abbr v="en"/> des Würtemberg<abbr type="curve">:</abbr> Hauses, das Herzogsthum an Östereich zurükfalle. Wie wäre<lbr/>
+es nun we<abbr type="topline" expand="nn">n</abbr> Öster<abbr type="curve">:</abbr> und Preuss<abbr v="en"/> schon lange mit einand<abbr v="er"/> verstand<abbr v="en"/> wären? &#8211; &#8211; Öster<abbr type="curve">:</abbr> hat nun den<lbr/>
+gröst<abbr v="en"/> Theil; und <u><rend class="latin">NB</rend></u> den<lbr type="BD"/> einträglichst<abbr v="en"/> und weg<abbr v="en"/> der <rend class="latin">Donau</rend> für Öster<abbr type="curve"></abbr> den nützlichst<abbr v="en"/> Theil Ba&#255;erns<lbr type="BD"/><lbr/>
+in Besitz genom<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>. könnt<abbr v="en"/> diese 2 Mächte nicht mit einand<abbr v="er"/> verstand<abbr v="en"/><lbr type="BD"/> se&#255;n, daß nach dem Ableben<lbr/>
+<u>ohne Erb<abbr v="en"/></u> des Churf<abbr type="curve">:</abbr> von der Pfalz, das Hauß<lbr type="BD"/> Oster<abbr type="curve">:</abbr> ganz Ba&#255;ern nehm<abbr v="en"/>, und dem König in<lbr/>
+Preuss<abbr v="en"/>, nach absterb<abbr v="en"/> des<lbr type="BD"/> Würtenb<abbr type="curve">:</abbr> Hauses, das Herzogthum Würtemberg überlass<abbr v="en"/>, und da<abbr type="topline" expand="nn">n</abbr><lbr/>
+auch<lbr type="BD"/> nicht entgeg<abbr v="en"/> se&#255;n wollte, we<abbr type="topline" expand="nn">n</abbr> Preuss<abbr v="en"/> auch Jülich und Berge zu sich<lbr type="BD"/> nehm<abbr v="en"/> wollte, wo den<lbr/>
+die Herzog<abbr v="en"/> von Zweybrück<abbr v="en"/> sich mit der Pfalz allein<lbr type="BD"/> begnüg<abbr v="en"/> müsst<abbr v="en"/>. &#8211; Es sind freilich nichts<lbr/>
+als leere vermuthung<abbr v="en"/>, die,<lbr type="BD"/> ob sie |: Gott gebe es daß ich es nicht errathe :| ob sie leer sind,<lbr/>
+das Betrag<abbr v="en"/><lbr type="BD"/> des Preusisch<abbr v="en"/> Hofes be&#255; den itzig<abbr v="en"/> Umständ<abbr v="en"/> zeig<abbr v="en"/> muß. Mir schwindelt so etwas,<lbr/>
+weil es bereits über ein Monat ist, daß der Churf<abbr type="curve">:</abbr> gestorb<abbr v="en"/>,<lbr type="BD"/> und was höret man de<abbr type="topline" expand="nn">n</abbr> von<lbr/>
+Preusischen Bewegungen? &#8211; &#8211; der ist sonst nicht<lbr type="BD"/> der letzte! Unterdess<abbr v="en"/> ist auch sicher, daß<lbr/>
+der Ka&#255;ser die Lehengüter, die er<lbr type="BD"/> unterdess<abbr v="en"/> in Obsorg geno<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>, und da und dort auch<lbr/>
+in Bayern zerstreuet<lbr type="BD"/> liegen, gegen andere wird zu vertausch<abbr v="en"/> und auf and<abbr v="er"/>e<lbr/>
+Gütter das Lehenrecht wird zu übertrag<abbr v="en"/> suchen. alles dieses will seine lange Zeit, und<lbr/>
+die Regierung in Bayern ist so beschaff<abbr v="en"/>, daß, solche Einzuricht<abbr v="en"/>, eine geraume<lbr type="BD"/> Zeit die<lbr/>
+Gegenwart des Churf<abbr type="curve">:</abbr> wird nötig se&#255;n. Es ist unterdess<abbr v="en"/> richtig,<lbr type="BD"/> daß nicht nur <u>das Rent<pc force="weak">=</pc><lbr/>amt Straubing,</u> sond<abbr v="ern"/> auch <u>Scharding, Ried,</u>&#160;<abbr expand="etc">p</abbr>: und<lbr type="BD"/> viele and<abbr v="er"/>e Orte in Bayern mit östr<abbr type="curve">:</abbr><lbr/>
+Trupp<abbr v="en"/> besetzt und alda die Ka&#255;serin <tshtm>________________________________________</tshtm>als<lbr type="BD"/> Landsfrau erkennt ist.<lbr/>
+das war doch in bayern ganz erstaunlich <tshtm>____________________________________</tshtm>der Chur<abbr type="curve">:</abbr> hat<lbr type="BD"/>&#160;<u>30 <rend class="latin">Gener</rend>al<abbr v="en"/>,<lbr/>
+38 Obersten. 25 Oberst<rend class="latin">lieuten<abbr type="curve"></abbr></rend>:</u>&#160;<tshtm>______________________________________________</tshtm>und <u>20 Majors,</u> folglich <u>113<lbr type="BD"/><lbr/>
+Stabsofficier zu etwa 4000 Ma<abbr type="topline" expand="nn">n</abbr></u>&#160;<tshtm>___________________________________________</tshtm>in Münch<abbr v="en"/> gefund<abbr v="en"/>. ist das nicht<lbr/>
+erstaunlich lächerlich! Genug hiervon!<lbr type="forced"/>
+Bis anhero habe noch nichts von dein<abbr v="en"/> Reiseanstalt<abbr v="en"/> gehört. vielleicht sagt<lbr type="BD"/> mir dein künftiger<lbr/>
+Brief etwas. hier ist noch ein blath an den Wolfgang, ich<lbr type="BD"/> hoffe es wird ihn noch antreff<abbr v="en"/>: sollte<lbr/>
+er aber schon weg se&#255;n, so magst du<lbr type="BD"/> das blath be&#255; dir behalt<abbr v="en"/>, bis du weist wo man die Briefe<lbr/>
+in Paris an ihn<lbr type="BD"/>&#160;<rend class="latin">address</rend>ier<abbr v="en"/> muß. vielleicht weis es die <rend class="latin">Md:<h>me</h></rend> Wendling. da<abbr type="topline" expand="nn">n</abbr> kannst du<lbr type="BD"/> ein<abbr v="en"/><lbr/>
+Brief dazu schreib<abbr v="en"/>. Ich hoffe aber er wird noch be&#255; dem Empfang<lbr type="BD"/> dieses nicht schon fort se&#255;n.<lbr type="forced"/>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+
+
+<pg n="2"/>
+Empfehle dem h<abbr type="curve">:</abbr> Wendlich noch mahls unsern Sohn aufs beste; Gott se&#255;e<lbr type="BD"/> sein Schutz! ich gedachte gewiß etwas durch dein<abbr v="en"/> letzt<abbr v="en"/><lbr/>
+Brief zu hör<abbr v="en"/>,<lbr type="BD"/> allein da er dir eb<abbr v="en"/> von Worms schrieb, so konntest du mir freilich auch<lbr type="BD"/> nichts and<abbr v="er"/>es bericht<abbr v="en"/>. gestern war die 2<h>te</h>&#160;<rend class="latin">Redout</rend>, <abbr expand="und">u</abbr><lbr/>
+100 Person<abbr v="en"/><lbr type="BD"/> darauf. heut ist die Schiedenhof<abbr type="curve">:</abbr> Hochzeit, die <rend class="latin">Cronach</rend> Na<abbr type="topline" expand="nn">n</abbr>erl ist 8 täg<lbr type="BD"/> vorhero nach Hause geschickt word<abbr v="en"/>. der Wolfg<abbr type="curve">:</abbr> hätte doch nicht übel<lbr type="BD"/> getha<abbr type="topline" expand="nn">n</abbr>,<lbr/>
+we<abbr type="topline" expand="nn">n</abbr> er eine Gelegenheit gesucht hätte, sich durch iemand be&#255;m<lbr type="BD"/> Churfürst<abbr v="en"/> im Angedenk<abbr v="en"/> zu erhalt<abbr v="en"/>: doch, dazu ist es noch zeit genug.<lbr type="BD"/> Lebts wohl wir küss<abbr v="en"/><lbr/>
+euch be&#255;de millionmahl <abbr expand="und">u</abbr> bin d<abbr v="er"/> alte Mzt <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<lbr/>
+<NS type="NS" schr_id="48817" rot="180">
+der <rend class="latin">papa</rend> läst mir niemals so viel Plaz das ich der mama und dir schreiben<lbr type="BD"/> Könnte. die <rend class="latin">mama</rend> hofe ich bald zu sehen, und ich bitte<lbr/>
+die mama mich nicht<lbr type="BD"/> zu vergessen wenn sie von Manheim fortreist. und dir wünsche ich eine glukliche Reiß nach <rend class="latin">paris</rend>. und wünsche dir<lbr/>
+gesundheit. vor allem das ich dich nur<lbr type="BD"/> bald wiedr umarmen könte welches gott weiß es allein wenn es geschiehet.<lbr type="BD"/> wir alle be&#255;de sehnen<lbr/>
+uns sehr das du bald dein glük möchtest machen. da ich<lbr type="BD"/> hernach gewiß weiß das unser aller glük gemacht ist der mama küsse ich<lbr/>
+die<lbr type="BD"/> hände und dich umarme ich und hofe du wirst dich unser aller stetzt erinern<lbr type="BD"/> und auf uns denken. doch zu der zeit wenn <suppl hand="self" pos="supra">du</suppl> von<lbr/>
+deinen <rend class="latin">componirn</rend><lbr type="BD"/> und <rend class="latin">sco</rend>laren eine viertl stunde übrig hast.</NS><lbr type="forced"/>
+<lbr/>
+<anschrift><rend class="latin">À Monsieur<lbr type="forced"/>
+Monsieur Wolfgang Amadé<lbr type="forced"/>
+<u>Mozart</u> Maître de Musique</rend><lbr type="forced"/>
+<add_note type="inline"><rend class="latin">frcoAug<abbr type="curve">.</abbr></rend></add_note><rend class="latin"><tshtm>___</tshtm>à<lbr type="forced"/>
+<u>Manheim</u></rend></anschrift><lbr/>
+<add_num rot="180"><rend class="latin">N:°</rend> 37.</add_num><lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+
+<pg n="3"/>
+<NS type="Beilage" schr_id="39408">
+<ts>__________________</ts><tshtm>________________________________________________________________________</tshtm><ts>__</ts><add_num type="inline" impl="pencil">39</add_num><ts>________________________</ts><tspdf>\hfill </tspdf>Salzb<abbr type="curve">:</abbr> d<abbr v="en"/> 9<h>t<abbr v="en"/></h>&#160;<rend class="latin">febr<abbr type="curve"></abbr></rend>:<lbr type="forced"/>
+Mein lieber Sohn!<ts>___________</ts><tshtm>_______________________________________________________________________________________</tshtm><ts>_____________</ts><tspdf>\hfill </tspdf>1778.<lbr type="forced"/>
+<lbr type="forced"/>
+Die klein<abbr v="en"/>&#160;<rend class="latin">Sparten</rend>, die ich sehr nett besorgt habe, und da<abbr type="topline" expand="nn">n</abbr> mein Schreiben<lbr type="BD"/> mit dem Verzeichniß unser<abbr v="en"/><lbr/>
+Pariser Bekanntschaft<abbr v="en"/> wirst du richtig erhalt<abbr v="en"/> haben. die Hauptperson<abbr v="en"/> sind i<abbr type="topline" expand="mm">m</abbr>er <u><rend class="latin">Mr Grim</rend>,</u><lbr/>
+<u><rend class="latin">Mad:<h>me</h> La Duchesse de<lbr type="BD"/> Bourbon,</rend></u> die ehemalige <rend class="latin">Mademoiselle d'Orleans</rend>, wo <rend class="latin">Paisible</rend> be&#255; ihr war<lbr/>
+als<lbr type="BD"/> wir sie 2 mahl im Kloster sah<abbr v="en"/>; und die dir ein kleines Clavierstückl, so sie<lbr type="BD"/> Componiert hatte,<lbr/>
+dir <rend class="latin">dedici</rend>ert hat. Ihr Herr ist der Sohn des Prinz <rend class="latin">Condé</rend>,<lbr type="BD"/> er ist erst 22 Jahr, sie aber 28<lbr/>
+<add_note schr_id="57010"><ts>______________</ts>sie ist<ts>____</ts>nicht sehr vergnügt<ts>__________________</ts>sie<ts>_____</ts>leben gar nicht</add_note>
+Jahr alt. <u><encr expand="sie ist nicht sehr vergnugt">ofl fot nfcut olur vlrgnh"gt</encr></u>: ich glaube<lbr type="BD"/>&#160;<u><encr expand="sie leben gar nicht">ofl elbln gmr nfcut</encr></u> be&#255;sa<abbr type="topline" expand="mm">m</abbr>en.<lbr type="forced"/>
+der <u><rend class="latin">Duc de Chartres</rend></u> ihr Bruder ein Herr von 31 Jahr<abbr v="en"/>. er ist derjenige, welcher gemacht hat<lbr/>
+daß wir vom <rend class="latin">Mr: de Sartine</rend> dem damahlig<abbr v="en"/>&#160;<rend class="latin">Lieutenant<lbr type="BD"/> de la Police</rend> die Erlaubniß erhielt<abbr v="en"/>, die<lbr/>
+2 so einträglich<abbr v="en"/>&#160;<rend class="latin">Concert</rend><abbr v="en"/> zu machen.<lbr type="BD"/>&#160;<rend class="latin"><u>Mad:<h>me</h> la Comtesse de Tessé,</u></rend> der du die <rend class="latin">Sonaten</rend><lbr/>
+<rend class="latin">dedici</rend>ert, eine grosse Beschützerin der Wissenschaft<abbr v="en"/>&#160;<abbr expand="etc">p</abbr>: die dich sehr liebte und dir die kleine<lbr/>
+Uhr,<lbr type="BD"/> deiner Schwester das Goldene Zahnstiererbüchsel gab. Ich hoffe sie wird nun<lbr type="BD"/> in <rend class="latin">Paris</rend> zu<pc force="weak">=</pc><lbr/>rück angelangt se&#255;n, Sie und ihr Herr war<abbr v="en"/> letzhin in Itali<abbr v="en"/>,<lbr type="BD"/> sie hab<abbr v="en"/> grosse Reis<abbr v="en"/> gemacht,<lbr/>
+und glaube sie waren auch gar in <u><rend class="latin">Sicilien</rend></u>.<lbr type="BD"/>&#160;<u><rend class="latin">NB</rend></u> vor allem must du e&#255;ferig dich erkundig<abbr v="en"/>,<lbr/>
+ob der <u><rend class="latin">Duca di Braganza</rend></u> nicht<lbr type="BD"/> etwa noch in Paris ist? &#8211; Er hat vergangen<abbr v="en"/> Herbst Wie<abbr type="topline" expand="nn">n</abbr><lbr/>
+verlassen, um be&#255;<lbr type="BD"/> dieser, nach dem Tod des seel: <u>Königs von Portugal,</u> ihm nun günstigern<lbr/>
+Regierung in sein Vatterland nach <u><rend class="latin">Lisabon</rend></u> zurück zu kehr<abbr v="en"/>. Er hielt sich in<lbr type="BD"/> Paris auf,<lbr/>
+das weis ich, es ko<abbr type="topline" expand="mm">m</abbr>t nun darauf an, ob er schon weg ist? &#8211; Dieser<lbr type="BD"/> wäre ein guter Ma<abbr type="topline" expand="nn">n</abbr><lbr/>
+für dich. die <rend class="latin"><u>Mad:<h>me</h> d'Epinay</u></rend> eine sehr vertraute Freundin des <rend class="latin">Mr: Gri<abbr type="topline" expand="mm">m</abbr></rend>, von welcher<lbr/>
+die Ma<abbr type="topline" expand="mm">m</abbr>a das schöne Waderl hat. <u><rend class="latin">NB</rend></u> die<lbr type="BD"/>&#160;<rend class="latin">Comtesse de Tessé</rend> würde dir sond<abbr v="er"/> zweifl durch<lbr/>
+ihren Vatter dem <rend class="latin">Duc d'Ayas</rend>,<lbr type="BD"/> der uns nach <rend class="latin">Versailles</rend> gebracht, Gelegenheit verschaff<abbr v="en"/><lbr/>
+daß du der <rend class="latin">Mad:<h>me</h><lbr type="BD"/> Victoire</rend> vorgestellt wurdest, die dich nun nicht ungerne sehen würde,<lbr/>
+da sie dir<lbr type="BD"/> als einem Kinde, so gnädig und freundlich begegnete. die <rend class="latin">Mad:<h>me</h> La Ducesse</rend><lbr type="BD"/><lbr/>
+<rend class="latin"><u>D'Enville</u>. &#8211; La <u>Ducesse AEguillon</u>. &#8211; La <u>Ducesse de Mazarin</u>. La <u>Comtesse de</u></rend><lbr type="BD"/><lbr/>
+<rend class="latin"><u>Lillbonne.</u> M:<h>dme</h> de St: <u>Julien</u>. Md:<h>me</h> La <u>Princesse de Robeck.</u> Md:<h>me</h> La <u>Comtesse de Wall.</u></rend><lbr/>
+Kurz! alle die Person<abbr v="en"/>, die du auf dem Verzeichnisse hast, sind<lbr type="BD"/> Person<abbr v="en"/> vom Stande, die<lbr/>
+sich deiner eri<abbr type="topline" expand="nn">n</abbr>ern werd<abbr v="en"/>, und den<abbr v="en"/> du dich<lbr type="BD"/> zeigen und ihn<abbr v="en"/> ohne Scheue aufwart<abbr v="en"/> darfst,<lbr/>
+und sie mit einer edlen freyheit und Anstand um ihr<abbr v="en"/> Schutz bitt<abbr v="en"/> darfst. Es ist, ich<lbr/>
+versichere dich, keine<lbr type="BD"/> kleine Arbeit, da<abbr type="topline" expand="nn">n</abbr> man ko<abbr type="topline" expand="mm">m</abbr>t nicht allzeit vor, um mit dies<abbr v="en"/> Per<pc force="weak">=</pc><lbr/>son<abbr v="en"/><lbr type="BD"/> sprech<abbr v="en"/> zu kö<abbr type="topline" expand="nn">n</abbr><abbr v="en"/>: allein es ist alles daran geleg<abbr v="en"/>, diese <rend class="latin">Politesse</rend> ni<abbr type="topline" expand="mm">m</abbr>t die franzosen<lbr/>
+erstaunlich ein, und macht dir auf einmahl alle diese grossen Person<abbr v="en"/> und alle ihre Be<pc force="weak">=</pc><lbr/>kannte zu freunde. <u><rend class="latin">NB</rend></u>&#160;<u>dieß muß aber itzt gleich gescheh<abbr v="en"/>:</u> und du must dich von nichts<lbr/>
+abhalt<abbr v="en"/> lassen, da<abbr type="topline" expand="nn">n</abbr> du ko<abbr type="topline" expand="mm">m</abbr>st späth<lbr type="BD"/> nach Paris, und zu späth; im So<abbr type="topline" expand="mm">m</abbr>er geht alles aufs<lbr/>
+Land. Ist <rend class="latin">Mr: Gri<abbr type="topline" expand="mm">m</abbr></rend> da,<lbr type="BD"/> so wird er mir recht, und dir alle Anleitung geb<abbr v="en"/>, du ka<abbr type="topline" expand="nn">n</abbr>st<lbr/>
+ihm alles<lbr type="BD"/> sagen, was ich dir geschrieb<abbr v="en"/> habe. Ist er nicht da, so wird dir die <rend class="latin"><u>Md:<h>me</h><lbr type="BD"/> D'Epinay</u></rend><lbr/>
+in allem Beystehen, oder dich an ein<abbr v="en"/> ihrer Freunde anweisen,<lbr type="BD"/> we<abbr type="topline" expand="nn">n</abbr> du nur diese<lbr/>
+ausfindig machst und bald zu seh<abbr v="en"/> beko<abbr type="topline" expand="mm">m</abbr>st. Unterdess<abbr v="en"/> wird dir auch h<abbr type="curve">:</abbr>&#160;<rend class="latin">Baron</rend><lbr/>
+<rend class="latin">Bach</rend> vermuthlich ein und and<abbr v="er"/>e Person<abbr v="en"/> zu<lbr type="BD"/> sag<abbr v="en"/> wiss<abbr v="en"/>, wo sie wohn<abbr v="en"/>. Was man für<lbr/>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+
+<pg n="4"/>
+die <rend class="latin">Fiacres</rend> bezahlt wird dir<lbr type="BD"/> h<abbr type="curve">:</abbr> Wendling und iedermann sag<abbr v="en"/>: we<abbr type="topline" expand="nn">n</abbr> man ihn länger, als nur<lbr/>
+auf ein<lbr type="BD"/> Ort allein zu fahr<abbr v="en"/>, nämlich auf langere zeit braucht; so zeigt man dem<lbr type="BD"/>&#160;<rend class="latin">Fiacre</rend><lbr/>
+be&#255;m Einsitz<abbr v="en"/> die uhr, und sagt wie viel es ist, da<abbr type="topline" expand="nn">n</abbr> zahlt man, so<lbr type="BD"/> viel mich eri<abbr type="topline" expand="nn">n</abbr>ere, für die<lbr/>
+erste Stund <u>24 <rend class="latin">Sols</rend>,</u> und dann für iede der übrig<abbr v="en"/><lbr type="BD"/> stund<abbr v="en"/>&#160;<u>12 <rend class="latin">Sols</rend>:</u> auf diese Art ka<abbr type="topline" expand="nn">n</abbr><lbr/>
+man ihn einige Stunde behalt<abbr v="en"/> und vor<lbr type="BD"/> dem Hause, wo man sich aufhält wart<abbr v="en"/> lass<abbr v="en"/>.<lbr/>
+ieder <rend class="latin">Fiacre</rend> hat seine <rend class="latin">Nu<abbr type="topline" expand="mm">m</abbr>ero</rend>, die man sich merkt; und man zahlt ihn, we<abbr type="topline" expand="nn">n</abbr> der <rend class="latin">Curs</rend><lbr/>
+vorbe&#255; ist. we<abbr type="topline" expand="nn">n</abbr><lbr type="BD"/> du zu fuß gehest, must du dich in obacht nehm<abbr v="en"/>, be&#255; nassem wetter sind<lbr type="BD"/><lbr/>
+die rundlecht ins viereckgehende Pflastersteiner in Paris sehr schlüpferig, daß<lbr type="BD"/> man i<abbr type="topline" expand="mm">m</abbr>er<lbr/>
+ausglitschet. Nun will ich dir noch einige Nähm<abbr v="en"/> von and<abbr v="er"/> Person<abbr v="en"/> unserer damalig<abbr v="en"/><lbr/>
+bekannt<abbr v="en"/> Person<abbr v="en"/> hersetz<abbr v="en"/>. nämlich <rend class="latin">Mr: <uu>L'Abbé<lbr type="BD"/> Causargue</uu></rend> Capellmeister in d<abbr v="er"/> Königl. Hof<pc force="weak">=</pc><lbr/>Capelle zu <rend class="latin">Versailles</rend>, ein brafer<lbr type="BD"/> Ma<abbr type="topline" expand="nn">n</abbr>, be&#255; dem wir gespeiset hab<abbr v="en"/>. <u><rend class="latin">Mr. Eckard</rend></u> Clavierist.<lbr/>
+<rend class="latin">Mr. <uu>Gaviniés</uu><lbr type="BD"/> Violino. <u>Hochbrucker,</u></rend> Harfenist; er ist, wie du weist, ein lustiger Narr,<lbr type="BD"/> aber<lbr/>
+<u>seinen Umgang must du meid<abbr v="en"/>,</u> da<abbr type="topline" expand="nn">n</abbr> er ist weg<abbr v="en"/> seinem liederlich<abbr v="en"/><lbr type="BD"/>&#160;<u>Leb<abbr v="en"/></u>, in <u>dem schlechtest<abbr v="en"/> Ruef,</u><lbr/>
+ein grober Kerl und Schuld<abbr v="en"/>macher. <rend class="latin">Mr:<lbr type="BD"/>&#160;<u>Du Borde</u></rend> ein sehr hochmütthiger Violonzellist.<lbr/>
+<rend class="latin">Mr: <u>Tournere</u></rend> Organist von<lbr type="BD"/> Hof. <rend class="latin">Mr: <u>Molitor</u></rend> waldhornist in <rend class="latin">Versailles. <u>Mr: Harand</u> violino.</rend><lbr/>
+<rend class="latin">Mr: <u>Besson,</u><lbr type="BD"/> violino. Mr: <u>Le Grand</u></rend> Clavierist, <rend class="latin">Mr: <uu>Jeliote</uu> chanteur au Theatre <abbr expand="etc">p</abbr>:</rend><lbr type="forced"/>
+<rend class="latin">Mr: <u>Mayer</u></rend> Harfenist. <rend class="latin">Mr: <u>He<abbr type="topline" expand="nn">n</abbr>o</u></rend> waldhornist be&#255;m Prinz <rend class="latin">Conti: Mr: <u>Duni</u><lbr type="BD"/> Maitre de</rend><lbr/>
+<rend class="latin">chapelle</rend>, hat einige <rend class="latin">opera Comique</rend> geschrieb<abbr v="en"/>. <rend class="latin">Mr: <u>Canevas</u></rend><lbr type="BD"/> Violonzellist, dess<abbr v="en"/> dochter den<lbr/>
+h<abbr type="curve">:</abbr>&#160;<rend class="latin">Cramer</rend> gehe&#255;ratet hatte und in Manheim gestorb<abbr v="en"/> ist. <rend class="latin">Mr: <u>Le Duc</u> violino. <uu>Mdss<h>e</h>: Fel</uu></rend><lbr/>
+alte Sängerin vom franz<abbr type="curve">:</abbr><lbr type="BD"/> Theater. <rend class="latin"><uu>Mr. Cahaut</uu> jouer de la Liute chez Prince Conti.</rend><lbr type="forced"/>
+<rend class="latin">Mr: <u>Ha<abbr type="topline" expand="nn">n</abbr>auer</u> Clavecin. Mr: <u>Philidor</u> Compositeur</rend>. <abbr expand="etc">p</abbr>: Ich darf dirs aber nicht sag<abbr v="en"/>, du weist<lbr/>
+ohnehin, daß der Umgang mit diesen Leut<abbr v="en"/> von keinem<lbr type="BD"/> Nutz<abbr v="en"/>, sond<abbr v="ern"/> eine vertraulich<pc force="weak">=</pc><lbr/>keit mit dem mehrern Theil dieser Leute nur<lbr type="BD"/> zum Schad<abbr v="en"/> ist: nur <uu>etliche wenige</uu> aus<pc force="weak">=</pc><lbr/>geno<abbr type="topline" expand="mm">m</abbr>en =. Sollte <rend class="latin">Gluck, Piccini</rend><lbr type="BD"/> da se&#255;n, so wirst du ihr<abbr v="en"/> Umgang möglichst meid<abbr v="en"/>,<lbr/>
+und so auch mit<lbr type="BD"/>&#160;<rend class="latin">Gretry</rend> keine Freundschaft mach<abbr v="en"/>. <rend class="latin">de la politesse, et pas d'autre chose</rend>.<lbr/>
+Mit<lbr type="BD"/> hohen Stands<rend class="latin">personen</rend> ka<abbr type="topline" expand="nn">n</abbr>st du <u>i<abbr type="topline" expand="mm">m</abbr>er ganz natürlich se&#255;n,</u> aber mit all<abbr v="en"/><lbr type="BD"/> and<abbr v="ern"/><lbr/>
+<u>mache ein<abbr v="en"/> Engelländ<abbr v="er"/>,</u> das bitte ich dich. se&#255; nicht so aufrichtig!<lbr type="BD"/> lasse vor keinem<lbr/>
+<rend class="latin">Friseur</rend> od<abbr v="er"/> and<abbr v="ern"/> <rend class="latin">domestiquen</rend> geld, ring od<abbr v="er"/> uhr<abbr v="en"/> seh<abbr v="en"/>,<lbr type="BD"/> noch weniger so da liegen.<lbr/>
+<add_note schr_id="57010"><ts>____________________</ts>vor deinen Freunden Nichts merken<ts>__________</ts>Geld bekömmst.<ts>_________</ts>wie viel</add_note>
+lasse auch <u><encr expand="vor deinen freunden nichts merken">vsr dlfnln irlhndln nfcut alrkln</encr></u>,<lbr type="BD"/> wan du <u><encr expand="geld bekommst">gled blksaaot</encr></u>, od<abbr v="er"/> <encr expand="wie viel">wfl vfle</encr><lbr/>
+<add_note schr_id="57010"><ts>_____</ts>du hast<ts>__________</ts>du Geld</add_note>
+<u><encr expand="du hast">dh umot</encr></u>. Hast <u><encr expand="du geld">dh gled</encr></u> so mache<lbr type="BD"/> Bekanntschaft mit den <u><rend class="latin">Baqui</rend>ers <rend class="latin">Tourton et Baur</rend>,</u><lbr/>
+ich behielt nur das nothwendigste in Hand<abbr v="en"/>, das übrige gab ich ihn<abbr v="en"/> aufzuheb<abbr v="en"/>, sie gab<abbr v="en"/> mir<lbr type="BD"/><lbr/>
+ein<abbr v="en"/>&#160;<u>Schein</u> darüber, und so war ich sicher, daß es mir nicht gestohl<abbr v="en"/> wurde,<lbr type="BD"/> und wollte ie<pc force="weak">=</pc><lbr/>mand etwas entlehn<abbr v="en"/>, so konnte ich mich entschuldig<abbr v="en"/>, ich<lbr type="BD"/> hätte es nach Salzb<abbr type="curve">:</abbr> geschickt.<lbr/>
+be&#255; der Nacht gehe niemals zu fuß. und endlich<lbr type="BD"/> denke Täglich, was du Gott, der dir so ausser<pc force="weak">=</pc><lbr/>ordentl: Talente gegeb<abbr v="en"/>, schuldig<lbr type="BD"/> bist. Nehme mirs nicht übl, daß ich dir es so<lbr/>
+oft eri<abbr type="topline" expand="nn">n</abbr>ere, du weist, was ich<lbr type="BD"/> als dein Vatter schuldig bin. Es verdroß dich, daß ich letzlich<lbr/>
+<add_note schr_id="57010"><ts>____________________________________</ts>des Beichten</add_note>
+ein Eri<abbr type="topline" expand="nn">n</abbr>erung<lbr type="BD"/> wegen <u><encr expand="dem beichten">dla bflcutln</encr></u> machte. Setze dich an meine Stelle, und sage da<abbr type="topline" expand="nn">n</abbr>,<lbr type="BD"/> ob<lbr/>
+ich es zu thun nicht schuldig bin &#8211; &#8211; ? Gott! we<abbr type="topline" expand="nn">n</abbr> sehe ich dich wied<abbr v="er"/>! ich<lbr type="BD"/> küsse dich millionmahl<lbr/>
+<tshtm>_____________________________________________</tshtm>und bin dein gewissester wahrer Freund und Vatter L: Mzt <abbr expand="manu propria">mp</abbr><lbr/></NS>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal></letter>
+</text>
+</MUP>

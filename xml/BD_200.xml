@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2011">2011-05</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=761</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:37:16 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_200.mup">
+<letter bd="200">
+<HEADER id="761">LEOPOLD MOZART AN ANNA MARIA MOZART IN SALZBURG<lbr/>
+BOLOGNA, 28. JULI 1770<lbr/>
+mit Nachschrift von Wolfgang Amadé Mozart an Maria Anna (Nannerl) Mozart</HEADER>
+<pg n="1"/>
+<ts>_________</ts><tshtm>_______________________________________________</tshtm><tspdf>\hfill </tspdf><rend class="latin">Bologna</rend> d<abbr v="en"/> 28<h>t<abbr v="en"/></h>&#160;<uu><rend class="latin">Julij</rend> 1770.</uu><lbr type="forced"/>
+<lbr type="forced"/>
+Mein erstes unterm 21 aus <rend class="latin">Bologna</rend> wirst du empf<abbr type="curve">:</abbr> hab<abbr v="en"/>. Es sind nun<lbr/>
+9 täge<lbr type="BD"/> daß ich in <rend class="latin">Bologna</rend> bin und nicht aus dem Zi<abbr type="topline" expand="mm">m</abbr>er ko<abbr type="topline" expand="mm">m</abbr>e, ja i<abbr type="topline" expand="mm">m</abbr>er<lbr/>
+auf<lbr type="BD"/> dem bette, oder mit dem fuß auf einem Sessel liege. doch<lbr/>
+hofe zu gott, daß<lbr type="BD"/> ich, we<abbr type="topline" expand="nn">n</abbr> du dies<abbr v="en"/> Brief liesest, bereits werde einige<lbr/>
+mahl ausgegang<abbr v="en"/> se&#255;n,<lbr type="BD"/> indem heut gewisse Mehl druck<abbr v="en"/>, doch warm, ge<pc force="weak">=</pc><lbr/>macht, übergelegt, um die<lbr type="BD"/> geschwulst zu vertreib<abbr v="en"/>, welches mir h<abbr type="curve">:</abbr>&#160;<persName key="84774"><rend class="latin">Doctor<lbr/>
+Rivieri</rend></persName> verordnet. Da<abbr type="topline" expand="nn">n</abbr> es<lbr type="BD"/> hatte sich, nebst der geschwulst be&#255; den knicheln<lbr/>
+und auf dem vorfuß auch<lbr type="BD"/> eine kleine geschwulst am knoch<abbr v="en"/> des gross<abbr v="en"/><lbr/>
+Zeh<abbr v="en"/> und dem ball<abbr v="en"/> mit<lbr type="BD"/> einer Röthe und gross<abbr v="en"/> schmerz<abbr v="en"/> angesetzt,<lbr/>
+so den Podagra gleich sahe, und<lbr type="BD"/> mich verhind<abbr v="er"/>te die Zeh<abbr v="en"/> zu beweg<abbr v="en"/>, und<lbr/>
+auf dem fuß zu steh<abbr v="en"/>. Gedult!<lbr type="BD"/> gedult ist aller <div type="commentary" xml:id="commentBD200_1">H=f=<note corresp="#commentBD200_1">Hundsfotte</note></div> Patron.<lbr/>
+dieser spass wird mich 12 duccatt<abbr v="en"/> kost<abbr v="en"/>, da<abbr type="topline" expand="nn">n</abbr> in Wirtshäusern ist es<lbr/>
+nicht<lbr type="BD"/> lustig krank zu se&#255;n. We<abbr type="topline" expand="nn">n</abbr> ich in Neapl 1000 doppi<abbr v="en"/> eingeno<abbr type="topline" expand="mm">m</abbr><abbr v="en"/><lbr/>
+hätte,<lbr type="BD"/> so könnte endlich meine Unköst<abbr v="en"/> verschmerz<abbr v="en"/>. allein ich bin so<lbr/>
+geitzig<lbr type="BD"/> nicht; ich nehme auch mit wenigerm verlieb. Neapl ist nicht<lbr/>
+der ort wo man<lbr type="BD"/> 1000 doppi<abbr v="en"/> ei<abbr type="topline" expand="nn">n</abbr>imt, frag nur <persName key="56351">h<abbr type="curve">:</abbr> Meisner</persName>, dem wir<lbr/>
+uns empf<abbr type="curve">:</abbr>, er wird<lbr type="BD"/> von herz<abbr v="en"/> lach<abbr v="en"/>. genug, ich habe i<abbr type="topline" expand="mm">m</abbr>er, Gott lob, mehr,<lbr/>
+als wir brauch<abbr v="en"/>,<lbr type="BD"/> und damit sind wir zu fried<abbr v="en"/> und lob<abbr v="en"/> Gott. &#8212; <lbr type="forced"/>
+du hast mich auch gefragt ob ich niemals den schwindl und die <rend class="latin">Ischiatica</rend><lbr/>
+gehabt habe. den schwindl hatte ein wenig zu Neapl aber nur ein<lbr/>
+paar tag; und<lbr type="BD"/> seit 4 woch<abbr v="en"/> habe, nebst mein<abbr v="en"/> fuß Zufall, ein<abbr v="en"/><lbr/>
+<rend class="latin">Revmatism<abbr v="um"/></rend> im linck<abbr v="en"/><lbr type="BD"/> schulderblath, aber sehr gelind, nur zu Zeit<abbr v="en"/><lbr/>
+macht er mir be&#255; gewiss<abbr v="en"/><lbr type="BD"/> Bewegung<abbr v="en"/> eine starke Eri<abbr type="topline" expand="nn">n</abbr>erung.<lbr type="forced"/>
+gestern hab<abbr v="en"/> wir das <rend class="latin">opera</rend> Büchl und die Näm<abbr v="en"/> der <rend class="latin">Reciti</rend>erend<abbr v="en"/><lbr/>
+erhalt<abbr v="en"/>.<lbr type="BD"/> die <rend class="latin">opera</rend> heist. <u><rend class="latin">Mitridate Re di Ponto</rend>.</u><lbr type="forced"/>
+<pg n="2"/>
+solche ist von einem Poet<abbr v="en"/> aus <u><rend class="latin">Turino</rend></u>&#160;<persName key="50939"><rend class="latin">Sig: Vittorio Amedeo Cigna-Santi</rend></persName>.<lbr/>
+und ist alda <rend class="latin">a<abbr type="topline" expand="nn">n</abbr>o</rend> 1767 aufgeführt word<abbr v="en"/>. die Person<abbr v="en"/> sind. &#8211; <lbr type="forced"/>
+<rend class="latin"><u>Mitridate</u> Re di Ponto. <u>il <persName key="51866">Sgr: Guilelmo d'Ettore</persName>.</u><lbr type="forced"/>
+<u>Aspasia</u> promessa Sposa di<lbr type="forced"/>
+Mitridate <abbr expand="etc">p</abbr> &#8211; &#8211; &#8211; <u><persName key="49865">Sgra. Antonia Bernasconi</persName>.</u>&#160;<u>1<h>a</h> Do<abbr type="topline" expand="nn">n</abbr>a.</u><lbr type="forced"/>
+<u>Sifare</u> figlio di Mitri<abbr type="curve">:</abbr><lbr type="forced"/>
+amante di aspasia. &#8211; <persName key="64209">Sgr:<h>e</h> Sartorini</persName>. <u>Soprano</u>&#160;<u>Primo uomo.</u><lbr type="forced"/>
+<u>Farnace</u> primo figlio di<lbr type="forced"/>
+Mitridate amante della<lbr type="forced"/>
+medesima aspasia. &#8211; <persName key="50935">Sgr<h>e</h>: Cicognani</persName>. <u>contra alto.</u><lbr type="forced"/>
+<u>Ismene</u> figlia del Re<lbr type="forced"/>
+de' Parti, amante di<lbr type="forced"/>
+Farnace &#8211; &#8211; <persName key="60132">Sgr<h>a</h>: Varese</persName>. &#8211; <u>2.<h>da</h> Do<abbr type="topline" expand="nn">n</abbr>a.</u> Soprano.<lbr type="forced"/>
+<u>Arbate</u> governatore &#8212; <u>Soprano</u><lbr type="forced"/>
+di Ninfea<lbr type="forced"/>
+<u>Marzio</u> &#8211; Tribuno Romano. &#8212; <u>Tenore.</u></rend><lbr type="forced"/>
+die <persName key="49865"><rend class="latin">Bernasconi</rend></persName> ke<abbr type="topline" expand="nn">n</abbr><abbr v="en"/> wir ohnedem. der <persName key="64209"><rend class="latin">Sgr: Sartorini</rend></persName> hat uns in<lbr/>
+<rend class="latin">Rom </rend>gesung<abbr v="en"/>. der <persName key="50935"><rend class="latin">Cicognani</rend></persName> ist hier, und unser guter freund.<lbr/>
+der <persName key="51866"><rend class="latin">Ettore</rend></persName> ist auch<lbr type="BD"/> dermahl hier.<lbr type="forced"/>
+<lbr type="forced"/>
+dein Brief weg<abbr v="en"/> dem Pflaster ist noch nicht in mein<abbr v="en"/> händ<abbr v="en"/>, er wird mit<lbr type="BD"/> d<abbr v="er"/><lbr/>
+nächst<abbr v="en"/> RömerPost ko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>. Heut habe dein schreib<abbr v="en"/> vom 20<h>t<abbr v="en"/></h>, und<lbr type="BD"/> zu<lbr/>
+gleich ein schreib<abbr v="en"/> vom <persName key="59999">h<abbr type="curve">:</abbr> Troger</persName> sa<abbr type="topline" expand="mm">m</abbr>t dem schachterl aus Mayland<lbr/>
+erhalt<abbr v="en"/>. die <persName key="49331"><rend class="latin">Md<h>lle</h>: Troger</rend></persName> ist glückl in Mayland angelangt.<lbr type="forced"/>
+die 2 <rend class="latin">Portraits</rend><lbr type="BD"/> gefahl<abbr v="en"/> uns sehr wohl, und um sie gut zu find<abbr v="en"/>, muß<lbr/>
+man sie nicht nahe<lbr type="BD"/> anseh<abbr v="en"/>, sond<abbr v="ern"/> etwas entfern<abbr v="en"/>, da<abbr type="topline" expand="nn">n</abbr> &#160;<rend class="latin">Bastell</rend> ist<lbr/>
+kein <rend class="latin">Miniatur</rend>. sie sind<lbr type="BD"/> etwas zu fett, allein in einer klein<abbr v="en"/> Ent<pc force="weak">=</pc><lbr/>fernung verliert sich vieles, und wir<lbr type="BD"/> sind zu fried<abbr v="en"/>, das ist genug!<lbr type="forced"/>
+<pg n="3"/>
+der <persName key="39409">Wolfg<abbr type="curve">:</abbr></persName> bedanket sich be&#255; dir, seiner<lbr type="BD"/>&#160;<persName key="48817">Schwester</persName>, und all<abbr v="en"/> gut<abbr v="en"/> freund<abbr v="en"/> für<lbr/>
+den glückwunsch, und empfehlt sich<lbr type="BD"/> sa<abbr type="topline" expand="mm">m</abbr>t mir allerseits, wir kiss<abbr v="en"/> euch 1000 mahl<lbr/>
+und ich bin d<abbr v="er"/> alte <ts>________________</ts><tspdf>\hfill </tspdf><persName key="39408">Mzt</persName>&#160;<abbr expand="manu propria">mp</abbr>.<lbr type="forced"/>
+<lbr type="forced"/>
+Stelle dir einmahl unsere Hauswirtschaft vor, we<abbr type="topline" expand="nn">n</abbr> ich nicht von d<abbr v="er"/> Stelle<lbr/>
+ka<abbr type="topline" expand="nn">n</abbr>; du weist was d<abbr v="er"/> <persName key="39409">Wolfg<abbr type="curve">:</abbr></persName> ist.<lbr type="forced"/>
+<NS type="NS" schr_id="39409" adr_id="48817">
+<ts>______________________</ts><rend class="latin">Carissma <persName key="48817">sorella</persName> mia.<lbr type="forced"/>
+Jo vi devo confessare che hó un grandissimo piacer, che ci avete mandati i<lbr type="BD"/> ri<pc force="weak">=</pc><lbr/>trati, i quali mi piacono molto. non vi só piu scrivere niente,<lbr/>
+bacciate la mano<lbr type="BD"/> mille volte alla mia <persName key="48815">madre</persName> da parte mia, e io<lbr/>
+vi baccio 1000000 volte, e mi<lbr type="BD"/> dichiaro<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>______________</ts><tshtm>____________________________________________</tshtm><tspdf>\hfill </tspdf>vostro umilissimo servitore<lbr type="forced"/>
+<ts>_______________</ts><tshtm>___________________________________________</tshtm><tspdf>\hfill </tspdf><persName key="39409">Wolfgango amadeo Moz</persName>&#160;<abbr expand="manu propria">mp</abbr></rend></NS>
+<pg n="4"/>
+<anschrift rot="270"><rend class="latin">À Madame<lbr type="forced"/>
+Madame <persName key="48815">Marie A<abbr type="topline" expand="nn">n</abbr>e Mozart</persName><lbr type="forced"/>
+<ts>___________</ts>à<lbr type="forced"/>
+par <u>Mantova.</u><ts>________</ts><u>Salzbourg</u></rend></anschrift><lbr/>
+<add_note schr_id="48817"><rend class="latin">N:<h>o</h></rend> 33 aus <rend class="latin">Bologna</rend></add_note>
+</letter>
+
+</text>
+</MUP>

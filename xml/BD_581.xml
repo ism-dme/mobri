@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2013">2013-5</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1147</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:39:36 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_581.mup">
+<letter bd="581"><HEADER id="1147">LEOPOLD MOZART AN WOLFGANG AMADÉ MOZART IN MÜNCHEN<lbr/>
+SALZBURG, 22. JANUAR 1781</HEADER>
+<pg n="1"/>
+<ts>_________</ts><tshtm>______________________________________________________________________________</tshtm><tspdf>\hfill </tspdf>Salzb<abbr type="curve">:</abbr> d<abbr v="en"/> 22 Je<abbr type="topline" expand="nn">n</abbr>er<lbr type="forced"/>
+<rend class="latin">Mon trés cher Fils!</rend><ts>_________________</ts><tshtm>________________________________________________________________</tshtm><tspdf>\hfill </tspdf>1781<lbr type="forced"/>
+<lbr type="forced"/>
+Den Augenblick war h<abbr type="curve">:</abbr>&#160;<rend class="latin">Varesco</rend> be&#255; mir; dieser hungerige Geldsichtige<lbr/>
+Narr<lbr type="BD"/> ka<abbr type="topline" expand="nn">n</abbr> sein Geld nicht erwart<abbr v="en"/>: allein ich sagte ihm, er müsse<lbr/>
+Gedult hab<abbr v="en"/>,<lbr type="BD"/> bis <rend class="latin">Madame</rend>&#160;<abbr expand="von">v</abbr>&#160;<rend class="latin">Robinig</rend> ko<abbr type="topline" expand="mm">m</abbr>t, die es ihm mitbring<abbr v="en"/><lbr/>
+wird. der Kerl ist sa<abbr type="topline" expand="mm">m</abbr>t<lbr type="BD"/> seinem gut<abbr v="en"/> Einko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>, voller Schuld<abbr v="en"/>.<lbr/>
+Er sagte man hätte es ihm ja<lbr type="BD"/> mit dem Postwag<abbr v="en"/> schick<abbr v="en"/> kö<abbr type="topline" expand="nn">n</abbr><abbr v="en"/>;<lbr/>
+und wollte es vermänteln, als hätte<lbr type="BD"/> h<abbr type="curve">:</abbr> Schachtner dessweg<abbr v="en"/> mit ihm<lbr/>
+gesproch<abbr v="en"/>: da doch h<abbr type="curve">:</abbr> Schachtner nicht<lbr type="BD"/> allein niemals zu mir geko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>,<lbr/>
+sond<abbr v="ern"/> im Gegentheile, da ich ihn selbst<lbr type="BD"/> darüber angesproch<abbr v="en"/>,<lbr/>
+mir sagte, daß ihn des h<abbr type="curve">:</abbr>&#160;<rend class="latin">Varesco</rend> zudringlichkeit be<lbr type="BD"/>fremde und<add_note type="inline" schr_id="57010"><ts>______</ts>er</add_note><lbr/>
+[er] niemals sich eine and<abbr v="er"/>e Rechnung gemacht habe, als das<lbr type="BD"/> Geld<add_note type="inline" schr_id="57010"> erst</add_note><lbr/>
+[ers]t be&#255; unserer Zurückkunft von Münch<abbr v="en"/> zu erhalt<abbr v="en"/>.<add_note type="inline" schr_id="57010"><ts>_________________</ts>der</add_note><lbr type="forced"/>
+[der] Buchhalter, Schreiber, od<abbr v="er"/> Ladenbediente, <rend class="latin">Salvo Titulo</rend>, der<add_note type="inline" schr_id="57010"><ts>__</ts>Frau</add_note><lbr/>
+[Fra]u von<lbr type="BD"/>&#160;<rend class="latin">Robini</rend> hätte es mitbring<abbr v="en"/> kö<abbr type="topline" expand="nn">n</abbr><abbr v="en"/>; der voraus geko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/><add_note type="inline" schr_id="57010"><ts>________</ts>und</add_note><lbr/>
+[und] schon hier<lbr type="BD"/> ist. das hast du halt nicht gewust.<add_note type="inline" schr_id="57010"><ts>____________________</ts>Hast</add_note><lbr type="forced"/>
+[Hast] du es Geld der <rend class="latin">Fr:</rend>&#160;<abbr expand="von">v</abbr>&#160;<rend class="latin">Robini</rend> noch nicht eingehändiget? &#8211; &#8211; <add_note type="inline" schr_id="57010">du</add_note><lbr/>
+[du] must<lbr type="BD"/> das nicht so lange in Händ<abbr v="en"/> behalt<abbr v="en"/>, &#8211; &#8211; we<abbr type="topline" expand="nn">n</abbr> es dir ge<pc force="weak">=</pc><lbr/>stohlen würde!<lbr type="BD"/> der Gr: <rend class="latin">Seau</rend> schreibt in dem Brief an <rend class="latin">Verasco<lbr/>
+che habbia Consegniata la<lbr type="BD"/>&#160;<u>Cambiale</u> al Sgr Maestro di Capella.</rend><lbr/>
+das wort <rend class="latin"><u>Cambiale</u></rend> heist ein <u>wechselbrief</u>.<lbr type="BD"/> wäre es um ein<lbr/>
+Wechselbrief so hättest du ihn mir in einem Brief einsend<abbr v="en"/><lbr type="BD"/><lbr/>
+müssen, um das Geld hier zu bezieh<abbr v="en"/>, und iedem das seinige<lbr/>
+behändig<abbr v="en"/> zu könn<abbr v="en"/>. da aber dieses nicht gescheh<abbr v="en"/>, so vermuthe<lbr/>
+und muß glaub<abbr v="en"/>,<lbr type="BD"/> daß es baar geld ist. &#8211; Hier ko<abbr type="topline" expand="mm">m</abbr>t es<lbr/>
+wied<abbr v="er"/> auf die GeldSort<abbr v="en"/> an. <rend class="latin">Basta!</rend><lbr type="BD"/> we<abbr type="topline" expand="nn">n</abbr> ich nur selbst in<lbr/>
+München bin. ich muß die Anstalt treff<abbr v="en"/>, das jed<abbr v="er"/><lbr type="BD"/> besond<abbr v="er"/>s das<lbr/>
+seinige beko<abbr type="topline" expand="mm">m</abbr>t. <rend class="latin">Varesco mi a seccato i Cuglioni:</rend><lbr type="forced"/>
+Nun ist der do<abbr type="topline" expand="nn">n</abbr>erstag der 25<h>te</h> diess zur Abreise vestgesetzt.<lbr/>
+da ich keine<lbr type="BD"/> eigne <rend class="latin">chaise</rend> mehr habe, sind wir gezwung<abbr v="en"/><lbr/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="2"/>
+ein<abbr v="en"/> Lehnrössler od<abbr v="er"/> Ross<lbr type="BD"/>löhner zu nehm<abbr v="en"/>. Wir könn<abbr v="en"/> also nicht<lbr/>
+eher als <u>freytag</u> abends den 26<h>t<abbr v="en"/></h>,<lbr type="BD"/> und zwar nicht leicht<lbr/>
+vor 8 uhr abends eintreff<abbr v="en"/>, da das Wetter itzt schli<abbr type="topline" expand="mm">m</abbr><lbr type="BD"/>mer<lbr/>
+geword<abbr v="en"/>, od<abbr v="er"/> vielmehr die Weege. &#8211; &#8211; Sollte nun aber<lbr/>
+ein ganz<lbr type="BD"/>&#160;<u>ausserordentlicher Zufahl</u>, den ich nicht vermuth<abbr v="en"/> ka<abbr type="topline" expand="nn">n</abbr>,<lbr/>
+uns abzureisen hin<lbr type="BD"/>d<abbr v="er"/>en, so würdest du mit der am Fre&#255;tag,<lbr/>
+am nämlich<abbr v="en"/> täge der Ankunft, in<lbr type="BD"/> Münch<abbr v="en"/> abends ein<pc force="weak">=</pc><lbr/>treffend<abbr v="en"/> Salzb<abbr type="curve">:</abbr> Post ein<abbr v="en"/> Brief auf d<abbr v="er"/> Post find<abbr v="en"/>.<lbr type="forced"/>
+Du hast mir also nichts mehr zu schreib<abbr v="en"/>, und ich dir auch<lbr/>
+nicht; das übrige<lbr type="BD"/> werd<abbr v="en"/> wir mündlich abhandeln.<lbr type="forced"/>
+<tspdf>\newpage</tspdf> 
+das muß dir doch schreib<abbr v="en"/>, de<abbr type="topline" expand="nn">n</abbr> es ist gar zu seltsa<abbr type="topline" expand="mm">m</abbr>.<lbr/>
+<u>der alte gehei<abbr type="topline" expand="mm">m</abbr>de<lbr type="BD"/> Rath <rend class="latin">Amand</rend> wird ha&#255;rath<abbr v="en"/></u> &#8211; <lbr/>
+<u>er geht in das 70<h>te</h> Jahr</u>. &#8211; und wen de<abbr type="topline" expand="nn">n</abbr>?<lbr type="BD"/> &#8211; <lbr/>
+die Ca<abbr type="topline" expand="mm">m</abbr>erjungfer von d<abbr v="er"/> gräfin von <rend class="latin">Wallis</rend>. die junge<lbr/>
+rueschlende Böh<lbr type="BD"/>min. &#8211; stelle dir vor, wie alles lacht.<lbr/>
+und stelle dir vor was alle seine h<abbr type="curve"></abbr><abbr type="curve">:</abbr><lbr type="BD"/> Söhne für gesichter<lbr/>
+mach<abbr v="en"/>. &#8211; mache aller ort<abbr v="en"/> unsere Empfehlung, wir<lbr type="BD"/> küss<abbr v="en"/><lbr/>
+dich beyde und bin dein redlicher Vatter<lbr type="forced"/>
+<ts>____________</ts><tshtm>______________________________________________________</tshtm><tspdf>\hfill </tspdf>L Mozart <abbr expand="manu propria">mp</abbr><lbr/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+</letter>
+</text>
+</MUP>

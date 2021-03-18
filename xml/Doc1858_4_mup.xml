@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2010">2010-04</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=276</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:31:03 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/Doc1858_4_mup.txt">
+<HEADER id="276">UNBEKANNT, VERZEICHNIS DES NACHLASSES VON CARL THOMAS<tspdf>\newline</tspdf> MOZART, MAILAND NACH 1858<lbr/>
+ABSCHRIFT UM 1930</HEADER>
+
+<pg n="1"/>
+<rend class="latin">Verzeichnis des Karl Mozart'schen Nachlasses.<lbr type="forced"/>
+<lbr type="forced"/>
+1.) Brief <suppl hand="self" pos="supra" impl="pencil">Leopold Mozarts</suppl> an Madame de Sonnenbourg v. 25. Jenner<lbr type="forced"/>
+2.) Brief an Karl Mozart von der Mutter 22.I.1826.<lbr type="forced"/>
+3.) Testament der Constanze Nissen. (Fragment).<lbr type="forced"/>
+4-7.) 4 Briefe von Mozart in Original-handschrift.<lbr type="forced"/>
+<ts>_____________________</ts>vom 5.10.177<corr type="stroke" hand="self" impl="pencil" value="1" pos="inline">7</corr><lbr type="forced"/>
+<ts>_____________________</ts>vom 28.2. 1778<lbr type="forced"/>
+<ts>_____________________</ts>vom 23.12. 1778<lbr type="forced"/>
+<ts>_____________________</ts>vom 10.5.1779<lbr type="forced"/>
+<ts>_____________________</ts><tshtm>_______________</tshtm>Abschriften<ts>____</ts><tshtm>___</tshtm>22.12.1770<lbr type="forced"/>
+8.) Brief des Vaters aus Mailand vom<ts>___</ts><tshtm>__</tshtm>29.12.1770<lbr type="forced"/>
+9.) Brief Nissens an Wolfang Mozart vom<ts>___</ts>5.3.1826.<lbr type="forced"/>
+10. Brief Nissens und Constanzes' an <corr type="stroke" hand="self" impl="pencil" value="Karl" pos="supra">Wolfg.</corr> Mozart vom<lbr type="forced"/>
+<ts>_____________________</ts><tshtm>_____________________________________________________</tshtm>2.3.1826.<lbr type="forced"/>
+11.) Brief Wolfgang Mozarts an Constanze<lbr type="forced"/>
+<ts>_____________________</ts><tshtm>_________________________________</tshtm>vom 4.5.1826.<lbr type="forced"/>
+12.) Gedicht an Karl Mozart, von <corr type="stroke" hand="self" impl="pencil" value="Schnyder von Wartensleben" pos="infra">ungenannter Autorin</corr><lbr type="forced"/>
+13.) Petschaft Mozarts.<lbr type="forced"/>
+14.) goldner Siegelring Mozarts.<lbr type="forced"/>
+15.) Haarlocke Constanze's.<lbr type="forced"/>
+16.) Lithographie Mozarts Grabdenkmal.<lbr type="forced"/>
+17.) Liedcomposition: das Mädchen u. der Vogel.<lbr type="forced"/>
+18.) Regina Coeli. Partitur.<lbr type="forced"/>
+19.) Miniatur der Familie <u>Mozart</u> nach dem Ölgemälde.</rend><lbr/>
+<pg n="2"/>
+<vacat/></text>
+</MUP>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2012">2012-09</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=909</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:38:10 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_346.mup">
+<letter bd="346"><HEADER id="909">LEOPOLD MOZART AN WOLFGANG AMADÉ MOZART IN AUGSBURG<lbr/>
+SALZBURG, 9. OKTOBER 1777</HEADER>
+<pg n="1"/>
+<add_num type="inline"><u>7.</u></add_num><ts>___</ts><tshtm>__________________________________________________________________________________________________</tshtm><tspdf>\hfill </tspdf>Salzb<abbr type="curve"></abbr> d<abbr v="en"/> 9<h>t<abbr v="en"/></h>&#160;<u>octob<abbr type="curve"></abbr> 1777</u><lbr type="forced"/>
+<ts>_____________</ts><tshtm>_____________________</tshtm><rend class="latin">Mon très cher Fils</rend>!<lbr type="forced"/>
+<lbr type="forced"/>
+<amend value="In">Ich</amend> der Vermuthung, daß ihr Münch<abbr v="en"/> verlass<abbr v="en"/>, schreibe ich nach Augsp<abbr type="curve">:</abbr><lbr type="BD"/> und schlüsse dir hier<lbr/>
+ein Schreib<abbr v="en"/> an h<abbr type="curve">:</abbr> Stein be&#255;, wo ich ihm die Besorgung<lbr type="BD"/> eines oder zwe&#255;er Concert<abbr v="en"/> bestens<lbr/>
+anempfehle, auch ihm melde, daß du die<lbr type="BD"/> Abscheulichkeit von Salzb<abbr type="curve">:</abbr> mündlich erzehl<abbr v="en"/> wirst.<lbr/>
+Mache dir auf seiner Orgl<lbr type="BD"/> Ehre, er hält viel darauf; sie ist auch gut, und schreibe mir<lbr/>
+da<abbr type="topline" expand="nn">n</abbr>, <u>was er für<lbr type="BD"/> Instrument<abbr v="en"/> hat.</u> du wirst wohl auf der <u>Violin,</u> so lange du in Münch<abbr v="en"/><lbr/>
+warst,<lbr type="BD"/> dich gar nicht geübt haben? das wäre mir sehr leid: <rend class="latin">Brunetti</rend> lobt dich nun<lbr type="BD"/> erschrecklich!<lbr/>
+und da ich letztlich sagte, du spieltest doch auch <rend class="latin">bassabilmente</rend> die Violin, schrie er laut: <rend class="latin">Cosa</rend>?<lbr/>
+<rend class="latin">Cazo? se suonava tutto! questo era del Principe un puntiglio mal inteso, col suo<lbr/>
+proprio da<abbr type="topline" expand="nn">n</abbr>o</rend>. h<abbr type="curve">:</abbr> Glatz wird dir ein<lbr type="BD"/> weises paar seidene Strimpf einhändig<abbr v="en"/>, die ich noch für<lbr/>
+dich herausgesucht.<lbr type="BD"/> Ich hab solche auf dem baall angelegt, und gefund<abbr v="en"/>, daß sie sehr eng sind.<lbr type="BD"/> auch ist<lbr/>
+ein Buch kleines Notenpapier dabe&#255;, ich hab es dazu gelegt, we<abbr type="topline" expand="nn">n</abbr> du<lbr type="BD"/> etwa <u>deiner schwester ein <rend class="latin">præ<pc force="weak">=</pc><lbr/>ambulum</rend> schreib<abbr v="en"/> willst,</u> so ist dieses Papier<lbr type="BD"/> feiner und beque<abbr type="topline" expand="mm">m</abbr>er in einem Brief zu schicken.<lbr/>
+We<abbr type="topline" expand="nn">n</abbr> du mit h<abbr type="curve">:</abbr> Stein<lbr type="BD"/> sprichst, so mußt du alle Gelegenheit vermeid<abbr v="en"/> von unsern Instrument<abbr v="en"/><lbr type="BD"/> von<lbr/>
+<rend class="latin">Gera</rend> eine Meldung zu machen, da<abbr type="topline" expand="nn">n</abbr> er ist Eyfersichtig mit dem <rend class="latin">Friderici</rend>,<lbr type="BD"/> und wäre der Sache<lbr/>
+gar nicht auszuweichen, so sagst du, ich hätte die Instrument<abbr v="en"/> vom Obrist graf <rend class="latin">Prank</rend>, da er weg<abbr v="en"/><lbr/>
+der Hinfallend<abbr v="en"/> Krankheit<lbr type="BD"/> Salzb<abbr type="curve">:</abbr> verlass<abbr v="en"/>, überno<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>. das übrige wäre dir unbekannt, da du<lbr/>
+noch zu<lbr type="BD"/> jung auf diese Sachen nicht geachtet. gestern war die Fr: von Gerlichs <rend class="latin">en</rend><lbr type="BD"/>&#160;<rend class="latin">Visite</rend> einige 4 Stündl<lbr/>
+be&#255; uns, sie empfehlt sich ganz erschrecklich. die Ha&#255;rat<lbr type="BD"/> der Apot<abbr type="curve">:</abbr> Tresel mit h<abbr type="curve">:</abbr> Strasser ist dem<lbr/>
+h<abbr type="curve">:</abbr> HofApoteker <abbr expand="und">u</abbr> seiner Frau<lbr type="BD"/> gar nicht recht: wäre sie ledig geblieb<abbr v="en"/>, so hätt<abbr v="en"/> sie zur Erbschaft<lbr/>
+hofnung<lbr type="BD"/> gehabt. der Eberlin waberl ist es auch nicht allerdings recht. sie sagt es<lbr type="BD"/> ko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/> 2 tode<lbr/>
+melankonische Narr<abbr v="en"/> zusa<abbr type="topline" expand="mm">m</abbr>. Heut geht der Erzb<abbr type="curve">:</abbr> auf<lbr type="BD"/> 12 od<abbr v="er"/> 14 täge nach Lauff<abbr v="en"/>. die Schönbornin<lbr/>
+ist fort, und das <rend class="latin">Regal</rend> für<lbr type="BD"/> deine <rend class="latin">Sonaten</rend> auch mit dahin. Ich finde noch ein und andere kleine<lbr/>
+Sachen<lbr type="BD"/> für dich: ihr därft frohe se&#255;n, we<abbr type="topline" expand="nn">n</abbr> ihr weiter weg seyd, sonst schicke euch<lbr type="BD"/> im<abbr type="topline" expand="ee">e</abbr>r etwas nach,<lbr/>
+damit euer <rend class="latin">bagage</rend> grösser wird. Es ist noch eine ganze<lbr type="BD"/> Musik<rend class="latin">spart</rend> für die blasend<abbr v="en"/> Hofinstrument<abbr v="en"/><lbr/>
+da, und die <rend class="latin">Spart</rend> vom <u>a<rend class="latin">dagio</rend><lbr type="BD"/> für den Brunetti,</u> da ihm das eine zu studiert war. Vielleicht schreib<lbr/>
+ich es<lbr type="BD"/> auf kleines Papier, und schicke es nach und nach. Ich weis nicht ob ihr in<lbr type="BD"/> Augsp<abbr type="curve">:</abbr> mehr als<lbr/>
+ein Concert werdet machen kö<abbr type="topline" expand="nn">n</abbr><abbr v="en"/>, die Augsp<abbr type="curve">:</abbr> sind itzt sehr<lbr type="BD"/> mit <rend class="latin">Concerten</rend> überhäuft word<abbr v="en"/>.<lbr/>
+ich hab erst in Zeitung gelesen, daß der<lbr type="BD"/> Violonzellist Baumgartner und 4 and<abbr v="er"/>e Person<abbr v="en"/><lbr/>
+mit einander Concert gegeb<abbr v="en"/>. = = We<abbr type="topline" expand="nn">n</abbr> du etwas <rend class="latin">produci</rend>erest, sonderheitl: <rend class="latin">ClavierConcert</rend>, so sorge<lbr type="BD"/><lbr/>
+daß du nachsiehest, ob du deine Sti<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>, we<abbr type="topline" expand="nn">n</abbr>s vorbe&#255;, alle wieder beysa<abbr type="topline" expand="mm">m</abbr>en hast, weil du die <rend class="latin">Spart</rend><lbr/>
+nicht be&#255; dir hast. = Solltest nun nun seh<abbr v="en"/>,<lbr type="BD"/> daß in Augsp<abbr type="curve">:</abbr> mehr als ein gutes Concert nicht zu<lbr/>
+machen ist, so wird rathsa<abbr type="topline" expand="mm">m</abbr>er se&#255;n sich nicht zu lange aufzuhalt<abbr v="en"/>. Ich muß schlüss<abbr v="en"/>, die Post geht<lbr type="BD"/> bald ab.<lbr/>
+heut hab<abbr v="en"/> wir kein<abbr v="en"/> brief erwartet, weil die Münchner solche allzeit d<abbr v="er"/> Reichenhaller Post mitgeb<abbr v="en"/>, die<lbr/>
+morg<abbr v="en"/> erst ko<abbr type="topline" expand="mm">m</abbr>t. Lebt gesund! wir befind<abbr v="en"/> uns gut, mit mir scheint es täglich besser zu werd<abbr v="en"/>, ich schlafe<lbr type="BD"/><lbr/>
+ziemlich gut, der Hust<abbr v="en"/> lässt nach, und ich sehe besser aus. Nur du und die<lbr type="BD"/> Ma<abbr type="topline" expand="mm">m</abbr>a liegen mir noch<lbr/>
+im Kopf. wir be&#255;de kissen<ts>____</ts>&#8211;<ts>____</ts>&#8211;<ts>____</ts>&#8211;<ts>____</ts>&#8211;<ts>___________</ts>euch viel<lbr type="BD"/> 10000000000000 mahl und bin<lbr type="forced"/>
+<ts>__</ts><tshtm>_____________________________________________________________________________________________</tshtm><tspdf>\hfill </tspdf>der alte getreue Ehrliche Ma<abbr type="topline" expand="nn">n</abbr><lbr type="forced"/>
+_<tshtm>_________________________________________________________________________________________________________</tshtm><tspdf>\hfill </tspdf>und Vatter Mozart <abbr expand="manu propria">mp</abbr>.<lbr type="forced"/>
+Wie ich höre soll der Ha&#255;dn für [die] <add_note type="inline" schr_id="57010"><ts>___________________</ts>die</add_note><lbr type="forced"/>
+schöne Musik nur 6 ba&#255;r<abbr type="curve">:</abbr> Tha[ler] <add_note type="inline" schr_id="57010"><ts>____________________</ts>Thaler</add_note><lbr type="forced"/>
+vom Erzb: beko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/> hab[en]. <add_note type="inline" schr_id="57010"><ts>______________________________</ts>haben.</add_note><lbr type="forced"/>
+<ts>_________</ts>(<rend class="latin">Che generos</rend>[<rend class="latin">ità</rend>!)] <add_note type="inline" schr_id="57010"><ts>_________________________________________</ts>ità)</add_note><lbr type="forced"/>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="2"/>
+<add_num><rend class="latin">N</rend>. 7</add_num><lbr/>
+<anschrift rot="90"><rend class="latin">À Monsieur<lbr type="forced"/>
+Monsieur le Chevalier Wolfgang<lbr type="forced"/>
+Amadè Mozart Maître de Musique<lbr type="forced"/>
+à<lbr type="forced"/>
+<u>Augspourg</u></rend></anschrift><lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+</letter></text>
+</MUP>

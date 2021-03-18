@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2012">2012-10</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=986</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:38:42 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_422.mup">
+<letter bd="422"><HEADER id="986">LEOPOLD MOZART AN WOLFGANG AMADÉ MOZART IN MANNHEIM<lbr/>
+SALZBURG, 11. UND 12. FEBRUAR 1778</HEADER>
+
+<pg n="1"/>
+Mein lieber Sohn!<ts>____________</ts><tshtm>______________________________________________</tshtm><ts>________________________</ts><tspdf>\hfill </tspdf>Salz<abbr type="curve">:</abbr> d<abbr v="en"/> 12<h>t<abbr v="en"/></h>&#160;<rend class="latin">feb</rend> 1778<lbr type="forced"/>
+Dein<abbr v="en"/> Brief vom 4<h>t<abbr v="en"/></h> habe mit verwunderung und Schröck<abbr v="en"/> durchles<abbr v="en"/>.<lbr type="BD"/> ich fange auch an ihn heunt<lbr/>
+den 11<h>t<abbr v="en"/></h> zu beantwort<abbr v="en"/>, indem ich die ganze Nacht nicht hab schlaff<abbr v="en"/> kö<abbr type="topline" expand="nn">n</abbr><abbr v="en"/>, und so matt bin, daß ich<lbr/>
+ganz langsam Wort<lbr type="BD"/> für Wort schreib<abbr v="en"/>, und ihn nach und nach bis morgen zu Ende bring<abbr v="en"/><lbr/>
+muß.<lbr type="BD"/> Ich war, Gott Lob, itzt i<abbr type="topline" expand="mm">m</abbr>er wohlauf: allein dieser Brief, an dem ich mein<abbr v="en"/><lbr type="BD"/> Sohn, an<lbr/>
+nichts anderm mehr ke<abbr type="topline" expand="nn">n</abbr>e, als an dem fehler, daß er allen Leut<abbr v="en"/><lbr type="BD"/> auf das erste Wort glaubt,<lbr/>
+sein zu gutes Herz durch Schmeichele&#255;en und gute<lbr type="BD"/> schöne Worte iederman blosstellt, sich<lbr/>
+von iedem auf alle ihm gemachte vorstellung<abbr v="en"/> nach Belieb<abbr v="en"/> hin und her lenk<abbr v="en"/> lässt, und<lbr/>
+durch Einfälle und<lbr type="BD"/> grundlose nicht genug überlegte in der Einbildung thunliche<lbr/>
+Aussicht<abbr v="en"/> sich<lbr type="BD"/> dahin bringen lässt, dem Nutz<abbr v="en"/> fremder Leute sein<abbr v="en"/> aigen<abbr v="en"/> Ruhm und<lbr type="BD"/> Nutz<abbr v="en"/>,<lbr/>
+und so gar den Nutz<abbr v="en"/> und die sein<abbr v="en"/> alt<abbr v="en"/> ehrlichen Eltern schuldige<lbr type="BD"/> Hilfe aufzuopfern;<lbr/>
+dieser Brief hat mich um so mehr niedergeschlagen, als<lbr type="BD"/> ich mir vernünftige Hofnung<lbr/>
+machte, daß dich einige dir schon begegnete<lbr type="BD"/> Umstände, und meine hier mündlich und<lbr/>
+dir schriftlich gemachte Eri<abbr type="topline" expand="nn">n</abbr>erung<abbr v="en"/> hätten überzeugen soll<abbr v="en"/>, daß man, um sein Glück<lbr/>
+so wohl, als auch<lbr type="BD"/> sein auch nur gemeines fortko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/> in der Welt zu such<abbr v="en"/>, und unter<lbr/>
+der<lbr type="BD"/> so verschieden<abbr v="en"/> Art, guter, böser, glücklicher und unglücklicher Mensch<abbr v="en"/><lbr type="BD"/> endlich das<lbr/>
+gesuchte Ziehl zu erreichen, sein gutes Herz mit der gröst<abbr v="en"/> Zurückhaltung verwahr<abbr v="en"/>,<lbr/>
+nichts ohne die gröste Überlegung unternehm<abbr v="en"/>, und<lbr type="BD"/> sich von Entusiastischen Einbildung<abbr v="en"/><lbr/>
+und ohngefähr<abbr v="en"/> blind<abbr v="en"/> Einfäll<abbr v="en"/><lbr type="BD"/> niemals hinreisen lassen müsse. Ich bitte dich mein<lbr/>
+lieber Sohn, lese diesen<lbr type="BD"/> Brief mit bedacht &#8211; nehme dir die Zeit solch<abbr v="en"/> mit überlegung<lbr/>
+zu lesen &#8211;<lbr type="BD"/> Grosser gütiger Gott, die für mich vergnügt<abbr v="en"/> Augenblicke sind vorbe&#255;,<lbr/>
+wo<lbr type="BD"/> du als Kind, und Knab nicht schlaff<abbr v="en"/> giengst ohne auf dem Sessl stehend<lbr type="BD"/> mir das<lbr/>
+<rend class="latin">oragnia figatafa</rend> vorzusing<abbr v="en"/>, mich öfters und am Ende auf das Nasenspitzl zu küss<abbr v="en"/>,<lbr/>
+und mir zu sagen, daß, we<abbr type="topline" expand="nn">n</abbr> ich alt seyn werde, du mich in<lbr type="BD"/> einem Kapsel, wo ein<lbr/>
+Glaß vor, vor aller Luft bewahr<abbr v="en"/> wollest, um mich<lbr type="BD"/> i<abbr type="topline" expand="mm">m</abbr>er be&#255; dir, und in Ehr<abbr v="en"/> zu<lbr/>
+halten. &#8211; Höre mich demnach mit Gedult!<lbr type="BD"/> Unsere Salzb<abbr type="curve">:</abbr> Bedrückung<abbr v="en"/> sind dir voll<pc force="weak">=</pc><lbr/>ko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/> bekannt, &#8211; du weist mein<lbr type="BD"/> schlechtes Ausko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>, und endlich warum ich dir<lbr/>
+mein Versprech<abbr v="en"/> gehalt<abbr v="en"/>,<lbr type="BD"/>&#160;<amend value="dich">die</amend> weiter geh<abbr v="en"/> zu lassen, und alle meine Drangsahlen.<lbr/>
+Die Absicht deiner<lbr type="BD"/> Reise war<abbr v="en"/> 2 Ursach<abbr v="en"/>: oder ein<abbr v="en"/> beständig<abbr v="en"/> gut<abbr v="en"/> dienst zu such<abbr v="en"/>;<lbr/>
+oder,<lbr type="BD"/> we<abbr type="topline" expand="nn">n</abbr> dieses misslingt, sich an ein<abbr v="en"/> grossen Platz zu begeb<abbr v="en"/>, wo grosse Ver<pc force="weak">=</pc><lbr/>dienste sind. Beydes gieng auf die Absicht dein<abbr v="en"/> Eltern be&#255;zusteh<abbr v="en"/>, und deiner<lbr/>
+lieben Schwester fortzuhelfen, vor allem aber dir Ruhm und Ehre in d<abbr v="er"/><lbr type="BD"/> Welt zu<lbr/>
+machen, welches auch theils in deiner Kindheit schon gescheh<abbr v="en"/>, theils<lbr type="BD"/> in dein<abbr v="en"/> Jünglings=Jahr<abbr v="en"/>,<lbr/>
+und itzt nur ganz alleine auf dich anko<abbr type="topline" expand="mm">m</abbr>t in<lbr type="BD"/> eines der gröst<abbr v="en"/> Anseh<abbr v="en"/>, die iemals ein<lbr/>
+Tonkünstler erreicht hat, dich nach<lbr type="BD"/> und nach zu erheben: das bist du deinem von dem<lbr/>
+Gütigst<abbr v="en"/> Gott erhalten<abbr v="en"/><lbr type="BD"/> auserordentlichen Talente schuldig; und es ko<abbr type="topline" expand="mm">m</abbr>t nur auf deine<lbr/>
+vernunft<lbr type="BD"/> und Lebensart an, ob du als ein gemeiner Tonkünstler, auf den die ganze<lbr/>
+Welt<lbr type="BD"/> vergisst, od<abbr v="er"/> als ein Berühmter Capellmeister, von dem die Nachwelt auch<lbr type="BD"/> noch<lbr/>
+in Büchern lieset, &#8211; ob du von einem Weibsbild etwa eingeschäfert mit<lbr type="BD"/> einer<lbr/>
+Stube voll nothleidend<abbr v="en"/> Kind<abbr v="ern"/> auf einem Strohsack, od<abbr v="er"/> nach einem<lbr type="BD"/><lbr/>
+Christl: hingebracht<abbr v="en"/> Leben mit Vergnügen, Ehre und Nachruhm, mit allem<lbr type="BD"/><lbr/>
+für deine Familie wohl verseh<abbr v="en"/>, be&#255; aller Welt in Anseh<abbr v="en"/> sterben willst?<lbr type="BD"/> Deine Reise<lbr/>
+gieng nach Münch<abbr v="en"/> &#8211; du weist die absicht &#8211; es war nichts zu<lbr type="BD"/> thun. wohlmeinende<lbr/>
+freunde wünscht<abbr v="en"/> dich da zu hab<abbr v="en"/> &#8211; dein Wunsch war<lbr type="BD"/> da zu bleib<abbr v="en"/>: Man verfiel auf<lbr/>
+die Gedank<abbr v="en"/>, eine Gesellschaft zusa<abbr type="topline" expand="mm">m</abbr> zu<lbr type="BD"/> bring<abbr v="en"/>, ich darfs nicht umständlich wied<abbr v="er"/>hohlen.<lbr/>
+den Augenblick fandest<lbr type="BD"/> du die Sache thunlich; &#8211; ich fand es nicht &#8211; lese nach was<lbr/>
+ich dir geantwortet.<lbr type="BD"/> du hast Ehre im Leib. &#8211; &#8211; hätte es, we<abbr type="topline" expand="nn">n</abbr>s auch gescheh<abbr v="en"/> wäre,<lbr/>
+dir Ehre gemacht von 10 Person<abbr v="en"/>, und ihrer monatl: Gnade abzuhang<abbr v="en"/>? da warst du<lbr type="BD"/><lbr/>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="2"/>
+ganz erstaunlich für die kleine Sängerin des Theaters eingenohm<abbr v="en"/> und<lbr type="BD"/> wünschtest nichts<lbr/>
+mehr als dem Teutschen Theater aufzuhelfen: itzt erklärst<lbr type="BD"/> du dich, daß du nicht<lbr/>
+einmahl eine Komische Opera schreiben <suppl hand="self" pos="supra">möchtest</suppl>. So<lbr type="BD"/> bald du be&#255;m Thor in Münch<abbr v="en"/> hinaus<pc force="weak">=</pc><lbr/>warest, hatte dich auch, wie ich es vorsagte, deine ganze freundschaftl: <rend class="latin">Subscrib</rend>ent<abbr v="en"/>gesellschaft<lbr/>
+vergessen. &#8211; und<lbr type="BD"/> was wäre es nun in Münch<abbr v="en"/> gewes<abbr v="en"/>? &#8211; &#8211; am Ende sieht man i<abbr type="topline" expand="mm">m</abbr>er<lbr/>
+die<lbr type="BD"/> vorsehung Gottes.<ts>____</ts>In Augspurg hast du auch deine klein<abbr v="en"/>&#160;<rend class="latin">Scenen</rend> gehabt,<lbr type="BD"/> dich<lbr/>
+mit meines Bruders Tochter lustig unterhalt<abbr v="en"/>, die dir nun auch ihr<lbr type="BD"/>&#160;<rend class="latin">Portrait</rend> schick<abbr v="en"/> muste.<lbr/>
+das übrige habe euch in den erst<abbr v="en"/> Briefen nach Manheim geschrieb<abbr v="en"/>. In Wallerstein<lbr/>
+machtest du ihn<abbr v="en"/> tausend Spaß, nahmst<lbr type="BD"/> die Violin, tanztest herum und spieltest, so<lbr/>
+daß man dich als ein<abbr v="en"/> lustig<abbr v="en"/><lbr type="BD"/> aufgeräumt<abbr v="en"/> närrisch<abbr v="en"/> Mensch<abbr v="en"/> den<abbr v="en"/> damals abwesend<abbr v="en"/> an<pc force="weak">=</pc><lbr/>pries, welches dem h<abbr type="curve">:</abbr>&#160;<rend class="latin">Becke</rend> gelegenheit gab deine Verdienste herunter zu setz<abbr v="en"/>,<lbr type="BD"/> die<lbr/>
+nun aber be&#255; den 2 Herrn, durch deine Composition, und die Spielart<lbr type="BD"/> deiner Schwester<lbr/>
+in ein anderes Liecht gesetzt word<abbr v="en"/>, da sie i<abbr type="topline" expand="mm">m</abbr>er sagte:<lbr type="BD"/>&#160;<u>ich bin nur eine Schülerin meines<lbr/>
+Bruders;</u> so, daß sie die gröste Hochachtung für deine Kunst hab<abbr v="en"/>, und sich sehr über des<lbr/>
+h<abbr type="curve">:</abbr>&#160;<rend class="latin">Becke</rend> schlechte<lbr type="BD"/> Composition herausliesen. In Manheim hast du sehr wohl getha<abbr type="topline" expand="nn">n</abbr> dich be&#255;<lbr type="BD"/><lbr/>
+<add_note schr_id="57010"><ts>______________</ts>Canabich</add_note>
+dem h<abbr type="curve">:</abbr>&#160;<u><encr expand="Canabich">Cmnnmbfcu</encr></u> einzuschmeicheln. Es würde aber ohne frucht gewes<abbr v="en"/><lbr type="BD"/> se&#255;n, we<abbr type="topline" expand="nn">n</abbr> er nicht<lbr/>
+seinen doppelt<abbr v="en"/> Nutz<abbr v="en"/> dabe&#255; gesucht hätte. das übrige<lbr type="BD"/> habe dir schon geschrieben. da wurde<lbr/>
+<add_note schr_id="57010"><ts>_________________________________________________</ts>Canabich</add_note>
+nun die <rend class="latin">Msse</rend> Tochter des h<abbr type="curve">:</abbr>&#160;<u><encr expand="Canabich">Cmnnmbfcu</encr></u> mit Lobeserhebung<abbr v="en"/> überhäuft, das <rend class="latin">Portrait</rend> ihres<lbr/>
+<rend class="latin">temperaments</rend> im<lbr type="BD"/>&#160;<rend class="latin">Adagio</rend> der <rend class="latin">Sonate</rend> ausgedrückt, kurz, diese war nun die <rend class="latin">favorit</rend>person.<lbr/>
+<add_note schr_id="57010"><ts>________________________________________________________________________</ts>Wendling</add_note>
+da<abbr type="topline" expand="nn">n</abbr><lbr type="BD"/> kahmst du in die Bekanntschaft des h<abbr type="curve">:</abbr>&#160;<u><encr expand="Wendling">Wlndlfng</encr></u>. itzt war dieser der<lbr type="BD"/> ehrlichste freund,<lbr/>
+und was da<abbr type="topline" expand="nn">n</abbr> alles gescheh<abbr v="en"/>, darf nicht wiederhohl<abbr v="en"/>. In<lbr type="BD"/> einem Augenblicke ko<abbr type="topline" expand="mm">m</abbr>t die neue<lbr/>
+<add_note schr_id="57010"><ts>________________________________</ts>Weber</add_note>
+bekanntschaft mit h<abbr type="curve">:</abbr>&#160;<u><encr expand="Weber">Wlblr</encr></u>: nun ist<lbr type="BD"/> alles vorige vorbe&#255;; itzt ist diese <rend class="latin">Familie</rend> die red<pc force="weak">=</pc><lbr/>lichste Christlichste <rend class="latin">Familie</rend><lbr type="BD"/> und die Tochter <suppl hand="self" pos="supra">ist die Hauptperson</suppl> des zwisch<abbr v="en"/> deiner aigen<abbr v="en"/> und dieser<lbr type="BD"/>&#160;<rend class="latin">Familie</rend><lbr/>
+vorzustellend<abbr v="en"/> Trauerspieles, und alles, was du dir in dem dau<abbr type="topline" expand="mm">m</abbr>el,<lbr type="BD"/> in den dich dein<lbr/>
+für alle Leute offenes gutes Herz gesetzt hat, ohne genugsa<abbr type="topline" expand="mm">m</abbr>e überlegung einbildest,<lbr/>
+so richtig und so unfehlbar thunlich, als we<abbr type="topline" expand="nn">n</abbr><lbr type="BD"/> es schon ganz natürlich so geh<abbr v="en"/> müsste.<lbr type="forced"/>
+Du gedenkest sie als <rend class="latin">Prima Do<abbr type="topline" expand="nn">n</abbr>a</rend> nach Italien zu bringen. Sag mir ob du eine<lbr type="BD"/>&#160;<rend class="latin">prima do<abbr type="topline" expand="nn">n</abbr>a</rend><lbr/>
+ke<abbr type="topline" expand="nn">n</abbr>est, die als <rend class="latin">Prima do<abbr type="topline" expand="nn">n</abbr>a</rend>, ohne vormals in Teutschland schon<lbr type="BD"/> öfters <rend class="latin">reciti</rend>ert zu hab<abbr v="en"/>, das theater<lbr/>
+in Itali<abbr v="en"/> betrett<abbr v="en"/> hat. wie viele <rend class="latin">opern</rend><lbr type="BD"/> hat nicht die <rend class="latin">Sg<h>ra</h>&#160;<u>Bernasconi</u></rend> in Wie<abbr type="topline" expand="nn">n</abbr> <rend class="latin">reciti</rend>ert, und<lbr/>
+zwar <rend class="latin">opern</rend> von den<lbr type="BD"/> grösst<abbr v="en"/>&#160;<rend class="latin">affecten</rend>, und unter der genauest<abbr v="en"/> Critik und unterweisung<lbr/>
+des<lbr type="BD"/> Gluck und <rend class="latin">Calsabigi</rend>! Wie vielle <rend class="latin">opern</rend> sang die <rend class="latin"><u>Md:<h>le</h> Deiber</u></rend> in Wie<abbr type="topline" expand="nn">n</abbr> unter<lbr type="BD"/> der<lbr/>
+Unterweisung des <rend class="latin">Hasse</rend> &#8211; und unter dem unterricht der alt<abbr v="en"/> Sängerin<lbr type="BD"/> und berühmtest<abbr v="en"/><lbr/>
+<rend class="latin">Actrice</rend> der <rend class="latin"><u>Sg<h>a</h>: Tesi,</u></rend> die du be&#255;m Prinz Hildburgshaus<abbr v="en"/><lbr type="BD"/> geseh<abbr v="en"/>, und als ein Kind ihre Mohrin<lbr/>
+Küsstest. Wie vielmahl <rend class="latin">reciti</rend>erte die<lbr type="BD"/>&#160;<rend class="latin"><u>Md<h>le</h>: Schindler</u></rend> auf dem Wiener Theater, nach<pc force="weak">=</pc><lbr/>dem sie ihr<abbr v="en"/> Anfang be&#255;<lbr type="BD"/> einer Haus<rend class="latin">opera</rend> auf dem Landgut des <rend class="latin">Baron Fries</rend><lbr/>
+unter der Unterweisung<lbr type="BD"/> des <rend class="latin">Hasse</rend> und der <rend class="latin">Tesi</rend> und des <rend class="latin">Metastasio</rend> machte! &#8211; &#8211; <lbr/>
+haben alle diese Person<abbr v="en"/> es wagen därff<abbr v="en"/> sich dem <rend class="latin">Italia</rend>nisch<abbr v="en"/>&#160;<rend class="latin">Publico</rend> auszusetz<abbr v="en"/>? &#8211; &#8211; <lbr/>
+und<lbr type="BD"/> wie viele Protecktion und vielvermögende Empfehlung<abbr v="en"/> hatt<abbr v="en"/> sie da<abbr type="topline" expand="nn">n</abbr> erst<lbr type="BD"/> nötig<lbr/>
+um zu ihren Zweck zu gelangen? &#8211; &#8211; Fürst<abbr v="en"/> und Graf<abbr v="en"/> empfahl<abbr v="en"/> sie;<lbr type="BD"/> und in<lbr/>
+Rhum stehende Componist<abbr v="en"/> und Poet<abbr v="en"/> stund<abbr v="en"/> für ihre Geschicklichkeit. Und du willst <amend value="ich">ist</amend><lbr/>
+soll nur an <rend class="latin">Luggiati</rend> schreib<abbr v="en"/>; du wolltest um 50 <rend class="latin">Duggatt<abbr v="en"/></rend> die <rend class="latin">opera</rend> schreib<abbr v="en"/>, da du<lbr/>
+doch weist, daß die <rend class="latin">Veroneser</rend> kein<lbr type="BD"/> Geld hab<abbr v="en"/>, und niemals eine neue <rend class="latin">opera</rend> schreib<abbr v="en"/> lass<abbr v="en"/>.<lbr/>
+Ich soll itzt auf die<lbr type="BD"/>&#160;<rend class="latin">Ascensa</rend> bedacht se&#255;n, da mir <rend class="latin">Michelagata</rend> nicht einmahl eine<lbr/>
+Antwort auf<lbr type="BD"/> meine 2 vorige schreib<abbr v="en"/> gab. Ich lasse daß die Ms<h>le</h>&#160;<encr expand="Weber">Wlblr</encr> wie eine<lbr type="BD"/>&#160;<rend class="latin">Gabrielli</rend><lbr/>
+singt; daß sie eine <u>starke Sti<abbr type="topline" expand="mm">m</abbr>e</u> für die italiänisch<abbr v="en"/> Theater <abbr expand="etc">p</abbr>:<lbr type="BD"/> hat, daß sie für eine <rend class="latin">prima</rend><lbr/>
+<rend class="latin">Do<abbr type="topline" expand="nn">n</abbr>a</rend> gut gewachsen ist <abbr expand="etc">p</abbr>: &#8211; so ist es lächerlich,<lbr type="BD"/> daß du für ihre Accktion gut steh<abbr v="en"/> willst.<lbr/>
+da gehört was mehrers dazu, und die<lbr type="BD"/> alt=kindische, auch aus lauter guter Meinung und<lbr/>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="3"/>
+freundschaftlich<abbr v="en"/> Menschenliebe unternohmene Bemühung des alt<abbr v="en"/>&#160;<rend class="latin">Hasse</rend> hat die <rend class="latin">miss Devis</rend> auf<lbr/>
+ewig<lbr type="BD"/> von der welsch<abbr v="en"/> Schaubühne verbannt, da sie die erste <rend class="latin">Sera</rend> ausgezischet<lbr type="BD"/> und ihre <rend class="latin">parte</rend><lbr/>
+der <rend class="latin">de Amicis</rend> übergeb<abbr v="en"/> wurde. Nicht nur ein frauenzi<abbr type="topline" expand="mm">m</abbr>er,<lbr type="BD"/> sond<abbr v="ern"/> ein schon auf dem Theater<lbr/>
+geübter Ma<abbr type="topline" expand="nn">n</abbr> zittert be&#255; seinem erst<abbr v="en"/><lbr type="BD"/> Auftritte in einem fremd<abbr v="en"/> lande. Und glaubst<lbr/>
+du das ist alles? &#8211; &#8211; keineswegs &#8211; <rend class="latin">ci vuole il Posesso del Teatro</rend> so gar be&#255; einem<lbr/>
+frauenzi<abbr type="topline" expand="mm">m</abbr>er, in<lbr type="BD"/> betreff des Anzugs, der <rend class="latin">Frisur</rend>, des Aufputzes <abbr expand="etc">p</abbr>: doch, du weist<lbr/>
+alles selbst,<lbr type="BD"/> we<abbr type="topline" expand="nn">n</abbr> du nachdenk<abbr v="en"/> willst &#8211; ich weis die scharfe überlegung alles dieses,<lbr type="BD"/> wird dich<lbr/>
+überzeugen, daß dein Einfahl zwar von gutem Herz<abbr v="en"/> ko<abbr type="topline" expand="mm">m</abbr>t, aber<lbr type="BD"/>&#160;<u>seine Zeit,</u> und <u>grosse<lbr/>
+Vorbereitung</u> braucht, und ganz ein anderer Weg muß<lbr type="BD"/> geno<abbr type="topline" expand="mm">m</abbr><abbr v="en"/> werd<abbr v="en"/>, solch<abbr v="en"/>, nach einiger<lbr/>
+längern Zeit auszuführ<abbr v="en"/>. Welcher<lbr type="BD"/>&#160;<rend class="latin">impressario</rend> würde nicht lachen, we<abbr type="topline" expand="nn">n</abbr> man ihm ein<lbr/>
+Mädl von 16 oder 17 Jahr<abbr v="en"/>, die noch niemals auf dem Theater gestand<abbr v="en"/>, <rend class="latin">recomand</rend>ier<abbr v="en"/><lbr/>
+wollte? &#8211; &#8211;<lbr type="BD"/> Dein Vorschlag |: ich ka<abbr type="topline" expand="nn">n</abbr> kaum schreib<abbr v="en"/>, we<abbr type="topline" expand="nn">n</abbr> ich nur daran denke :| der<lbr type="BD"/> Vorschlag<lbr/>
+<add_note schr_id="57010"><ts>________________</ts>Weber</add_note>
+mit dem h<abbr type="curve">:</abbr>&#160;<encr expand="Weber">Wlblr</encr> und <u><rend class="latin">NB</rend></u> 2 Töchtern herumzureis<abbr v="en"/> hätte mich<lbr type="BD"/> be&#255;nahe um mein<abbr v="en"/><lbr/>
+Vernunft gebracht. Liebster Sohn! wie kannst du dich<lbr type="BD"/> doch von so einem abscheulich<abbr v="en"/> dir<lbr/>
+zugebracht<abbr v="en"/> Gedank<abbr v="en"/> auch nur auf eine<lbr type="BD"/> Stunde einnehm<abbr v="en"/> lass<abbr v="en"/>. dein Brief ist nicht<lbr/>
+anders als wie ein <rend class="latin">Roman</rend> geschrieb<abbr v="en"/>. &#8211; &#8211; und du könntest dich wirklich entschliess<abbr v="en"/> mit<lbr/>
+fremd<abbr v="en"/> Leut<abbr v="en"/><lbr type="BD"/> in der Welt herumzuzieh<abbr v="en"/>? &#8211; dein<abbr v="en"/> Ruhm &#8211; deine alt<abbr v="en"/> Eltern, deine<lbr/>
+liebe<lbr type="BD"/> Schwester auf die Seite zu setz<abbr v="en"/>? &#8211; mich dem Fürst<abbr v="en"/>, und <u>der ganz<abbr v="en"/> Statt,<lbr type="BD"/> die Dich<lbr/>
+liebt,</u> dem Spoth und Gelächter auszusetz<abbr v="en"/>? &#8211; ja, dem Spott und<lbr type="BD"/> dich der<lbr/>
+Verachtung auszusetz<abbr v="en"/>, da ich aller Welt, die mich i<abbr type="topline" expand="mm">m</abbr>er fragte,<lbr type="BD"/> sagen muste, daß<lbr/>
+du nach Paris gehen wirst; und nun am Ende wolltest du mit<lbr type="BD"/> fremden Person<abbr v="en"/><lbr/>
+auf gerathe wohl herumzieh<abbr v="en"/>? Nein, das ka<abbr type="topline" expand="nn">n</abbr>st du nach<lbr type="BD"/> ein bischen Überlegung nicht<lbr/>
+einmahl mehr gedenken. &#8211; Doch damit ich euch<lbr type="BD"/> alle euerer Übereilung überzeuge,<lbr/>
+so wisse, daß itzt eben die Zeit ko<abbr type="topline" expand="mm">m</abbr>t, wo keinem vernünftig<abbr v="en"/> Mensch<abbr v="en"/> so etwas be&#255;fall<abbr v="en"/><lbr/>
+ka<abbr type="topline" expand="nn">n</abbr>. Die Umstande sind<lbr type="BD"/> dermahl so, daß man nicht einmal weis, an was für Ort<abbr v="en"/><lbr/>
+überal Kriege ausbrech<abbr v="en"/> wird, da an all<abbr v="en"/> Orten die Regimenter theils marschiern<lbr/>
+theils in<lbr type="BD"/> Bereitschaft steh<abbr v="en"/>. &#8211; in die Schweitz? &#8211; in Holland? &#8211; &#8211; ja da ist den<lbr/>
+ganz<abbr v="en"/><lbr type="BD"/> So<abbr type="topline" expand="mm">m</abbr>er keine Seele; und im Winter beko<abbr type="topline" expand="mm">m</abbr>t man in <u>Bern</u> und <u>Zürch</u> genau<lbr type="BD"/><lbr/>
+so viel daß man nicht hunger stirbt, sonst ist nirgends nichts. und Holland<lbr type="BD"/> hat itzt<lbr/>
+auf and<abbr v="er"/>e Sach<abbr v="en"/> als auf Musik zu denk<abbr v="en"/>, und den halb<abbr v="en"/> theil<lbr type="BD"/> der Ei<abbr type="topline" expand="nn">n</abbr>ahme frisst h<abbr type="curve">:</abbr>&#160;<u>Humel</u><lbr/>
+und die Concertsunköst<abbr v="en"/>. und wo blieb<lbr type="BD"/> alsda<abbr type="topline" expand="nn">n</abbr> dein Rhum? daß ist nur eine sache<lbr/>
+für kleine Lichter, für HalbComponist<abbr v="en"/>, für Schmierer, für ein<abbr v="en"/>&#160;<u>Schwindl, <rend class="latin">Zappa</rend>,<lbr/>
+<rend class="latin">Ricci</rend>&#160;<abbr expand="etc">p</abbr>:</u> ne<abbr type="topline" expand="nn">n</abbr>e mir<lbr type="BD"/> ein<abbr v="en"/> grossen Componist<abbr v="en"/>, der sich würdiget ein<abbr v="en"/> solch<abbr v="en"/> nieder<pc force="weak">=</pc><lbr/>trächtig<abbr v="en"/><lbr type="BD"/> Schritt zu thun? &#8211; &#8211; <u>Fort mit Dir nach Paris!</u> und das bald;<lbr/>
+setze dich grossen<lbr type="BD"/> Leut<abbr v="en"/> an die Seite &#8211; <rend class="latin">aut Cæsar aut nihil</rend>, der einzige Ge<pc force="weak">=</pc><lbr/>dancke Paris zu<lbr type="BD"/> seh<abbr v="en"/>, hätte dich vor all<abbr v="en"/> fliegend<abbr v="en"/> Einfäll<abbr v="en"/> bewahr<abbr v="en"/> soll<abbr v="en"/>. <u>Von Paris<lbr type="BD"/> aus<lbr/>
+geht der Rhum und Name eines Ma<abbr type="topline" expand="nn">n</abbr>es von grossem Talente durch die<lbr type="BD"/> ganze Welt,<lbr/>
+da behandelt der Adl Leute von <rend class="latin">Genie</rend> mit der grösst<abbr v="en"/> Herablassung, Hochschätzung<lbr/>
+und Höflichkeit,</u> &#8211; <u>da siehet man eine schöne Lebensarth, die ganz erstaunlich ab<pc force="weak">=</pc><lbr/>sticht gegen der Grobheit unserer Teutsch<abbr v="en"/><lbr type="BD"/> Cavalliers und Dam<abbr v="en"/>, und da machst<lbr/>
+du dich in französisch<abbr v="en"/> Sprache vest.</u><lbr type="BD"/> Was die Gesellschaft mit <u><encr expand="Wendling">Wlndlfng</encr></u>&#160;<abbr expand="etc">p</abbr>: betrift,<lbr/>
+hast du sie gar nicht nötig.<lbr type="BD"/> du hast sie längst gekannt, und hat es deine Ma<abbr type="topline" expand="mm">m</abbr>a nicht<lbr/>
+eingeseh<abbr v="en"/>, waret<lbr type="BD"/> ihr beyde blind? &#8211; Nein, ich weis wie es se&#255;n wird, du warest dafür<lbr/>
+eingenohm<abbr v="en"/>, und <suppl hand="self" pos="infra">sie</suppl> durfte es nicht wag<abbr v="en"/> dir zu wid<abbr v="er"/>sprech<abbr v="en"/>. Ich bin böse,<lbr type="BD"/> daß es euch be&#255;d<abbr v="en"/> an<lbr/>
+dem Vertrau<abbr v="en"/> und an der Aufrichtigkeit fehlt mir alles<lbr type="BD"/> umständlich und redlich zu<lbr/>
+bericht<abbr v="en"/>; ihr machtet es mir mit dem <encr expand="Churfirsten">Cuhrifrotln</encr> eben so, und am Ende musste<lbr/>
+doch alles herausko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>. Ihr wolltet<lbr type="BD"/> mir verdruß erspahr<abbr v="en"/>, und am Ende schüttet ihr<lbr/>
+mir eine ganze Lauge von<lbr type="BD"/> Verdrüsslichkeit<abbr v="en"/> auf einmahl über den Kopf herab,<lbr/>
+die mich fast ums Leb<abbr v="en"/><lbr type="BD"/> bring<abbr v="en"/>. Ihr wisst, und habt 1000 Prob<abbr v="en"/>, daß mir der gütige Gott<lbr/>
+eine gesunde vernunft gegeben, daß mir der Kopf noch am recht<abbr v="en"/> Ort stehet,<lbr/>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="4"/>
+und<lbr type="BD"/>
+daß ich in verwirrtest<abbr v="en"/> Sach<abbr v="en"/> oft ein<abbr v="en"/> Ausweeg gefund<abbr v="en"/>, und eine Menge<lbr type="BD"/> Sach<abbr v="en"/> vor<pc force="weak">=</pc><lbr/>ausgeseh<abbr v="en"/> und errath<abbr v="en"/>: was hielt euch de<abbr type="topline" expand="nn">n</abbr> ab mich um Rath zu<lbr type="BD"/> frag<abbr v="en"/>, und allzeit nach meinem<lbr/>
+Will<abbr v="en"/> zu thun. Mein Sohn, du hast mich mehr als dein<abbr v="en"/> aufrichtigst<abbr v="en"/> Freund, als ein<abbr v="en"/> scharfen<lbr/>
+vatter anzuseh<abbr v="en"/>. &#8211;<lbr type="BD"/> denke nach ob ich dich nicht allzeit freundschaftlich behandelt, und wie<lbr/>
+ein<lbr type="BD"/> diener sein<abbr v="en"/> herrn bedient, auch dir alle Mögliche Unterhaltung verschaft,<lbr type="BD"/><lbr/>
+und zu allem ehrlichen und wohlanständigem Vergnüg<abbr v="en"/>, oft mit meiner<lbr type="BD"/> aigen<abbr v="en"/> gross<abbr v="en"/><lbr/>
+<add_note schr_id="57010"><ts>__________________________________________________________________________________________________</ts>Wendling</add_note>
+Unbeque<abbr type="topline" expand="mm">m</abbr>lichkeit geholf<abbr v="en"/> habe? <add_note type="inline">[</add_note> &#8211; &#8211; vermuthlich wird nun<lbr type="BD"/> h<abbr type="curve">:</abbr>&#160;<u><encr expand="Wendling">Wlndlfng</encr></u> schon weg se&#255;n!<lbr/>
+Ich habe, obwohl ich halb Tod war, bereits<lbr type="BD"/> wegen der Pariser Reise alles ausgedacht und in<lbr/>
+Ordnung gebracht. h<abbr type="curve">:</abbr><lbr type="BD"/> Arbauer ein Berühmter Kaufma<abbr type="topline" expand="nn">n</abbr> von Augsp<abbr type="curve">:</abbr> und Frankfurt<lbr/>
+ist itzt be&#255;<lbr type="BD"/> seinem Deutsch<abbr v="en"/> Correspondent<abbr v="en"/> in Paris, und bleibt die ganze Fast<abbr v="en"/> alda,<lbr type="BD"/><lbr/>
+den 23<h>ten</h> wird ein Schreib<abbr v="en"/> an ihn ergeh<abbr v="en"/>, und eb<abbr v="en"/> an diesem Posttage<lbr type="BD"/> werde auch<lbr/>
+euch alles umständlich bericht<abbr v="en"/>, was ihr zu thun habt, was euch<lbr type="BD"/> beyläufig die Reise<lbr/>
+kost<abbr v="en"/> mag, und euch ein offenes schreib<abbr v="en"/> einschick<abbr v="en"/>,<lbr type="BD"/> welches ihr be&#255; euerer Ankunft<lbr/>
+abzugeb<abbr v="en"/> habt, da h<abbr type="curve">:</abbr> Arbauer |: der glaube<lbr type="BD"/> in Augsp<abbr type="curve">:</abbr> in deinem Concert war :| schon<lbr/>
+wegen euerer Ankunft wird nachricht hab<abbr v="en"/>. Diese Säuere&#255; hat mich ein paar<lbr/>
+schlaflose nächte gekostet. Gleich<lbr type="BD"/> be&#255; Erhaltung dieses Schreib<abbr v="en"/> will ich, daß ihr<lbr/>
+mir schreibt <u>wie viel ihr Geld<lbr type="BD"/> in Händ<abbr v="en"/> habt.</u> ich hoffe daß du auf die 200 f sicher<lbr/>
+rechn<abbr v="en"/> kannst. Ich<lbr type="BD"/> erstaunte da du schriebst du wolltest nun ganz <rend class="latin">Co<abbr type="topline" expand="mm">m</abbr>ot</rend> die Musik für<lbr/>
+<rend class="latin">Mr: De<lbr type="BD"/> Jean</rend> zu Ende bring<abbr v="en"/>. &#8211; und diese hast du noch nicht geliefert? und dachtest<lbr type="BD"/> den<lbr/>
+15 <rend class="latin">feb<abbr type="curve">:</abbr></rend> abzureisen? &#8211; und giengst doch nach Kirchheim spazieren &#8211; und<lbr type="BD"/> führtest die<lbr/>
+<add_note schr_id="57010"><ts>__________</ts>Weber</add_note>
+<rend class="latin">Mdsle</rend>&#160;<u><encr expand="Weber">Wlblr</encr></u> mit, damit du weniger beko<abbr type="topline" expand="mm">m</abbr>st, weil die Prinzessin 2 Person<abbr v="en"/> beschänk<abbr v="en"/> muste;<lbr/>
+welches du sonst allein beko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/><lbr type="BD"/> hättest. doch, das thut nichts &#8211; aber Hu&#255;! we<abbr type="topline" expand="nn">n</abbr> dir<lbr/>
+<add_note schr_id="57010"><ts>________</ts>Wendling<ts>______________________________________________________________</ts>dir<ts>___</ts>izt nicht Wort</add_note>
+h<abbr type="curve">:</abbr>&#160;<u><encr expand="Wendling">Wlndlfng</encr></u> nun den<lbr type="BD"/> Streich machte, und <rend class="latin">Mr. de jean</rend>&#160;<u><encr expand="dir izt nicht wort">dfr fzt nfcut wsrt</encr></u> hielte, da<abbr type="topline" expand="nn">n</abbr><lbr/>
+es war nur<lbr type="BD"/> darauf angeseh<abbr v="en"/>, daß du wart<abbr v="en"/> und mitreis<abbr v="en"/> konntest. Mit nächster<lbr/>
+Post<lbr type="BD"/> Nachricht! damit ich weis wie die Sachen stehen. Nun will ich dir sagen,<lbr/>
+<add_note schr_id="57010"><ts>_______________________________</ts>Weber</add_note>
+was<lbr type="BD"/> du für die <u><rend class="latin">Msle</rend></u>&#160;<u><encr expand="Weber">Wlblr</encr></u> thun kannst. Sage mir wer sind diejenig<abbr v="en"/>, die<lbr type="BD"/> Itali<abbr v="en"/><lbr/>
+<rend class="latin">Lection</rend> geb<abbr v="en"/>, &#8211; sind es nicht theils alte <rend class="latin">Maestri</rend>, meistens aber <u>alte<lbr type="BD"/> Tenorist<abbr v="en"/>?</u><lbr/>
+<add_note schr_id="57010"><ts>_______________________________</ts>Weber</add_note>
+hat <rend class="latin">Sgr. Raff</rend> die <u>Msse</u>&#160;<u><encr expand="Weber">Wlblr</encr></u> singen gehört? sprich mit ihm,<lbr type="BD"/> daß er sie deine Ari<abbr v="en"/><lbr/>
+möchte sing<abbr v="en"/> hör<abbr v="en"/>; <u>nehme die Ausrede, daß du<lbr type="BD"/> wünschtest daß er ein paar Ari<abbr v="en"/> von<lbr/>
+dir hör<abbr v="en"/> möchte, von deiner Composition.</u> Durch diesen Weeg kannst du dein<lbr/>
+bestes für sie da<abbr type="topline" expand="nn">n</abbr> alleine nach der<lbr type="BD"/> Hand mit ihm red<abbr v="en"/>. Er mag sing<abbr v="en"/> wie er will,<lbr/>
+so versteht ers &#8211; und ka<abbr type="topline" expand="nn">n</abbr> sie diesen gewi<abbr type="topline" expand="nn">n</abbr><abbr v="en"/>, so hat sie alle <rend class="latin">Impressarios</rend> in<lbr/>
+Italien, welches ihn als<lbr type="BD"/> ein<abbr v="en"/> grossen Sänger kannte. unterdess<abbr v="en"/> würde sie ja<lbr/>
+in Manheim Gelegenheit find<abbr v="en"/> aufs Theater zu ko<abbr type="topline" expand="mm">m</abbr>en: und ist es auch ohne Be<pc force="weak">=</pc><lbr/>zahlung, so ist es<lbr type="BD"/> ihr Nutz<abbr v="en"/>. daß du vergnügen findest bedrangt<abbr v="en"/> zu helfen,<lbr/>
+hast du von<lbr type="BD"/> deinem Vatter geerbt: du must aber vor allem mit ganzer Seele<lbr/>
+auf das Wohl<lbr type="BD"/> deiner Eltern denk<abbr v="en"/>, sonst geht deine Seele zum teufel.<lbr type="forced"/>
+Eri<abbr type="topline" expand="nn">n</abbr>ere dich meiner als du mich be&#255; deiner Abreise <u>elend be&#255;m wag<abbr v="en"/> sahest,</u><lbr type="BD"/> nach<pc force="weak">=</pc><lbr/>dem ich kranker bis 2 uhr nachts eingepackt, und um 6 Uhr schon wied<abbr v="er"/><lbr type="BD"/> be&#255;m<lbr/>
+Wagen stand um alles für dich zu besorg<abbr v="en"/> &#8211; da<abbr type="topline" expand="nn">n</abbr> betrübe mich, we<abbr type="topline" expand="nn">n</abbr><lbr type="BD"/> du so grausa<abbr type="topline" expand="mm">m</abbr><lbr/>
+sein kannst! Mache dir Ruhm und <u>Geld</u> in Paris, da<abbr type="topline" expand="nn">n</abbr> ka<abbr type="topline" expand="nn">n</abbr>st<lbr type="BD"/> du, <u>we<abbr type="topline" expand="nn">n</abbr> du Geld<lbr/>
+hast,</u> nach Itali<abbr v="en"/> gehen, und alda opern zu schreib<abbr v="en"/> beko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>; durch Briefe an<lbr/>
+die <rend class="latin">Impressa</rend>ri<abbr v="en"/> wird es hart geh<abbr v="en"/>, obwohl ich es<lbr type="BD"/> i<abbr type="topline" expand="mm">m</abbr>er probier<abbr v="en"/> werde; da<abbr type="topline" expand="nn">n</abbr> kannst<lbr/>
+<add_note schr_id="57010"><ts>________________________</ts>Weber</add_note>
+du auch die <rend class="latin">Msle</rend>&#160;<u><encr expand="Weber">Wlblr</encr></u> vorschlag<abbr v="en"/>:<lbr type="BD"/> mündlich ka<abbr type="topline" expand="nn">n</abbr> man mehr thun! Schreibet mir<lbr/>
+mit nächster Post ohnfehlbar<lbr type="BD"/> Wir Küss<abbr v="en"/> euch be&#255;de millionmahl und bin<lbr/>
+<ts>_______________________________</ts><tshtm>_____________________________________________</tshtm><tspdf>\hfill </tspdf>d<abbr v="er"/> alte redliche Vater<lbr type="forced"/>
+h<abbr type="curve">:</abbr>&#160;<rend class="latin">Bulling<abbr v="er"/></rend> empfehlt sich.<ts>______________________________________</ts><tspdf>\hfill </tspdf><abbr expand="und">u</abbr> Ma<abbr type="topline" expand="nn">n</abbr><lbr type="forced"/>
+die Na<abbr type="topline" expand="nn">n</abbr>erl hat diese 2 Täge ihr<abbr v="en"/> Theil geweint<ts>____________</ts><tspdf>\hfill </tspdf>Mzt <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<lbr type="forced"/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+
+<tspdf>\newpage</tspdf>
+
+<pg n="5"/>
+<add_ident id="57010"><ts>________________________________________________</ts>12 Febr 78</add_ident><lbr/>
+Nun sind wir einmal hier in einer recht<abbr v="en"/> Verwirrung, daß ganze Capitl<lbr/>
+war<lbr type="BD"/> in einer <rend class="latin">Conferenz</rend> be&#255; Hofe vergangen<abbr v="en"/> Montag. da wurde dem Fürst<abbr v="en"/><lbr/>
+erstaunlich unter die Nase geredet, und war ein erschröcklicher Lerm<abbr v="en"/>, so,<lbr/>
+daß<lbr type="BD"/> er itzt keine Tafel mehr giebt. das ist noch das geringste. In Passau<lbr/>
+ist von<lbr type="BD"/> Wie<abbr type="topline" expand="nn">n</abbr> dem Fürst<abbr v="en"/> und Capitl schon die Erklärung gemacht, daß,<lbr/>
+nach seinem<lbr type="BD"/> Todt, alles nach Öst<abbr type="curve">:</abbr> gezog<abbr v="en"/> wird, und man ein<abbr v="en"/> Bischof nach<lbr/>
+Linz setzet.<lbr type="BD"/> da<abbr type="topline" expand="nn">n</abbr> wird man gleich anfang<abbr v="en"/> das Schloss, <u>Oberhauß,</u> besser zu<lbr/>
+befestig<abbr v="en"/>,<lbr type="BD"/> und Passau recht vest zu mach<abbr v="en"/>. der Erzbisch<abbr type="curve">:</abbr> selbst ist nun<lbr/>
+hier in Sorg<abbr v="en"/>,<lbr type="BD"/> es sind Regimenter aus Itali<abbr v="en"/> inn <rend class="latin">Marche</rend> hieher,<lbr/>
+man fürchtet es bleibt etwas<lbr type="BD"/> hier. Kein Salzgeld ist zu hoff<abbr v="en"/>,<lbr/>
+wo ko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/> die Besoldung<abbr v="en"/> her? Vielleicht<lbr type="BD"/> sehen wir uns eher als<lbr/>
+wir es vermuth<abbr v="en"/>, es ist alles in Verwirrung! da<abbr type="topline" expand="nn">n</abbr><lbr type="BD"/><lbr/>
+reisen wir mit einand<abbr v="er"/> nach Itali<abbr v="en"/>.<lbr type="forced"/>
+<ts>_________________________________</ts><tshtm>____________________</tshtm><rend class="latin">addio</rend><lbr type="forced"/>
+<tshtm>________</tshtm>die Ma<abbr type="topline" expand="mm">m</abbr>a wird mit dem Wolf<abbr type="curve">:</abbr> nach Paris<lbr/>
+<tshtm>_________</tshtm>geh<abbr v="en"/>, damit ihr euch in ordnung<lbr type="BD"/> richtet.<lbr type="forced"/>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+
+<pg n="6"/>
+<anschrift><add_note type="inline">Frcoaug<abbr type="curve">.</abbr></add_note><lbr/>
+<rend class="latin">A Monsieur<lbr type="forced"/>
+Monsieur Wolfgang Amadé<lbr type="forced"/>
+<u>Mozart</u> Maître de Musique<lbr type="forced"/>
+à<lbr type="forced"/>
+<u>Manheim</u></rend><lbr type="forced"/></anschrift><lbr/>
+<add_num><rend class="latin">N:<h>o</h></rend> 38.</add_num>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+</letter>
+</text>
+</MUP>

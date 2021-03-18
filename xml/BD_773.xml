@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2014">2014-5</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1342</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Wn</bibl>
+            <bibl type="source" subtype="RISM">A-Wn (Österreichische Nationalbibliothek)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:40:32 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_773.mup">
+<letter bd="773"><NI src="A-Wn"><HEADER id="1342">WOLFGANG AMADÉ MOZART AN LEOPOLD MOZART IN SALZBURG<lbr/>
+WIEN, 24. DEZEMBER 1783</HEADER>
+<pg n="1"/>
+<add_sign type="inline">VII.60</add_sign><ts>_______</ts><tshtm>_____________________________________________________________________________________________</tshtm><tspdf>\hfill </tspdf><rend class="latin"><u>Vienne</u> ce</rend> 24 <rend class="latin">de Xber</rend><lbr type="forced"/>
+<ts>____</ts><tshtm>__</tshtm><rend class="latin">Mon trés cher Pére!</rend> &#8211; <ts>_______</ts><tshtm>___________________________________________________________________________</tshtm><tspdf>\hfill </tspdf><uu>1783</uu><lbr type="forced"/>
+<lbr type="forced"/>
+Ich habe ihr leztes von 19:<h>t</h> dieses sa<abbr type="topline" expand="mm">m</abbr>t den Einschluß von der <rend class="latin">Opera</rend> richtig<lbr type="BD"/> erhalten.<lbr/>
+Nun von der <rend class="latin">opera</rend> als das nothwendigste. &#8211; h<abbr type="curve">:</abbr>&#160;<rend class="latin">Abate varesco</rend> hat<lbr type="BD"/> zu der<lbr/>
+<rend class="latin">Cavatina</rend> der <rend class="latin">Lavina extra</rend> geschrieben. <rend class="latin">à cui servirà la musica della<lbr type="BD"/> cavatina<lbr/>
+antecedente</rend> &#8211; nemlich der <rend class="latin">cavatina</rend> von der <rend class="latin">celidora</rend>. &#8211; das ka<abbr type="topline" expand="nn">n</abbr><lbr type="BD"/> aber nicht se&#255;n. &#8211; <lbr/>
+De<abbr type="topline" expand="nn">n</abbr> in der <rend class="latin">cavatina</rend> der <rend class="latin">celidora</rend> ist der <rend class="latin">text</rend> sehr trost und<lbr type="BD"/> hofnungs=los. &#8211; und in<lbr/>
+der <rend class="latin">cavatina</rend> der <rend class="latin">Lavina</rend> ist er sehr trostreich und<lbr type="BD"/> hofnungsvoll. &#8211; übrigens ist auch<lbr/>
+das eine sehr ausgepeitschte und ni<abbr type="topline" expand="mm">m</abbr>er<lbr type="BD"/> gewöhnliche <rend class="latin">Mode</rend> daß ein anderer dem andern<lbr/>
+sein liedchen nachlallt. &#8211; höch<lbr type="BD"/>stens ka<abbr type="topline" expand="nn">n</abbr> es so be&#255; einer <rend class="latin">soubrette</rend> mit ihren <rend class="latin">aman<pc force="weak">=</pc><lbr/>ten</rend> ne<abbr type="topline" expand="mm">m</abbr>lich be&#255; die<lbr type="BD"/>&#160;<rend class="latin">ultime parti</rend> gelten. &#8211; meine me&#255;nung wäre, daß<lbr/>
+die <rend class="latin">scene</rend> mit einen schönen<lbr type="BD"/>&#160;<rend class="latin">Duett</rend> anfienge, welches mit dem nehmlichen text durch<lbr/>
+eine kleine <rend class="latin">aggiunta</rend><lbr type="BD"/> für die <rend class="latin">Coda</rend> sehr gut angehen ka<abbr type="topline" expand="nn">n</abbr>. &#8211; nach dem <rend class="latin">Duett</rend><lbr/>
+folgt die unteredung<lbr type="BD"/> wie sonst. &#8211; <rend class="latin">e quando s'ode il campanello della<lbr/>
+Custode</rend>, so wird <rend class="latin">Mad:<h>slle</h><lbr type="BD"/> Lavina</rend> anstatt <rend class="latin">celidora</rend> die güte haben sich weg=zube<pc force="weak">=</pc><lbr/>geben, damit <rend class="latin">celidora</rend><lbr type="BD"/> als <rend class="latin">Prima Donna</rend> gelegenheit hat eine schöne <rend class="latin">Bra<pc force="weak">=</pc><lbr/>vour aria</rend> zu singen. &#8211; auf<lbr type="BD"/> diese art dächte ich wäre es für den <rend class="latin">Compositeur</rend>,<lbr/>
+für die Sängerin, und für die zuschauer und zuhörer besser, und die ganze <rend class="latin">scene</rend><lbr/>
+würde ohnfehlbar dadurch<lbr type="BD"/> interessanter werden. &#8211; ferners würde man schwerlich<lbr/>
+<u>die nemliche <rend class="latin">aria</rend></u> von<lbr type="BD"/> der 2:<h>t</h> Sängerin ertragen kö<abbr type="topline" expand="nn">n</abbr>en, nachde<abbr type="topline" expand="mm">m</abbr> man<lbr/>
+sie von der Ersten hat<lbr type="BD"/> singen hören. &#8211; Nun weis ich nicht wie sie es be&#255;de<lbr/>
+mit nachfolgender ord<lbr type="BD"/>nung me&#255;nen. &#8211; Zu Ende der neu eingeschaltenen <rend class="latin">scene</rend><lbr/>
+der 2 frauenzi<abbr type="topline" expand="mm">m</abbr>er<lbr type="BD"/> im Ersten Ackt schreibt h<abbr type="curve">:</abbr>&#160;<rend class="latin">Abate:</rend> &#8211; <rend class="latin">siegue la scena</rend> VIII.<lbr/>
+<rend class="latin">che prima era la</rend> VII.<lbr type="BD"/>&#160;<rend class="latin">e così cangiansi di mano in mano i numeri</rend>. &#8211; nach<lbr/>
+dieser beschreibung muß<lbr type="BD"/> ich ganz wieder verhoffen vermuthen, daß die <rend class="latin">scene</rend><lbr/>
+nach dem <rend class="latin">quartett</rend> alwo<lbr type="BD"/> be&#255;de <rend class="latin">Do<abbr type="topline" expand="nn">n</abbr>e</rend> eine nach der andern ihr liedchen am<lbr/>
+fenster herabsingen, bleiben<lbr type="BD"/> solle. &#8211; das ka<abbr type="topline" expand="nn">n</abbr> ohnmöglich se&#255;n. &#8211; dadurch würde<lbr/>
+der akt nicht allein um<lbr type="BD"/>sonst und nichts verlängert, sondern sehr abgeschmackt &#8211; <lbr/>
+es war mir i<abbr type="topline" expand="mm">m</abbr>er<lbr type="BD"/> sehr lächerlich zu lesen. &#8211; <rend class="latin"><u>Celidora</u>: tu quì m'attendi, amica. alla<lbr/>
+Custode farmi<lbr type="BD"/> veder vogl'io; ci andrai tu puoi. <u>Lavina</u>. si dolce amica, addio.<lbr/>
+(Celidora<lbr type="BD"/> parte)</rend>&#160;<rend class="latin">Lavina</rend> Singt ihre <rend class="latin">aria</rend>. | <rend class="latin">celidora</rend> ko<abbr type="topline" expand="mm">m</abbr>t wieder und sagt :| <rend class="latin">Eccomi,</rend><lbr/>
+<pg n="2"/>
+<rend class="latin">or<lbr type="BD"/> vanne</rend>&#160;<abbr expand="etc">p</abbr>: und nun geht <rend class="latin">Lavina</rend>, und <rend class="latin">celidora</rend> singt ihre <rend class="latin">aria</rend>. &#8211; sie lösen<lbr/>
+ein<lbr type="BD"/>ander ab, wie die <rend class="latin">Soldaten</rend> auf der wacht. &#8211; ferners ist es auch viel na<pc force="weak">=</pc><lbr/>türlicher<lbr type="BD"/> daß, da sie im <rend class="latin">quartett</rend> alle einig sind, ihren abgeredeten an<pc force="weak">=</pc><lbr/>schlag auszuführen,<lbr type="BD"/> die Mä<abbr type="topline" expand="nn">n</abbr>er sich fort machen um die dazugehörigen leute<lbr/>
+aufzusuchen, und<lbr type="BD"/> die 2 frauenzi<abbr type="topline" expand="mm">m</abbr>er ruhig sich in ihre <rend class="latin">clausur</rend> begeben. &#8211; <lbr/>
+alles was man<lbr type="BD"/> ihnen noch erlauben ka<abbr type="topline" expand="nn">n</abbr>, sind ein paar zeilen <rend class="latin">Recitativ</rend>.<lbr/>
+doch, ich<lbr type="BD"/> glaube auch ganz sicher daß es niemalen darauf angesehen war, daß<lbr/>
+die<lbr type="BD"/>&#160;<rend class="latin">scene</rend> bleiben soll, sondern daß es nur vergessen worden anzuzeigen,<lbr/>
+daß sie<lbr type="BD"/> aus bleibt. &#8211; auf ihren guten Einfall dem <rend class="latin">Biondello</rend> in thurm<lbr/>
+zu bringen, bin<lbr type="BD"/> ich sehr begierig. &#8211; we<abbr type="topline" expand="nn">n</abbr> er nur komisch ist, wir wollen<lbr/>
+ihm gerne ein bischen<lbr type="BD"/> unartürlichkeit erlauben. &#8211; wegen einen kleinen<lbr/>
+feuerwerk bin ich gar nicht im<lbr type="BD"/> Sorgen. &#8211; es ist hier so eine gute<lbr/>
+feuer ordnung daß man sich vor einen theater<lbr type="BD"/> feuerwerk gar nicht<lbr/>
+zu förchten hat. &#8211; da<abbr type="topline" expand="nn">n</abbr> wird Ja hier <rend class="latin">Medea</rend> so oft gegeben:<lbr type="BD"/> wori<abbr type="topline" expand="nn">n</abbr> zu<pc force="weak">=</pc><lbr/>lezt die hälfte des <rend class="latin">Palasts</rend> zusa<abbr type="topline" expand="mm">m</abbr>en fällt, die übrige hälfte in<lbr/>
+feuer<lbr type="BD"/> aufgeht. &#8211; Morgen werde ich mich um die büchln des Rauch<pc force="weak">=</pc><lbr/>fangkehrers um<lbr type="BD"/>sehen. &#8211; die <rend class="latin">Contessina</rend>&#160;<suppl hand="self" pos="supra">| oder die gräfin |</suppl> habe noch nicht erfragen kö<abbr type="topline" expand="nn">n</abbr>en. &#8211;<lbr type="BD"/>&#160;<lbr/>
+sollte sie nicht zu haben se&#255;n, würde etwa<abbr type="topline" expand="nn">n</abbr> das irrlicht von umlauff &#8211; <lbr/>
+&#8211; die<lbr type="BD"/> schöne schusterin vom umlauf &#8211; die Pilkri<abbr type="topline" expand="mm">m</abbr>e von Mecka<lbr/>
+anständig se&#255;n? &#8211;<lbr type="BD"/> besonders sind die 2 leztern <rend class="latin">opern</rend> sehr leicht<lbr/>
+aufzuführen. &#8211; kuhne wird sie halt vermuthlich schon haben. &#8211; bitte<lbr/>
+von uns be&#255;den an ihm und sie unsere<lbr type="BD"/> Empfehlung zu machen. &#8211; <lbr/>
+Meinen lezten kurzen brief werden sie hofentlich<lbr type="BD"/> erhalten haben. &#8211; <lbr/>
+bitte nochmal mir die 2 <rend class="latin">Duetten</rend>, Bachs <rend class="latin">fugen</rend>, und <u>besonders</u><lbr type="BD"/> den<lbr/>
+<rend class="latin">Idomeneo</rend> zu schicken. &#8211; sie wissen warum. &#8211; es liegt mir viel daran,<lbr/>
+daß<lbr type="BD"/> ich diese <rend class="latin">opera</rend> mit den graf Sikingen am <rend class="latin">clavier</rend> durchgehe. &#8211; <lbr/>
+&#8211; we<abbr type="topline" expand="nn">n</abbr> sie mir<lbr type="BD"/> nach gelegenheit die <rend class="latin">fugen</rend> | ich glaub, es sind 6. | von<lbr/>
+<rend class="latin">Emanuel Bach</rend> ab<lbr type="BD"/>schreiben liessen, und schickten, würden sie mir auch<lbr/>
+eine grosse gefälligkeit<lbr type="BD"/> thun. &#8211; ich habe vergessen sie in Salzburg darum<lbr/>
+zu ersuchen. &#8211; nun leben<lbr type="BD"/> sie unterdessen wohl. &#8211; vorgestern als Montag<lbr/>
+war wieder die grosse <rend class="latin">acca<lbr type="BD"/>demie</rend> der <rend class="latin">societet</rend> &#8211; ich spiellte ihnen ein<lbr/>
+<pg n="3"/>
+<rend class="latin">Concert</rend> und <rend class="latin">Adamberger</rend> sang ein<lbr type="BD"/>&#160;<rend class="latin">Rondeaux</rend> von mir. &#8211; gestern wurde sie<lbr/>
+<rend class="latin">repetirt</rend>. &#8211; nur daß ein <rend class="latin">violinist</rend> anstatt<lbr type="BD"/> meiner <rend class="latin">Concert</rend> spiellte. &#8211; vor<pc force="weak">=</pc><lbr/>gestern war das theater voll. &#8211; gestern aber<lbr type="BD"/> leer. &#8211; <rend class="latin"><u>NB.</u></rend> der <rend class="latin">Violinist</rend><lbr/>
+liess sich zum erstenmale hören. &#8211; Nun <rend class="latin">Adieu</rend>. ich<lbr type="BD"/> küsse ihnen 1000ml<lbr/>
+die hände, und wir sind be&#255;de dero<lbr type="forced"/>
+<lbr type="forced"/>
+an meine schwester und allen<lbr type="forced"/>
+<tshtm>____</tshtm>1000 <uu>busseln</uu>. <uu><rend class="latin">Adieu</rend></uu><ts>__</ts><tshtm>____________________________</tshtm><tspdf>\hfill </tspdf>gehorsamste kinder<lbr type="forced"/>
+<ts>________</ts><tshtm>_______________________________________________________________</tshtm><tspdf>\hfill </tspdf>W et C: Mozart <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<lbr/>
+<add_seal type="owner">ÖST. NATIONALBIBLIOTHEK<lbr/>WIEN</add_seal>
+<pg n="4"/>
+<anschrift rot="270"><rend class="latin">À<lbr type="forced"/>
+Monsieur<lbr type="forced"/>
+Monsieur Leopold de Mozart<lbr type="forced"/>
+Maitre de la Chapelle de<lbr type="BD"/> S: A: R:<lbr type="forced"/>
+L'archeveque de et à<lbr type="forced"/>
+<uu>Salzbourg</uu>.</rend></anschrift>
+<lbr/>
+<add_note rot="90" schr_id="48817">24t<abbr v="en"/> 10<rend class="latin">ber</rend><lbr/>1783</add_note>
+</NI></letter>
+</text>
+</MUP>

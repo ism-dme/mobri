@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2014">2014-5</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1307</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:40:23 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_739.mup">
+<letter bd="739"><HEADER id="1307">WOLFGANG AMADÉ MOZART AN LEOPOLD MOZART IN SALZBURG<lbr/>
+WIEN, 12. APRIL 1783</HEADER>
+<pg n="1"/>
+<ts>_____________</ts><tshtm>__________________________________________________________________________________</tshtm><tspdf>\hfill </tspdf><rend class="latin"><u>Vienne</u> ce</rend> 12 <rend class="latin">d'avril</rend><lbr type="forced"/>
+<ts>_____</ts><tshtm>___</tshtm><rend class="latin">Mon trés cher Pére!</rend><ts>_________</ts><tshtm>_____________________________________________________________________</tshtm><tspdf>\hfill </tspdf><uu>1783</uu><lbr type="forced"/>
+<lbr type="forced"/>
+Ihr leztes vom 8:<h>ten</h> dieses habe heute frühe erhalten, und daraus ersehen daß<lbr type="BD"/><lbr/>
+sie alles richtig von h<abbr type="curve">:</abbr>&#160;<rend class="latin">v: Daubrawaick</rend> erhalten haben. &#8211; mir ist leid daß der<lbr type="BD"/><lbr/>
+Postwagen erst heute acht tage geht, und ich ihnen folglich die 2 <rend class="latin">Exempl:</rend><lbr/>
+von<lbr type="BD"/> meinen Sonaten sa<abbr type="topline" expand="mm">m</abbr>t dem übrigen nicht eher schicken ka<abbr type="topline" expand="nn">n</abbr>. &#8211; <lbr type="forced"/>
+Ich werde auch mit dieser gelegenheit die <rend class="latin">vari</rend>erte Singsti<abbr type="topline" expand="mm">m</abbr>e der <rend class="latin">Arie</rend><lbr/>
+<rend class="latin"><u>non<lbr type="BD"/> sò d'onde viene</u></rend>&#160;<abbr expand="etc">p</abbr>: schicken. &#8211; we<abbr type="topline" expand="nn">n</abbr> sie mir ohnehin wieder etwas schicken,<lbr type="BD"/><lbr/>
+so bitte ich das <rend class="latin">Rondeau</rend> für die <rend class="latin">Alt</rend> Sti<abbr type="topline" expand="mm">m</abbr>e |: welches ich für den <rend class="latin">Castraten</rend><lbr type="BD"/> der<lbr/>
+mit der Welschen trup in Salzburg war, gemacht habe :| und das <rend class="latin">Rondeau</rend><lbr type="BD"/> welches<lbr/>
+ich dem <rend class="latin">Ceccarelli</rend>&#160;<u>in Wie<abbr type="topline" expand="nn">n</abbr></u> gemacht habe, mit spatzieren zu lassen; &#8211;<lbr type="BD"/> we<abbr type="topline" expand="nn">n</abbr> es<lbr/>
+wärmer wird, so bitte ich unter dem dache zu suchen, und uns etwas<lbr type="BD"/><lbr/>
+von ihrer kirchen<rend class="latin">Musik</rend> zu schicken; &#8211; sie haben gar nicht nöthig sich<lbr/>
+zu<lbr type="BD"/> schämen. &#8211; <rend class="latin">Baron van suiten</rend>, und Starzer, wissen so gut als sie<lbr/>
+und ich, daß<lbr type="BD"/> sich der <rend class="latin">gusto</rend> i<abbr type="topline" expand="mm">m</abbr>er ändert &#8211; und <u>aber</u> &#8211; daß sich die ver<pc force="weak">=</pc><lbr/>ränderung des <rend class="latin">gusto</rend><lbr type="BD"/> leider so gar bis auf die kirchen<rend class="latin">Music</rend> er<pc force="weak">=</pc><lbr/>streckt hat; welches aber nicht se&#255;n<lbr type="BD"/> sollte &#8211; woher es da<abbr type="topline" expand="nn">n</abbr> auch kö<abbr type="topline" expand="mm">m</abbr>t,<lbr/>
+daß man die wahre kirchen<rend class="latin">Music</rend> &#8211; unter<lbr type="BD"/> dem dache &#8211; und fast<lbr/>
+von würmern gefressen &#8211; findet. &#8211; we<abbr type="topline" expand="nn">n</abbr> ich, wie ich<lbr type="BD"/> hoffe, im Monath<lbr/>
+<rend class="latin">Julio</rend> mit meiner frau nach Salzburg ko<abbr type="topline" expand="mm">m</abbr>en werde, so<lbr type="BD"/> wollen wir<lbr/>
+mehr über diesen Punkt sprechen. &#8211; als h<abbr type="curve">:</abbr>&#160;<rend class="latin">v: Daubrawaick</rend> von<lbr type="BD"/><lbr/>
+hier abreiste, war meine frau fast nicht zu erhalten, sie wollte<lbr/>
+<rend class="latin">absolument</rend> mit<lbr type="BD"/> mir nachreisen. &#8211; sie glaubte wir kö<abbr type="topline" expand="nn">n</abbr>ten vieleicht<lbr/>
+noch eher in Salzburg<lbr type="BD"/> se&#255;n als <rend class="latin">Daubrawaik;</rend> &#8211; und we<abbr type="topline" expand="nn">n</abbr> es nicht<lbr/>
+gewesen wäre wegen der kurzen<lbr type="BD"/> zeit die wir uns hätten aufhalten<lbr/>
+kö<abbr type="topline" expand="nn">n</abbr>en &#8211; Ja was sag ich &#8211; sie hätte Ja gar<lbr type="BD"/> in Salzburg niederko<abbr type="topline" expand="mm">m</abbr>en<lbr/>
+müssen! &#8211; mithin &#8211; also der ohnmöglichkeit<lbr type="BD"/> wegen, so wäre unser<lbr/>
+heissester Wunsch Sie mein bester vater und meine<lbr type="BD"/> liebe schwester<lbr/>
+zu umarmen nun schon erfüllt; &#8211; de<abbr type="topline" expand="nn">n</abbr> wegen meiner frau<lbr type="BD"/> hätte<lbr/>
+ich mir dieses Reisgen zu unternehmen getrauet. &#8211; sie befindet<lbr/>
+sich so<lbr type="BD"/> wohl auf &#8211; und hat so zugeno<abbr type="topline" expand="mm">m</abbr>en, daß alle Weiber gott<lbr/>
+danken därfen<lbr type="BD"/> we<abbr type="topline" expand="nn">n</abbr> sie in der schwangerschaft so glücklich sind.<lbr/>
+so bald also meine frau<lbr type="BD"/> nach ihrer Niederkunft im Stande se&#255;n wird<lbr/>
+zu reisen, so sind wir gewis<lbr type="BD"/> gleich in Salzburg. &#8211; <lbr type="forced"/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="2"/>
+in meinem lezten schreiben werden sie gelesen haben daß ich noch in<lbr/>
+einer<lbr type="BD"/>&#160;<rend class="latin">academie</rend> zu spiellen hatte, nemlich in der <rend class="latin">Mad.<h>elle</h></rend> Te&#255;ber<lbr/>
+ihrer. &#8211; der ka&#255;ser<lbr type="BD"/> war auch da. &#8211; Ich spiellte das Erste <rend class="latin">Concert</rend> welches<lbr/>
+ich in meiner <rend class="latin">academie</rend><lbr type="BD"/> gespielt habe &#8211; ich sollte das <rend class="latin">Rondeau repet</rend>irn<lbr/>
+&#8211; ich sezte mich also wieder<lbr type="BD"/> hin &#8211; anstatt daß ich aber das <rend class="latin">Rondeau</rend><lbr/>
+wiederhollte; liess ich das Pult weg<lbr type="BD"/> thun, um alleine zu spiellen.<lbr/>
+&#8211; da hätten sie aber hören sollen was diese<lbr type="BD"/> kleine <rend class="latin">Surprise</rend> das<lbr/>
+Publikum erfreute &#8211; es wurde nicht alleine<tspdf>\newpage</tspdf> geklatscht,<lbr type="BD"/> sondern<lbr/>
+<rend class="latin">bravo</rend>, und <rend class="latin">Bravissimo</rend> geruffen. &#8211; der ka&#255;ser hörte mich<lbr/>
+auch ganz<lbr type="BD"/> aus &#8211; und wie ich vom <rend class="latin">Clavier</rend> weg gieng, gieng er von<lbr/>
+der <rend class="latin">loge</rend> weg. &#8211; also<lbr type="BD"/> war es ihm nur mich noch zu hören. &#8211; <lbr type="forced"/>
+Ich bitte sie auch we<abbr type="topline" expand="nn">n</abbr> es möglich ist mir die <u>Nachricht</u> wegen meiner<lbr/>
+<rend class="latin">aca<lbr type="BD"/>demie</rend> zuko<abbr type="topline" expand="mm">m</abbr>en zu lassen. &#8211; Es freuet mich vom herzen<lbr/>
+daß ihnen das<lbr type="BD"/> wenige was ich ihnen schickn ko<abbr type="topline" expand="nn">n</abbr>te, so gut zu<lbr/>
+statten geko<abbr type="topline" expand="mm">m</abbr>en ist. &#8211; ich<lbr type="BD"/> hätte noch vielles zu schreiben.<lbr/>
+allein ich fürchte die Post reitet mir davon,<lbr type="BD"/> es ist schon<lbr/>
+<formula type="mfrac"><mn>3</mn><mi>4</mi></formula> auf acht uhr. &#8211; leben sie also unterdessen wohl. Mein<lbr/>
+liebes<lbr type="BD"/> Weiberl und ich küssen ihnen 1000mal die hände, und<lbr/>
+unsere liebe schwester<lbr type="BD"/> umarmen wir von herzen, und sind<lbr/>
+Ewig dero<lbr type="forced"/>
+<lbr type="forced"/>
+an ganz <rend class="latin">Salzbourg</rend> unser<ts>_______</ts><tshtm>_________________</tshtm><tspdf>\hfill </tspdf>gehorsamste kinder<lbr type="forced"/>
+<rend class="latin">Compliment. <uu>Adieu</uu>.</rend><ts>_____</ts><tshtm>_____________________________</tshtm><tspdf>\hfill </tspdf>W: <rend class="latin">Et</rend> C: <rend class="latin">Mozart</rend>&#160;<abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+</letter>
+</text>
+</MUP>

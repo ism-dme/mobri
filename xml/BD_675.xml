@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2014">2014-5</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1241</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:40:06 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_675.mup">
+<letter bd="675"><HEADER id="1241">WOLFGANG AMADÉ MOZART AN LEOPOLD MOZART IN SALZBURG<lbr/>
+WIEN, 29. MAI 1782</HEADER>
+<pg n="1"/>
+<ts>_______</ts><tshtm>________________________________________________________________________________</tshtm><tspdf>\hfill </tspdf><rend class="latin"><u>Vienne</u> ce</rend> 29 <rend class="latin">de May</rend><lbr type="forced"/>
+<rend class="latin">Mon trés cher Pére!</rend> &#8211; <ts>_______</ts><tshtm>_____________________________________________________________________</tshtm><tspdf>\hfill </tspdf><uu>1782</uu>.<lbr type="forced"/>
+<lbr type="forced"/>
+letzthin bin ich ganz verhindert worden meinen Brief aus=zuschreiben, und<lbr type="BD"/><lbr/>
+habe dahero meine liebe konstanze gebeten ihnen meine Entschuldigung<lbr/>
+dar<lbr type="BD"/>über zu machen. &#8211; Sie hat lange nicht daran gewollt, aus forcht, sie<lbr/>
+möchten sie<lbr type="BD"/> über ihre <rend class="latin">orthographie</rend> und <rend class="latin">Concept</rend> auslachen. &#8211; und sie lässt<lbr/>
+mir keinen<lbr type="BD"/> fried, ich muß Sie be&#255; ihnen deswegen entschuldigen. &#8211; <lbr type="forced"/>
+das Erste Dilecktanten=<rend class="latin">Concert</rend> ist ganz gut ausgefallen &#8211; Es war der<lbr/>
+Erzherzog<lbr type="BD"/>&#160;<rend class="latin">Maximilian</rend> auch da, gräfin thun, Wallenstein, Baron<lbr/>
+<rend class="latin">van suiten</rend> und eine<lbr type="BD"/> menge anderer. &#8211; Ich seüfze mit sehnsucht nach<lbr/>
+dem Nächsten Postwagen;<lbr type="BD"/> welcher mir Musick mitbringen soll. &#8211; <lbr/>
+wegen der Robinischen <rend class="latin">Musique</rend> ka<abbr type="topline" expand="nn">n</abbr><lbr type="BD"/> ich sie wohl ganz gewis versichern<lbr/>
+daß ich sie nicht mitgeno<abbr type="topline" expand="mm">m</abbr>en &#8211; und &#8211; daß<lbr type="BD"/> sie <rend class="latin">Eck</rend> noch haben muß &#8211; <lbr/>
+de<abbr type="topline" expand="nn">n</abbr>, als ich von München abgereiset, hatte er sie<lbr type="BD"/> noch nicht zu<pc force="weak">=</pc><lbr/>rück gegeben. &#8211; der unternehmer des <rend class="latin">Dilettanten Concerts M:<h>r</h><lbr type="BD"/><lbr/>
+Martin</rend> ke<abbr type="topline" expand="nn">n</abbr>t den h<abbr type="curve">:</abbr>&#160;<rend class="latin">Abbè</rend> Bullinger sehr gut. &#8211; er war<lbr/>
+zu seiner <suppl hand="self" pos="infra">zeit</suppl> im<lbr type="BD"/>&#160;<rend class="latin">se<abbr type="topline" expand="mm">m</abbr>inario</rend> in München. &#8211; Er ist ein recht guter, Junger<lbr/>
+Mensch, der sich durch seine <rend class="latin">Musique</rend>, durch seine schöne schrift, und<lbr/>
+überhaubt durch seine<lbr type="BD"/> geschicklichkeit, guten kopf, und starken geist,<lbr/>
+sich fortzubringen bemühet. &#8211;<lbr type="BD"/> als er hier anka<abbr type="topline" expand="mm">m</abbr> gieng es ihm<lbr/>
+sehr hinderlich &#8211; er musste 14 täge mit<lbr type="BD"/> einem halben gulden<lbr/>
+ausko<abbr type="topline" expand="mm">m</abbr>en. &#8211; Adamberger |: welcher ihn auch von<lbr type="BD"/> München aus<lbr/>
+ke<abbr type="topline" expand="nn">n</abbr>t :| hat ihm hier viel gutes gethan. &#8211; er ist von Regens<lbr type="BD"/>purg<lbr/>
+gebürtig; sein vater war leib<rend class="latin">Medicus</rend> be&#255;m fürst von <rend class="latin">Daxis</rend>.<lbr type="forced"/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="2"/>
+Morgen speise ich mit meiner lieben konstanze be&#255; der gräfin thun,<lbr/>
+und<lbr type="BD"/> werde ihr den 3:<h>ten</h> Ackt voreiten. &#8211; nun habe ich nichts als<lbr/>
+verdrüssliche<lbr type="BD"/> arbeiten, nehmlich &#8211; zu <rend class="latin">Corrig</rend>iren. &#8211; künftigem<lbr/>
+Montag werden wir die<lbr type="BD"/> Erste Probe machen. &#8211; Ich freue<lbr/>
+mich recht auf diese oper, das muß ich ihnen<lbr type="BD"/> gestehen; &#8211; <lbr type="forced"/>
+<rend class="latin">à propós;</rend> &#8211; vor etwelchen Tägen habe ich einen brief beko<abbr type="topline" expand="mm">m</abbr>en,<lbr/>
+von wem? &#8211;<lbr type="BD"/> &#8211; von &#8211; &#8211; h<abbr type="curve">:</abbr>&#160;<rend class="latin">v:</rend> feigele &#8211; und<lbr/>
+der I<abbr type="topline" expand="nn">n</abbr>halt &#8211; &#8211; daß er verliebt se&#255;e &#8211; und in<lbr type="BD"/> wem? &#8211; <lbr/>
+&#8211; &#8211; &#8211; in meine schwester &#8211; &#8211; &#8211; Nein, &#8211; <lbr/>
+in &#8211; &#8211; meine Baase!<lbr type="BD"/> &#8211; &#8211; der wird aber lange<lbr/>
+warten müssen, bis er von mir eine antwort erhällt &#8211;<lbr type="BD"/> sie<lbr/>
+wissen wie wenig zeit daß ich zum schreiben habe. &#8211; bin<lbr/>
+nur fürwitzig wie<lbr type="BD"/> lange es mit diesem dauern wird. &#8211; <lbr type="forced"/>
+Nun noch etwas &#8211; daß ich so zufälligerweise i<abbr type="topline" expand="nn">n</abbr>ne ge<pc force="weak">=</pc><lbr/>worden, und mich &#8211; auf<lbr type="BD"/> dem graf kühnburg recht ver<pc force="weak">=</pc><lbr/>drüsst. &#8211; die frl: von auerha<abbr type="topline" expand="mm">m</abbr>er sagte mir<lbr type="BD"/> gestern,<lbr/>
+daß der h<abbr type="curve">:</abbr>&#160;<rend class="latin">v.</rend> Moll sie gefragt, ob sie nicht mit 300 fl:<lbr/>
+Jährlichen ge<lbr type="BD"/>halt in ein herrschafthaus nach Salzburg<lbr/>
+gehen wolle? &#8211; der <rend class="latin">Cavallier</rend> heisse<lbr type="BD"/> kühnburg. &#8211; <lbr/>
+wie gefällt ihnen das? &#8211; Meine schwester hällt man<lbr/>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="3"/>
+also für<lbr type="BD"/> nichts? &#8211; machen sie davon gebrauch. &#8211; er war<lbr/>
+nur einen Tag hier &#8211; kö<abbr type="topline" expand="mm">m</abbr>t<lbr type="BD"/> er aber wieder, so werde ich<lbr/>
+schon gelegenheit finden ihn darüber zu<lbr type="BD"/> sprechen. &#8211; <lbr type="forced"/>
+Nun leben sie wohl &#8211; ich küsse ihnen 1000mal die hände,<lbr/>
+Meine liebe<lbr type="BD"/> schwester umarme ich von ganzen herzen &#8211; <lbr/>
+der <rend class="latin">Mad.<h>selle</h> Marchand</rend> |: Meine<lbr type="BD"/> liebe <rend class="latin">Constanz</rend> hat es<lbr/>
+mir schon erlaubt :| schicke auch ein paar buserl, und bin<lbr type="BD"/><lbr/>
+Ewig dero<lbr type="forced"/>
+<lbr type="forced"/>
+<rend class="latin">P: S:</rend> Meine liebe konstanze küsst<lbr type="forced"/>
+ihnen die hände und meine schwester<lbr type="forced"/>
+umarmt sie als ihre wahre<ts>_____</ts><tshtm>___________________</tshtm><tspdf>\hfill </tspdf>gehorsamster Sohn<lbr type="BD"/><lbr type="forced"/>
+freundin, und <u>künftige schwägerin</u>.<ts>___</ts><tshtm>________</tshtm><tspdf>\hfill </tspdf>W: A: Mozart <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="4"/>
+<anschrift rot="270"><rend class="latin">À<lbr type="forced"/>
+Monsieur<lbr type="forced"/>
+Monsieur Leopold Mozart<lbr type="forced"/>
+maitre de la Chapelle de<lbr type="BD"/> S: A: R:<lbr type="forced"/>
+l'archeveque de et à<lbr type="forced"/>
+<u>Salzbourg</u>.</rend></anschrift>
+<lbr/>
+<add_note impl="ink" rot="90" schr_id="48817">29 <rend class="latin">May</rend><lbr/>1782</add_note>
+<lbr/>
+<add_num impl="pencil">8</add_num>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+</letter>
+</text>
+</MUP>

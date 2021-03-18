@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2014">2014-5</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1649</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:41:55 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_1079.mup">
+<letter bd="1079"><HEADER id="1649">WOLFGANG AMADÉ MOZART AN MICHAEL PUCHBERG IN WIEN<lbr/>
+WIEN, 27. JUNI 1788</HEADER>
+<pg n="1"/>
+<ts>______________</ts><tshtm>__________</tshtm>Verehrungswürdigster O:. b:.<lbr type="forced"/>
+<ts>__________________</ts><tshtm>_______________</tshtm>liebster bester freund! &#8211; <lbr type="forced"/>
+<lbr type="forced"/>
+Ich habe i<abbr type="topline" expand="mm">m</abbr>er geglaubt dieser tagen selbst in die Stadt zu ko<abbr type="topline" expand="mm">m</abbr>en, um mich<lbr type="BD"/><lbr/>
+be&#255; ihnen wegen ihrer mir bewiesenen freundschaft mündlich bedanken zu<lbr type="BD"/> können<lbr/>
+&#8211; Nun hätte ich aber nicht einmal das Herz vor ihnen zu erscheinen,<lbr type="BD"/> da ich ge<pc force="weak">=</pc><lbr/>zwungen bin ihnen fre&#255; zu gestehen, daß ich ihnen das mir geliehene<lbr type="BD"/> ohnmöglich<lbr/>
+so bald zurück zahlen kann, und sie ersuchen muß mit mir geduld<lbr type="BD"/> zu haben! &#8211; <lbr/>
+daß die umstände dermalen so sind, und Sie mich nach meinem Wunsch<lbr type="BD"/> nicht<lbr/>
+unterstützen können, macht mir viele Sorgen! &#8211; Meine laage ist so, daß<lbr type="BD"/><lbr/>
+ich unumgänglich benöthiget bin, geld aufzunehmen. &#8211; aber gott, wem soll ich<lbr type="BD"/><lbr/>
+mich vertrauen? &#8211; niemanden als ihnen, mein bester! &#8211; wenn Sie mir<lbr/>
+nur<lbr type="BD"/> wenigstens die freundschaft thun wollen, mir durch einen andern weg<lbr/>
+geld<lbr type="BD"/> zu verschaffen! &#8211; ich zahle Ja gerne die <rend class="latin">Interessen</rend>, und derjenige<lbr/>
+der mir<lbr type="BD"/> lehnt, ist Ja durch meinen karacter, und meine besoldung glaub' ich<lbr/>
+gesichert<lbr type="BD"/> genug; &#8211; es thut mir leid genug, daß ich in diesem falle bin &#8211; <lbr/>
+&#8211; eben deswegen<lbr type="BD"/> wünschte ich aber eine etwas <u>ansehnliche Su<abbr type="topline" expand="mm">m</abbr>e</u> auf einem<lbr/>
+etwas <u>längeren<lbr type="BD"/>&#160;<rend class="latin">termin</rend></u> zu haben, um einem solchen falle <u>vorbeugen</u><lbr/>
+zu können. &#8211; wenn Sie,<lbr type="BD"/> liebster br:. mir in dieser meiner laage nicht<lbr/>
+helfen, so verliere ich meine<lbr type="BD"/> Ehre und <rend class="latin">Credit</rend>, welches das einzige ist,<lbr/>
+was ich zu erhalten wünsche; &#8211;<lbr type="BD"/> ich baue aber ganz auf ihre ächte freund<pc force="weak">=</pc><lbr/>schaft und br:. liebe, und erwarte zuver<lbr type="BD"/>sichtlich daß sie mir mit rath und<lbr/>
+that an die hand gehen werden; &#8211; wenn<lbr type="BD"/> mein wunsch in erfüllung geht so<lbr/>
+kann ich fre&#255; odem schöpfen, weil ich dann<lbr type="BD"/> im Stande se&#255;n werde mich in<lbr/>
+<u>ordnung</u> zu bringen, und auch <u>darin</u> zu<lbr type="BD"/> erhalten; &#8211; ko<abbr type="topline" expand="mm">m</abbr>en Sie doch<lbr/>
+zu mir, und besuchen sie mich; ich bin i<abbr type="topline" expand="mm">m</abbr>er<lbr type="BD"/> zu hause; &#8211; ich habe in den 10<lbr/>
+tagen daß ich hier wohne mehr gearbeitet, als<lbr type="BD"/> im andern <rend class="latin">logis</rend> in 2<lbr/>
+Monathe; und kä<abbr type="topline" expand="mm">m</abbr>en mir nicht so oft <u>so schwarze gedanken</u><lbr type="BD"/> |: die ich mir mit<lbr/>
+gewalt aus=schlagen muß :| würde es mir noch besser von<lbr type="BD"/> statten gehen;<lbr/>
+denn ich wohne angenehm, &#8211; bequem &#8211; und &#8211; <u>wohlfeil</u>. &#8211;<lbr type="BD"/> ich will sie nicht<lbr/>
+länger mit meinem Gewäsche aufhalten, sondern <u>schweigen</u><lbr type="BD"/> und <u>hoffen</u>; &#8211; <lbr type="forced"/>
+<ts>_____________</ts><tshtm>__________________________________________________________________</tshtm><tspdf>\hfill </tspdf>Ewig ihr verbundener Diener<lbr type="BD"/><lbr type="forced"/>
+den <u>27: <rend class="latin">Juny:</rend></u>&#160;<u>1788</u>.<ts>_________</ts><tshtm>_________________________________________________</tshtm><tspdf>\hfill </tspdf>wahrer Freund und O:. b:.<lbr type="forced"/>
+<ts>_____________</ts><tshtm>________________________________________________________________________________</tshtm><tspdf>\hfill </tspdf>W. A: Mozart <abbr expand="manu propria">mp</abbr>
+<pg n="2"/>
+<vacat/>
+</letter>
+</text>
+</MUP>

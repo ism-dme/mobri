@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2012">2012-10</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=954</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm (S. 1-2); Privatbesitz (S. 3)</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana), S. 1-2</bibl>
+            <bibl type="source" subtype="RISM">Privatbesitz, S. 3</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:38:29 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_390.mup">
+<letter bd="390"><HEADER id="954">MARIA ANNA MOZART AN LEOPOLD UND MARIA ANNA (NANNERL) <tspdf>\newline</tspdf> MOZART IN SALZBURG<lbr/>
+MANNHEIM, 14. DEZEMBER 1777<lbr/>
+mit Nachschrift von Wolfgang Amadé Mozart</HEADER>
+<pg n="1"/>
+
+<ts>__________________________________________</ts><tshtm>___________</tshtm>_<tspdf>\hfill </tspdf>Manheim den 14<h>t<abbr v="en"/></h>&#160;<rend class="latin">December</rend> 1777<lbr type="forced"/>
+<ts>_______________________________________________</ts><add_num type="inline"><u>22.</u></add_num><lbr/>
+Mein lieber mann und nanerl<lbr type="forced"/>
+<lbr type="forced"/>
+Jezt sind wür gott lob einmahl aus den würthshaus ausgezog<abbr v="en"/>,<lbr/>
+und haben<lbr type="BD"/> ein saubers Zi<abbr type="topline" expand="mm">m</abbr>er, mit 2 schönen bettern, ein<abbr v="en"/> alk<rend class="latin">oven</rend>,<lbr/>
+be&#255; einen hofka<abbr type="topline" expand="mm">m</abbr>er Rath, seinen Namm<abbr v="en"/> weis ich noch nicht, er hat eine<lbr/>
+<rend class="latin">brave</rend> frau, eine<lbr type="BD"/>&#160;<rend class="latin">Mamselle</rend> dochter mit 15 Jahr<abbr v="en"/> welche schon 8 Jahr<lbr/>
+<rend class="latin">Clavier</rend> spillet, diese<lbr type="BD"/> mues der wolfgang <rend class="latin">Jnstruieren</rend>, darfür hab<abbr v="en"/><lbr/>
+wür die wohnung umsonst wie<lbr type="BD"/> auch holz, und licht. der wolfgang<lbr/>
+hat die kost be&#255;n <rend class="latin">Monsieur</rend> Wendling,<lbr type="BD"/> und ich gehe zu den Jung<abbr v="en"/><lbr/>
+herrn danner zum Ess<abbr v="en"/>, und er lehrnd darfür<lbr type="BD"/> be&#255; meinen Sohn<lbr/>
+<rend class="latin">Componieren</rend>, also ist die einrichtung, der Wolfgang hat<lbr type="BD"/> erstaun<pc force="weak">=</pc><lbr/>lich vill zu thuen, das er nicht weis wo ihn der kopf stehet, heunt<lbr/>
+hat<lbr type="BD"/> er be&#255; den Reich<abbr v="en"/> halländer gespeist der ihn 200 f für <rend class="latin">Composition</rend><lbr/>
+gibt er<lbr type="BD"/> ist noch nicht nacher haus ko<abbr type="topline" expand="mm">m</abbr>en, und wan er nicht bald<lbr/>
+kombt so kan ich<lbr type="BD"/> disen brief nicht fort schick<abbr v="en"/> es ist schon gleich<lbr/>
+4 uhr ich habe nicht ender<lbr type="BD"/> schreib<abbr v="en"/> könn<abbr v="en"/> weill ich nicht zu haus<lbr/>
+gespeist habe. den <rend class="latin">Conto</rend> von den<lbr type="BD"/> würth habe noch nicht beko<abbr type="topline" expand="mm">m</abbr><abbr v="en"/>.<lbr/>
+du kanst dir nicht vor stellen wie der wolfgang hier hochgeschäzt<lbr/>
+würd sowohl be&#255; der <rend class="latin">Music</rend>, als auch be&#255; andern,<lbr type="BD"/> sie sagen alle<lbr/>
+das er seines gleich<abbr v="en"/> nicht hat, seine <rend class="latin">compositionen</rend> thuen sie<lbr type="BD"/> völlig<lbr/>
+vergöttern. ich siche ihn offt den ganzem tag nicht. ich bin die meiste<lbr type="BD"/> zeit<lbr/>
+allein zu haus, dan wegen der kälte und üblen wetter kan ich<lbr/>
+nicht vill<lbr type="BD"/> ausgehen, dan kein umberel hab ich nicht wan es schneiet<lbr/>
+oder Rengnet, herr<lbr type="BD"/> danner der alte und Junge lassen sich dir<lbr/>
+Empfehlen. und ich und der wolfgang<lbr type="BD"/> Empfehlen uns der ganz<abbr v="en"/><lbr/>
+Salzburger welt. ich winschte nur offt ein<abbr v="en"/> tag<lbr type="BD"/> be&#255; euch zu sein,<lbr/>
+um mich mindlich mit euch underhalten zu könn<abbr v="en"/>. dan<lbr type="BD"/> schrifftlich<lbr/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal><lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="2"/>
+
+ist es nicht möglich ales so klar zu beschreiben. ich will indess<abbr v="en"/><lbr type="BD"/><lbr/>
+schliess<abbr v="en"/>, dan der wolfgang würd heunt nicht vill schreib<abbr v="en"/> könn<abbr v="en"/>,<lbr/>
+dan die<lbr type="BD"/> post gehet gleich weck. adio ich kisse dich und die<lbr/>
+nanerl vill 1000 mahl und<lbr type="BD"/> verbleibe dein getreues weib<lbr type="forced"/>
+<ts>___</ts><tshtm>____________________________________________________</tshtm><ts>__</ts><tspdf>\hfill </tspdf>Marianna Mozartin<lbr type="forced"/>
+<lbr/>
+
+<NS type="NS" schr_id="39409">
+Ich ka<abbr type="topline" expand="nn">n</abbr> nichts als etliche wörter schreiben. ich bin erst um 4 uhr nach haus<lbr type="BD"/><lbr/>
+geko<abbr type="topline" expand="mm">m</abbr>en; da habe ich geschwind der <rend class="latin">Mad:<h>selle</h></rend> von haus <rend class="latin">lection</rend> geben.<lbr/>
+iztist<lbr type="BD"/> es schon bald halbe 6 uhr, und mithin zeit den brief zu schlüssen.<lbr/>
+ich will<lbr type="BD"/> meiner Mama sagen, daß sie sich allzeit etliche täge vorschreibt,<lbr/>
+da<abbr type="topline" expand="mm">m</abbr>it<lbr type="BD"/> nicht alles zusa<abbr type="topline" expand="mm">m</abbr>en kö<abbr type="topline" expand="mm">m</abbr>t, de<abbr type="topline" expand="nn">n</abbr> ich ka<abbr type="topline" expand="nn">n</abbr> es izt nicht leicht mehr<lbr/>
+thun; die<lbr type="BD"/> wenige zeit wo ich schreiben kan, muß ich auf die <rend class="latin">Com<pc force="weak">=</pc><lbr/>position</rend> anwenden;<lbr type="BD"/> de<abbr type="topline" expand="nn">n</abbr> ich habe viell arbeit vor meiner. wegen<lbr/>
+der Reise nach <rend class="latin">Paris</rend>, bitte sie<lbr type="BD"/> recht sehr, mir bald darauf<lbr/>
+zu antworten. ich habe dem h<abbr type="curve">:</abbr> wendling mein<lbr type="BD"/>&#160;<rend class="latin">Concertone</rend> auf den<lbr/>
+<rend class="latin">Clavier</rend> hören lassen; er sagte, das ist recht für <rend class="latin">Paris</rend>. we<abbr type="topline" expand="nn">n</abbr> ich das den<lbr/>
+<rend class="latin">Baron Bach</rend> hören lasse, so ist er ganz ausser sich. <rend class="latin">addieu</rend>.<lbr type="forced"/>
+eine schöne schrift, und schönes <rend class="latin">Concept</rend>, nicht wahr? &#8211; -<pc force="weak">-</pc><lbr type="forced"/>ich küsse ihnen 100000 mahl die hände und meine schwester umarme<lbr/>
+ich<lbr type="BD"/> von ganzen herzen und bin dero gehorsamster sohn<lbr type="forced"/>
+<lbr/>
+an ganz <rend class="latin">Salzbourg</rend> meine Empfehlung<lbr type="forced"/>
+absonderlich an h<abbr type="curve">:</abbr>&#160;<rend class="latin">Bullinger</rend>.<lbr type="forced"/>
+
+<ts>__</ts><tshtm>______________________________________________________________</tshtm><tspdf>\hfill </tspdf>wolfgang Amadé Mozart <abbr expand="manu propria">mp</abbr>
+</NS>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal><lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+
+<pg n="3"/>
+<NI src="privat"><add_note><ts>___</ts><rend class="latin">N</rend>: 22</add_note><lbr/>
+<anschrift><rend class="latin">À</rend><lbr type="forced"/>
+<add_note><rend class="latin">fco Augspurg</rend></add_note>
+<rend class="latin">Monsieur<lbr type="forced"/>
+Monsieur Leopold Mozart<lbr type="forced"/>
+maitre de la Chapelle de S:A:R:<lbr type="forced"/>
+L'archeveque de salzbourg<lbr type="forced"/>
+à<lbr type="forced"/>
+<u>Salzbourg</u></rend></anschrift></NI></letter>
+</text>
+</MUP>

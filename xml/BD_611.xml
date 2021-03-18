@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2013">2013-9</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1177</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:39:48 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_611.mup">
+<letter bd="611"><HEADER id="1177">WOLFGANG AMADÉ MOZART AN LEOPOLD MOZART IN SALZBURG<lbr/>
+REISENBERG, 13. JULI 1781</HEADER>
+<pg n="1"/>
+<ts>______</ts><tshtm>___________________________________________________________________________</tshtm><tspdf>\hfill </tspdf><rend class="latin">ce 13 de Juillet <u>1781</u>.</rend><lbr type="forced"/>
+<ts>_______________</ts><tshtm>_________</tshtm><rend class="latin">Mon trés cher Pére!</rend><lbr type="forced"/>
+<lbr type="forced"/>
+Ich ka<abbr type="topline" expand="nn">n</abbr> nicht viel schreiben weil der Hr: Graf kobenzl augenblicklich in die<lbr type="BD"/><lbr/>
+stadt fährt, und ich ihm den brief also mitgeben muß, we<abbr type="topline" expand="nn">n</abbr> ich will daß er<lbr type="BD"/><lbr/>
+bestellt werden soll. &#8211; das ist eine stunde weit von Wie<abbr type="topline" expand="nn">n</abbr>, wo ich schreibe.<lbr type="BD"/><lbr/>
+es heist Reisenberg. &#8211; ich war schon einmal über nacht hier; und izt bleib<lbr/>
+ich<lbr type="BD"/> etwelche Täge. &#8211; das häuschen ist nichts; aber die gegend! &#8211; der Wald<lbr/>
+&#8211;<lbr type="BD"/> wori<abbr type="topline" expand="nn">n</abbr>en er eine Grotte gebauet, als we<abbr type="topline" expand="nn">n</abbr> sie so von Natur wäre.<lbr/>
+das ist<lbr type="BD"/> Prächtig und sehr angenehm. ich habe ihr leztes schreiben erhalten.<lbr/>
+Ich habe<lbr type="BD"/> schon längst im si<abbr type="topline" expand="nn">n</abbr>e gehabt von den Weberischen wegzuziehen;<lbr/>
+und es<lbr type="BD"/> wird auch gewis geschehen. &#8211; daß ich be&#255;m h<abbr type="curve">:</abbr>&#160;<rend class="latin">v:</rend> Auerha<abbr type="topline" expand="mm">m</abbr>er<lbr/>
+hätte Wohnen<lbr type="BD"/> sollen, weis ich kein wort davon, das schwöre ich ihnen.<lbr/>
+be&#255;m schreibmeister<lbr type="BD"/> Messmer hätte ich <rend class="latin">logiren</rend> sollen, das ist wahr. aber<lbr/>
+da ist es mir doch be&#255;m<lbr type="BD"/> Weberischen lieber. &#8211; der Messmer hat den<lbr/>
+<rend class="latin">Righini</rend> |: weiland <rend class="latin">opera buffa</rend><lbr type="BD"/> sänger, und dermalen <rend class="latin">Compositeur</rend>, :|<lbr/>
+be&#255; sich im <rend class="latin">quartier</rend>, und ist sein<lbr type="BD"/> grosser freund und beschützer &#8211; doch<lbr/>
+die gnädige frau noch mehr. &#8211; bis ich<lbr type="BD"/> nicht ein gutes, wohlfeiles, und<lbr/>
+gelegenes <rend class="latin">logis</rend> ausfindig mache, gehe ich da<lbr type="BD"/> nicht weg. und da muß ich<lbr/>
+der guten frau etwas vorlügen, de<abbr type="topline" expand="nn">n</abbr> &#8211; ich habe<lbr type="BD"/> wahrlich keine ur<pc force="weak">=</pc><lbr/><add_note schr_id="57010"><ts>_______________________________________________________</ts>Moll</add_note>
+sache weg zu gehen. &#8211; der h<abbr type="curve">:</abbr>&#160;<rend class="latin">v:</rend>&#160;<rend class="latin"><encr expand="moll">asee</encr></rend> hat weis nicht<lbr type="BD"/> warum<lbr/>
+&#8211; besonders wundert es mich auf ihn, ein lästerliches Maul &#8211; und<lbr type="BD"/> sagt,<lbr/>
+er hoffe, ich werde in mich gehen, und mich bald wieder nach Salzburg<lbr type="BD"/> ver<pc force="weak">=</pc><lbr/>fügen, de<abbr type="topline" expand="nn">n</abbr> ich würde hier schwerlich meine <rend class="latin">Convenienz</rend> so gut finden,<lbr type="BD"/><lbr/>
+wie in <rend class="latin">Salzbourg</rend>. &#8211; ich se&#255;e so nur wegen den frauenzi<abbr type="topline" expand="mm">m</abbr>er hier.<lbr/>
+die frl:<lbr type="BD"/>&#160;<rend class="latin">v:</rend> Auerha<abbr type="topline" expand="mm">m</abbr>er hat es mir gesagt. er bekö<abbr type="topline" expand="mm">m</abbr>t aber überall<lbr/>
+sonderbare antworten darauf. &#8211; ich ka<abbr type="topline" expand="nn">n</abbr> mir wohl so be&#255;nahe ein<pc force="weak">=</pc><lbr/>bilden warum er so redet;<lbr type="BD"/> er ist gar ein grosser <rend class="latin">Protector</rend> des<lbr/>
+kozeluchs; &#8211; O wie einfältig! &#8211; <lbr type="forced"/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="2"/>
+die Geschichte des h<abbr type="curve">:</abbr>&#160;<rend class="latin">v:</rend> Mölks hat mich sehr in Erstaunen gesetzt &#8211; zu<lbr/>
+allem<lbr type="BD"/> &#8211; hätte ich ihn fähig gehalten &#8211; aber für einen spitzbuben hätte<lbr/>
+ich ihn nie<lbr type="BD"/>malen gehalten. &#8211; ich bedauere die arme <rend class="latin">famille</rend> vom<lbr/>
+herzen. &#8211; schreiben sie<lbr type="BD"/> nur bald, und viel Neues; ich muß schliessen<lbr/>
+den der graf geht; leben sie<lbr type="BD"/> wohl; ich küsse ihnen 1000mal die hände<lbr/>
+und meine liebe schwester umarme<lbr type="BD"/> ich vom herzen und bin<lbr/>
+Ewig dero<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____</ts><tshtm>_____________________________________________________</tshtm><tspdf>\hfill </tspdf>gehorsamster Sohn<lbr type="BD"/><lbr type="forced"/>
+<ts>_____</ts><tshtm>___________________________________________________</tshtm><tspdf>\hfill </tspdf>Wolfgang Amadè Mozart <abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+</letter>
+</text>
+</MUP>

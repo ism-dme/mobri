@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2013">2013-12</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1212</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:39:58 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_646.mup">
+<letter bd="646"><HEADER id="1212">WOLFGANG AMADÉ MOZART AN LEOPOLD MOZART IN SALZBURG<lbr/>
+WIEN, 5. DEZEMBER 1781</HEADER>
+<pg n="1"/>
+<add_num impl="pencil">122</add_num>
+<ts>_____</ts>Mon trés cher Pére!<ts>________</ts><tshtm>__________________________________</tshtm><tspdf>\hfill </tspdf><rend class="latin"><u>Vie<abbr type="topline" expand="nn">n</abbr>e</u> ce</rend> 5 <rend class="latin">de Decem:<h>bre</h></rend><lbr type="forced"/>
+<ts>______</ts><tshtm>____________________________________________________________________________________________</tshtm><tspdf>\hfill </tspdf><uu>1781</uu><lbr type="forced"/>
+<lbr type="forced"/>
+Heute habe keinen brief von ihnen, ich will ihnen also von Neuekeiten<lbr/>
+schrei<lbr type="BD"/>ben was ich weis; &#8211; es giebt deren zwar wenige, und die<lbr/>
+wenigen sind<lbr type="BD"/> meistens erlogen &#8211; und das ist eben die ursache<lbr/>
+warum ich ihnen keine<lbr type="BD"/> schreibe, weil ich förchten muß ich werde<lbr/>
+dabe&#255; zu schanden; wie zum<lbr type="BD"/> be&#255;spiel der <rend class="latin">general Laudon</rend><lbr/>
+schon wirklich tod war &#8211; und nun aber |: glück<lbr type="BD"/> dem haus öster<pc force="weak">=</pc><lbr/>reich :| wieder auferstanden ist. &#8211; der grosfürst bleibt bis<lbr type="BD"/><lbr/>
+Neu Jahr hier; und dem ka&#255;ser ist es nun bange geworden<lbr/>
+wie er ihn diese<lbr type="BD"/> lange zeit durch unterhalten kö<abbr type="topline" expand="nn">n</abbr>e &#8211; <lbr/>
+damit er aber nicht viel kopfzerbrechens hat, so &#8211; unter<pc force="weak">=</pc><lbr/><add_note schr_id="57010"><ts>________________________________________________________________________</ts>er seine</add_note>
+haltet er ihn gar nicht. &#8211; es ist Ja genug, we<abbr type="topline" expand="nn">n</abbr> <encr expand="er">lr</encr>&#160;<u><encr expand="seine">olfnl</encr></u><lbr/>
+<add_note schr_id="57010">Frau<ts>_____________________________________________</ts>er allein genug</add_note>
+<u><encr expand="frau">irmh</encr></u> unterhaltet, und dazu &#8211; ist <encr expand="er allein genug">lr meelfn glnhg</encr>.<lbr/>
+auf dem schönbruner Ball war<lbr type="BD"/> eine grausame <rend class="latin">Confusion</rend>;<lbr/>
+weil vermög der trefflichen anstalten solches ohne<lbr type="BD"/> hexere&#255;<lbr/>
+vorzusehen war, so gieng auch der herr Ego nicht darauf,<lbr/>
+weil er<lbr type="BD"/> kein liebhaber vom gedränge, Rüppenstösse, und<lbr/>
+<add_note schr_id="57010"><ts>__________________________________________________</ts>kaiserliche</add_note>
+Prügel ist; und sollten es<lbr type="BD"/> auch <encr expand="kaiserliche">kmfolrefcul</encr> se&#255;n! &#8211; <lbr type="forced"/>
+der ka<abbr type="topline" expand="mm">m</abbr>er<rend class="latin">fourier</rend> Strobel hatte die <rend class="latin">Billeter</rend> auszutheilen.<lbr/>
+auf 3000 Personen<lbr type="BD"/> war der antrag. &#8211; es wurde öfentlich<lbr/>
+kund gemacht, daß Jederman sich be&#255;<lbr type="BD"/> dem obengedachten Strobel<lbr/>
+kö<abbr type="topline" expand="nn">n</abbr>e aufschreiben lassen &#8211; da ist nun alles<lbr type="BD"/> hingelaufen; und<lbr/>
+der Strobel &#8211; aufgeschrieben. &#8211; und da durfte man da<abbr type="topline" expand="nn">n</abbr><lbr type="BD"/> nichts<lbr/>
+als um die <rend class="latin">Billetter</rend> schicken. &#8211; einigen, die zu beka<abbr type="topline" expand="nn">n</abbr>t sind,<lbr/>
+wurden sie<lbr type="BD"/> ins haus geschickt. &#8211; und solche <rend class="latin">co<abbr type="topline" expand="mm">m</abbr>ission</rend> gab man<lbr/>
+dem Nächstbesten<lbr type="BD"/> Buben. &#8211; da geschah daß ein Bub auf der<lbr/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="2"/>
+Treppe einen vorbe&#255;gehenden<lbr type="BD"/> fragte, ob er nicht so und so hiesse.<lbr/>
+dieser sagte aus spass Ja; und er &#8211; gab<lbr type="BD"/> ihm ein <rend class="latin">billet</rend>.<lbr/>
+Ich weis zwe&#255; häuser welche dieser unordnungen wegen kein<lbr type="BD"/><lbr/>
+<rend class="latin">billet</rend> beko<abbr type="topline" expand="mm">m</abbr>en haben. &#8211; sie waren aufgeschrieben. &#8211; schickten<lbr/>
+hin &#8211; der<lbr type="BD"/> Strobl ließ ihnen sagen, er hätte ihnen Ja die<lbr/>
+<rend class="latin">billeter</rend> längst geschickt. &#8211; auf<lbr type="BD"/> diese art war der Ball voll<lbr/>
+<rend class="latin">friseurs</rend> und Stubenmädchers. &#8211; Nun kö<abbr type="topline" expand="mm">m</abbr>t aber<lbr type="BD"/> das schönste.<lbr/>
+<add_note schr_id="57010"><ts>_________________________</ts>Noblesse</add_note>
+worüber sich die <rend class="latin"><encr expand="Noblesse">Nsbelool</encr></rend> sehr aufgehalten hat. &#8211; der<lbr type="BD"/>&#160;<encr expand="kaiser">kmfolr</encr><lbr/>
+<add_note schr_id="57010">Kaiser<ts>_______</ts>die Großfürstinn</add_note>
+führte i<abbr type="topline" expand="mm">m</abbr>er <encr expand="die Grosfürstin">dfl Grsoih"rotfn</encr> an arm &#8211; es waren 2<lbr/>
+Parthien<lbr type="BD"/>&#160;<rend class="latin">Conter=danse</rend> von der <rend class="latin">Noblesse</rend> &#8211; Rö<abbr type="topline" expand="mm">m</abbr>er &#8211; und Tar<pc force="weak">=</pc><lbr/>taren. &#8211; be&#255; einem von<lbr type="BD"/> diesen geschahe es, daß der ohne<pc force="weak">=</pc><lbr/>hin schon unartige Wiener Pöbel, sich so<lbr type="BD"/> zudrängte, daß<lbr/>
+<add_note schr_id="57010"><ts>_________</ts>Großfürstinn<ts>____</ts>dem<ts>__</ts>Kaiser</add_note>
+sie die <encr expand="Grosfürstin">Grsoih"rotfn</encr> dem <encr expand="kaiser">kmfolr</encr> von arm weg &#8211; mitten<lbr/>
+<add_note schr_id="57010"><ts>______________________________________________________________</ts>Kaiser</add_note>
+in<lbr type="BD"/> die tanzenden hinein stossten. &#8211; der <encr expand="kaiser">kmfolr</encr> fieng<lbr/>
+an mit den füssen zu<lbr type="BD"/> stampfen; <rend class="latin">sacramentirte</rend> wie <suppl hand="self" pos="supra">ein</suppl>&#160;<rend class="latin">Lazerone</rend>,<lbr/>
+stosste einen ganzen haufen volck<lbr type="BD"/> zurück; und hollte links<lbr/>
+und rechts aus. &#8211; einige von der ungarischen Garde<lbr type="BD"/> wollten<lbr/>
+allzeit mitgehen, um platz zu machen &#8211; allein er schickte<lbr/>
+sie weg. &#8211;<lbr type="BD"/> auf diese art geschieht ihm recht; &#8211; de<abbr type="topline" expand="nn">n</abbr> das<lbr/>
+geht nicht, Pöbel bleibt doch<lbr type="BD"/> i<abbr type="topline" expand="mm">m</abbr>er Pöbel.<lbr type="forced"/>
+diesen augenblick erhalte ihr schreiben vom 27:<h>t</h>&#160;<rend class="latin">Novembre</rend>.<lbr/>
+das ist gewis<lbr type="BD"/> daß der ka&#255;ser dem Herzog <rend class="latin">v:</rend> Würtemberg entgegen<lbr/>
+gefahren ist &#8211; und zwar<lbr type="BD"/> der Prinzessin zu liebe. &#8211; aus diesem<lbr/>
+macht auch kein Mensch hier einiges<lbr type="BD"/> geheimnüss &#8211; Nur weis man<lbr/>
+nicht ob das ein brocken für ihn selbst, oder für<lbr type="BD"/> einen <rend class="latin">toscani</rend>sch<abbr v="en"/><lbr/>
+Prinzen se&#255;e. &#8211; glaublicher ist das lezte. allein &#8211; der <encr expand="kaiser">kmfolr</encr><lbr/>
+<add_note schr_id="57010">Kaiser<ts>____________</ts>zärtlich</add_note>
+ist mir gar zu <encr expand="zärtlich">zm"rtefcu</encr> mit ihr &#8211; er küsst ihr unaufhörlich<lbr/>
+die hände, eine nach der andern, und öfters be&#255;de zugleich.<lbr/>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="3"/>
+nur das wundert mich, weil sie<lbr type="BD"/> so zu sagen noch ein kind ist. &#8211; <lbr/>
+we<abbr type="topline" expand="nn">n</abbr> aber das wahr ist und geschieht, was<lbr type="BD"/> man sagt, so glaub ich nun<lbr/>
+selbst wieder daß ihm das hemd näher ist als der<lbr type="BD"/> Rock; &#8211; <lbr/>
+de<abbr type="topline" expand="nn">n</abbr> sie soll 2 Jahre hier in einem kloster bleiben. &#8211; und &#8211; <lbr/>
+&#8211; ver<lbr type="BD"/>muthlich &#8211; we<abbr type="topline" expand="nn">n</abbr>s keine hexen giebt, wird sie meine<lbr/>
+<rend class="latin">scolarin</rend> auf dem<lbr type="BD"/>&#160;<rend class="latin">Clavier</rend> se&#255;n.<lbr type="forced"/>
+den <rend class="latin">fagotti</rend>st den man dem Erzbischof anhängen will, ke<abbr type="topline" expand="nn">n</abbr>e ich<lbr/>
+schon, er<lbr type="BD"/>&#160;<rend class="latin">secondirt</rend> Ja mit dem Ritter be&#255; der <rend class="latin">opera</rend>;<lbr/>
+sie schreiben ich soll sie nicht ver<lbr type="BD"/>gessen! &#8211; daß sie freude<lbr/>
+haben, daß ich sie nicht vergesse, macht mir gewis<lbr type="BD"/> das<lbr/>
+grösste vergnügen. &#8211; we<abbr type="topline" expand="nn">n</abbr> sie aber glauben kö<abbr type="topline" expand="nn">n</abbr>ten ich<lbr/>
+kö<abbr type="topline" expand="nn">n</abbr>te sie ver<lbr type="BD"/>gessen &#8211; das würde mich recht sehr schmerzen.<lbr/>
+Ich soll denken, daß ich eine<lbr type="BD"/> unsterbliche Seele habe &#8211; <lbr/>
+nicht allein denk ich das, sondern ich glaube es; &#8211;<lbr type="BD"/> wori<abbr type="topline" expand="nn">n</abbr><lbr/>
+bestünde de<abbr type="topline" expand="nn">n</abbr> sonst der unterschied zwischen Menschen<lbr/>
+und vieh? &#8211;<lbr type="BD"/> eben weil ich das nur zu gewis weis und<lbr/>
+glaube &#8211; so habe ich nicht alle ihre<lbr type="BD"/> Wünsche so, |: wie sie sich<lbr/>
+es gedacht hatten :| erfüllen kö<abbr type="topline" expand="nn">n</abbr>en &#8211; <lbr type="forced"/>
+Nun leben sie recht wohl; ich küsse ihnen 1000mal die hände<lbr/>
+und meine<lbr type="BD"/> liebe schwester umarme ich von herzen und<lbr/>
+bin Ewig dero<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>____</ts><tshtm>________________________________________________________</tshtm><tspdf>\hfill </tspdf>gehorsamster Sohn<lbr type="BD"/><lbr type="forced"/>
+<ts>____</ts><tshtm>_______________________________________________________</tshtm><tspdf>\hfill </tspdf>W: A: Mozart <abbr expand="manu propria">mp</abbr><lbr/>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="4"/>
+<anschrift rot="270"><rend class="latin">| de Vie<abbr type="topline" expand="nn">n</abbr>e |<lbr type="forced"/>
+À<lbr type="forced"/>
+Monsieur<lbr type="forced"/>
+Monsieur Leopold Mozart<lbr type="forced"/>
+maitre de la<lbr type="BD"/> Chapelle de S: A: R:<lbr type="forced"/>
+l'archeveque de et à<lbr type="forced"/>
+<u>Salz<uu>bourg</uu></u></rend></anschrift>
+<lbr/>
+<add_num rot="270" schr_id="39408" impl="pencil"><rend class="latin">N</rend>: <u>41.</u></add_num>
+<lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+</letter>
+</text>
+</MUP>

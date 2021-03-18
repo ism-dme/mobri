@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2020">2020-02</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=682</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Verbleib unbekannt (Vorlage: Abschrift um 1768 in D-B)</bibl>
+            <bibl type="source" subtype="RISM">Verbleib unbekannt, Vorlage: Abschrift um 1768 in D-B</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-17">file generation: <date>Wed Mar 17 16:36:52 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/BD_123.mup">
+<letter bd="123">
+<NI src="unbekannt">
+<HEADER id="682">LEOPOLD MOZART AN LORENZ HAGENAUER IN SALZBURG<lbr/>
+WIEN, 12. JANUAR 1768</HEADER>
+<pg n="1"/>
+<add_num type="inline" schr_id="57010" impl="crayon" color="red"><ts>_______________</ts>49</add_num><ts>__</ts><tspdf>\hfill </tspdf>Wienn den 12.<h>t<abbr v="en"/></h> Jä<abbr type="topline" expand="nn">n</abbr>er <u>1768.</u><lbr type="forced"/>
+<lbr type="forced"/>
+<ts>________</ts><rend class="latin">Glückseeliges Neues</rend> Jahr!<lbr type="forced"/> 
+<lbr type="forced"/>
+<ts>_____</ts>Denn dieser ist, mit Gott, der erste<lbr/>
+Brief in diesem Jahre! Ich zweifle an dero<lbr type="BD"/><lbr/>
+und dero sammtlichen angehörigen besten<lbr/>
+Wohlse&#255;n gar nicht; wenigst<lbr type="BD"/> hofe und wünsche<lbr/>
+ich es von Herzen, so wie wir uns alle sehr<lbr/>
+wohl befinden.<lbr type="BD"/><ts>_____</ts>Daß wir 14. Tage in<lbr/>
+Brünn |: wo wir am heil: Weinacht Abend<lbr/>
+angelangt :|<lbr type="BD"/> uns aufhalten, wird aus denen<lbr/>
+Briefen Tit<abbr type="curve">:</abbr> S:<h>r</h> Excellenz Gräfin von<lbr/>
+Herber<lbr type="BD"/>stein in Salzburg ohnfehlbar bekannt<lbr/>
+se&#255;n. Die Gnaden die wir in dem hoch<pc force="inter">=</pc><lbr/>gräflich Schrattenbachischen Hause empfangen,<lbr/>
+und die sonderbare Achtung die S:<h>e</h> Excellenz<lbr/>
+so wohl, als der sammtl:<h>e</h> Brünnische hoche<lbr/>
+Adl für uns hatten,<lbr type="BD"/> werde S:<h>r</h> hochfürstl:<lbr/>
+Gnaden unsern gnädigsten Herrn <abbr expand="etc">p</abbr> seiner<lbr/>
+<pg n="2"/>
+Zeit um<lbr type="BD"/>ständlich anzupreisen nicht ermang<pc force="weak">=</pc><lbr/>len.<ts>_____</ts>Wir sind den 9.<h>t<abbr v="en"/></h> aus Brünn<lbr/>
+abge<lbr type="BD"/>reiset; und obwohl der auf die grau<pc force="weak">=</pc><lbr/>same frühe Kälte eingefallene ungemein<lbr type="BD"/><lbr/>
+häufige Schnee die Strassen so bedecket, und<lbr/>
+der Wind die Weege mann hoch<lbr type="BD"/> überwehet,<lbr/>
+und mit schnee bedecket hatte, daß die Po<pc force="weak">=</pc><lbr/>sten theils ausgeblieben<lbr type="BD"/> theils später ein<pc force="weak">=</pc><lbr/>getroffen und der Postwagen 9. Stunden<lbr/>
+auf einem Platze<lbr type="BD"/> allein stecken geblieben;<lbr/>
+so sind wir doch glücklich mit 4. Postpfer<pc force="weak">=</pc><lbr/>den den<lbr type="BD"/> nämlichen Abend um 6. Uhr in<lbr/>
+Po&#255;ßdorff angelanget: Wo wir aber 6.<lbr/>
+Pferde<lbr type="BD"/> nahmen und Sonntags den 10. diess<lbr/>
+um 8. Uhr wegfuhren und Abends schon<lbr type="BD"/> um<lbr/>
+5. Uhr auf dem Tabor unter den Händen<lbr/>
+der Visitierer waren, die uns bald<lbr type="BD"/> ab<pc force="weak">=</pc><lbr/>gefertiget hatten. Wir haben den<lbr/>
+erstaunlich häuffigen Schnee so glücklich<lbr type="BD"/> durch<pc force="weak">=</pc><lbr/>schnitten, daß wir niemals umgeworf<pc force="weak">=</pc><lbr/>fen worden, obwohl es ein paar mahl<lbr type="BD"/><lbr/>
+sehr nahe daran ware. Was der<pc force="weak">=</pc><lbr/><pg n="3" type="wordsep"/>gleichen Reisen für Geld kosten lässt sich leicht<lbr type="BD"/><lbr/>
+einbilden. War in Salzburg auch eine<lbr/>
+so grausame Kälte? und fiel auch so<lbr/>
+viel<lbr type="BD"/> Schnee? Seit heute frühe ist ein<lbr/>
+wärmere Witterung eingefallen, und es<lbr/>
+ist<lbr type="BD"/> abscheulich anzusehen, was hier für koth,<lbr/>
+und gewässer in allen Gassen ist,<lbr type="BD"/> ohner<pc force="weak">=</pc><lbr/>achtet viel 100. Fuhren beschäftiget waren<lbr/>
+den Schnee aus der Statt<lbr type="BD"/> zu führen.<lbr type="forced"/>
+Die grosse Schlittenfarth, die heute um<lbr/>
+12. Uhr Mittags hätte se&#255;n sollen,<lbr type="BD"/> ward<lbr/>
+also eingestellt. Vielleicht ändert sich<lbr/>
+das Wetter; und ich wünschte<lbr type="BD"/> herzlich<lbr/>
+eine schöne Schlittenfarth zu sehen. Zwe&#255;<lbr/>
+waren schon vor unserer<lbr type="BD"/> Ankunft.<lbr type="forced"/>
+Daß die Erzherzogin Carolina die er<pc force="weak">=</pc><lbr/>klärte Neapolitanische Braut ist, wird<lbr type="BD"/><lbr/>
+ihnen etwas altes se&#255;n. So bald es<lbr/>
+etwas neues giebt, und wie sich nun<lbr/>
+mein<lbr type="BD"/> zwe&#255;ter Aufenthalt hier anlassen,<lbr/>
+und wie lange solcher etwan dauren möchte,<lbr type="BD"/><lbr/>
+<pg n="4"/>
+werde so bald es möglich berichten. Meine<lbr/>
+Frau und Kinder empfehlen sich<lbr type="BD"/> und ich bin<lbr/>
+der alte.<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____</ts>Das Schreiben, in welchem sie uns den<lbr/>
+so unverhoften Todfall unserer lieb<lbr type="BD"/>sten<lbr/>
+Fräul<abbr type="curve">:</abbr> Josepha berichtet, war das letzte<lbr/>
+Schreiben, so wir von ihnen<lbr type="BD"/> erhalten haben.<lbr/>
+Ich beantwortete es nicht, weil ich an die<lbr/>
+Tit<abbr type="curve">:</abbr> Frau von <rend class="latin">Robini</rend><lbr type="BD"/> selbst schrieb, und weil<lbr/>
+es mir zu schmerzhaft fiel unsere Empfin<pc force="weak">=</pc><lbr/>dungen und<lbr type="BD"/> unglaubliche Traurigkeit, so<lbr/>
+uns diese Nachricht verursachte ihnen zu<lbr/>
+be<lbr type="BD"/>schreiben. <rend class="latin">Requiescat in pace</rend>!<lbr type="forced"/>
+</NI>
+</letter>
+</text>
+</MUP>
