@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2009">2009-08-20</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=331</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+            <bibl type="source" subtype="RISM">A-Sm (Internationale Stiftung Mozarteum, Bibliotheca Mozartiana)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-03-22">file generation: <date>Mon Mar 22 16:26:58 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="file:///T:/webpub_2019/Doc1787a_1a.mup">
+<HEADER id="331">LEOPOLD MOZART, EXZERPTE AUS DEM TRACTATUS MUSICUS VON MEINRAD SPIESS (AUGSBURG 1745)<lbr/>
+VOR 1787</HEADER>
+
+<pg n="1"/>
+
+<add_num type="inline" color="red" impl="crayon">2</add_num><ts>_____</ts><rend class="latin">Ton<abbr v="us"/></rend>&#160;<rend class="latin">I</rend><lbr type="forced"/>
+1) meist in <rend class="latin">C</rend> Schlüßel &#8211; <lbr type="forced"/>
+<ts>___</ts>Ende <rend class="latin">D</rend> &#8211; <rend class="latin">ascendens</rend><lbr type="forced"/>
+<ts>___</ts>s. <rend class="latin">ave maris stella</rend><lbr type="forced"/>
+<ts>_____</ts>Ton. II<lbr type="forced"/>
+2) in <rend class="latin">F</rend> Schlüßel &#8211; <rend class="latin">descen<suppl hand="#DME"><pc force="strong">-</pc></suppl><lbr type="forced"/>dens</rend> &#8211; deßweg<abbr v="en"/> meistens in<lbr type="forced"/>
+<rend class="latin">Gmoll</rend>&#160;<rend class="latin">transportiret</rend><lbr type="forced"/>
+<ts>___</ts>NB <rend class="latin">gradualia in adventu feria</rend><lbr type="forced"/>
+<ts>___</ts>4, 6, <rend class="latin">sabbatho</rend> in A<lbr type="forced"/>
+<ts>___</ts>endigend &#8211; (eigentl. ton<abbr v="us"/> g.<lbr type="forced"/>
+<ts>___</ts><rend class="latin">æoli<abbr v="us"/></rend>) &#8211; zu Ton<abbr v="us"/> I gerechnet<lbr type="forced"/>
+<ts>_____</ts>Ton. III<lbr type="forced"/>
+3) Ende <rend class="latin">E</rend> &#8211; <rend class="latin">ascendens</rend><lbr type="forced"/>
+s. 2 <rend class="latin">Introit<abbr v="us"/></rend>&#160;<rend class="latin">fer.</rend> 4 <rend class="latin">hebd. maj.<lbr type="forced"/>
+<ts>___</ts>et Dom. resurrect.</rend><lbr type="forced"/>
+<ts>_____</ts>Ton IV<lbr type="forced"/>
+4) Ende <rend class="latin">E</rend> &#8211; <rend class="latin">descendens &#8211; <lbr type="forced"/>
+vid. ibid.</rend><lbr type="forced"/>
+<ts>_____</ts>Ton V<lbr type="forced"/>
+5) in F endend &#8211; steigend<lbr type="forced"/>
+gemeinlich <rend class="latin">in n. secundam,<lbr type="forced"/>
+tertiam, quartam (i.e. C) trans<suppl hand="#DME"><pc force="strong">-</pc></suppl><lbr type="forced"/>portiret</rend> s. Spieß <rend class="latin">missas et vespera</rend><lbr type="forced"/>
+<ts>_____</ts>Ton VI<lbr type="forced"/>
+6) in <rend class="latin">F</rend> endend &#8211; <rend class="latin">descendens</rend><lbr type="forced"/>
+selt<abbr v="en"/>&#160;<rend class="latin">transportiret</rend><lbr type="forced"/>
+s. <rend class="latin">hymn<abbr v="us"/> pater superni luminis</rend><lbr type="forced"/>
+in <abbr expand="festo">fes<h>o</h>.</abbr>&#160;<rend class="latin">M. Magdalenæ: fortem virili<lbr type="forced"/>
+pectore</rend><lbr type="forced"/>
+<ts>_____</ts>Ton VII<lbr type="forced"/>
+7) <rend class="latin">in G. end. ascendens</rend> &#8211; <lbr type="forced"/>
+weg<abbr v="en"/> Höhe meistens <rend class="latin">trans<suppl hand="#DME"><pc force="strong">-</pc></suppl><lbr type="forced"/>portiret</rend> in <rend class="latin">D</rend># (auch<lbr type="forced"/>
+<rend class="latin">F</rend><lbr type="forced"/>
+<pg n="2"/>
+<ts>_____</ts>Ton VIII<lbr type="forced"/>
+8) in <rend class="latin">G</rend> endend &#8211; <rend class="latin">descendens</rend></text>
+</MUP>
