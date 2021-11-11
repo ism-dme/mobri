@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader>
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2021">2021-10</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=2233</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Verbleib unbekannt (Vorlage: Abschrift ca. 1828 in A-Sm)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2021-11-09">last file update: <date>Tue Nov  9 16:00:29 2021</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="ID_2233.mup">
+<HEADER id="2233">FRANZ XAVER WOLFGANG MOZART AN CONSTANZE NISSEN<lbr/>
+LEMBERG, 12. APRIL 1826<lbr/>
+Abschrift von Johann Heinrich Feuerstein, ca. 1828</HEADER>
+<pg n="1"/>
+<add_note schr_id="52059"><div type="commentary" xml:id="commentID2233_0">(Ist einzuschalten S. 171 Zeile 17.)<note corresp="#commentID2233_0">Die Seiten- und Zeilenangabe bezieht sich auf das Druckmanuskript (Teil 3) zur <i>Biographie W. A. Mozart`s</i> von Georg Nikolaus Nissen,
+deren Endredaktion Constanze Nissen im Frühjahr 1828 an Johann Heinrich Feuerstein übertragen hatte.</note></div></add_note>
+<ts>________________________________</ts><tshtm>_______________________________________</tshtm><tspdf>\hfill </tspdf>Lemberg, 12 April 1826.<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____</ts>Meine liebe theure <persName key="48818">Mutter</persName>!<lbr type="forced"/>
+Es wäre wohl vergebliche Mühe, we<abbr type="topline" expand="nn">n</abbr> ich dir den Schmerz schildern wollte, der sich meiner<lbr/>
+bemächtigte, als ich gestern den <div type="commentary" xml:id="commentID2233_1">Brief<note corresp="#commentID2233_1">Brief nicht erhalten.</note></div> des <persName key="77274">h<abbr type="curve">.</abbr> Metzger</persName> erhielt. Eben gestern erwartete ich die<lbr/>
+Antwort meines unvergeßlichen <persName key="57010">Vaters</persName> auf meinen letzten <div type="commentary" xml:id="commentID2233_2">Brief vom 19 Merz<note corresp="#commentID2233_2">Brief nicht erhalten.</note></div>, <abbr expand="und">u</abbr> statt diesen<lbr/>
+muß ich den unersetzlichen <div type="commentary" xml:id="commentID2233_3">Verlust<note corresp="#commentID2233_3">Georg Nikolaus Nissen war am 24. März 1826 in Salzburg gestorben.</note></div> erfahren, der uns betroffen. Du, meine liebe gute <persName key="48818">Mutter</persName>, weißt<lbr/>
+nur zu gut, was Er uns allen, <abbr expand="und">u</abbr> besonders mir war. Mein bester, mein einziger Freund, von<lbr/>
+Kindheit an mein Vater <abbr expand="und">u</abbr> mein Wohlthäter! Noch vermag ich es nicht, meine Gedanken zu ordnen,<lbr/>
+<abbr expand="und">u</abbr> noch viel weniger dir Trost zuzusprechen, da ich selbst noch dessen zu sehr bedarf; <abbr expand="und">u</abbr> ich<lbr/>
+sende nur deshalb diese Zeilen an dich ab, um dich aufs angelegentlichste zu bitten, mich so bald, als<lbr/>
+nur i<abbr type="topline" expand="mm">m</abbr>er möglich, über dein Befinden zu beruhigen, <abbr expand="und">u</abbr> mir wissen zu machen, was du allenfalls für<lbr/>
+Pläne für die Zukunft gemacht hast. Wilst du zu mir ko<abbr type="topline" expand="mm">m</abbr>en, so erwarte von meiner kindlichen Liebe,<lbr/>
+<abbr expand="daß">dß</abbr> ich alles thun werde, was zu deiner Zufriedenheit beitragen kann. Oder wünschest du, <abbr expand="daß">dß</abbr> ich auf einige<lbr/>
+Zeit zu dir ko<abbr type="topline" expand="mm">m</abbr>e, um deine Geschäfte zu schlichten, so schreibe mir es unverzüglich; mit einem<lbr/>
+Worte, was du i<abbr type="topline" expand="mm">m</abbr>er zu unternehmen denkst, rechne auf deinen Sohn<lbr type="forced"/>
+<ts>__________________________________</ts><tshtm>______________________________________________________________________</tshtm><tspdf>\hfill </tspdf><persName key="39407">Wolfgang</persName>.
+<pg n="2"/>
+<vacat/>
+</text>
+</MUP>
