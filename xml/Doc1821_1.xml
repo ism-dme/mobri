@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="68">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2014">2014-11</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=68</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+                <bibl type="source" subtype="long">A-Sm: Internationale Stiftung Mozarteum, Bibliotheca Mozartiana. Salzburg (AUT)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-05-13">last file update: <date>Fri May 13 15:50:58 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="Doc1821_1.mup">
+<HEADER id="68">FRANZ XAVER WOLFGANG MOZART AN CARL FRIEDRICH PETERS IN<tspdf>\newline</tspdf> LEIPZIG<lbr/>
+MÜNCHEN, 1. APRIL 1821</HEADER>
+<pg n="1"/>
+<ts>__________________________________________________</ts><tspdf>\hfill </tspdf><u>München am 1<h><uu>t</uu></h>&#160;<rend class="latin">april</rend> 1821</u><lbr type="forced"/>
+<lbr type="forced"/>
+<ts>________________________</ts>Lieber <persName key="77883">Freund</persName>!<lbr type="forced"/>
+<lbr type="forced"/>
+Vorgestern hatte ich das Vergnügen, Ihr <div type="commentary" xml:id="commentID68_1">Werthes vom 22<h><uu>t</uu></h><note corresp="#commentID68_1">Brief vom 22. März 1821 nicht erhalten.</note></div> zu erhalten, <abbr expand="und"><u>u</u></abbr> ersah daraus<lbr/>
+<abbr expand="daß">dß</abbr> Sie so gütig waren, meine <div type="commentary" xml:id="commentID68_2">Angelegenheit in <rend class="latin">Weimar</rend><note corresp="#commentID68_2">Die Übergabe eines Widmungsxemplares des bei Peters gedruckten 2. Klavierkonzertes Es-Dur op. 25 
+an die Widmungsträgerin Maria Pawlowna, Großherzoging von Sachsen-Weimar-Eisenach.</note></div> aufs beste zu besorgen, wofür ich<lbr/>
+Ihnen recht sehr Danke. &#8211; Ich säumte nicht <persName key="64946">H<abbr type="curve"></abbr> v. <rend class="latin">Winter</rend></persName> zu sprechen, der mir sagte, <abbr expand="daß">dß</abbr> er sich<lbr/>
+noch zu nichts besti<abbr type="topline" expand="mm">m</abbr>ten habe entschließen kö<abbr type="topline" expand="nn">n</abbr>en, <abbr expand="und"><u>u</u></abbr> dieß sey die Ursache gewesen, warum<lbr/>
+er Ihnen nicht geantwortet. Es ist wahr, <abbr expand="daß">dß</abbr>&#160;<persName key="78647">Schlesinger</persName> be&#255; Ihm, um dasselbe Werk an<pc force="weak">=</pc><lbr/>gehalten, <abbr expand="und"><u>u</u></abbr> ihm 100 friedrich d’<rend class="latin">or</rend> gebothen, doch habe Er | <persName key="64946"><rend class="latin">Winter</rend></persName> | es ihm noch<lbr/>
+nicht völlig zugesagt. Endlich versprach er mir, mit dem Juden zu brechen, <abbr expand="und"><u>u</u></abbr><lbr/>
+trug mir auf, Ihnen zu schreiben, <abbr expand="daß">dß</abbr> er selbst in Monat jule&#255;, nach <rend class="latin">Leipzig</rend> ko<abbr type="topline" expand="mm">m</abbr>en,<lbr/>
+<abbr expand="und"><u>u</u></abbr> mit Ihnen darüber sprechen werde. Er geht in einem Monate nach <rend class="latin">Wien</rend>, um<lbr/>
+dort seine Oper <workName key="11840"><rend class="latin">Colmal</rend></workName>, in die <rend class="latin">Scene</rend> zu setzen, <abbr expand="und"><u>u</u></abbr> eine neue <persName key="84872">Schüleri<abbr type="topline" expand="nn">n</abbr></persName> dem <rend class="latin">Wiener</rend><lbr/>
+Publikum vorzuführen, <abbr expand="und"><u>u</u></abbr> denkt seinen Rückweg, <unclear>über</unclear>&#160;<rend class="latin">Dresden</rend> und <rend class="latin">Leipzig</rend> zu neh<pc force="weak">=</pc><lbr/>men. Da ich sowohl hier, als in <rend class="latin">Wien</rend>, oft Gelegenheit haben werde, ihn zu sehn, so<lbr/>
+kö<abbr type="topline" expand="nn">n</abbr>en Sie versichert seyn, <abbr expand="daß">dß</abbr> ich ihn, an sein mir gegebnes <rend class="latin">Wort</rend>, eri<abbr type="topline" expand="nn">n</abbr>ern werde.<lbr type="forced"/>
+Schlüßlich ersuche ich Sie, we<abbr type="topline" expand="nn">n</abbr> sich nicht in wenig Tagen, eine Gelegenheit findet, mir<lbr/>
+mein <workName key="11557"><rend class="latin">Concert</rend></workName> durch die Post zu schicken, de<abbr type="topline" expand="nn">n</abbr> meine geschriebnen Sti<abbr type="topline" expand="mm">m</abbr>en, sind in<lbr/>
+einem so üblen Zustande, <abbr expand="daß">dß</abbr> ich sie nicht gerne, der <div type="commentary" xml:id="commentID68_3">hiesigen Hofkapelle vor<pc force="weak">=</pc><lbr/>legen<note corresp="#commentID68_3">Franz Xaver Wolfgang Mozart befand sich seit Mai 1819 auf einer Konzertreise durch Europa.
+Vom 1. März bis zum 10. Mai 1821 hielt er sich in München auf. Aus dem Reisetagebuch von 
+Franz Xaver Wolfgang Mozart geht hervor, dass man den Termin für sein Konzert 
+in München mehrmals verschob. Letztlich konnte er in München kein Konzert geben.</note></div> möchte. Leben Sie wohl, <abbr expand="und"><u>u</u></abbr> grüßen Sie alle Beka<abbr type="topline" expand="nn">n</abbr>te von Ihrem Freunde<lbr type="forced"/>
+<ts>_____________________________________</ts><tshtm>________________________________________________</tshtm><tspdf>\hfill </tspdf><persName key="39407"><rend class="latin">W A Mozart</rend></persName>&#160;<abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<persName key="39314">Hu<abbr type="topline" expand="mm">m</abbr>el</persName> habe ich gestern schon <div type="commentary" xml:id="commentID68_4">geschrieben<note corresp="#commentID68_4">Ein Brief an Johann Nepomuk Hummel hat sich nicht erhalten.</note></div>.<lbr type="forced"/>
+<add_ident impl="pencil"><ts>________________________________________________________________________________________________________</ts><rend class="latin">le <u>fils</u></rend>.</add_ident>
+<pg n="2"/>
+<add_empf rot="90"><u>1820</u><ts>_____</ts><u><rend class="latin">München</rend><lbr type="forced"/>
+1 April</u><lbr type="forced"/>
+<u>b<ts>_____</ts></u><ts>_______</ts><rend class="latin">Mozart</rend>.<lbr type="forced"/>
+<u>7<ts>_____</ts></u></add_empf><lbr type="forced"/>
+<anschrift rot="90">Herrn<lbr type="forced"/>
+Herrn<lbr type="forced"/>
+<rend class="latin">C. <u>F. Peters</u></rend><lbr type="forced"/>
+berühmter Musik-Verleger<lbr type="forced"/>
+in<lbr type="forced"/>
+<rend class="latin"><u>Leipzig</u></rend></anschrift><lbr type="forced"/>
+<add_seal type="post">R. 4 MÜNCHEN<lbr type="forced"/>
+1. APR <additum>[... (unleserlich)]</additum></add_seal>
+</text>
+</MUP>
