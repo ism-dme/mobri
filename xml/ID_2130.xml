@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="2130">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-06</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=2130</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">D-BNu</bibl>
+                <bibl type="source" subtype="long">D-BNu: Universitäts- und Landesbibliothek. Bonn (DEU)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-05-11">last file update: <date>Wed May 11 14:48:29 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="ID_2130.mup">
+<HEADER id="2130">FRANZ XAVER WOLFGANG MOZART AN JOSEPH VON SPAUN IN WIEN<lbr/>
+WIEN, 30. DEZEMBER 1842</HEADER>
+<NI src="D-BNu">
+<pg n="1"/>
+Mein gütigster <persName key="59345">Herr Hofrath</persName>!<lbr type="forced"/>
+<lbr type="forced"/>
+Da ich in den letzten Tagen des Jahres, so sehr beschäftiget<lbr/>
+bin, so muß ich zur Feder meine Zuflucht nehmen,<lbr/>
+um Sie Verehrtester! zu bitten, mir auch in diesem Jahre,<lbr/>
+bei <div type="commentary" xml:id="commentID2130_1">meinen <rend class="latin">Quartetten</rend><note corresp="#commentID2130_1">Franz Xaver Wolfgang Mozart veranstaltete in Wien von 1839 bis 1844 regelmäßige private Quartettmusiken. 
+Sie fanden von Advent bis  Ende der Fastenzeit, in der Regel mittwochs, statt.</note></div>, <div type="commentary" xml:id="commentID2130_2">Ihre Gegenwart<note corresp="#commentID2130_2">Joseph von Spaun war bereits während seiner Lemberger 
+Zeit 1825/26 Zuhörer bei Mozarts privaten Hausmusiken gewesen.</note></div> nicht zu versagen;<lbr/>
+diese finden nun jeden Dienstag im Laufe dieses Winters<lbr/>
+Statt; soll unsere Freude vollko<abbr type="topline" expand="mm">m</abbr>en se&#255;n, darf so ein ächter<lbr/>
+Kunstfreund, und Kenner, wie Sie mein Herr Hofrath nicht fehlen.<lbr/>
+mit der ausgezeichnetesten Verehrung,<lbr type="forced"/>
+<ts>_________________________________</ts><tspdf>\hfill </tspdf>Ihr ganz ergebener Diener, und Freund<lbr type="forced"/>
+Am 30<h><uu>ten</uu></h>&#160;<rend class="latin">X<h><uu>ber</uu></h></rend>&#160;<abbr type="topline" expand="1842">842</abbr>.<ts>_______________________</ts><tspdf>\hfill </tspdf><persName key="39407"><rend class="latin">W. A. Mozart.</rend></persName><lbr type="forced"/>
+<lbr/>
+<add_seal type="owner">KÖNIGL. UNIVERSITÄTS-BIBLIOTHEK<lbr/>
+BONN</add_seal>
+<pg n="2"/>
+<anschrift>Seiner Hochgeborn<lbr type="forced"/>
+dem Herrn Hofrathe <rend class="latin">Joseph</rend><lbr type="forced"/>
+Edlen von <u><rend class="latin">Spaun</rend></u> etc.<lbr type="forced"/>
+In der <rend class="latin">Lotto Diréction</rend> auf dem Salzgries.</anschrift>
+</NI></text>
+</MUP>

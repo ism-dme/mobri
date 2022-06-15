@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="2254">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-06</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=2254</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Verbleib unbekannt (Vorlage: Abschrift ca. 1828 in A-Sm)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-06-03">last file update: <date>Fri Jun  3 14:23:33 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="ID_2254.mup">
+<HEADER id="2254">FRANZ XAVER WOLFGANG MOZART AN CONSTANZE NISSEN IN SALZBURG<lbr/>
+LEMBERG, 28. DEZEMBER 1827<lbr/>
+Abschrift von Anton Jähndl, ca. 1828</HEADER>
+<pg n="1"/>
+<tshtm><additum>[... (Schluss der Abschrift des Briefes von Franz Xaver Wolfgang Mozart an Constanze Nissen vom 12. Oktober 1827.)]</additum></tshtm><lbr/>
+<lbr/>
+Meine liebe gute <persName key="48818">Mutter</persName>!<ts>______________</ts><tspdf>\hfill </tspdf>Lemberg 28 Dez. 1827.<lbr type="forced"/>
+In der Hoffnung, daß du meinen <div type="commentary" xml:id="commentID2254_0">Brief von 12 Oktob:<note corresp="#commentID2254_0">Brief vom 12. Oktober 1827.</note></div> erhalten<lbr/>
+hast, melde ich dir, daß <div type="commentary" xml:id="commentID2254_1">dein Schreiben<note corresp="#commentID2254_1">Brief nicht erhalten.</note></div> von demselben Datum<lbr/>
+mir gleichfalls zugeko<abbr type="topline" expand="mm">m</abbr>en ist. Es wäre wohl meine Schuldig<pc force="weak">=</pc><lbr/>keit gewesen, dir früher zu schreiben und Dir das weiter<lbr/>
+unten Folgende zu erzählen; aber mit dem besten Willen<lbr/>
+von der Welt, war es mir nicht möglich früher dazu zuko<abbr type="topline" expand="mm">m</abbr>en.<lbr/>
+Ich eile nun, das Versäumte nachzuholen, und zwar um so mehr,<lbr/>
+weil ich sonst mit meinem herzlichsten Wunsche zum neuem<lbr/>
+Jahre und zu <div type="commentary" xml:id="commentID2254_2">deinem Geburtstag<note corresp="#commentID2254_2">5. Januar 1762.</note></div> zu spät ko<abbr type="topline" expand="mm">m</abbr>en könnte.<lbr/>
+Der Hi<abbr type="topline" expand="mm">m</abbr>el erhalte dich noch lange, wohl und zufrieden, und<lbr/>
+vergönne mir das Glück, dir noch recht viele Freude zu<lbr/>
+machen. Wie sehr hätte ich gewünscht, dich an meinem Namens<pc force="weak">=</pc><lbr/>tage be&#255; mir zu haben, um Zeuge des Vergnügens zu se&#255;n,<lbr/>
+das man mir bereitete. &#8211; Mondtag, am 29sten Oktober,<lbr/>
+als am gewöhnlichen Versa<abbr type="topline" expand="mm">m</abbr>lungstage <div type="commentary" xml:id="commentID2254_3">meines Cäcilien<pc force="strong">=</pc><lbr/><pg n="2" type="wordsep"/>Chores<note corresp="#commentID2254_3">Franz Xaver Wolfgang Mozart hatte den Lemberger Cäcilien-Verein im April 1826 gegründet.</note></div>, fand ich zu meinem nicht geringen Erstaunen be&#255;<lbr/>
+meinem Eintritte den Saal schon beleuchtet, alle Mitglieder<lbr/>
+des Vereins schon versa<abbr type="topline" expand="mm">m</abbr>elt, |: sonst bin ich i<abbr type="topline" expand="mm">m</abbr>er der erste :|<lbr/>
+und die Gesellschaft noch <suppl hand="self" pos="supra">durch</suppl> dazu eingeladene Gäste vermehrt.<lbr/>
+Alle Herren waren schwarz, und die Damen auch festlich ge<pc force="weak">=</pc><lbr/>kleidet. Ich war wirklich stu<abbr type="topline" expand="mm">m</abbr> vor Staunen und Verwirrung;<lbr/>
+endlich nöthigte man mich zu sitzen, und zugleich traten aus<lbr/>
+einem Nebenzi<abbr type="topline" expand="mm">m</abbr>er 6 der jüngsten und schönsten Mädchen<lbr/>
+des Vereines, gekleidet in die Farbe der Unschuld, und über<pc force="weak">=</pc><lbr/>reichten mir auf einer eigends hierzu gestickten Tasse,<lbr/>
+auf der lauter musikalische Instrumente dargestellt<lbr/>
+waren, einen sehr schönen silbernen und inwendig ver<pc force="weak">=</pc><lbr/>goldeten Becher nebst Untertasse mit einem Lorbeerkranze<lbr/>
+umwunden. Auf dem Becher ist die Inschrift: <u>Der Lemberger<lbr/>
+Cäcilien=Chor seinem verehrten Stifter und Direktor</u><lbr/>
+<persName key="39407"><u>W. A. M.</u></persName><u> zur freundlichen Eri<abbr type="topline" expand="nn">n</abbr>erung an 31sten Oktober<lbr/>
+1827;</u> auf der Untertasse sind die Worte: <u>Kurz ist das<lbr/>
+Leben, ewig bleibend die Kunst.</u> Während der Becher über<pc force="weak">=</pc><lbr/>reicht wurde, sang der Mä<abbr type="topline" expand="nn">n</abbr>er=Chor das <div type="commentary" xml:id="commentID2254_4">Gedicht<note corresp="#commentID2254_4">Der Text des Chores „Blumen winden Himmels-Mächte“ von Wenzel Joseph Rolletschek 
+war in einem Bericht über dieses Fest zu Ehren Franz Xaver Wolfgang Mozarts in der Lemberger 
+Zeitung <i>Mnemoysne</i> am 3. November 1827, S. 345, abgedruckt. 
+Mozart sandte das Zeitungsblatt in diesem Brief mit.
+Das Gedicht wurde in der <i>Biographie W. A. Mozart’s</i> von Georg Nikolaus 
+Nissen (Leipzig 1828/29) auf S. 607–608 abgedruckt. Die Musik ist unbekannt.</note></div>&#160;<add_note  schr_id="75929" type="inline">|: <rend class="latin">N<h><uu>o</uu></h></rend>. 1. :|</add_note>,<lbr/>
+welches ein Vereinsmitglied, <persName key="84147">Hr. <rend class="latin">Rolletschek</rend></persName>, Kapellmei<pc force="weak">=</pc><lbr/>ster an der griechischkatholischen Domkirche in Musik<lbr/>
+gesetzt hatte. Als dieß geendiget war, und die Damen<lbr/>
+<pg n="3"/>
+wieder an Ihren Pulten waren, wurde noch eine <div type="commentary" xml:id="commentID2254_5">zwe&#255;te Can<pc force="weak">=</pc><lbr/>tate<note corresp="#commentID2254_5">Der Text der Kantate <i>Worte des Dankes</i> war anlässlich des Festes zu Ehren von Franz Xaver Wolfgang Mozart 
+separat gedruckt worden. Mozart sandte das achtseitige Heftchen in diesem Brief mit. Der Kantatentext wurde 
+in der <i>Biographie W. A. Mozart’s</i> von Georg Nikolaus Nissen (Leipzig 1828/29) auf S. 608–610 abgedruckt. 
+Die Musik ist unbekannt.</note></div> für den ganzen Chor, von einem <persName key="84752">Vereinsmit<pc force="weak">=</pc><lbr/>gliede</persName> in Musik gesetzt, mit vielen schönen und sinnreichen<lbr/>
+Anspielungen auf meinen <persName key="39409">Vater</persName> und mich etc gesungen <emend value="">|:</emend><lbr/>
+<add_note schr_id="75929" type="inline">|: <rend class="latin">N<h><uu>ro</uu></h></rend> 2 :|</add_note>. Nach beendigtem Gesange wurde der Becher mit<lbr/>
+Wein gefüllt, und die ganze Gesellschaft trank daraus auf<lbr/>
+mein und des Cäcilienchors Wohl und Gedeihen. Nachdem<lbr/>
+nun auch für den Gaumen gesorgt war, denn es wurden<lbr/>
+nebst Wein auch Backere&#255;en u. d. gl. herumgetragen, fieng<lbr/>
+das junge Volk <suppl hand="self" pos="supra">an</suppl> be&#255;m Clavier zu tanzen, und so endete<lbr/>
+fröhlich dieser für mich gleich ehrenvolle als freundliche<lbr/>
+Abend. Meine Freude wurde durch das reine Vergnügen<lbr/>
+erhöht, das von jedem Gesichte strahlte. Die Gesellschaft<lbr/>
+bestand aus 45 Mitgliedern, und 23 Gästen. Tags darauf<lbr/>
+wurde ich noch von allen meinen Schüleri<abbr type="topline" expand="nn">n</abbr>en mit niedlichen<lbr/>
+Handarbeiten beschenkt. &#8211; &#8211; &#8211; &#8211; <lbr/>
+<add_note schr_id="75929"><div type="commentary" xml:id="commentID2254_6"><u>Hier sind einzuschalten N<h>ro</h> I und II.</u><note corresp="#commentID2254_6">Dieser Hinweis bezieht sich auf die beiden erwähnten Einlagen im Druckmanuskript 
+zur <i>Biographie W. A. Mozart’s</i> von Georg Nikolaus Nissen (Leipzig 1828/29), die nach dem Brief abgedruckt werden sollten.</note></div> &#8211; &#8211; &#8211; </add_note>
+<lbr/>
+<tshtm><additum>[... (Beginn der Abschrift des Briefes von Franz Xaver Wolfgang Mozart an Constanze Nissen vom 16. Januar 1828.)]</additum></tshtm>
+
+</text>
+</MUP>

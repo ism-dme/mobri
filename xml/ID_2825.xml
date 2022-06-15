@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="2825">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-06</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=2825</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Verbleib unbekannt (Nachweis: Otto Schmid, "Wolfgang Amadeus Mozart Sohn", in: Neue Musik-Zeitung 1888, Bd. 9, Nr. 12, S. 144)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-05-11">last file update: <date>Wed May 11 14:48:31 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="ID_2825.mup">
+<HEADER id="2825">FRANZ XAVER WOLFGANG MOZART AN ANTON JÄHNDL IN SALZBURG<lbr/>
+LEMBERG, 17. APRIL 1827</HEADER>
+<NI src="unbekannt">
+<pg n="1"/>
+Lieber guter <persName key="75929">Freund</persName>!<ts>______________</ts><tshtm>_____________________________________</tshtm><tspdf>\hfill </tspdf>Lemberg den 17. April 1827<lbr type="forced"/>
+Der Inhalt meines heutigen Schreibens an meine <persName key="48818">Mutter</persName> wird mich
+wohl auch bei Ihnen entschuldigen, daß ich Ihren lieben <div type="commentary" xml:id="commentID2825_1">Brief vom 23. Februar<note corresp="#commentID2825_1">Brief nicht erhalten.</note></div> so
+lange unbeantwortet ließ. &#8211; Wir alle können Ihnn nie
+nach Gebühr unsern Dank für Ihre wirklich großmütige und freundschaftliche
+Aufopferung, mit der Sie sich <div type="commentary" xml:id="commentID2825_2">unseres Interesses<note corresp="#commentID2825_2">Anton Jähndl stellte aus den von Georg Nikolaus Nissen hinterlassenen Materialien zu einer 
+<i>Biographie W. A. Mozart’s</i> ein Druckmanuskript her. Nach einer Endredaktion durch 
+Johann Heinrich Feuerstein erschien die Biographie Anfang 1829 bei Breitkopf &#38; Härtel in Leipzig.</note></div> annehmen, bezeugen und es
+kömmt aus dem Grunde meines Herzens, wenn ich Ihnen sage, daß ich sehnlich
+wünsche, einst in die Lage zu kommen, Ihnen wenn auch nicht zu vergelten,
+doch wenigstens meine aufrichtigste Freundschaft und Anhänglichkeit zu beweisen.
+Mit dem morgen abgehenden Eilwagen erhält meine gute <persName key="48818">Mutter</persName> die Familien=Briefe.
+Es ist wahr, mein <persName key="39409">Vater</persName> wurde von dem damaligen
+<persName key="83053">Fürstbischof</persName> unwürdig behandelt,
+aber ich empfehle doch, dies so schonend wie möglich zu berühren, denn
+wenn auch der Bischofsstab nicht erblich ist, so ist doch eine Art geistiger
+Verwandtschaft, und &#8211; es könnte mir vielleicht in <div type="commentary" xml:id="commentID2825_3">meinen Plänen<note corresp="#commentID2825_3">Franz Xaver Wolfgang Mozart machte sich Hoffnungen auf die Stelle als Domkapellmeister in Salzburg.</note></div> schaden. &#8211; 
+Zugleich erhält meine <persName key="48818">Mutter</persName> 30 Gulden R. W.,
+um <emend value="sie">Sie</emend> Ihnen zu übergeben. Diese machen mit den Ihnen
+früher gegebenen 60 Gulden aus. Ihre Auslage beträgt 49 Gulden 36 Kreuzer,
+also bleibt für das, was noch folgt, 10 Gulden 24 Kreuzer. &#8211;
+Ist Ihr Vorrat noch nicht unterwegs, so bitte
+ich Sie, es zu beschleunigen, und womöglich unter meiner Adresse an
+<persName key="75458">Haslinger</persName> in Wien zu senden, der mir es dann auf wohlfeilere
+Art zuschicken kann, denn mit der Post kommt es zu teuer. Vielleicht findet sich jetzt
+eine Kaufmannsgelegenheit nach Wien, da ohnedies bald Markt ist; wenn nicht,
+so senden Sie es, versteht sich, mit dem Postwagen an Haslinger nach Wien. &#8211; 
+Leben Sie wohl, lieber Freund, schreiben Sie bald, grüßen Sie alle Bekannte
+und behalten Sie lieb Ihren<ts>_______________________</ts><tspdf>\hfill </tspdf><persName key="39407">Mozart</persName>.<lbr type="forced"/>
+Freund <persName key="53216">Hacker</persName> bitte ich zu sagen, daß ich meine Schuld
+schon an <persName key="75458">Herrn Haslinger</persName> berichtigt habe. Sobald mein Kopist
+mit dem <persName key="38664">Cherubinischen</persName>&#160;<workName key="11575">Requiem</workName> fertig ist, das ich <div type="commentary" xml:id="commentID2825_4">zu
+<persName key="64205">Beethovens</persName> Totenfeier geben werde<note corresp="#commentID2825_4">Franz Xaver Wolfgang Mozart ließ in Lemberg das Requiem von Luigi Cherubini 
+mit dem von ihm 1826 gegründeten Cäcilien-Verein anlässlich des 
+Todes von Ludwig van Beethoven aufführen. Das genaue Aufführungsdatum 
+und der -ort sind nicht bekannt.</note></div>, wird seine erste Arbeit
+der gewünschte <workName key="5556"><rend class="latin">Davidde penitente</rend></workName> sein, den ich Sie bitten werde, als ein kleines Andenken von mir anzunehmen.
+</NI>
+</text>
+</MUP>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="2334">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-06</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=2334</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Wgm</bibl>
+                <bibl type="source" subtype="long">A-Wgm: Gesellschaft der Musikfreunde in Wien</bibl>
+                <bibl type="source" subtype="long">Bibliothek und Archiv. Wien (AUT)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-05-11">last file update: <date>Wed May 11 14:48:30 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="ID_2334.mup">
+<HEADER id="2334">FRANZ XAVER WOLFGANG MOZART AN DIE GESELLSCHAFT DER MUSIKFREUNDE IN WIEN<lbr/>
+WIEN, 23. APRIL 1841</HEADER>
+<NI src="A-Wgm">
+<pg n="1"/>
+<u>An den leitenden Ausschuß, der Gesellschaft der Musikfreunde<lbr type="forced"/> 
+des österreichischen Kaiser=Staates.</u><lbr type="forced"/>
+<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_________________________</ts>Hochgeehrte Herrn!<lbr type="forced"/>
+<lbr type="forced"/>
+Ihr ehrenvolles <div type="commentary" xml:id="commentID2334_1">Schreiben<note corresp="#commentID2334_1">Brief nicht erhalten.</note></div>, nebst <div type="commentary" xml:id="commentID2334_2"><rend class="latin">Diplom</rend><note corresp="#commentID2334_2">Das Diplom ist auf den 15. Feburar 1841 datiert.</note></div>, wodurch Sie mich zum Ehren<pc force="strong">=</pc><lbr/>Mitgliede erne<abbr type="topline" expand="nn">n</abbr>en, habe ich zu meiner großen Freude erhalten.<lbr type="forced"/>
+Die Auszeichnung, welche mir die Gesellschaft zu Theil werden läßt, ist mir<lbr/>
+um so werthvoller, und verpflichtet mich um so mehr zum lebhaftesten Danke, als<lbr/>
+ich mir wohl nicht schmeicheln ko<abbr type="topline" expand="nn">n</abbr>te, durch meine geringen Verdienste, Ihre<lbr/>
+Aufmerksamkeit auf mich gelenkt, und es verdient zu haben, auf eine so<lbr/>
+unerwartete und ehrende Weise, von einer der <u>ersten</u> Gesellschaften Deutschlands,<lbr/>
+in meinem Streben, ermuntert zu werden. Für diese Aufmunterung, und<lbr/>
+mir erwiesene große Ehre, bitte ich Sie die Versicherung entgegen zu nehmen,<lbr/>
+<abbr expand="daß">dß</abbr> ich mit Vergnügen jede Gelegenheit ergreifen werde, der hochgeehrten<lbr/>
+Gesellschaft der Musikfreunde des österreichischen Kaiserstaates, meine tiefgefühlte<lbr/> 
+Verehrung und Dankbarkeit zu beweisen. Meinen Hochgeehrten Herrn<lbr type="forced"/> 
+<ts>____________________________</ts><tshtm>________________________________________________</tshtm><tspdf>\hfill </tspdf>ergebenster<lbr type="forced"/>		
+<u><rend class="latin">Wien</rend>, am 23<h><uu>t</uu></h>&#160;<rend class="latin">April</rend>&#160;<abbr type="topline" expand="1841">841</abbr></u><ts>____________</ts><tshtm>________________________________</tshtm><tspdf>\hfill </tspdf><persName key="39407">W A Mozart</persName><lbr type="forced"/>
+<pg n="2"/>
+<vacat/>
+<pg n="3"/>
+<vacat/>
+<pg n="4"/>
+<add_empf schr_id="75976"><u>No 65. ca</u><ts>_______</ts><rend class="latin">praes.</rend> 23 Apr. <abbr type="topline" expand="1841">841</abbr><lbr/>
+<ts>_____</ts>801</add_empf><lbr/>                    
+<lbr/>
+<lbr/>
+<lbr/>
+<add_empf schr_id="75976">Damit zur Wissenschaft<lbr/>
+und geht ad Acta.<lbr/>
+Wien am 24<h><uu>t</uu></h> April <abbr type="topline" expand="1841">841</abbr>.<lbr/>
+Vom leit Ausschusse<lbr/>
+<ts>___</ts><persName key="75976"><u>Jenger</u></persName></add_empf>  
+</NI></text>
+</MUP>

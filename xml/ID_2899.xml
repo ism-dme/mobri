@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="2899">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-06</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=2899</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">US-Wc</bibl>
+                <bibl type="source" subtype="long">US-Wc: Library of Congress, Music Division. Washington, D.C. (USA)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-06-03">last file update: <date>Fri Jun  3 11:18:21 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="ID_2899.mup">
+<HEADER id="2899">FRANZ XAVER WOLFGANG MOZART AN JOHANN ANTON ANDRÉ IN OFFENBACH<lbr/>
+LEMBERG, 7. JUNI 1826</HEADER>
+<NI src="US-Wc">
+<pg n="1"/>
+<ts>_______________</ts>Geehrtester <persName key="49118">Herr Hofrath</persName><lbr type="forced"/>
+<lbr type="forced"/>
+Das kunstsi<abbr type="topline" expand="nn">n</abbr>ge, und durch öffentliche Blätter, beka<abbr type="topline" expand="nn">n</abbr>t gewor<pc force="weak">=</pc><lbr/>dene Unternehmen Euer Wohlgeboren, eine neue Ausgabe des<lbr/>
+<persName key="39409">Mozart’schen</persName>&#160;<workName key="7373"><rend class="latin">Requiems</rend></workName> in einer Zeit zu veranstalten, wo die <div type="commentary" xml:id="commentID2899_">Schmäh<pc force="weak">=</pc><lbr/>und Zweifelsucht<note corresp="#commentID2899_1">Mit der Publikation seines Artikels „Über die Echtheit des Mozartschen Requiem“ in der Zeitschrift <i>Cäcilia, eine Zeitschrift für die 
+musikalische Welt</i> (Mainz 1825, Bd. 2, Heft 11, S. 205–229) hatte Gottfried Weber, Herausgeber dieser Zeitung, die Authentizität 
+des Requiems von Wolfgang Amadé Mozart in Frage gestellt. Der daraufhin vorrangig publizistisch geführte sogenannte „Requiem-Streit“ 
+konnte erst mit dem Auftauchen der einzelnen autographen Manuskripte in den nachfolgenden Jahren beendet werden.</note></div> auch die herrlichsten Erzeugniße deutscher Genien anzu<pc force="weak">=</pc><lbr/>tasten wagt, ist ein so verdienstliches Werk, daß Euer Wohlgeboren,<lbr/>
+schon durch die Förderung der Hauptabsicht allein, sich das schönste<lbr/>
+Monument, in der <rend class="latin">Litterar</rend> und Kunstwelt errichten. Durch den edelmüthigen<lbr/>
+besondern Zweck aber, welchen Euer Wohlgeboren, geleitet von den<lbr/>
+wohlwollendsten Gesi<abbr type="topline" expand="nn">n</abbr>ungen gegen die Angehörigen <persName key="39409">Mozarts</persName>, damit ver<pc force="weak">=</pc><lbr/>binden, indem Sie den Ertrag der <rend class="latin">Subscription</rend> auf diese Ausgabe, den <persName key="48820 39407">Söhnen</persName><lbr/>
+des verewigten Tonsetzers besti<abbr type="topline" expand="mm">m</abbr>en, gründen Sie sich ein gleich ehrenvolles<lbr/>
+Denkmal im Tempel der Humanität. Zugleich tritt dadurch das Vorhaben<lbr/>
+selbst, in eine so nahe, i<abbr type="topline" expand="nn">n</abbr>ige Beziehung auf und, <abbr expand="daß">dß</abbr> wir nicht umhin kö<abbr type="topline" expand="nn">n</abbr>en,<lbr/>
+<pg n="2"/>
+der uns eben so heiligen als angenehmen Pflicht, des Dankes gegen<lbr/>
+Euer Wohlgeboren, in diesen Zeilen zu genügen.<lbr type="forced"/>
+<lbr type="forced"/>
+Genehmigen Sie dennoch die Versicherung, <abbr expand="daß">dß</abbr> wir, durch die Un<pc force="weak">=</pc><lbr/>Eigennützigkeit des Unternehmens auf das erfreulichste überrascht, (da<lbr/>
+es das erstemahl ist, <abbr expand="daß">dß</abbr> den <persName key="48820 39407">Söhnen</persName>&#160;<persName key="39409">Mozarts</persName>, von den Werken ihres un<pc force="weak">=</pc><lbr/>sterblichen Vaters ein Vortheil zufließen soll) mit den Gesi<abbr type="topline" expand="nn">n</abbr>ungen<lbr/>
+der reinsten Hochachtung und Verehrung, die wir Ihnen von jeher<lbr/>
+zollten, nunmehr auch die wärmsten Gefühle, nie erlöschenden Dankes<lbr/>
+vereinigen, mit denen wir die Ehre haben zu verharren<lbr type="forced"/>
+<ts>____________________</ts><tshtm>_____________________________</tshtm><tspdf>\hfill </tspdf>Euer Wohlgeboren ergebensten<lbr type="forced"/>
+<ts>_____________________</ts><tshtm>____________________________</tshtm><tspdf>\hfill </tspdf>Brüder <persName key="48820"><rend class="latin">Carl</rend></persName> und <persName key="39407"><rend class="latin">Wolfgang A Mozart</rend></persName>.<lbr type="forced"/>
+<lbr type="forced"/>
+<u>Lemberg am 7<h><uu>t</uu></h> Juni 1826</u>
+<pg n="3"/>
+<add_seal type="owner">THE LIBRARY OF CONGRESS</add_seal>
+<tspdf>\newpage </tspdf> 
+<pg n="4"/>
+<anschrift rot="90">S<h><uu>r</uu></h> Hochwohlgeboren<lbr type="forced"/>
+Herrn <rend class="latin">Joh. Ant. André</rend><lbr type="forced"/>
+Großherzogl. Hessischer Hofrath<lbr type="forced"/>
+<u>in <rend class="latin">Offenbach</rend></u><lbr type="forced"/>
+a/m.</anschrift><lbr/>
+<add_seal type="post">LEMBERG</add_seal>
+<add_empf schr_id="49118"><u><rend class="latin">Lemberg</rend></u> d<abbr v="en"/> 7<h>t</h>&#160;<rend class="latin">Juny</rend> 26.<lbr/> 
+<ts>_______________</ts>19<h>t</h><lbr/>
+<u><rend class="latin">Carl</rend> und <rend class="latin">W. A Mozrt</rend>.</u><lbr/>
+<u>B. A d<abbr v="en"/> 20<h>t</h>&#160;<rend class="latin">July</rend> 27.</u></add_empf>
+</NI>
+</text>
+</MUP>

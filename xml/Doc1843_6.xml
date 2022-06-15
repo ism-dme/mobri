@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="2357">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-6</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=2357</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+                <bibl type="source" subtype="long">A-Sm: Internationale Stiftung Mozarteum, Bibliotheca Mozartiana. Salzburg (AUT)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-05-11">last file update: <date>Wed May 11 14:48:24 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="Doc1843_6.mup">
+<HEADER id="2357">FRANZ XAVER WOLFGANG MOZART AN CARL WILHELM DOELL IN KARLSRUHE<lbr/>
+WIEN, 3. SEPTEMBER 1843</HEADER>
+<pg n="1"/>
+S<h>r</h> Wohlgeborn, Herrn <persName key="74324"><rend class="latin">D<h><uu>r</uu></h> Doell</rend></persName>, Großh: bad. Münzmeister<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>______________</ts>Wohlgeborner,<lbr type="forced"/> 
+<ts>_____________________________</ts>Verehrtester <persName key="74324">Herr</persName>!<lbr type="forced"/>
+<lbr type="forced"/>
+Ich ka<abbr type="topline" expand="nn">n</abbr> Ihnen die freudige Uebe<abbr type="topline" expand="rr">r</abbr>aschung nicht wohl beschreiben, die ich<lbr/>
+be&#255;m Empfange der schönen <div type="commentary" xml:id="commentID2357_1"><rend class="latin">Medaille</rend><note corresp="#commentID2357_1">Der großherzoglich badische Münzmeister Carl Wilhelm Doell hatte 1843 
+zu Ehren Wolfgang Amadé Mozarts eine Medaille hergestellt.
+Doell übersandte Franz Xaver Wolfgang Mozart für ihn und seinen 
+Bruder Carl Thomas zwei Medaillen in Silber.</note></div> empfand, die Sie zur Verherrlichung<lbr/>
+meines unvergeßlichen <persName key="39409">Vaters</persName>, von Ihrer Meisterhand verfertigt, ans<lbr/>
+Licht treten ließen. Nehmen Sie meinen, und meines <persName key="48820">Bruders</persName> Dank<lbr/>
+gütig auf, für die liebevollen Worte, die dieses uns so theure Geschenk<lbr/>
+begleiteten, und ihm die letzte Weihe verliehen. Ermeßen Sie selbst,<lbr/>
+verehrtestr Herr! der Sie <persName key="39409"><rend class="latin">Mozart</rend></persName> so hoch stellen, welche Freude<lbr/>
+Sie den Söhnen des Gefe&#255;erten, durch die Ausführung eines so schönen<lbr/>
+Kunstwerkes bereiten mußten. Ich finde die <rend class="latin">Medaille</rend> eben so schön<lbr/>
+ausgeführt als gedacht, die <rend class="latin">Motto’s</rend> und <div type="commentary" xml:id="commentID2357_2">Anspielungen auf die Werke meines<lbr/>
+<persName key="39409">Vaters</persName><note corresp="#commentID2357_2">Auf der Rückseite befinden sich Anspielungen auf folgende Werke: 
+<i>Don Giovanni</i> KV 527, <i>Così fan tutte</i> KV 588, <i>Die Zauberflöte</i> KV 620 
+und das <i>Requiem</i> KV 626.</note></div>, vortrefflich. Ueber <div type="commentary" xml:id="commentID2357_3">die Aehnlichkeit<note corresp="#commentID2357_3">Auf der Vorderseite der Medaille befindet sich ein Brustbild 
+von Wolfgang Amadé Mozart im Profil.</note></div>, ka<abbr type="topline" expand="nn">n</abbr> ich leider, aus eigner<lbr/>
+Erfahrung nicht urtheilen, da ich be&#255; meines Vaters Tode, noch nicht fünf<lbr/>
+<pg n="2"/>
+Monate zählte, glaube aber nach den vorhandnen Kupferstichen, <abbr expand="daß">dß</abbr> Sie<lbr/>
+dieselbe ganz richtig aufgefaßt haben.<lbr type="forced"/>
+Schlüßlich nehmen Sie auch meinen Dank, für Ihre mir freundlichst<lbr/>
+zugesandte <div type="commentary" xml:id="commentID2357_4"><rend class="latin">Composition</rend><note corresp="#commentID2357_4">Nicht bekannt.</note></div>, die mir, der darein verwebten Eri<abbr type="topline" expand="nn">n</abbr>erung<lbr/>
+an <persName key="39409"><rend class="latin">Mozart</rend></persName> wegen, doppelte Freude machte. &#8211; &#8211; Empfangen Sie,<lbr/>
+Verehrtester Herr! die Ausdrücke der i<abbr type="topline" expand="nn">n</abbr>igsten Hochachung und<lbr/>
+Ergebenheit, mit der sich zeichnet<lbr type="forced"/>
+<ts>____________</ts><tshtm>__________________________________</tshtm><tspdf>\hfill </tspdf>Euer Wohlgeborn dankerfüllter<lbr type="forced"/>
+<lbr type="forced"/>
+<u><rend class="latin">Wien</rend> am 3<h><uu>t</uu></h>&#160;<rend class="latin">Sept</rend>: <abbr type="topline" expand="1843">843</abbr></u><ts>_____________</ts><tspdf>\hfill </tspdf><persName key="39407"><rend class="latin">Wolfgang Amadeus Mozart</rend></persName>&#160;<abbr expand="manu propria">mp</abbr><lbr type="forced"/> 
+<ts>______________</ts><tshtm>___________________________________________________________________</tshtm><tspdf>\hfill </tspdf>sohn.
+<pg n="3"/>
+<vacat/>
+<pg n="4"/>
+<vacat/>
+</text>
+</MUP>

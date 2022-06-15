@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="3090">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-06</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=3090</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Wn</bibl>
+                <bibl type="source" subtype="long">A-Wn: Österreichische Nationalbibliothek. Wien (AUT)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-05-11">last file update: <date>Wed May 11 14:48:31 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="ID_3090.mup">
+<HEADER id="3090">KARL REGER AN FRANZ XAVER WOLFGANG MOZART IN WIEN<lbr/>
+MÜNCHEN, 18. SEPTEMBER 1842</HEADER>
+<NI src="A-Wn">
+<pg n="1"/>
+<ts>__________________________________________</ts><tspdf>\hfill </tspdf>München den 18 September.<lbr type="forced"/>
+Hochverehrtester <persName key="39407">Herr</persName>!<ts>__________________________________</ts><tspdf>\hfill </tspdf><u>1842</u><lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____</ts>Ein Ihnen wohl gänzlich unbekannter, aber innigster<lbr/>
+Verehrer Ihres unsterblichen Herrn <persName key="39409">Vaters</persName> ni<abbr type="topline" expand="mm">m</abbr>t sich<lbr/>
+die Freiheit, Ihnen, nachträglich zur stattgehabten <div type="commentary" xml:id="commentID3090_1">Fe&#255;er<note corresp="#commentID3090_1">Die Feierlichkeiten zur Enthüllung des Mozart-Denkmals vom 4. bis zum 6. September 1842 in Salzburg.</note></div>,<lbr/>
+eine neue schwache Danklegung seiner Empfindungen und<lbr/>
+Gefühle zu übersenden. Denn wie sollte ich Worte finden,<lbr/>
+sie in der Art auszudrücken, wie sie vor meiner Seele<lbr/>
+stehen.<lbr type="forced"/>
+<ts>_____</ts>Ich glaubte es nicht wagen zu dürfen, be&#255; dem<lbr/>
+Zusa<abbr type="topline" expand="mm">m</abbr>enströ<abbr type="topline" expand="mm">m</abbr>en aller musikalischen Notabilitäten<lbr/>
+Deutschlands zur Verherrlichung dieses wahrhaft nazion<pc force="weak">=</pc><lbr/>alen Festes mit dieser Kleinigkeit <suppl hand="self" pos="supra">zu</suppl> erscheinen: &#8211; sie soll<lbr/>
+daher nur Ihnen, und Ihrem <persName key="48820">Herrn Bruder</persName> in Mailand,<lbr/>
+dessen Bekanntschaft <persName key="85041">meine Frau</persName> alldort nebst jener<lbr/>
+des biedern und verdienstvollen <persName key="38843">Doktors Lichtenthal</persName> machte,<lbr/>
+gewidmet se&#255;n, und ich bin überzeugt, daß Sie diese ob<pc force="weak">=</pc><lbr/>gleich unbedeutende Gabe in Güte aufnehmen, und mit<lbr/>
+Nachsicht beurtheilen werden.<lbr type="forced"/>
+<pg n="2"/>
+<ts>_____</ts>Ich hatte vor nahe an 30 Jahren für eine damalige Hoffe&#255;er<pc force="weak">=</pc><lbr/>lichkeit eine <div type="commentary" xml:id="commentID3090_3">Cantate<note corresp="#commentID3090_3">Nicht ermittelt. Der bayerische Beamte Karl Reger war schriftstellerisch tätig 
+und lieferte für mehrere Vokalkompositionen Peter von Winters Textvorlagen, darunter 
+für die deutschen Opern <i>Marie von Montalban</i> (1800) und <i>Iphigenie in Aulis</i> (1807) sowie 
+für mehrere Gelegenheitskantaten. Außerdem übersetzte er italienische Libretti von Peter von 
+Winter, darunter <i> Maometto Secondo</i> (1817, übers. 1819).</note></div> gedichtet, welche unserm verdienstvollen<lbr/>
+Capellmeister <persName key="64946">Winter</persName> zur Composition übertragen wurde;<lbr/>
+die Musick ist effektreich, und schien mir für diese Gelegen<pc force="weak">=</pc><lbr/>heit passend, ich wollte sie der Vergessenheit ǀ: dem gewöhn<pc force="weak">=</pc><lbr/>lichen Schicksal aller nur für ähnliche Veranlassungen be<pc force="weak">=</pc><lbr/>sti<abbr type="topline" expand="mm">m</abbr>ten Compositionen :ǀ entreißen, und sezte <div type="commentary" xml:id="commentID3090_4">beiliegenden<lbr/> 
+Text<note corresp="#commentID3090_4">Das Gedicht <i>Mozarts Apotheose</i>.</note></div> darunter, welcher, außer wenigen erforderlichen kleinen<lbr/>
+Punktationen sich wohl unter die Musick fügen dürfte.<lbr type="forced"/>
+<ts>_____</ts>Es ist i<abbr type="topline" expand="mm">m</abbr>er eine schwere Aufgabe, unter eine für<lbr/>
+einen ganz andern Zweck besti<abbr type="topline" expand="mm">m</abbr>te Composition einen<lbr/>
+Text unterzulegen, der für den Charakter des musikali<pc force="weak">=</pc><lbr/>schen Gedankens nicht fremdartig erscheint, und eben diese<lbr/>
+Gebundenheit hindert die Dichtung an freier Bewegung.<lbr type="forced"/>
+<ts>_____</ts>Bereits in meinem 73 Lebensjahre, seit<lbr/>
+einem Dezenium meines Gehörvermögens gänzlich ver<pc force="weak">=</pc><lbr/>lustig kann ich nur in der Eri<abbr type="topline" expand="nn">n</abbr>erung noch mich der<lbr/>
+<pg n="3"/>
+herrlichen Genüße erfreuen, welche mir sein bisher noch<lbr/>
+unerreichter Compositions Geist in frühern Jahren gewährten;<lbr/>
+noch schweben die unsterblichen Schöpfungen Ihres unver<pc force="weak">=</pc><lbr/>geßlichen Herrn <persName key="39409">Vaters</persName> lebhaft vor meinem Gedächtniß.<lbr/>
+Eben so unvergesslich ist mir jene glanzvolle Periode,<lbr/>
+wo durch <u>Ihn</u> die Tonkunst ihren Höhepunkt erreicht zu<lbr/>
+haben schien, um, wie die große Malerschule Italiens,<lbr/>
+sich wieder in manirierte Effekthaschere&#255; zu verlieren.<lbr/>
+Sein Genius musste Ihn erst der Welt entrücken,<lbr/>
+um das wahrhaft Große, das Erhabene, den Ethos seiner<lbr/>
+Tondichtungen verstehen und würdigen zu lernen.<lbr type="forced"/>
+<ts>_____</ts>Er theilte das Loos aller großen Geister, von<lbr/>
+der Mitwelt nicht begriffen worden zu se&#255;n. &#8211; <lbr/>
+<ts>_____</ts>Indem ich Ihnen zu dem für Sie so ruhm, und<lbr/>
+ehrenvoll statt gehabte Ereigniß der Gedächtniß<lbr/>
+Fe&#255;er Ihres seeligen Herrn Vaters meinen aufrich<pc force="weak">=</pc><lbr/>tigsten, und herzlichsten Glückswunsch darbringe<lbr/>
+verbleibe ich mit ausgezeichnetster Verehrung<lbr/>
+<ts>__________</ts>Ihr<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_______________________</ts><tspdf>\hfill </tspdf>ganz ergebenster Diener<lbr type="forced"/>                                                              
+<ts>_______________________</ts><tspdf>\hfill </tspdf><persName key="82869">Karl Reger</persName>&#160;<div type="commentary" xml:id="commentID3090_5">quieszirter<note corresp="#commentID3090_5">quieszieren (von lat. quiescere, (aus)ruhen, ruhen lassen), veraltet: in den Ruhestand versetzen.</note></div><lbr type="forced"/>
+<ts>_______________________</ts><tspdf>\hfill </tspdf>königl: Ba&#255;rischer Legations<lbr type="forced"/>
+<ts>_______________________</ts><tspdf>\hfill </tspdf>Secretär<lbr type="forced"/>
+<ts>_______________________</ts><tspdf>\hfill </tspdf>Lerchenstraße N 20 15/1<lbr type="forced"/>
+<pg n="4"/>
+<vacat/>
+</NI></text>
+</MUP>

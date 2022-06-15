@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="4455">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-06</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=4455</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">D-OF</bibl>
+                <bibl type="source" subtype="long">D-OF: Verlagsarchiv André. Offenbach/Main (DEU)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-06-08">last file update: <date>Wed Jun  8 15:02:50 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="ID_4455.mup">
+<HEADER id="4455">JOHANN ANTON ANDRÉ AN FRANZ XAVER WOLFGANG MOZART IN WIEN<lbr/>
+OFFENBACH AM MAIN, 12. JULI 1808<lbr/>
+Vorschrift im Kopierbuch des Verlags</HEADER>
+<NI src="D-OF">
+<pg n="1"/>
+<u>Wien.</u><lbr type="forced"/>
+<lbr type="forced"/>
+<ts>____</ts><persName key="39407"><rend class="latin">W. A. Mozart</rend></persName>.<ts>___________________________________</ts><tspdf>\hfill </tspdf>d<abbr type="curve"></abbr> 12 <rend class="latin">July</rend>. 08.<lbr type="forced"/>
+In höfl. Erw. Ihres <div type="commentary" xml:id="commentID4455_1">Geeh<abbr type="curve">.</abbr> v. 2 dß<note corresp="#commentID4455_1">Ein Brief vom 2. Juli 1808 ist nicht erhalten.</note></div> thut es mir sehr le&#255;d Ihren Wunsche<lbr/>
+in Betreff der Änderung der <div type="commentary" xml:id="commentID4455_2"><rend class="latin">Dedication</rend><note corresp="#commentID4455_2">Die Klaviersonate G-Dur op. 10 erschien mit einer Widmung an den französischen General 
+und Staatsmann Antoine-François Andréossy (1761–1828), der 1808 bis 1809 
+Gouverneur in Wien war. Wem Franz Xaver Wolfgang Mozart stattdessen den Druck 
+widmen wollte, ist nicht bekannt.</note></div> auf Ihrer <workName key="11558">Sonate</workName> nicht vollziehen zu<lbr/>
+können, indem bereits unter <div type="commentary " xml:id="commentID">9 dß<note corresp="#commentID" >9. Juli 1808</note></div> 46 Exemp<abbr type="curve">.</abbr> davon an Sie abgegangen sind.<lbr type="forced"/>
+<ts>_____</ts>Was Ihren gütigen Antrag, den Klavierauszug der <workName key="2063"><rend class="latin">Betulia liberata</rend></workName>von<lbr/>
+Ihrem seel. h<abbr type="curve"></abbr>&#160;<persName key="39409">Vater</persName> herauszugeben, betrift, so bedaure ich ebenfalls, hiervon kein<lbr/>
+Gebrauch machen zu können, da gegenw. schlechte Zeiten für den Musikh.<lbr/>
+nicht erlauben, sich des teüren Stichs desselben zu unterziehen.<ts>____</ts>R.
+</NI></text>
+</MUP>

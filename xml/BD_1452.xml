@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="2035">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-05</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=2035</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">D-B</bibl>
+                <bibl type="source" subtype="long">D-B: Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Musikabteilung mit Mendelssohn-Archiv. Berlin (DEU)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-05-13">last file update: <date>Fri May 13 17:08:35 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="BD_1452.mup">
+<letter bd="1452">
+<HEADER id="2035">FRANZ XAVER WOLFGANG MOZART AN GUSTAV BERGEN IN LEIPZIG<lbr/>
+LEMBERG, 6. MÄRZ 1834</HEADER>
+<NI src="D-B">
+<pg n="1"/>
+<ts>_____________________</ts>Euer <persName key="73217">Wohlgeboren</persName>!<lbr type="forced"/>
+<lbr type="forced"/>
+Bestättige ich mit Vergnügen den Empfang Ihres <div type="commentary" xml:id="commentID2035_1">geehrten vom<lbr/>
+22<h><uu>t</uu></h>&#160;<rend class="latin">Februar</rend><note corresp="#commentID2035_1">Brief vom 22. Februar 1834 nicht erhalten.</note></div>, für dessen freundlichen und schmeichelhaften I<abbr type="topline" expand="nn">n</abbr>halt, ich Ihnen<lbr/>
+recht sehr dankbar bin. Ihrem <div type="commentary" xml:id="commentID2035_2">neuen Unternehmen<note corresp="#commentID2035_2">Gustav Bergen plante die wöchentliche Herausgabe neuer Klavierstücke. Der erste Band des 
+<i>Pfennig-Magazin für Pianofortespieler. Sammlung ausgewählter Clavier-Compositionen von den 
+besten Meistern für Anfänger, Geübte und Virtuosen</i> mit 22 Nummern erschien 1835. Weitere Jahrgänge sind nicht erschienen.</note></div> wünsche ich den besten<lbr/>
+Fortgang, und werde mit Vergnügen; sobald Zeit und Muße mir es<lbr/>
+gestatten, bedacht se&#255;n Ihnen Be&#255;träge zu schicken. Leider habe ich in diesem<lbr/>
+Augenblicke nichts, was ich Ihnen anbiethen kö<abbr type="topline" expand="nn">n</abbr>te, aber in Kurzen sollen Sie<lbr/>
+erhalten, was, und wie gut ich es vermag. Unter Einem werde ich mir<lbr/>
+da<abbr type="topline" expand="nn">n</abbr> auch das Vergnügen machen, Ihnen eine Handschrift meines <persName key="39409">Vaters</persName><lbr/>
+zu senden; aber nur <div type="commentary" xml:id="commentID2035_3">ein Bruchstück<note corresp="#commentID2035_3">Ob Franz Xaver Wolfgang Mozart tatsächlich ein autographes 
+Noten-Fragment seines Vaters übersandte, ist nicht bekannt.</note></div>, de<abbr type="topline" expand="nn">n</abbr> Ganzes besitze ich selbst nichts.<lbr/>
+Wollen Sie mich dagegen mit ein paar Zeilen von unsers <persName key="38742">Göthes</persName> Hand<lbr/>
+beglücken, so werde ich es mit aufrichtigen Danke a<abbr type="topline" expand="nn">n</abbr>ehmen. &#8211; Daß<lbr/>
+Sie die Besti<abbr type="topline" expand="mm">m</abbr>ung des <rend class="latin">Honorars</rend> für die letzt überschickten <rend class="latin">Mspt</rend> mir überlassen<lbr/>
+wollen, ist mir nicht sehr angenehm, de<abbr type="topline" expand="nn">n</abbr> es ist i<abbr type="topline" expand="mm">m</abbr>er eine mißliche Sache<lbr/>
+sich selbst zu taxiren, um aber die Sache nicht mehr in die Länge zu ziehen,<lbr/>
+muß ich mich wohl dazu entschließen. Nach meiner Meinung dürften<lbr/>
+12 Thaler Sächsisch, für die <div type="commentary" xml:id="commentID2035_4">dre&#255; Lieder<note corresp="#commentID2035_4"><i>Drei deutsche Lieder</i> op. 10 (<i>Der Bleicherin Nachtlied</i>, <i>Wiederhall</i>, <i>Die Elfenkönigin</i>) 
+erschien 1836 bei Friedrich Hofmeister in Leipzig.</note></div> des <persName key="65250">Fräuleins <rend class="latin">Baroni Cavalcabó</rend></persName>, eine ziemlich<lbr/>
+bescheidene Forderung se&#255;n. Auf meinen <workName key="11706">Frühlings-Gruß</workName> fallen nach diesem<lbr/>
+Maßstabe ungefähr 8 Thaler. Das Dingelchen ist so klein, <abbr expand="daß">dß</abbr> es kaum der Rede<lbr/>
+werth ist. Zusa<abbr type="topline" expand="mm">m</abbr>en also 20 Thaler, die ich Sie ersuche mir durch die H<abbr type="curve"></abbr>&#160;<persName key="84745"><rend class="latin">Kuhn</rend><lbr/>
+<u>u</u>&#160;<rend class="latin">Millikowski</rend></persName> hier zuko<abbr type="topline" expand="mm">m</abbr>en zu lassen. Zugleich erlaube ich mir Sie auf<lbr/>
+folgendes aufmerksa<abbr type="topline" expand="mm">m</abbr> zu machen. Be&#255; dem <rend class="latin">Co<abbr type="topline" expand="mm">m</abbr>issionär</rend> der H<abbr type="curve"></abbr>&#160;<rend class="latin">Kuhn</rend> ud <rend class="latin">Milli<pc force="weak">=</pc><lbr/>kowski</rend>, <persName key="84744">Herrn <rend class="latin">Cnobloch</rend></persName> in <rend class="latin">Leipzig</rend> befinden sich 3 <rend class="latin">Mscpt</rend> der <persName key="65250">F. <rend class="latin">Baroni<lbr/>
+Cavalcabò</rend></persName>, als ein <rend class="latin">Rondo Brillant</rend> mit <rend class="latin">Orchester</rend>begletg, <rend class="latin">Variationen</rend> über ein<lbr/>
+<pg n="2"/>
+Origin<rend class="latin">al</rend>thema, und drittens endlich, eine höchst ausgezeichnete <rend class="latin">Composition</rend>, unter<lbr/>
+dem Titel: <rend class="latin">Solo</rend>-Stück, für das <rend class="latin">P. F.</rend> &#8211; Sollte <persName key="84758">Herr <rend class="latin">Wunder</rend></persName>, dem ich mich<lbr/>
+unbeka<abbr type="topline" expand="nn">n</abbr>ter Weise, höflichst empfehle, Lust haben diese Sachen, oder eines<lbr/>
+davon, <div type="commentary" xml:id="commentID2035_5">in Verlag zu nehmen<note corresp="#commentID2035_5">Im ersten Jahrgang des von Julius Wunder herausgegebenen <i>Pfennig-Magazins für Pianofortespieler</i> 
+erschien als Nr. 19.20. ein Allegro di bravura für Klavier e-Moll op. 8 von Julie Baroni-Cavalcabò. 
+Möglicherweise handelt es sich dabei um das von Franz Xaver Wolfgang Mozart erwähnte Solo-Stück für Pianoforte. 
+Als Einzelheft war das Klavierstück im Juli/August 1834 erschienen (Friedrich Hofmeister, <i>Musikalisch-literarischer 
+Monatsbericht</i>, Bd. 1834, S. 57).</note></div>, so bitte ich ihn, deßhalb mit <persName key="84759">Herrn Langbein</persName>,<lbr/>
+| der von nun an die Geschäfte der H<abbr type="curve"></abbr>&#160;<persName key="84745">Kuhn und Milli<abbr type="curve"></abbr></persName>, in <rend class="latin">Leipzig</rend> besorgen<lbr/>
+wird | Rücksprache zu pflegen. An Sie, verehrter Herr, geht jedenfalls,<lbr/>
+meine ergebene Bitte, sich dieser dre&#255; Werke <persName key="65250">meiner Schüleri<abbr type="topline" expand="nn">n</abbr></persName> bestmöglichst<lbr/>
+anzunehmen, und für die baldige Herausgabe, und auch für deren hübsche Aus<pc force="weak">=</pc><lbr/>stattung freundlichst sorgen zu wollen. &#8211; Ke<abbr type="topline" expand="nn">n</abbr>en Sie meine der <persName key="54564">Kaiseri<abbr type="topline" expand="nn">n</abbr><lbr/>
+von Oestreich</persName> gewidmete <workName key="11573"><rend class="latin">Cantate</rend>: der erste Frühlingstag?</workName> Ich habe sie<lbr/>
+vor einigen Jahren, in <rend class="latin">Wien</rend>, be&#255; <persName key="75458">Haslinger</persName>, auf meine Kosten stechen<lbr/>
+lassen. Kö<abbr type="topline" expand="nn">n</abbr>ten Sie etwas, zu ihrer Verbreitung be&#255;tragen, so möchte ich Sie<lbr/>
+wohl darum bitten, we<abbr type="topline" expand="nn">n</abbr> ich nicht befürchten müßte, unbescheidener zu<lbr/>
+scheinen, als ich es sonst, Gott lob, im Leben bin. &#8211; Besteht noch die den<lbr/>
+Nahmen: <div type="commentary" xml:id="commentID2035_6"><rend class="latin">Lyra</rend>, führende Gesellschaft<note corresp="#commentID2035_6">
+Die Gesellschaft <i>Lyra</i> war zu Beginn der Wintersaison 1818/19 von dem Leipziger Kaufmann und 
+Dichter Wilhelm Gerhard (1780–1858) gegründet worden. Der Verein setzte sich aus Künstlern 
+und Dilettanten zusammen, die sich alle vierzehn Tage im Saal des Leipziger Schauspielhauses 
+zu Instrumentalmusik, Gesang und Deklamation zusammenfanden. Zum Vorstand gehörten der 
+Musikverleger Friedrich Hofmeister als Sekretär, der Kaufmannn Gustav Friedrich Gottlob 
+Benedix (1785-1857) als Kassierer und der Organist August Pohlenz (1790–1843) als Musikdirektor. 
+Siehe <i>Allgemeine musikalische Zeitung mit besonderer Rücksicht auf den österreichischen 
+Kaiserstaat</i>, Jg. 3, Nr. 91 (13. November 1819), Sp. 733–734.
+Franz Xaver Wolfgang Mozart beschreibt seinen Besuch in der Gesellschaft <i>Lyra</i> und erwähnt 
+die Ernennung zu deren Ehrenmitglied in seinem Reisetagebuch am 12. Februar 1820: 
+„Ich [...] fand ein[e] Gesellschaft von ungefähr 100 Menschen, beyderley Geschlechtes, 
+die sich alle 14 Tage versammeln, um sich mit Musick, Vorlesung schöner Gedichte, Declamation 
+[zu] unterhalten. Man empfing mich ausgezeichnet artig, und gab mir auf jede Art, 
+die innige Verehrung und Liebe für meinen Vater zu erkennen. Die aufgeführten 
+Musickstücke waren unbedeutend. [...] Ich musste auch etwas spielen...“. Franz Xaver Wolfgang Mozart, 
+<i>Tagebuch auf meiner Reise ... Jahre 1819–20</i>, S. 153, zitiert nach dem 
+Original in B-Bc, F.J.H. 162. Am 21. Februar 1820 (S. 158) notierte er: „Diesen Morgen wurde
+mir das Diplom als Ehrenmitglied der Lyra zugestellt.“ Das Diplom hat sich nicht erhalten.</note></div>, deren Mitglied zu se&#255;n, ich die Ehre<lbr/>
+habe? &#8211; Genehmigen Sie die Versicherung, der ausgezeichesten Hoch<pc force="weak">=</pc><lbr/>achtung, verehrter Herr, mit der ich mich zeichne<lbr type="forced"/>
+<ts>________________________________________</ts><tshtm>_________________________________</tshtm><tspdf>\hfill </tspdf>Ihr ergebenster<lbr type="forced"/> 
+<lbr type="forced"/>
+<u><rend class="latin">Lemberg</rend> am 6<h><uu>t</uu></h> März 1834</u><ts>__________________</ts><tshtm>______________________</tshtm><tspdf>\hfill </tspdf><persName key="39407"><rend class="latin">W A Mozart</rend></persName> mp<lbr type="forced"/>
+<pg n="3"/>
+Falls <persName key="84758">Herr Wunder</persName> die Sachen <persName key="65250">meiner Schüleri<abbr type="topline" expand="nn">n</abbr></persName> nicht gebrauchen will,<lbr/>
+würden Sie mich ungemein verbinden, wenn Sie sich deßhalb, be&#255; andern<lbr/>
+Verlegern, gütigst verwenden wollen, denn ich glaube, <abbr expand="daß">dß</abbr> ein so <u>seltenes</u><lbr/>
+Talent Aufmunterung verdient, und auch <rend class="latin">bedarf</rend>, um einst wirklich schöne<lbr/>
+Früchte zu tragen! &#8211;  Auch muß ich Euer Wohlgeborn ersuchen, mir<lbr/>
+von allen meinen unsern <rend class="latin">Compositionen</rend> 6 Fre&#255;exemplare zuko<abbr type="topline" expand="mm">m</abbr>en zu lassen,<lbr/>
+da ich zwe&#255; sogena<abbr type="topline" expand="nn">n</abbr>te Pflicht<rend class="latin">exemplare</rend>, der Bibliothek übergeben muß.<lbr type="forced"/>
+<div type="commentary" xml:id="commentID2035_7">Bitte um <u>bald</u>&#160;<u>möglichste</u> Antwort.<note corresp="#commentID2035_7">Diese Zeile schrieb Josephine Baroni-Cavalcabò, die Mutter der erwähnten 
+Schülerin, Julie Baroni-Cavalcabò.</note></div><lbr type="forced"/>
+<pg n="4"/>
+<add_empf schr_id="73217">1834<lbr/>
+Lemberg d<abbr v="en"/> 6t März<lbr/>
+<rend class="latin">W. A. Mozart</rend> Sohn.<lbr/>
+erhalten d<abbr v="en"/> 20<h>tn</h> März<lbr/>
+beantw. d<abbr v="en"/></add_empf>
+<lbr/>
+<anschrift rot="90">S<h><uu>er</uu></h> Wohlgeboren<lbr type="forced"/>
+Herrn <rend class="latin">D<h><uu>r</uu></h> G. Bergen</rend><lbr type="forced"/>
+<u><rend class="latin">pr. adréße</rend></u> Redakzion des<lbr type="forced"/>
+Pfenningmagazins für Pia<pc force="weak">=</pc><lbr type="forced"/>nofortespieler<lbr type="forced"/>
+<ts>____________________</ts>in<lbr type="forced"/>
+<u>frei bis an die Gränze.</u><ts>_______</ts><u><rend class="latin">Leipzig</rend></u></anschrift>.
+<lbr/>
+<add_note schr_id="0" impl="pencil">Prag d 19 März</add_note>
+<add_note schr_id="0" impl="pencil">9 Groschen</add_note>
+<add_num impl="ink">N 346</add_num>
+<add_seal type="owner">STAATS<pc force="weak">-</pc><lbr/>BIBLIOTHEK<lbr/>
+ZU BERLIN<lbr/>
+PREUSSISCHER<lbr/>
+KULTURBESITZ</add_seal>
+</NI>
+</letter>
+</text>
+</MUP>

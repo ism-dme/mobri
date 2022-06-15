@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="2084">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-05</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=2084</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">B-Bc</bibl>
+                <bibl type="source" subtype="long">B-Bc: Conservatoire Royal de Musique</bibl>
+                <bibl type="source" subtype="long">Bibliothèque</bibl>
+                <bibl type="source" subtype="long">Koninklijk Conservatorium</bibl>
+                <bibl type="source" subtype="long">Bibliotheek. Brüssel (BEL: Brussel/Bruxelles)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-05-13">last file update: <date>Fri May 13 15:58:48 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="ID_2084.mup">
+<HEADER id="2084">FRANZ XAVER WOLFGANG MOZART AN JOSEPH AUGUST RÖCKEL IN WIEN<lbr/>
+LEMBERG, 10. JULI 1823</HEADER>
+<NI src="B-Bc">
+<pg n="1"/>
+<ts>_____________________________________</ts><tspdf>\hfill </tspdf><u><rend class="latin">Lemberg</rend> am 10<h><uu>t</uu></h> jul&#255; 1823</u><lbr type="forced"/>
+<lbr type="forced"/>
+Nur mit einigen Zeilen ka<abbr type="topline" expand="nn">n</abbr> ich Ihnen, aus Mangel an<lbr/>
+Zeit erwiedern, <abbr expand="daß">dß</abbr> ich erstens <div type="commentary" xml:id="commentID2084_1">Ihren Brief<note corresp="#commentID2084_1">Brief nicht erhalten.</note></div> erst vor<lbr/>
+einigen Tagen erhalten habe, und da<abbr type="topline" expand="nn">n</abbr>, <abbr expand="daß">dß</abbr> ich nicht glaube<lbr/>
+rathen zu kö<abbr type="topline" expand="nn">n</abbr>en, mit der gegenwärtigen <div type="commentary" xml:id="commentID2084_2">Direkzion<note corresp="#commentID2084_2">Gemeint ist die Direktion des Lemberger Theaters.</note></div><lbr/>
+in Verbindung zu treten. Doch ist der <rend class="latin">Concurs</rend> wirklich<lbr/>
+schon, aber aus Versehn | oder vorsätzlich <u>vielleicht</u> | nur<lbr/>
+durch die <rend class="latin">Lemberger</rend> Zeitung angekündigt worden. So viel<lbr/>
+ist gewiss, <abbr expand="daß">dß</abbr>&#160;<persName key="84739">H<abbr type="curve"></abbr>&#160;<rend class="latin">Zellner</rend></persName> | Komiker dermahlen in Pesth |<lbr/>
+täglich hier um Gastrollen zu geben | erwartet wird,<lbr/>
+und man glaubt ziemlich allgemein, <abbr expand="daß">dß</abbr> er hauptsäch<pc force="weak">=</pc><lbr/>lich ko<abbr type="topline" expand="mm">m</abbr>e, um das Theater in eigne <rend class="latin">Regie</rend> zu neh<pc force="weak">=</pc><lbr/>men. Ich bin überzeugt, <abbr expand="daß">dß</abbr> jeder, der die Sache<lbr/>
+versteht, Vortheil dabe&#255; finden wird, doch nicht<lbr/>
+gleich in der ersten Zeit, de<abbr type="topline" expand="nn">n</abbr> das Publikum ist durch<lbr/>
+die Schlechte <rend class="latin">Direkzion</rend> des <persName key="84740">H<abbr type="curve"></abbr>&#160;<rend class="latin">Kratter</rend></persName>  ein bischen theater<pc force="weak">=</pc><lbr/>scheu geworden; de<abbr type="topline" expand="nn">n</abbr>och zahlt die Gesellschaft, seit sie selbst<lbr/>
+die <rend class="latin">Lei</rend>tung überno<abbr type="topline" expand="mm">m</abbr>en hat, die <rend class="latin">Gagen</rend> pünktlich. Auch<lbr/>
+mit <rend class="latin">Lekzionen</rend> ist etwas zu machen, doch rathe ich Ihnen<lbr/>
+einen soliden Unternehmer abzuwarten, es se&#255; de<abbr type="topline" expand="nn">n</abbr><lbr/>
+<add_num impl="crayon" color="blue"><ts>_____________________________________________________________________________________</ts><u>13</u></add_num>
+<pg n="2"/>
+<abbr expand="daß">dß</abbr> sie selbst einer werden wollten, was aber doch<lbr/>
+erfoderte, <abbr expand="daß">dß</abbr> sie sich erst früher als <u>Mitglied</u>, mit den<lbr/>
+nähern Verhältnißen, und dem Geschmack des Publi<pc force="weak">=</pc><lbr/>kums beka<abbr type="topline" expand="nn">n</abbr>t machten. Leben Sie wohl, und schreiben<lbr/>
+Sie, we<abbr type="topline" expand="nn">n</abbr> Sie glauben, <abbr expand="daß">dß</abbr> ich in etwas nützen kö<abbr type="topline" expand="nn">n</abbr>te.<lbr type="forced"/>
+<ts>____________________________________________</ts>Ihr Freund<lbr type="forced"/>
+<ts>______________________________________________________</ts><tspdf>\hfill </tspdf><persName key="39407"><rend class="latin">WA Mozart</rend>.</persName><lbr type="forced"/>
+Es bedarf keiner <div type="commentary " xml:id="commentID2084_3">Add<abbr type="curve"></abbr><note corresp="#commentID2084_3" >Adresse</note></div> an mich, als meines Nahmens,<lbr/>
+de<abbr type="topline" expand="nn">n</abbr> ich bin beka<abbr type="topline" expand="nn">n</abbr>t genug. &#8211;
+<pg n="3"/>
+<vacat/>
+<pg n="4"/>
+<anschrift rot="270">An<lbr type="forced"/>
+Herrn Herrn<lbr type="forced"/>
+<persName key="78316"><rend class="latin">Röckel</rend></persName>&#160;<rend class="latin">etc</rend><lbr type="forced"/>
+in <u><rend class="latin">Wien</rend></u></anschrift>
+<lbr/>
+<add_seal type="owner">CONSERVATOIRE<lbr/>
+DE BRUXELLES<lbr/>
+BIBLIOTÈQUE</add_seal>
+</NI>
+</text>
+</MUP>

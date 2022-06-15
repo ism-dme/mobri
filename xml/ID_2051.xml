@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="2051">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-06</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=2051</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Wgm</bibl>
+                <bibl type="source" subtype="long">A-Wgm: Gesellschaft der Musikfreunde in Wien</bibl>
+                <bibl type="source" subtype="long">Bibliothek und Archiv. Wien (AUT)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-05-11">last file update: <date>Wed May 11 14:48:28 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="ID_2051.mup">
+<HEADER id="2051">FRANZ XAVER WOLFGANG MOZART AN LEOPOLD VON SONNLEITHNER IN WIEN<lbr/>
+WIEN, 18. MÄRZ 1839</HEADER>
+<NI src="A-Wgm">
+<pg n="1"/>
+Mein gütigster <persName key="59327">H<abbr type="curve"></abbr>&#160;<abbr expand="von">v</abbr> Sonnleithner</persName>!<lbr type="forced"/>
+<lbr type="forced"/>
+I<abbr type="topline" expand="mm">m</abbr>er verschob ich es von einem Tag zum andern,<lbr/>
+(um Ihnen persönlich meine Bitte vorzutragen) mich<lbr/>
+morgen Abends, wo wir eine kleine Musick bei mir<lbr/>
+machen, mit Ihrer, mir so überaus werthen<lbr/>
+Gegenwart, beehren zu wollen; allein all diese<lbr/>
+Zeit her, war ich wirklich wie behext, und ko<abbr type="topline" expand="nn">n</abbr><pc force="weak">=</pc><lbr/>te zu gar nichts ko<abbr type="topline" expand="mm">m</abbr>en; bald muste ich für<lbr/>
+den <div type="commentary" xml:id="commentID2051_1"><rend class="latin">Joseph’s</rend> Tag<note corresp="#commentID2051_1">19. März</note></div>, Proben mit Schülern ma<pc force="weak">=</pc><lbr/>chen, die ihre Eltern überraschen sollen, bald<lbr/>
+kam jemand zu mir, das mich am Ausgehen<lbr/>
+hinderte, wenn ich schon dazu bereit war, und so<lbr/>
+tausend kleine Dinge, und Calamitäten, die<lbr/>
+meine Projekte störten, und mich hinderten, mit<lbr/>
+dem besten Willen von der Welt, selbes nicht<lbr/>
+in Ausführung bringen zu können: Nehmen<lbr/>
+Sie Verehrtester! daher diese meine schriftliche<lbr/>
+<conv><ts>_________________________________________</ts></conv> Bitte, gütig auf.<lbr/>
+<pg n="2"/>
+und strafen mich nicht, durch die nichterfüllung<lbr/>
+derselben. <persName key="65250">Fr. <abbr expand="von">v</abbr>&#160;<rend class="latin">Webenau</rend></persName> erzählte mir heute,<lbr/>
+<abbr expand="daß">dß</abbr> sie so gütig war, Sie gestern davon zu <rend class="latin">pre<pc force="weak">=</pc><lbr/>veniren</rend>, und mit Schrecken erfuhr ich, daß<lbr/>
+ein früheres <rend class="latin">Engagement</rend> Sie schon binde; doch, da<lbr/>
+wie ich hoffe, es bey <persName key="82944">H<abbr type="curve"></abbr>&#160;<abbr expand="von">v</abbr> Molitor</persName> nicht zu lan<pc force="weak">=</pc><lbr/>ge dauern wird, und wir das Projekt ha<pc force="weak">=</pc><lbr/>ben, recht viel Musick zu machen, und<lbr/>
+zwar Gute, aus <workName key="4475"><rend class="latin">Idomenéo</rend></workName>, <workName key="7241">Titus</workName> (das erste<lbr/>
+<rend class="latin">Finale</rend>) sodann einen ganz unbekannten<lbr/>
+<rend class="latin">Canon</rend> von <persName key="39409">Mozart</persName>, einiges von <persName key="38867"><rend class="latin">Marschner</rend></persName><lbr/>
+und <persName key="65523"><rend class="latin">Onslow</rend></persName> , dann auch <persName key="65250">Fr. <abbr expand="von">v</abbr>&#160;<rend class="latin">Webenau</rend></persName> ein<lbr/>
+paar <div type="commentary" xml:id="commentID2051_2"><rend class="latin">Impromptüs</rend><note corresp="#commentID2051_2">Nichts näheres bekannt, unveröffentlicht.</note></div> (eigener <rend class="latin">Composition</rend>) selbst<lbr/>
+spielen, und ein <rend class="latin">D<h><uu>tto</uu></h></rend>&#160;<div type="commentary" xml:id="commentID2051_3"><rend class="latin">Trio</rend> mit Chor<note corresp="#commentID2051_3">Nichts näheres bekannt, unveröffentlicht.</note></div>, auf<pc force="weak">=</pc><lbr/>führen lassen wird, so bitten wir <u>recht sehr</u><lbr/>
+<pg n="3"/>
+wenn es Ihnen möglich ist, die <rend class="latin">soirée</rend> dort ein wenig<lbr/>
+abzukürzen, und mir den Rest des Abends<lbr/>
+zu schenken, es würde mir, und meiner Schülerinn<lbr/>
+<persName key="65250">Fr. <abbr expand="von">v</abbr> Webenau</persName>, das gröste Vergnügen se&#255;n<lbr/>
+wenn Sie diese Bitte erfüllen, und wir wür<pc force="weak">=</pc><lbr/>den Ihre Gefälligkeit mit großem Dank<lbr/>
+erkennen. Keine Stunde ist zu spät, [die]<lbr/>
+Sie uns das Vergnügen Ihrer Gegenwart sch[en]<pc force="weak">=</pc><lbr/>ken.<lbr type="forced"/>
+Genehmigen Sie zugleich die Versicherung meiner<lbr/>
+unbegrenzten Hochachtung, und Verehrung<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>____________________</ts><tspdf>\hfill </tspdf>ergebenster<lbr type="forced"/>
+<ts>_________________________</ts><tspdf>\hfill </tspdf><tspdf>\hfill </tspdf><persName key="39407"><rend class="latin">W. A. Mozart.</rend></persName><lbr type="forced"/>
+Am 18<h><uu>ten</uu></h> März <abbr type="topline" expand="1839">839</abbr>.
+<pg n="4"/>
+<tspdf>\newpage </tspdf>
+<anschrift rot="90"><rend class="latin">P. T.</rend><lbr type="forced"/> 
+Herr Herr Edlen von<lbr type="forced"/>
+<u><rend class="latin">Sonnleithner</rend></u> Hochgeborn<lbr type="forced"/>
+<u><rend class="latin">Schottenhof</rend></u> 3<h><uu>ten</uu></h> Stock.</anschrift>
+</NI></text>
+</MUP>

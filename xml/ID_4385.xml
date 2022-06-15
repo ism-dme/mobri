@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="4385">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-06</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=4385</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sae</bibl>
+                <bibl type="source" subtype="long">A-Sae: Archiv der Erzdiözese Salzburg. Salzburg (AUT)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-05-11">last file update: <date>Wed May 11 14:48:35 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="ID_4385.mup">
+<HEADER id="4385">FRANZ XAVER WOLFGANG MOZART AN FRANZ VON HILLEPRANDT IN SALZBURG<lbr/>
+WIEN, 1. NOVEMBER 1841</HEADER> 
+<NI src="A-Sae">
+<pg n="1"/>
+<ts>______________________________</ts><tshtm>________________________</tshtm><tspdf>\hfill </tspdf><u><rend class="latin">Wien</rend> am 1<h><uu>t</uu></h>&#160;<rend class="latin">November</rend> 1841</u><lbr type="forced"/>
+<lbr type="forced"/>
+<ts>__________________</ts>Geehrter <persName key="75653">Freund</persName>!<lbr type="forced"/>
+<lbr type="forced"/>
+In Erwiederung Ihres freundlichen <div type="commentary" xml:id="commentID4385_1">Briefes | ohne <rend class="latin">Datum</rend> |<note corresp="#commentID4385_1">Brief nicht erhalten.</note></div> berichte ich<lbr/>
+Ihnen, <abbr expand="daß">dß</abbr> sich be&#255; <persName key="84771">Herrn <rend class="latin">Glöggl</rend></persName> und mir, ein <rend class="latin">Bass</rend>=Sänger gemeldet<lbr/>
+hat, der Ihren <div type="commentary" xml:id="commentID4385_2">Anforderungen ganz genügend entsprechen dürfte.<note corresp="#commentID4385_2">Franz Xaver Wolfgang Mozart unterstützte den neugegründeten 
+<i>Dommusikverein und Mozarteum</i> bei der Suche nach Musikern und Lehrern.</note></div> Er ist<lbr/>
+gegenwärtig be&#255;m Kärnthnerthor Theater <rend class="latin">Chorist</rend>, ein junger Ma<abbr type="topline" expand="nn">n</abbr>, Nahmens <persName key="84711">Franz<lbr/>
+<rend class="latin">Tomaschek</rend></persName> aus Prag gebürtig, be&#255; der Kirche aufgewachsen, ke<abbr type="topline" expand="nn">n</abbr>t den <rend class="latin">Choral</rend>,<lbr/>
+und ich habe ihn selbst geprüft, und gefunden, <abbr expand="daß">dß</abbr> er eine ziemlich Umfangreiche<lbr/>
+wohlklingende Sti<abbr type="topline" expand="mm">m</abbr>e besitzt, sehr gut vom Blatte singt, und auch zum <rend class="latin">Solo</rend> Gesang,<lbr/>
+besonders in der Kirche, allerdings sehr verwendbar wäre. Da er nach Salzburg<lbr/>
+zu gehen geneigt ist, so belieben Sie das Weitere, durch <persName key="84771">H<abbr type="curve"></abbr>&#160;<rend class="latin">Glöggl</rend></persName>, oder<lbr/>
+we<abbr type="topline" expand="nn">n</abbr> Sie wollen durch mich, zu veranlassen.<lbr type="forced"/>
+<lbr type="forced"/>
+Von mir folgt noch die Bitte, möglichst zu verhindern, <abbr expand="daß">dß</abbr> mit meinem <workName key="11711">Fest<pc force="strong">=</pc><lbr type="forced"/><rend class="latin">Chore</rend></workName>, ein Mißbrauch gemacht werde, da ich damit umgehe, | um doch einigen Vortheil<lbr/>
+be&#255; der ganzen Sache zu haben, | diesen <div type="commentary" xml:id="commentID4385_3"><rend class="latin">FestChor</rend> im Klavierauszuge<note corresp="#commentID4385_3">Der Klavierauszug des <i>Fest-Chor</i> WV IXa:3 erschien 
+im September 1842 bei Artaria in Wien.</note></div> stechen zu<lbr/>
+lassen; de<abbr type="topline" expand="nn">n</abbr> es ist doch zu erwarten, <abbr expand="daß">dß</abbr> die be&#255; der <div type="commentary" xml:id="commentID4385_4">Fe&#255;erlichkeit<note corresp="#commentID4385_4">Das Fest anlässlich der Enthüllung des Mozart-Denkmals 
+vom 4. bis zum 6. September 1842 in Salzburg. </note></div> anwesenden<lbr/>
+Fremden, ihn als Eri<abbr type="topline" expand="nn">n</abbr>erung sich anschaffen werden; we<abbr type="topline" expand="nn">n</abbr> ich auch nicht so<lbr/>
+<rend class="latin">sanguinische</rend> Hoffnungen hege, wie einige, gewiß von dem besten und schätz<pc force="weak">=</pc><lbr/>barsten Willen, beseelte, so darf ich doch hoffen, <abbr expand="daß">dß</abbr> ich nichts dabe&#255; verlieren<lbr/>
+werde.<lbr type="forced"/>
+Unter Versicherung meiner unwandelbaren Hochachtung und Frdschaft Ihr<lbr type="forced"/>
+<ts>_______________________________</ts><tshtm>___________________________________________________________</tshtm><tspdf>\hfill </tspdf><persName key="39407"><rend class="latin">Mozart</rend></persName>&#160;<abbr expand="manu propria">mp</abbr>
+<pg n="2"/>
+<vacat/>
+<pg n="3"/>
+<vacat/>
+<pg n="4"/>
+<anschrift><u><rend class="latin">Wien</rend></u><lbr type="forced"/>
+An den Hochgeborenen<lbr type="forced"/>
+Herrn <rend class="latin">Franz</rend>&#160;<u>Edlen von <rend class="latin">Hilleprandt</rend></u><lbr type="forced"/>
+Sä<abbr type="topline" expand="mm">m</abbr>tlicher Rechte Doktor, Hof und Gerichts<pc force="weak">=</pc><lbr type="forced"/><rend class="latin">Advocat</rend>, und beeideter <rend class="latin">Notar</rend><lbr type="forced"/>
+in<lbr type="forced"/> 
+<u><rend class="latin">Salzburg</rend></u></anschrift>
+<lbr/>
+<add_seal type="post">WIEN<lbr/>
+31. OCT:</add_seal>
+<add_seal type="post">SALZBURG<lbr/>
+3. NOV.</add_seal>
+<add_note schr_id="75653">N<h><u>o</u></h> 176 <rend class="latin">dat<h>o</h></rend> 5<h>t</h>&#160;<rend class="latin">Nov</rend>&#160;<abbr type="topline" expand="1841">841</abbr><lbr/>
+Beantwortet am 5<h>t<abbr v="en"/></h> Nov.<lbr/> 
+mit Bekanntgebung der<lbr/> 
+Bedingungen, und Betrei<pc force="weak">=</pc><lbr/>bung der Einsendung des<lbr/> 
+Gesuches.</add_note>
+</NI></text>
+</MUP>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="1953">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-5</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1953</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">D-DS</bibl>
+                <bibl type="source" subtype="long">D-DS: Universitäts- und Landesbibliothek</bibl>
+                <bibl type="source" subtype="long">Handschriften- und Musikabteilung. Darmstadt (DEU)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-05-11">last file update: <date>Wed May 11 14:48:08 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="BD_1380.mup">
+<letter bd="1380">
+<NI src="D-DS">
+<HEADER id="1953">FRANZ XAVER WOLFGANG MOZART AN BREITKOPF &#38; HÄRTEL IN LEIPZIG<lbr/>
+WIEN, 1. JUNI 1808</HEADER>
+<pg n="1"/>
+<ts>___________________________________________</ts><tspdf>\hfill </tspdf><u><rend class="latin">Wien</rend> den 1<h><uu>ten</uu></h> Juny 1808</u><lbr type="forced"/>
+<ts>__________</ts>Hochgeehrter <persName key="53244">Herr</persName>!<lbr type="forced"/>
+Ihr <div type="commentary" xml:id="commentID1953_1">geehrtes von 12 May<note corresp="#commentID1953_1">Brief nicht erhalten.</note></div> habe ich richtig empfangen,<lbr/>
+und mache mir es zum größten Vergnügen,<lbr/>
+Ihren Wunsch zu erfüllen; wozu mir aber der<lbr/>
+Besitz der bey Ihnen erschienenen <div type="commentary" xml:id="commentID1953_2">Sa<abbr type="topline" expand="mm">m</abbr>lung von Kla<pc force="weak">=</pc><lbr/>viercompositionen<note corresp="#commentID1953_2">Die 17 Hefte der „Klaviersachen“ im Rahmen der <i>Oeuvres complettes</i> waren zwischen 1798 und 1806 erschienen.</note></div> meines <persName key="39409">Vaters</persName> unumgänglich<lbr/>
+nothwendig ist. Ich ersuche Sie daher, mir,<lbr/>
+Ihrem gefälligem Antrage gemäß, selbe so<lbr/>
+bald wie möglich zu überschicken, so wie auch die<lbr/>
+Anfangstackte, der, Ihnen zwar beka<abbr type="topline" expand="nn">n</abbr>ten, aber<lbr/>
+in Ihrer Sa<abbr type="topline" expand="mm">m</abbr>lung nicht erschienen Sachen.<lbr type="forced"/>
+Von ganz unbeka<abbr type="topline" expand="nn">n</abbr>ten, und noch nicht gestochenen<lbr/>
+Klavier<rend class="latin">comp</rend>: meines <persName key="39409">Vaters</persName>, ist gar nichts mehr<lbr/>
+in meinen Händen, de<abbr type="topline" expand="nn">n</abbr>, was diese betrifft,<lbr/>
+hat meine <persName key="48818">Mutter</persName> schon vor einigen Jahren<lbr/>
+mit H<abbr type="curve"></abbr> Kapellmeister <persName key="49118"><rend class="latin">Andrè</rend></persName> in <rend class="latin">Offenbach</rend><lbr/>
+einen <div type="commentary" xml:id="commentID1953_3"><rend class="latin">Accord</rend><note corresp="#commentID1953_3">Constanze Mozart hatte per Vertrag vom 8. November 1799 (BD 1262) den musikalischen Nachlass 
+von Wolfgang Amadé Mozart an den Musikverleger Johann Anton André in Offenbach am Main verkauft.</note></div> geschlossen. Ich empfehle mich Ihrem<lbr/>
+Wohlwollen, und bleibe in Erwartung einer<lbr/>
+baldigen Uebersendung Ihr ergebenster<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>________________________________________</ts><tspdf>\hfill </tspdf><persName key="39407">W. A. <rend class="latin">Mozart</rend></persName>&#160;<abbr expand="manu propria">mp</abbr> Sohn.<lbr type="forced"/>
+Nehmen Sie es nicht ungütig, wen ich errinnere, daß<lbr/>
+die Anfangstackte, nicht so wenige seyn dürfen, als<lbr/>
+sie es auf den Tittelblättern Ihrer <div type="commentary" xml:id="commentID1953_4"><rend class="latin">Cahiers</rend><note corresp="#commentID1953_4">Die Hefte der <i>Oeuvres complettes</i>.</note></div> sind,<lbr/>
+wenigstens müsten es 4 &#8211; 5 &#8211; 6, Täkte seyn, de<abbr type="topline" expand="nn">n</abbr> sonst<lbr/>
+ka<abbr type="topline" expand="nn">n</abbr> ich nicht so leicht das Thema ausnehmen,<lbr/>
+so wie es auch meiner <persName key="48818">Mutter</persName> (die ich fleißig zu<lbr/>
+Rathe ziehn werde), schwerer zu erke<abbr type="topline" expand="nn">n</abbr>en seyn<lbr/>
+würde.<lbr type="forced"/>
+<pg n="2"/>
+<add_empf><u>1808</u><lbr/>	
+<u>1 <rend class="latin">Juny</rend></u><lbr/>
+<u><ts>__</ts> &#8211; <ts>__</ts></u><lbr/>
+<u><ts>_______</ts></u></add_empf>
+<pg n="3"/>
+<add_empf><u><rend class="latin">Wien</rend></u><lbr/>
+<u><rend class="latin">Mozart.</rend></u></add_empf>
+<pg n="4"/>
+<vacat/>
+</NI>
+</letter> </text>
+</MUP>

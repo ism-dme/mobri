@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="2329">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-06</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=2329</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Wgm</bibl>
+                <bibl type="source" subtype="long">A-Wgm: Gesellschaft der Musikfreunde in Wien</bibl>
+                <bibl type="source" subtype="long">Bibliothek und Archiv. Wien (AUT)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-05-11">last file update: <date>Wed May 11 14:48:30 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="ID_2329.mup">
+<HEADER id="2329">FRANZ XAVER WOLFGANG MOZART AN ANDREAS SEIB IN WIEN<lbr/>
+WIEN, 18. DEZEMBER 1839</HEADER>
+<NI src="A-Wgm">
+<pg n="1"/>
+Schätzbarster <persName key="78878">Freund</persName>!<lbr type="forced"/>
+<lbr type="forced"/>
+Ich wollte Ihnen heut Nachmittag selbst<lbr/>
+danken für Ihre Gefälligkeit und Güte,<lbr/>
+traf Sie aber leider wieder nicht zu Hause.<lbr/>
+Mit größter Freude nehme ich Ihr gütiges<lbr/>
+Anerbiethen an, und bitte Sie daher, am<lbr/>
+Donnerstag Nachmittag um 6 Uhr <u>zu mir</u><lbr/>
+zur Probe; die <div type="commentary" xml:id="commentID2329_1">Aufführung<note corresp="#commentID2329_1">Die private Aufführung eines Quartetts, vermutlich ein Klavierquartett, 
+sollte anlässlich des Geburtstages des Vaters von Ernst Pauer jun. (1826-1905), einem Schüler 
+von Franz Xaver Wolfgang Mozart stattfinden. Siehe den Brief an Andreas Seib vom 11. Dezember 1839.
+Der Geburtstag des Theologen Ernst Pauer (1791–1861) ist der 14. Dezember.</note></div> wird aber<lbr/>
+am Samstag Statt finden, nicht am<lbr/>
+Sonntag, wie es früher <rend class="latin">projectirt</rend> war;<lbr/>
+Sie werden mir Verehrtester! dadurch<lbr/>
+eine rechte Gefälligkeit erweisen, und<lbr/>
+ich stets bleiben<lbr type="forced"/>
+<ts>____________________</ts><tspdf>\hfill </tspdf>Ihr ergebenster<lbr type="forced"/> 
+<ts>____________________</ts><tspdf>\hfill </tspdf><persName key="39407"><rend class="latin">W. A. Mozart.</rend></persName>.<lbr type="forced"/>
+<lbr type="forced"/>
+Mittwochs früh am 18<h><uu>ten</uu></h>&#160;<rend class="latin">X<h><uu>ber</uu></h></rend> 
+<pg n="2"/>
+<vacat/>
+<pg n="3"/>
+<vacat/>
+<pg n="4"/>
+<anschrift rot="90"><rend class="latin">P. T.</rend><lbr type="forced"/>
+Herrn Herrn A. <abbr expand="von">v</abbr>&#160;<u><rend class="latin">Seib</rend></u>.<lbr type="forced"/>
+Wohlgeborn<lbr type="forced"/>     
+<u>Allhier.</u></anschrift>
+<lbr/>
+<add_ident schr_id="0"><rend class="latin">Wolfgang A Mozart (Sohn)</rend><lbr/>
+geb: 1781 zu <rend class="latin">Wien</rend> – Comp und Pianist<lbr/>
++ <stroke> daselbst</stroke> in <rend class="latin">Carslbad</rend></add_ident>
+</NI>
+</text>
+</MUP>

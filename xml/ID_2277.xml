@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="2277">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-05</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=2277</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Wn</bibl>
+                <bibl type="source" subtype="long">A-Wn: Österreichische Nationalbibliothek. Wien (AUT)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-05-11">last file update: <date>Wed May 11 14:48:30 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="ID_2277.mup">
+<HEADER id="2277">FRANZ XAVER WOLFGANG MOZART AN JOHANN BAPTIST STREICHER IN WIEN<lbr/>
+LEMBERG, 1. OKTOBER 1831</HEADER>
+<NI src="A-Wn">
+<pg n="1"/>
+<add_num>36<ts>___</ts><stroke>61</stroke></add_num>
+<ts>______________________________________________</ts><tspdf>\hfill </tspdf><u>Lemberg am 1<h><uu>t</uu></h>&#160;<rend class="latin">October</rend> 1831</u><lbr type="forced"/>
+<lbr type="forced"/>
+<ts>__________________</ts>Lieber theurer <persName key="59565">Freund</persName>!<lbr type="forced"/>
+<lbr type="forced"/>
+Ich ka<abbr type="topline" expand="nn">n</abbr> Ihnen nicht sagen, welch große Freude Sie mir, mit Ihrem lieben<lbr/>
+<div type="commentary" xml:id="commentID2277_1">Briefe vom 17<h><uu>t</uu></h>&#160;<rend class="latin">Sept</rend><note corresp="#commentID2277_1">Brief nicht erhalten.</note></div> gemacht haben. Gerade um diese Zeit kamen hier<lbr/>
+die niederschlagendensten Gerüchte, von den Verheerungen in Umlauf, die<lbr/>
+die abscheuliche <rend class="latin">Cholera</rend>, in meiner guten Vaterstadt, verursachen soll, und<lbr/>
+Ihr Brief, mein lieber Freund, war der erste, der die Sache ohne Ue<pc force="weak">=</pc><lbr/>bertreibung darstellte, wie sie wirklich war, und leider wohl auch noch ist.<lbr/>
+Indem ich dieses schreibe, haben Sie hoffentlich, wohl schon das ärgste<lbr/>
+überstanden, de<abbr type="topline" expand="nn">n</abbr> aus der heutigen Wienerzeitung | vom 24<h><uu>t</uu></h>&#160;<rend class="latin">Sept</rend> | sehe ich mit<lbr/>
+Vergnügen, <abbr expand="daß">dß</abbr> die Krankheit nicht bedeutend zuni<abbr type="topline" expand="mm">m</abbr>t, und die <div type="commentary" xml:id="commentID2277_2">Zahl der Gene<pc force="weak">=</pc><lbr/>senen schon zwe&#255; Tage auf 35 stieg<note corresp="#commentID2277_2">Franz Xaver Wolfgang Mozart entnahm diese Information dem Bericht zur
+Cholera-Situation in Wien in der <i>Wiener Zeitung</i> vom 24. September 1831, Nr. 218, S. 1234.</note></div>. Gott gebe, <abbr expand="daß">dß</abbr> meine Wünsche und<lbr/>
+Hoffnungen <suppl hand="self" pos="supra">sich</suppl> erfüllen, und <abbr expand="daß">dß</abbr> Sie nicht volle vier Monate, wie es be&#255; uns hier<lbr/>
+der Fall war, von dieser Seuche verfolgt werden! Sie werden mir einen<lbr/>
+großen Beweis Ihrer Freundschaft geben, we<abbr type="topline" expand="nn">n</abbr> Sie sich die Mühe nicht reuen lassen,<lbr/>
+mir, | so lange Sie nicht gänzlich von aller Gefahr befre&#255;t sind | öfters Nachricht<lbr/>
+von Ihnen und Ihrer lieben Familie zu geben; de<abbr type="topline" expand="nn">n</abbr> we<abbr type="topline" expand="nn">n</abbr> ich gleich volles Vertrauen<lbr/>
+in Ihre Klugheit und Vorsicht setze, und vollko<abbr type="topline" expand="mm">m</abbr>en überzeugt bin, <abbr expand="daß">dß</abbr> Ihr Alle, die<lbr/>
+mir so lieb und theuer seyd, gewiß keinen Fehler gegen die Verhaltungs=Regeln<lbr/>
+begehen werdet, so ka<abbr type="topline" expand="nn">n</abbr> ich mich doch aller Besorgniß nicht entschlagen. &#8211; Von hier<lbr/>
+ka<abbr type="topline" expand="nn">n</abbr> ich Ihnen nur erfreuliches mittheilen. Unser böser Gast scheint, uns schon förm<pc force="weak">=</pc><lbr/>lich Lebewohl gesagt zu haben. Seit 14 Tagen hat sich kein neuer Krankheitsfall mehr<lbr/>
+gezeigt, alle Spitäler sind leer, und wir kö<abbr type="topline" expand="nn">n</abbr>en mit Wahrscheinlichkeit hoffen, keinen<lbr/>
+zwe&#255;ten Besuch zu beko<abbr type="topline" expand="mm">m</abbr>en, da der erste länger, als irgendwo gedauert hat.<lbr/>
+Auf dem Lande ist fre&#255;lich noch nicht alles vorüber, aber doch auch schon viel schwächer,<lbr/>
+<pg n="2"/>
+und so wird wohl das Ende dieses Jahres erfreulicher für uns se&#255;n, als der Anfang<lbr/>
+es war. Daß Sie wohl täglich mit falschen Nachrichten erschrekt mögen werden, ka<abbr type="topline" expand="nn">n</abbr> ich<lbr/>
+mir wohl denken; ging es uns doch hier nicht um ein Haar besser, obwohl wir<lbr/>
+um ein paar mahl hunderttausend Erzähler weniger haben! Wie oft sagte man<lbr/>
+Leute tod, die man des andern Tages wohlgemuth in den Strassen<lbr/>
+gehn sah; und diese unglückseeligen Uebertreibungen und Lügen, mögen wohl<lbr/>
+Schuld an dem Tode so Manches Furchtsamen se&#255;n, de<abbr type="topline" expand="nn">n</abbr> es ist eine ausgemachte<lbr/>
+Sache, <abbr expand="daß">dß</abbr> ein durch Furcht, Ku<abbr type="topline" expand="mm">m</abbr>er, oder was i<abbr type="topline" expand="mm">m</abbr>er für <rend class="latin">Affekt</rend> aufgeregtes Gemüth,<lbr/>
+stets höchst nachtheilig auf den Körper wirkt, und in unserer itzigen Epoche, ihn am<lbr/>
+ehesten für die <rend class="latin">Cholera</rend> empfänglich macht.<lbr type="forced"/>
+<lbr type="forced"/>
+Es heißt zwar, seit gestern, <abbr expand="daß">dß</abbr> der <div type="commentary" xml:id="commentID2277_3"><rend class="latin">Cordon</rend><note corresp="#commentID2277_3">franz., Postenkette; Grenze, Absperrung</note></div> be&#255; <div type="commentary" xml:id="commentID2277_4"><rend class="latin">Kent&#255;</rend><note corresp="#commentID2277_4">Kęty, Stadt im Süden des heutigen Polens; kam 1772 zu Österreich.</note></div> aufgehoben wird, aber we<abbr type="topline" expand="nn">n</abbr> dem<lbr/>
+auch so ist, bitte ich Sie de<abbr type="topline" expand="nn">n</abbr>och mein <rend class="latin">Fortep:</rend> noch be&#255; sich zu behalten. Ich ka<abbr type="topline" expand="nn">n</abbr> mich vor<lbr/>
+der Hand noch mit einem ausgeliehenen behelfen.<lbr type="forced"/>
+<lbr type="forced"/>
+Leben Sie recht wohl, lieber theurer <persName key="59565">Freund</persName>, empfehlen Sie mich bestens Ihren<lbr/>
+gütigen <persName key="79237 59566">Eltern</persName>, <persName key="72799">Frau</persName>, <persName key="83004">Schwester</persName>, <persName key="83003">Schwager</persName>, <persName key="78757">Schra<abbr type="topline" expand="mm">m</abbr></persName>, <persName key="77276">Metzler</persName> etc etc etc<lbr/>
+und behalten Sie lieb Ihren aufrichtigen Frd<lbr type="forced"/>
+<ts>_______________________________________</ts><tshtm>_____________________________________________</tshtm><tspdf>\hfill </tspdf><persName key="39407"><rend class="latin">Mozart</rend></persName>&#160;<abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<lbr/>
+<add_seal type="owner">ÖST. NATIONAL BIBLIOTHEK<lbr/>
+WIEN</add_seal>
+<pg n="3"/>
+<vacat/>
+<pg n="4"/>
+<anschrift hand="diff" schr_id="49553"><u>Lemberg</u><ts>________</ts>Herrn Herrn<lbr type="forced"/>
+<rend class="latin">J. B. <u>Streicher</u> per adresse</rend><lbr type="forced"/>
+<rend class="latin">Nanette Streicher</rend> und Sohn<lbr type="forced"/>
+Klaviermacher<lbr type="forced"/>
+<u>Landstraße</u><ts>_______</ts>in<lbr type="forced"/> 
+<u>Ungergasse</u><ts>_____________</ts><u><rend class="latin">Wien</rend></u><lbr type="forced"/>
+<rend class="latin">N<h>ro</h></rend> 371.</anschrift>
+<lbr/>
+<add_seal type="post">LEMBERG</add_seal>
+<lbr/>
+<add_seal type="post">WIEN<lbr type="forced"/>
+7 OCT.</add_seal>
+<lbr/>
+<add_seal type="post"><div type="commentary" xml:id="commentID2277_5">Netto di fuora<lbr/>
+e di dentro<note corresp="#commentID2277_5">Desinfektionsstempel: Gereinigt von außen und von innen.</note></div></add_seal>
+<lbr/>
+<add_empf><rend class="latin">Mozart</rend><lbr type="forced"/>
+<rend class="latin">Lemberg</rend> den 1 Oct)<lbr type="forced"/>
+empf<ts>______________</ts>"   7  "  )<ts>____</ts><abbr type="topline">831</abbr><lbr type="forced"/>
+beant<ts>______</ts><u><ts>________</ts>29 "   )</u><lbr type="forced"/> 
+<ts>__________</ts><u>119</u></add_empf>
+</NI>
+</text>
+</MUP>

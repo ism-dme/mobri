@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="2346">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-06</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=2346</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">D-HVsta</bibl>
+                <bibl type="source" subtype="long">D-HVsta: Hannover</bibl>
+                <bibl type="source" subtype="long">Stadtarchiv. Hannover (DEU)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-05-11">last file update: <date>Wed May 11 14:48:30 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="ID_2346.mup">
+<HEADER id="2346">WOLFGANG MOZART AN FRANZ IGNAZ VON HOLBEIN  IN WIEN<lbr/>
+WIEN, 6. JUNI 1844</HEADER>
+<NI src="D-HVsta">
+<pg n="1"/>
+<ts>_____</ts>Innigst geehrter <persName key="75747">Freund</persName>!<lbr type="forced"/>
+<lbr type="forced"/>
+Gestern, als ich nach Hause kam, fand<lbr/>
+ich Ihren lieben <div type="commentary" xml:id="commentID2346_1">Zettel<note corresp="#commentID2346_1">Zettel nicht bekannt.</note></div>, und war wirk<pc force="weak">=</pc><lbr/>lich außer Stande noch auszugehen, da ich<lbr/>
+mich <div type="commentary" xml:id="commentID2346_2">zu angegriffen fühlte<note corresp="#commentID2346_2">Franz Xaver Wolfgang Mozart litt an Magenkrebs und starb
+wenige Wochen später am 29. Juli 1844 in Karlsbad während einer Kur.</note></div>; deshalb, er<pc force="weak">=</pc><lbr/>halten Sie die gewünschte Auskunft erst<lbr/>
+heute. Ich konnte nichts Besti<abbr type="topline" expand="mm">m</abbr>tes<lbr/>
+über <persName key="49848"><rend class="latin">Beriot</rend></persName> erfahren, ob er schon abge<pc force="weak">=</pc><lbr/>reist se&#255; &#8211; nur so viel weiß ich, <abbr expand="daß">dß</abbr><lbr/>
+Sie die ausführlichste, und beste Notiz<lbr/>
+über ihn, im <suppl hand="self" pos="supra">Garten</suppl>&#160;<rend class="latin">Palais</rend> des <persName key="84176">Fürsten Di<pc force="weak">=</pc><lbr/>triechstein</persName> „in der Währinger Gasse“<lbr/>
+erhalten können, wo die Mutter von<lbr/>
+<div type="commentary" xml:id="commentID2346_3"><persName key="84755"><rend class="latin">Beriot’s</rend> Gemahlin</persName><note corresp="#commentID2346_3">Nach dem Tod seiner ersten Ehefrau Maria Malibran (1836) heiratete 
+Charles-Auguste de Beriot 1840 in Ixelles (Belgien) Marie Huber, die Tochter 
+eines deutschen Magistratsbeamten in Wien. Maria Huber war die Adoptivtochter 
+des Fürsten Franz von Dietrichstein, der sich auch um den Sohn von Beriot 
+aus erster Ehe, Charles-Wilfrid de Beriot (1833-1914), kümmerte.</note></div> | <persName key="84928">M<h><u>dme</u></h>&#160;<rend class="latin">Leisinger</rend></persName> |<lbr/>
+wohnt. Ich bin selbst „<rend class="latin">le porteur de<lbr/>
+ceci</rend>“ welches nur für den Fall als<lbr/>
+<emend value="">als</emend> ich Sie Verehrtester! nicht treffen<lbr/>
+sollte, geschrieben ist ... Meine besten<lbr/>
+Wünsche begleiten auch Sie auf Ihrer<lbr/>
+<pg n="2"/>
+Reise. Von allen unsern Freunden<lbr/>
+im Hause, alles Erdenkliche für Sie.<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____</ts>Ihr ganz und innig ergebener<lbr type="forced"/>
+<ts>__________</ts><tspdf>\hfill </tspdf><persName key="39407">W. A. Mozart</persName>&#160;<abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<lbr type="forced"/>
+6<h><uu>ten</uu></h> Juny. Frohnleichnahmstag.<lbr type="forced"/>
+<add_note schr_id="0" impl="pencil"><ts>_________</ts><rend class="latin">Componist, Sohn seines<lbr/>
+<ts>________________</ts>Vaters</rend></add_note>
+<pg n="3"/>
+<anschrift><ts>_____</ts>An Seine des Herrn Herrn<lbr type="forced"/>
+Kais<abbr type="curve">.</abbr> Rathes, und Direcktor’s des<lbr type="forced"/>
+Hof-Burg Theater’s, Franz Edlen von<lbr type="forced"/>
+<u><rend class="latin">Holbein</rend></u> Hoch und Wohlgeborn.<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____</ts><u>zu eigener Eröffnung</u></anschrift>
+<pg n="4"/>
+<vacat/>
+</NI></text>
+</MUP>

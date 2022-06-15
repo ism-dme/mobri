@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="2194">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-05</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=2194</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">I-Mts</bibl>
+                <bibl type="source" subtype="long">I-Mts: Teatro alla Scala</bibl>
+                <bibl type="source" subtype="long">Archivio Musicale. Mailand (ITA: Milano)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-05-11">last file update: <date>Wed May 11 14:48:29 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="ID_2194.mup">
+<HEADER id="2194">FRANZ XAVER WOLFGANG MOZART AN CARL FRIEDRICH PETERS IN LEIPZIG<lbr/>
+DRESDEN, 12. MÄRZ 1820</HEADER>
+<NI src="I-Mts">
+<pg n="1"/>
+<ts>______________________________________________</ts><tspdf>\hfill </tspdf><u><rend class="latin">Dresden</rend> den 12 März 1820</u><lbr type="forced"/>
+<lbr type="forced"/>
+<ts>______________________</ts>Lieber <persName key="77883">Freund</persName>!<lbr type="forced"/>
+<lbr type="forced"/>
+Uebermorgen gehe ich <div type="commentary" xml:id="commentID2194_">nach Prag<note corresp="#commentID2194_1">Franz Xaver Wolfgang Mozart befand sich seit Mai 1819 auf einer Konzertreise durch Europa.</note></div>, wohin ich Sie ersuche, mir an <persName key="84730"><rend class="latin">Ballabene</rend></persName><lbr/>
+oder <persName key="84731">Fiedler</persName>  nachzuschicken, was etwa noch <div type="commentary" xml:id="commentID2194_2">unter Ihrer <rend class="latin">Addresse</rend><note corresp="#commentID2194_2">Franz Xaver Wolfgang Mozart hielt sich vom 12. bis zum 26. Februar 1820 in Leipzig auf. Dort schloss er mit Carl Friedrich Peters Freundschaft. 
+In dessen Verlag erschienen infolge vier Publikationen: die Klaviersonate mit Violine oder Violoncello E-Dur op. 19 (WV VI:13), 
+Vier Polonaises mélancholiques für Klavier op. 22  (WV VII:29, 31, 33 und 34), Variationen für Klavier über 
+ein Thema von Mehuls „Joseph“ C-Dur op. 23 (WV VII:32) sowie das 2. Klavierkonzert Es-Dur op. 25 (WV IV:2).</note></div> an<pc force="weak">-</pc><lbr/>ko<abbr type="topline" expand="mm">m</abbr>en sollte, was bis itzt noch nicht der Fall gewesen seyn muß,<lbr/>
+de<abbr type="topline" expand="nn">n</abbr> seit meinem Hierseyn, ist nichts in meine Hände gelangt &#8211; <lbr/>
+Da ich mir mit Ihrer Theilnahme schmeicheln darf, so will<lbr/>
+ich Ihnen die für mich sehr angenehme Nachricht geben, <abbr expand="daß">dß</abbr> ich<lbr/>
+vor einigen Tagen die Ehre hatte, am Hofe, und zwar nicht<lbr/>
+unter dem Teller-Gerassel, sondern in einem, wegen mir<lbr/>
+<rend class="latin">arrangirten</rend>&#160;<div type="commentary" xml:id="commentID2194_3"><rend class="latin">Concerte</rend><note corresp="#commentID2194_3">Das Konzert am Dresdner Hof fand am 8. März 1820 statt.
+Franz Xaver Wolfgang Mozart hielt sich vom 28. Februar bis zum 13. März 1820 in Dresden auf.</note></div> zu spielen, und <abbr expand="daß">dß</abbr> ich so glücklich war, von Seiner<lbr/>
+M. dem <persName key="52350">König</persName>, als Zeichen des Beyfalls, einen sehr schönen Ring,<lbr/>
+zu beko<abbr type="topline" expand="mm">m</abbr>en. &#8211; Schließlich ersuche ich Sie, mich recht bald, von dem<lbr/>
+Erfolge Ihrer Bemühung, rücksichtlich der <div type="commentary" xml:id="commentID2194_4"><rend class="latin">dedication</rend><note corresp="#commentID4">Während Franz Xaver Wolfgang Mozart bei der Dedikation seines zweiten Klavierkonzertes op. 25 
+an einen Vertreter des österreichischen Kaiserhauses dachte, erschien der Druck letztlich mit 
+einer Widmung an die Großherzogin von Sachsen-Weimar-Eisenach, Maria Pawlowna, in Weimar, 
+was auf die Bemühungen von Carl Friedrich Peters zurückgehen dürfte.</note></div> meines <workName key="11557"><rend class="latin">Concertes</rend></workName><lbr/>
+zu benachrichtigen, damit ich, we<abbr type="topline" expand="nn">n</abbr> nichts daraus werden sollte, diese Sache<lbr/>
+an dem anderen Orte einleiten ka<abbr type="topline" expand="nn">n</abbr>, was mir wohl <u>dadurch</u> etwas wird<lbr/>
+erleichtert werden, <abbr expand="daß">dß</abbr> ich einen <div type="commentary" xml:id="commentID2194_5">Brief<note corresp="#commentID2194_5">Brief nicht erhalten.</note></div> an den <persName key="65416">E. H. R.</persName> von seiner Schwe<pc force="weak">-</pc><lbr/>ster, der <persName key="81279"><rend class="latin">P.</rend> Therese</persName> , beko<abbr type="topline" expand="mm">m</abbr>en habe. Grüssen Sie alle Beka<abbr type="topline" expand="nn">n</abbr>ten, und<lbr/>
+eri<abbr type="topline" expand="nn">n</abbr>ern Sie sich gefälligst Ihres<lbr type="forced"/>
+<ts>________________________________</ts><tshtm>____________________________</tshtm><tspdf>\hfill </tspdf><persName key="39407"><rend class="latin">Mozart</rend></persName>&#160;<abbr expand="manu propria">mp</abbr><lbr type="forced"/> 
+<conv><ts>____________________________________________________________________________</ts><rend class="latin">Vertatur</rend></conv>
+<pg n="2"/>
+Bey meiner <workName key="11555"><rend class="latin">Sonate</rend></workName>, bitte ich folgende Veränderung in Bezeichnung<lbr/>
+des Zeitmasses zu machen.<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_________________</ts>der 1<h><uu>t</uu></h> Satz 	nur <rend class="latin">Allegro</rend>.<lbr type="forced"/>
+<ts>_________________</ts>der 2<h><uu>t</uu></h>	 –– <rend class="latin">Andantino espressivo</rend>, und<lbr type="forced"/>
+<ts>_________________</ts>der 3<h><uu>t</uu></h><ts>___</ts><rend class="latin">Allegro vivo</rend>.<lbr type="forced"/>
+<pg n="3"/>
+<vacat/>
+<pg n="4"/>
+<anschrift>Herrn Herrn<lbr type="forced"/>
+<u><rend class="latin">C. F. Peters</rend></u><lbr type="forced"/>
+berühmten Musick-Verleger.<lbr type="forced"/>
+in<lbr type="forced"/>
+<u><rend class="latin">Leipzig</rend></u>.</anschrift>
+<lbr type="forced"/>
+<add_seal type="post">DRESDEN<lbr type="forced"/>
+13 MART 20</add_seal>
+
+<add_empf><u>1820</u><ts>____________</ts><u><rend class="latin">Dred<abbr v="en"/></rend></u>
+<lbr type="forced"/>
+<u>12 Merz</u><ts>_______</ts><rend class="latin">Mozart</rend><lbr type="forced"/>
+<u>14 &#8211;<ts>____</ts></u>&#160;<lbr type="forced"/>
+<u>27 &#8211;<ts>____</ts></u>&#160;</add_empf>
+</NI></text>
+</MUP>

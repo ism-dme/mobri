@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="4466">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-06</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=4466</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sae</bibl>
+                <bibl type="source" subtype="long">A-Sae: Archiv der Erzdiözese Salzburg. Salzburg (AUT)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-06-08">last file update: <date>Wed Jun  8 11:03:12 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="ID_4466.mup">
+<HEADER id="4466">FRANZ VON HILLEPRANDT AN FRANZ XAVER WOLFGANG MOZART AN IN WIEN<lbr/>
+SALZBURG, 7. April 1842<lbr/>
+Entwurf</HEADER>
+<NI src="A-Sae">
+<pg n="1"/>
+<ts>_____</ts>Geehrter <persName key="39407">Freund</persName>!<lbr type="forced"/>
+<lbr type="forced"/>
+Be&#255;liegend sende ich Ihnen den <div type="commentary" xml:id="commentID4466_1">Couponsbogen<note corresp="#commentID4466_1">Franz von Hilleprandt vertrat nach dem Tod von 
+Constanze Nissen, verw. Mozart, am 6. März 1842 
+die beiden Mozart-Söhne in Erbschaftsangelegenheiten.</note></div> für<lbr/>
+den mir mit <div type="commentary" xml:id="commentID4466_2">Schreiben vom 3 d. M.<note corresp="#commentID4466_2">Brief vom 3. April 1842.</note></div> gesendeten<lbr/>
+<rend class="latin">Tallon</rend> zur Obligation N<h><uu>o</uu></h> 2098 mit der Bemerkung<lbr/>
+daß noch ein Couponsbogen von der 5 Met.<lbr/>
+Obligation N<h><uu>o</uu></h> 31963 ddt: 1 Jänner 1817 be&#255;<lbr/>
+der hiesigen Kammeralkasse liegt, welcher gegen<lbr/>
+den <rend class="latin">Tallon</rend> auszuwechseln wäre. Ich ver<pc force="weak">=</pc><lbr/>muthe, daß Ihr Herr <persName key="48820">Bruder</persName> diese Obligation<lbr/>
+erhielt; schreiben Sie ihm daher, daß er diesen<lbr/>
+<rend class="latin">Tallon</rend> an mich einsenden möge, um die Coupons<lbr/>
+zu erhalten.<lbr type="forced"/>
+<ts>_____</ts>Mit gewohnter Hochachtung etc<lbr type="forced"/>
+<lbr type="forced"/>
+<lbr type="forced"/>
+geschrb<abbr v="en"/>&#160;<persName key="75653">D<h><uu>r</uu></h> v. Hilleprdt</persName><lbr type="forced"/>
+am 7 April 1842.
+<pg n="2"/>
+<vacat/>
+</NI></text>
+</MUP>

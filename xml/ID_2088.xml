@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="2088">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-06</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=2088</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">B-Bc</bibl>
+                <bibl type="source" subtype="long">B-Bc: Conservatoire Royal de Musique</bibl>
+                <bibl type="source" subtype="long">Bibliothèque</bibl>
+                <bibl type="source" subtype="long">Koninklijk Conservatorium</bibl>
+                <bibl type="source" subtype="long">Bibliotheek. Brüssel (BEL: Brussel/Bruxelles)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-06-03">last file update: <date>Fri Jun  3 16:09:41 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="ID_2088.mup">
+<HEADER id="2088">FRANZ XAVER WOLFGANG MOZART AN AUGUST SCHMIDT IN WIEN<lbr/>
+WIEN, 14. SEPTEMBER 1843</HEADER>
+<NI src="B-Bc"> 
+<pg n="1"/>
+<add_prov impl="pencil" schr_id="84256"><ts>__________________________________________________________________________________________</ts>(ex coll. <persName key="59361">Edw. Speyer</persName><lbr/>
+<ts>_____________________________________________________________________________________________</ts>october 1938</add_prov>
+<lbr/>
+<ts>___________________</ts>Geehrter <persName key="46621">Freund</persName>!<lbr type="forced"/>
+<lbr type="forced"/>
+Schon lange, ja <u>sehr</u> lange schon, sehe ich Ihrem mir ver<pc force="weak">=</pc><lbr/>sprochnen, freundlichen Besuche entgegen! Bis mir dieses Vergnügen<lbr/>
+zu Theil wird, erlauben Sie mir, mich schriftlich mit der Bitte an Sie<lbr/>
+zu wenden, be&#255;liegendes, leider schon etwas veraltetes Schreiben,<lbr/>
+dem Vorstande des Preßburger Musikvereines, gütigst zusenden<lbr/>
+wollen. Es ist dieß eine Schuld, die mein Gewissen schon sehr drückt,<lbr/>
+und Sie werden mich ausserordentlich verbinden, we<abbr type="topline" expand="nn">n</abbr> sie so gefällig<lbr/>
+sind, die Absendung meines <div type="commentary" xml:id="commentID2088_1">Dankschreibens<note corresp="#commentID2088_1">Das Schreiben ist nicht bekannt. Vermutlich handelt es sich um 
+die Danksagung für die Ernennung zum Ehrenmitglied des 
+<i>Pressburger Kirchen-Musikvereins</i>. Dokumentieren lässt sich dies bislang aber nicht.</note></div> nach Möglichkeit zu beschleunigen.<lbr/>
+&#8211; Da mir die Hofkanzle&#255; bereits die Bewilligung zur A<abbr type="topline" expand="nn">n</abbr>ahme<lbr/>
+des folgenden ertheilt hat, so ersuche ich Sie unter einem, in I[hrem]<lbr/>
+geschätzten <div type="commentary" xml:id="commentID2088_2">Blatte gütigst anzuzeigen<note corresp="#commentID2088_2">Die Meldung erschien noch am selben Tag in der <i>Allgemeinen Wiener Musik-Zeitung</i>, 
+hrsg. von August Schmidt, Nr. 110, S. 464. Das Redaktionsbüro der Zeitung befand 
+sich in der Grünangergasse, wo auch Franz Xaver Wolfgang Mozart wohnte.</note></div>, daß: <u><rend class="latin">la Congregazione et</rend></u> [<rend class="latin">Accademia</rend>]<lbr/>
+<u><rend class="latin">di Santa Cecilia di Roma</rend></u> mich zum <div type="commentary" xml:id="commentID2088_3"><u><rend class="latin">Maestro Compositore Onorari</rend></u>[o ernannt]<lbr/>
+hat<note corresp="#commentID2088_3">Die <i>Congregazione ed Accademia di Santa Cecilia</i> hatte Franz Xaver 
+Wolfgang Mozart am 10. Dezember 1842 zu ihrem Ehrenmitglied ernannt.</note></div>. &#8211; Genehmigen Sie die Versicherung, der unbegräntzten<lbr/><lbr type="forced"/>
+Hochachtung Ihres ergebensten<lbr type="forced"/>
+<ts>_________________________</ts><tshtm>_____________________________________</tshtm><tspdf>\hfill </tspdf><persName key="39407"><rend class="latin">W A Mozart</rend></persName>&#160;<abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+Vom Hause am 14<h><uu>t</uu></h>&#160;<rend class="latin">Sept</rend>&#160;<abbr type="topline" expand="1843">843</abbr><lbr/>
+<lbr/>
+<add_seal type="owner">CONSERVATOIRE<lbr/>
+DE BRUXELLES<lbr/>
+BIBLIOTÈQUE</add_seal>
+<pg n="2"/>
+<add_num schr_id="0" impl="ink"><ts>_______________________________________________________________________________</ts><u>478.</u></add_num>
+<add_ident schr_id="0" impl="pencil"><ts>__________________________________________________________________________</ts><rend class="latin">Mozart</rend> Sohn</add_ident>
+<add_num schr_id="0" impl="pencil"><div type="commentary" xml:id="commentID2088_4">2148<note corresp="#commentID2088_4">Die Nummer bezieht sich auf den Lagerkatalog 74 von Gilhofer &#38; Ranschburg, Wien, 
+wo der Brief aus S. 90 mit der Los-Nummer 2149 angezeigt ist.</note></div></add_num>
+</NI></text>
+</MUP>

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="2253">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-05</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=2253</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">S-Smf</bibl>
+                <bibl type="source" subtype="long">S-Smf: Stiftelsen Musikkulturens främjande. Stockholm (SWE)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-05-13">last file update: <date>Fri May 13 16:19:25 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="ID_2253.mup">
+<HEADER id="2253">FRANZ XAVER WOLFGANG MOZART AN IGNAZ MOSCHELES IN LONDON<lbr/>
+LEMBERG, 25. DEZEMBER 1827</HEADER>
+<NI src="S-Smf">
+<pg n="1"/>
+<ts>________________</ts><tshtm>__________________</tshtm>Verehrtester <persName key="38894">Herr</persName>!<lbr type="forced"/>
+<lbr type="forced"/>
+We<abbr type="topline" expand="nn">n</abbr> ich auch nicht das Vergnügen habe, von Ihnen persönlich geka<abbr type="topline" expand="nn">n</abbr>t zu se&#255;n, so<lbr/>
+veranlaßt mich doch, der große und wohlverdiente Ruf, der Sie als einen so aus<pc force="weak">=</pc><lbr/>gezeichneten und geachteten Künstler überall begleitet, dem ich auch von Herzen bey<pc force="weak">=</pc><lbr/>pflichte, und die allgemeine Anerke<abbr type="topline" expand="nn">n</abbr>ung Ihres vortrefflichen <rend class="latin">Charakters</rend>, mich in einer<lbr/>
+Angelegenheit an Sie zu wenden, die nicht nur für mich, sondern für jeden Künst<pc force="weak">=</pc><lbr/>ler, von großen Intereße ist. Ich schmeichle mir, <abbr expand="daß">dß</abbr> auch Sie, verehrter Herr!<lbr/>
+mich von keiner nachtheiligen Seite ke<abbr type="topline" expand="nn">n</abbr>en, und daher in meinem Unterneh<pc force="weak">=</pc><lbr/>men keinen andern Beweggrund finden werden, als den Wunsch, meinem<lbr/>
+alten Freunde nützlich zu se&#255;n; und so wende ich mich de<abbr type="topline" expand="nn">n</abbr>, mit vollen <lbr/>
+Vertrauen an Sie.<lbr type="forced"/>
+Es lebt hier, seit einem Zeitraume von ungefähr 20 Jahren der rühmlichst<lbr/>
+beka<abbr type="topline" expand="nn">n</abbr>te <rend class="latin">Componist</rend>: <persName key="65402">Joha<abbr type="topline" expand="nn">n</abbr>&#160;<rend class="latin">Mederitsch</rend> gena<abbr type="topline" expand="nn">n</abbr>t <rend class="latin">Gallus</rend></persName>. Ich zweifle <suppl hand="self" pos="supra">nicht</suppl>, <abbr expand="daß">dß</abbr> seine<lbr/>
+klassische Musik zu <persName key="39002"><rend class="latin">Schackspears</rend></persName> Trauerspiele: <rend class="latin">Macbeth</rend>, Ihnen beka<abbr type="topline" expand="nn">n</abbr>t se&#255;n<lbr/>
+wird; dieses herrliche Tonstück machte überall großes Aufsehen. Auf eine<lbr/>
+be&#255;spiellose Art, um den Lohn seiner Arbeit, durch einen treulosen Freund<lbr/>
+betrogen, dem er diese <rend class="latin">Partitur</rend> nach England mitgab, und der diese auch<lbr/>
+wirklich dort um eine bedeutende Su<abbr type="topline" expand="mm">m</abbr>e verkaufte, ohne dem Verfasser<lbr/>
+auch nur einen Heller abzugeben, verlor er den Muth zu ähnlichen<lbr/>
+Unternehmungen. Nun ist dieser 73jährige Greis, der sich aber noch einer<lbr/>
+sehr festen Gesundheit erfreut, und dessen Geist noch eben so heiter und<lbr/>
+lebhaft, als der eines jungen Ma<abbr type="topline" expand="nn">n</abbr>es ist, durch eine Reihe widriger und<lbr/>
+unverschuldeter Ereigniße, in eine so traurige Lage versetzt, <abbr expand="daß">dß</abbr><lbr/>
+<u>Er</u>, vielleicht der größte <rend class="latin">Contrapunktist</rend> unseres Zeitalters, mit der<lbr/>
+größten Dürftigkeit zu kämpfen hat, und was ihn nicht minder darnieder<lbr/>
+beugen muß, ist das Gefühl, in seinem hohen Alter so ganz verwaist<lbr/>
+<pg n="2"/>
+da zu stehn, de<abbr type="topline" expand="nn">n</abbr> vor mehrern Jahren, hatte er auch noch den Schmerz, eine<lbr/>
+geliebte <div type="commentary " xml:id="commentID2253_1">Frau, und seine einzige Tochter<note corresp="#commentID2253_1">Über die Ehefrau und Tochter von Johann Mederitsch ist nichts bekannt.</note></div>, die schon verhe&#255;rathet war zu<lbr/>
+verlieren. &#8211; Diesem, meinem väterlichen Freunde, nach Kräften zu<lbr/>
+helfen, ist mein angelegentlichster Wunsch; und dieß glaube ich nicht<lbr/>
+besser bezwecken zu kö<abbr type="topline" expand="nn">n</abbr>en, als we<abbr type="topline" expand="nn">n</abbr> ich mich an Sie, verehrter<lbr/>
+Herr wende, und Ihre Güte und Theilnahme als Künstler, Mensch<lbr/>
+und Landsma<abbr type="topline" expand="nn">n</abbr> in Anspruch nehme. &#8211; <persName key="65402"><rend class="latin">Gallus</rend></persName> &#8211; der von meinem Un<pc force="weak">=</pc><lbr/>ternehmen nichts weiß &#8211; ist viel zu stolz und edeldenkend, als <abbr expand="daß">dß</abbr> er<lbr/>
+ein Almosen a<abbr type="topline" expand="nn">n</abbr>ehmen würde, doch die hochherzigen Engländer, die auf<lbr/>
+eine so lieberale als <rend class="latin">delicate</rend> Weise, unserm großen <persName key="64205">Beethoven</persName>&#160;<div type="commentary" xml:id="commentID2253_2">Trost<lbr/>
+und Hülfe bothen<note corresp="#commentID2253_2">Ignaz Moscheles fungierte Anfang des Jahres 1827 als Vermittler zwischen dem kranken Beethoven 
+und der Philharmonic Society in London bezüglich einer finanziellen Unterstützung, 
+des durch Krankheit in Schwierigkeiten geratenen Beethoven. Sebastian Rau übergab 
+Beethoven im März 1827 1000 Gulden, für die sich dieser im Brief vom 18. März 1827 bei Moscheles bedankte.</note></div>, bedürfen wohl nur eines Impulses um Ihre Groß<pc force="weak">=</pc><lbr/>muth, auf eine ähnliche Art, an einem nicht minder würdigen Ma<abbr type="topline" expand="nn">n</abbr>e<lbr/>
+zu beweisen. Und von wem kö<abbr type="topline" expand="nn">n</abbr>te ihnen dieser <rend class="latin">Impuls</rend> willko<abbr type="topline" expand="mm">m</abbr>ner<lbr/>
+seyn, als von Ihnen, <emend value="den">de<abbr type="topline" expand="nn">n</abbr></emend> sie alle schätzen und lieben, von dem<lbr/>
+allgemein gefe&#255;erten Künstler, der durch die Gewalt der Töne, un<pc force="weak">=</pc><lbr/>widerstehlich auf ihre Herzen und Gemüthe wirkt. <persName key="65402"><rend class="latin">Gallus</rend></persName> hat dre&#255;<lbr/>
+Messen ganz fertig, von denen die zwe&#255; größern, als Meisterwerke<lbr/>
+angesehen werden kö<abbr type="topline" expand="nn">n</abbr>en, fast durchgängig im doppelten <rend class="latin">Contrapunkte</rend><lbr/>
+gearbeitet. Der kleinern, kö<abbr type="topline" expand="mm">m</abbr>t das <rend class="latin">Epithet</rend>&#160;<u>klein</u>, nur der geringern<lbr/>
+Bogenzahl <suppl hand="self" pos="supra">wegen</suppl>, und weil sie nur für <rend class="latin">Sop</rend>: <rend class="latin">Alt</rend>&#160;<u>u</u>&#160;<rend class="latin">Bass</rend> geschrieben ist, zu,<lbr/>
+de<abbr type="topline" expand="nn">n</abbr> auch diese ist ein, des Meisters würdiges Werk. Da Messen<lbr/>
+zum <rend class="latin">anglikanischen</rend> Gottesdienste nicht anwendbar sind, so wären<lbr/>
+diese <rend class="latin">Compositionen</rend> vielleicht mit unterlegten englischen Texte, für<lbr/>
+Liebhaber ernster Musik de<abbr type="topline" expand="nn">n</abbr>och brauchbar. Ferner hat er ein<lbr/>
+<pg n="3"/>
+gar schönes viersti<abbr type="topline" expand="mm">m</abbr>iges <rend class="latin">Stabat mater</rend> ganz im gebundnen Style, und<lbr/>
+an 20 <rend class="latin">Quartetten</rend> für Streichinstrumente, und endlich hat er<lbr/>
+be&#255;nahe alle Materalien zu den <rend class="latin">Entreacts</rend> und <rend class="latin">Chören</rend> für die <persName key="39002">Schakespearischen</persName><lbr/>
+Stücke: der Sturm  und Hamlet , welche zu beenden, er wenig Zeit<lbr/>
+bedürfen würde. &#8211; Meine Bitte geht dahin, ob Sie verehrter Herr<lbr/>
+es dahin bringen wollten, <abbr expand="daß">dß</abbr> von den edlen Engländern, diese herrlichen<lbr/>
+Tonstücke gekauft, <u>u</u> die noch nicht fertigen bestellt werden, und <abbr expand="daß">dß</abbr><lbr/>
+dem guten, alten Meister eine Darangabe hieher gesendet werde.<lbr/>
+Ich glaube be&#255;nahe, er macht sich mit seiner Musik, selbst nach<lbr/>
+England auf, de<abbr type="topline" expand="nn">n</abbr> seit Jahren war dieses se&#255;n Lieblingsplan,<lbr/>
+den er der Kosten wegen leider nicht ausführen ko<abbr type="topline" expand="nn">n</abbr>te.<lbr/>
+Indem ich Ihnen nochmahls meine Bitte recht sehr ans<lbr/>
+Herz lege, füge ich noch die zwe&#255;te be&#255;, mich recht bald mit<lbr/>
+einer Antwort beehren zu wollen. Empfangen Sie<lbr/>
+die Versicherung meiner ausgezeichnesten Hochachtung<lbr type="forced"/>
+<ts>__________________________</ts>und Verehrung, mit der ich mich zeichne<lbr type="forced"/>
+<ts>_______________________________________</ts><tspdf>\hfill </tspdf>Euer Wohlgeboren<lbr type="forced"/>
+<ts>_______________________________________</ts><tspdf>\hfill </tspdf>ergebenster <persName key="39407"><rend class="latin">WA Mozart</rend>&#160;<abbr expand="manu propria">mp</abbr></persName><lbr type="forced"/>
+<u><rend class="latin">Lemberg</rend> in östereichisch Galizien</u><lbr type="forced"/>
+<u>am 25<h><uu>t</uu></h> X<h><uu><rend class="latin">bris</rend></uu></h> 1827</u><lbr type="forced"/>
+<lbr type="forced"/>
+Unser erstes Handelshaus hier und in <rend class="latin">Brod&#255;</rend> heißt: <persName key="84904"><rend class="latin">Hausner</rend> und<lbr/>
+<rend class="latin">Violland</rend></persName>. &#8211; Briefe an mich bedürfen aber keiner andern <rend class="latin">Adresse</rend>, als<lbr/>
+meines Nahmens <u>u</u> in <rend class="latin">Lemberg</rend> in öster<abbr type="curve"></abbr> Galizien.
+<pg n="4"/>
+<add_note schr_id="0"><persName key="39407">Mozarts</persName> Brief</add_note>
+<anschrift rot="90"><rend class="latin"><u>Leopol</u><lbr type="forced"/>
+A Monsieur<lbr type="forced"/>
+Monsieur Ignace <u>Moscheles</u><lbr type="forced"/>
+Professeur en Musique célébre<lbr type="forced"/>
+Artiste et Compositeur, et<lbr type="forced"/>
+mêmbre de plusieures socie<pc force="weak">=</pc><lbr type="forced"/>tés philharmoniques<lbr type="forced"/>
+a<lbr type="forced"/>
+Londres.</rend></anschrift>
+<add_note schr_id="0">Durch <persName key="53454">Otto Hatwig</persName>, in Wien.</add_note>
+</NI></text>
+</MUP>

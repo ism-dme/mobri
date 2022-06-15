@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="2042">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-05</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=2042</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Wst</bibl>
+                <bibl type="source" subtype="long">A-Wst: Wienbibliothek im Rathaus, Musiksammlung. Wien (AUT)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-05-11">last file update: <date>Wed May 11 14:48:08 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="BD_1458.mup">
+<letter bd="1458">
+<HEADER id="2042">FRANZ XAVER WOLFGANG MOZART AN ALOYS FUCHS IN WIEN<lbr/>
+LEMBERG, 19. OKTOBER 1836</HEADER>
+<NI src="A-Wst">
+<pg n="1"/>
+<ts>_________________________________________</ts><tspdf>\hfill </tspdf><u>Lemberg am 19<h><uu>t</uu></h>&#160;<rend class="latin">Oct</rend>: <abbr expand="1836">836</abbr></u><lbr type="forced"/>
+<lbr type="forced"/>
+<ts>____________________</ts>Geehrter <persName key="64391">Freund</persName>!<lbr type="forced"/>
+<lbr type="forced"/>
+Ihrem Wunsche gemäß, übersende ich Ihnen be&#255;liegend die <workName key="5551"><rend class="latin">Cantate</rend>:<lbr/>
+<u>Dir Seele des Welt’alls</u></workName>, zu Ihrem <u>alleinigen</u> Gebrauche,<lbr/>
+und bitte um gelegentliche Zurücksendung, am besten durch<lbr/>
+<persName key="84760">Herrn Grell</persName>, auf der Seilerstadt N<h><uu>o</uu></h> 994.<lbr type="forced"/>
+<lbr type="forced"/>
+Mitfolgende <div type="commentary" xml:id="commentID2042_1"><rend class="latin">Composition</rend><note corresp="#commentID2042_1">Die <i>2ième Caprice p. Pianoforte</i> op. 12 von Julie Baroni-Cavalcabò erschien im Februar 1837 
+bei Tobias Haslinger in Wien (Friedrich Hofmeister, <i>Musikalisch-literarischer Monatsbericht</i>, Bd. 1837, S. 21).</note></div>&#160;<persName key="65250">meiner Schüleri<abbr type="topline" expand="nn">n</abbr></persName>, ersuche ich Sie<lbr/>
+die Gefälligkeit zu haben, sogleich <persName key="75458">Herrn von Haslinger</persName> übergeben<lbr/>
+zu wollen. Verzeihen Sie meine spartanische Kürze, allein die<lbr/>
+Zeit drängt mich. Leben Sie wohl, grüssen Sie herzlichst <persName key="49553">Frau<lbr/>
+<rend class="latin">Baroni</rend></persName>, und wer sich sonst meiner eri<abbr type="topline" expand="nn">n</abbr>ert, von Ihrem ergebnen<lbr type="forced"/>
+<ts>_______________________________________</ts><tshtm>____________________________</tshtm><tspdf>\hfill </tspdf>Frnde <persName key="39407"><rend class="latin">Mozart</rend></persName> mp<lbr type="forced"/>
+<lbr type="forced"/>
+Da ich nichts so gutes von eigener Arbeit anbiethen ka<abbr type="topline" expand="nn">n</abbr>, so bitte ich Sie<lbr/>
+dieses <rend class="latin">Exemplar</rend> der <workName key="5551"><rend class="latin">Cantate</rend></workName> zu behalten, und mir gütigst eine Abschrift<lbr/>
+davon zu senden.<lbr/>
+<add_note schr_id="0" impl="pencil">An <persName key="64391">Aloys <rend class="latin">Fuchs</rend></persName> in <rend class="latin">Wien</rend></add_note>
+<pg n="2"/>
+<add_seal type="owner">HAYDEN-MUSEUM DER STADT WIEN</add_seal>
+<lbr/>
+<add_seal type="owner">WIENER STADTBIBLIOTHEK</add_seal>
+</NI>
+</letter></text>
+</MUP>

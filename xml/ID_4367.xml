@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="4367">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-05</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=4367</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">CH-Bps</bibl>
+                <bibl type="source" subtype="long">CH-Bps: Paul Sacher Stiftung</bibl>
+                <bibl type="source" subtype="long">Bibliothek. Basel (CHE)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-05-13">last file update: <date>Fri May 13 15:07:23 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="ID_4367.mup">
+<HEADER id="4367">FRANZ XAVER WOLFGANG MOZART AN PETER LICHTENTHAL IN MAILAND<lbr/>
+VERONA, 18. AUGUST 1820</HEADER>
+<NI src="CH-Bps">
+<pg n="1"/>
+<ts>_______________________________</ts><tspdf>\hfill </tspdf><rend class="latin">Verona</rend> am 18<h><uu>ten</uu></h> august <abbr type="topline" expand="1820">820</abbr><lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____</ts>Lieber alter <persName key="38843">Freund</persName>!<lbr type="forced"/>
+<lbr type="forced"/>
+Du wirst nicht wenig staunen, einen Brief, von deinem<lbr/>
+<div type="commentary" xml:id="commentID4367_1">ehemaligen <rend class="latin">Presidenten</rend><note corresp="#commentID4367_1">Wohl Anspielung auf die Zeit in Wien, wo der Arzt und Musikliebhaber Peter Lichtenthal 
+ab etwa 1800 zum engeren Bekanntenkreis von Constanze und Franz Xaver Wolfgang Mozart gehörte. 
+Lichtenthal, ein großer Mozart-Verehrer, lebte ab 1810 in Mailand und war dort mit Carl Thomas Mozart bekannt.</note></div>, aus <rend class="latin">Verona</rend> zu beko<abbr type="topline" expand="mm">m</abbr>en!<lbr/>
+Vor ein paar Monaten hätte ich auch noch nicht geglaubt,<lbr/>
+Dich und meinen <persName key="48820">Bruder</persName> so bald <div type="commentary" xml:id="commentID4367_2">zu sehen<note corresp="#commentID4367_2">Carl Thomas Mozart lebte seit 1800 in Italien, zunächst in Livorno, ab 1806 in Mailand. 
+Die Brüder hatten sich seit 20 Jahren nicht mehr gesehen.</note></div>, den da<pc force="weak">=</pc><lbr/>mahls dachte ich noch nicht an eine <div type="commentary" xml:id="commentID4367_3">Reise nach Italien<note corresp="#commentID4367_3">Franz Xaver Wolfgang Mozart befand sich seit Mai 1819 auf einer Konzertreise durch Europa.</note></div>.<lbr/>
+Ganz unvermuthet, bekam ich das Verlangen, in einem<lbr/>
+Jahre, das Vergnügen zu vereinen <suppl hand="self" pos="supra"><persName key="48818">meine Mutter</persName>, und</suppl> meinen lieben<lbr/>
+<persName key="48820">Bruder</persName>, nach zwanzig jähriger Tre<abbr type="topline" expand="nn">n</abbr>ung, wieder zu um<pc force="weak">=</pc><lbr/>armen. Ich besa<abbr type="topline" expand="nn">n</abbr> mich nicht lange, sondern reiste ab,<lbr/>
+und kam über Triest, <rend class="latin">Venedig</rend>, etc hieher, von wo<lbr/>
+ich morgen abgehe. &#8211; Dinstag, das heißt, am 22<h><uu>t</uu></h> dieses<lbr/>
+werde ich in Lodi eintreffen, wo es mir sehr lieb wäre,<lbr/>
+we<abbr type="topline" expand="nn">n</abbr> du mit meinem <persName key="48820">Bruder</persName> hinkämst; jedoch wünschte<lbr/>
+ich, <abbr expand="daß">dß</abbr> du ihm nichts sagtest, wer ihn dort erwartet.<lbr/>
+Du ka<abbr type="topline" expand="nn">n</abbr>st ja wohl, etwas ausdichten, um ihn zu<lbr/>
+dieser <rend class="latin">promenade</rend> zu bewegen. &#8211; In jedem falle,<lbr/>
+<pg n="2"/>
+hoffe ich in Lodi einen Brief <suppl hand="self" pos="supra">von dir</suppl> zu finden, | mit <rend class="latin">poste<lbr/>
+restante</rend> | worin du mir das Haus andeutest, wo Ihr<lbr/>
+absteigen werdet. Ko<abbr type="topline" expand="mm">m</abbr>t ihr aber nicht, so musst du<lbr/>
+mir es de<abbr type="topline" expand="nn">n</abbr>och schreiben, damit ich nicht vergebens<lbr/>
+warte, und <div type="commentary" xml:id="commentID4367_4">meine Reise fortsetzen ka<abbr type="topline" expand="nn">n</abbr><note corresp="#commentID4367_4">Das Treffen in Lodi kam laut Reisetagebuch von Franz Xaver Wolfgang Mozart nicht zustande.</note></div>. &#8211; Das<lbr/>
+weitere mündlich.<lbr type="forced"/>
+<ts>_____________________________</ts><tspdf>\hfill </tspdf><persName key="39407">W A Mozart</persName> mp<lbr type="forced"/>
+<pg n="3"/>
+<anschrift><rend class="latin">Al Signore<lbr type="forced"/>
+Dottore Pietro de Lichtenthal<lbr type="forced"/>
+á<lbr type="forced"/>
+<u>Milano</u></rend></anschrift>
+<pg n="4"/>
+<vacat/>
+</NI></text>
+</MUP>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="2195">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-05</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=2195</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Wn</bibl>
+                <bibl type="source" subtype="long">A-Wn: Österreichische Nationalbibliothek. Wien (AUT)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-05-11">last file update: <date>Wed May 11 15:49:28 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="ID_2195.mup">
+<HEADER id="2195">FRANZ XAVER WOLFGANG MOZART AN IGNAZ VON MOSEL IN WIEN<lbr/>
+WIEN, VOR DEM 19. MAI 1820</HEADER>
+<pg n="1"/>
+<ts>_____</ts>Nebst einem guten Morgen, schicke ich <persName key="47900">Ihnen</persName>, da Sie<lbr/>
+so gütig waren, mir es zu erlauben, zwey Blätter<lbr/>
+meines <div type="commentary" xml:id="commentID2195_1">Sta<abbr type="topline" expand="mm">m</abbr>buches<note corresp="#commentID2195_1">Dieses Stammbuch, das Franz Xaver Wolfgang Mozart ab 1819 bis 1842 benutzte, 
+enthält vor allem Einträge von seiner großen Europareise 1819 bis 1822. 
+Barbara Caecilia Isabella von Mosel, Tochter von Iganz von Mosel, trug sich am 20. Mai, 
+Katharina von Mosel, zweite Ehefrau von Ignaz von Mosel, trug sich am 23. Mai 1820 ein; 
+ein Eintrag von Ignaz von Mosel hat sich nicht erhalten. 
+Das Stammbuch wird in der Library of Congress, Washington, aufbewahrt.
+Franz Xaver Wolfgang Mozart selbst trug sich am 15. Mai 1820 in das Stammbuch der Familie Mosel ein.</note></div>, für Sie, und Ihre liebenswürdigen<lbr/>
+Umgebungen, und ersuche Sie zugleich, den <persName key="59390"><rend class="latin">Abbé</rend> Stadler</persName> zu<lbr/>
+vermögen, das <div type="commentary" xml:id="commentID2195_2">dritte Blatt, mit seiner Unterschrift<note corresp="#commentID2195_2">Das Blatt von Abbé Maximilian Stadler, datiert mit 19. Mai 1820,
+wurde aus dem Stammbuch entnommen und befindet sich
+heute in der Kunstsammlung der Veste Coburg.</note></div><lbr/>
+zu beehren. Verzeihen Sie meiner Zudringlichkeit,<lbr/>
+aber ich ko<abbr type="topline" expand="nn">n</abbr>te gewiß keinen bessern Fürsprecher,<lbr/>
+wählen. Ihr ergebenster <persName key="39407"><rend class="latin">Mozart</rend></persName>&#160;<abbr expand="manu propria">mp</abbr><lbr/>
+<lbr/>
+<add_seal type="post">BIBLIOTHECA PALAT:<lbr/>
+VIDOBONENSIS:</add_seal>
+<pg n="2"/>
+<add_ident schr_id="47900"><rend class="latin">W. A. Mozart</rend>, Sohn</add_ident>
+<add_note schr_id="0">VII. 60<lbr/>
+Aus <persName key="47900">Mosels</persName> Correspondenz.</add_note></text>
+</MUP>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="2114">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-05</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=2114</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">D-DS</bibl>
+                <bibl type="source" subtype="long">D-DS: Universitäts- und Landesbibliothek</bibl>
+                <bibl type="source" subtype="long">Handschriften- und Musikabteilung. Darmstadt (DEU)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-05-11">last file update: <date>Wed May 11 14:48:29 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="ID_2114.mup">
+<HEADER id="2114">FRANZ XAVER WOLFGANG MOZART AN BREITKOPF &#38; HÄRTEL IN LEIPZIG<lbr/>
+LEMBERG, 13. JUNI 1812</HEADER>
+<NI src="D-DS">
+<pg n="1"/>
+<ts>_____________________________</ts><tspdf>\hfill </tspdf><u>Lemberg den 13<h><uu>t</uu></h> juni 1812</u><lbr type="forced"/>
+<lbr type="forced"/>
+<ts>__________</ts>Hochgeehrther <persName key="53244">Herr</persName>!<lbr type="forced"/>
+<lbr type="forced"/>
+Verzeihen Sie mir, daß ich Ihnen nur<lbr/>
+durch wenige Zeilen melde, daß ich den <div type="commentary" xml:id="commentID2114_1">2<h><uu>t</uu></h><lbr/>
+May<note corresp="#commentID2114_1">Brief vom 8. Mai 1812.</note></div>, durch die Post Ihnen geschrieben habe.<lbr/>
+Da ich vermuthe, daß Sie meinen Brief<lbr/>
+nicht erhalten haben, so ersuche ich Sie hiemit,<lbr/>
+mir gefälligst eine Gelegenheit anzuzeigen,<lbr/>
+damit ich Ihnen meine <workName key="11551"><rend class="latin">Sonate</rend></workName> übersenden ka<abbr type="topline" expand="nn">n</abbr>.<lbr/>
+<persName key="84796">H<abbr type="curve"></abbr> Pfaff</persName> hat auch noch nicht den Auftrag<lbr/>
+erhalten, mir die besti<abbr type="topline" expand="mm">m</abbr>ten 30 fl auszuzahlen,<lbr/>
+welche ich doch itzt da ich Patient bin, brauchen<lbr/>
+dürfte. Meine <rend class="latin">Add.<h>r</h></rend> wie i<abbr type="topline" expand="mm">m</abbr>er.<lbr type="forced"/>
+<lbr type="forced"/>
+Ich habe die Ehre zu bleiben<lbr type="forced"/>
+<ts>_____________________</ts><tspdf>\hfill </tspdf>Ihr ergebenster<lbr type="forced"/>
+<ts>__________________________________________________</ts><tspdf>\hfill </tspdf><persName key="39407">Mozart</persName>&#160;<abbr expand="manu propria">mp</abbr>
+<pg n="2"/>
+<vacat/>
+<pg n="3"/>
+<anschrift><u>Lemberg</u><lbr type="forced"/>
+An Herrn<lbr type="forced"/>
+Herrn <u>Breitkopf</u> und<lbr type="forced"/>
+<u>Härtel</u><lbr type="forced"/>
+Musikverleger<lbr type="forced"/>
+in<lbr type="forced"/>
+<u>Leipzig</u></anschrift>
+<pg n="4"/>
+<add_empf><u>1812.</u><ts>___________</ts><u><rend class="latin">Lemberg</rend>.</u><lbr/>
+<u>d. 13. <rend class="latin">Juny</rend></u><lbr/>
+<u>26. &#8211; </u><ts>_____________</ts><rend class="latin">Mozart</rend>.<lbr/>
+<u>28 <rend class="latin">July</rend></u></add_empf>
+</NI></text>
+</MUP>

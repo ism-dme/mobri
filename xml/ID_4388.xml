@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="4388">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-06</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=4388</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sae</bibl>
+                <bibl type="source" subtype="long">A-Sae: Archiv der Erzdiözese Salzburg. Salzburg (AUT)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-05-11">last file update: <date>Wed May 11 14:48:35 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="ID_4388.mup">
+<HEADER id="4388">FRANZ XAVER WOLFGANG MOZART AN FRANZ VON HILLEPRANDT IN SALZBURG<lbr/>
+WIEN, 7. OKTOBER 1843</HEADER>
+<NI src="A-Sae">
+<pg n="1"/>
+<ts>___________________________________</ts><tspdf>\hfill </tspdf><u><rend class="latin">Wien</rend> am 7<h><uu>t</uu></h> October <abbr expand="1843">843</abbr></u><lbr type="forced"/>
+<add_empf type="inline" schr_id="75653"><ts>___________________________________________________</ts>N<h>r</h> 707 p. 11<h>t</h> Okt <abbr type="topline" expand="1834">843</abbr></add_empf>   
+<lbr type="forced"/>
+<ts>______________</ts>Geehrter <persName key="75653">Freund</persName>!<lbr type="forced"/>
+<add_empf type="inline" schr_id="75653"><ts>_____________________________________________________________</ts>sogleich beantwortet,<lbr/>
+<ts>_____________________________________________________________</ts>dß er das Gesuch übergeben soll.</add_empf><lbr/>
+<lbr type="forced"/>
+Vor einigen Tagen, brachte mir <persName key="84771">Herr <rend class="latin">Glöggl</rend></persName>, ein paar<lbr/>
+Tenoristen, die mir, wie Sie aus <div type="commentary" xml:id="commentID4388_1">meiner Begutachtung<note corresp="#commentID4388_1">Franz Xaver Wolfgang Mozart unterstützte den 1841 gegründeten
+<i>Dommusikverein und Mozarteum</i> bei der Suche nach Musikern und Lehrern.</note></div> ersehen<lbr/>
+haben werden, nicht genügen ko<abbr type="topline" expand="nn">n</abbr>ten. Nun hat sich gestern, von<lbr/>
+einem unserer besten Gesanglehrer, <persName key="83587">Herrn Hauser</persName> empfohlen,<lbr/>
+ein junger Ma<abbr type="topline" expand="nn">n</abbr>, Nahmens <persName key="84977">Barth</persName> gemeldet, den ich auch alsogleich<lbr/>
+prüfte, und fand, <abbr expand="daß">dß</abbr> ich ihn, mit Fug und Recht, zu der <rend class="latin">vacanten</rend><lbr/>
+Stelle, Ihnen vorschlagen ka<abbr type="topline" expand="nn">n</abbr>. <persName key="84977">Herr Barth</persName> ist ein gesunder, junger<lbr/>
+Ma<abbr type="topline" expand="nn">n</abbr>, von 29 Jahren, hat eine starke, gesunde Tenorsti<abbr type="topline" expand="mm">m</abbr>e, ist gut mu<pc force="weak">=</pc><lbr/>sikalisch, da er be&#255; der Kirche aufgewachsen ist, und wäre auch<lbr/>
+als <rend class="latin">Solo</rend>sänger be&#255; <rend class="latin">Concerten</rend>, sehr wohl verwendbar, auch ist er ein<lbr/>
+ziemlich fester Geiger. Er ist verheurathet, aber kinderlos was wahrscheinlich<lbr/>
+auch so bleiben wird, da seine Ehe schon 4 Jahre ohne Erfolg ist.<lbr type="forced"/>
+Besser ist er nicht, als der abgegangene <persName key="84979">Jährer</persName>, wie mein Freund<lbr/>
+<persName key="83587">Hauser</persName> selbst sagt, aber in unserer Tenor-armen Zeit, ka<abbr type="topline" expand="nn">n</abbr> man<lbr/>
+für 300 fl C. M. unmöglich etwas ausgezeichnetes fordern. Schreiben Sie mir<lbr/>
+Ihre Meinung baldigst, und rechnen Sie i<abbr type="topline" expand="mm">m</abbr>er auf die Dienstbereitwil<pc force="weak">=</pc><lbr/>ligkeit Ihres alten Frdes<lbr type="forced"/>
+<ts>_____________________________________________</ts><tspdf>\hfill </tspdf><persName key="39407"><rend class="latin">Mozart</rend></persName>&#160;<abbr expand="manu propria">mp</abbr><lbr/>
+<pg n="2"/>
+<vacat/>
+<pg n="3"/>
+<vacat/>
+<pg n="4"/>
+<anschrift><u><rend class="latin">Wien</rend></u><lbr type="forced"/> 
+An Herrn<lbr type="forced"/>
+Herrn Franz <u><rend class="latin">Edlen von Hilleprandt</rend></u><lbr type="forced"/>
+Sämtlicher Rechte Doktor, Landes und<lbr type="forced"/>
+Gerichts-<rend class="latin">Advocat</rend>, und beeideter <rend class="latin">Notar</rend><lbr type="forced"/>
+zu<lbr type="forced"/>
+<u><rend class="latin">Salzburg</rend></u>.</anschrift>
+<lbr/>
+<add_seal type="post">WIEN<lbr/>
+10. OCT.</add_seal>
+<add_seal type="post">SALZBURG<lbr/>
+12. OCT.</add_seal>
+</NI></text>
+</MUP>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="2043">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-05</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=2043</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Verbleib unbekannt (Nachweis: Sotheby's London, Katalog, 8.12.2009, Lot 107, S. 44)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-05-11">last file update: <date>Wed May 11 14:48:08 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="BD_1459.mup">
+<letter bd="1459">
+<HEADER id="2043">FRANZ XAVER WOLFGANG MOZART AN ALOYS FUCHS IN WIEN<lbr/>
+LEMBERG, 10. MÄRZ 1837</HEADER>
+<NI src="unbekannt">
+<pg n="1"/>
+Schätzbarster <persName key="64391">Freund</persName>!<ts>____________</ts><tspdf>\hfill </tspdf><u>Lemberg, am 10<h>t</h></u>&#160;<u>März <abbr type="topline" expand="1837">837</abbr></u><lbr type="forced"/>
+<lbr type="forced"/>
+[<persName key="39407">Franz Xaver Wolfgang Mozart</persName> dankt für die Besorgung eines <div type="commentary" xml:id="commentID2043_1">Passes<note corresp="#commentID2043_1">Laut Passanweisungsprotokoll des Wiener Konskriptionsamtes (A-Wsa, B4/23) wurde der Pass am 21. Februar 1837 ausgestellt.</note></div> 
+und will <persName key="64391">Aloys Fuchs</persName>&#160;<div type="commentary" xml:id="commentID2043_2">Ende Mai in Wien besuchen<note corresp="#commentID2043_2">Franz Xaver Wolfgang Mozart hielt sich im Frühsommer 1837 in Wien auf, 
+Ende Juni bis Mitte August 1837 besuchte er seine Mutter in Salzburg.</note></div>. Er sendet ein Konzert zurück.]<lbr type="forced"/>
+<lbr type="forced"/>
+[...] <rend class="latin">Concert</rend> ganz so wie ich es aus Ihren Händen erhalten<lbr/> 
+und wohl <rend class="latin">embellirt</rend>. Daß ich Ihren Wunsch, hinsichtlich der <div type="commentary" xml:id="commentID2043_3">frag<pc force="weak">=</pc><lbr/>mente<note corresp="#commentID2043_3">Franz Xaver Wolfgang Mozart war im Besitz von 60 autographen Fragmenten seines Vaters Wolfgang Amadé Mozart. 
+Diese Manuskripte gelangten 1844 neben anderen wertvollen Autographen wie Briefen der Mozart-Familie durch die 
+Vermittlung von Aloys Fuchs über Josephine Baroni-Cavalcabò, die Universalerbin von Franz Xaver Wolfgang Mozart, 
+an den 1841 gegründeten <i>Dommusikverein und Mozarteum</i> in Salzburg. Sie sind heute Bestandteil der wertvollen 
+Mozart-Autographensammlung der Bibliotheca Mozartiana der Stiftung Mozarteum Salzburg.</note></div> nicht erfüllen ko<abbr type="topline" expand="nn">n</abbr>te,<lbr type="BD"/> fiel mir gewiß recht schwer, aber<lbr/>
+Sie kö<abbr type="topline" expand="nn">n</abbr>en mir es gewiß nicht übel nehmen,<lbr type="BD"/> we<abbr type="topline" expand="nn">n</abbr> Sie bedenken<lbr/>
+wollen, <abbr expand="daß">dß</abbr> dieß das einzige Erbtheil ist, was ich von<lbr type="BD"/> meinem <persName key="39409">Vater</persName><lbr/>
+besitze, und was ich daher nie, oder wenigstens nur gegen<lbr type="BD"/> bedeutenden<lbr/>
+Vortheil aus den Händen geben werde. Findet sich einmahl ein<lbr type="BD"/><lbr/>
+reicher Verehrer <persName key="39409">Mozarts</persName>, der mir diese Sachen gut bezahlt, so<lbr/>
+mag er sie<lbr type="BD"/> haben, doch kö<abbr type="topline" expand="nn">n</abbr>en Sie überzeugt se&#255;n, <abbr expand="daß">dß</abbr> ich mir in<lbr/>
+diesem Falle, eine<lbr type="BD"/> Abschrift behalten würde, damit sie der künftige<lbr/>
+Besitzer, nicht etwa als<lbr type="BD"/> eigene Geistesprodukte benützen ka<abbr type="topline" expand="nn">n</abbr>. [...].<lbr type="forced"/>
+<lbr type="forced"/>
+[Franz Xaver Wolfgang Mozart beglückwünscht den Freund „zur erfreulichen Vermehrung“ seiner Familie 
+und bestellt zum Schluss Empfehlungen „von mir und der <rend class="latin">Casa Baroni</rend> an unsern Freund <persName key="84764">Baroni</persName>“.]
+<pg n="2"/>
+<anschrift>
+Herrn <u><rend class="latin">Aloys Fuchs</rend></u><lbr type="forced"/>
+<rend class="latin">Concept=Adjunct</rend> des k. k.<lbr type="BD"/> Hofkriegsraths<lbr type="forced"/>
+in<lbr type="forced"/>
+<u><rend class="latin">Wien</rend></u><lbr type="forced"/>
+</anschrift>
+</NI>
+</letter>
+</text>
+</MUP>

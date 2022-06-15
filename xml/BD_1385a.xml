@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="1959">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-05</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1959</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">IL-J</bibl>
+                <bibl type="source" subtype="long">IL-J: Jewish National and University Library. Jerusalem (ISR)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-05-11">last file update: <date>Wed May 11 14:48:08 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="BD_1385a.mup">
+<letter bd="1385a">
+<NI src="IL-J">
+<HEADER id="1959">PETER LICHTENTHAL UND CONSTANZE NISSEN AN CARL BERTUCH IN WEIMAR<lbr/>
+WIEN, 23. DEZEMBER 1809</HEADER>
+<pg n="1"/>
+<ts>________________________</ts><tshtm>_____________________________________________________________</tshtm><tspdf>\hfill </tspdf>Wien, d<abbr v="en"/> 23. <rend class="latin">Dec.</rend> 1809.<lbr type="forced"/>
+<lbr type="forced"/>
+Unterzeichneter entledigt sich mit vielem Vergnügen des Auftrages der <persName key="48818">Frau v. <rend class="latin">Nissen</rend></persName> |: ehedem<lbr/> 
+Wittwe Mozart :|, den <div type="commentary" xml:id="commentID1959_1">Brief<note corresp="#commentID1959_1">Brief nicht erhalten.</note></div> welchen Sie ihrem <persName key="39407">Sohne</persName> lezthin schrieben, an seiner Statt zu<lbr/>
+beantworten, nachdem dieser junge Künstler gegenwärtig von hier abwesend, und bei einer Herr<pc force="weak">=</pc><lbr/>schaft in Gallizien als Klavier= u. Konzertmeister angestellt ist. Ich unterziehe mich auch<lbr/>
+diesem kleinen Geschäfte um so schneller, da ich als alter Hausfreund unsers nunmehr wür<pc force="weak">=</pc><lbr/>digen <persName key="48818 57010">Ehepaars Nissen</persName>, Sie bei <div type="commentary" xml:id="commentID1959_2">Ihrem hiesigen Aufenthalte vor einigen Jahren<note corresp="#commentID1959_2">Carl Bertuch hatte den Winter 1805/06 in Wien verbracht.
+Darüber berichtet er in seiner Schrift <i>Bemerkungen auf einer Reise aus Thüringen 
+nach Wien im Winter 1805 bis 1806</i>, Erstes Heft, Weimar 1808.</note></div> persönlich die<lbr/>
+Ehre hatte kennen zu lernen, und herzlich würde es mich freuen, wenn ich Ihren Wunsch nur<lbr/>
+einigermaßen befriedigte.<lbr type="forced"/> 
+<ts>_____</ts><persName key="38771">Ha&#255;dns</persName> Merkwürdigkeiten und sein leztes Ende stehen gerade im umgekehrten<lbr/>
+Verhältnisse; die Geschichte seines lezten Dase&#255;ns beschränkt sich in sehr wenigem, und alles was<lbr/>
+ich Ihnen hierüber sagen kann ist folgendes: Das in aller Wiener Herzen ewig denkwürdige<lbr/>
+Bombardement ihrer prächtigen Hauptstadt, welches verwichenen 11. Ma&#255; statt hatte, war jene<lbr/>
+Parze welche den Lebensfaden des ehrwürdigen Orpheus abschnitt, und welches auf seinen ohnehin<lbr/>
+äußerst schwachen und irritablen Körper den verderblichsten Einfluß äußerte. Die gewaltigen<lbr/>
+Schüsse welche sowohl auf die Stadt, als von dieser auf die Vorstädte geschahen, er<pc force="weak">=</pc><lbr/>schütterten den Greisen, obschon sein Haus sehr entlegen und schußfre&#255; war, so heftig,<lbr/>
+daß seinen Leuten um ihn mehrmahlen recht bange wurde; doch besaß er zuweilen<lbr/>
+soviel Kraft u. Geist, daß er sogar selbst seine Leute tröstete. Allein heftig<lbr/>
+zerrüttet war nun einmahl seine Maschine durch diesen Kriegesschrecken, und<lbr/>
+allmählig ging sie ihrem Ende näher; er entschlu<abbr type="topline" expand="mm">m</abbr>erte sanft an jenem Tage<lbr/>
+(: 31 May :), welcher dem französischen Kriegsheere den großen Feldherrn, den Marschall<lbr/>
+<persName key="84989"><rend class="latin">Lannes</rend></persName> entriß. &#8211; <persName key="38771">Ha&#255;dn</persName> wurde ganz im stillen, ohne allen Prunk auf dem<lbr/>
+zu seiner Pfarre gehörigen Kirchhofe neben der verstorbenen berühmten tragischen<lbr/>
+Schauspielerin <persName key="84988">Roosé</persName>&#160;<suppl hand="diff" schr_id="57010" pos="inline">(gebohrnen Koch)</suppl> beerdigt, und wird im kurzen, wie mir gestern <persName key="39314">H<abbr type="curve">:</abbr><lbr/>
+<rend class="latin">Hummel</rend></persName>, <persName key="74595">Esterhaz&#255;scher</persName> Konzertmeister, sagte, von hier <div type="commentary" xml:id="commentID1959_3">in die Gruft nach<lbr/>
+Eisenstadt<note corresp="#commentID1959_3">Haydns Leichnam (ohne Schädel) wurde erst 1820 nach Eisenstadt 
+überführt und in der Krypta der Pfarrkirche Eisenstadt-Oberberg (Bergkirche) bestattet.</note></div> transportirt werden.<lbr type="forced"/>
+<ts>_____</ts>Zu dem <persName key="39409">Mozartischen</persName>&#160;<workName key="7373">Requiem</workName>, welches man für ihn hier <div type="commentary" xml:id="commentID1959_4">in der Kirche<lbr/>
+zu den Schotten<note corresp="#commentID1959_4">Die Totenmesse zu Ehren Joseph Haydns in der Basilika „Unsere Liebe Frau zu den Schotten“ 
+fand am 15. Juni 1809 statt. Joseph Eybler leitete das Requiem KV 626 von Wolfgang Amadé Mozart. 
+Bei dem Requiem in der Pfarrkirche Gumpendorf am 2. Juni 1809 
+war das Requiem c-Moll MH 155 seines jüngeren Bruders Michael Haydn (1737–1806) erklungen.</note></div> gab, erhielt ich ebensfalls ein Entree Billet, und fand daselbst<lbr/>
+nebst einer Ungeheuern Menge der hiesigen Bewohner auch eine sehr große Anzahl<lbr/>
+der ersten französischen Autoritäten; die Kirche war so voll, daß man kaum stehen<lbr/>
+konnte. Einige wollten bemerken, noch nie dieses große Kunstwerk so gut als<lbr/>
+gerade damals exequirt gehört zu haben, auch ich sti<abbr type="topline" expand="mm">m</abbr>e ihnen bei; nur ist<lbr/>
+zu wünschen, daß unser beliebte Musikdirektor, <persName key="50969">H<abbr type="curve">.</abbr>&#160;<rend class="latin">Clement</rend></persName>, welcher immer das Ganze<lbr/>
+dirigirt, <u>ein u. dasselbe</u> Ensamble beim Orchester, wie er dieses beim Singper<pc force="weak">=</pc><lbr/>sonale thut, beobachten möchte. Solche delicaten Musiken verlieren ungemein, wenn<lbr/>
+sich nur ein einziges, nicht i<abbr type="topline" expand="mm">m</abbr>er daran gewöhntes, Subject <suppl hand="self" pos="supra">dabei</suppl> befindet.<lbr type="forced"/>
+<pg n="2"/>
+<persName key="73743"><rend class="latin">Mad. Campi</rend></persName>, und <persName key="84985"><rend class="latin">Dlle. Marconi</rend></persName>, die bekannten Sängerinnen dieses göttlichen Meister<pc force="weak">=</pc><lbr/>stücks, u. <persName key="84987">H<abbr type="curve">.</abbr> Pfeifer</persName>, Bassist verherrlichten diese Andacht durch Schönheit und<lbr/>
+Precision ihres Gesangs; auch <persName key="84986">H<abbr type="curve">.</abbr> Gottdank</persName>, Tenorist trug das seinige bei.<lbr type="forced"/>
+<ts>_____</ts>Hier ist nun <u>alles</u> was ich Ihnen über diesen Punkt mit Gewiß<pc force="weak">=</pc><lbr/>heit zu sagen vermochte. Unbekannte Komposizionen hinterließ <persName key="38771">Haydn</persName>, außer<lbr/>
+gegen 40 Canons, die man auch bei seiner Lebenszeit in seinem Zi<abbr type="topline" expand="mm">m</abbr>er unter<lbr/>
+Rahm u. Glas sehen konnte, gar keine. Obgenannter <rend class="latin">Compositeur</rend>&#160;<persName key="39314">Hu<abbr type="topline" expand="mm">m</abbr>el</persName>,<lbr/>
+welcher mir dieses ausdrücklich sagte, hat vor einiger Zeit eine kleine<lbr/>
+<div type="commentary" xml:id="commentID1959_5">Lebensbeschreibung Haydns<note corresp="#commentID1959_5">Eine Biographie Joseph Haydns von Johann Nepomuk Hummel ist nicht bekannt.</note></div> für den General <persName key="84984"><rend class="latin">Andreossy</rend></persName>, welcher bekanntlich<lbr/>
+während den hiesigen Aufenthalt der Franzosen <rend class="latin">Gouverneur General</rend> war,<lbr/>
+geschrieben; sie wurde sogleich ins Französische übersezt, und wird ver<pc force="weak">=</pc><lbr/>muthlich in Frankreich ans tagslicht ko<abbr type="topline" expand="mm">m</abbr>en.<lbr type="forced"/>
+<ts>_____</ts>Ich schließe mit dem Wunsche Ihnen in andern Gelgenheiten<lbr/>
+dienen zu können, und es wird sie sehr gerne ergreifen<lbr type="forced"/>
+<ts>__________________________________________</ts><tspdf>\hfill </tspdf>Ihr schätzender Freund <abbr expand="und">u</abbr> Diener<lbr type="forced"/>
+<ts>____________________________________________</ts><tspdf>\hfill </tspdf><persName key="38843">Dr. Lichtenthal</persName><lbr type="forced"/>
+<rend class="latin">Adresse</rend> /<lbr type="forced"/>
+<ts>_______</ts><rend class="latin">Peter Lichtenthal</rend>, Doktor der<lbr type="forced"/>
+Arzneikunde, in der Nunziatur auf dem Hof<lbr type="forced"/>
+<ts>__________________________</ts><rend class="latin">Wien</rend><lbr type="forced"/>
+<lbr type="forced"/>
+<NS type="NS" schr_id="48818" adr_id="73264">
+Mein lieber <persName key="73264">Bertuch</persName>,<lbr type="forced"/>
+ich sehe aus Ihrem <div type="commentary" xml:id="commentID1959_6">Briefe<note corresp="#commentID1959_6">Brief nicht erhalten.</note></div>, daß Sie nicht gewußt haben, daß mein Sohn <persName key="39407"><rend class="latin">Wolfgang Amadee</rend></persName> der zweyte, der denselben erhalten soll,<lbr/>
+schon seit dem 22. Oct. v. J. nicht mehr bey mir ist, sondern ein Engagement in <rend class="latin">Podkamién</rend> über <rend class="latin">Strzeliska</rend><lbr/>
+und <rend class="latin">Lemberg</rend>&#160;<postxt type="inline" loc="bot" rot="0">bey dem <persName key="73109">Grafen v. <rend class="latin">Baworowski</rend></persName></postxt> hat. Allein Ihr Schreiben gieng deswegen doch nicht irre, indem es mich noch hier traf. Beyliegendes<lbr/>
+zeigt Ihnen, daß ich mich sogleich in Betref Ihres Wunsches an einen <persName key="38843">Freund</persName> gewandt habe, der mehr wissen konnte als ich,<lbr/>
+da auch ich und meiner lieber <persName key="57010">Mann</persName>, der sich Ihnen beßtens empfehlen läßt, zu selbiger Zeit <div type="commentary" xml:id="commentID1959_7">nicht hier waren <note corresp="#commentID1959_7">Constanze Mozart und Georg Nikolaus Nissen hielten sich mehrere Wochen 
+in Preßburg auf, wo sie am 26. Juni 1809 im Dom St. Martin heirateten.</note></div>. Einen<lbr/>
+Umstand hat dieser Freund vergessen, daß nämlich <persName key="">Haydn</persName> eine Tafel nach Gewohnheit auf sein Haus hatte<lbr/>
+anmachen lassen, mit der Inschrift: <div type="commentary" xml:id="commentID1959_8"><rend class="latin">H., membre de l’Institut</rend><note corresp="#commentID1959_8">Joseph Haydn war seit 1801 auswärtiges Mitglied des Instituts de France in Paris.</note></div>, wodurch sein Haus respectirt wurde. Ich lege Ihnen mit<lbr/>
+Vergnügen einen <div type="commentary" xml:id="commentID1959_9">Brief von <persName key="39409">Mozart</persName><note corresp="#commentID1959_9">Bei dem Geschenk handelt es sich sehr wahrscheinlich um den Brief
+von Wolfgang Amadé Mozart an seine Ehefau Constanze vom 28. September 1790 (BD 1135).</note></div> bey, und wünsche, daß es Ihnen angenehm sey. hätte ich länger wählen wollen,<lbr/>
+so hätte ich Sie müssen warten lassen, da mein <persName key="57010">Mann</persName> solche Papiere, unter den seinigen hat. Und nun leben<lbr/>
+Sie wohl, sprechen Sie wieder zu wenn ich Ihnen nur nüzlich und zu Diensten seyn kann, empfehlen Sie mich unbe<pc force="weak">-</pc><lbr/>kannter Weise der Freundschaft Ihrer <persName key="84991">Gattinn</persName> und uns beyde, so bald Sie Gelegenheit haben, dem lieben guten <div type="commentary" xml:id="commentID1959_10">L. R.<note corresp="#commentID1959_10">Legations Rat.</note></div><lbr type="forced"/>
+<persName key="47576"><rend class="latin">Griesinger</rend></persName>.<ts>_____</ts><tshtm>___________________________________________________________________</tshtm><tspdf>\hfill </tspdf>Ihre Freundinn und Dienerinn<lbr type="forced"/>
+<ts>_____________________</ts><tshtm>________________________________________________________________</tshtm><tspdf>\hfill </tspdf><persName key="48818"><rend class="latin">Constanze Nissen</rend></persName> gewesene <rend class="latin">Mozart</rend>  
+</NS> 
+</NI>
+</letter></text>
+</MUP>

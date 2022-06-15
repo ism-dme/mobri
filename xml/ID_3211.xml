@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="3211">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-06</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=3211</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sae</bibl>
+                <bibl type="source" subtype="long">A-Sae: Archiv der Erzdiözese Salzburg. Salzburg (AUT)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-06-08">last file update: <date>Wed Jun  8 11:10:50 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="ID_3211.mup">
+<HEADER id="3211">FRANZ VON HILLEPRANDT AN FRANZ XAVER WOLFGANG MOZART IN WIEN<lbr/>
+SALZBURG, 7. NOVEMBER 1842<lbr/>
+Entwurf</HEADER>
+<NI>
+<pg n="1"/>
+<anschrift>An S<h><uu>r</uu></h> Wohlgeboren<lbr type="forced"/>
+des Herrn <persName key="39407"><rend class="latin">W: A: Mozart</rend></persName> Compositeur<lbr type="forced"/>
+in Wien</anschrift><lbr type="forced"/>
+<lbr type="forced"/>
+Der Dom=Musik=Verein und das Mozarteum<lbr/>
+zu Salzburg hat beschlossen Eure Wohlgeboren<lbr/>
+in Berücksichtigung Ihrer ausgezeichneten musi<pc force="weak">=</pc><lbr/>kalischen Kentniße und Ihrer erprobten regen<lbr/>
+Theilnahme an dem Gedeihen dieser den<lbr/>
+Namen Ihres verewigten <persName key="39409">Vaters</persName> führenden<lbr/>
+Anstalt, zum <div type="commentary" xml:id="commentID3211_1"><u>Ehrenkapelmeister</u> dieses Vereines<lbr/>
+zu ernennen<note corresp="#commentID3211_1">Aus dem Sitzungsprotokoll der Repräsentanten des <i> Dommusikverein und Mozarteums</i> 
+vom 7. November 1842 (A-Sae, Dommusikverein 422) geht hervor, dass die Ernennung 
+Franz Xaver Wolfgang Mozarts zum Ehrenkapellmeister auf dessen eigenen Wunsch hin erfolgte.</note></div>, im Vertrauen und mit dem<lbr/>
+innigen Wunsche, <abbr expand="daß">dß</abbr> Euer Wohlgeboren<lbr/>
+fortfahren werden zur Erreichung<lbr/>
+seines statutenmässigen Zweckes eifrichst<lbr/>
+mitzuwirken.<lbr type="forced"/>
+<ts>_____</ts>Salzburg am 7<h><uu>t</uu></h> Nov. <abbr type="topline" expand="1842">842</abbr>.<lbr type="forced"/>
+<div type="commentary" xml:id="commentID3211_2"><stroke hand="self">und durch die Ernennung zugleich einen<lbr/>
+Theil der Schuld welche die Welt<lbr/>
+Ihrem verblichenen <persName key="39409">Vater</persName> zu lösen hat,<lbr/>
+zu tilgen, indem man den Sohn im Vater<lbr/>
+ehret.</stroke><note corresp="#commentID3211_2">Da das Originalschreiben an Franz Xaver Wolfgang Mozart, 
+das vermutlich am 11. Dezember 1842 abgeschickt wurde, 
+nicht erhalten ist, lässt sich nicht verifizieren, 
+ob der gestrichene Passus übernommen worden ist oder nicht.</note></div>
+<add_note schr_id="0"><ts>_________________________________</ts><div type="commentary" xml:id="commentID3211_3"><rend class="latin">mundirt</rend><note corresp="#commentID3211_3">mundieren (von lat. mundare, säubern, reinigen), veraltet: ins Reine schreiben.</note></div><lbr/>
+<ts>_______________________________________</ts>Mhs/Mss<lbr/>
+<ts>_______________________________________________</ts>11/12 <abbr type="topline" expand="1842">842</abbr>.</add_note>
+<pg n="2"/>
+<vacat/>
+</NI>
+</text>
+</MUP>

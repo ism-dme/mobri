@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="2058">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-06</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=2058</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">CZ-Pu</bibl>
+                <bibl type="source" subtype="long">CZ-Pu: Národní knihovna (dríve Universitní knihovna). Prag (CZE: Praha)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-05-11">last file update: <date>Wed May 11 14:48:08 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="BD_1473.mup">
+<letter bd="1473">
+<HEADER id="2058">WOLFGANG MOZART AN JOHANN VOGEL(?) IN SALZBURG<lbr/>
+WIEN, 12. AUGUST 1842</HEADER>
+<NI src="CZ-Pu">
+<pg n="1"/>
+<ts>__________________</ts>Euer <div type="commentary" xml:id="commentID2058_1"><persName key="79606">Wohlgeboren</persName><note corresp="#commentID2058_1">Der Salzburger Jurist und Landrat Johann Vogel war Mitglied des Comité zur Errichtung des Mozart-Denkmals.</note></div>!<lbr type="forced"/>
+<lbr type="forced"/>
+Empfangen Sie vorerst meinen verbindlichsten Dank, für alles<lbr/>
+freundliche, was Sie, in Ihrem <div type="commentary" xml:id="commentID2058_2">geehrten, vom 5<h><uu>t</uu></h> l. M.<note corresp="#commentID2058_2">Brief nicht erhalten.</note></div> mir zu sagen, die Güte<lbr/>
+haben. Möge meine Leistung, Ihrer Erwartung, in dem Maaße entsprechen, wie<lbr/>
+ich es der großen <div type="commentary" xml:id="commentID2058_3">Fe&#255;er<note corresp="#commentID2058_3">Für die Zeremonie anlässlich der Enthüllung des Mozart-Denkmals am
+4. September 1842 in Salzburg hat Franz Xaver Wolfgang Mozart
+einen <i>Fest-Chor</i> WV IXa:3 aus Musik seines Vaters arrangiert.</note></div>, und endlich meiner selbst willen, gewiß recht sehnlich<lbr/>
+wünsche! Erlauben Sie, <abbr expand="daß">dß</abbr> ich, um nichts zu vergeßen, das folgende, wie es mir<lbr/>
+eben in den Si<abbr type="topline" expand="nn">n</abbr> kö<abbr type="topline" expand="mm">m</abbr>t, herschreibe.<lbr type="forced"/>
+<lbr type="forced"/> 
+Be&#255;folgend übersende ich die Partituren, zwe&#255;er großer Messen, zur beliebigen<lbr/>
+Auswahl, wenn eine derselben, dem <rend class="latin">Comiteé</rend>, der Gelegenheit entsprechender scheinen<lbr/>
+sollte, als die vor der Hand festgesetzte. <div type="commentary" xml:id="commentID2058_4">Die im Jahre 1776 komponierte<note corresp="#commentID2058_4">Gemeint ist wohl die Missa in C „Orgelsolomesse“ KV 259. 
+Diese Messe wurde beim Hochamt im Dom am 4. September 1842 aufgeführt.</note></div>, erhielt<lbr/>
+ich, aus der Bibliothek des Stiftes zu S<h><uu>t</uu></h> Peter in <rend class="latin">Salzburg</rend>. Mein <rend class="latin">Copist</rend> vergaß<lbr/>
+die Orgel Sti<abbr type="topline" expand="mm">m</abbr>e zu beziffern, was, da Sie nun die <rend class="latin">Quel</rend>le wissen, nöthigen falles<lbr/>
+leicht zu ergänzen ist.<lbr type="forced"/> 
+<lbr type="forced"/>
+Da so treffliche Sänger, wie <persName key="53444"><rend class="latin">Md: Hasselt-Barth</rend></persName>, <persName key="84766"><rend class="latin">Lutz</rend></persName>, und wie ich höre auch<lbr/>
+<persName key="84994">Staudigel</persName> anwesend se&#255;n werden, so bin ich von meiner frühern <rend class="latin">Idée</rend> ab<pc force="weak">=</pc><lbr/>gegangen, und lasse das <rend class="latin">Adagio</rend>, in meinem <workName key="11711">Festchor</workName> nun von vier <rend class="latin">Solo</rend> Sängern<lbr/>
+vortragen, was be&#255; so herrlichen Sti<abbr type="topline" expand="mm">m</abbr>en, von hinreißender Wirkung se&#255;n muß.<lbr/>
+In Ermangelung einer Altisti<abbr type="topline" expand="nn">n</abbr>, wird sich ja wohl, ein tauglicher Sängerknabe finden,<lbr/>
+dem einstweilen den Part einzustudiren, es jedenfalls gerathen se&#255;n dürfte, um<lbr/>
+später nicht etwa in Verlegenheit zu ko<abbr type="topline" expand="mm">m</abbr>en.<lbr type="forced"/>
+<lbr/>
+<pg n="2"/>
+Wegen eines <rend class="latin">F. p.</rend> ist das Nöthige veranstaltet, da der Hofklawiermacher<lbr/>
+<persName key="59565">Streicher</persName>, gegen Ersatz der <rend class="latin">Transport</rend>kosten, eines der vortrefflichsten<lbr/>
+Instrumente, das bis nun zu, seine Werkstätte verlassen, zur rechten Zeit nach<lbr/>
+<rend class="latin">Salzburg</rend> senden wird, was auch <persName key="59769">Herrn <rend class="latin">Thalberg</rend></persName>, der wie hier verlautet, auch <div type="commentary" xml:id="commentID2058_5">nach<lbr/>
+<rend class="latin">Salzburg</rend> zur Verhe<abbr type="topline" expand="rr">r</abbr>lichung des Festes kö<abbr type="topline" expand="mm">m</abbr>t<note corresp="#commentID2058_5">Der Pianist Sigismund Thalberg nahm nicht an den Feierlichkeiten teil.</note></div>, nur angenehm se&#255;n dürfte, weil<lbr/>
+sowoll der Verfertiger, als ich, ihm mit Vergnügen dieses Instrument<lbr/>
+zum <rend class="latin">Concerte</rend> überlassen werden.<lbr type="forced"/>
+<lbr type="forced"/>
+Ich habe in meinem <div type="commentary" xml:id="commentID2058_6">letzten Briefe<note corresp="#commentID2058_6">Dieser Brief ist nicht erhalten.</note></div>, h<abbr type="curve"></abbr>&#160;<persName key="75653"><rend class="latin">D. v.</rend> Hilleprandt</persName> ersucht, mir für ein<lbr/>
+paar Freunde, die ich mitbringe, zwe&#255; Zi<abbr type="topline" expand="mm">m</abbr>er, oder <suppl hand="self" pos="supra">lieber noch</suppl> ein Zi<abbr type="topline" expand="mm">m</abbr>er mit zwe&#255; Betten gefälligst<lbr/>
+zu besorgen, versteht sich, gegen Bezahlung; darf ich Sie wohl ersuchen, ihn daran<lbr/>
+zu eri<abbr type="topline" expand="nn">n</abbr>ern. Ich verlasse <rend class="latin">Wien</rend> am 26<h><uu>t</uu></h> und ko<abbr type="topline" expand="mm">m</abbr>e am 28<h><uu>t</uu></h> be&#255; Ihnen an.<lbr type="forced"/>
+<lbr type="forced"/>
+Leben Sie recht wohl, und se&#255;n Sie der i<abbr type="topline" expand="nn">n</abbr>igsten Hochachtung versichert<lbr type="forced"/>
+<ts>_______________________________________________________</ts>Ihres ergebensten<lbr type="forced"/>
+<u><rend class="latin">Wien</rend> am 12<h><uu>t</uu></h>&#160;<rend class="latin">August</rend>&#160;<abbr type="topline" expand="1842">842</abbr></u><ts>__________</ts><tshtm>________________________</tshtm><tspdf>\hfill </tspdf><persName key="39407"><rend class="latin">W A Mozart</rend></persName>&#160;<abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<lbr type="forced"/>
+Ich habe schon früher angezeigt, <abbr expand="daß">dß</abbr> ich das <workName key="5537"><rend class="latin">D minor Concert</rend></workName>&#160;<persName key="39409">meines<lbr/>
+Vaters</persName>&#160;<div type="commentary" xml:id="commentID2058_7">spielen werde<note corresp="#commentID2058_7">Franz Xaver Wolfgang Mozart spielte das Klavierkonzert d-Moll KV 466 
+im Festkonzert am 4. September 1842 im Carabinieri-Saal der Residenz.</note></div>.
+</NI>
+</letter></text>
+</MUP>

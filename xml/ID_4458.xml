@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="4458">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-06</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=4458</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sae</bibl>
+                <bibl type="source" subtype="long">A-Sae: Archiv der Erzdiözese Salzburg. Salzburg (AUT)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-05-11">last file update: <date>Wed May 11 14:48:35 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="ID_4458.mup">
+<HEADER id="4458">FRANZ VON HILLEPRANDT AN FRANZ XAVER WOLFGANG MOZART IN WIEN<lbr/>
+SALZBURG, 7. APRIL 1842<lbr/>
+Entwurf</HEADER>
+<NI src="A-Sae">
+<pg n="1"/>
+<ts>_____</ts>Geehrter <persName key="39407">Freund</persName>!<lbr type="forced"/>
+<lbr type="forced"/>
+Die angenehme <div type="commentary" xml:id="commentID4458_1">Nachricht<note corresp="#commentID4458_1">Brief vom 3. April 1842.</note></div> in <div type="commentary" xml:id="commentID4458_2">Betreff der <persName key="53444"><rend class="latin">Hasselt</rend></persName><note corresp="#commentID4458_2">Die Sopranistin Maria Wilhelmine von Hasselt-Barth übernahm die Solopartien 
+bei den musikalischen Aufführungen bei den Feierlichkeiten anlässlich 
+der Enthüllung des Mozart-Denkmals in Salzburg vom 4. bis zum 6. September 1842.</note></div><lbr/>
+freut mich, auch sind bereits offizielle Nachrichten<lbr/>
+eingetroffen, daß der Theaterunternehmer die Urlaubs<pc force="weak">=</pc><lbr/>bewilligung schriftlich ertheilt habe.<lbr type="forced"/>
+<ts>_____</ts>Für Ihre eben so bereitwillige als gütige <div type="commentary" xml:id="commentID4458_3">Verwen<pc force="weak">-</pc><lbr/>dung wegen eines Violinspielers und Lehrers am<lbr/>
+Mozarteum<note corresp="#commentID4458_3">Franz Xaver Wolfgang Mozart unterstützte den 1841 gegründeten
+<i>Dommusikverein und Mozarteum</i> bei der Suche nach Musikern und Lehrern.</note></div> bin ich Ihnen sehr verbunden und würde<lbr/>
+mit Ihren Anträgen vollkommen einverstanden<lbr/>
+se&#255;n, wenn wir nicht vor acht Tagen bereits das De<pc force="weak">=</pc><lbr/>kret an <persName key="84957">Eduard Plainer</persName> ausgefertigt hätten. Es ist<lbr/>
+zwar möglich, daß er den ihm eingesendeten Dienst<pc force="weak">=</pc><lbr/>vertrag nicht unterzeichnet und somit der <div type="commentary" xml:id="commentID4458_4">Vertrag nicht<lbr/>
+zu Stande kommt.<note corresp="#commentID4458_4">Eduard Plainer nahm die Stelle an. Er war vom 15. August 1842 bis 15. März 1846 als 
+Erster Violinist und Orchesterdirektor am <i>Dommusikverein und Mozarteum</i> angestellt.</note></div> Wir sind durch 14 Tage an unser<lbr/>
+Wort gebunden. Sendet Plainer den Vertrag bis<lbr/>
+dahin nicht ein, so werde ich Sie in Kenntniß setzen,<lbr/>
+damit Sie dann den in Antrag gestellten Violinisten<lbr/>
+die nöthige Weisung ertheilen können, unter Be&#255;<pc force="weak">=</pc><lbr/>legung seiner Zeugnisse und insbesonders eines<lbr/>
+auf Ihre persönliche Uiberzeugung gegründeten<lbr/>
+Gutachtens, daß dieser Mann zum Orchesterdirektor,<lbr/>
+Solospieler und Lehrer am Mozarteum für Violine<lbr/>
+tauglich se&#255;, um die vakante Stelle einzukommen.<lbr type="forced"/>
+<ts>_____</ts>Meine <persName key="75652">Frau</persName> empfiehlt sich Ihnen etc<lbr type="forced"/>
+<ts>_____</ts>Mit aller Hochachtung etc<lbr type="forced"/>
+<ts>_________________________________</ts><tspdf>\hfill </tspdf>geschrb<abbr v="en"/> d<abbr v="en"/> 7 <rend class="latin">April</rend> 1842<lbr type="forced"/>
+<ts>____________________________________</ts><tspdf>\hfill </tspdf><persName key="75653">D<h><uu>r</uu></h> v Hllprdt.</persName><lbr type="forced"/>
+<pg n="2"/>
+<vacat/>
+</NI></text>
+</MUP>

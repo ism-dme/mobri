@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="4387">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-06</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=4387</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sae</bibl>
+                <bibl type="source" subtype="long">A-Sae: Archiv der Erzdiözese Salzburg. Salzburg (AUT)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-06-08">last file update: <date>Wed Jun  8 10:56:44 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="ID_4387.mup">
+<HEADER id="4387">FRANZ TOMASCHEK AN FRANZ VON HILLEPRANT IN SALZBURG<lbr/>
+WIEN, 30. NOVEMBER  1841<lbr/>
+MIT EINEM BRIEFENTWURF VON FRANZ VON HILLEPRANDT AN FRANZ XAVER WOLFGANG MOZART IN WIEN<lbr/>
+SALZBURG, 1. DEZEMBER 1841<lbr/>
+</HEADER>
+<NI src="A-Sae">
+<pg n="1"/>
+<ts>___________________________</ts> <tspdf>\hfill </tspdf>Wien den 30ten Novbr <abbr type="topline" expand="1841">841</abbr><lbr type="forced"/>
+<ts>_____________________</ts>Euer <persName key="75653">Wohlgebohren</persName>!<lbr type="forced"/>
+<lbr type="forced"/>
+Da ich meine <div type="commentary" xml:id="commentID4387_1">Reise nach Salzburg<note corresp="#commentID4387_1">Der Bass-Sänger Franz Tomaschek war aufgrund seines 
+Gesuchs vom 10. November 1841, das Franz Xaver Wolfgang Mozart 
+unterstützt hatte, vom neugegründeten <i>Dommusikverein und Mozarteum</i> angestellt worden.</note></div> schon am<lbr/>
+6<h><uu>ten</uu></h> Dezember antreten möchte und von<lbr/>
+der Hand nicht im Stande bin die<lbr/>
+Reisekosten zu bestreiten, so fühle<lbr/>
+ich mich veranlaßt Sie höflichst zu<lbr/>
+bitten um einen kleinen Vorschuß<lbr/>
+von 20 fl C. W.. Ich ersuche Sie höflichst<lbr/>
+mir das Geld sobald als möglich zu schicken<lbr/>
+damit ich mich nicht länger in Wien<lbr/>
+aufhalten dürfte, denn ich habe schon<lbr/>
+nach Haus um ein Geld und meine er<pc force="weak">-</pc><lbr/>forderlichen Zeugnisse geschrieben, was<lbr/>
+mir alles nach Salzburg geschikt wird<lbr/>
+und ich da<abbr type="topline" expand="nn">n</abbr> sogleich bereit bin, das Geld<lbr/>
+in <rend class="latin">loco</rend> zu bezahlen.<lbr type="forced"/>
+<ts>_________________________</ts><tspdf>\hfill </tspdf><persName key="84711"><rend class="latin">Franz Tomaschek</rend></persName><lbr type="forced"/>
+Die <rend class="latin">Adresse</rend> ist an Franz<lbr type="forced"/>
+Tomaschek wohnhaft am<lbr type="forced"/>
+Neubau N 1, 2<h><uu>ten</uu></h> Stock Thür 39.
+<pg n="3"/>
+[Briefentwurf von Franz von Hilleprandt an Franz Xaver Wolfgang Mozart:]<lbr type="forced"/>
+<lbr type="forced"/>
+An Sr Wohlgeboren<lbr type="forced"/>
+des H<abbr type="curve"></abbr>&#160;<persName key="39407">W. A. Mozart</persName> Konzertmeister<lbr type="forced"/>
+<ts>_____________</ts>in Wien<lbr type="forced"/>
+Der H<abbr type="curve"></abbr>&#160;<persName key="84711">Franz <rend class="latin">Tomaschek</rend></persName> hat hierorts um einen<lbr/>
+Vorschuß von 20 f. CMze WW. zur Bestreitung seiner<lbr/>
+Reisekosten angesucht. &#8211; Ich bin nicht abgeneigt<lbr/>
+dieser Bitte zu willfahren, wenn man nicht<lbr/>
+fürchten muß, darum geprellt zu werden. Da ich<lbr/>
+dieses Individuum nicht kenne, so sende<lbr/>
+ich die begehrten 20 fl C. Mze zu Ihrer gefälligen<lbr/>
+und beliebigen Verfügung mit der Bitte ein,<lbr/>
+im Falle als Sie ihm dieses Geld<lbr/>
+anvertrauen können, und glauben, <abbr expand="daß">dß</abbr> ihm zu trauen<lbr/>
+ist, es ihm gegen Ausstellung des im Entwurfe<lbr/>
+angeschloßenen Schuldscheines aushändigen und die<lbr/>
+Verfügung treffen wollen, <abbr expand="daß">dß</abbr> er bald möglichst hier<lbr/>
+eintreffen, auch den Schuldschein sogleich hieher senden.<lbr type="forced"/>
+Im Falle als Sie es aber nicht rätlich halten,<lbr/>
+das Geld meiner <persName key="84769">Mutter</persName> übergeben, und<lbr/>
+des Weiteren, was mit dem <persName key="84711"><rend class="latin">Tomaschek</rend></persName> geschiehet<lbr/>
+mir anzeigen zu wollen, damit ich<lbr type="forced"/>
+<pg n="2"/>
+meine weiteren Verfügungen wegen Erhaltung<lbr/>
+eines Bassisten treffen kann.<lbr type="forced"/>
+<ts>_____</ts>Mit vorzüglicher Hochachtung zeichnet sich<lbr type="forced"/>
+<ts>______________________</ts>Ihr<lbr type="forced"/>
+<ts>___________________</ts>aufrichtigergebener<lbr type="forced"/>
+<ts>___________________</ts>Freund<lbr type="forced"/>
+<ts>________________________</ts><persName key="75653">Hilleprandt</persName>.<lbr type="forced"/>
+<lbr type="forced"/>
+<tshtm><additum>[Schuldschein für Franz Tomaschek])</additum></tshtm> 
+<pg n="4"/>
+<tshtm><additum>[Franz von Hilleprandt an Franz Tomaschek, Salzburg, 1. Dezember 1841]</additum></tshtm>
+</NI></text>
+</MUP>

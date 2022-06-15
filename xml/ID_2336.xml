@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="2336">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-06</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=2336</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Wst</bibl>
+                <bibl type="source" subtype="long">A-Wst: Wienbibliothek im Rathaus, Musiksammlung. Wien (AUT)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-05-11">last file update: <date>Wed May 11 14:48:30 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="ID_2336.mup">
+<HEADER id="2336">FRANZ XAVER WOLFGANG MOZART AN CAROLINE UNGER-SABATIER IN FLORENZ<lbr/>
+WIEN, 19. AUGUST 1841</HEADER>
+<NI src="A-Wst">
+<pg n="1"/>
+<ts>_____________</ts>Verehrte <persName key="79503">Freundi<abbr type="topline" expand="nn">n</abbr></persName>!<lbr type="forced"/>
+<lbr type="forced"/>
+In Folge Ihres Auftrages, ist das bestellte <rend class="latin">Fortepiano</rend>,<lbr/>
+am 3<h><uu>t</uu></h> Jul&#255;, von hier abgesendet worden, und ich habe Tag’s<lbr/>
+darauf, selbst an <persName key="84762">Herrn von Schnitzer</persName>  geschrieben, um ihm<lbr/>
+dieses anzuzeigen, und ihn zugleich zu ersuchen, mir den<lbr/>
+bedungenen Preis, für das Instrument, mit 280 fl C. M.,<lbr/>
+gleich nach <suppl hand="self" pos="supra">dessen</suppl> Empfang, gefälligst zuko<abbr type="topline" expand="mm">m</abbr>en zu lassen, da der<lbr/>
+Verfertiger kein reicher Ma<abbr type="topline" expand="nn">n</abbr> se&#255;e, und es ihm daher<lbr/>
+schwer fallen würde, lange auf sein Geld zu warten.<lbr type="forced"/>
+<lbr type="forced"/>
+Nun muß das <rend class="latin">Fortepiano</rend>, schon über 14 Tage in <rend class="latin">Florenz</rend><lbr/>
+angeko<abbr type="topline" expand="mm">m</abbr>en se&#255;n, und da Ihr Bevollmächtigter mir das<lbr/>
+Geld noch nicht geschickt hat, und der <persName key="79764">Verfertiger</persName> auch schon<lbr/>
+anfängt ein wenig unruhig zu werden; so bleibt mir nichts<lbr/>
+übrig, als Ihnen dieses anzuzeigen, und Sie zu bitten, die<lbr/>
+Sache nach Möglichkeit zu beschleunigen, da mich eine längere<lbr/>
+Verzögerung, dem sehr ehrenwerthen Verfertiger, <persName key="79764">H<abbr type="curve"></abbr>&#160;<rend class="latin">Weiss</rend></persName>,<lbr/>
+einem braven hiesigen Bürger gegenüber, sehr in Ver<pc force="weak">=</pc><lbr/>legenheit setzen müßte.<lbr type="forced"/>
+<pg n="2"/>
+<ts>_____</ts>Mit außerordentlichem Intereße, habe ich die Berichte, über<lbr/>
+die brillanten Erfolge, Ihrer Kunstleistungen in <rend class="latin">Dresden</rend><lbr/>
+gelesen, leider aber auch in den letzten Tagen erfahren<lbr/>
+müssen, <abbr expand="daß">dß</abbr> Kränklichkeit Sie verhindert habe, den schon<lbr/>
+e<abbr type="topline" expand="rr">r</abbr>ungenen Lorbern, neue zuzugesellen. Ich hoffe von<lbr/>
+Ihrer, mir von jeher erwiesenen Freundschaft, <abbr expand="daß">dß</abbr><lbr/>
+Sie mich recht bald, von aller Besorgniß befre&#255;en<lbr/>
+werden, die diese Nachricht in mir, be&#255; der, Ihnen wohl<lbr/>
+beka<abbr type="topline" expand="nn">n</abbr>ten Theilnahme, an allem, was Sie angeht, erregen<lbr/>
+mußte.<lbr type="forced"/>
+<lbr type="forced"/>
+Empfehlen Sie mich freundlichst, Ihrem <persName key="46550">Herren Gemahle</persName>,<lbr/>
+und erhalten Sie auch ferner, Ihre mir so schätzbare<lbr/>
+Freundschaft, Ihrem ergebenen<lbr type="forced"/>
+<ts>__________________</ts><tshtm>_______________________________</tshtm><tspdf>\hfill </tspdf><persName key="39407"><rend class="latin">W A Mozart</rend></persName>&#160;<abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<u><rend class="latin">Wien</rend>, am 19<h><uu>t</uu></h>&#160;<rend class="latin">august</rend>&#160;<abbr type="topline" expand="1841">841</abbr></u><lbr type="forced"/>
+<lbr type="forced"/>
+Grünangergaße <rend class="latin">N<h><uu>o</uu></h></rend> 850. zwe&#255;te Stiege 3<h><uu>t</uu></h> Stock.<lbr/>
+<lbr/>
+<add_seal type="owner">WIENER-STADTBIBLIOTHEK</add_seal>
+<pg n="3"/>
+<vacat/>
+<pg n="4"/>
+<vacat/>
+</NI></text>
+</MUP>

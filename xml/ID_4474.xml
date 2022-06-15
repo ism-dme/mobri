@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="4474">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-06</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=4474</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sae</bibl>
+                <bibl type="source" subtype="long">A-Sae: Archiv der Erzdiözese Salzburg. Salzburg (AUT)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-05-11">last file update: <date>Wed May 11 14:48:35 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="ID_4474.mup">
+<HEADER id="4474">FRANZ XAVER WOLFGANG MOZART AN FRANZ VON HILLEPRANDT IN SALZBURG<lbr/>
+SALZBURG, MÄRZ 1842</HEADER>
+<NI src="A-Sae">
+<pg n="1"/>
+Wollten Sie mir nicht gefälligst, auf ein Zettelchen aufschreiben,<lbr/>
+wie die <div type="commentary" xml:id="commentID4474_1">Quittung, der <persName key="75709"><rend class="latin">Cousine Hönig</rend></persName><note corresp="#commentID4474_1">Constanze Nissen hatte in ihrem Testament vom 23. Juni 1841
+den drei Töchtern ihrer Nichte Josephine Hönig, geb. Hofer, ein Legat 
+von jeweils 100 Gulden vermacht.</note></div> in <rend class="latin">Wien</rend> lauten muss.<lbr/>
+Da ich eben nach Wien an einen guten Freund schreibe, so<lbr/>
+kö<abbr type="topline" expand="nn">n</abbr>te dieser es besorgen, und die Quittung | im Falle ich sie nicht <div type="commentary" xml:id="commentID4474_2">hier<note corresp="#commentID4474_2">Nach dem Tod der Mutter am 6. März 1842 hielt sich 
+Franz Xaver Wolfgang Mozart Mitte März 1842 in Salzburg auf.</note></div><lbr/>
+durchaus abwarten muß | an Ihre <rend class="latin">Adresse</rend> senden. Einen freundlichen<lbr type="forced"/>
+<ts>_____________________________________________</ts><tspdf>\hfill </tspdf>guten Morgen von Ihrem<lbr type="forced"/>
+<ts>__________________________________________________</ts><tspdf>\hfill </tspdf><persName key="39407"><rend class="latin">Mozart</rend></persName><lbr type="forced"/>
+<pg n="2"/>
+<anschrift>
+Herrn<lbr type="forced"/>
+<rend class="latin">Doctor Edlen von<lbr type="forced"/>
+Hilleprandt</rend>.</anschrift>
+</NI></text>
+</MUP>

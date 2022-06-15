@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="2126">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-05</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=2126</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">D-DS</bibl>
+                <bibl type="source" subtype="long">D-DS: Universitäts- und Landesbibliothek</bibl>
+                <bibl type="source" subtype="long">Handschriften- und Musikabteilung. Darmstadt (DEU)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-05-11">last file update: <date>Wed May 11 14:48:29 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="ID_2126.mup">
+<HEADER id="2126">FRANZ XAVER WOLFGANG MOZART AN BREITKOPF &#38; HÄRTEL IN LEIPZIG<lbr/>
+PODKAMIEŃ, 15. DEZEMBER 1808</HEADER>
+<NI src="D-DS">
+<pg n="1"/>
+<ts>_____________________________________</ts><tspdf>\hfill </tspdf><rend class="latin">Podkamien</rend> den<lbr type="forced"/>
+<ts>_________________________________</ts><tspdf>\hfill </tspdf>15 De<rend class="latin">cemb:</rend> 1808<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____</ts>Schätzbaarster <persName key="53244">Herr</persName>!<lbr type="forced"/>
+<lbr type="forced"/>
+Da ich Ihnen schon <div type="commentary" xml:id="commentID2126_1">von <rend class="latin">Lemberg</rend><note corresp="#commentID2126_1"><a href="mid=2125">Brief vom 19. November 1808.</a></note></div> meine<lbr/>
+Ankunft in <rend class="latin">Gallicien</rend> zu wissen machte,<lbr/>
+so würde <suppl hand="self" pos="supra">ich</suppl> Sie gewieß nicht so bald mit einem<lbr/>
+Briefe belästigt haben, we<abbr type="topline" expand="nn">n</abbr> mich nicht<lbr/>
+zwey hiesige Herrschaften, die die<lbr/>
+Werke meines <persName key="39409">Vaters</persName> zu besitzen wünschen,<lbr/>
+durch diesen Wunsch allein, schon dazu ver<pc force="weak">=</pc><lbr/>pflichtet hätten. Ich bitte Sie daher gefälligst<lbr/>
+so bald möglich 2 <rend class="latin">Exempl</rend> der bey<lbr/>
+Ihnen herausgeko<abbr type="topline" expand="mm">m</abbr>enen <div type="commentary" xml:id="commentID2126_2">Klavier-<rend class="latin">Composit</rend>:<note corresp="#commentID2126_2">Zwischen 1798 und 1806 waren 17 Hefte der „Klaviersachen“
+im Rahmen der <i>Oeuvres complettes</i> bei Breitkopf &#38; Härtel erschienen.</note></div><lbr/>
+nebst 2 Exempla<abbr type="curve"></abbr> der dazu gehörigen<lbr/>
+<div type="commentary" xml:id="commentID2126_3">Klavier-<rend class="latin">Concerte</rend><note corresp="#commentID2126_3">Zwischen 1800 und 1804 waren 20 Klavierkonzerte von 
+Wolfgang Amadé Mozart im Rahmen der <i>Oeuvres complettes</i> herausgekommen.</note></div> unter meiner <rend class="latin">Addresse</rend><lbr/>
+an <persName key="84796">H<abbr type="curve"></abbr> Pfaff</persName> in <rend class="latin">Lemberg</rend> zu schicken,<lbr/>
+und mir durch einen Brief zu wissen<lbr/>
+zu machen, wie viel ein Exempl In <rend class="latin">Wiener<lbr/>
+Bankozettel</rend> kostet, weil es wie ich gemeldet,<lbr/>
+für 2 hiesige <rend class="latin">Grafen</rend> gehört.<lbr type="forced"/>
+<conv><ts>____________________________________________________</ts>V. p.</conv>
+<pg n="2"/>
+Ich verharre in Erwartung einer<lbr/>
+gefälligst möglichen Beschleunigung<lbr type="forced"/>
+<ts>_____________________</ts><tspdf>\hfill </tspdf>Ihr ergebst<lbr type="forced"/>
+<ts>_______________________________</ts><tspdf>\hfill </tspdf><persName key="39407"><rend class="latin">W. A. Mozart.</rend></persName><lbr type="forced"/>
+<lbr type="forced"/>
+Ich wiederhohle nochmahls meine<lbr/>
+<rend class="latin">Addresse</rend>. <rend class="latin">A. M. Mozart</rend> beym<lbr/>
+<rend class="latin">Grafen</rend>&#160;<persName key="73109"><rend class="latin">Victor Baworowski</rend></persName> über<lbr/>
+<rend class="latin">Lemberg</rend>, <rend class="latin">Stzreliska</rend> nach<lbr/>
+<rend class="latin">Podkamièn</rend>.
+<pg n="3"/>
+<add_empf rot="270"><u>1808</u><ts>_____</ts><u><rend class="latin">Podkaminiek</rend></u><lbr/>
+<u>15 Xbr.</u><lbr/>
+<u><ts>___</ts>&#8211;<ts>_____</ts></u><ts>___</ts><rend class="latin">Mozart, jun</rend><lbr/>
+<u>14 &#8211;<ts>____</ts></u></add_empf>
+<pg n="4"/>
+<add_empf>2 <persName key="39409"><rend class="latin">Mozart W.</rend></persName> 1&#8211;17. a 2 rt.<ts>_____</ts>68 rt &#8211; <lbr/>
+2<ts>__</ts>&#8211;<ts>__</ts><rend class="latin">Conc.</rend> 1&#8211;20 a 1 rt 8 gl<ts>___</ts><u>53. 8</u><lbr/>
+<ts>________</ts>in <rend class="latin">Sachs.</rend> Court<ts>__</ts><u><ts>__</ts>rt<ts>__</ts>121. 8 gl</u><lbr/>
+oder in <rend class="latin">Wiener</rend> Crt a 45. f   403. 15.<lbr/>
+<ts>_______________________________</ts><rend class="latin">Emb.</rend><u><ts>____</ts>2. &#8211; </u><lbr/>
+<ts>_____________________________________</ts>405.15<lbr/>
+<lbr/>
+<ts>_______</ts>105 f. 15.<h>x</h> daran an <persName key="39407"><rend class="latin">Mozart</rend></persName><lbr type="forced"/>
+<ts>_________</ts>als <rend class="latin">Rabat</rend>.</add_empf>
+</NI></text>
+</MUP>

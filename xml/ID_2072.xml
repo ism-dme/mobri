@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="2072">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-05</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=2072</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">B-Bc</bibl>
+                <bibl type="source" subtype="long">B-Bc: Conservatoire Royal de Musique</bibl>
+                <bibl type="source" subtype="long">Bibliothèque</bibl>
+                <bibl type="source" subtype="long">Koninklijk Conservatorium</bibl>
+                <bibl type="source" subtype="long">Bibliotheek. Brüssel (BEL: Brussel/Bruxelles)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-05-13">last file update: <date>Fri May 13 14:37:51 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="ID_2072.mup">
+<HEADER id="2072">FRANZ XAVER WOLFGANG MOZART AN PHILIPP JUNGH IN PRAG<lbr/>
+WIEN, 12. JUNI 1820</HEADER>
+<NI src="B-Bc">
+<pg n="1"/> 
+<add_num impl="crayon" color="blue"><ts>_______________________________________________________________________________________________</ts>II</add_num>
+<ts>_______________________________________________</ts><tspdf>\hfill </tspdf><u><rend class="latin">Wien</rend> am 12<h><uu>t</uu></h> Juni 1820</u><lbr type="forced"/>
+<lbr type="forced"/>
+<ts>___________________</ts>Lieber <persName key="76039">Freund</persName>!<lbr type="forced"/>
+<lbr type="forced"/>
+<u>Aus den Augen, aus dem Si<abbr type="topline" expand="nn">n</abbr>e</u>: und noch andere dergleichen lieb<pc force="weak">=</pc><lbr/>liche Sprüchleins, werden Sie wohl schon öfters, auf mich angewendet<lbr/>
+haben, we<abbr type="topline" expand="nn">n</abbr>, wie ich so gerne glaube, in Ihrem freundlichen Kreise<lbr/>
+meiner erwähnt wurde. Daß das Sprüchlein bey mir nicht zutrift,<lbr/>
+beweist aber dieser Brief, der freylich ein wenig früher hätte<lbr/>
+ko<abbr type="topline" expand="mm">m</abbr>en kö<abbr type="topline" expand="nn">n</abbr>en, und sollen, und wohl auch geko<abbr type="topline" expand="mm">m</abbr>en wäre, we<abbr type="topline" expand="nn">n</abbr> ich<lbr/>
+nicht auf Ihre Nachsicht gehofft hätte. Sie wissen, wie es einem<lbr/>
+reisendem, und besonders einem reisendem, oder besser zu sagen,<lbr/>
+<div type="commentary" xml:id="commentID2072_1">fazierenden<note corresp="#commentID2072_1">vazierend; vazieren (von lat. vacare, frei sein),
+österr. veraltend: [als Händler, Handwerker u.ä.] umherziehen.</note></div> Künstler zu gehen pflegt. Jeden Morgen ni<abbr type="topline" expand="mm">m</abbr>t man sich<lbr/>
+die schönsten Dinge von der Welt vor, die man am Abende doch<lbr/>
+nicht ausführen ko<abbr type="topline" expand="nn">n</abbr>te, und auf den andern Morgen verlegt. Dazu<lbr/>
+kö<abbr type="topline" expand="mm">m</abbr>t noch, <abbr expand="daß">dß</abbr> ich nach beynahe zwölf Jahren, zum ersten mahle wieder<lbr/>
+die Vaterstädtische | nicht die angenehmste | Luft einathmete, und folglich<lbr/>
+nebst den gewöhnlichen <rend class="latin">Concert</rend>Angelegenheiten, eine Menge alter Beka<abbr type="topline" expand="nn">n</abbr>t<pc force="weak">=</pc><lbr/>schaften erneuern, alle Veränderungen, in der Stadt, und den Umge<pc force="weak">=</pc><lbr/>bungen besehen mußte. Dieß zu meiner Entschuldigung. &#8211; <lbr type="forced"/>
+Nach einer ziemlich langweiligen <div type="commentary" xml:id="commentID2072_2">Reise<note corresp="#commentID2072_2">Franz Xaver Wolfgang Mozart befand sich seit Mai 1819 auf einer 
+Konzertreise durch Europa. Er hatte Prag am 14. April 1820 verlassen.</note></div>, kam ich, von der wohlthäti<pc force="weak">=</pc><lbr/>gen Hand, Ihres <persName key="84734">Bruders</persName> gut eingepflastert, nicht einbalsamiert, glücklich<lbr/>
+<pg n="2"/>
+hier an, und war auch, bis ein paar Tage vor <div type="commentary" xml:id="commentID2072_3">meinem <rend class="latin">Concerte</rend><note corresp="#commentID2072_3">Das Konzert fand am 2. Mai 1820 im kleinen Redoutensaal der Wiener Hofburg statt.</note></div>,<lbr/>
+recht wohl. Aber stellen Sie sich meinen Verdruß vor, als<lbr/>
+ich gerade zwey Tage, vor dem <rend class="latin">Concerte</rend>, mit einer abscheulich<lbr/>
+geschwollnen <rend class="latin">Wange</rend> erwachte. Was war zu thun? Alle Anstalten wa<pc force="weak">=</pc><lbr/>ren getroffen, an Aufschub war, <persName key="39314">Hu<abbr type="topline" expand="mm">m</abbr>els</persName> Anwesenheit wegen, nicht<lbr/>
+zu denken. Ich mußte mich also entschließen, aller Eitelkeit zum Trotze,<lbr/>
+meine Schönheit zur Schau zu tragen. Wie es ausgefallen, wer<pc force="weak">=</pc><lbr/>den Sie in den öffentlichen Blättern schon gelesen haben. Ich<lbr/>
+war wirklich sehr glücklich. Besonders machte das <rend class="latin">Andante</rend> meines<lbr/>
+<workName key="11557"><rend class="latin">Concertes</rend></workName> das ich <div type="commentary " xml:id="commentID2072_4">erst hier <rend class="latin">componierte</rend><note corresp="#commentID2072_4" >Das Andante zu seinem 2. Klavierkonzert in Es op. 25 WV IV:2 komponierte
+Franz Xaver Wolfgang Mozart laut Eintrag in seinem Reisetagebuch
+am 22. April 1820. Die Sätze 1 und 3 hatte er bereits Ende Oktober 1818 vollendet.</note></div> vielen Eindruck. Meine<lbr/>
+dieser Spielart, ganz entwöhnten Landsleute, waren so gerührt,<lbr/>
+<abbr expand="daß">dß</abbr> sie mich es kaum enden ließen, sondern mitten hinein <rend class="latin">applau<pc force="weak">=</pc><lbr/>dirten</rend>; eine Ehre, die einem <rend class="latin">Cemballisten</rend>, beym <rend class="latin">Andante</rend> wohl<lbr/>
+selten geschieht. &#8211; Nach mir gab <persName key="39314">Hu<abbr type="topline" expand="mm">m</abbr>el</persName> zwey <rend class="latin">Concerte</rend>, in denen<lbr/>
+er die Zuhörer, wie nicht anders seyn ka<abbr type="topline" expand="nn">n</abbr>, entzückte. Er ist der<lbr/>
+König der Klavierspieler, und wohl auch der Komponisten für sein In<pc force="weak">=</pc><lbr/>strument. &#8211; <div type="commentary" xml:id="commentID2072_5">In einigen Tagen gehe ich über Grätz, <rend class="latin">Laybach</rend>, nach Ita<pc force="weak">=</pc><lbr/>lien<note corresp="#commentID2072_5">Franz Xaver Wolfgang Mozart verließ Wien am 16. Juni 1820. 
+Er erreichte Graz am 19. Juni und Laibach am 12. Juli 1820.</note></div>, und denke da<abbr type="topline" expand="nn">n</abbr> durch Deutschland zurückzu ko<abbr type="topline" expand="mm">m</abbr>en. Meinen<lbr/>
+Plan über München zu gehn, habe ich ändern müßen, weil ich<lbr/>
+mich hier zu lange aufgehalten, und also den Hof dort nicht mehr<lbr/>
+finden würde. Auf dem Rückwege ka<abbr type="topline" expand="nn">n</abbr> ich ja noch i<abbr type="topline" expand="mm">m</abbr>er mein Glück<lbr/>
+bey Sr. <persName key="56248">bayrischen Majestät</persName> versuchen. &#8211; Und somit leben Sie recht<lbr/>
+wohl, mein lieber guter Freund, empfehlen Sie mich bestens Ihrer<lbr/>
+<persName key="82998">Frau</persName>, <persName key="84875">Schwiegermutter</persName>, <persName key="84734">Bruder</persName>, und Ihren lieben <persName key="84876 84877">Kindern</persName>, und<lbr/>
+schreiben Sie mir, we<abbr type="topline" expand="nn">n</abbr> Sie Zeit haben, zu Deutsch: <u>recht bald</u>.	Der Ihre<lbr type="forced"/>
+<ts>_______________________________</ts><tshtm>__________________________________________________</tshtm><tspdf>\hfill </tspdf><persName key="39407">Mozart</persName>&#160;<abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<pg n="3"/>
+<rend class="latin">Add: A Messieurs: <persName key="84878">Crampagna  Kern et Comp</persName> á Trieste.</rend><lbr type="forced"/>
+<lbr type="forced"/>
+Dürfte ich Sie wohl ersuchen, gelegentlich bey <persName key="84099">Herrn Lä<abbr type="topline" expand="mm">m</abbr>el</persName> nachfragen<lbr/>
+zu lassen, ob er meinen <rend class="latin">Coffre</rend> schon abgeschickt?<lbr type="forced"/>
+<lbr type="forced"/>
+Meine Empfehlung <persName key="84873">H<abbr type="curve"></abbr>&#160;<rend class="latin">Tomek</rend></persName>.<lbr type="forced"/>
+<pg n="4"/>
+<anschrift rot="90">Sr Wohlgeboren<lbr type="forced"/>
+Herrn Herrn <rend class="latin"><div type="commentary" xml:id="commentID2072_6">Anton<note corresp="#commentID2072_6">Bei dem Vornamen des Adressaten muss es sich um einen Irrtum von 
+Franz Xaver Wolfgang Mozart handeln.
+Ein Prager Arzt Anton Jungh lässt sich nicht nachweisen, gemeint ist Philipp Jungh.</note></div><lbr type="forced"/>
+<u>Jungh</u></rend><lbr type="forced"/>
+Doktor der Medizin<lbr type="forced"/>
+<u>Auf dem</u><ts>______________</ts>in<lbr type="forced"/>
+<u><rend class="latin">Alt=städter–Ring</rend></u><ts>______</ts><u><rend class="latin">Prag</rend></u></anschrift>
+<lbr type="forced"/>
+<persName key="77750">Herr von Ott</persName>, ist diese Nacht<lbr/>
+gestorben.<lbr type="forced"/>
+<lbr type="forced"/>
+<add_seal type="post">WIEN</add_seal>
+<add_seal type="post"><formula type="mfrac"><mn>16</mn><mi>6</mi></formula></add_seal>
+<add_seal type="owner">CONSERVATOIRE<lbr/>
+DE BRUXELLES<lbr/>
+BIBLIOTHÈQUE</add_seal>
+</NI>
+</text>
+</MUP>

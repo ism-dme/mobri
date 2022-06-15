@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="2326">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-05</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=2326</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Wn</bibl>
+                <bibl type="source" subtype="long">A-Wn: Österreichische Nationalbibliothek. Wien (AUT)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-05-11">last file update: <date>Wed May 11 14:48:30 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="ID_2326.mup">
+<HEADER id="2326">FRANZ XAVER WOLFGANG MOZART AN JOHANN BAPTIST STREICHER IN WIEN<lbr/>
+WIEN, 10. APRIL 1840</HEADER>
+<NI src="A-Wn">
+<pg n="1"/>
+Lieber <persName key="59565">Freund</persName>! ich bitte Sie recht dringend das schon besprochene<lbr/>
+Clavier Dinstag Vormittag <u>sicher</u> zu <persName key="84761">Herrn <abbr expand="von">v</abbr>&#160;<rend class="latin">Roszti</rend></persName><lbr/>
+„Michäler Platz bei den 3 Laufern im ersten Stock“<lbr/>
+zu senden; er ni<abbr type="topline" expand="mm">m</abbr>t gar keinen Anstand 10 fl Monathlich<lbr/>
+auf mehrere Monathe zu zahlen; thun Sie mir den Ge<pc force="weak">=</pc><lbr/>fallen, und senden Sie ein gutes <rend class="latin">Piano</rend> hin; weil ich<lbr/>
+schon Mittwoch früh neun Uhr anfangen soll Stunden zu<lbr/>
+geben.<lbr type="forced"/> 
+<ts>________________________</ts><tspdf>\hfill </tspdf>Ihr ergebenster bereitwilligster<lbr type="forced"/>
+<ts>__________________________________________</ts><tspdf>\hfill </tspdf><persName key="39407"><rend class="latin">W. A. Mozart.</rend></persName><lbr type="forced"/>
+10 April <abbr type="topline" expand="1840">840</abbr>.
+<pg n="2"/>
+<add_seal type="owner">
+ÖST. NATIONALBIBLIOTHEK<lbr/>
+WIEN</add_seal>
+<pg n="3"/>
+<anschrift><rend class="latin">P. T.</rend><lbr type="forced"/>
+Herrn Hof <rend class="latin">Fortepiano</rend> Macher<lbr type="forced"/>
+<rend class="latin">Baptist <u>Streicher</u></rend><lbr type="forced"/>
+<u>Allhier</u></anschrift>
+<pg n="4"/>
+<add_seal type="owner">
+ÖST. NATIONALBIBLIOTHEK<lbr/>
+WIEN</add_seal>
+</NI>
+</text>
+</MUP>

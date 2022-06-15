@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="2242">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-06</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=2242</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Verbleib unbekannt (Vorlage: Abschrift um 1828 in A-Sm)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-05-11">last file update: <date>Wed May 11 14:48:30 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="ID_2242.mup">
+<HEADER id="2242">FRANZ XAVER WOLFGANG MOZART AN CONSTANZE NISSEN IN SALZBURG<lbr/>
+LEMBERG, 5. OKTOBER 1826<lbr/>
+Abschrift von Anton Jähndl, ca. 1828</HEADER>
+<pg n="1"/>
+<tshtm><additum>[... (Text der Biographie W. A. Mozart’s von Georg Nikolaus Nissen]</additum></tshtm><lbr/>
+<lbr/>
+<ts>_______________________________________</ts><tspdf>\hfill </tspdf>Lemberg den 5<h>t<abbr v="en"/></h> Oktober 1826<lbr type="forced"/>
+<ts>__________</ts>Meine theure, vielgeliebte <persName key="48818">Mutter</persName>!<lbr type="forced"/>
+Ich benütze den ersten fre&#255;en Augenblick, um dir, meine<lbr/>
+glückliche Ankunft allhier zu melden. Als ich dich, meine<lbr/>
+liebe Mutter <div type="commentary" xml:id="commentID2242_1">verlassen<note corresp="#commentID2242_1">Franz Xaver Wolfgang Mozart hatte seine Mutter im August 1826 nach dem Tod 
+ihres zweiten Ehemanns Georg Nikolaus Nissen am 24. März 1826 in Salzburg besucht.</note></div>, war auch der einzige und schönste<lbr/>
+Zweck meiner Reise erfüllt, denn ich war ja so glücklich,<lbr/>
+dich nach einer bangen <div type="commentary" xml:id="commentID2242_2">Tre<abbr type="topline" expand="nn">n</abbr>ung von 7 Jahren<note corresp="#commentID2242_2">Auf seiner Konzertreise durch Europa hatte Franz Xaver Wolfgang Mozart 
+seine Mutter und seinen Stiefvater von August bis Mitte Oktober 1819 
+in Kopenhagen, wo das Ehepaar seit 1810 lebte, besucht.</note></div> wieder zu<lbr/>
+sehen, und dich, dem Hi<abbr type="topline" expand="mm">m</abbr>el se&#255; Dank, so wohl zu ver<pc force="weak">=</pc><lbr/>lassen, als ich es nur wünschen konnte. Der liebe Gott,<lbr/>
+und deine eigene Vorsicht mögen Dich mir noch lange,<lbr/>
+lange erhalten, und es bleibt mir dann <suppl hand="self" pos="supra">nichts mehr</suppl> übrig, als<lbr/>
+mich einst nicht mehr von dir trennen zu dürfen. &#8211; &#8211; <lbr type="forced"/>
+Ich kam <suppl hand="diff" schr_id="52059">den</suppl> 28sten September hier an. Ich kann Dir nicht beschrei<pc force="weak">=</pc><lbr/>ben, wie sich alles um mich her meiner Rückkunft freute;<lbr/>
+und auch ich würde mich ganz glücklich fühlen, wenn ich<lbr/>
+dich nicht so ferne wüßte! Meine Studien mit dem alten<lbr/>
+<persName key="65402"><rend class="latin">Gallus</rend></persName> haben schon wieder begonnen, und wenn auch<lbr/>
+alles so geht, wie ich es mit aller Wahrscheinlichkeit hoffen<lbr/>
+kann, so dürfte mir doch in ein paar Jahren das Glück<lbr/>
+<pg n="2"/>
+werden, <div type="commentary" xml:id="commentID2242_3">in deiner Nähe leben zu können.<note corresp="#comment2242_3">Franz Xaver Wolfgang Mozart machte sich Hoffnungen auf eine Kirchenkapellmeisterstelle in Österreich. 
+Constanze Nissen bemühte sich für ihn um die Stelle als Kapellmeister am Salzburger Dom.</note></div><lbr type="forced"/> 
+Was macht mein lieber Freund <persName key="75929">Jähndl</persName>? Paradirt er mit der Kappe?<lbr/>
+Hoffentlich wird sein treuer Pudel Fripon durch sie auch<lbr/>
+an mich erinnert werden, denn er hatte eine besondere Zärtlich<pc force="weak">=</pc><lbr/>keit zu meiner Kappe. Ich bitte mir Jähndls Adresse zu schicken,<lbr/>
+um ihm vielmals für die Mühe, die er sich mit der <div type="commentary" xml:id="commentID2242_4">Biographie<note corresp="#commentID2242_4">Anton Jähndl stellte aus den von Georg Nikolaus Nissen hinterlassenen Materialien zu einer <i>Biographie W. A. Mozart’s</i> 
+ein Druckmanuskript her. Nach einer Endredaktion durch Johann Heinrich Feuerstein erschien 
+die Biographie Anfang 1829 bei Breitkopf &#38; Härtel in Leipzig.</note></div>&#160;<lbr/>
+giebt, zu danken. Und nun lebe wohl, liebe <persName key="48818">Mutter</persName>, grüße<lbr/>
+und empfehle mich dem Hr. Domkapitular <persName key="84102">von Schumann</persName>,<lbr/>
+der <persName key="48817">Tante</persName>, den <persName key="84080">Hofrichterischen</persName>, <persName key="0">Rettig</persName>, <persName key="52429">Fuetsch</persName>, <persName key="84159">Strobl</persName> etc<lbr/>
+und allen andern Bekannten. Dein treuer Sohn <persName key="39407">Wolfgang</persName>.<lbr/>
+<lbr/>
+<tshtm><additum>[... (Beginn der Abschrift des Briefes von Franz Xaver Wolfgang Mozart an Anton Jähndl vom 26. Dezember 1826.)]</additum></tshtm>
+</text>
+</MUP>
