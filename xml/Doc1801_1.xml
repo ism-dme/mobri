@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="34">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2009">2009-08-20</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=34</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+                <bibl type="source" subtype="long">A-Sm: Internationale Stiftung Mozarteum, Bibliotheca Mozartiana. Salzburg (AUT)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-11-02">last file update: <date>Wed Nov  2 13:31:09 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="Doc1801_1.mup">
+<HEADER id="34">CONSTANZE MOZART AN JOHANN ANTON ANDRÉ IN OFFENBACH<lbr/>
+WIEN, 21. SEPTEMBER 1801</HEADER>
+<pg n="1"/>
+<ts>__________________________________</ts><tspdf>\hfill </tspdf><rend class="latin">Wien</rend> 21. Sept. 1801.<lbr type="forced"/>
+<add_num color="blue" impl="crayon"><u>II</u></add_num>
+<ts>_____</ts>Lieber <persName key="49118">Herr <rend class="latin">André</rend></persName><lbr type="forced"/><lbr type="forced"/>
+<ts>_____</ts>ich bin Ihnen noch die Nachricht schuldig,<lbr/>
+daß ich den Betrag der von Ihnen unterm 10. Jun.<lbr/>
+gesandten Anweisung von <persName key="60722">h<abbr type="curve">.</abbr>&#160;<rend class="latin">Wranizky</rend></persName> und<lbr/>
+die stipulirten Clavirauszüge von <persName key="58707">h<abbr type="curve">.</abbr>&#160;<rend class="latin">Sauer</rend></persName><lbr/>
+empfangen habe. Mit beyden Posten haben<lbr/>
+Sie mir viel Vergnügen gemacht.<lbr type="forced"/>
+<persName key="58707">H<abbr type="curve">.</abbr>&#160;<rend class="latin">Sauer</rend></persName> erfreute mich vor einiger Zeit mit<lbr/>
+der Nachricht, daß Sie hieher kommen würden. Es<lbr/>
+wird mir in der That sehr angenehm seyn<lbr/>
+Sie wieder zu sehen und Ihnen mündlich zu<lbr/>
+wiederholen, mit welchen Gesinnungen ich die<lbr/>
+Ehre habe zu seyn <tshtm>_________________</tshtm>Ihre<lbr type="forced"/>
+<ts>____________________________</ts><tspdf>\hfill </tspdf>ergebenste Freundinn<lbr type="forced"/>
+<ts>______________________________</ts><tspdf>\hfill </tspdf>&#160;<persName key="48818"><rend class="latin">Mozart.</rend></persName> 
+<add_ident type="inline" impl="pencil"><rend class="latin">v. Nissen’s</rend><lbr type="forced"/>
+<ts>_____________________________________________</ts>Schrift</add_ident><lbr type="forced"/>
+Vielleicht darf ich hoffen, daß Sie mir <offset rsign="#" loc="lm" rot="270"> die 
+vollständigen Verzeichnisse und</offset> alle meine<lbr/>
+Freyexemplarien bringen von den Werken, die schon<lbr/>
+heraus sind.<ts>___</ts> <persName key="57010">N_n</persName> empfiehlt sich beßtens. <conv><u><rend class="latin">verte</rend></u></conv><lbr type="forced"/>
+
+<pg n="2"/>
+In <persName key="78948"><rend class="latin">Siebigkes</rend></persName> Museum deutscher Tonkünstler,<lbr/>
+welches in <rend class="latin">Breslau</rend> herausgekommen ist,<lbr/>
+ist abermals eine Biographie <persName key="39409">Mozarts</persName>,<lbr/>
+und zwar eine characteristische.<lbr/><lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="3"/>
+<vacat/>
+<pg n="4"/>
+<add_empf><rend class="latin">Wien</rend><ts>__________</ts>1801.<lbr type="forced"/>
+<u>d. 21 7br</u><ts>_____</ts>29 d<h><uu>o</uu></h>&#160;<lbr type="forced"/>
+<rend class="latin">W<h><uu>b</uu></h> Mozart.</rend></add_empf><lbr type="forced"/>
+<anschrift loc="loc" rot="270"><rend class="latin">Wien</rend><lbr type="forced"/>
+Herrn<lbr type="forced"/>
+Herrn <rend class="latin">André</rend>,<lbr type="forced"/>
+Musikverleger<lbr type="forced"/>
+<rend class="latin">Offenbach</rend><lbr type="forced"/>
+am Mayn.</anschrift>
+</text>
+</MUP>
