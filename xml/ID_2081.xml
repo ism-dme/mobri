@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <MUP xmlns="http://www.mozarteum.at/ns/dme"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-    <mupHeader mid="4454">
+    <mupHeader mid="2081">
         <titleStmt>
             <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
             <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
@@ -50,38 +50,35 @@
         </titleStmt>    
         <publStmt>
             <publisher><corpName sameas="#ISM"/></publisher>
-            <date when="2022">2022-06</date>
+            <date when="2022">2022-09</date>
             <availability>
                 <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
             </availability>
-            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=4454</idno>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=2081</idno>
         </publStmt>
         <srcDesc>
-            <bibl type="source" subtype="short">D-OF</bibl>
-                <bibl type="source" subtype="long">D-OF: Verlagsarchiv André. Offenbach/Main (DEU)</bibl>
+            <bibl type="source" subtype="short">A-Wst</bibl>
+                <bibl type="source" subtype="long">A-Wst: Wienbibliothek im Rathaus, Musiksammlung. Wien (AUT)</bibl>
         </srcDesc>
         <revisDesc>
-            <change when="2022-10-18">last file update: <date>Tue Oct 18 11:58:30 2022</date></change>
+            <change when="2022-09-21">last file update: <date>Wed Sep 21 11:54:08 2022</date></change>
         </revisDesc>
     </mupHeader>            
-<text type="mobridoc" src="ID_4454.mup">
-<HEADER id="4454">JOHANN ANTON ANDRÉ AN FRANZ XAVER WOLFGANG MOZART IN WIEN<lbr/>
-OFFENBACH AM MAIN, 18. AUGUST 1807<lbr/>
-Abschrift im Kopierbuch des Verlags</HEADER>
-<NI src="D-OF">
+<text type="mobridoc" src="ID_2081.mup">
+<HEADER id="2081">
+FRANZ XAVER WOLFGANG MOZART AN UNBEKANNT IN WIEN<lbr/>
+WIEN, 22. NOVEMBER 1838</HEADER>
+<NI src="A-Wst">
 <pg n="1"/>
-Wien./ 679<lbr type="forced"/>
+Ich bleibe heute den ganzen Abend, <u>ganz allein</u><lbr/>
+zu Hause, und würde mich sehr freuen, we<abbr type="topline" expand="nn">n</abbr> Sie<lbr/>
+ein paar Stunden, mit mir zubringen wollten<lbr type="forced"/>
 <lbr type="forced"/>
-<ts>_____</ts><persName key="39407"><rend class="latin">W. A. Mozart</rend></persName>.<ts>__________________________________________</ts><tspdf>\hfill </tspdf>d<abbr type="curve"></abbr> 18. Aug. 07<lbr type="forced"/>
-Sowohl Ihr <div type="commentary" xml:id="commentID4454_1">Geeh<abbr type="curve"></abbr> v. 1<h><uu>t</uu></h><note corresp="#commentID4454_1">Ein Brief vom 1. August 1807 ist nicht bekannt.</note></div> als <div type="commentary" xml:id="commentID4454_2">v. 8 dß<note corresp="#commentID4454_2">Brief vom 8. August 1807.</note></div> habe ich richtig erhalten, <abbr expand="und">u</abbr> ersehe aus<lbr/>
-letztern mit wahrem Vergnügen daß Sie meinen Freymuth in Aeuserungen<lbr/>
-über Ihr <workName key="11714"><rend class="latin">Trio</rend></workName> nicht misdeütet haben. Ich würde wirklich Anstand ge<pc force="weak">=</pc><lbr/>no<abbr type="topline" expand="mm">m</abbr>en haben, Ihnen meine Meinung so frei herauszusagen, wenn ich nicht<lbr/>
-überzeügt gewesen wäre, dass bei Ihren Arbeiten Ihr einziges<lbr/>
-Streben nur dahin geht, sich als einen würdigen Sohn des unsterblichen<lbr/>
-<persName key="39409"><rend class="latin">Mozarts</rend></persName> zu zeigen. Von Ihrem gefälligen Antrage, das <rend class="latin">Trio</rend><lbr/>
-mit einer neüen <workName key="11558"><rend class="latin">Sonate</rend></workName> zu vertauschen, mache ich mit Vergnügen Gebrauch,<lbr/>
-und ersuche Sie, die Sonate dh<abbr type="curve">.</abbr>&#160;<persName key="84945"><rend class="latin">Wreden</rend></persName> für mich zuzustellen, der Gelegenheit<lbr/>
-hat, mir dieselbe zu überschicken. Sobald sie dann gestochen ist,<lbr/>
-werde ich Ihnen einige <rend class="latin">Ex.</rend> senden, <abbr expand="und">u</abbr> diesen Ihr <rend class="latin">Trio</rend> beifügen. R. 
+<u>Am <rend class="latin">Caecilien</rend> Tage <abbr type="topline" expand="1838">838</abbr></u><ts>___________________</ts><tspdf>\hfill </tspdf><persName key="39407"><rend class="latin">Mozart</rend></persName> mp<lbr/>
+<lbr/>
+<lbr/>
+<add_seal type="owner">WIENER STADTBIBLIOTHEK</add_seal>
+<pg n="2"/>
+<add_ident schr_id="0"><rend class="latin">Mozart Sohn.</rend></add_ident>
 </NI></text>
 </MUP>

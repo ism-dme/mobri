@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="2193">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-10</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=2193</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Privatbesitz</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-05-11">last file update: <date>Wed May 11 14:48:29 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="ID_2193.mup">
+<HEADER id="2193">FRANZ XAVER WOLFGANG MOZART AN ANDREAS STREICHER IN WIEN<lbr/>
+[LEMBERG,] VOR DEM 20. NOVEMBER 1826</HEADER>
+<NI src="privat">
+<pg n="1"/>
+Es ist wirklich einmahl Zeit, <abbr expand="daß">dß</abbr> ich mich Ihnen, ins Gedächtniß zurück rufe &#8211; Ich fühle recht lebhaft,
+wie sehr ich gegen Sie im Unrecht bin, und dennoch gestehe ich aufrichtig,
+<abbr expand="daß">dß</abbr> mein böses Gewissen, mich vielleicht noch länger abgehalten hätte, mein Unrecht
+wieder gut zu machen, und <abbr expand="daß">dß</abbr> ich daher recht froh bin, eine Bitte an Sie zu haben,
+die durchaus keinen Aufschub leidet, und folglich alles zurück drängt, was das böse Gewissen,
+allenfalls mir einflüstern möchte. &#8211; Schon seit vier Jahren wünsche ich mir recht sehnlich
+ein Patent F. p. in Flügelform, und konnte mir noch immer diese Freude nicht machen, weil ein
+<persName key="84732">Grefisches</persName> F. p., das ich für jemand anderen bestellt hatte, mir auf dem Hals blieb.
+Ich hoffte immer es, wenn auch mit einigem Verlust, an Mann zu bringen,
+aber hier wollen die Leute nur wohlfeile, wenn auch schlechte Instrumente,
+und so war ich erst in dieser Woche so glücklich mein F. p. zu verkaufen.
+Ich ersuche Sie also mich baldmöglichst meines Wittwenstandes zu überheben,
+und mir um den möglichst billigsten Preis, einen Patentflügel, mit Hammerschlag
+von oben, und da es zu meinem eigenen Gebrauche bleibt, meiner Spielart angemessen
+| versteht sich zum Concertspiel | zu schicken. Holzgattung-Nußbaum, und Umfang 6 <formula type="mfrac"><mn>1</mn><mi>2</mi></formula> Octave.
+Ich kann Ihnen nicht sagen, mit welcher Sehnsucht und Ungeduld, ich Ihrer geneigten Antwort,
+und der Absendung meines Claviers entgegen sehe. –- Wie geht es Ihnen, und Ihrer <persName key="59566">Frau Gemahlinn</persName>?
+Was machen Ihre <persName key="59565 83004">Kinder</persName> und Enkel? empfehlen Sie gütigst allen auf das freundschaftlichste. Ich war vorigen Winter
+viel leidend, hoffe aber diesen Winter besser zu widerstehn, weil ich im Sommer durch eine Bade- und
+Wasser=Kur sorglich vorgebaut habe. Ganz haben mich meine rheumatischen Schmerzen zwar noch nicht verlassen,
+aber ich fühle mich doch bedeutend besser, und bin gesonnen, nöthigen falls, künftigen Sommer nach Baaden
+zu gehen. &#8211; Neues im Musikfache weiß ich von hier nichts zu schreiben, als <abbr expand="daß">dß</abbr>
+ich an einem <div type="commentary" xml:id="commentID2193_1">Clavierkonzerte<note corresp="#commentID2193_1">Ein Klavierkonzert aus den Jahren 1825/26 ist nicht bekannt.</note></div> arbeite, wieder eine Ursache mehr, mich nach einem guten Clavier zu sehnen.<lbr type="forced"/>
+Leben Sie recht wohl, und erinnern Sie sich bald thätigst Ihres dankbaren Schülers und Freundes<lbr type="forced"/>
+<ts>__________________________________</ts><tshtm>_______________________________________________________</tshtm><tspdf>\hfill </tspdf><persName key="39407">Mozart</persName> mp<lbr type="forced"/>
+Sagen Sie dem <persName key="59565">Baptist</persName>, daß ich recht sehr bedaure, ihm nur ein Rasiermesser gestohlen zu haben,
+denn seit meiner <div type="commentary" xml:id="commentID2193_2">Abreise von Wien<note corresp="#commentID2193_2">Franz Xaver Wolfgang Mozart hielt sich im Mai 1825 und im Herbst 1826 in Wien auf.</note></div>, bediene ich mich nur dieses einen, und zwar immer mit Bangen, <abbr expand="daß">dß</abbr>
+es sich einmahl verderben könne. Meine Empfehlung an <persName key="83003">H. v. Pauer</persName>, und Ihre <persName key="72799">Schwiegertochter</persName>,
+so wie an alle die sich meiner erinnern, <persName key="77276">H. v. Metzler</persName>  und <persName key="78757">Schramm</persName> nicht zu vergessen.
+</NI></text>
+</MUP>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="4025">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-12</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=4025</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+                <bibl type="source" subtype="long">A-Sm: Internationale Stiftung Mozarteum, Bibliotheca Mozartiana. Salzburg (AUT)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-12-19">last file update: <date>Mon Dec 19 13:00:51 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="Doc1770_6.mup">
+﻿<HEADER id="4025">PADRE GIOVANNI BATTISTA MARTINI, ZEUGNIS FÜR WOLFGANG AMADÉ MOZART<lbr/>
+BOLOGNA, 12. OKTOBER 1770<lbr/>
+Abschrift von Leopold Mozart</HEADER>
+<pg n="1"/>
+<ts>_______________________________</ts><tshtm>______</tshtm><div type="commentary" xml:id="commentID4025_1"><u><rend class="latin">Copia</rend>.</u><note corresp="#commentID4025">Ein Entwurf von der Hand Padre Martinis dieses Zeugnis befindet
+sich im Museo internazionale e biblioteca della musica di Bologna.
+Wolfgang Amadé Mozart und sein Vater Leopold hielten sich auf der Rückreise
+von Rom im Sommer/Herbst 1770 längere Zeit in Bologna und Umgebung auf.
+Am 9. Oktober absolvierte der 14jährige Wolfgang die Prüfung zur 
+Aufnahme in die renommierte Accademia filarmonica di Bologna.
+Das Aufnahmediplom (A-Sm, Doc1770/4) ist auf den 10. Oktober 1770 datiert.</note></div><lbr type="forced"/>
+<ts>_________________________</ts><rend class="latin"><u>Bologna li 12 8<h>bre.</h> 1770</u><lbr type="forced"/>
+<lbr type="forced"/>
+Attesto io infrascritto, come avendo avuto sotto degli occhi alcune composizioni musicali<lbr/>
+di vario Stile, e avendo piu volte ascoltato suonare il Cembalo, il Violino, e cantare<lbr/>
+il Sig<abbr type="curve">:</abbr> Cav:</rend>&#160;<persName key="39409"><rend class="latin">Amadeo Wolfgango Mozart</rend></persName>&#160;<rend class="latin">di Salisburgo <abbr type="topline" expand="Maestro">Mro</abbr> di Musica della Camera<lbr/>
+di Sua Altezza l'eccelso Principe</rend>&#160;<persName key="59220"><rend class="latin">Arcivescovo Salisb<abbr type="curve">:</abbr></rend></persName>&#160;<rend class="latin">in Eta di A<abbr type="topline" expand="nn">n</abbr>i in circa <u>14</u>, con<lbr/>
+mia Singolare amirazione l'ho ritrovato versatissimo in ogn'una delle accenate<lbr/>
+qualità di Musica, avendo fatta la prova sopratutto nel suono di Cembalo,<lbr/>
+con dargli vari soggetti, all'improviso, quali con tutta Maestria ha Condotti<lbr/>
+con qualunque Condizione, che richiede l'Arte. In Fede di che ho scritta<lbr/>
+e sotto scritta la presente di mia mano</rend><lbr type="forced"/>
+<ts>_________________________</ts><tshtm>_________________________</tshtm><tspdf>\hfill </tspdf><persName key="64635"><rend class="latin">F. Giam<abbr type="topline" expand="batista">batta</abbr> Martini</rend></persName>&#160;<rend class="latin">Minor Conventuale</rend>.<lbr/>
+<lbr/>
+<lbr/>
+<lbr/>
+<lbr/>
+<add_note schr_id="64391" color="red"><uu>NB</uu> Von der Hand <persName key="39408"><u>Leopold:<h>s</h> Mozart</u></persName> – Vater des berühmten <persName key="39407"><u>W. A. Mozarts</u></persName><lbr/>
+<ts>_____________________________________________________________________</ts>Zeuge dessen <persName key="64391">Alo&#255;s Fuchs</persName>.</add_note>
+<pg n="2"/>
+<vacat/></text>
+</MUP>
