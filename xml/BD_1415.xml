@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="1995">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-06</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1995</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Verbleib unbekannt (Vorlage: Abschrift ca. 1828 in A-Sm)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-06-03">last file update: <date>Fri Jun  3 12:23:39 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="BD_1415.mup">
+<letter bd="1415">
+<HEADER id="1995">FRANZ XAVER WOLFGANG MOZART AN ANTON JÄHNDL IN SALZBURG<lbr/>
+LEMBERG, 26. DEZEMBER 1826<lbr/>
+Abschrift von Anton Jähndl, ca. 1828</HEADER>
+<pg n="1"/>
+<tshtm><additum>[... (Schluss der Abschrift des Briefes von Franz Xaver Wolfgang Mozart an Constanze Nissen vom 5. Oktober 1826.)]</additum></tshtm><lbr/>
+<lbr/>
+<ts>_____</ts>Lieber guter <persName key="75929">Freund</persName>!<ts>_________________</ts><tspdf>\hfill </tspdf>Lemberg am 26sten Dezember 1826.<lbr type="forced"/>
+Vor dem Jahresschlusse pflegen gewissenhafte und ordentliche<lbr/>
+Menschen ihre Rechnungen etc ins Reine zu bringen. Da ich nun<lbr/>
+auch nicht ganz, doch so halb und halb mich zu diesen Menschen<lbr/>
+zählen zu können glaube, so sitze ich nun hier, um Ihnen, mein<lbr/>
+lieber guter Freund, nicht nur alles Liebe und Gute zum<lbr/>
+neuen Jahre zu wünschen, sondern um Ihnen auch, was<lbr/>
+fre&#255;lich ein wenig früher hätte geschehen sollen, für so<lbr/>
+viele mir erwiesene Freundschaft aufs herzlichste zu<lbr/>
+danken. <div type="commentary" xml:id="commentID1955_1">Vater! nicht doch &#8211; <u>„Freund! Du weißt es nicht, was<lbr/>
+hier im Herzen spricht“,</u><note corresp="#commentID1955_1">Wohl Anspielung auf die erste Strophe des Gedichts „Drang in die Ferne“ von Karl Gottfried
+Ritter von Leitner (1800–1890). Franz Schubert vertonte das Gedicht 1823, D 770. 
+Es war als Beilage in der <i>Wiener Zeitschrift für Kunst, Literatur, Theater und Mode</i> am 25. März 1823 erschienen.
+Das Gedicht erschien zwei Jahre später im Sammelband <i>Gedichte von Carl Gottfried Ritter von Leitner</i>, Wien 1825, S. 10–12.</note></div> kann ich Ihnen mit voller<lbr/>
+Ueberzeugung sagen, und ich wünsche nur, daß das liebe<lbr/>
+Salzburg einst, statt eines Festungsko<abbr type="topline" expand="mm">m</abbr>andanten, in<lbr/>
+<pg n="2"/>
+<emend value="">in</emend> meiner Wenigkeit einen <div type="commentary" xml:id="commentID1995_2">Capellko<abbr type="topline" expand="mm">m</abbr>andanten<note corresp="#commentID1995_2">Franz Xaver Wolfgang Mozart machte sich Hoffnungen auf die Stelle als Domkapellmeister in Salzburg.</note></div> braucht,<lbr/>
+um Ihnen mündlich sagen zu können, daß ich Sie recht herz<pc force="weak">=</pc><lbr/>lich liebe, und mich i<abbr type="topline" expand="mm">m</abbr>er der Gelegenheit erfreuen werde,<lbr/>
+Ihnen es beweisen zu können. Von meiner lieben <persName key="48818">Mutter</persName><lbr/>
+werden Sie erfahren haben, dass ich, meinem Vorsatze<lbr/>
+getreu am 28sten Sept: hier eingetroffen bin, wo ich nun<lbr/>
+wieder in meinem alten Geleise fortlebe, d. h. Lektion<lbr/>
+gebe, zu Zeiten meine Finger ein Bischen in Ordnung er<pc force="weak">=</pc><lbr/>halte, und besonders mit vielem Eifer meinen <div type="commentary" xml:id="commentID1995_3">Cäcilien<pc force="strong">=</pc><lbr/>Chor<note corresp="#commentID1995_3">Franz Xaver Wolfgang Mozart hatte im April 1826 in Lemberg einen Cäcilien-Verein gegründet. 
+Dieser löste sich nach dreijähriger Tätigkeit im Frühjahr 1829 wieder auf.</note></div> ausbilde, der mir i<abbr type="topline" expand="mm">m</abbr>er mehr Vergnügen macht.<lbr/>
+Am Sterbetage meines unvergeßlichen <persName key="39409">Vaters</persName> traten<lbr/>
+wir zum Erstenmale öffentlich und zwar mit dessen<lbr/>
+<workName key="7373">Requiem</workName> auf. Ich habe meiner <persName key="48818">Mutter</persName> ein, diese Fe&#255;er<lbr/>
+würdigendes Zeitungsblatt geschickt, an das ich Sie ver<pc force="weak">=</pc><lbr/>weise.<lbr type="forced"/>
+Mit Sehnsucht sehe ich einer Sendung Partituren von <persName key="64469">Michael<lbr/>
+Ha&#255;dns</persName> und meines <persName key="39409">Vaters</persName> Kirchensachen entgegen;<lbr/>
+haben Sie die Güte das zu beherzigen, und mir auch zu<suppl hand="#DME"><pc force="strong">=</pc></suppl><lbr/>gleich zu wissen zu machen, wie hoch ich schon in Ihrer Schuld<lbr/>
+stehe, de<abbr type="topline" expand="nn">n</abbr> die hinterlassenen 30 f. sind gewiß schon längst<lbr/>
+verbraucht.<lbr type="forced"/>
+Schreiben Sie mir ja recht bald, wie es Ihnen geht, was<lbr/>
+<pg n="3"/>
+Sie machen, und ob Sie und meine andern Salzburger=Freunde<lbr/>
+sich noch zuweilen meiner erinnern. Von meiner Seite<lbr/>
+bedarf dieß wirklich keiner Versicherung, und es ist, nach<lbr/>
+meiner mitunter nicht sehr angenehmen Beschäftigung,<lbr/>
+mir eine sehr liebliche Erholung, mir die fröhlichen Stunden<lbr/>
+ins Gedächtniß zurückzuführen, die ich in <div type="commentary" xml:id="commentID1995_4">Ihrem Kreise<lbr/>
+verlebte<note corresp="#commentID1995_4">Franz Xaver Wolfgang Mozart hielt sich im August 1828 in Salzburg auf, 
+um nach dem Tod seines Stiefvaters Georg Nikolaus Nissen seine Mutter zu besuchen.</note></div>. Leben Sie recht wohl, lieber Frend, und behalten<lbr/>
+Sie lieb Ihren<ts>_____</ts><tshtm>_________________</tshtm><tspdf>\hfill </tspdf>Freund <persName key="39407">W. A. Mozart</persName> mp<lbr type="forced"/>
+Meine freundlichsten Grüße an <rend class="latin">P. T.</rend>&#160;<persName key="52429">Fuetsch</persName>, <persName key="53216">Hacker</persName>, <persName key="84751">Bergmaier</persName>,<lbr/>
+Karl, <persName key="84750">Bründl</persName>, <persName key="84902">Rettig</persName>, <persName key="84080">Hofrichterischer</persName>, <persName key="84749">Duyle</persName>, <persName key="85221">Körner</persName>, und<lbr/>
+wer sich sonst meiner erinnert.<lbr type="forced"/>
+Denkt Ihr Budel <rend class="latin">Fripon</rend> be&#255;m Anblick des Käppchen an<lbr/>
+mich? fragen Sie ihn.<lbr/>
+<lbr/>
+<tshtm><additum>[... (Beginn der Abschrift des Briefes von Franz Xaver Wolfgang Mozart an Constanze Nissen vom 17. April 1827.)]</additum></tshtm><lbr/> 
+</letter></text>
+</MUP>

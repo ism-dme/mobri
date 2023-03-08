@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="2107">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-05</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=2107</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">PL-Kj</bibl>
+                <bibl type="source" subtype="long">PL-Kj: Biblioteka Jagiellonska. Krakau (POL: Kraków)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-05-11">last file update: <date>Wed May 11 14:48:29 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="ID_2107.mup">
+<HEADER id="2107">FRANZ XAVER WOLFGANG MOZART AN WILHELM CHRISTIAN MÜLLER IN BREMEN<lbr/>
+NEUSTRELITZ, 8. DEZEMBER 1819</HEADER>
+<NI src="PL-Kj">
+<pg n="1"/>
+<add_ident  schr_id="84048" type="inline"><u><persName key="39407">Wolfg. Amad. Mozart</persName> (der Sohn)</u><lbr/>
+an <persName key="77488">Dr. W. C. Müller</persName><lbr/>
+in Bremen.</add_ident><ts>____________________________</ts><tspdf>\hfill </tspdf><u>Neu-Strelitz den 8<h><uu>t</uu></h>&#160;<rend class="latin">dec</rend>: 1819</u><lbr type="forced"/>
+<lbr type="forced"/>
+Ihren lieben Brief, habe ich in Lübeck, am Abende vor meiner <div type="commentary" xml:id="commentID2107_1">Abreise<note corresp="#commentID2107_1">Franz Xaver Wolfgang Mozart befand sich seit Mai 1819 auf einer Konzertreise durch Europa.</note></div>&#160;<lbr/>
+erhalten, und da ich gerade an demselben Abende, noch <div type="commentary" xml:id="commentID2107_2">im Liebhaber Konzerte<note corresp="#commentID2107_2">Das erste der sechs Lübecker Liebhaber-Konzerte fand am 4. Dezember 1819 statt. 
+Laut Konzertprogramm in den <i>Lübeckischen Anzeigen</i> (Nr. 97, 4. Dezember 1819) 
+spielte Franz Xaver Wolfgang Mozart ein eigenes Klavierkonzert, vermutlich das jüngere Konzert Es-Dur op. 25.</note></div><lbr/>
+spielen mußte, war es mir unmöglich, ihn gleich zu beantworten. Vor<lbr/>
+allem sage ich Ihnen herzlich Dank, für den schönen Nachruf in der<lbr/>
+Bremer-Zeitung, der mir um so angenehmer war, weil er<lbr/>
+nicht allein an den Künstler gerichtet ist, sondern auch an den Freund;<lbr/>
+der ich Ihnen de<abbr type="topline" expand="nn">n</abbr> auch i<abbr type="topline" expand="mm">m</abbr>er bleiben will. &#8211; Daß der kleine <persName key="84717">Köhl</persName><lbr/>
+den Rückweg zu seinen <persName key="84719 84718">Eltern</persName> gefunden, bin ich recht froh; es war<lbr/>
+mir wirklich recht unangenehm, die unschuldige Ursache des Kum<pc force="weak">=</pc><lbr/>mers dieser Leute zu seyn. Den zweyten dieser Jungens ka<abbr type="topline" expand="nn">n</abbr><lbr/>
+ich noch weniger brauchen, und ich ersuche Sie, lieber <persName key="77488"><rend class="latin">Doktor</rend></persName>, die Sache<lbr/>
+den Eltern auszureden. Sagen Sie Ihnen allenfalls, <abbr expand="daß">dß</abbr> ich meine<lbr/>
+Rückreise über Wien mache. In <rend class="latin">Lübek</rend> habe ich nicht <rend class="latin">Concert</rend> ge<pc force="weak">=</pc><lbr/>geben; warum weis ich selbst nicht. Man that alles mögliche, mich von<lbr/>
+diesem Gedanken abzubringen, und schlug mir vor, im Liebhaberkonzer<pc force="weak">=</pc><lbr/>te zu spielen; was ich de<abbr type="topline" expand="nn">n</abbr> auch, des Zeitgewi<abbr type="topline" expand="nn">n</abbr>es wegen, a<abbr type="topline" expand="nn">n</abbr>ahm. In Schwerin<lbr/>
+ko<abbr type="topline" expand="nn">n</abbr>te ich wegen der Trauer um den <div type="commentary" xml:id="commentID2107_3"><persName key="84720">Erbprinzen</persName><note corresp="#commentID2107_3">Friedrich Ludwig von Mecklenburg-Schwerin war am 29. November 1819 gestorben.</note></div> nichts unternehmen,<lbr/>
+Sie sehen also, <abbr expand="daß">dß</abbr> die Erbprinzen es eben nicht gut mit mir mei<pc force="weak">=</pc><lbr/>nen, doch wünsche ich, <abbr expand="daß">dß</abbr> es <persName key="84721">dem von <rend class="latin">Oldenburg</rend></persName>  besser geht. &#8211; Seit<lbr/>
+gestern Abend bin ich hier, und habe morgen schon die Ehre <lbr/>
+<div type="commentary" xml:id="commentID2107_4">am Hofe zu spielen<note corresp="#commentID2107_4">Das Konzert am Hof von Neustrelitz am 9. Dezember 1819 fand mit 
+einem Kammermusikensemble statt. Franz Xaver Wolfgang Mozart spielte u.a. 
+das Rondo brillant A-Dur op. 56 von Johann Nepomuk Hummel mit einer Streichquartettbegleitung.</note></div>. Dieß ist alles, was ich in diesem Augenblicke<lbr/>
+zu schreiben weis, und ich schließe mit der Bitte, mich Ihrer lieben<lbr/>
+<persName key="83036">Tochter</persName> bestens zu empfehlen, und recht oft an mich zu denken.<lbr/>
+Grüsse an <persName key="58270"><rend class="latin">Riem</rend></persName>, <persName key="77676"><rend class="latin">Ochernal</rend></persName>, und gelegentlich an <persName key="82985 82986"><rend class="latin">Ringelhardts</rend></persName>.<ts>_____</ts><tspdf>\hfill </tspdf>Ihr <persName key="39407"><rend class="latin">Mozart</rend></persName>.<lbr type="forced"/>
+An letztern und an Sie, habe ich von Hamburg aus gedruckte<lbr/>
+<rend class="latin">Exemplare</rend> meiner <workName key="11703">Lieder</workName> geschickt.<add_note schr_id="84048"><ts>___________________________________________________________________</ts><persName key="83036">Elise Müller</persName>.</add_note>
+<add_seal type="owner">Ex<lbr/>
+Bibl. Regia.<lbr/>
+Berolin.</add_seal>
+<tspdf>\newpage </tspdf> 
+<pg n="2"/>
+<anschrift rot="270">Herrn<lbr type="forced"/>
+Herrn<lbr type="forced"/>
+<rend class="latin">W. Müller. Professor</rend><lbr type="forced"/>
+in<lbr type="forced"/>
+<u><rend class="latin">Bremen</rend></u></anschrift>
+<lbr/>
+<add_seal type="post">NEUSTRELITZ<lbr/>
+11. DEC. 1819.</add_seal>
+<add_seal type="post">STRELITZ<lbr/>
+11 DEC.</add_seal>
+</NI></text>
+</MUP>

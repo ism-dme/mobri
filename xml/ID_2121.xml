@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="2121">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-05</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=2121</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">D-DS</bibl>
+                <bibl type="source" subtype="long">D-DS: Universitäts- und Landesbibliothek</bibl>
+                <bibl type="source" subtype="long">Handschriften- und Musikabteilung. Darmstadt (DEU)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-05-11">last file update: <date>Wed May 11 14:48:29 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="ID_2121.mup">
+<HEADER id="2121">FRANZ XAVER WOLFGANG MOZART AN BREITKOPF &#38; HÄRTEL IN LEIPZIG<lbr/>
+PODKAMIEŃ, 29. DEZEMBER 1810</HEADER>
+<NI src="D-DS">
+<pg n="1"/>
+<ts>_____________________________________</ts><tspdf>\hfill </tspdf><u><rend class="latin">Podkamién</rend> den 29 X<h><uu>ber</uu></h></u><lbr type="forced"/>
+<ts>_________________________________________________________</ts><tspdf>\hfill </tspdf><u>1810</u><lbr type="forced"/>
+<lbr type="forced"/>
+<ts>__________</ts>Schätzbarster <persName key="53244">Herr</persName>!<lbr type="forced"/>
+<lbr type="forced"/>
+Schon ist es länger als ein Jahr, daß ich<lbr/>
+nicht so glücklich war, auch nur die geringste<lbr/>
+Nachricht von Ihnen zu erhalten. Ob Sie<lbr/>
+gar nicht mehr sich meiner erri<abbr type="topline" expand="nn">n</abbr>ern? Dazu<lbr/>
+bin ich zu sehr von Ihrer Güte überzeugt.<lbr/>
+Warum habe ich so lange nicht geschrieben? Aufrichtig<lbr/>
+zu sagen, aus Schaam, weil ich Ihnen die Be<pc force="weak">=</pc><lbr/>endigung, der mir von Ihnen <div type="commentary" xml:id="commentID2121_1">aufgetragenen Ar<pc force="weak">=</pc><lbr/>beit<note corresp="#commentID2121_1">Breitkopf &#38; Härtel hatten bei Franz Xaver Wolfgang Mozart Flötensonaten bestellt. 
+Siehe den Brief vom 19. November 1808. 
+Von diesen Flötensonaten ist nur ein einzelner Satz e-Moll für Klavier und Flöte WV VI:10 überliefert. 
+Weitere Flötensonaten von Franz Xaver Wolfgang Mozart sind nicht bekannt.</note></div>, noch i<abbr type="topline" expand="mm">m</abbr>er nicht ankündigen ka<abbr type="topline" expand="nn">n</abbr>. Was die<lbr/>
+Ausbildung, meines kleinen Talentes betrifft,<lbr/>
+geht es mir hier sehr schlecht, de<abbr type="topline" expand="nn">n</abbr> ich bin, des<lbr/>
+einförmigen, unmusikalischen Lebens wegen,<lbr/>
+welches ich hier führen muß, so übel dara<abbr type="topline" expand="nn">n</abbr>, daß<lbr/>
+ich, trotz allen angewandten Fleiße, nicht das<lbr/>
+geringste, zu Stande bringen ka<abbr type="topline" expand="nn">n</abbr>. Ich bin<lbr/>
+daher fest entschlossen, künftigen May 1811, mein<lbr/>
+bisher geführtes Automaten Leben, gegen ein<lbr/>
+besseres zu verwechseln, und dieses Land zu<lbr/>
+verlassen. Wohin ich meine<lbr/>
+Schritte wenden werde, bin ich selbst noch unent<pc force="weak">=</pc><lbr/>schlossen, und ich ersuche Sie daher, mir recht bald,<lbr/>
+Ihre Meinung und Ihren Rath, mitzutheilen.<lbr/>
+<pg n="2"/> 
+Ich wende mich mit desto mehr Zuversicht an Sie,<lbr/>
+da ich überzeugt bin, daß Sie mir Ihre fernere<lbr/>
+Güte nicht versagen werden. &#8211; Meine <persName key="48818">Mutter</persName><lbr/>
+ist, wie Sie wohl wissen werden, glücklich in<lbr/>
+<div type="commentary" xml:id="commentID2121_2">Koppenhagen<note corresp="#commentID2121_2">Constanze und Georg Nikolaus Nissen, die am 26. Juni 1809 in Pressburg
+geheiratet hatten, waren im September 1810 nach Kopenhagen gezogen.</note></div>, | wo sie vermuthlich i<abbr type="topline" expand="mm">m</abbr>er bleiben wird :|<lbr/>
+angeko<abbr type="topline" expand="mm">m</abbr>en. &#8211; Da ich mich doch noch vor mei<pc force="weak">=</pc><lbr/>ner Abreise, in Lemberg zu meinem Vortheile<lbr/>
+möchte hören lassen, so ersuche ich Sie mir<lbr/>
+So bald möglich mein <workName key="11550"><rend class="latin">Concert</rend></workName> zu schicken.<lbr type="forced"/> 
+Auch bitte ich Sie | we<abbr type="topline" expand="nn">n</abbr> es Ihnen noch nicht lästig<lbr/>
+ist | 2 Exempl: davon an die Kaufleute<lbr/>
+<persName key="84973">Schra<abbr type="topline" expand="mm">m</abbr>&#160;<u>u</u> Karstens</persName> in Hamburg zu schicken,<lbr/>
+mit dem Bedeuten, daß die <rend class="latin">Frau</rend>&#160;<persName key="82895"><rend class="latin">Baronin<lbr/>
+Lüttichau</rend></persName>, es selbst abhohlen lassen wird.<lbr type="forced"/>
+In Erwartung einer geneigten Antwort, habe<lbr/>
+ich die Ehre zu verbleiben Ihr ergebenster<lbr type="forced"/>
+<ts>_______________________________________</ts> <tspdf>\hfill </tspdf><persName key="39407">Wolfgang Mozart</persName>&#160;<abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<lbr type="forced"/>
+<tspdf>\newpage </tspdf> 
+<rend class="latin">Adr<abbr type="curve"></abbr></rend> wie i<abbr type="topline" expand="mm">m</abbr>er, beym <persName key="73109">Grafen <rend class="latin">Baworowski</rend></persName>,<lbr/>
+über <rend class="latin">Lemberg</rend> und <rend class="latin">Stzreliska</rend> nach <rend class="latin">Podkamién</rend>.<lbr/>
+Sie waren noch nicht so gütig, mir, Ihrem Versprechen<lbr/>
+gemäß, hübsche neue Poesien, zu Liedern zu schicken.<lbr/>
+So eben habe ich wieder <div type="commentary" xml:id="commentID2121_3">sechse, mit Begleitung des<lbr/>
+<rend class="latin">Fortep<abbr type="curve"></abbr></rend><note corresp="#commentID2121_3">In Frage kommen folgende zwischen 1808 und 1810 komponierten Lieder: 
+An die Bäche WV IIIb:21, Seufzer WV IIIb:22, Lotte WV IIIb:23, Die Entzückung WV IIIb:24, Das Hüttchen WV IIIb:25. 
+Die Lieder erschienen nicht bei Breitkopf &#38; Härtel. Eine Auswahl von ihnen, WV IIIb:21, 22 und 24, publizierte 
+Franz Xaver Wolfgang Mozart gemeinsamt mit WV IIIb:26, 28 und 29 als op. 21 Ende 1819 bei August Cranz in Hamburg.</note></div>&#160;<rend class="latin">componirt</rend>, die Ihnen, wenn Sie befehlen zu<lbr/>
+Diensten stehen. Die Worte sind allerliebst.
+<pg n="3"/>
+<vacat/>
+<pg n="4"/>
+<add_empf><u>1810.</u><ts>____________</ts><u><rend class="latin">Podkamién</rend>.</u><lbr/>
+<u>d. 29. <rend class="latin">Decbr</rend></u><lbr/>
+<u><ts>___________</ts></u><ts>___________</ts><rend class="latin">Mozart</rend><lbr/>
+<u><ts>___________</ts></u>
+</add_empf>
+</NI>
+</text>
+</MUP>

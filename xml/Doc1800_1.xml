@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="33">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2009">2009-08-20</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=33</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+                <bibl type="source" subtype="long">A-Sm: Internationale Stiftung Mozarteum, Bibliotheca Mozartiana. Salzburg (AUT)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-11-03">last file update: <date>Thu Nov  3 11:00:42 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="Doc1800_1.mup">
+<HEADER id="33">CONSTANZE MOZART AN JOHANN ANTON ANDRÉ IN OFFENBACH<lbr/>
+WIEN, 6. AUGUST 1800</HEADER>
+<pg n="1"/>
+<add_num color="blue" impl="crayon"><u>III.</u></add_num>
+<ts>_____</ts>Mein lieber <persName key="49118">herr André</persName>,<lbr type="forced"/>
+ich danke Ihnen für die Uebersendung der <workName key="5893 6972 5671 5615 5654 5544">6. Concerte</workName> und<lbr/>
+des <workName key="4649">Violinrondò</workName>, mit denen ich recht zufrieden bin. Ich<lbr/>
+habe aber wohl noch gelegentlich ein Exemplar mehr von<lbr/>
+<u>diesen</u> Sachen, so wie von den Quartetten und Quintetten<lbr/>
+auch immer 5 Exemplare, nach unserem Contract zu<lbr/>
+erwarten. Von den andern Sachen weiß ich wohl, daß ich<lbr/>
+nur 4. Exemplare erhalte.<lbr type="forced"/>
+<ts>_____</ts> <persName key="74453">H<abbr type="curve">.</abbr>&#160;<rend class="latin">Eder</rend></persName> hat mich Porto mit 2 <abbr_cur expand="Gulden"><rend class="latin">fl.</rend></abbr_cur> 24 <abbr_cur expand="Kreuzer"><rend class="latin">x</rend></abbr_cur><lbr/>
+bezahlen lassen. Da ich aber die Sachen <u>frey</u> erhalten soll,<lbr/>
+so bitte ich künftig dafür zu sorgen, daß dieses<lbr/>
+geschieht, und mir diese 2 <abbr_cur expand="Gulden"><rend class="latin">fl.</rend></abbr_cur> 24. <abbr_cur expand="Kreuzer"><rend class="latin">x</rend></abbr_cur> in unsrer nächsten<lbr/>
+Abrechnung zu vergüten.<lbr type="forced"/>
+<ts>_____</ts>Aus Ihrem Catalog sehe ich auch, daß Quartetten und<lbr/>
+Quintetten neu heraus sind; auf diese darf ich mich<lbr/>
+also auch nächstens freuen.<lbr type="forced"/>
+<ts>_____</ts>Empfehlen Sie mich dem <persName key="75618">Herrn <rend class="latin">Hesse</rend></persName>, dessen Brief<lbr/>
+ich bekommen habe.<lbr type="forced"/>
+<ts>_____</ts>Mir wäre sehr darum zu thun, die Ihnen von<lbr/>
+mir mitgetheilten thematischen Verzeichnisse alle<lbr/>
+<pg n="2"/>
+<u>gelegentlich</u> wieder zu bekommen. Den Originalcatalog<lbr/>
+behalten Sie freylich; von diesem bekomme ich nach<lbr/>
+Ihrem Versprechen eine Copie nebst einem in Ordnung<lbr/>
+gebrachten Catalog aller Werke ohne Ausnahme,<lbr/>
+die Sie von mir haben oder nicht haben, auch<lbr/>
+<u>gelegentlich</u>, so bald Sie damit fertig seyn<lbr/>können.<lbr type="forced"/>
+<ts>_____</ts>Auf den Titeln der Concerte steht:<lbr type="forced"/>
+<ts>_____</ts><rend class="latin">dédié au</rend>&#160;<persName key="50700"><rend class="latin">Prince LF. de Prusse</rend></persName>&#160;<rend class="latin">par l’éditeur</rend>.<lbr/>
+was ist das für ein Prinz? Mich dünkt, daß<lbr/>
+derjenige, dem ich das <workName key="5893">erste</workName> dedicirte, todt ist.<lbr type="forced"/>
+<ts>_____</ts>Ich wünschte, Sie hätten auch die Jahreszahl<lbr/>
+auf den Titel gesezt. Warum sollen sich<lbr/>
+Musicalien hierin von Büchern unterscheiden?<lbr type="forced"/>
+<ts>_____</ts>Leben Sie recht herzlich wohl!<lbr type="forced"/>
+<ts>____________________________</ts><tspdf>\hfill </tspdf><persName key="48818">Const. Mozart</persName>.<lbr type="forced"/>
+<ts>__________</ts><rend class="latin">Wien</rend> 6 August 1800. <add_ident type="inline" impl="pencil"><ts>______</ts>unterschrieben von<lbr/>
+<ts>__________________________________________________</ts><rend class="latin">Etatsrath von Nissen</rend></add_ident><lbr/>
+<lbr/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
+<pg n="3"/>
+<vacat/>
+<pg n="4"/>
+<add_empf><rend class="latin">Wien</rend><ts>_________</ts>1800<lbr type="forced"/>
+<u>d. 6 <rend class="latin">Aug<abbr type="curve"></abbr></rend></u><ts>______</ts>15 d<h><uu>o</uu></h><lbr type="forced"/>
+<ts>___</ts><rend class="latin">W<h><uu>b</uu></h> Mozart</rend>.</add_empf><lbr type="forced"/>
+<anschrift loc="loc" rot="90" schr_id="57010"><rend class="latin">Wien<lbr type="forced"/>
+Herrn,<lbr type="forced"/>
+Herrn Johann André,<lbr type="forced"/>
+Musikverleger<lbr type="forced"/>
+zu<lbr type="forced"/>
+Offenbach am Mayn</rend></anschrift></text>
+</MUP>

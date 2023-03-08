@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="2122">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-05</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=2122</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">D-DS</bibl>
+                <bibl type="source" subtype="long">D-DS: Universitäts- und Landesbibliothek</bibl>
+                <bibl type="source" subtype="long">Handschriften- und Musikabteilung. Darmstadt (DEU)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-05-11">last file update: <date>Wed May 11 14:48:29 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="ID_2122.mup">
+<HEADER id="2122">FRANZ XAVER WOLFGANG MOZART AN BREITKOPF &#38; HÄRTEL IN LEIPZIG<lbr/>
+LEMBERG, 22. APRIL 1818</HEADER>
+<NI src="D-DS">
+<pg n="1"/>
+<ts>_______________________________________________</ts><tspdf>\hfill </tspdf><u>Lemberg den 22<h><uu>t</uu></h>&#160;<rend class="latin">april</rend> 1818</u><lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_______________</ts>Schätzbarster <persName key="53244">Herr</persName>!<lbr type="forced"/>
+<lbr type="forced"/>
+Meine <persName key="48818">Mutter</persName> wünscht, so sehnlich, die Klavierwerke, meines <persName key="39409">Vaters</persName>, zu<lbr/>
+besitzen, daß ich mir es zur heiligen Pflicht mache, ihren Wunsch zu er<pc force="weak">=</pc><lbr/>füllen. Ich ersuche Sie daher, sä<abbr type="topline" expand="mm">m</abbr>tliche <div type="commentary" xml:id="commentID2122_1"><rend class="latin">Clavier Compositionen</rend><note corresp="#commentID2122_1">Die im Rahmen der <i>Oeuvres complettes</i> bei Breitkopf &#38; Härtel erschienenen 
+17 Hefte der „Klaviersachen“ sowie die 20 Klavierkonzerte.</note></div>, meines seelig<abbr type="curve"></abbr><lbr/>
+Vaters, so wie auch die <div type="commentary" xml:id="commentID2122_2">Klavier Auszüge seiner Opern<note corresp="#commentID2122_2">Zu diesem Zeitpunkt waren folgende Opern von Wolfgang Amadé Mozart im Verlag Breitkopf &#38; Härtel als Klavierauszug erschienen:
+<i>Der Schauspieldirektor</i> KV 486 (1792/93), <i>Così fan tutte</i> KV 588 (1794), <i>La clemenza di Tito</i> KV 621 (1795). 
+Die Oper <i>La finta giardiniera</i> KV 196 war bei Schmiedt &#38; Rau in Leipzig (1797) erschienen, wurde aber von Breitkopf &#38; Härtel in Kommission vertrieben.
+In anderen Verlagen waren außerdem bis 1818 folgende Opern als Klavierauszug herausgekommen:
+<i>Die Entfühung aus dem Serail</i> KV 382 (Mainz: Schott, 1785/86), <i>Idomeneo</i> KV 366 (Leipzig: Schmiedt &#38; Rau, 1797),
+<i>Le nozze di Figaro</i> KV 481 (Paris: Magasin de Musique, 1808), <i>Don Giovanni</i> KV 527 (Mainz: Schott, 1791),
+<i>Die Zauberflöte</i> KV 620 (Wien: Musikalisches Magazin, 1791/93).</note></div>, und die wenigen<lbr/>
+Sachen, die Sie <div type="commentary" xml:id="commentID2122_3">von mir in Verlag<note corresp="#commentID2122_3">Bei Breitkopf &#38; Härtel in Leipzig waren von Franz Xaver Wolfgang Mozart zwischen 1809 und 1816 folgende Werke erschienen: 
+<i>Sechs Lieder mit Begleitung des Pianoforte</i> op. 9 (Enthält: <i>Das liebende Mädchen</i> WV IIIb: 15, <i>An spröde Schönen</i> WV IIIb:16, 
+<i>Nein</i> WV IIIb:17, <i>Der Schmetterling auf einem Vergissmeinnicht</i> WV IIIb:18, <i>Klage an den Mond</i> WV IIIb:19 und <i>Erntelied</i> WV IIIb:20), 
+1. Klavierkonzert für Klavier und Orchester C-Dur op. 14 (WV IV:1), 
+Sonate für Klavier und Violine F-Dur op. 15 (WV VI:11),  
+Variationen für Klavier D-Dur op. 16 (WV VII:22) und 
+6 Polonaisen für Klavier op. 17 (WV VII:20, 21, 25, 26, 27, 28).</note></div> zu nehmen, so gütig waren,<lbr/>
+an meine <persName key="48818">Mutter</persName>, postfrey auf  meine Rechnung, <div type="commentary" xml:id="commentID2122_4">nach <rend class="latin">Copenhagen</rend><note corresp="#commentID2122_4">Constanze und Georg Nikolaus Nissen lebten seit September 1810 in Kopenhagen.</note></div><lbr/>
+zu senden. Den Betrag, werde ich, so bald Sie mir ihn werden<lbr/>
+zu wissen gemacht, unverzüglich, hier bey <persName key="84796">H<abbr type="curve"></abbr> Pfaff</persName> erlegen, oder<lbr/>
+auf eine Ihnen sonst beliebige Art übermachen. Ich habe die Ehre<lbr/>
+<emend value="mit">mir</emend> aller Hochachtung zu bleiben Ihr ergebenster<lbr type="forced"/>
+<ts>___________________________</ts><tshtm>_______________________________________________</tshtm><tspdf>\hfill </tspdf><persName key="39407"><rend class="latin">Mozart</rend></persName><lbr type="forced"/>
+Hier folgt die <rend class="latin">Addresse</rend> meines StiefVaters: <rend class="latin"><persName key="57010">M<h><uu>r</uu></h> de Nissen</persName>, Chevalier<lbr/>
+de l’ordre du Dannebrogg, Conseiller actuél d’etat de S. M. Le Roi<lbr/>
+de Dannemarc à <u>Copenhague</u>.</rend>
+<lbr/>
+<add_note schr_id="0">auf Ant B. zu notiren</add_note>
+<pg n="2"/>
+<vacat/>
+<pg n="3"/>
+<vacat/>
+<pg n="4"/>
+<add_seal type="post">LEMBERG</add_seal>
+<anschrift rot="90"><u>Lemberg</u><lbr type="forced"/>
+An Herrn<lbr type="forced"/>
+Herrn<lbr type="forced"/>
+<u>Breitkopf <rend class="latin">et</rend> Härtel</u><lbr type="forced"/>
+Musik-Verleger<lbr type="forced"/>
+in<lbr type="forced"/> 
+<u><rend class="latin">Leipzig</rend></u></anschrift><lbr/>
+<add_empf rot="270"><u>1818.</u><ts>___________</ts><u><rend class="latin">Lemberg</rend></u><lbr/>
+<u>d. 22. <rend class="latin">April</rend></u><ts>______</ts><rend class="latin">Mozart</rend>.<lbr/>
+<u>&#8211; 4. <rend class="latin">May</rend></u><lbr/>
+<u>&#8211; „1.“ <rend class="latin">Juny</rend></u>&#160;<rend class="latin">resp.</rend><lbr/>
+<ts>____________________________</ts><rend class="latin">N<h>o</h></rend> 1379.</add_empf>
+</NI></text>
+</MUP>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="2343">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-06</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=2343</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sae</bibl>
+                <bibl type="source" subtype="long">A-Sae: Archiv der Erzdiözese Salzburg. Salzburg (AUT)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-05-11">last file update: <date>Wed May 11 14:48:30 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="ID_2343.mup">
+<HEADER id="2343">FRANZ XAVER WOLFGANG MOZART AN FRANZ VON HILLEPRANDT IN SALZBURG<lbr/>
+WIEN, 3. APRIL 1842</HEADER>
+<NI src="A-Sae">
+<pg n="1"/>
+<ts>_________________________</ts><tshtm>______________________________________</tshtm><tspdf>\hfill </tspdf><u><rend class="latin">Wien</rend> am 3<h><uu>t</uu></h>&#160;<rend class="latin">April</rend>&#160;<abbr type="topline" expand="1842">842</abbr></u><lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_________________</ts>Geehrter <persName key="75653">Freund</persName>!<lbr type="forced"/>
+<lbr type="forced"/>
+Kaum habe ich Sie, meines herzlichsten Dankes, für alle mit mir gehabten <div type="commentary" xml:id="commentID2343_1">Mühen<lbr/>
+und Plagen<note corresp="#commentID2343_1">Franz von Hilleprandt fungierte nach dem Tod von Constanze Nissen 
+am 6. März 1842 als rechtlicher Vertreter von Franz Xaver Wolfgang Mozart 
+und seinem Bruder Carl Thomas in den Erbschaftsangelegenheiten.</note></div> mündlich versichert, so sehe ich mich schon wieder in die Nothwendigkeit versetzt,<lbr/>
+Ihre Gefälligkeit in Anspruch zu nehmen. Ich habe nähmlich beÿ der <rend class="latin">Universal</rend>=Staats und<lbr/>
+Banko-Schuldner<rend class="latin">casse</rend>, alles für die Folge nöthige veranlaßt, die mir fehlenden Zinsen-<rend class="latin">Coupons</rend> erhalten,<lbr/>
+die künftige Auszahlung der Zinsen, auf dem hiesigen Platze erwirkt; nur für den einen hier<lbr/>
+be&#255;liegenden <rend class="latin">Talon</rend>, <rend class="latin">N<h><uu>o</uu></h></rend> 2098. ko<abbr type="topline" expand="nn">n</abbr>te ich keine <rend class="latin">Coupons</rend> beko<abbr type="topline" expand="mm">m</abbr>en, weil, wie man behauptet, diese schon<lbr/>
+nach <rend class="latin">Salzburg</rend> abgegangen se&#255;en. Ich ersuche Sie also, sich gütigst zu Herrn von <persName key="0">Seif</persName> zu bemühen, von<lbr/>
+selben gegen Zurücklassung des <rend class="latin">Talons</rend>, den <rend class="latin">Coupon</rend>Bogen zu übernehmen, und mir hieher zu senden,<lbr/>
+oder, falls dieser Reiselustige Bogen, wieder <rend class="latin">retour</rend> nach <rend class="latin">Wien</rend> gegangen wäre, mir den <rend class="latin">Talon</rend><lbr/>
+baldigst zurück zu schicken, um <suppl hand="self" pos="supra">die <rend class="latin">Coupons</rend></suppl> da<abbr type="topline" expand="nn">n</abbr> hier beheben zu kö<abbr type="topline" expand="nn">n</abbr>en. &#8211; Mit <persName key="53444">Frau von <rend class="latin">Hasselt-Barth</rend></persName><lbr/>
+habe ich bereits gesprochen, und von ihr die freundliche Zusicherung erhalten, <abbr expand="daß">dß</abbr> sie<lbr/>
+die <div type="commentary" xml:id="commentID2343_2">Einladung<note corresp="#commentID2343_2">Einladung zur Teilnahme an den Feierlichkeiten zur Einweihung des Mozart-Denkmals vom 
+4. bis zum 6. September 1842 in Salzburg. Maria Wilhelmine von Hasselt-Barth  
+übernahm bei den musikalischen Darbietungen im Dom und bei den verschiedenen 
+Festkonzerten die Sopran-Solopartien.</note></div>, mit größter Bereitwilligkeit a<abbr type="topline" expand="nn">n</abbr>i<abbr type="topline" expand="mm">m</abbr>t, sich alle Mühe geben wird, die dazu nöthige<lbr/>
+Bewilligung des Theater-Unternehmer zu erhalten, und nichts als den Ersatz der Reisekosten<lbr/>
+verlangt. Es versteht sich <abbr expand="daß">dß</abbr> sie eine förmliche Einladung, von Seite des <rend class="latin">Comite’s</rend> erwartet.<lbr/>
+Sie geht in einigen Tagen nach <rend class="latin">Pesth</rend>, bringt den Mai und Juni hier zu, und giebt da<abbr type="topline" expand="nn">n</abbr> im<lbr/>
+Jul&#255; und selben <rend class="latin">August</rend> noch Gastrollen in <rend class="latin">Berlin</rend>, von wo sie da<abbr type="topline" expand="nn">n</abbr>, wieder nach <rend class="latin">Wien</rend> zurück kö<abbr type="topline" expand="mm">m</abbr>t. &#8211; <lbr type="forced"/> 
+Und nun einen Vorschlag für das, mir vor Allen Andern, am Herzen liegende <rend class="latin">Mozarteum</rend>.<lbr/>
+We<abbr type="topline" expand="nn">n</abbr> Sie die Stelle des <persName key="84778"><rend class="latin">Seis</rend></persName>, noch nicht <rend class="latin">definitif</rend> besetzt haben, so glaube ich einen Fund gemacht<lbr/>
+zu haben, zu dem sich Ihre schöne Anstalt, wohl <div type="commentary" xml:id="commentID2343_3">Glück wünschen kö<abbr type="topline" expand="nn">n</abbr>te.<note corresp="#commentID2343_3">Franz Xaver Wolfgang Mozart unterstützte den 1841 gegründeten 
+<i>Dommusikverein und Mozarteum</i> bei der Suche nach Musikern und Lehrern.</note></div> Es befindet sich hier<lbr/>
+seit einigen Monaten, ein <rend class="latin">solider</rend> Ma<abbr type="topline" expand="nn">n</abbr>, Schüler <persName key="56611"><rend class="latin">Molique’s</rend></persName>, der hier schon zwe&#255;mahl mit Be&#255;fall<lbr/>
+als Solospieler aufgetreten ist. Er ist verheurathet, hat sogar einiges Vermögen, im Alter<lbr/>
+von einigen 30 Jahren, war schon längere Zeit an der Spitze eines <rend class="latin">Orchesters</rend>, und würde sich entschlie<pc force="weak">=</pc><lbr/>ßen, da ihm die Tendenz Ihres Institutes gefällt, und er gerne, einen seinen Fähigkeiten, entsprechenden<lbr/>
+Wirkungskreis haben möchte, um einen jährlichen Gehalt von 300 fl C.M. W.W. nach <rend class="latin">Salzburg</rend> ko<abbr type="topline" expand="mm">m</abbr>en. &#8211; Be&#255;<lbr/> 
+<pg n="2"/>
+der Wahl, eines noch ganz jungen, selbst noch in der Ausbildung begriffnen Ma<abbr type="topline" expand="nn">n</abbr>es, laufen<lbr/>
+Sie i<abbr type="topline" expand="mm">m</abbr>er Gefahr, selben be&#255; jeder sich darbiethenden günstigen Gelegenheit zu verlieren,<lbr/>
+und <abbr expand="daß">dß</abbr> öfteres Wechseln, in der Person des Lehrers und <rend class="latin">Direktors</rend>, nur von nachtheiligen<lbr/>
+Folgen se&#255;n ka<abbr type="topline" expand="nn">n</abbr>, da auf diesem Wege ein <rend class="latin">Orchester</rend>, nie die so wünschenswerthe <rend class="latin">Egalität</rend> und<lbr/>
+Einheit erlangen wird, dieß sehen Sie wohl selbst ein. Dieser Uebelstand, fiele be&#255; meinem Em<pc force="weak">=</pc><lbr/>pfohlenen weg, de<abbr type="topline" expand="nn">n</abbr> er hat sich gegen mich erklärt, das Mozarteum gewiß nicht zu verlassen, so<lbr/>
+lange er Ursache habe, mit der Behandlung der Vorsteher zufrieden zu se&#255;n, und dieß glaube<lbr/>
+ich, wieder <u>ihm</u> verbürgen zu kö<abbr type="topline" expand="nn">n</abbr>en. Ueberlegen Sie die Sache, und schreiben Sie mir darüber.<lbr/>
+Und somit schließe ich für heute, mit der Bitte, Ihrer liebenswürdige <persName key="75652">Frau Gemahli<abbr type="topline" expand="nn">n</abbr></persName> erge<pc force="weak">=</pc><lbr/>benst zu empfehlen, Ihren Sie hochschätzenden Freund und Diener<lbr type="forced"/>
+<ts>_____________________________</ts><tshtm>___________________________________________________________________________</tshtm><tspdf>\hfill </tspdf><persName key="39407"><rend class="latin">Mozart</rend></persName>&#160;<abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<u>Grünangergasse <rend class="latin">N<h><uu>o</uu></h></rend> 850. zwe&#255;te Stiege 3<h>t</h> Stock.</u><lbr type="forced"/>
+<lbr type="forced"/>
+Meine freundlichsten Grüsse, H<abbr type="curve"></abbr>&#160;<rend class="latin">Capellm:</rend>&#160;<persName key="79328"><rend class="latin">Daux</rend></persName>, den Herrn von <persName key="77317">Mielichhofer</persName>, <persName key="76830"><rend class="latin">Löwe</rend></persName>, etc etc<lbr/>
+wer sich <div type="commentary" xml:id="commentID2343_4">meiner gütigst e<abbr type="topline" expand="rr">r</abbr>i<abbr type="topline" expand="nn">n</abbr>ert<note corresp="#commentID2343_4">Franz Xaver Wolfgang Mozart hielt sich nach dem Tod der Mutter zur Klärung der 
+Erbschaftsangelegenheiten ab dem 10. März 1842 für einige Zeit in Salzburg auf.</note></div><lbr/>
+<pg n="3"/>
+<vacat/>
+<pg n="4"/>
+<anschrift>
+<u><rend class="latin">Wien</rend></u><lbr type="forced"/>
+An Herrn<lbr type="forced"/>
+Herrn <u>Franz <rend class="latin">Edlen von Hilleprandt</rend></u><lbr type="forced"/>
+Sä<abbr type="topline" expand="mm">m</abbr>tlichen Rechten <rend class="latin">Doktor</rend>, Hof und Gerichts<pc force="weak">=</pc><lbr type="forced"/><rend class="latin">Advocat</rend>, beeideten öffentlichen <rend class="latin">Notar</rend><lbr type="forced"/>
+<ts>_________________________</ts>zu<lbr type="forced"/>
+<u><rend class="latin">Franco</rend></u><ts>_____________________</ts><u><rend class="latin">Salzburg</rend></u></anschrift>
+<lbr/>
+<add_seal type="post">WIEN<lbr/>
+RECOMMAND<lbr/>
+3 APR</add_seal>
+<lbr/>
+<add_seal type="post">
+SALZBURG<lbr/>
+5. APR.</add_seal>
+<lbr/>
+<add_note schr_id="0">Mozart. St.<lbr/>
+N 850</add_note>
+<add_note schr_id="75653">a52 Nr. 31963<lbr/>
+Erl Jänner(?) 817</add_note>
+</NI></text>
+</MUP>

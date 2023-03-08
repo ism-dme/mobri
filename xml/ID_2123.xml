@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="2123">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-05</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=2123</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">D-DS</bibl>
+                <bibl type="source" subtype="long">D-DS: Universitäts- und Landesbibliothek</bibl>
+                <bibl type="source" subtype="long">Handschriften- und Musikabteilung. Darmstadt (DEU)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-05-13">last file update: <date>Fri May 13 17:19:16 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="ID_2123.mup">
+<HEADER id="2123">FRANZ XAVER WOLFGANG MOZART AN BREITKOPF &#38; HÄRTEL IN LEIPZIG<lbr/>
+LEMBERG, 27. DEZEMBER 1837</HEADER>
+<NI src="D-DS">
+<pg n="1"/>
+<add_note schr_id="0" impl="pencil"><ts>____________________________________________________</ts><rend class="latin">Erl</rend></add_note>
+<add_note schr_id="0" impl="pencil"><ts>__________________________________________________________</ts><rend class="latin">Lemberg</rend></add_note>
+<ts>_______________________________________________</ts><tspdf>\hfill </tspdf><u>Lemberg am 27<h><uu>t</uu></h>&#160;<rend class="latin">Decemb<abbr type="curve"></abbr></rend>&#160;<abbr type="topline" expand="1837">837</abbr>.</u><lbr type="forced"/>
+<lbr type="forced"/>
+<ts>________________________</ts>Geehrter <persName key="75357">Herr</persName>!<lbr type="forced"/>
+<lbr type="forced"/>			
+Da meine <persName key="48818">Mutter</persName>, schon vor längerer Zeit, das <div type="commentary" xml:id="commentID2123_1">Biographie<pc force="strong">=</pc><lbr/>Geschäft<note corresp="#commentID2123_1">Der Verkauf der Anfang 1829 im Verlag von Breitkopf &#38; Härtel erschienenen  
+<i>Biographie W. A. Mozart’s</i> von Georg Nikolaus Nissen.</note></div> gänzlich an mich übertragen hat, so habe ich hiemit die Ehre,<lbr/>
+Ihre gütige <div type="commentary" xml:id="commentID2123_2">Zuschrift vom 1<h><uu>t</uu></h>&#160;<rend class="latin">Dec<abbr type="curve"></abbr></rend><note corresp="#commentID2123_2">Am 1. Dezember 1837 hatte der Verlag Constanze Nissen mitgeteilt, 
+einen Käufer für alle Restexemplare der Biographie gefunden zu haben.
+Bei dem Käufer handelt es sich vielleicht um Gustav Senf jun., in dessen Buchverlag 
+in Leipzig 1849 eine „Zweite wohlfeile Ausgabe“ der Biographie erschien, bei der offensichtlich
+Restexemplare der Ausgabe von 1829 benutzt worden sind.</note></div> wie folgt zu beantworten.<lbr type="forced"/>
+<lbr type="forced"/>
+Laut der mir von Ihnen, im Juni <abbr type="topline" expand="1835">835</abbr>, übergebenen Rechnung habe ich be&#255; Ihnen<lbr/>
+vorräthig:<lbr type="forced"/>
+<ts>_______________</ts>622 <rend class="latin">Exemp</rend><ts>_____</ts><rend class="latin">Druckpapier</rend><lbr type="forced"/>
+<ts>_______________</ts>171<ts>___</ts> &#8211; <ts>_________</ts>Schrbp:<lbr type="forced"/>
+<ts>_______________</ts>47<ts>_____</ts> &#8211;	<ts>_________</ts><rend class="latin">Velinp:</rend><lbr type="forced"/>
+<ts>_______________</ts>380<ts>___</ts> &#8211;	<ts>_________</ts>Anhang. Zusa<abbr type="topline" expand="mm">m</abbr>en also 840 <rend class="latin">complette Exemplare</rend>, die ich<lbr/>
+um 420 Rth oder 630 fl. C: M. im 20 Gulden Fuße zu überlassen <div type="commentary" xml:id="commentID2123_3">geso<abbr type="topline" expand="nn">n</abbr>en bin<note corresp="#commentID2123_3">Der Franz Xaver Wolfgang Mozart unbekannte Käufer 
+willigte in dieses Angebot ein, worüber der Verlag am 2. Juli 1838 informierte. 
+Mozart stellte daraufhin am 31. August 1838 eine Quittung über den 
+Erhalt des Geldes aus, die er am 18. September 1838 an Breitkopf &#38; Härtel sandte.</note></div>; jedoch<lbr/>
+ohne irgend einem Abzuge, wofür aber die 380 Anhänge, unentgeldlich, mit in den<lbr/>
+Kauf gehen mögen. Dieß wäre der <u>erste</u> und letzte Vortheil, den mein <persName key="48820">Bruder</persName><lbr/>
+und ich von diesem kostspieligen Unternehmen unser guten <persName key="48818">Mutter</persName> hätten, und<lbr/>
+Sie kö<abbr type="topline" expand="nn">n</abbr>en auch im falle des Mißlingens, unseres aufrichtigsten Dankes für<lbr/>
+Ihre gütige Bemühung versichert se&#255;n. Empfangen Sie die Versicherung der<lbr/>
+unbegränzten Hochachtung Ihres ergebensten<lbr type="forced"/>
+<ts>_________________________________</ts><tshtm>_____________________________________</tshtm><tspdf>\hfill </tspdf><persName key="39407"><rend class="latin">W A Mozart</rend></persName>&#160;<abbr expand="manu propria">mp</abbr><lbr/>
+<add_ident schr_id="0" impl="pencil"><rend class="latin">Wolfg. Amad. Mozart (Sohn)</rend></add_ident> 
+<pg n="2"/>
+<add_seal type="post">LEMBERG</add_seal>
+<anschrift rot="90"><u><rend class="latin">Lemberg</rend>.</u><lbr type="forced"/>
+An Herrn<lbr type="forced"/>
+Herrn <u><rend class="latin">Breitkopf &#38; Härtel</rend></u><lbr type="forced"/>
+berühmten Musikverleger<lbr type="forced"/>
+in<lbr type="forced"/>
+<u><rend class="latin">Leipzig</rend></u></anschrift>
+<lbr/>
+<add_empf rot="270"><u>1837.<ts>___</ts></u><ts>________</ts><u><rend class="latin">Lemberg</rend></u><lbr/>
+<u>27<h>n</h>&#160;<rend class="latin">Decbr.</rend></u><ts>____</ts><rend class="latin">Mozart</rend><lbr/>
+<u>5 <rend class="latin">Jan.</rend> 38.</u><ts>_______</ts><rend class="latin">No.</rend> 22<lbr/>
+<u>3 <rend class="latin">Juni</rend></u>&#160;<rend class="latin">resp.</rend></add_empf>
+</NI>
+</text>
+</MUP>

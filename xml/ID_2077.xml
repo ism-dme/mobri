@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="2077">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-06</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=2077</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sae</bibl>
+                <bibl type="source" subtype="long">A-Sae: Archiv der Erzdiözese Salzburg. Salzburg (AUT)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-06-07">last file update: <date>Tue Jun  7 16:47:57 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="ID_2077.mup">
+<HEADER id="2077">FRANZ XAVER WOLFGANG MOZART AN FRANZ VON HILLEPRANDT IN SALZBURG<lbr/>
+WIEN, 27. JANUAR 1839<lbr/>
+mit Entwurf einer Antwort von Franz von Hilleprandt, 31. Januar 1839</HEADER>
+<NI src="A-Sae">
+<pg n="1"/>
+<ts>___________________________</ts><tspdf>\hfill </tspdf><u><rend class="latin">Wien</rend> am 27<h><uu>t</uu></h> Jä<abbr type="topline" expand="nn">n</abbr>er <abbr type="topline" expand="1839">839</abbr></u><lbr type="forced"/>
+<lbr type="forced"/>
+Sehr geehrter <persName key="77883">Freund</persName>!<lbr type="forced"/>
+<lbr type="forced"/>
+Im Einverständniße mit meinem <persName key="48820">Bruder</persName>, ersuche ich Sie<lbr/>
+um die Zurücksendung, der Ihnen von uns ertheilten <div type="commentary" xml:id="commentID2077_1">Voll<pc force="weak">=</pc><lbr/>macht<note corresp="#commentID2077_1">Die Brüder Carl Thomas und Franz Xaver Wolfgang Mozart hatten im Januar 1836 den Juristen Franz von Hilleprandt gebeten, 
+sie in Erbfragen zu vertreten. Siehe den Brief von Franz Xaver Wolfgang Mozart vom 25. Januar 1836.</note></div>. Wir haben unsere Angelegenheiten so eingerichtet, <abbr expand="daß">dß</abbr> die<lbr/>
+Dazwischenkunft eines Rechtsfreundes ganz u<abbr type="topline" expand="nn">n</abbr>ütz wird. Empfangen<lbr/>
+Sie daher unsern aufrichtigsten Dank, für die freundliche Bereit<pc force="weak">=</pc><lbr/>willigkeit, mit der Sie nöthigen Falls, uns vertreten wollten, und<lbr/>
+haben Sie die Gefälligkeit, mir mit umgehender Post, die<lbr/>
+ausgestellte Vollmacht gütigst zurück zu senden. Mich Ihrem fernern<lbr/>
+Wohlwollen empfehlend, zeichne ich mich mit besonderer Hochachtung<lbr/>
+<ts>_______________________</ts>als Ihr ergebenster Diener <u>u</u> Frd<lbr type="forced"/>
+<ts>_________________________________</ts><tspdf>\hfill </tspdf><persName key="39407">Wolfgang A Mozart</persName>&#160;<abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<lbr type="forced"/>
+<u><rend class="latin">Adresse</rend></u><lbr type="forced"/>
+<u><rend class="latin">Wien</rend>, in der Grünanger-Gasse</u><lbr type="forced"/>
+<u>N<h><uu>o</uu></h> 850. zwe&#255;te Stiege, 3<h><uu>t</uu></h> Stock.</u><lbr type="forced"/>
+<pg n="2"/>
+<vacat/>
+<pg n="3"/>
+<vacat/>
+<pg n="4"/>
+<anschrift rot="90">
+<u><rend class="latin">Wien</rend></u><lbr type="forced"/>
+An Seine den<lbr type="forced"/>
+Herrn <u><rend class="latin">Franz</rend>&#160;<rend class="latin">von Hilleprandt</rend></u><lbr type="forced"/>
+sa<abbr type="topline" expand="mm">m</abbr>tlichen Rechte Doktor, Hof und<lbr type="forced"/>
+Gerichts <rend class="latin">Advokat</rend>, und beeideten<lbr type="forced"/>
+<rend class="latin">Notar</rend>, Hoch <u>u</u> Wohlgeboren<lbr type="forced"/>
+<ts>_____________________</ts>zu<lbr type="forced"/>
+<uu>Franco, gegen Retour=</uu><ts>___________</ts><u><rend class="latin">Salzburg</rend></u><lbr type="forced"/>
+<uu>Recepisse</uu></anschrift><lbr type="forced"/>
+<lbr type="forced"/>
+<tspdf>\newpage </tspdf>
+[Franz von Hilleprandt, Entwurf einer Antwort, Salzbug, 31. Januar 1839:]<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____</ts>Schätzbarster <persName key="39407">Freund</persName>!<lbr type="forced"/>
+<lbr type="forced"/>
+Ihrem in dem Briefe vom 27. Jänner 1839 geäußerten Wun<pc force="weak">=</pc><lbr/>sche zu Folge sende ich Ihnen be&#255;liegende von Ihnen und<lbr/>
+Ihrem <persName key="48820">H<abbr type="curve"></abbr> Bruder</persName> ausgestellte Vollmacht mit der <lbr/>
+Bitte um Empfangsbestättigung zurück, und<lbr/>
+verbleibe mit ungeheuchtelter Hochachtung<lbr type="forced"/>
+<ts>________</ts>E. W.<ts>_________________</ts>ergebenster Diener etc.<lbr type="forced"/>
+geschrb<abbr type="curve"></abbr> am 31 Jänner<lbr type="forced"/>
+<ts>__________</ts>1839
+</NI></text>
+</MUP>

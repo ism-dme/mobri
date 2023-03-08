@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="127">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2009">2009-08-20</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=127</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+                <bibl type="source" subtype="long">A-Sm: Internationale Stiftung Mozarteum, Bibliotheca Mozartiana. Salzburg (AUT)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-05-11">last file update: <date>Wed May 11 14:48:23 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="Doc1835_1.mup">
+<HEADER id="127">FRANZ XAVER WOLFGANG MOZART AN FRIEDRICH SCHWAAN IN ROSTOCK<lbr/>
+SALZBURG, 18. SEPTEMBER 1835</HEADER>
+<pg n="1"/>
+<add_num><ts>_________________________________________________________________________________________________________________</ts><stroke>10<h>h</h></stroke></add_num>
+<add_num impl="pencil"><ts>_____________________________________________________________________________________________________________</ts>10/26</add_num>
+<ts>_____________________________________</ts><tspdf>\hfill </tspdf><u><rend class="latin">Salzburg</rend> am 18<h><uu>t</uu></h>&#160;<rend class="latin">Sept</rend>: <abbr type="topline" expand="1835">835</abbr></u><lbr type="forced"/>
+<lbr type="forced"/>
+<ts>__________________</ts>Geehrter <persName key="78827">Herr</persName> und Freund!<lbr type="forced"/>
+<lbr type="forced"/>
+Heute, am Tage meiner <div type="commentary" xml:id="commentID127_1">Abreise<note corresp="#commentID127_1">Franz Xaver Wolfgang Mozart besuchte zum vierten Mal seine Mutter in Salzburg.</note></div>, erhielt meine gute liebe <persName key="48818">Mutter</persName>, Ihren<lbr/>
+freundlichen <div type="commentary" xml:id="commentID127_2">Brief vom 27<h><uu>t</uu></h>&#160;<rend class="latin">August</rend><note corresp="#commentID127_2">Brief nicht erhalten.</note></div>. Ich benütze diese Gelegenheit, Ihnen meinen<lbr/>
+verbindlichsten Dank auszudrücken, für den <div type="commentary" xml:id="commentID127_3">herzlichen Antheil<note corresp="#commentID127_3">Mit dem Rostocker Musiklehrer und Autographensammler Friedrich Schwaan stand Constanze Nissen 
+zwischen 1829 und 1840 im Briefwechsel. Die Briefe von Constanze Nissen sind erhalten und werden 
+in der Bibliotheca Mozartiana der Stiftung Mozarteum Salzburg aufbewahrt. Der Mozart-Verehrer 
+hatte 1828 die <i>Biographie W. A. Mozart’s</i> von Georg Nikolaus Nissen (Leipzig 1828/29) subskribiert.</note></div>, den Sie an<lbr/>
+uns nehmen. Erhalten Sie uns auch ferner Ihre freundlichen Gesi<abbr type="topline" expand="nn">n</abbr>ungen,<lbr/>
+und mögen Sie, von Ihren Leiden, bald gänzlich hergestellt se&#255;n, dieß<lbr/>
+wünscht sehnlich Ihr ergebenster<lbr type="forced"/>
+<ts>____________________________</ts><tshtm>___________________________</tshtm><tspdf>\hfill </tspdf><persName key="39407"><rend class="latin">W A Mozart</rend></persName>&#160;<abbr expand="manu propria">mp</abbr>
+<pg n="2"/>
+<vacat/></text>
+</MUP>

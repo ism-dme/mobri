@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="164">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2009">2009-08-20</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=164</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+                <bibl type="source" subtype="long">A-Sm: Internationale Stiftung Mozarteum, Bibliotheca Mozartiana. Salzburg (AUT)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-05-11">last file update: <date>Wed May 11 14:48:24 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="Doc1842_7.mup">
+<HEADER id="164">AUGUST FRIEDRICH ERNST LANGBEIN, MOZARTS GEDÄCHTNISSFEIER<lbr/>
+BERLIN, 5. DEZEMBER 1824</HEADER>
+
+
+<pg n="1"/>
+<add_num impl="pencil"><ts>________________________________________</ts>1254</add_num>
+<lbr/>
+<rend class="latin">Mozarts Gedächtnissfeier,<lbr type="forced"/>
+Gedicht von A. F. E. Langbein.</rend><lbr type="forced"/>
+<pg n="2"/>
+<vacat/>
+<pg n="3"/>
+<lg type="poem"><lg type="stanza" n="1">In Salzburg war ein Wunderknabe,<lbr/>
+<ts>___</ts>Dem seine Muse früh erschien.<lbr/>
+Beschenkt mit ihrer Himmelsgabe,<lbr/>
+<ts>___</ts>Schwand jedes Spielwerks Reitz für ihn.<lbr/>
+Mit kühner Dichtung süßer Töne<lbr/>
+<ts>___</ts>Beflügelt er sich seine Zeit;<lbr/>
+Vorahnend, daß dereinst ihn kröne<lbr/>
+<ts>___</ts>Der Lorbeer der Unsterblichkeit.</lg><lbr/>
+
+<lg type="stanza" n="2">Fünf Lenze blüthen erst dem Kleinen,<lbr/>
+<ts>___</ts>Da war er am Klavier ein Held.<lbr/>
+Jetzt sollt’ er als ein Stern erscheinen;<lbr/>
+<ts>___</ts>Sein Vater führt’ ihn durch die Welt.<lbr/>
+Umstaunt beherrscht’ er, wie ein Meister,<lbr/>
+<ts>___</ts>Von Land zu Land das Saitenspiel<lbr/>
+Doch war der Jubel kleiner Geister<lbr/>
+<ts>___</ts>Kein Ehrenlohn, der ihm gefiel.</lg>
+<pg n="4"/>
+<lg type="stanza" n="3">Er sagte kühl: „Was kann mir frommen<lbr/>
+<ts>___</ts>Der Layen wüstes Lobgeschrei?<lbr/>
+Den größten Meister laßt mir kommen,<lbr/>
+<ts>___</ts>Und was ich gelte, sag’ er frei!”<lbr/>
+Kam nun ein Fürst der Kunst, und lauschte,<lbr/>
+<ts>___</ts>Und sprach ein Wörtchen mild und hold,<lbr/>
+Das hob sein Herz, und er vertauschte<lbr/>
+<ts>___</ts>Des Kenners Beifall nicht um Gold. &#8211;</lg><lbr/>
+
+<lg type="stanza" n="4">In Wälschland hört’ er einst, daß leise<lbr/>
+<ts>___</ts>Bey seinem Spiel die Rede ging:<lbr/>
+„Der Deutsche zwingts geheimer Weise,<lbr/>
+<ts>___</ts>Durch seinen mächt’gen Zauberring.”<lbr/>
+So raunten kunstbefliß’ne Jünger<lbr/>
+<ts>___</ts>Von Neid befangen sich ins Ohr;<lbr/>
+Er aber zog den Reif vom Finger,<lbr/>
+<ts>___</ts>Und spielte schöner als zuvor.</lg>
+<pg n="5"/>
+<lg type="stanza" n="5">Die Jahre stärkten ihm die Schwingen,<lbr/>
+<ts>___</ts>Und leicht und kräftig flog der Aar,<lbr/>
+Der Bühne manchen Schatz zu bringen<lbr/>
+<ts>___</ts>Voll Urgeist, aber sonnenklar.<lbr/>
+Wie glänzt die goldne Liederkette,<lbr/>
+<ts>___</ts>Die er dem span’schen Wüstling schuf!<lbr/>
+Dies Wunderwerk der Tonkunst hätte<lbr/>
+<ts>___</ts>Allein verewigt seinen Ruf.</lg><lbr/>
+
+<lg type="stanza" n="6">Der Kummer floh von jeder Wange,<lbr/>
+<ts>___</ts>Und das Gemüth war frei von Schmerz,<lbr/>
+Betrat er nur mit einem Klange<lbr/>
+<ts>___</ts>Die Brücke zwischen Ohr und Herz.<lbr/>
+Der König ward durch ihn erheitert,<lbr/>
+<ts>___</ts>Das Hirtenmädchen sang sein Lied.<lbr/>
+So hatte Keiner noch erweitert<lbr/>
+<ts>___</ts>Der edlen Tonkunst Machtgebiet.</lg>
+<pg n="6"/>
+<lg type="stanza" n="7">Doch schwankend neigte sich zur Erde<lbr/>
+<ts>___</ts>Des großen Geistes enges Haus,<lbr/>
+Und daß es bald zerfallen werde,<lbr/>
+<ts>___</ts>Sprach ahnendes Gefühl ihm aus.<lbr/>
+Es flog ihn an, als in sein Zimmer<lbr/>
+<ts>___</ts>Einstmals ein Unbekannter trat,<lbr/>
+Und dringend, mit des Goldes Schimmer<lbr/>
+<ts>___</ts>Um eine Seelenmeße bat.</lg><lbr/>
+
+<lg type="stanza" n="8">Der Künstler, lenksam zum Gewähren<lbr/>
+<ts>___</ts>Gelobte sie, der Fremde schied<lbr/>
+Und jener sprach mit leisen Zähren:<lbr/>
+<ts>___</ts>„Ich dichte <u>mir</u> mein Todtenlied!” &#8211; <lbr/>
+Und noch vom alten Geist durchdrungen,<lbr/>
+<ts>___</ts>Der Ruhm und Herzen ihm erwarb,<lbr/>
+War schier das Schwanenlied gesungen, &#8211; <lbr/>
+<ts>___</ts>Da neigt’ er sanft sein Haupt, und starb. &#8211;</lg>
+<pg n="7"/>
+<lg type="stanza" n="9">Zu früh entrücket sank er nieder<lbr/>
+<ts>___</ts>Auf seiner halben Erdenbahn,<lbr/>
+Und Schaaren seelenvoller Lieder,<lbr/>
+<ts>___</ts>Sie flogen mit ihm himmelan!<lbr/>
+Wer seiner Töne Zauber hörte,<lbr/>
+<ts>___</ts>Beklagt, daß sein Geschick ihn rief,<lbr/>
+Und eine heit’re Welt zerstörte,<lbr/>
+<ts>___</ts>Die noch in seinem Busen schlief.</lg><lbr/>
+
+<lg type="stanza" n="10">Wenn <corr type="stroke" hand="diff" value="auch" pos="supra">ihm</corr> kein <corr type="stroke" hand="diff" value="Standbild weit" pos="supra">Denkmal auch</corr> bewundert,<lbr/>
+<ts>___</ts><corr hand="diff" value="Der Welt ihn zeigte" pos="supra">Kein Standbild prangte</corr> hoch und hehr;<lbr/>
+Doch von Jahrhundert zu Jahrhundert<lbr/>
+<ts>___</ts>Lebt’ er unsterblich, wie Homer.<lbr/>
+Wenn Tausend gleichen Flug auch wagen,<lbr/>
+<ts>___</ts>Sie holen seinen Flug nicht ein.<lbr/>
+Er wird, so lange Herzen schlagen,<lbr/>
+<ts>___</ts>Der Liebling jedes Herzens sein! &#8211;</lg></lg>
+<pg n="8"/>
+<vacat/>
+</text>
+</MUP>

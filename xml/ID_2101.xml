@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="2101">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-05</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=2101</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">D-B</bibl>
+                <bibl type="source" subtype="long">D-B: Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Musikabteilung mit Mendelssohn-Archiv. Berlin (DEU)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-05-13">last file update: <date>Fri May 13 15:14:00 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="ID_2101.mup">
+<HEADER id="2101">FRANZ XAVER WOLFGANG MOZART AN HEINRICH KISTING IN BERLIN<lbr/>
+STUTTGART, 22. FEBRUAR 1821</HEADER>
+<NI src="D-B">
+<pg n="1"/>
+<ts>______________________</ts><tshtm>__________________________</tshtm><tspdf>\hfill </tspdf><u>Stuttgard am 22<h><uu>t</uu></h>&#160;<rend class="latin">Februar</rend> 1821</u><lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____________________</ts>Mein lieber guter <persName key="76212">Freund</persName>!<lbr type="forced"/>
+<lbr type="forced"/>
+Es ist nun eben ein Jahr, seit ich <div type="commentary" xml:id="commentID2101_1">Sie verlassen<note corresp="#commentID2101_1">Während seiner Konzertreise durch Europa hielt sich Franz Xaver Wolfgang Mozart 
+vom 12. Dezember 1819 bis zum 8. Februar 1820 in Berlin auf. 
+Dort besuchte er mehrmals den Klavierbauer Heinrich Christian Kisting. 
+Am 8. Februar 1821 trug sich dieser zum Abschied in Mozarts Stammbuch ein.</note></div>, und zu mei<pc force="weak">=</pc><lbr/>ner Schande muß ich beyfügen, seit ich gar nichts von mir hören<lbr/>
+ließ. Von Entschuldigung ka<abbr type="topline" expand="nn">n</abbr> hier gar nicht die Rede seyn, und ich<lbr/>
+thue also wohl am besten, we<abbr type="topline" expand="nn">n</abbr> ich mich Ihnen auf Gnade und<lbr/>
+Ungnade ergebe, und für die Zukunft Besserung gelobe. &#8211; Zu<lbr/>
+meinem großen Vergnügen las ich vor kurzen in der musikal<lbr/>
+Zeitung, <abbr expand="daß">dß</abbr> Ihre liebe Tochter <persName key="84724"><rend class="latin">Jetti</rend></persName>, an Freund <persName key="72888"><rend class="latin">Arnold</rend></persName>&#160;<div type="commentary" xml:id="commentID2102_2">ver<pc force="weak">=</pc><lbr/>heurathet ist<note corresp="#commentID2101_2">Im Bericht über das Musikleben in Berlin in der Leipziger
+<i>Allgemeinen musikalischen Zeitung</i>, 10. Januar 1821, Nr. 2, Sp. 28,
+wird die Sängerin Henriette Kisting als Gattin von Carl Arnold erwähnt.
+Sie hatten am 13. Dezember 1820 in Berlin geheiratet.</note></div>, und ich wollte damahls gleich, Ihnen meine Freude<lbr/>
+darüber, in einem gar zierlich geschriebnen Briefe zu erke<abbr type="topline" expand="nn">n</abbr>en<lbr/>
+geben, aber da kamen mir wieder meine <div type="commentary" xml:id="commentID2101_3"><rend class="latin">Concert</rend> Angele<pc force="weak">=</pc><lbr/>genheiten<note corresp="#commentID2101_3">Gemeint ist vermutlich das Konzert in Mannheim am 15. Januar 1820.</note></div> in die Quere, und es wäre vielleicht noch länger<lbr/>
+bey diesem schönen Vorhaben geblieben, we<abbr type="topline" expand="nn">n</abbr> mich nicht <persName key="83012">Vor<pc force="weak">=</pc><lbr/>zeiger</persName> dieses, um Empfehlungen nach Berlin gebeten hätte. Da<lbr/>
+ich nun aus eigner Erfahrung weiß, <abbr expand="daß">dß</abbr> ich Ihn nirgends besser, als an<lbr/>
+Sie empfehlen kan, so ergriff ich mit Vergnügen diese Gelegenheit,<lbr/>
+um einer Seits meinem neuen <persName key="83012">Freunde</persName> nützlich zu seyn, und ander<lbr/>
+Seits, um mich in das Gedächtniß meines ältern bewährten <persName key="76212">Freundes</persName><lbr/>
+zurück zu rufen, und Ihm meine Nachlässigkeit abzu bitten.<lbr type="forced"/>
+<lbr type="forced"/>
+Ein Viertelstündchen werden Sie wohl gebraucht haben, um sich durch das<lbr/>
+Gekritzel in den vorhergehenden 19 <formula type="mfrac"><mn>1</mn><mi>2</mi></formula> Zeilen durch zu arbeiten, und ich<lbr/>
+bemerke doch erst izt, <abbr expand="daß">dß</abbr> Sie noch nicht wissen, <u>wer</u> eigendlich der Ueberbringer<lbr/>
+dieses ist? Doch um das zu erfahren, müßen Sie erst dieses Blatt gütigst umwen<pc force="weak">=</pc><lbr/>den, weil ich Ihnen erst auf der andern Seite sagen will, was Sie noch nicht wissen, <abbr expand="daß">dß</abbr> vor<lbr/>
+Ihnen steht, der königl: Ka<abbr type="topline" expand="mm">m</abbr>ermusikus <conv><ts>________</ts><rend class="latin">Volti subito</rend></conv><lbr/>
+<lbr/>
+<add_seal type="owner">DEUTSCHE<lbr/>
+STAATS<pc force="weak">-</pc><lbr/>BIBLIOTHEK<lbr/>
+BERLIN</add_seal>
+<pg n="2"/>
+sage, königl Würtembergische Ka<abbr type="topline" expand="mm">m</abbr>ermusikus, <persName key="83012">H<abbr type="curve"></abbr>&#160;<u><rend class="latin">Adolph Wiele</rend></u></persName>, ein<lbr/>
+sehr ausgezeichneter <rend class="latin">Violinspieler</rend>, mein sehr guter Freund etc. etc. etc.<lbr/>
+Unter diesen <rend class="latin">etceteras</rend>, kö<abbr type="topline" expand="nn">n</abbr>en Sie sich noch eine Menge liebenswür<pc force="weak">=</pc><lbr/>diger Eigenschaften denken, und ich versichre Sie, <abbr expand="daß">dß</abbr> Sie in Ihren<lbr/>
+Erwartungen nicht werden betrogen werden. Insbesondere empfehle<lbr/>
+ich ihn Ihnen als einen sehr hoffnungsvollen Tobackraucher,<lbr/>
+wovon Sie nach Belieben gleich die Probe machen kö<abbr type="topline" expand="nn">n</abbr>en. &#8211; <lbr/>
+<lbr type="forced"/>
+In ein paar Tagen gehe ich nach München, und hoffe, da ich mich<lbr/>
+<div type="commentary" xml:id="commentID2101_4">einige Wochen dort aufhalten will<note corresp="#commentID2101_4">Franz Xaver Wolfgang Mozart hielt sich vom 1. März bis
+zum 9. Mai 1821 in München auf.</note></div>, einige Worte von Ihnen<lbr/>
+zu erhalten, die mir die angenehme Gewissheit geben sollen, <abbr expand="daß">dß</abbr><lbr/>
+Sie meiner noch mit Liebe gedenken. Empfehlen Sie mich<lbr/>
+Ihrer Familie, <persName key="72888">Arnold</persName>, und wer sonst noch sich meiner eri<abbr type="topline" expand="nn">n</abbr>ert,<lbr/>
+und leben Sie so wohl, als es wünscht, Ihr<lbr type="forced"/>
+<ts>_______________</ts><tshtm>_____________________________________</tshtm><tspdf>\hfill </tspdf><persName key="39407">WA Mozart</persName>&#160;<abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<rend class="latin">Add<abbr type="curve"></abbr></rend> durch H<abbr type="curve"></abbr>&#160;<persName key="84804"><rend class="latin">A E von Eichthal</rend></persName> in München.<lbr type="forced"/>
+<pg n="3"/>
+<vacat/>
+<pg n="4"/>
+<anschrift rot="270">Herrn<lbr type="forced"/>
+Herrn<lbr type="forced"/>
+Heinrich <u>Kisting.</u><lbr type="forced"/>
+<u>Friedrich-Strasse</u><ts>_____</ts>in<lbr type="forced"/>
+<u><rend class="latin">N<h><uu>o</uu></h></rend> 134</u><ts>_________________</ts><tshtm>_______</tshtm><u><rend class="latin">Berlin</rend></u></anschrift>
+<lbr/>
+<add_empf rot="180"><rend class="latin">Mozart</rend> dermalen<lbr type="forced"/>
+in <rend class="latin">Stuttgard</rend><lbr type="forced"/>
+d<abbr type="curve"></abbr> 22<u>ten</u>&#160;<rend class="latin">Febr</rend> 1821</add_empf>
+<add_seal type="owner">DEUTSCHE<lbr/>
+STAATS<pc force="weak">-</pc><lbr/>BIBLIOTHEK<lbr/>
+BERLIN</add_seal>
+</NI></text>
+</MUP>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="2118">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-05</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=2118</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">D-DS</bibl>
+                <bibl type="source" subtype="long">D-DS: Universitäts- und Landesbibliothek</bibl>
+                <bibl type="source" subtype="long">Handschriften- und Musikabteilung. Darmstadt (DEU)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-05-11">last file update: <date>Wed May 11 14:48:29 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="ID_2118.mup">
+<HEADER id="2118">FRANZ XAVER WOLFGANG MOZART AN BREITKOPF &#38; HÄRTEL IN LEIPZIG<lbr/>
+LEMBERG, 22. JUNI 1811</HEADER>
+<NI src="D-DS">
+<pg n="1"/>
+<ts>________________________</ts><tshtm>__________________________</tshtm><tspdf>\hfill </tspdf><u>Lemberg den 22<h><uu>t</uu></h>&#160;<rend class="latin">Juni</rend> 1811.</u><lbr type="forced"/>
+<lbr type="forced"/>
+<ts>__________</ts>Schätzbaarster <persName key="53244">Herr</persName>!<lbr type="forced"/>
+<lbr type="forced"/>
+Es ist schon wieder ziemlich lange, daß ich nicht so glücklich<lbr/>
+war, Nachrichten von Ihnen zu erhalten. Haben Sie wohl mein<lbr/>
+<div type="commentary" xml:id="commentID2119_1">Schreiben vom 20<h><uu>t</uu></h>&#160;<rend class="latin">februar</rend><note corresp="#commentID2119_1">Brief vom 20. Februar 1811.</note></div> in Händen? We<abbr type="topline" expand="nn">n</abbr> Sie es haben, so<lbr/>
+werden Sie wissen, daß ich schon seyt beynahe 2 Monathen in<lbr/>
+Lemberg bin; Wie lange ich mich noch hier aufenthalten<lbr/>
+werde, ka<abbr type="topline" expand="nn">n</abbr> ich nicht besti<abbr type="topline" expand="mm">m</abbr>en, ich mag aber seyn wo i<abbr type="topline" expand="mm">m</abbr>er,<lbr/>
+so wird <persName key="84796">H<abbr type="curve"></abbr> Pfaff</persName> meine <rend class="latin">Adresse</rend> wissen, und mir Ihr<lbr/>
+geehrtes übersenden kö<abbr type="topline" expand="nn">n</abbr>en. &#8211; Die mir überschickten 6<lbr/>
+<rend class="latin">Exemp</rend> meines <workName key="11550"><rend class="latin">Concertes</rend></workName> habe ich empfangen, die Reinheit und Schönheit<lbr/>
+des Stiches hat mir so viel Vergnügen gemacht, daß ich nicht<lbr/>
+umhin ka<abbr type="topline" expand="nn">n</abbr>, Ihnen hier, dafür zu danken; die wenigen sich<lbr/>
+darin befindenden Druckfehler, werde ich Ihnen mit nächster<lbr/>
+Gelegenheit mittheilen. Und nun erlauben Sie mir, mich zwey<pc force="weak">=</pc><lbr/>er Freunde wegen zu erkundigen, die mich sehr baten,<lbr/>
+Sie zu fragen, ob Sie wohl etwas von ihnen in Verlag<lbr/>
+nehmen wollten. Der eine, <persName key="55656">Herr <rend class="latin">Lipinski</rend></persName>, | der<lbr/>
+hier die erste <rend class="latin">Violin</rend> beym Theater dirigirt :| ein hoffnungs<pc force="weak">=</pc><lbr/>voller junger Ma<abbr type="topline" expand="nn">n</abbr>, und der, was man selten antreffen<lbr/>
+wird, ein ausgezeichneter Künstler, auf der <rend class="latin">Violin</rend>, und<lbr/>
+dem <rend class="latin">Violonzelle</rend> ist, biethet Ihnen ein <rend class="latin">concertantes<lbr/>
+Duett</rend> für diese zwey Instrumente an. Der andere<lbr/>
+<pg n="2"/>
+<persName key="84798">H<abbr type="curve"></abbr>&#160;<rend class="latin">Kaczkowski</rend></persName>, hat folgende Sachen in Bereitschaft,<lbr/>
+die ich gröstentheihls von ihm selbst habe vortragen ge<pc force="weak">=</pc><lbr/>hört: <u>Zwey <rend class="latin">Concerten</rend></u> für die <rend class="latin">Violine</rend>. <u>Zwey <rend class="latin"><emend value="Variationen">Variatinen</emend></rend></u><lbr/>
+für dieselbe, die eine nur im <rend class="latin">Quartett</rend>, die andere<lbr/>
+aber mit ganzen Orchester; und endlich <u>eine <rend class="latin">Polonaise</rend></u><lbr/>
+mit ganzer Orchester Begleitung. Das <rend class="latin">Honorar</rend><lbr/>
+überlassen beyde Ihrer Billigkeit, nur wünschen Sie<lbr/>
+es in gutem Gelde zu erhalten, weil itzt der Werth der<lbr/>
+Bankozettel zu gering, und unbesti<abbr type="topline" expand="mm">m</abbr>t ist. Sollten Sie<lbr/>
+also geso<abbr type="topline" expand="nn">n</abbr>en seyn, etwas, von diesen Sachen anzunehmen,<lbr/>
+so ersuchte ich Sie, mir das nähere darüber mitzu<pc force="weak">=</pc><lbr/>theilen. &#8211; <lbr type="forced"/>
+<lbr type="forced"/> 
+Von meiner <persName key="48818">Mutter</persName> habe ich schon seit zwey Mo<pc force="weak">=</pc><lbr/>naten keine Nachrichten. &#8211; In Erwartung einer<lbr/>
+baldigen geneigten Antwort, empfehle ich mich, Ihrer<lbr/>
+fernern Freundschaft, und habe die Ehre zu verbleiben<lbr type="forced"/>
+<ts>_______________________________________________________</ts><tspdf>\hfill </tspdf>Ihr ergebenster<lbr type="forced"/>
+<ts>_________________________________</ts><tshtm>___________________________</tshtm><tspdf>\hfill </tspdf><persName key="39407">Mozart</persName>&#160;<abbr expand="manu propria">mp</abbr><lbr/>
+<pg n="3"/>
+<add_empf rot="90"><u>1811</u><ts>____________</ts><u><rend class="latin">Lemberg</rend></u><lbr/>
+<u>d. 22. <rend class="latin">Juny</rend></u><lbr/>
+<u>16. <rend class="latin">July</rend></u><ts>_________</ts><rend class="latin">Mozart</rend><lbr/>
+<u><rend class="latin">eod<abbr type="curve"></abbr></rend> &#8211; </u></add_empf>
+<pg n="4"/>
+<tspdf>\newpage </tspdf> 
+<anschrift rot="90"><u>Lemberg</u><lbr type="forced"/>
+An<lbr type="forced"/>
+Herrn Herrn<lbr type="forced"/>
+<u>Breitkopf <rend class="latin">et</rend> Härtel</u><lbr type="forced"/>
+<u>Musikverleger</u><lbr type="forced"/>
+in <lbr type="forced"/>
+<u>Leipzig</u></anschrift>
+</NI>
+
+</text>
+</MUP>

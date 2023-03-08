@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="2112">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2023">2023-01</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=2112</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">D-DS</bibl>
+                <bibl type="source" subtype="long">D-DS: Universitäts- und Landesbibliothek</bibl>
+                <bibl type="source" subtype="long">Handschriften- und Musikabteilung. Darmstadt (DEU)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-05-11">last file update: <date>Wed May 11 14:48:29 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="ID_2112.mup">
+<HEADER id="2112">FRANZ XAVER WOLFGANG MOZART AN BREITKOPF &#38; HÄRTEL IN LEIPZIG<lbr/>
+LEMBERG, 6. SEPTEMBER 1816</HEADER>
+<NI src="D-DS">
+<pg n="1"/>
+<ts>_________________</ts><tshtm>_______________________________________</tshtm><tspdf>\hfill </tspdf><u>Lemberg den 6<h><uu>t</uu></h>&#160;<rend class="latin">Sept</rend> 1816</u><lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_________________</ts>Geehrter <persName key="53244">Herr</persName>!<lbr type="forced"/>
+<lbr type="forced"/>
+Vorgestern habe ich endlich meine so lange erwarteten <workName key="11553"><rend class="latin">Polonaisen</rend></workName> beko<abbr type="topline" expand="mm">m</abbr>en,<lbr/>
+und zu meiner nicht geringen Verwunderung gesehn, daß Sie die Bedingungen,<lbr/>
+unter denen ich sie Ihnen überlassen, gänzlich vergessen haben müssen.<lbr type="forced"/>
+Da diese Kleinigkeit, in meinen Augen zu wenig Werth hatte, um dafür<lbr/>
+ein <rend class="latin">Honorar</rend> in Geld zu verlangen, so erbath ich mir 40 <rend class="latin">Exempl</rend>, und<lbr/>
+durch ein Jahr | versteht sich von dem Tage daß ich sie werde beko<abbr type="topline" expand="mm">m</abbr>en<lbr/>
+haben, gerechnet | den alleinigen Verkauf in Lemberg. Daß Sie mir<lbr/>
+dieß alles zugesagt haben, beweist Ihr <div type="commentary" xml:id="commentID2112_1">Geehrtes vom 18<h><uu>t</uu></h> May 1814<note corresp="#commentID2112_1">Brief nicht erhalten.</note></div>, welches<lbr/>
+ich noch in Händen habe. Nach zwey Jahren erhalte ich endlich statt 40 nur<lbr/>
+7 Exm<abbr type="curve"></abbr> und <persName key="84796">H<abbr type="curve"></abbr> Pfaff</persName> bekö<abbr type="topline" expand="mm">m</abbr>t mit der nehmlichen Sendung ebenfalls<lbr/>
+6 Abdrucke. Diesem letztern war leicht abgeholfen, de<abbr type="topline" expand="nn">n</abbr> ich kaufte sie gleich<lbr/>
+auf, und ersuche Sie hiermit, mir das ausgelegte Geld wieder ersetzen zu wollen;<lbr/>
+die mir dan noch zuko<abbr type="topline" expand="mm">m</abbr>enden 27 <rend class="latin">Exempl</rend> bitte ich Sie mir schleunigst,<lbr/>
+und we<abbr type="topline" expand="nn">n</abbr> es nicht anders seyn ka<abbr type="topline" expand="nn">n</abbr>, auf meine Kosten zu schicken. In Erwartung<lbr/>
+einer baldigen Antwort Ihr ergebenster<lbr type="forced"/> 
+<ts>______________________________________________________________</ts><tspdf>\hfill </tspdf><tspdf>\hfill </tspdf><persName key="39407"><rend class="latin">W A Mozart</rend></persName><lbr type="forced"/>
+<add_note schr_id="0" impl="pencil">25. Ex 1<h>t</h>&#160;<unclear>Sa<abbr type="topline" expand="mm">m</abbr>lg</unclear> drch <persName key="84903">Treg</persName></add_note>
+<pg n="2"/>
+<vacat/>
+<pg n="3"/>
+<vacat/>
+<pg n="4"/>
+<anschrift rot="90">Lemberg<lbr type="forced"/>
+An Herrn<lbr type="forced"/>
+Herrn <u><rend class="latin">Breitkopf</rend> und <rend class="latin">Härtel</rend></u><lbr type="forced"/>
+Musik-Verleger<lbr type="forced"/>
+in<lbr type="forced"/>
+<u><rend class="latin">Leipzig</rend></u></anschrift>
+<lbr/>
+<add_empf rot="270"><u>1816.</u><ts>__________</ts><u><rend class="latin">Lemberg</rend></u><lbr/>
+<u>d. 6 <rend class="latin">Sept.</rend></u><ts>_____________</ts><rend class="latin">Mozart</rend><lbr/>
+&#8211; 20. "<lbr/>
+<u>d. 21." <rend class="latin">resp.</rend></u> und<ts>_______________</ts><rend class="latin">No</rend>. 2632<lbr/>
+drch <persName key="84796">Pfaff</persName> 40. Explien seiner <workName key="11553">Polonaisen</workName> gesdt</add_empf>
+</NI></text>
+</MUP>

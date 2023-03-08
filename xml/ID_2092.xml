@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="2092">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-05</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=2092</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">D-B</bibl>
+                <bibl type="source" subtype="long">D-B: Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Musikabteilung mit Mendelssohn-Archiv. Berlin (DEU)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-05-11">last file update: <date>Wed May 11 14:48:28 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="ID_2092.mup">
+<HEADER id="2092">FRANZ XAVER WOLFGANG MOZART AN JOHANN ANTON ANDRÉ IN OFFENBACH AM MAIN<lbr/>
+WIEN, 8. AUGUST 1807</HEADER>
+<NI src="D-B">
+<pg n="1"/>
+<ts>__________________________________</ts><tspdf>\hfill </tspdf>den 8<h><uu>ten</uu></h> August. <u>1807</u><lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____</ts>Werthester <persName key="49118">H<abbr type="curve">.</abbr>&#160;<rend class="latin">Kapellmeister</rend></persName>!<lbr type="forced"/>
+Ihren <div type="commentary" xml:id="commentID2092_1">Brief vom 27 July<note corresp="#commentID2092_1">Das Original des Briefes vom 27. Juli 1807 ist 
+nicht erhalten; Brieftext im Kopierbuch des Verlages André.</note></div> habe ich gestern<lbr/>
+richtig erhalten. Was Sie von meinem <div type="commentary" xml:id="commentID2092_2"><workName key="11714">Trio</workName><note corresp="#commentID2092_2">nicht erhalten.</note></div>&#160;<lbr/>
+darin sagen hat mich gar nicht verwundert;<lbr/>
+da es schon über ein Jahr alt ist; es war<lbr/>
+i<abbr type="topline" expand="mm">m</abbr>er für Sie besti<abbr type="topline" expand="mm">m</abbr>t; und nur ich zauderte<lbr/>
+so lange es Ihnen zu schicken; übrigens bin<lbr/>
+ich Ihnen wegen Ihrer Aufrichtigkeit sehr<lbr/>
+verbunden, und bin auch wirklich keines<lbr/>
+Weges geneigt es je stechen zu lassen; In<lbr/>
+meinem <div type="commentary" xml:id="commentID2092_3">Briefe vom 1<h><uu>tn</uu></h> August<note corresp="#commentID2092_3">Brief nicht erhalten.</note></div> | de<abbr type="topline" expand="nn">n</abbr> Sie ver<pc force="weak">=</pc><lbr/>muthlich schon werden erhalten | mache ich<lbr/>
+von einer ganz neuen <workName key="11558"><u>Sonate</u></workName> Erwähnung,<lbr/>
+we<abbr type="topline" expand="nn">n</abbr> Sie selbe dafür wollen eintauschen, so<lbr/>
+steht es Ihnen frey; nur bitte ich, gefälligst,<lbr/>
+mir mein <workName key="11714">Trio</workName>&#160;<suppl hand="self" pos="supra">bald</suppl> zurükzuschicken, und acht<lbr/>
+zu haben, daß es nicht unter fremde Hände<lbr/>
+kö<abbr type="topline" expand="mm">m</abbr>t, de<abbr type="topline" expand="nn">n</abbr> es wäre mir höchst unange<pc force="weak">=</pc><lbr/>nehm, etwas beka<abbr type="topline" expand="nn">n</abbr>t zu wissen, was mir<lbr/>
+nicht zur Ehre gereichen ka<abbr type="topline" expand="nn">n</abbr>.<lbr type="forced"/>
+<lbr/>
+<add_note type="inline" schr_id="0" impl="pencil">Mozart, W. A. Sohn</add_note><ts>________________________________</ts><add_note type="inline" schr_id="0" impl="pencil">UD</add_note>
+<pg n="2"/>
+Antworten Sie bald Ihrem ergebensten<lbr type="forced"/>
+<ts>______________________________________</ts><tspdf>\hfill </tspdf><persName key="39407">W. A. Mozart</persName>.<lbr type="forced"/>
+<lbr type="forced"/>
+<u><rend class="latin">P.S.</rend></u> Meine <rend class="latin">Adresse</rend> ist: In der<lbr/>
+Dorothäergasse <rend class="latin">N<h><uu>o</uu></h></rend> 1176.<lbr type="forced"/>
+<pg n="3"/>
+<vacat/>
+<pg n="4"/>
+<add_empf><rend class="latin">Wien</rend><ts>___</ts> –– <ts>___</ts>1807.<lbr/>
+<u>d<abbr v="en"/> 8 <rend class="latin">Aug</rend></u><ts>_____</ts>d<abbr v="en"/> 15 ejusd<lbr/>
+d<abbr v="en"/> 18 <rend class="latin">August</rend>.<lbr/>
+<rend class="latin">Mozart</rend><lbr/>
+N <formula type="mfrac"><mn>17</mn><mi>8.</mi></formula> R.</add_empf>
+<lbr/>
+<add_seal type="owner">STAATS<pc force="weak">-</pc><lbr/>BIBLIOTHEK<lbr/>
+PREUSSISCHER<lbr/>
+KULTURBESITZ</add_seal>
+</NI></text>
+</MUP>

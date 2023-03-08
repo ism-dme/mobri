@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="2128">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-05</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=2128</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">D-DS</bibl>
+                <bibl type="source" subtype="long">D-DS: Universitäts- und Landesbibliothek</bibl>
+                <bibl type="source" subtype="long">Handschriften- und Musikabteilung. Darmstadt (DEU)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-05-11">last file update: <date>Wed May 11 14:48:29 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="ID_2128.mup">
+<HEADER id="2128">FRANZ XAVER WOLFGANG MOZART AN BREITKOPF &#38; HÄRTEL IN LEIPZIG<lbr/>
+LEMBERG, 22. AUGUST 1812</HEADER>
+<NI src="D-DS">
+<pg n="1"/>
+<ts>______________________</ts><tshtm>_____________________________</tshtm><tspdf>\hfill </tspdf><u>Lemberg den 22 <rend class="latin">august</rend> 1812</u><lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_______________</ts>Hochgeehrter <persName key="53244">Herr</persName>!<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____</ts>Ihr <div type="commentary" xml:id="commentID2128_1">geneigtes vom 28 july dieses Jahres<note corresp="#commentID2128_1">Brief nicht erhalten.</note></div> habe ich glücklich erhalten,<lbr/>
+auch vom <persName key="84796">H<abbr type="curve"></abbr> Pfaff</persName> die mir besti<abbr type="topline" expand="mm">m</abbr>ten 30 fl <rend class="latin">Con: mün:</rend> schon in Empfang<lbr/>
+geno<abbr type="topline" expand="mm">m</abbr>en. Hierbey erhalten Sie meine <workName key="11551"><rend class="latin">Sonate</rend></workName>; die beyliegenden&#160;<lbr/>
+<workName key="11552"><rend class="latin">Variazionen</rend></workName> über den Marsch von <rend class="latin">Coriolan</rend>, die ich so eben <rend class="latin">componirt</rend>,<lbr/>
+und in meinem <rend class="latin">Concerte</rend>, welches ich hier am 18 July gab, gespielt habe,<lbr/>
+bitte ich Sie ebenfalls in Verlag zu nehmen, und mir dafür, bey <persName key="84796">H<abbr type="curve"></abbr><lbr/>
+Pfaff</persName>, was Ihnen gut dünkt, auszahlen zu lassen.<lbr type="forced"/>
+<lbr type="forced"/>
+Die <rend class="latin">Werke</rend> des <persName key="84798">H<abbr type="curve"></abbr>&#160;<rend class="latin">Kaczkowski</rend></persName>, empfehle ich ebenfalls Ihrer Güte, da<lbr/>
+ich itzt besti<abbr type="topline" expand="mm">m</abbr>ter als im vorigen Jahre davon urtheilen ka<abbr type="topline" expand="nn">n</abbr>. Das<lbr/>
+<div type="commentary" xml:id="commentID2128_2"><rend class="latin">Concert</rend><note corresp="#commentID2128_2">Konzert für Violine und Orchester Nr. 1 a-Moll, erschien 1814 bei Breitkopf &#38; Härtel.</note></div>, welches ich unlängst zu hören Gelegenheit hatte, hat nicht<lbr/>
+allein mir, sondern allen hiesigen Liebhabern und Ke<abbr type="topline" expand="nn">n</abbr>ern der Kunst<lbr/>
+sehr gefallen, er hat es auch vor 2 Jahren in <rend class="latin">Warschau</rend> mit ungetheiltem<lbr/>
+Beyfalle gespielt. Ich bin überzeugt, daß es für ihn nicht nur nützlich,<lbr/>
+sondern auch ehrenvoll wäre, we<abbr type="topline" expand="nn">n</abbr> Sie seinen Wunsch erfüllen<lbr/>
+kö<abbr type="topline" expand="nn">n</abbr>ten, sollten Sie es aber nicht, so ersucht er Sie das beygelegte<lbr/>
+unter meiner <rend class="latin">Addresse</rend> zurückzu senden, in welchem letzterem <rend class="latin">Falle</rend><lbr/>
+er das Porto bezahlen würde. &#8211; Von meinen bey Ihnen in Verlag<lbr/>
+komenden <rend class="latin">Compos<abbr type="curve"></abbr></rend> bitte ich Sie meiner <persName key="48818">Mutter</persName>, i<abbr type="topline" expand="mm">m</abbr>er 1 <rend class="latin">Exp:</rend> bey<lbr/>
+Gelegenheit nach <rend class="latin">Copenhagen</rend> zu schicken.<lbr type="forced"/>
+<lbr type="forced"/>
+An <persName key="55282">Onkel Lange</persName>, werde ich mit nächstem <div type="commentary" xml:id="commentID2128_3">Posttage schreiben<note corresp="#commentID2128_3">Ein Brief von Franz Xaver Wolfgang Mozart an Joseph Lange ist nicht bekannt.</note></div>, und<lbr/>
+Ihm Ihren Wunsch ans Herz legen, auch meine <persName key="48818">Mutter</persName> bath<lbr/>
+ihn i<abbr type="topline" expand="mm">m</abbr>er, sich dieses <div type="commentary" xml:id="commentID2128_4">Portraits<note corresp="#commentID2128_4">Bereits seit 1802 bemühte sich der Verlag Breitkopf &#38; Härtel um ein Mozart-Porträt als Vorlage für einen 
+En-Face-Stich für die geplante Biographie von Wolfgang Amadé Mozart, die parallel zu den <i>Oeuvres complettes</i> 
+erscheinen sollte (siehe Briefe von Constanze Mozart vom 17. Februar 1802, BD 1342, und 13. März 1802, BD 1344). 
+Das „neue“ Mozart-Porträt sollte Joseph Lange, der 1789 das Ölgemälde von Mozart 
+geschaffen hatte, herstellen. Eine Ausführung des Plans kam aber nicht zustande.</note></div> zu erri<abbr type="topline" expand="nn">n</abbr>ern, er ließ es aber<lbr/>
+<pg n="2"/>
+leider nur beym Versprechen; indessen hoffe ich doch noch<lbr/>
+ihn dazu zu bewegen.<lbr type="forced"/>
+<lbr type="forced"/>
+Mit dem Versprechen, Ihnen bald, wieder etwas neues<lbr/>
+von mir zu schicken, empfehle ich mich Ihrem Wohlwollen, und<lbr/>
+habe die Ehre zu seyn Ihr ergebenster<lbr type="forced"/>
+<ts>____________________________</ts><tshtm>________________________________</tshtm><tspdf>\hfill </tspdf><persName key="39407"><rend class="latin">W. A. Mozart</rend></persName>&#160;<abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<lbr type="forced"/>
+<div type="commentary" xml:id="commentID2128_5"><rend class="latin">Ad:</rend><note corresp="#commentID2128_5">Adresse</note></div>&#160;<rend class="latin">chez Madame la <persName key="55282">Comtesse Janiszewska</persName>, par Burstin à Sarki.</rend><lbr type="forced"/>
+<pg n="3"/>
+<vacat/>
+<pg n="4"/>
+<anschrift rot="90"><u>Lemberg</u><lbr type="forced"/>
+An Herrn<lbr type="forced"/>
+Herrn <u>Breitkopf und Härtel</u><lbr type="forced"/>
+Musikverleger <lbr type="forced"/>
+in<lbr type="forced"/> 
+<u>Leipzig</u></anschrift>
+<lbr/>
+<add_empf rot="270"><u>1812</u><ts>_____________</ts><u><rend class="latin">Lemberg</rend></u><lbr/>
+<u>22 <rend class="latin">Aug<abbr type="curve"></abbr></rend></u><lbr/>
+<u>4 <rend class="latin">Oct</rend>. &#8211;</u><ts>_________</ts><rend class="latin">Mozart</rend><lbr/>
+<u>6 &#8211;<ts>_____</ts></u></add_empf>
+</NI></text>
+</MUP>

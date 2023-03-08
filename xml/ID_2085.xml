@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="2085">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-06</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=2085</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">B-Bc</bibl>
+                <bibl type="source" subtype="long">B-Bc: Conservatoire Royal de Musique</bibl>
+                <bibl type="source" subtype="long">Bibliothèque</bibl>
+                <bibl type="source" subtype="long">Koninklijk Conservatorium</bibl>
+                <bibl type="source" subtype="long">Bibliotheek. Brüssel (BEL: Brussel/Bruxelles)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-05-11">last file update: <date>Wed May 11 14:48:28 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="ID_2085.mup">
+<HEADER id="2085">FRANZ XAVER WOLFGANG MOZART AN CONSTANZE NISSEN IN SALZBURG<lbr/>
+LEMBERG, 4. MAI 1826</HEADER>
+<NI src="B-Bc">
+<pg n="1"/>
+<add_num impl="crayon" color="blue"><ts>___________________________________________________________________________________________________________________________</ts><u>14</u></add_num>
+<tshtm><additum>[... (Brieftext von Constanze Nissen an Carl Thomas Mozart, an den sie den Brief weiterleitete.)]</additum></tshtm><lbr/>
+<lbr type="forced"/>
+<ts>________________________________________________</ts><tspdf>\hfill </tspdf><u>Lemberg am 4<h><uu>t</uu></h> Mai 1826</u><lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____________________</ts>Meine vielgeliebte <persName key="48818">Mutter</persName>!<lbr type="forced"/>
+<lbr type="forced"/>
+Mit welcher Ungeduld ich deinen <div type="commentary" xml:id="commentID2085_1">Brief vom 19<h><uu>t</uu></h> April<note corresp="#commentID2085_1">Brief nicht erhalten.</note></div> erwartete<lbr/>
+ka<abbr type="topline" expand="nn">n</abbr> ich dir nicht sagen! Wie sehr bedurfte ich auch dieses Trostes,<lbr/>
+um wenigstens über deine Gesundheit beruhiget zu seÿn. Glaube<lbr/>
+mir, theure Mutter, daß der unersetzliche <div type="commentary" xml:id="commentID2085_2">Verlust<note corresp="#commentID2085_2">Am 24. März 1826 war in Salzburg Georg Nikolaus Nissen, der zweite Ehemann 
+von Constanze Mozart, gestorben. Seit 1797 kannten sie sich näher, im Jahr 1809 hatten sie geheiratet.</note></div>, den wir erlitten<lbr/>
+für mich nicht weniger schmerzlich war, und i<abbr type="topline" expand="mm">m</abbr>er bleiben wird,<lbr/>
+als für dich. Ich fühle recht sehr, was Du an <persName key="57010">Ihm</persName> verloren, aber auch<lbr/>
+mich feßelten die Bande der Liebe, und der Dankbarkeit an<lbr/>
+Ihn, de<abbr type="topline" expand="nn">n</abbr> er war mein einziger und treuester Freund, und überdieß<lbr/>
+noch mein Wohlthäter, mein Erzieher, und meine Stütze. Auf Ihn ko<abbr type="topline" expand="nn">n</abbr>te<lbr/>
+ich bauen, und war überzeugt, in allen möglichen Fällen, an Ihm<lbr/>
+einen treuen Rathgeber und Helfer zu finden. Einige Tage frü<pc force="weak">=</pc><lbr/>her, als ich diese Trauerpost erhielt, hatte ich das Projekt gemacht<lbr/>
+Euch, in diesem So<abbr type="topline" expand="mm">m</abbr>er, auf einige Wochen zu besuchen, hatte mir<lbr/>
+die Freude des Wiedersehens so schön ausgemalt! und nun ka<abbr type="topline" expand="nn">n</abbr> ich<lbr/>
+Ihn nie mehr sehen, ka<abbr type="topline" expand="nn">n</abbr> Ihm nie mehr sagen, wie sehr ich ihn geliebt.<lbr type="forced"/>
+<lbr/>
+<tshtm><additum>[... (Brieftext von Constanze Nissen an Carl Thomas Mozart, an den sie den Brief weiterleitete.)]</additum></tshtm><lbr type="forced"/>
+<add_seal type="owner">CONSERVATOIRE<lbr/>
+DE BRUXELLES<lbr/>
+BIBLIOTÈQUE</add_seal>
+<pg n="2"/>
+Daß Du, wenig Freuden mehr, auf dieser Welt erwartest, begreife ich wohl,<lbr/>
+aber eben so sehr bin ich auch von <u>der</u> Wahrheit überzeugt, <abbr expand="daß">dß</abbr> es die<lbr/>
+heiligste, und angenehmste Pflicht deiner <persName key="48820 39407">Söhne</persName> ist, dir so viele Freuden<lbr/>
+als in unserer Macht steht zu bereiten. Und darum liebe <persName key="48818">Mutter</persName>,<lbr/>
+we<abbr type="topline" expand="nn">n</abbr> Du es nicht über dich gewi<abbr type="topline" expand="nn">n</abbr>en ka<abbr type="topline" expand="nn">n</abbr>st zu mir zu ko<abbr type="topline" expand="mm">m</abbr>en, | obwohl ich, die<lbr/>
+Hand aufs Herz gelegt, dich versichern ka<abbr type="topline" expand="nn">n</abbr>, dß meine Verhältniße hier<lbr/>
+nicht von der Art sind, <abbr expand="daß">dß</abbr> sie deine Grundsätze beleidigen kö<abbr type="topline" expand="nn">n</abbr>ten | möchte<lbr/>
+ich dir rathen, nicht in Salzburg zu bleiben. Salzburg hat <suppl hand="self" pos="supra">zwar</suppl> besonders itzt, mehr<lbr/>
+anziehendes für dich, als jemahls, und <suppl hand="self" pos="supra">ich</suppl> fühle recht wohl, <abbr expand="daß">dß</abbr> sowohl traurige<lbr/>
+als fröhliche Rückeri<abbr type="topline" expand="nn">n</abbr>erungen, uns einen Ort theuer machen kö<abbr type="topline" expand="nn">n</abbr>en,<lbr/>
+aber eben dieser schmerzlichen Eri<abbr type="topline" expand="nn">n</abbr>erungen wegen, sähe ich es lieber,<lbr/>
+du wähltest eine andere Stadt, und vorzüglich Wien, zu deinem künftigen<lbr/>
+Aufenthalte. Du hast dort so viele Freunde, <u>u</u> Verwandte, die <persName key="75709 84965">Hönigschen</persName><lbr/>
+würden dich wirklich mit kindlicher Liebe aufnehmen, ich kö<abbr type="topline" expand="nn">n</abbr>te dich in jedem<lbr/>
+Jahre besuchen, und überdieß sehe ich den Augenblick nicht so ferne, wo<lbr/>
+ich mich für i<abbr type="topline" expand="mm">m</abbr>er dort nieder zu lassen <emend value="denke">denken</emend>. Auch habe ich Hoffnung<lbr/>
+mit der Zeit meinen <persName key="48820">Bruder</persName>, <div type="commentary" xml:id="commentID2085_3">in unsere Vaterstadt übersetzt zu sehen<note corresp="#commentID2085_3">Carl Thomas Mozart lebte seit 1800 in Italien, erst in Livorno, ab 1806 in Mailand. 
+Seit September 1814 war er Beamter des österreichischen Königreichs Lombardo-Venetien.</note></div>.<lbr type="forced"/>
+Ueberlege dieß alles wohl, und ich glaube mich nicht zu irren, we<abbr type="topline" expand="nn">n</abbr> ich deinen Entschluß<lbr/>
+nach meinem Wunsche auslege.<lbr type="forced"/>
+<pg n="3"/>
+We<abbr type="topline" expand="nn">n</abbr> auch deine Geschäfte meine Anwesenheit nicht verlangen, so werde ich doch<lbr/>
+deinem Wunsche zu Folge im Laufe dieses So<abbr type="topline" expand="mm">m</abbr>ers, dich auf einigen Wochen besu<pc force="weak">=</pc><lbr/>chen. Doch ka<abbr type="topline" expand="nn">n</abbr> ich dieses nicht wohl vor halben <rend class="latin">Jul&#255;</rend> thun, de<abbr type="topline" expand="nn">n</abbr> erstens muß<lbr/>
+ich, um die Reise so wenig kostspielig an Zeit und Geld, als möglich zu<lbr/>
+machen, die Einrichtung des Eilwagens abwarten, die nächstens erfolgen<lbr/>
+soll, und zwe&#255;tens habe ich eben itzt einen <div type="commentary" xml:id="commentID2085_4">Singverein gestiftet<note corresp="#commentID2085_4">Franz Xaver Wolfgang Mozart hatte im April 1826 in Lemberg 
+einen Cäcilien-Verein gegründet.</note></div>, der<lbr/>
+dari<abbr type="topline" expand="nn">n</abbr> besteht, <abbr expand="daß">dß</abbr> wir jeden Montag Abends von 5–7 Uhr zusa<abbr type="topline" expand="mm">m</abbr>en<lbr/>
+ko<abbr type="topline" expand="mm">m</abbr>en, um lauter klassische Werke <emend value="einzustudieren">einzustieren</emend>. Jedes Mitglied<lbr/>
+hat eine Einlage entrichtet, und zahlt überdieß einen monathlichen<lbr/>
+Beytrag, und ich ka<abbr type="topline" expand="nn">n</abbr> daher nicht wohl gleich anfangs Urlaub nehmen,<lbr/>
+sondern muß das Geschäft doch wenigstens ein paar Monate geführt<lbr/>
+haben, um die gewo<abbr type="topline" expand="nn">n</abbr>enen Mitglieder nicht etwa für die Folge zu<lbr/>
+verlieren, was für mich doppelt empfindlich wäre, da dieses Unter<pc force="weak">=</pc><lbr/>nehmen nicht nur in der Folge mir ökonomische Vortheile biethet,<lbr/>
+sondern da es auch ehrenvoll für mich ist, und mir den Weg<lbr/>
+zu einer zu hoffenden Anstellung in <rend class="latin">Wien</rend> den Weg bahnen soll.<lbr type="forced"/>
+Ich bitte dich liebe gute <persName key="48818">Mutter</persName>, mir so bald möglich zu schreiben, und dich in<lbr/>
+allen zu verlassen, auf deinen dir gänzlich und zärtlichst ergebenen Sohn<lbr type="forced"/>
+<ts>_________________________________________________________________</ts><tspdf>\hfill </tspdf><persName key="39407">Wolfgang</persName><lbr type="forced"/>
+Meinen Handkuß an die <persName key="48817">Tante</persName>, die <persName key="84135 84743">Oberfe<abbr type="topline" expand="nn">n</abbr>inger</persName>, und <persName key="77274">h<abbr type="curve"></abbr> Metzger</persName>.<lbr/>
+<add_seal type="owner">CONSERVATOIRE<lbr/>
+DE BRUXELLES<lbr/>
+BIBLIOTÈQUE</add_seal>
+<pg n="4"/>
+<tshtm><additum>[... (Brieftext von Constanze Nissen an Carl Thomas Mozart, an den sie den Brief weiterleitete.)]</additum></tshtm><lbr type="forced"/>
+<lbr type="forced"/>
+<anschrift><rend class="latin">A Madame<lbr type="forced"/>
+Madame <u>Constance de Nissen</u><lbr type="forced"/>
+née de Weber<lbr type="forced"/>
+á<lbr type="forced"/>
+<u>Salzbourg</u></rend></anschrift>
+<lbr/>
+<add_seal type="post">LEMBERG</add_seal>
+<add_seal type="post">BA SALZBURG<lbr type="forced"/>
+13 MAI</add_seal>
+<add_empf hand="diff" schr_id="48818">Empfangen am
+13. Maj</add_empf>
+<lbr/>
+<tshtm><additum>[... (Brieftext von Constanze Nissen an Carl Thomas Mozart, an den sie den Brief weiterleitete.)]</additum></tshtm><lbr/>
+<add_ident schr_id="0" impl="pencil">1826</add_ident>
+<add_seal type="owner">CONSERVATOIRE<lbr/>
+DE BRUXELLES<lbr/>
+BIBLIOTÈQUE</add_seal>
+</NI></text>
+</MUP>

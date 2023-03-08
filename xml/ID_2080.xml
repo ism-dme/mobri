@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="2080">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-06</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=2080</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sae</bibl>
+                <bibl type="source" subtype="long">A-Sae: Archiv der Erzdiözese Salzburg. Salzburg (AUT)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-05-11">last file update: <date>Wed May 11 14:48:28 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="ID_2080.mup">
+<HEADER id="2080">FRANZ XAVER WOLFGANG MOZART AN DAS COMITÉ ZUR ERRICHTUNG DES MOZART-DENKMALS IN SALZBURG<lbr/>
+WIEN, 3. SEPTEMBER 1839</HEADER>
+<NI src="A-Saes">
+<pg n="1"/>
+<ts>____________________</ts>Hochverehrte Herrn!<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____</ts>Daß ich Ihr Schreiben vom <div type="commentary" xml:id="commentID2080_1">29<h><uu>t</uu></h> Julÿ l. J<note corresp="#commentID2080_1">Brief vom 29. Juli 1839 nicht erhalten.</note></div>, so spät beantworte, mag<lbr/>
+Ihnen ein Beweis se&#255;n, wie sehr ich von der Wichtigkeit, deß mir dari<abbr type="topline" expand="nn">n</abbr><lbr/>
+gemachten ehrenvollen <div type="commentary" xml:id="commentID2080_2">Antrages<note corresp="#commentID2080_2">Franz Xaver Wolfgang Mozart hatte den Auftrag erhalten, für die 
+Enthüllungsfeier des Mozart-Denkmals in Salzburg eine Festmusik zu  
+komponieren. Das Fest fand vom 4. bis zum 6. September 1842 statt.</note></div> durchdrungen bin. Ich mußte, bevor ich Ihnen<lbr/>
+ein besti<abbr type="topline" expand="mm">m</abbr>tes Ja, oder Nein sagen ko<abbr type="topline" expand="nn">n</abbr>te, die Sache erst reiflich überlegen,<lbr/>
+ich mußte ganz unparthe&#255;isch, die unbegränzte Verehrung, von der ich für<lbr/>
+meinen unsterblichen <persName key="39409">Vater</persName> beseelt bin, gegen meine schwachen Kräfte<lbr/>
+abwägen, um zu einem ruhigen, beso<abbr type="topline" expand="nn">n</abbr>enen Entschluße zu gelangen. &#8211; <lbr type="forced"/>
+<lbr type="forced"/> 
+Den Manen <persName key="39409"><rend class="latin">Mozart’s</rend></persName>, be&#255; dieser Fe&#255;er ein würdiges Opfer zu weihen,<lbr/>
+dürfte wohl für jeden <rend class="latin">Componisten</rend>, eine schwere Aufgabe se&#255;n; für<lbr/>
+mich den Sohn aber, be&#255; meinen geringen Fähigkeiten, und be&#255; meinen<lbr/>
+wenig geübten Kräften, würde sie wohl gar nicht entsprechend zu lösen<lbr/>
+se&#255;n. Glauben Sie mir, meine Herrn! <abbr expand="daß">dß</abbr> es mir sehr wehe thut,<lbr/>
+<pg n="2"/>
+die mir zugedachte Ehre, ablehnen zu müßen; ja, ich gestehe Ihnen<lbr/>
+sogar, <abbr expand="daß">dß</abbr> ich schon, be&#255; dem Begi<abbr type="topline" expand="nn">n</abbr>en Ihres schönen Unternehmens, diesen Auf<pc force="weak">=</pc><lbr/>trag zu erhalten wünschte, welchen ich nun, da er mir, durch Ihre, von mir<lbr/>
+mit gerührten Herzen dankbar erka<abbr type="topline" expand="nn">n</abbr>te Güte geworden, im Gefühle meiner<lbr/>
+Unzulänglichkeit, nicht anzunehmen wage.<lbr type="forced"/>
+<lbr type="forced"/>
+Schlüßlich erlaube ich mir noch die Bemerkung, ob es nicht paßend wäre,<lbr/>
+be&#255; der Enthüllung des Denkmahls nur <persName key="39409">Mozartische</persName> Musick aufzu<pc force="weak">=</pc><lbr/>führen, und allenfalls, einen der Fe&#255;er des Tages entsprechenden<lbr/>
+<div type="commentary" xml:id="commentID2080_3">Text unterzulegen?<note corresp="#commentID2080_3">Franz Xaver Wolfgang Mozart arrangierte für das Festkonzert anlässlich 
+der Enthüllung des Mozart-Denkmals am 4. September 1842 einen <i>Fest-Chor</i> WV IXa:3. 
+Dieser basiert auf dem <i>Offertorium de venerabili sacramento</i> KV 260 und 
+dem Adagio in h KV 540 von Wolfgang Amadé Mozart. Den Text stellte er selbst zusammen.</note></div> Warum soll <u>Er</u> nicht mit seinen eigenen Tönen<lbr/>
+besungen werden?<lbr type="forced"/>
+<lbr type="forced"/>
+Genehmigen Sie die Versicherung der unbegränzten Hochachtung, mit<lbr/>
+der ich mich zeichne, meine hochverehrten Herrn, ergebenster<lbr type="forced"/>
+<lbr type="forced"/>
+<u><rend class="latin">Wien</rend> am 3<h><uu>t</uu></h>&#160;<rend class="latin">September</rend>&#160;<abbr type="topline" expand="1839">839</abbr></u><ts>______</ts><tshtm>_____________________</tshtm><tspdf>\hfill </tspdf><persName key="39407"><rend class="latin">W A Mozart</rend></persName><abbr expand="manu propria"> mp</abbr><lbr type="forced"/>
+<pg n="3"/>
+<vacat/>
+<pg n="4"/>
+<add_empf>1839.<lbr type="forced"/>
+<rend class="latin">W. A. Mozart</rend><lbr type="forced"/>
+<rend class="latin">Wien</rend> 3 <rend class="latin">Septemb<abbr type="curve"></abbr></rend><lbr type="forced"/>
+Beantw<lbr type="forced"/>
+N. 179</add_empf>
+</NI></text>
+</MUP>

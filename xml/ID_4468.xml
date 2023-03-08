@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="4468">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-06</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=4468</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Wn</bibl>
+                <bibl type="source" subtype="long">A-Wn: Österreichische Nationalbibliothek. Wien (AUT)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-06-08">last file update: <date>Wed Jun  8 11:24:40 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="ID_4468.mup">
+<HEADER id="4468">KARL REGER, MOZARTS APOTHEOSE<lbr/>
+MÜNCHEN, SEPTEMBER 1842</HEADER>
+<NI src="A-Wn">
+<pg n="1"/>
+<u>Mozarts Apotheose</u><lbr type="forced"/>
+<u>Cantate</u><lbr type="forced"/>
+in<lbr type="forced"/>
+<u>Wechsel Chören.</u><lbr type="forced"/>
+<u>die Musick</u><lbr type="forced"/>
+vom<lbr type="forced"/>
+königlich ba&#255;rischen HofkapellMeister<lbr type="forced"/>
+<u>Peter von Winter</u><lbr type="forced"/>
+<ts>_____</ts>*<ts>_____</ts><lbr type="forced"/>
+<pg n="2"/>
+<u>Erster Chor</u><lbr type="forced"/>
+Wer beherrscht der Schöpfung ew'gen Plan?<lbr type="forced"/>
+<u>Zweiter Chor</u><lbr type="forced"/>
+Die Harmonie!<lbr type="forced"/>
+<u>Erster Chor</u><lbr type="forced"/>
+Von Eintracht und Liebe umschlungen<lbr type="forced"/>
+Führt sie euch auf irrdischer Bahn.<lbr type="forced"/>
+<u>Zweiter Chor</u><lbr type="forced"/>
+Führt sie euch auf irrdischer Bahn<lbr type="forced"/>
+<u>Erster Chor</u><lbr type="forced"/>
+Was hebt die Menschheit hi<abbr type="topline" expand="mm">m</abbr>elan?<lbr type="forced"/>
+<u>Zweiter Chor</u><lbr type="forced"/>
+Nur Sie, nur Sie<lbr type="forced"/>
+<u>Erster Chor</u><lbr type="forced"/>
+Flieht Sie uns, von Nacht umrungen<lbr type="forced"/>
+Ist alles nur Täuschung, und Wahn.<lbr type="forced"/>
+<u>Be&#255;de Chöre</u><lbr type="forced"/>
+Ja ewig herrscht sie über Sonnen<lbr type="forced"/>
+Sie leitet der wechselnden Jahre<lbr type="forced"/>
+Stets neu wiederkehrenden Lauf.<lbr type="forced"/>
+<lbr type="forced"/>
+<pg n="3"/>
+<lbr type="forced"/>
+We<abbr type="topline" expand="nn">n</abbr> einst Elemente vergehen<lbr type="forced"/>
+Schwingt über Zerstörung des Weltalls<lbr type="forced"/>
+Sich dann die Unsterbliche auf.<lbr type="forced"/>
+<u>1<h><uu>ter</uu></h> Chor</u><lbr type="forced"/>
+Es senk' vom Sphärenreiche<lbr type="forced"/>
+Herab dich Göttergleiche<lbr type="forced"/>
+Auf unser deutsches Land!<lbr type="forced"/>
+Schlingst du um unsre Seelen<lbr type="forced"/>
+Der Eintracht heilig Band<lbr type="forced"/>
+Aus goldnem Füllhorn Spenden<lbr type="forced"/>
+Die Götter ihre Gaben<lbr type="forced"/>
+Mit unsichtbarer Hand.<lbr type="forced"/>
+<u>Geister Chor</u><lbr type="forced"/>
+Ja neure Wünsche dringen<lbr type="forced"/>
+Zum Gottheits Sitz empor<lbr type="forced"/>
+Herab auf Cherubs Schwingen<lbr type="forced"/>
+Senkt sich der Engel Chor<lbr type="forced"/>
+Des Hi<abbr type="topline" expand="mm">m</abbr>els Geister hören,<lbr type="forced"/>
+Der Völker fro<abbr type="topline" expand="mm">m</abbr>es Fleh'n<lbr type="forced"/>
+Von fla<abbr type="topline" expand="mm">m</abbr>enden Altären<lbr type="forced"/>
+Seh'n sie die Opfer weh'n.<lbr type="forced"/>
+<lbr type="forced"/>
+<pg n="4"/>
+<u>Mä<abbr type="topline" expand="nn">n</abbr>er Chor</u><lbr type="forced"/>
+Kein Wink der Fürsten Macht,<lbr type="forced"/>
+Nicht, was der Reichthum spendet,<lbr type="forced"/>
+Der nur den Thoren blendet;<lbr type="forced"/>
+Kein irrdisch Mühen, Streben<lbr type="forced"/>
+Schaft Mä<abbr type="topline" expand="nn">n</abbr>ern von Genie:<lbr type="forced"/>
+Zu ew'gen Regionen<lbr type="forced"/>
+Der Geisterwelt, dort wohnen<lbr type="forced"/>
+Von dorther sta<abbr type="topline" expand="mm">m</abbr>en Sie<lbr type="forced"/>
+<lbr type="forced"/>
+<u>Gesa<abbr type="topline" expand="mm">m</abbr>t Chor</u><lbr type="forced"/>
+Und staunend blickt empor die Welt<lbr type="forced"/>
+Zum neuen Stern der sie erhellt,<lbr type="forced"/>
+Noch leuchtend spät'sten Zeiten.<lbr type="forced"/>
+<u>Wechselchor</u><lbr type="forced"/>
+Hoch über'm Sternen Kranze<lbr type="forced"/>
+Auf unbekannter Flur<lbr type="forced"/>
+Blüht schi<abbr type="topline" expand="mm">m</abbr>ernd eine Pflanze<lbr type="forced"/>
+Unsterblicher Natur.<lbr type="forced"/>
+<ts>__________</ts>+<ts>___________</ts><lbr type="forced"/>
+Noch nie gedieh auf Erden<lbr type="forced"/>
+Sie unter Menschen Hand;<lbr type="forced"/>
+Geboren muß sie werden<lbr type="forced"/>
+In einem schönerm Land.<lbr type="forced"/>
+<pg n="5"/>
+<ts>__________</ts>+<ts>___________</ts><lbr type="forced"/>
+Und diese seltne Blume<lbr type="forced"/>
+Ist Künstler Phantasie<lbr type="forced"/>
+Sie prangt im Heiligthume<lbr type="forced"/>
+Der ew'gen Harmonie<lbr type="forced"/>
+<ts>__________</ts>+<ts>___________</ts><lbr type="forced"/>
+Ihm, dem die Unsichtbaren<lbr type="forced"/>
+Zur Gabe sie verleih'n,<lbr type="forced"/>
+Wird noch in fernsten Jahren<lbr type="forced"/>
+Die Nachwelt Kränze weih'n.<lbr type="forced"/>
+<u>Schlußchor</u><lbr type="forced"/>
+Ueber gemeiner Welt<lbr type="forced"/>
+Ruhmloses Träumen<lbr type="forced"/>
+Schwingt sich der Künstler auf<lbr type="forced"/>
+Nach lichtern Räumen<lbr type="forced"/>
+Mächtig und fre&#255;.<lbr type="forced"/>
+Dort ist sein Heimatland,<lbr type="forced"/>
+Dorthin sein Streben;<lbr type="forced"/>
+Dort nur begrüßen Ihn<lbr type="forced"/>
+Verwandte Geister<lbr type="forced"/>
+Dort krönt den Meister<lbr type="forced"/>
+Unsterblichkeit.<lbr type="forced"/>
+<u>Nachhall.</u><lbr type="forced"/>
+Ewig leuchtet <persName key="39409">Mozarts</persName> Name<lbr type="forced"/>
+Ein Stern im Harmonieen Reich.<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>________________</ts><persName key="82869"><u>Reger</u></persName>
+<lbr type="forced"/>
+<pg n="6"/>
+<vacat/>
+</NI></text>
+</MUP>

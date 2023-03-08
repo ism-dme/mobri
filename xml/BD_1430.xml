@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="2010">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-05</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=2010</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">D-B</bibl>
+                <bibl type="source" subtype="long">D-B: Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Musikabteilung mit Mendelssohn-Archiv. Berlin (DEU)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-05-11">last file update: <date>Wed May 11 14:48:08 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="BD_1430.mup">
+<letter bd="1430">
+<HEADER id="2010">FRANZ XAVER WOLFGANG MOZART AN JOHANN HEINRICH FEUERSTEIN IN PIRNA<lbr/>
+LEMBERG, 25. DEZEMBER 1828</HEADER>
+<NI src="D-B">
+<pg n="1"/>
+<ts>_____</ts>Hochgeehrtester <persName key="52059">Herr Docktor</persName>!<lbr type="forced"/>
+<lbr type="forced"/>
+Ihnen für die viele Güte, Die Sie meiner guten <persName key="48818">Mutter</persName>,<lbr/>
+und dadurch auch<lbr type="BD"/> zugleich mir erwiesen, zu danken, ist mir<lbr/>
+eine zu angenehme Pflicht, als <abbr expand="daß">dß</abbr><lbr type="BD"/> ich mich ihr entziehen<lbr/>
+kö<abbr type="topline" expand="nn">n</abbr>te. Empfangen Sie daher, mein Herr Docktor<lbr type="BD"/> meinen<lbr/>
+i<abbr type="topline" expand="nn">n</abbr>igsten und wärmsten Dank für die rege Theilnahme, und<lbr/>
+thätige<lbr type="BD"/> Hülfeleistung, mit der Sie meine liebe <persName key="48818">Mutter</persName>,<lbr/>
+be&#255; ihrem so äußerst schwierigen<lbr type="BD"/> Geschäfte | <div type="commentary" xml:id="commentID2010_1">der Herausgabe<lbr/>
+der <rend class="latin">Biographie</rend><note corresp="#commentID2010_1">Nachdem Anton Jähndl nach dem Tod von Georg Nikolaus Nissen im März 1826 in Salzburg aus den von 
+Nissen hinterlassenen Materialien zu einer <i>Biographie W. A. Mozart’s</i> ein Druckmanuskript hergestellt hatte, 
+beauftragte Constanze Nissen im Frühjahr 1828 den sächsischen Arzt und Mozart-Verehrer Johnn Heinrich Feuerstein 
+mit dem Lektorat des Manuskripts und der Abwicklung der Drucklegung beim Leipziger Verlag Breitkopf &#38; Härtel. 
+Die Biographie erschien Anfang 1829.</note></div> meines unvergeßlichen <persName key="39409">Vaters</persName> |<lbr type="BD"/> so eifrig und<lbr/>
+Glück bringend unterstützten. Ich bin vollko<abbr type="topline" expand="mm">m</abbr>en überzeugt,<lbr type="BD"/><lbr/>
+daß wir nur Ihrer Thätigkeit, Ihrer einsichtsvollen<lbr/>
+<pg n="2"/>
+Leitung, und endlich der<lbr type="BD"/> großmüthigen Aufopferung Ihrer,<lbr/>
+andern ernsten Geschäfte gewidmeten<lbr type="BD"/> Zeit, das Gelingen<lbr/>
+dieses so mühevollen Unternehmens zu danken haben.<lbr type="forced"/>
+<lbr type="forced"/>
+Der schönste Lohn Ihrer Bemühung, ist wohl das Bewustseyn,<lbr/>
+an einer durch<lbr type="BD"/> Jahre und ma<abbr type="topline" expand="nn">n</abbr>igfachen Ku<abbr type="topline" expand="mm">m</abbr>er gebeugten<lbr/>
+<persName key="48818">Wittwe</persName>, edel gehandelt, und<lbr type="BD"/> zugleich als Ke<abbr type="topline" expand="nn">n</abbr>er und Schätzer<lbr/>
+der am meisten zum Herzen sprechenden<lbr type="BD"/> Kunst, den<lbr/>
+Manen <persName key="39409"><rend class="latin">Mozart’s</rend></persName>, ein würdiges Denkmahl gestiftet zu<lbr/>
+haben.<lbr type="forced"/>
+<lbr type="forced"/>
+Vollenden Sie Ihr schönes Werk dadurch, <abbr expand="daß">dß</abbr> Sie<lbr/>
+meinen tiefgefühlten Dank<lbr type="BD"/> gütig a<abbr type="topline" expand="nn">n</abbr>ehmen, und auch noch<lbr/>
+ferner der Freund meiner <persName key="48818">Mutter</persName>, und der<lbr type="BD"/> Gö<abbr type="topline" expand="nn">n</abbr>er ihrer<lbr/>
+<persName key="48820 39407">Söhne</persName> bleiben.<lbr type="forced"/>
+<lbr/>
+<add_seal type="owner">STAATS<pc force="weak">-</pc><lbr/>BIBLIOTHEK<lbr/>
+ZU BERLIN<lbr/>
+PREUSSISCHER<lbr/>
+KULTURBESITZ</add_seal>
+<pg n="3"/>
+Erlauben Sie mir, Hochgeehrtester <persName key="52059">Herr</persName>, noch die<lbr/>
+Ausdrücke der tiefsten Verehrung, und Hochachtung be&#255;<pc force="weak">=</pc><lbr/>zu fügen, mit der ich die Ehre habe mich<lbr type="BD"/> zu<lbr/>
+ne<abbr type="topline" expand="nn">n</abbr>en Euer Wohlgeboren<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>______________________________________</ts><tspdf>\hfill </tspdf>ergebenster <persName key="39407"><rend class="latin">WA Mozart</rend></persName>&#160;<abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<lbr type="forced"/>
+<u>Lemberg, östreichisch Galizien</u><lbr type="forced"/>
+am 25<h><uu>t</uu></h> X<h><uu>t</uu></h> 1828
+<pg n="4"/>
+<add_note schr_id="0" impl="crayon" color="blue">L. a. s 12 – 21 /</add_note>
+</NI>
+</letter>
+</text>
+</MUP>

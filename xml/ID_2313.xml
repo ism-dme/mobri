@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="2313">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-06</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=2313</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Wgm</bibl>
+                <bibl type="source" subtype="long">A-Wgm: Gesellschaft der Musikfreunde in Wien</bibl>
+                <bibl type="source" subtype="long">Bibliothek und Archiv. Wien (AUT)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-06-07">last file update: <date>Tue Jun  7 12:15:54 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="ID_2313.mup">
+<HEADER id="2313">CONSTANZE NISSEN AN FRANZ XAVER WOLFGANG  MOZART IN WIEN<lbr type="forced"/>
+SALZBURG, 18. DEZEMBER 1838</HEADER>
+<NI src="A-Wgm">
+<pg n="1"/>
+<ts>__________</ts>Mein geliebter <persName key="39407">Sohn</persName>!<lbr type="forced"/>
+<lbr type="forced"/>
+Ich schreibe in Eille dahero wenig weil mit dem Brief<lbr/>
+und pack in einer <formula type="mfrac"><mn>1</mn><mi>4</mi></formula> stunde ferdig sein muß.<lbr type="forced"/>
+Daß der <persName key="85039"><u><rend class="latin">Miss Wilkins</rend></u></persName> ihr benehmen so sonder<pc force="weak">=</pc><lbr/>bar war, ka<abbr type="topline" expand="nn">n</abbr> ich nicht genug bewundern; und muß<lbr/>
+gestehen, daß es mir sehr leid thut. &#8211; was macht<lbr/>
+der junge <persName key="84756">Cavalo</persName>? <div type="commentary" xml:id="commentID2313_2">kömt er fleißig zu dir<note corresp="#commentID2313_2">Constanze Nissen hatte den Münchner Pianisten Johann Peter Cavallo
+im Brief vom 8. Juli 1838 an ihren Sohn in Wien empfohlen. 
+Ob er dort Schüler von Franz Xaver Wolfgang Mozart war, lässt sich nicht belegen.
+Cavallo ist zwischen Dezember 1838 und April 1840 als Pianist und Komponist in Wien nachweisbar.</note></div>? &#8211; <lbr/>
+Daß meiner lieben <persName key="49553">Freundin</persName> das Polsterl Freude<lbr/>
+mach, war mir ungemein lieb zu vernehmen<lbr/>
+Ach, wie viel besitze ich von ihrer mir so lieben<lbr/>
+Hand Arbeit wofür ich keinen Ersatz geben<lbr/>
+ka<abbr type="topline" expand="nn">n</abbr>, so gerne ich auch wolte. Sage ihr dies<lbr/>
+und statte ihr meinen inigensten Dank dafür<lbr/>
+so wie auch für ihre treue liebe und Anhanglich<pc force="weak">=</pc><lbr/>keit dafür ab; auch bitte ich, ihr zu sagen,<lbr/>
+welch Herzenleid ich habe über das <div type="commentary" xml:id="commentID2313_3">Leiden<note corresp="#commentID2313_3">Julie Baroni-Cavalcabò, seit März 1838 mit Wilhelm Amadeus Weber 
+Edlem von Webenau (1796–1841) verheiratet, erlitt eine Fehlgeburt.</note></div><lbr/>
+ihr so lieben <persName key="65250">Tochter</persName>, welch ich mit der so theüren<lbr/>
+<persName key="49553">Mutter</persName> vielmahl umarme, und noch i<abbr type="topline" expand="mm">m</abbr>er glauben<lbr/>
+will daß sie in gesegneten umstanden ist, wodurch<lbr/>
+den alles wieder gut sein wird, Gott gebe dies!<lbr/>
+Und nun leben Sie alle wohl und Nehmen sie meinen<lbr/>
+<pg n="2"/>
+Meinen innigensten Glücks Wunsch zum Neuenjahre<lbr/>
+an, und nun kein wort mehr um die Post nicht zu<lbr/>
+versäumen, Nur noch dies, wo Du mein <persName key="39407">Sohn</persName><lbr/> 
+mich brauchen kanst, zähle auf Deine Treue<lbr/>
+dich zärtlich liebende <persName key="48818">Mutter</persName>.<lbr type="forced"/>
+<lbr type="forced"/>                 
+Salzburg am 18 Xber<lbr type="forced"/>
+<ts>_______</ts>1838.<lbr type="forced"/>
+<lbr type="forced"/>
+Daß die <div type="commentary" xml:id="commentID2313_4">Meße<note corresp="#commentID2313_4">Welche Messe Constanze Nissen nach Wien sandte, ist nicht bekannt.</note></div> nicht in<lbr/>
+Partitur geschrieben ist<lbr/>
+nicht meine schuld. alle<lbr/>
+Bekant grußen dich<lbr/>
+<unclear>Mit</unclear> mir besonders <div type="commentary " xml:id="commentID2313_5"><persName key="60441"><rend class="latin">Sophie Haibl</rend></persName><note corresp="#commentID2313_5" >Sophie Haibel lebte nach dem Tod ihres Mannes Jakob Haibel im März 1826
+mit ihrer Schwester Constanze gemeinsam in einer Wohnung in Salzburg.</note></div>. adieu
+<pg n="3"/>
+<vacat/>
+<pg n="4"/>
+<vacat/>
+</NI></text>
+</MUP>

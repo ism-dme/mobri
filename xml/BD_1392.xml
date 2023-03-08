@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="1967">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-05</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1967</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">D-B</bibl>
+                <bibl type="source" subtype="long">D-B: Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Musikabteilung mit Mendelssohn-Archiv. Berlin (DEU)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-05-11">last file update: <date>Wed May 11 14:48:08 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="BD_1392.mup">
+<letter bd="1392">
+<HEADER id="1967">FRANZ XAVER WOLFGANG MOZART AN FRANZ XAVER NIEMETSCHEK IN PRAG<lbr/>
+WIEN, 6. MAI 1820</HEADER>
+<NI src="D-B"> 
+<pg n="1"/>
+<add_ident schr_id="0" impl="pencil"><rend class="latin">an <persName key="56990">Nemeczek</persName></rend></add_ident>
+<ts>______________________</ts><tspdf>\hfill </tspdf><u><rend class="latin">Wien</rend> am 6<h><uu>t</uu></h> May 1820</u><lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____</ts>Geehrtester <persName key="56990">Freund</persName>!<lbr type="forced"/>
+<lbr type="forced"/>
+Sie haben meiner Familie, und mir,<lbr/>
+i<abbr type="topline" expand="mm">m</abbr>er so viele <div type="commentary" xml:id="commentID1967_1">Beweise von Theilnahme,<lbr/>
+und Wohlwollen<note corresp="#commentID1967_1">1794 hatte Constanze Mozart den älteren Bruder Carl Thomas für vier Jahre in die Obhut 
+von Franz Xaver Niemetschek gegeben. Franz Xaver Wolfgang Mozart selbst lebte 1795/96 
+für rund 6 Monate bei dessen zukünftiger Ehefrau Theresia Schnell.
+1798 veröffentlichte Niemetschek eine der ersten Biographien über Wolfgang Amadé Mozart. 
+Constanze Mozart hatte dafür Informationen und Material zur Verfügung gestellt.</note></div> gegeben, daß ich mit<lbr/>
+Zuversicht hoffen darf, das mir wider<pc force="weak">=</pc><lbr/>fahrende Gute, mache auch Ihnen, Ver<pc force="weak">=</pc><lbr/>gnügen. Ich benachrichtige Sie daher, <abbr expand="daß">dß</abbr><lbr/>
+ich vorigen Dienstage hier <div type="commentary" xml:id="commentID1967_2"><rend class="latin">Concert</rend> gege<pc force="weak">=</pc><lbr/>ben<note corresp="#commentID1967_2">Das Konzert fand am 2. Mai 1820 im kleinen Redoutensaal der Wiener Hofburg statt.
+Franz Xaver Wolfgang Mozart befand sich seit Mai 1819 auf einer 
+Konzertreise durch Europa. Wien erreichte er – von Prag kommend – am 19. April 1820.</note></div>, und <abbr expand="daß">dß</abbr> ich so glücklich war, die all<pc force="weak">=</pc><lbr/>gemeine Zufriedenheit, meiner Lands<pc force="weak">=</pc><lbr/>leute zu erringen, die sich so deutlich<lbr/>
+aussprach, <abbr expand="daß">dß</abbr> ich zweymahl vorgerufen<lbr/>
+wurde. Schon bey meinem Erscheinen,<lbr/>
+gab man mir die Anhänglichkeit, an<lbr/>
+<pg n="2"/>
+meinen <persName key="39409">Vater</persName>, auf die rührendste Weise<lbr/>
+zu erke<abbr type="topline" expand="nn">n</abbr>en, de<abbr type="topline" expand="nn">n</abbr> ich wurde mit so un<pc force="weak">=</pc><lbr/>geheuren <rend class="latin">Applaus</rend> empfangen, <abbr expand="daß">dß</abbr> ich schon<lbr/>
+glaubte, ich würde gar nicht zum spielen<lbr/>
+ko<abbr type="topline" expand="mm">m</abbr>en. Darauf spielte ich mein <workName key="11557"><rend class="latin">Concert</rend></workName>,<lbr/>
+welches durch ein erst hier <rend class="latin">componir</rend>tes<lbr/>
+<rend class="latin">Andante</rend>, sehr gewo<abbr type="topline" expand="nn">n</abbr>en hatte. Dieses <rend class="latin">An<pc force="weak">=</pc><lbr/>dante</rend>, machte solches Glück, <abbr expand="daß">dß</abbr>, was bey<lbr/>
+einem <rend class="latin">Clavierspieler</rend> ein seltner Fall<lbr/>
+ist, mitten hinein geklatscht wurde. &#8211; <lbr type="forced"/>  
+<persName key="39314">Hu<abbr type="topline" expand="mm">m</abbr>el</persName>, der König aller Klavieristen<lbr/>
+gab gestern ein Privatkonzert, und gibt<lbr/>
+am 14<h><uu>t</uu></h> ein zweytes, aber öffentliches.<lbr/>
+Ich ka<abbr type="topline" expand="nn">n</abbr> Ihnen nicht sagen, wie erqui<pc force="weak">=</pc><lbr/><pg n="3" type="wordsep"/>kend es für mich war, ihn wieder ein<pc force="weak">=</pc><lbr/>mahl zu hören; ich wußte nicht, ob ich mehr<lbr/>
+sein unbeschreiblich graziöses, zartes<lbr/>
+Spiel, oder seine <rend class="latin">Composition</rend> bewun<pc force="weak">=</pc><lbr/>dern sollte. &#8211; In ungefähr 14 Tagen<lbr/>
+gehe ich von hier gerade <div type="commentary" xml:id="commentID1967_3">nach Italien<note corresp="#commentID1967_3">Franz Xaver Wolfgang Mozart verließ Wien am 16. Juni 1820.</note></div>, auf<lbr/>
+wie lange, ist noch unbesti<abbr type="topline" expand="mm">m</abbr>t, doch ist es<lbr/>
+wahrscheinlich, <abbr expand="daß">dß</abbr> ich im Winter wieder das<lbr/>
+liebe <rend class="latin">Wien</rend> besuche, wo ich da<abbr type="topline" expand="nn">n</abbr> schon<lbr/>
+die liebenswürdige <div type="commentary" xml:id="commentID1967_4">Sängeri<abbr type="topline" expand="nn">n</abbr><note corresp="#commentID1967_4">Vermutlich die Tochter <persName key="84736">Theresia</persName> Niemetschek. Sie heiratete 1820 den Wiener Geschäftsmann Bruno Neuling.</note></div> meiner<lbr/>
+Lieder finden werde. Empfehlen Sie<lbr/>
+mich Ihr gefälligst, so wie Ihrer <persName key="78723">Fr:<lbr/>
+Gemali<abbr type="topline" expand="nn">n</abbr></persName>, und meinem Freunde <persName key="56989">Franz</persName>,<lbr/>
+und bestättigen Sie mir, we<abbr type="topline" expand="nn">n</abbr> es die<lbr/>
+Zeit erlaubt, den Empfang dieses<lbr/>
+Briefes.<lbr type="forced"/>
+<pg n="4"/>
+Leben Sie recht wohl, bester <persName key="56990">Herr<lbr/>
+Professor</persName>, und eri<abbr type="topline" expand="nn">n</abbr>ern Sie sich Ihres<lbr/>
+ergebensten<lbr type="forced"/>
+<ts>__________________</ts><tspdf>\hfill </tspdf><persName key="39407">Mozart</persName>&#160;<abbr expand="manu propria">mp</abbr><lbr type="forced"/>	
+<lbr type="forced"/>
+Meine Empfehlung Ihrem <persName key="78722">Schwager</persName>,<lbr/>
+und allen Beka<abbr type="topline" expand="nn">n</abbr>ten.<lbr type="forced"/>
+<lbr type="forced"/>
+Habe ich nicht Hoffnung den <workName key="5556"><rend class="latin">Davide</rend></workName><lbr/>
+noch vor meiner Abreise zu beko<abbr type="topline" expand="mm">m</abbr>en?<lbr type="forced"/>
+Meine Add: an <persName key="84737">H<abbr type="curve"></abbr>&#160;<rend class="latin">Geymüller</rend></persName>.
+<lbr/>
+<add_ident schr_id="0" impl="pencil">Mozart, W. A. Sohn</add_ident>
+</NI>
+</letter></text>
+</MUP>

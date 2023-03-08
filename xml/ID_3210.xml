@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="3210">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-06</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=3210</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sae</bibl>
+                <bibl type="source" subtype="long">A-Sae: Archiv der Erzdiözese Salzburg. Salzburg (AUT)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-06-08">last file update: <date>Wed Jun  8 09:53:51 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="ID_3210.mup">
+<HEADER id="3210">FRANZ XAVER WOLFGANG MOZART AN FRANZ VON HILLEPRANDT IN SALZBURG<lbr/>
+WIEN, 18. OKTOBER 1842</HEADER>
+<NI src="A-Sae">
+<pg n="1"/>
+<ts>___________________________________</ts><tshtm>______________________________________</tshtm><tspdf>\hfill </tspdf><u><rend class="latin">Wien</rend> am 18<h><uu>t</uu></h> October <abbr type="topline" expand="1842">842</abbr></u><lbr type="forced"/>
+<lbr type="forced"/>
+<ts>________________________</ts>Geehrter <persName key="75653">Freund</persName>!<lbr type="forced"/>
+<lbr type="forced"/>
+Aus der, in der hiesigen Musik-Zeitung enthaltenen <div type="commentary" xml:id="commentID3210_1">Liste<note corresp="#commentID3210_1">[Ohne Autor,] „Auszeichnung“, in: <i>Allgemeine Wiener Musik-Zeitung</i> 2 (1842), Nr. 120,
+6. Oktober 1842, S. 488.</note></div>, der nun erna<abbr type="topline" expand="nn">n</abbr>ten<lbr/>
+Ehren-Mitglieder, des Salzburger <rend class="latin">Dom</rend>-Musickvereines | <rend class="latin">Mozarteums</rend> | sehe ich, <abbr expand="daß">dß</abbr><lbr/>
+ein paar Nahmen vergessen wurden, auf die ich mir hiemit erlaube, Sie auf<pc force="weak">=</pc><lbr/>merksa<abbr type="topline" expand="mm">m</abbr> zu machen. <persName key="84768">He<abbr type="topline" expand="rr">r</abbr> Barth</persName>, und dessen <persName key="65251">Sohn</persName>, wurden zu Mitgliedern erwählt,<lbr/>
+und die <persName key="53444">Frau des letztern</persName>, eine der größten deutschen Sängeri<abbr type="topline" expand="nn">n</abbr>en, überdieß<lbr/>
+k.k. Ka<abbr type="topline" expand="mm">m</abbr>ersängeri<abbr type="topline" expand="nn">n</abbr>, eifrige <u>Verehreri<abbr type="topline" expand="nn">n</abbr>&#160;</u><persName key="39409"><u>Mozarts</u></persName>, | wie sie es auch <div type="commentary" xml:id="commentID3210_2">be&#255; dem Mozart<pc force="strong">=</pc><lbr/>Feste <u>in jeder Beziehung</u> bewiesen hat<note corresp="#commentID3210_2">Maria Wilhelmine von Hasselt-Barth hatte bei den musikalischen Darbietungen im 
+Dom und bei den verschiedenen Festkonzerten anlässlich der Einweihung 
+des Mozart-Denkmals im September 1842 in Salzburg die Sopran-Solopartien gesungen.</note></div> | wurde dieser Ehre nicht theilhaftig!<lbr/>
+Der zwe&#255;te auf den ich Sie aufmerksam <suppl hand="self" pos="supra">machen</suppl> möchte, ist der <persName key="84767"><rend class="latin">Marchese Capranica</rend></persName>,<lbr/>
+bereits <rend class="latin">Membro onorario de la società di S<h><uu>ta</uu></h> Caecilia</rend> in <rend class="latin">Rom</rend>, und Prä<rend class="latin">ses</rend><lbr/>
+der philharmonischen Gesellschaft ebendaselbst, den diese Artigkeit, wie ich weis,<lbr/>
+sehr freuen würde, und <suppl hand="self" pos="supra">der</suppl> sie wohl auch, als eifrigen Musickliebhaber, und als, so<u> ferne</u><lbr/>
+hergereister Gast verdient.<lbr type="forced"/>
+We<abbr type="topline" expand="nn">n</abbr> meine Meinung, mit der des <rend class="latin">Comité</rend> übereinsti<abbr type="topline" expand="mm">m</abbr>t, so bitte ich die <rend class="latin">Diplome</rend><lbr/>
+an mich einzusenden, und ich werde mir ein Vergnügen daraus machen, sie<lbr/>
+den betreffenden zu übermachen. Mit vorzüglicher Hochachtung Ihr<lbr type="forced"/> 
+<ts>_______________________________</ts><tshtm>____________________________________________________________</tshtm><tspdf>\hfill </tspdf><persName key="39407"><rend class="latin">W A Mozart</rend></persName>&#160;<abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+Ist meine <persName key="60441">Tante</persName> krank? ich höre gar nichts von ihr!<lbr type="forced"/>
+<lbr type="forced"/>
+Bitte meine ergebenste Empfehlung an Ihre liebenswürdige <persName key="75652">Frau Gemahli<abbr type="topline" expand="nn">n</abbr></persName>.<lbr type="forced"/>
+<pg n="2"/>
+<vacat/>
+<pg n="3"/>
+<vacat/>
+<pg n="4"/>
+<anschrift rot="90"><u>Wien</u><lbr type="forced"/>
+An Seinen des Herrn Herrn<lbr type="forced"/>
+Franz Edlen von <u><rend class="latin">Hilleprandt</rend></u><lbr type="forced"/>
+Doktor's sä<abbr type="topline" expand="mm">m</abbr>tlicher Rechte, beeideten No<pc force="weak">=</pc><lbr type="forced"/>tar’s, und Landes, und Gerichts Advokaten<lbr type="forced"/>
+Hochwohlgeborn<lbr type="forced"/>
+<ts>________________</ts>zu<lbr type="forced"/>
+über <rend class="latin">Linz</rend>.<ts>__________</ts><u><rend class="latin">Salzburg</rend></u></anschrift>
+<lbr/>
+<add_seal type="post">SALZBURG<lbr/>
+20. OCT</add_seal>
+<lbr/>
+<add_empf schr_id="75653">N 983. de p <u>22<h>t</h> Okt</u><lbr/>
+<ts>______________________</ts>842<lbr/>
+<ts>___________</ts><rend class="latin">Fasc:</rend> I</add_empf>
+</NI></text>
+</MUP>

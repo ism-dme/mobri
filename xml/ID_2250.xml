@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="2250">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-06</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=2250</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Verbleib unbekannt (Vorlage: Abschrift ca. 1828 in A-Sm)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-06-03">last file update: <date>Fri Jun  3 14:42:34 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="ID_2250.mup">
+<HEADER id="2250">FRANZ XAVER WOLFGANG MOZART AN CONSTANZE NISSEN IN SALZBURG<lbr/>
+LEMBERG, 12. OKTOBER 1827<lbr/>
+Abschrift von Anton Jähndl, ca. 1828</HEADER>
+<pg n="1"/>
+<tshtm><additum>[... (Schluss der Abschrift des Briefes von Franz Xaver Wolfgang Mozart an Constanze Nissen vom 17. April 1827.)]</additum></tshtm><lbr/>
+<lbr/>
+<ts>_____</ts>Meine liebe gute <persName key="48818">Mutter</persName>!<ts>____________</ts><tspdf>\hfill </tspdf>Lemberg 12 Oktob: 1827<lbr type="forced"/>
+Deinen lieben <div type="commentary" xml:id="commentID2250_1">Brief<note corresp="#commentID2250_1">Brief nicht erhalten.</note></div> und den Partituren=Transport von<lbr/>
+<pg n="2"/>
+<persName key="75929">Jähndl</persName> habe ich glücklich und mit großen Danke für deine<lbr/>
+gehabte Mühe erhalten, und würde es auch früher be<pc force="weak">=</pc><lbr/>stättiget haben, wenn ich nicht einer sehr erfreulichen<lbr/>
+Nachricht entgegengesehen hätte, die ich dir zugleich mit<pc force="weak">=</pc><lbr/>theilen wollte. Dieses ist nun erfolgt, und ich säume nicht,<lbr/>
+dir zu berichten, daß <u>Ihre Majestät, unsere </u><persName key="54564"><u>Kaiserinn</u></persName>,<lbr/>
+die Gnade gehabt hat, die Dedikation einer von mir com<pc force="weak">=</pc><lbr/>ponirten <workName key="11573">Cantate, <u>der erste Frühlingsmorgen</u></workName>, huldvollst<lbr/>
+anzunehmen. Wenn ich nicht das Glück hätte den Nahmen<lbr/>
+<u>der Kaiserinn</u> auf den Titel setzen zu dürfen, so würde<lbr/>
+ich wohl schwerlich <div type="commentary" xml:id="commentID2250_2">einen Verleger finden<note corresp="#commentID2250_2">Die Kantate <i>Der erste Frühlingstag</i> WV I:4, erschien in einer Version für Soli, Chor und Klavier 1829 als op. 27 bei Tobias Haslinger in Wien.</note></div>; denn diese<lbr/>
+Herren nehmen nicht gern größere Werke, wie mei<pc force="weak">=</pc><lbr/>ne Cantate eines ist, denn die Auflage kostet viel, und<lbr/>
+es finden sich auch schwerer Käufer auf ein Stück, was<lbr/>
+zwischen 3–4 f. CM ungefähr kosten wird.<lbr type="forced"/>
+Hat <persName key="75929">Jähndl</persName> schon die Partitur des <workName key="5556"><rend class="latin">Davide penitente</rend></workName> be<pc force="weak">=</pc><lbr/>ko<abbr type="topline" expand="mm">m</abbr>en? Ich gab sie einem Bekannten, der nach Salzburg<lbr/>
+öfters, aber zu unbesti<abbr type="topline" expand="mm">m</abbr>ten Zeiten reist, mit. &#8211; <lbr type="forced"/>
+Der liebe Gott lasse nur die Augen und den guten Willen<lbr/>
+meines Freundes Jähndl nicht ermatten, daß er seine<lbr/>
+so freundschaftlich unterno<abbr type="topline" expand="mm">m</abbr>ene <div type="commentary" xml:id="commentID2250_3">Arbeit<note corresp="#commentID2250_3">Anton Jähndl stellte aus den von Georg Nikolaus Nissen hinterlassenen Materialien 
+zu einer <i>Biographie W. A. Mozart’s</i> ein Druckmanuskript her. 
+Nach einer Endredaktion durch Johann Heinrich Feuerstein erschien die 
+Biographie Anfang 1829 bei Breitkopf &#38; Härtel in Leipzig.</note></div> bald beende.<lbr/>
+Freund <persName key="65402"><rend class="latin">Gallus</rend></persName>, der in seinem Eifer nicht nachläßt, ist<lbr/>
+<pg n="3"/>
+mit meinen Fortschritten zufrieden, und propheze&#255;et<lbr/>
+mir i<abbr type="topline" expand="mm">m</abbr>er, dass ich gute Fugen machen werde; wenn’s nur<lbr/>
+wahr wird, denn ich möchte mich gerne vorzüglich auf Kirchen<pc force="weak">=</pc><lbr/>musik verlegen, denn da ist man weniger der Cabale und<lbr/>
+der Mode unterworfen, und kann auch mit der Zeit ein<lbr/>
+ruhiges Brod erwarten. &#8211; &#8211; &#8211;  <lbr/>
+<lbr/>
+<tshtm><additum>[... (Beginn der Abschrift des Briefes von Franz Xaver Wolfgang Mozart an Constanze Nissen vom 28. Dezember 1827.)]</additum></tshtm><lbr/>
+</text>
+</MUP>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="2087">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-06</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=2087</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">B-Bc</bibl>
+                <bibl type="source" subtype="long">B-Bc: Conservatoire Royal de Musique</bibl>
+                <bibl type="source" subtype="long">Bibliothèque</bibl>
+                <bibl type="source" subtype="long">Koninklijk Conservatorium</bibl>
+                <bibl type="source" subtype="long">Bibliotheek. Brüssel (BEL: Brussel/Bruxelles)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-05-11">last file update: <date>Wed May 11 14:48:28 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="ID_2087.mup">
+<HEADER id="2087">FRANZ XAVER WOLFGANG MOZART, QUITTUNG FÜR BREITKOPF &#38; HÄRTEL IN LEIPZIG<lbr/>
+WIEN, 31. AUGUST 1838</HEADER>
+<NI src="B-Bc">
+<pg n="1"/>
+<add_num impl="pencil"><ts>________________________________________________________________________________________________</ts><u>16</u><lbr/></add_num>
+Hierdurch beke<abbr type="topline" expand="nn">n</abbr>e ich, für mich und zugleich im Nahmen meiner<lbr/>
+Mutter, der Frau <persName key="48818"><rend class="latin">Etats</rend>=Räthi<abbr type="topline" expand="nn">n</abbr> von <rend class="latin">Nissen</rend></persName> in <rend class="latin">Salzburg</rend>, von den<lbr/>
+Herrn <persName key="68045"><rend class="latin">Breitkopf</rend> und <rend class="latin">Härtel</rend></persName> in <rend class="latin">Leipzig</rend>, die Su<abbr type="topline" expand="mm">m</abbr>e von Reichsthalern<lbr/>
+420, | schreibe vierhundert und zwanzig Thaler | als stipulierte Kauf<pc force="weak">=</pc><lbr/>su<abbr type="topline" expand="mm">m</abbr>e, für die be&#255; denselben noch liegenden <rend class="latin">Exemplare</rend> der <div type="commentary" xml:id="commentID"><rend class="latin">Biogra<pc force="weak">=</pc><lbr/>phie</rend>&#160;<persName key="39409">meines Vaters</persName><note corresp="#commentID"><i>Biographie W. A. Mozart’s</i> von Georg Nikolaus Nissen, die Anfang 1829 im Verlag von Breitkopf &#38; Härtel erschienen war. </note></div>, richtig erhalten zu haben. Es geht hiernach, der<lbr/>
+ganze Vorrath von <rend class="latin">Exemplaren</rend> gena<abbr type="topline" expand="nn">n</abbr>ter <rend class="latin">Biographie</rend>, an die Herrn<lbr/>
+<persName key="68045"><rend class="latin">Breitkopf et Härtel</rend></persName> eigenthümlich über, und beke<abbr type="topline" expand="nn">n</abbr>e ich, <abbr expand="daß">dß</abbr> obige Reichs<pc force="weak">=</pc><lbr/>thaler 420 – zugleich den <rend class="latin">Saldo</rend> der ganzen, mit den Herrn <rend class="latin">Breitkopf<lbr/>
+et Härtel</rend> gehabten <rend class="latin">Co<abbr type="topline" expand="mm">m</abbr>issions</rend> Rechnung wegen jener <rend class="latin">Biographie</rend> bilden;<lbr/>
+daher alle Ansprüche, welche ich, oder <persName key="48818">meine Mutter</persName> aus jener Rech<pc force="weak">=</pc><lbr/>nung haben könnten, hierdurch als erloschen erklärt, und denselben<lbr/>
+hiemit &#8211; <rend class="latin">Generalquittung</rend> er<tspdf>\-</tspdf>theilt wird.<lbr type="forced"/>
+<ts>____________________________</ts><tshtm>____________________________</tshtm><tspdf>\hfill </tspdf><persName key="39407"><rend class="latin">Wolfgang A Mozart</rend></persName>&#160;<abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<rend class="latin">Wien</rend> am 31<h><uu>t</uu></h>&#160;<rend class="latin">August</rend> 1838. &#8211; <lbr type="forced"/>
+<lbr/>
+<add_note schr_id="0"><rend class="latin"><persName key="39407">Mozart Sohn W. A. Sohn</persName></rend></add_note>
+<lbr/>
+<add_seal type="owner">CONSERVATOIRE<lbr/>
+DE BRUXELLES<lbr/>
+BIBLIOTHEQUE</add_seal>
+<pg n="2"/>
+<vacat/>
+</NI>
+</text>
+</MUP>

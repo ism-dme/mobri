@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="98">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2009">2009-08-20</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=98</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+                <bibl type="source" subtype="long">A-Sm: Internationale Stiftung Mozarteum, Bibliotheca Mozartiana. Salzburg (AUT)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-10-18">last file update: <date>Tue Oct 18 11:58:30 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="Doc1826_14.mup">
+<HEADER id="98">FRANZ XAVER WOLFGANG MOZART AN JOHANN BAPTIST STREICHER IN WIEN<lbr/>
+LEMBERG, 20. NOVEMBER 1826</HEADER>
+<pg n="1"/>
+<ts>___________________________________________</ts><tspdf>\hfill </tspdf><u>Lemberg am 20<h><uu>t</uu></h>&#160;<rend class="latin">nov<abbr type="curve"></abbr></rend> 1826</u><lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____________________</ts>Lieber <persName key="59565">Freund</persName>!<lbr type="forced"/>
+<lbr type="forced"/>
+Ihren freundlichen <div type="commentary" xml:id="commentID98_1">Brief vom 4<h><uu>t</uu></h>&#160;<rend class="latin">October</rend><note corresp="#commentID98_1">Brief nicht erhalten.</note></div>, und das mir darin<lbr/>
+angekündigte <rend class="latin">F.p.</rend>, habe ich zu meinem großen Vergnügen erhalten.<lbr/>
+Be&#255;liegend folgt eine Bankanweisung auf 270 <rend class="latin">fl. CM.</rend>, über deren Em<pc force="weak">=</pc><lbr/>pfang ich Sie ersuche, mich bald möglichst zu beruhigen. Auch lege ich<lbr/>
+Ihnen, <u>u</u> Ihrem lieben <persName key="79237">Vater</persName>, dem ich mich bestens zu empfehlen<lbr/>
+bitte, die baldige Absendung des <rend class="latin">Patent</rend>-Flügels, recht angelegentlich ans<lbr/>
+Herz; ich freue mich so sehr auf seine Ankunft, <abbr expand="daß">dß</abbr> ich der Hoffnung,<lbr/>
+ihn noch in <u>diesem Jahre</u> einzuweihen nicht gern entsagen möchte.<lbr type="forced"/>
+<lbr type="forced"/>
+<persName key="75458">Herr Haslinger</persName> hat von mir den Auftrag erhalten, Ihrem <persName key="79237">Vater</persName><lbr/>
+dre&#255; <div type="commentary" xml:id="commentID98_2">Abdrücke meines werthen Ich’s<note corresp="#commentID98_2">Lithographie von Jan Franciszek Hausstein, Finanzbeamter und Amateurmaler in Lemberg; 
+nach dem Ölgemälde von Karl Gottlieb Schweikart aus dem Jahr 1825.</note></div>, gefälligst zu übergeben.<lbr/>
+Ich ersuche Ihren Vater, einen davon für sich behalten zu wollen,<lbr/>
+und die be&#255;den andern, bitte ich Sie, und Ihre liebe <persName key="83004">Schwester</persName>,<lbr/>
+als ein kleines Andenken, anzunehmen. &#8211; <div type="commentary" xml:id="commentID98_3">Mein <rend class="latin">Caecilien Chor</rend><note corresp="#commentID98_3">Im April 1826 hatte Franz Xaver Wolfgang Mozart in Lemberg einen Cäcilien-Verein gegründet.</note></div>&#160;<lbr/>
+macht mir täglich mehr Freude, wir haben eben das <persName key="39409">Mozartsche</persName><lbr/>
+<workName key="7373"><rend class="latin">Requiem</rend></workName> einstudiert, und werden es am 5<h><uu>t</uu></h>&#160;<rend class="latin">Dec:</rend> als am Sterbe<pc force="weak">=</pc><lbr/>tage meines unvergeßlichen <persName key="39409">Vaters</persName> in der rußischen Kirche, weil<lbr/>
+<pg n="2"/>
+diese den geräumigsten <rend class="latin">Chor</rend> hat, aufführen. &#8211; Ihrer baldigen<lbr/>
+Antwort entgegen sehend, umarme ich Sie von Herzen, empfeh<pc force="weak">=</pc><lbr/>le ich mich Ihrer liebenswürdigen <persName key="72799">Frau</persName>, <persName key="59566">Mutter</persName>, <persName key="77276">Metzler</persName><lbr/>
+<persName key="78757">Schra<abbr type="topline" expand="mm">m</abbr></persName>, etc, und bin mit Liebe und Achtung Ihr Freund<lbr type="forced"/>
+<ts>_____________________</ts><tshtm>____________________________________</tshtm><tspdf>\hfill </tspdf>&#160;<persName key="39407"><rend class="latin">W A Mozart</rend></persName>&#160;<abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<pg n="3"/>
+<vacat/>
+<pg n="4"/>
+<add_seal type="post">[LE]MBERG</add_seal>
+<anschrift rot="90">An Herrn<lbr type="forced"/>
+Herrn <u>Joh: <rend class="latin">Bapt:</rend> Streicher.</u><lbr type="forced"/>
+<rend class="latin">p. Adresse:</rend> Nanette Streicher geb. Stein <rend class="latin">et</rend> Sohn<lbr type="forced"/>
+<ts>_________________</ts>in<lbr type="forced"/>
+<u>auf der Landstraße,</u><ts>______</ts><u><rend class="latin">Wien</rend></u><lbr type="forced"/>
+<u>in der Ungergaße,</u><lbr type="forced"/>
+im eignen Hause.</anschrift><lbr type="forced"/>
+<add_empf><rend class="latin">W. A. Mozart</rend><lbr type="forced"/>
+<rend class="latin">Lemberg</rend> den 20 <rend class="latin">Novbr</rend><lbr type="forced"/>
+empf 27<ts>_______</ts><abbr type="topline" expand="1826">826</abbr><lbr type="forced"/>
+beant <u>29<h>t<abbr type="curve"></abbr></h> d.</u><lbr type="forced"/>
+<ts>_____</ts><u>173</u></add_empf><lbr type="forced"/></text>
+</MUP>

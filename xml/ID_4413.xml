@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="4413">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-06</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=4413</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-GÖ</bibl>
+                <bibl type="source" subtype="long">A-GÖ: Benediktinerstift Göttweig</bibl>
+                <bibl type="source" subtype="long">Musikarchiv. Furth bei Göttweig (AUT)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-05-11">last file update: <date>Wed May 11 14:48:35 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="ID_4413.mup">
+<HEADER id="4413">CARL JACOB(?) LANGE AN CAJETAN SENONER IN VERONA<lbr/>
+VICENZA(?), 16. AUGUST 1820(?)<lbr/>
+Empfehlungsschreiben für Franz Xaver Wolfgang Mozart</HEADER>
+<NI src="A-GÖ">
+<pg n="1"/>
+<ts>______</ts>Herrn <persName key="84980">Kajetan <rend class="latin">Senoner</rend></persName><lbr type="forced"/> 
+<ts>___</ts>zu <rend class="latin">Verona</rend> beim <rend class="latin">Castel vechio</rend><lbr type="forced"/>
+<ts>______</ts>im ehemaligen Pfarrhause.<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>___</ts>Liebster bester Freund!<lbr type="forced"/>
+<lbr type="forced"/>
+Ich empfehle dir meinen lieben<lbr/>
+Vetter und Bruder <persName key="39407"><rend class="latin">Mozart</rend></persName>, Sohn<lbr/>
+des unsterblichen <persName key="39409">Kompositeurs</persName><lbr/>
+ihm in <rend class="latin">Verona</rend> mit Rath und That<lbr/>
+an die Hand zu gehen, wofür<lbr/>
+ich ewig seyn werde dein <emend value="dankbahrer">dank<pc force="weak">=</pc><lbr/>bahre</emend> Freund<lbr type="forced"/>
+<ts>_____________</ts><persName key="76560">Lange</persName>&#160;<abbr expand="manu propria">mp</abbr><lbr/>
+<lbr/>
+<add_seal type="owner">MUSIKARCHIV STIFT GÖTTWEIG</add_seal>
+</NI>
+</text>
+</MUP>

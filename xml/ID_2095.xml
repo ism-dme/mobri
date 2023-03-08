@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="2095">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-05</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=2095</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">D-B</bibl>
+                <bibl type="source" subtype="long">D-B: Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Musikabteilung mit Mendelssohn-Archiv. Berlin (DEU)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-05-13">last file update: <date>Fri May 13 16:35:48 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="ID_2095.mup">
+<HEADER id="2095">FRANZ XAVER WOLFGANG MOZART AN CARL FRIEDRICH PETERS IN LEIPZIG<lbr/>
+LEMBERG, 8. NOVEMBER 1827<lbr/>
+Diktierter Brief</HEADER>
+<NI src="D-B">
+<pg n="1"/>
+<ts>__________________________________________</ts><tspdf>\hfill </tspdf>Lemberg am 8<h>ten</h> 9<h><uu><rend class="latin">bre</rend></uu></h>&#160;<abbr type="topline" expand="1827">827</abbr>.<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____</ts>Hochwohlgeborner verehrter <persName key="77883">Herr</persName>!<lbr type="forced"/>
+<lbr type="forced"/>
+Indem ich mir die frohen Augenblicke in’s Gedächtniß zurück<pc force="weak">=</pc><lbr/>rufe die mir Ihre <div type="commentary" xml:id="commentID2095_1">Persönliche Bekanntschaft<note corresp="#commentID2095_1">Während seiner großen Konzertreise durch Europa hielt sich 
+Franz Xaver Wolfgang Mozart vom 12. bis zum 26. Februar 1820 in Leipzig auf, 
+wo er mit Carl Friedrich Peters Freundschaft schloss. In dessen Verlag 
+waren in der Folge vier Publikationen erschienen: 
+die Klaviersonate mit Violine oder Violoncello E-Dur op. 19 (WV VI:13), 
+Vier Polonaises mélancholiques für Klavier op. 22  (WV VII:29, 31, 33 und 34), 
+Variationen für Klavier über ein Thema von Mehuls „Joseph“ C-Dur op. 23 (WV VII:32) 
+und das 2. Klavierkonzert Es-Dur op. 25 (WV IV:2).</note></div> verschafte,<lbr/>
+und der vielen Beweise von Freundschaft, und Güte, von Ih<pc force="weak">=</pc><lbr/>rer Seite gedenke, nehme ich keinen Anstand, Ihnen auch<lbr/>
+dießmahl mit einer Bitte zur Last zu fallen, die für<lbr/>
+mich von der äußersten Wichtigkeit ist.<lbr type="forced"/>
+Ich war so glücklich von Ihrer Majestät, unserer gnädigsten<lbr/>
+<persName key="54564">Kaiserinn</persName> der Ehre gewürdigt zu seyn, daß Sie eine<lbr/>
+<rend class="latin">Dedication</rend> von mir anzunehmen geruhte; da nun dieses<lbr/>
+wie Sie Verehrtester selbst wißen werden, ein ziemlich<lbr/>
+seltener Fall <suppl hand="self" pos="supra">ist</suppl>, so wünschte ich daß <suppl hand="self" pos="supra">nun</suppl> dieses <workName key="11573">Werk</workName> so schön<lbr/>
+und <rend class="latin">élégant</rend> als es sich thun läßt, an’s Tageslicht ge<pc force="weak">=</pc><lbr/>fördert werde. Ihre Handlung steht nun, und mit vollem<lbr/>
+Rechte, in dem Rufe, daß in Ihrem <rend class="latin">Bureau</rend> auf Nettig<pc force="weak">=</pc><lbr/>keit, <rend class="latin">Co<abbr type="topline" expand="rr">r</abbr>ect</rend>heit, und Zierlichkeit der Auflage, die meiste<lbr/>
+Sorgfalt verwendet wird, wie ich mich selbst bey denen<lbr/>
+Sachen überzeugte, die Sie von mir zu nehmen die Güte hat<pc force="weak">=</pc><lbr/>ten; daher es mein vorzüglicher Wunsch ist, es möge<lbr/>
+<lbr/>
+<add_note schr_id="0" impl="pencil"><rend class="latin">Mozart W. A</rend> <ts>____</ts>Sohn</add_note><lbr/>
+<add_seal type="owner">STAATS<pc force="weak">-</pc><lbr/>BIBLIOTHEK<lbr/>
+ZU BERLIN<lbr/>
+PREUSSISCHER<lbr/>
+KULTURBESITZ</add_seal>
+<pg n="2"/>
+Ihnen auch dießmahl gefallen dieses jüngste, und wie ich mir<lbr/>
+schmeichle beste Kind meiner Muse, unter Ihren gütigen<lbr/>
+Schutz und Proteckzion zu nehmen. Ich habe dießmahl<lbr/>
+eine viersti<abbr type="topline" expand="mm">m</abbr>ige <rend class="latin">Cantate</rend>, mit Chor <rend class="latin">componirt</rend> betittelt<lbr/>
+<workName key="11573">„Der erste Frühlingstag“</workName> das Gedicht ist äußerst schön<lbr/>
+und zart, und ich darf es gestehen, daß dieses Werk<lbr/>
+in einigen Privat Zirkeln wo ich es zu hören gab<lbr/>
+eine allgemeine und lebhafte Theilnahme fand.<lbr type="forced"/> 
+Es eignet sich auch sehr gut für kleine Hausproduck<pc force="weak">=</pc><lbr/>tionen nachdem die 4 <rend class="latin">Solo</rend> Stimen sehr gut bedacht sind,<lbr/>
+der Chor aber, der auch von 4 Sti<abbr type="topline" expand="mm">m</abbr>en gesungen werden<lbr/>
+kann, nicht <suppl hand="self" pos="supra">zu</suppl> schwierig gesetzt ist. Das ganze Werkchen<lbr/>
+beträgt eine Bogenzahl von ohngefähr <div type="commentary" xml:id="commentID2095_2">12.<note corresp="#commentID2095_2">Die Zahl hat Franz Xaver Wolfgang Mozart eingetragen.</note></div> Bogen<lbr/>
+nicht gedrängt geschrieben. Was das <rend class="latin">Honorar</rend> anbe<pc force="weak">=</pc><lbr/>langt, so finde ich es überflüßig mit einem Manne<lbr/>
+von so anerkannter Rechtlichkeit, zu handeln, da<lbr/>
+ich selbst schon Ursache hatte mit Ihnen vollkom<pc force="weak">=</pc><lbr/><pg n="3" type="wordsep"/>men zufrieden zu seyn, Sie werden das <workName key="11573">Werk</workName> sehen, und<lbr/>
+es dann nach Ihrer Beurtheilung, selbst besti<abbr type="topline" expand="mm">m</abbr>en.<lbr type="forced"/> 
+Es liegt mir sehr viel daran, daß die Auflage so<lbr/>
+bald als möglich erscheine, da ich doch <persName key="54564">Ihre Majestät</persName><lbr/>
+nach Ihrer gnädigen Erlaubniß nicht lange darf warten<lbr/>
+laßen. Schreiben Sie daher gefälligst so bald es thunlich<lbr/>
+ist, ob ich [ho]ffen kann der Erfüllung meiner Wünsche [von]<lbr/>
+Ihrer Seite entgegen zu sehen, und ich schicke Ihnen<lbr/>
+dann Augenblicklich mein <rend class="latin">Manuscript</rend>. Schlüßlich muß ich no[ch]<lbr/>
+um Vergebung bitten, daß ich mich bey diesem Briefe einer<lbr/>
+<div type="commentary " xml:id="commentID2095_3">fre<abbr type="topline" expand="mm">m</abbr>den Hand<note corresp="#commentID2095_3" >Den Brief schrieb Josephine Baroni-Cavalcabò.</note></div> bediene, eine <rend class="latin">Catharraf</rend>ische <rend class="latin">Affection</rend> hält<lbr/>
+mich seit einigen Tagen im Bette, und da mir die Sache<lbr/>
+so am Herzen liegt, so habe ich es vorgezogen diese Zeilen<lbr/>
+einem guten <persName key="49553">Freunde</persName> in die Feder zu dicktiren, als noch<lbr/>
+länger damit zu warten. In Erwartung einer recht<lbr/>
+baldigen <div type="commentary" xml:id="commentID2095_4">geneigten Antwort<note corresp="#commentID2095_4">Carl Friedrich Peters starb kurze Zeit später, am 20. November 1827
+in der Landesirrenanstalt auf dem Sonnenstein bei Pirna. Die Kantate <i>Der erste Frühlingstag</i> op. 28 (WV I:4) erschien 
+als Klavierauszug später (1829) bei Tobias Haslinger in Wien.</note></div>, bitte ich Sie die Ausdrücke<lbr/>
+meiner vorzüglichen Hochachtung, und innigen Verehrung<lbr/>
+anzunehmen, mit denen ich verharre<lbr type="forced"/>
+<ts>_____</ts>Euer Wohlgeborn! ergebenster <persName key="39407"><rend class="latin">WA Mozart</rend></persName>&#160;<abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<pg n="4"/>
+<add_empf><u>1827.</u>&#160;<u><rend class="latin">Lemberg</rend></u><lbr type="forced"/>
+<ts>___________</ts><rend class="latin">Mozart Sohn</rend><lbr type="forced"/>
+<u>8<h>t</h>&#160;<rend class="latin">Novbr</rend>.</u></add_empf>
+<lbr/>
+<add_seal type="post">LEMBERG</add_seal><lbr/>
+<anschrift>Herrn<lbr type="forced"/>
+<rend class="latin">C: F: Peters</rend><lbr type="forced"/>
+ber. Musikverleger<lbr type="forced"/>
+in<lbr type="forced"/>
+<rend class="latin">Leipzig</rend></anschrift>
+</NI>
+</text>
+</MUP>

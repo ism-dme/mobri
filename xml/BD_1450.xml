@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="2032">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-05</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=2032</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Wst</bibl>
+                <bibl type="source" subtype="long">A-Wst: Wienbibliothek im Rathaus, Musiksammlung. Wien (AUT)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-05-13">last file update: <date>Fri May 13 16:58:05 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="BD_1450.mup">
+<HEADER id="2032">FRANZ XAVER WOLFGANG MOZART AN ARTARIA &#38; CO. IN WIEN<lbr/>
+LEMBERG, 11. NOVEMBER 1832</HEADER>
+<NI src="A-Wst">
+<pg n="1"/>
+<ts>_________________________________________________</ts><tspdf>\hfill </tspdf><u>Lemberg am 11<h><uu>t</uu></h>&#160;<rend class="latin">Nov<abbr type="curve"></abbr></rend>&#160;<abbr type="topline" expand="1832">832</abbr></u><lbr type="forced"/>
+<lbr type="forced"/>
+<ts>____________________________</ts>Geehrter <persName key="84757">Herr</persName>!<lbr type="forced"/>
+<lbr type="forced"/>
+Ich habe das Vergnügen, Ihnen zu berichten, daß die <div type="commentary" xml:id="commentID2032_1"><rend class="latin">Arie</rend><note corresp="#commentID2032_1">Arie der Giunia „Ah se il crudel periglio“ (II/5) aus der Oper <i>Lucio Silla</i> KV 135.</note></div>, die Sie mir, be&#255;<lbr/>
+meiner <div type="commentary" xml:id="commentID2032_2">letzten Anwesenheit in Wien<note corresp="#commentID2032_">Franz Xaver Wolfgang Mozart hat sich nachweislich zuletzt im August/September 1829 in Wien aufgehalten.</note></div>, zu zeigen, die Gefälligkeit hatten, allem<lbr/>
+Anscheine nach, von der <rend class="latin">Composition</rend> meines <persName key="39409">Vaters</persName> ist. Wenigstens finde ich keinen<lbr/>
+vernünftigen Grund, es zu bezweifeln, de<abbr type="topline" expand="nn">n</abbr> ich fand die Worte der Arie, und des<lbr/>
+vorangehenden <rend class="latin">Recitativs</rend>, in dem gedruckten Textbuche, der <rend class="latin">Oper</rend>: <workName key="2484"><rend class="latin">Lucio Silla</rend></workName>, die mein<lbr/>
+<persName key="39409">Vater</persName>, im Jahre 1773 | also im 17<h><uu>t</uu></h> Jahre seines Alters | für das <rend class="latin">Regio-Ducal Teatro di<lbr/>
+Milano</rend> schrieb. Die <rend class="latin">Poesie</rend> ist von Herrn <persName key="52515"><rend class="latin">De Gamera</rend></persName>, damaligen Theaterpoeten, und diese<lbr/>
+<rend class="latin">Arie</rend> macht den Schluß der fünften <rend class="latin">Scene</rend> des zwe&#255;ten <rend class="latin">Actes</rend>. We<abbr type="topline" expand="nn">n</abbr> es Intereße für<lbr/>
+Sie haben ka<abbr type="topline" expand="nn">n</abbr>, das Buch selbst einzusehen, so will ich Ihnen es gerne auf kurze Zeit<lbr/>
+zusenden, doch würde ich um dessen baldigste Zurückstellung bitten, da ich es als<lbr/>
+eine Seltenheit, bewahre. Ich habe auch das Textbuch der Oper: <workName key="1972"><rend class="latin">Mitridate, Re di Ponto</rend></workName>, die<lbr/>
+<persName key="39409"><rend class="latin">Mozart</rend></persName> zwe&#255; Jahre früher, für dasselbe Theater komponierte. Indem ich Sie be&#255; dieser<lbr/>
+Gelegenheit, um die baldige Herausgabe meiner <workName key="11705">Lieder</workName>  bitte, habe ich die Ehre mich<lbr/>
+zu zeichnen Ihren ergebensten<lbr type="forced"/>
+<ts>__________________________</ts><tshtm>_______________________________</tshtm><tspdf>\hfill </tspdf><persName key="39407"><rend class="latin">W A Mozart</rend></persName>&#160;<abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<pg n="2"/>
+<anschrift><u><rend class="latin">Leopol</rend></u><lbr type="forced"/>		
+An Herrn Herrn<lbr type="forced"/>
+<rend class="latin"><u>Artaria</u> et Compag</rend><lbr type="forced"/>
+Kunst und Musikalienhändler<lbr type="forced"/>
+<ts>_____________</ts>zu<lbr type="forced"/>
+Kohlmarkt N<h>o</h> 1151.<ts>_____</ts><u><rend class="latin">Wien</rend></u></anschrift><lbr type="forced"/>
+
+<add_seal type="post">LEMBERG<lbr/>
+12 NOV 832</add_seal>
+<lbr/>
+<add_seal type="post">WIEN<lbr/>
+17 NOV</add_seal>
+<lbr/>
+<add_empf><ts>______________</ts><u>1832.</u><lbr type="forced"/>
+<rend class="latin"><ts>____</ts>Mozart, W. A.</rend><lbr type="forced"/>
+<rend class="latin">Lemberg</rend>, <u>11 Nov<uu>r</uu></u><lbr type="forced"/>
+<ts>_______________</ts><u>17. d<h><uu>o</uu></h></u><lbr type="forced"/>
+<ts>_____</ts>d 23. <h><uu>do</uu></h></add_empf>
+<lbr/>
+<add_seal type="owner">WIENER STADTBIBLIOTHEK</add_seal>
+</NI></text>
+</MUP>

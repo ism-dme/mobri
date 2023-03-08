@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="2078">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-06</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=2078</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sae</bibl>
+                <bibl type="source" subtype="long">A-Sae: Archiv der Erzdiözese Salzburg. Salzburg (AUT)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-06-07">last file update: <date>Tue Jun  7 17:08:21 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="ID_2078.mup">
+<HEADER id="2078">FRANZ XAVER WOLFGANG MOZART AN DEN DOMMUSIKVEREIN UND MOZARTEUM<lbr/>
+[MILOTIZ,] 16. AUGUST 1841</HEADER>
+<NI src="A-Sae">
+<pg n="1"/>
+<ts>___________________</ts>Hochgeehrte Herrn!<lbr type="forced"/>
+<lbr type="forced"/>
+Dem be&#255;liegenden Gesuche des Herrn <persName key="84710"><rend class="latin">Mathias Seis</rend></persName>, um die Verleihung der Stelle<lbr/>
+des ersten <rend class="latin">Violin</rend> | <rend class="latin">Solo</rend> | Spielers, und zugleich Profeßors auf diesem Instrumente, an Ihrem<lbr/>
+so eben ins Leben getretenen Vereine, für seinen Sohn <persName key="84778"><rend class="latin">Fridolin Seis</rend></persName>, habe ich nur be&#255;zufügen,<lbr/>
+daß: ein junger Ma<abbr type="topline" expand="nn">n</abbr>, der von so achtbaren, und in der Kunstwelt so hochgestellten Mä<abbr type="topline" expand="nn">n</abbr>ern, wie die <rend class="latin">P.T.</rend><lbr/>
+Herrn <persName key="59181"><rend class="latin">Se&#255;fried</rend></persName>, <persName key="56285">Ma&#255;seder</persName>, <persName key="65275"><rend class="latin">Böhm</rend></persName>, <persName key="54290"><rend class="latin">Jansa</rend></persName>, so dringend empfohlen wird, gewiß volle Berücksichtigung<lbr/>
+verdienet. Sie kö<abbr type="topline" expand="nn">n</abbr>en sich wohl überzeugt halten, <abbr expand="daß">dß</abbr> ich das lebhafteste Intereße, an dem Gedeihen, des<lbr/>
+<rend class="latin">Mozarteums</rend> nehme, und ich muß daher, wohl sehr von den Vorzügen des in Rede stehenden jungen<lbr/>
+Ma<abbr type="topline" expand="nn">n</abbr>es versichert se&#255;n, we<abbr type="topline" expand="nn">n</abbr> ich mir erlaube, Ihnen, meine hochgeehrten Herrn, denselben auf<lbr/>
+das angelegentlichste <div type="commentary" xml:id="commentID2078_1">zu empfehlen.<note corresp="#commentID2078_1">Franz Xaver Wolfgang Mozart unterstützte den neugegründeten
+<i>Dommusikverein und Mozarteum</i> bei der Suche nach Musikern und Lehrern.</note></div><lbr type="forced"/>
+Nehmen Sie be&#255; dieser Gelegenheit, den ergebensten Dank, für die Uebersendung des <div type="commentary" xml:id="commentID2078_2"><rend class="latin">Diplomes</rend><lbr/>
+als Ehrenmitglied Ihrer Gesellschaft<note corresp="#commentID2078_2">Franz Xaver Wolfgang Mozart war gemeinsam mit seiner Mutter Constanze Nissen als einer der Ersten zum Ehrenmitglied 
+des neugegründeten <i>Dommusikverein und Mozarteums</i> ernannt worden. Das Diplom ist nicht erhalten.</note></div>, und zugleich die Versicherung, <abbr expand="daß">dß</abbr> Sie i<abbr type="topline" expand="mm">m</abbr>er unter die <uu>eifrigsten</uu><lbr/>
+Mitglieder zählen dürfen, Ihren mit aller Hochachtung sich zeichnenden<lbr type="forced"/> 
+<ts>__________________________________</ts><tshtm>_________________________________________________________________</tshtm><tspdf>\hfill </tspdf><persName key="39407"><rend class="latin">Wolfgang A Mozart</rend></persName>&#160;<abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<u>am 16<h><uu>t</uu></h>&#160;<rend class="latin">August</rend>&#160;<abbr type="topline" expand="1841"> 841</abbr>.</u><lbr type="forced"/>
+<pg n="2"/>
+<vacat/>
+<pg n="3"/>
+<vacat/>
+<pg n="4"/>
+<anschrift rot="90">An die Herrn<lbr type="forced"/>
+Vorstände des <rend class="latin">Dom-Musik-Vereines</rend><lbr type="forced"/>
+| <rend class="latin">Mozarteum</rend> | Hoch und<lbr type="forced"/>
+Wohlgeboren<lbr type="forced"/>
+zu<lbr type="forced"/>
+<u><rend class="latin">Salzburg</rend></u>.</anschrift>
+<lbr/>
+<add_empf schr_id="75653">
+N<h><uu>r</uu></h> 61. <rend class="latin">de pras</rend>: 23<h>t</h> Aug <abbr type="topline" expand="1841">841</abbr>.<lbr/>
+<rend class="latin">Reg. Fasc.</rend> I.</add_empf>
+</NI></text>
+</MUP>

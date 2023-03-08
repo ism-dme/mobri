@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="2111">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-05</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=2111</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">D-DS</bibl>
+                <bibl type="source" subtype="long">D-DS: Universitäts- und Landesbibliothek</bibl>
+                <bibl type="source" subtype="long">Handschriften- und Musikabteilung. Darmstadt (DEU)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-05-11">last file update: <date>Wed May 11 14:48:29 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="ID_2111.mup">
+<HEADER id="2111">FRANZ XAVER WOLFGANG MOZART AN BREITKOPF &#38; HÄRTEL IN LEIPZIG<lbr/>
+LEMBERG, 22. MAI 1817</HEADER>
+<NI src="D-DS">
+<pg n="1"/>
+<ts>__________________________________</ts><tshtm>___________________</tshtm><tspdf>\hfill </tspdf><u>Lemberg den 22<h><uu>t</uu></h> May 1817</u><lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_______________</ts><tshtm>_________________</tshtm>Geehrtester <persName key="53244">Herr</persName>!<lbr type="forced"/>
+<lbr type="forced"/>
+Erlauben Sie mir vorerst, Ihnen anzuzeigen, daß die mir besti<abbr type="topline" expand="mm">m</abbr>ten 40 Ab<pc force="weak">=</pc><lbr/>drücke meiner <workName key="11553"><rend class="latin">Pol<abbr type="curve"></abbr></rend></workName> noch nicht angeko<abbr type="topline" expand="mm">m</abbr>en, wohl aber <persName key="84796">H<abbr type="curve"></abbr> Pfaff</persName> vor kurzem, aber<pc force="weak">=</pc><lbr/>mahls 12 <rend class="latin">Ex<abbr type="curve"></abbr></rend> erhalten, die auf meine Bitte versiegelt bey ihm liegen, und<lbr/>
+Ihre weitere <rend class="latin">disposition</rend> erwarten. &#8211; Da Sie in Ihrem letzten <div type="commentary" xml:id="commentID2111_1">Briefe<note corresp="#commentID2111_1">Brief nicht erhalten.</note></div><lbr/>
+so gütig waren, meiner <workName key="11555"><rend class="latin">Sonate</rend> mit <rend class="latin">Vlin</rend>begl</workName>, vortheilhaft zu erwähnen, so darf<lbr/>
+ich wohl voraussetzen, daß Sie, selbe in Verlag zu nehmen, geneigt sind.<lbr/>
+Ich biethe sie Ihnen, nebst folgenden, meiner neusten Arbeiten an: als<lbr type="forced"/>
+<uu>1</uu>&#160;<workName key="11709"><rend class="latin">Fantaisie</rend></workName> über ein rußisches und pohlnisches Thema<lbr type="forced"/>
+<uu>2</uu>&#160;<div type="commentary" xml:id="commentID2111_2"><rend class="latin">Variat<abbr type="curve"></abbr></rend> über ein russisches Thema<note corresp="#commentID2111_2">Gemeint sind hier entweder die Variationen für Klavier d-Moll WV VII:10, 
+publiziert 1820 als op. 18 bei Artaria in Mailand, 
+oder die Variationen für Klavier g-Moll WV VII:11, 
+publiziert 1820 als op. 20 bei August Heinrich Cranz in Hamburg.</note></div><lbr type="forced"/>
+<uu>3</uu> detto über die <workName key="11556"><rend class="latin">Romanze</rend> | <rend class="latin">C dur</rend> |</workName> aus <rend class="latin">Joseph</rend> und seine Brüder<lbr type="forced"/> 
+<uu>4</uu> deutsche <div type="commentary" xml:id="commentID2111_3">Lieder mit <rend class="latin">Clavier</rend>be<abbr type="curve"></abbr><note corresp="#commentID2111_3">In Frage kommen folgende zwischen 1808 und 1815 komponierten Lieder: 
+<i>An die Bäche</i> WV IIIb:21, <i>Seufzer</i> WV IIIb:22, <i>Lotte</i> WV IIIb:23, <i>Die Entzückung</i> WV IIIb:24, 
+<i>Das Hüttchen</i> WV IIIb:25, <i>An Sie</i> WV IIIb:26, <i>Beginnende Liebe</i> WV IIIb:27, „Wie der Tag mir schleichet“ WV IIIb:29. 
+Die Lieder erschienen nicht bei Breitkopf &#38; Härtel. Eine Auswahl von ihnen, WV IIIb:21, 22, 24, 26 und 29 
+publizierte Franz Xaver Wolfgang Mozart gemeinsam mit dem französischen Lied <i>Le Baiser</i> WV IIIb:28 als op. 21 
+Ende 1819 bei August Heinrich Cranz in Hamburg.</note></div><lbr type="forced"/>
+5<h><uu>t</uu></h> noch <div type="commentary" xml:id="commentID2111_4">3 bis 4 <rend class="latin">Polonaises mélancoliques</rend><note corresp="#commentID2111_4">Polonaisen für Klavier a-Moll WV VII:29, g-Moll WV VII:31, f-Moll VII:33 und c-Moll WV VII:34.
+Die vier Stücke erschienen 1820 als <i>Quatre Polonaises melancoliques</i> als op. 22 bei Peters in Leipzig.</note></div><lbr type="forced"/> 
+zusa<abbr type="topline" expand="mm">m</abbr>en also 6 Nu<abbr type="topline" expand="mm">m</abbr>ern, die ich Ihnen, gegen einen Abdruck der<lbr/>
+<div type="commentary" xml:id="commentID2111_5"><rend class="latin">Clavier</rend>werke<note corresp="#commentID2111_5">Die im Rahmen der <i>Oeuvres complettes</i> bei Breitkopf &#38; Härtel erschienenen 
+17 Hefte der „Klaviersachen“ sowie die 20 Klavierkonzerte.</note></div> meines <persName key="39409">Vaters</persName>, und gegen einige der besten Partituren,<lbr/>
+deren Anzahl Sie nach Billigkeit selbst zu besti<abbr type="topline" expand="mm">m</abbr>en belieben, überlasse.<lbr/>
+Wollen Sie diese, gewiß nicht überspa<abbr type="topline" expand="nn">n</abbr>te Forderung eingehen, so senden<lbr/>
+Sie gefälligst, die <rend class="latin">Clavier</rend>werke, meiner <persName key="48818">Mutter</persName>&#160;<div type="commentary" xml:id="commentID2111_6">nach <rend class="latin">Copenhagen</rend><note corresp="#commentID2111_6">Constanze und Georg Nikolaus Nissen lebten seit September 1810 in Kopenhagen.</note></div>, daß die<lbr/>
+<rend class="latin">Partituren</rend> aber für mich gehören, bedarf kaum einer Erwähnung.<lbr type="forced"/>
+In Erwartung geneigter Antwort Ihr<lbr type="forced"/>
+<ts>___________________________________________________</ts><tspdf>\hfill </tspdf><persName key="39407">Mozart</persName>&#160;<abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<pg n="2"/>
+<vacat/>
+<pg n="3"/>
+<vacat/>
+<pg n="4"/>
+<tspdf>\newpage</tspdf> 
+<anschrift rot="90"><u>Lemberg</u><lbr type="forced"/>
+An Herrn<lbr type="forced"/>
+Herrn <rend class="latin">Breitkopf et Härtel</rend><lbr type="forced"/>
+Musikverleger<lbr type="forced"/>
+in<lbr type="forced"/>
+<u><rend class="latin">Leipzig</rend></u></anschrift>
+<lbr/>
+<add_empf rot="270"><u>1817.</u><ts>_______________</ts><u><rend class="latin">Lemberg</rend></u><lbr/>
+<u>d. 22 <emend value="May"><rend class="latin">März</rend></emend></u><ts>__________</ts><rend class="latin">Mozart</rend><lbr/>
+<u>&#8211; 2. <rend class="latin">Juny</rend></u><lbr/>
+<u>d. 10. „ <rend class="latin">resp.</rend></u> sä<abbr type="topline" expand="mm">m</abbr>tli<abbr type="curve"></abbr> Mnscpte abgelehnt<lbr/>
+<ts>_________________________</ts><rend class="latin">No.</rend> 1505.</add_empf>
+</NI></text>
+</MUP>

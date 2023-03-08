@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="146">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2009">2009-08-20</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=146</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+                <bibl type="source" subtype="long">A-Sm: Internationale Stiftung Mozarteum, Bibliotheca Mozartiana. Salzburg (AUT)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-06-08">last file update: <date>Wed Jun  8 11:53:30 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="Doc1841_1.mup">
+<HEADER id="146">DIPLOM ÜBER DIE EHRENMITGLIEDSCHAFT VON FRANZ XAVER WOLFGANG MOZART IN DER GESELLSCHAFT DER MUSIKFREUNDE IN WIEN<lbr/>
+WIEN, 15. FEBRUAR 1841</HEADER>
+<pg n="1"/>
+<ts>________</ts><tshtm>________________________</tshtm>Die von Seiner Majestät dem <persName key="84211">Kaiser Franz I.</persName><lbr type="forced"/>
+<ts>________</ts><tshtm>________________________________</tshtm><ts>________</ts>allergnædigst bestætigte<lbr type="forced"/>
+<ts>________</ts><tshtm>_________________________________</tshtm>GESELLSCHAFT DER MUSIKFREUNDE<lbr type="forced"/>
+<ts>________</ts><tshtm>________________________________</tshtm><ts>_____</ts>des oesterreichischen Kaiserstaates,<lbr type="forced"/>
+welche es zu ihren Pflichten zählt Männer die sich im Gebiethe der Tonkunst ausgezeichnete Verdienste erworben haben, ihre hohe Achtung zu beweisen,<lbr type="forced"/>
+hat<ts>__________</ts><tshtm>________________________</tshtm>Herrn <persName key="39407">Wolfgang Amadeus Mozart</persName><ts>_______</ts><tshtm>_____________________________</tshtm><tspdf>\hfill </tspdf>zu ihrem<lbr type="forced"/>
+<ts>________</ts><tshtm>_____________________________</tshtm><ts>__________</ts>EHRENMITGLIEDE<lbr type="forced"/>
+gewählt, und Ihm gegenwärtiges Diplom ausgefertigt. Sie fühlt sich selbst geehrt, indem sie einen Tonkünstler von so ausgezeichnetem Rufe unter ihren Mitgliedern zählt.<lbr type="forced"/>
+<ts>________</ts><tshtm>____________________</tshtm><ts>___________</ts>Wien, den 15 ten Februar 1841.<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>________</ts><tshtm>____________________</tshtm><ts>__________</ts><persName key="76811"><rend class="latin">August Longin Fürst von Lobkowicz</rend></persName><lbr type="forced"/>
+<ts>________</ts><tshtm>______________________________</tshtm><ts>____________________</ts><rend class="latin">Praæses</rend><lbr type="forced"/>
+
+<persName key="76243"><rend class="latin">Friedrich Klemm</rend></persName>&#160;<abbr_mp expand="manu propria">mp</abbr_mp><ts>_______________</ts><tshtm>_______________________________________________________</tshtm><tspdf>\hfill </tspdf><persName key="73897"><rend class="latin">Joseph Chimani</rend></persName><lbr type="forced"/>
+Mitglied des leitenden Ausschusses.<ts>_____</ts><tshtm>_______________________________</tshtm><tspdf>\hfill </tspdf>Mitglied des Repraesentanten Körpers.<lbr type="forced"/>
+<ts>_____________</ts><tshtm>______________________________________________________________________________________</tshtm><tspdf>\hfill </tspdf><persName key="75458"><rend class="latin">Tobias Haslinger</rend></persName><lbr type="forced"/>
+<persName key="75976">Joha<abbr type="topline" expand="nn">n</abbr> Baptist Jenger</persName>&#160;<abbr_mp expand="manu propria">mp</abbr_mp><lbr type="forced"/>
+Kanzle&#255;=<rend class="latin">Director</rend><lbr type="forced"/>
+statt eines <rend class="latin">Secretairs</rend>.
+<pg n="2"/>
+<vacat/></text>
+</MUP>

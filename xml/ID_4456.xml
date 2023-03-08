@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="4456">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-06</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=4456</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">D-OF</bibl>
+                <bibl type="source" subtype="long">D-OF: Verlagsarchiv André. Offenbach/Main (DEU)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-10-18">last file update: <date>Tue Oct 18 11:58:31 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="ID_4456.mup">
+<HEADER id="4456">JOHANN ANTON ANDRÉ AN FRANZ XAVER WOLFGANG MOZART IN WIEN<lbr/>
+OFFENBACH AM MAIN, 19. JULI 1827<lbr/>
+Abschrift im Kopierbuch des Verlags</HEADER>
+<NI src="D-OF">
+<pg n="1"/>
+<rend class="latin">Lemberg</rend><lbr type="forced"/>
+E. <abbr expand="etc:">&#38;</abbr>&#160;<persName key="39407">W. A. Mozart</persName><ts>__________________________</ts><tspdf>\hfill </tspdf>d<abbr type="curve"></abbr> 19/7 27.<lbr type="forced"/>
+M. hochzuverehrend. H.<lbr type="forced"/>
+Wen ich es habe über Jahr &#38; Tag anstehen<lbr/>
+lassen, Ihre hochgeehrte <div type="commentary" xml:id="commentID4456_1">Zuschrift v. 7 Juny v. J.<note corresp="#commentID4456_1">Brief vom 7. Juni 1826.</note></div> zu<lbr/>
+beantworten, so entschuldigen Sie dieses in<lbr/>
+Berücksichtigung des Umstandes, dass ich Ihnen<lbr/>
+gänzlich den Eingang des Netto Erlößes der<lbr/>
+auf <rend class="latin">Subscription</rend> herausgegebnen <rend class="latin">Partitur</rend><lbr/>
+des <workName key="7373">Req.</workName> melden &#38; diese bald überweisen<lbr/>
+wollte. Ohnerachtet der kl. Zahl <abbr expand="von">v</abbr> 103 Unter<pc force="weak">-</pc><lbr/>zeichner auf <abbr expand="dieses">dss</abbr> Werk Ihres unsterbl. <persName key="39409">Vaters</persName><lbr/>
+ist doch nur ein noch kleiner Theil der erwar<pc force="weak">-</pc><lbr/>tende Gelder eingegangen, so daß we<abbr type="topline" expand="nn">n</abbr><lbr/>
+auf dessen <rend class="latin">Ende</rend> warten wollte, ich es<lbr/>
+wohl noch bis zu nächsten Jahr aufschieben<lbr/>
+müßte.&#8211; <lbr type="forced"/>
+Zur Vermeidung dessen &#38; da Sie in keinem<lbr/>
+Fall durch saumselige od: ganz ausbleibende Zahler<lbr/>
+etwas verlieren dürfen, übermache ich Ihnen<lbr/>
+in beiko<abbr type="topline" expand="mm">m</abbr>enden Wechsel auf <rend class="latin">Wien</rend>, den <rend class="latin">Netto</rend><pc force="weak">=</pc><lbr/>erlöß der auf <rend class="latin">Subscription</rend> versandte 105 Ex des<lbr/>
+<workName key="7373"><rend class="latin">Requiem</rend></workName>, &#38; we<abbr type="topline" expand="nn">n</abbr> Sie mir erlauben wollen<lbr/>
+auf einige Augenblicke d. Künste<lbr/>
+<pg n="2"/>
+bei Seite <unclear>könten</unclear> &#38; doch eher d. Kaufma<abbr type="topline" expand="nn">n</abbr> sprechen<lbr/>
+zu lassen, so bemerkt Ihnen letzterer, dass er nur die<lbr/>
+<u>Auslagen</u> für Papier &#38; Druck dieser 105 Ex. &#38; was<lbr/>
+man ihm noch ausserdem dieser 105 Ex.<lbr/>
+hat zahlen lassen, nicht aber d. Stich, &#38; was<lbr/>
+dieser veranlasste, oder andere <abbr expand="dieses">dss</abbr> Werk<lbr/>
+im allgemeinen angehende Kosten, v. d. guten<pc force="weak">=</pc><lbr/>theils noch zu erwartenden Eingang des<lbr/>
+Subscriptionbetr. à f 5. 24 = rt 3.= pr St pr.<lbr/>
+Ex. in Abzug gebracht hat.<lbr type="forced"/>
+Durch Beischluß dh<abbr type="curve"></abbr>&#160;<persName key="82018">Rikordi</persName> in Mailand<lbr/>
+werden Sie 2 Ex. des <workName key="7373"><rend class="latin">Requiem</rend></workName> erhalten, &#38; der<lbr/>
+Ausgabe Ihr: Beifall nicht versagt haben. = <lbr/>
+Daß in allen für Wien &#38; London nur 8 <rend class="latin">Ex.</rend> für<lbr/>
+Paris gar keines unterzeichnet wurde, hat<lbr/>
+nicht an einer unterbliebnen Beka<abbr type="topline" expand="nn">n</abbr>tmachung<lbr/>
+meiner Ausgabe gelegen. In Wien <emend value="äußerten">äußerst</emend><lbr/>
+sich einige mskl. Händler dass sie<lbr/>
+selbst eine Ausgabe nach der in H. <persName key="59390">Abbe<lbr/> 
+Stadtler</persName> Händen befind<abbr type="curve">.</abbr> Notenblättern<lbr/>
+veranstalten wollten. Ob dies noch geschieht,<lbr/>
+weiß ich nicht. Ich hoffe, daß Sie meinen<lbr/>
+Vorbericht keine unrechte Deutung geben,<lbr/>
+ka<abbr type="topline" expand="nn">n</abbr> Sie versichern daß er sich nur auf That<pc force="weak">=</pc><lbr/>sachen gündet, M. aufrichtige Verehrung<lbr/>
+für Ihren unsterbl. <persName key="39409">Vater</persName> ist zu sehr<lbr/>
+begründet, als daß man viell. einige<lbr/>
+meiner Bemerkungen in diesem Vor<pc force="weak">=</pc><lbr/>bericht unrecht deüten dürfe.<lbr type="forced"/>
+Was <div type="commentary" xml:id="commentID4456_2">Ihr geehrt:<note corresp="#commentID4456_2">Brief vom 7. Juni 1826.</note></div> sehr freundschaftl: enthielt, dafür<lbr/>
+danke ich Ihnen verbind<abbr type="curve">.</abbr> was Sie mir aber<lbr/>
+Schmeichelhaftes sagen, erlauben Sie mir<lbr/>
+im Bewusstsein es nicht verdient zu haben,<lbr/>
+mit Stillschweigen zu übergehen.<lbr type="forced"/>
+<pg n="3"/>
+Und nun erlauben Sie mir noch <emend value="hinzuzufügen">hinzufügen</emend> daß<lbr/>
+ich an Ihr. Wohlergehen stets <abbr expand="den">d </abbr>lebhaftesten<lbr/>
+Antheil nehme &#38; daß ich es mir zu<lbr/>
+einer vorzügl. Ehre rechne be&#255; des<lbr/>
+unsterb<abbr type="curve">.</abbr>&#160;<persName key="39409">Moz.</persName> Sohne<lbr/> 
+im freundschaftl. Andenken &#38; &#38; <persName key="49118">Andr</persName> ./.
+</NI></text>
+</MUP>

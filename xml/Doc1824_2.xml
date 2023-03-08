@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="73">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2009">2009-08-20</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=73</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+                <bibl type="source" subtype="long">A-Sm: Internationale Stiftung Mozarteum, Bibliotheca Mozartiana. Salzburg (AUT)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2023-03-02">last file update: <date>Thu Mar  2 11:09:16 2023</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="Doc1824_2.mup">
+<letter lang="it">
+<HEADER id="73">REGINA SCHLICK AN LUISE VON KNEBEL IN JENA<lbr/>
+GOTHA, 5. AUGUST 1824</HEADER>
+<pg n="1"/>
+<add_ident impl="pencil" schr_id="0"><rend class="latin">Strinasacchi</rend></add_ident>
+<ts>__________</ts><rend class="latin">Cara e stimatissima</rend><lbr type="forced"/>
+<ts>__________________</ts><persName key="76271"><rend class="latin">amica</rend></persName><lbr type="forced"/>
+<rend class="latin">Con piacere mi ricordero<lbr/>
+sempre delle finese riceute<lbr/>
+nella sua casa e la ringrazio<lbr/>
+di cuore et al stimato suo</rend><lbr/>
+<persName key="76270"><rend class="latin">consorte</rend></persName>.<lbr type="forced"/>
+<rend class="latin">ti prego di darmi nove di<lbr/>
+quelle cose, che passa nella<lbr/>
+casa della <u>h.</u> &#8211; &#8211; &#8211; <lbr type="forced"/>
+come sta la povera</rend>&#160;<persName key="74487"><rend class="latin">Einsiedel</rend></persName>,<lbr type="forced"/>
+<rend class="latin">io sto bene di salute e contin<pc force="weak">=</pc><lbr/>uo di far musicha. di mio</rend><lbr/>
+<persName key="78650"><rend class="latin">figlio</rend></persName>&#160;<rend class="latin">oh bone e consolante no<pc force="weak">=</pc><lbr/>ve, ma denari &#8211; denari e poi<lbr/>
+denari &#8211;. ti prego di salutare<lbr/>
+tutti quelli che si ricordano di<lbr/>
+me. io ti do un gran, bacio</rend><lbr/>
+<add_ident impl="pencil" schr_id="0"><rend class="latin">Schlick Regina<ts>________</ts>Virtuosin</rend></add_ident>
+<pg n="2"/>
+<rend class="latin">e resto con la speranza di<lbr/>
+rivederti una volta da mè.<lbr/>
+mi pare, che la</rend>&#160;<persName key="79687" cert="medium"><rend class="latin">sig.<h>ra</h> di<lbr/>
+Wangenheim</rend></persName>&#160;<rend class="latin">fa speculazione<lbr/>
+per il suo figlio ciouè il primo<lbr/>
+genito e con la figlia della</rend><lbr/>
+<persName key="75568" cert="medium"><rend class="latin">sig.<h>ra</h> hendrich</rend></persName>&#160;<rend class="latin">poi che e qui<lbr/>
+di ritorno da altenburg con<lbr/>
+tutto il suo bagaglio.<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____</ts>a dio cara mia<lbr type="forced"/>
+<ts>_____</ts>milla complimenti al<lbr type="forced"/>
+<ts>_____</ts>caro tuo sposo<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>________________________</ts><tspdf>\hfill </tspdf> tua vera amica</rend><lbr type="forced"/>
+<lbr type="forced"/>
+<suppl hand="diff" schr_id="0">Gotha den 5ten</suppl><ts>__________</ts><tspdf>\hfill </tspdf>&#160;<persName key="78652"><rend class="latin">Regina Schlik</rend></persName><lbr type="forced"/>
+<suppl hand="diff" schr_id="0"><ts>___</ts><rend class="latin">August</rend> 24.</suppl><ts>___________</ts><add_note schr_id="0" type="inline" impl="ink">Geb. Italienerin<lbr type="forced"/>
+<ts>______________________________</ts>berühmte <div type="commentary" xml:id="commentID73_1">VioloncelloSpielerin<note corresp="#commentID73_1">Regina Strinasacchi war Geigerin, ihr Mann Johann Conrad Schlick war Cellist.</note></div></add_note>
+<pg n="3"/>
+<add_note impl="ink" schr_id="0"><unclear>Glb</unclear> des Prinz Friedrich nachherig Herz. v Gotha<lbr type="forced"/>
+<ts>__________________________________________________</ts>Altenburg</add_note>
+<pg n="4"/>
+<anschrift rot="270" lang="de">Ihro Hochwohlgeb<lbr type="forced"/>
+Der Frau Mayorin von <u><rend class="latin">Knebel</rend></u><lbr type="forced"/>
+<ts>_______________</ts><tshtm>__________</tshtm><u>zu</u><lbr type="forced"/>
+Durch Einschluß<ts>________</ts><u>Jena</u></anschrift>
+</letter></text>
+</MUP>

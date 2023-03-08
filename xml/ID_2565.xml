@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="2565">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-06</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=2565</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">D-LEsta</bibl>
+                <bibl type="source" subtype="long">D-LEsta: Sächsisches Staatsarchiv. Leipzig (DEU)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-05-11">last file update: <date>Wed May 11 14:48:30 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="ID_2565.mup">
+<HEADER id="2565">BREITKOPF &#38; HÄRTEL AN FRANZ XAVER WOLFGANG MOZART IN WIEN<lbr/>
+LEIPZIG, 2. JULI 1838<lbr/>
+Vorschrift im Briefkopierbuch</HEADER>
+<NI src="D-LEsta">
+<pg n="1"/>
+Ew. <persName key="39407">Wohlgeb<abbr type="curve"></abbr></persName> haben wir das Vergnügen hierdurch zu melden, daß es uns<lbr/>
+endlich gelungen, unsern <div type="commentary" xml:id="commentID2565_1">Abnehmer<note corresp="#commentID2565_1">Vielleicht Gustaf Senf jun., in dessen Buchverlag in Leipzig 1849 eine
+„Zweite wohlfeile Ausgabe“ der <i>Biographie W. A. Mozart’s</i> von Georg Nikolaus 
+Nissen erschien, bei der offensichtlich Restexemplare der Ausgabe von 1829 benutzt worden sind. 
+</note></div> der noch vorräthigen Exemplare<lbr/>
+von der <div type="commentary" xml:id="commentID2565_2">Biographie<note corresp="#commentID2565_2"><i>Biographie W. A. Mozart’s</i> von Georg Nikolaus Nissen, die Anfang 1829 im Verlag Breitkopf &#38; Härtel erschienen war.</note></div> Ihres <persName key="39409">Herrn Vaters</persName>, zu bewegen, daß er auf den von<lbr/>
+Ihnen in Ihrem <div type="commentary" xml:id="commentID2565_3">Werthen v. 27 <rend class="latin">Decbr</rend> vor. Jahres<note corresp="#commentID2565_3">Brief vom 27. Dezember 1837.</note></div> gestellten Preis von<lbr/>
+12 gl p. Exemplar eingehet<lbr type="forced"/>
+Sonach erhalten Sie von uns rt 420.&#8211; die Sie durch <persName key="77332">H<abbr type="curve">.</abbr>&#160;<rend class="latin">Millikowski</rend></persName><lbr/>
+aus <rend class="latin">Lemberg</rend>, durch den Sie auch gegenwärtige Zeilen,<lbr/>
+<pg n="2"/>
+erhalten werden. <persName key="77332">Herr <rend class="latin">M.</rend></persName> wird Ihnen zu gleicher Zeit eine von uns ver<pc force="weak">=</pc><lbr/>faßte <div type="commentary" xml:id="commentID2565_4">Generalquittung<note corresp="#commentID2565_4">Die Quittung über den Erhalt von 420 Reichstalern für die 
+Restexemplare der Biographie, datiert in Wien am 31. August 1838, 
+sandte Franz Xaver Wolfgang Mozart am 18. September 1838 an Breitkopf &#38; Härtel.</note></div> vorlegen, die Sie gef<abbr type="curve">.</abbr> vollziehen u. an uns zurück<pc force="weak">=</pc><lbr/>senden wollen.<lbr type="forced"/>
+<ts>_____</ts>Mit vorzüglichster Hochachtung empfehlen sich Ihnen 
+</NI></text>
+</MUP>

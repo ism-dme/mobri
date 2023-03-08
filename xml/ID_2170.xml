@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="2170">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2021">2021-05</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=2170</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Verbleib unbekannt (Nachweis: Otto Haas, London 2007, Catalogue Part II, Nr. 156)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-05-11">last file update: <date>Wed May 11 14:48:29 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="ID_2170.mup">
+<HEADER id="2170">FRANZ XAVER WOLFGANG MOZART AN JOHANN JOSEPH HAUßNER IN EDENKOBEN<lbr/>
+WIEN, 6. DEZEMBER 1806</HEADER>
+<NI src="privat">
+<pg n="1"/>
+<add_empf>d 11ten Feberary 1807.<lbr/>
+Erhalten</add_empf>
+<lbr/>
+<ts>_____</ts>Theuerster <persName key="75487">Freund</persName>!<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____</ts>Weder Vergessenheit noch Nachläßigkeit sind Schuld meines Stillschweigens,<lbr/>
+sondern die Saumseligkeit des <persName key="84712">Herrn Maus</persName> welcher mir deinen<lbr/>
+mir so werthen Brief erst im Monathe May 1806 NB [: mußte<lbr/>
+ich ihn selbst hohlen :] gab. Ich konnte nicht sogleich antworten weil ich deine<lbr/>
+jetzige Adresse nicht wußte. Den <div type="commentary" xml:id="commentID2170_1">Telemach<note corresp="#commentID2170_1"><i>Les Aventures des Télémaque</i> (1717) von François de Salignac de La Mothe Fénelon.</note></div>  habe ich keine Hoffnung<lbr/>
+zu bekomen den Maus ist Professor in Laybach geworden,<lbr/>
+und dahin abgereißt. Als ich den Tag vor seiner Abreise einen<lbr/>
+guten Freund von mir mit einem Billete zu ihm sandte, und<lbr/>
+mein Buch foderte sagte er: Er sey so eben im packen begrif<pc force="weak">-</pc><lbr/>fen und könte es nicht finden; und zudem sey es nur ein unbedeuten<pc force="weak">-</pc><lbr/>des Büchelchen. Mein Freund erwiederte nochmahlen es sey<lbr/>
+der <rend class="latin">Telemach</rend>, und wen es keinen andern Werth hätte<lbr/>
+als den, daß er von dir wäre, so hätte ich Ursache genug<lbr/>
+ihn zu fordern. Aber alles war umsonst. Genug hievon. In<lbr/>
+unserem Hause bist du noch imer verkant. darum weiß<lbr/>
+niemand daß ich dir schreibe. Ich bitte dich also deine Briefe zu<lbr/>
+adressirren an: │ <persName key="85215">Herrn Ellinger</persName> in der Grünanger<pc force="weak">-</pc><lbr/>strasse Nr. 886 Hofmeister <emend value="beym">beyn</emend>&#160;<persName key="84725">Herrn v. Jeckl</persName>  im<lbr/>
+1ten Stock. │ Grüsse oftmahlen deine liebe <persName key="84727">Frau</persName>, die ich sehr gut<lbr/>
+kene. Meine <persName key="60441">Tante</persName> ist mit <persName key="53275">Hr. Haibel</persName> [dem seine <persName key="84713">1<h>te</h> Frau</persName> die<lbr/>
+Gefälligkeit erwies zu sterben] <div type="commentary" xml:id="commentID2170_2">verheurathet<note corresp="#commentID2170_2">Sophie Weber und Johann Jakob Haibel
+heirateten erst am 7. Januar 1807 in Djakowar.</note></div>. Ich reise in 5–6 Mo<pc force="weak">-</pc><lbr/>nathen <div type="commentary" xml:id="commentID2170_3">nach Dännemark<note corresp="#commentID2170_3">Eine Reise nach Dänemark im Jahr 1807 ist nicht bekannt.</note></div>.<lbr type="forced"/>
+<pg n="2"/>
+Die <div type="commentary" xml:id="commentID2170_4">Schloßerin<note corresp="#commentID2170_4">Vielleicht die Ehefrau des Apothekers Wenzel Schlosser, der seit 
+1802 die Apotheke „Zum heiligen Geist“ in Wien leitete.</note></div> sagte mir zuerst von deiner Heurath, welches ich<lbr/>
+nicht gleich glauben wollte. Unser Freund <persName key="84726"><rend class="latin">Capp</rend></persName> gab mir zuerst nähere<lbr/>
+Nachricht von dir, wofür ich ihm sehr verbunden bin. Was meine<lbr/>
+Liebe zu dir betrifft, bin ich noch immer der alte, nur daß ich<lbr/>
+mehr Festigkeit besitze. [verzeihe diese kleine Eigenliebe:] Lebe<lbr/>
+wohl und schreibe bald deinem treuen Freund<lbr type="forced"/>
+den 6tn December<lbr type="forced"/>
+1806.<lbr type="forced"/>
+<ts>____________________________________________________</ts><tspdf>\hfill </tspdf><persName key="39407">Wolfgang. Mozart.</persName><lbr type="forced"/>
+<ts>____</ts><rend class="latin">P.S.</rend><lbr type="forced"/>
+vermöge unseres Vertrages sag ich Du zu dir. <persName key="56948">Neukom</persName><lbr/>
+ist <div type="commentary" xml:id="commentID2170_5">in Rußland<note corresp="#commentID2170_5">Sigismund von Neukomm hatte Franz Xaver Wolfgang Mozart in Komposition unterrichtet. 
+Er war 1804 als Kapellmeister des Deutschen Theaters nach St. Petersburg gegangen.</note></div> sehr zu frieden. Ich habe 1805 eine grosse<lbr/>
+<div type="commentary" xml:id="commentID2170_6">musikalische <rend class="latin">Acad</rend>emie<note corresp="#commentID2170_6">Das Konzert, Franz Xaver Wolfgang Mozarts erster öffentlicher Auftritt als Pianist und Komponist, 
+fand am 8. April 1805 im Theater an der Wien statt. F. X. W. Mozart spielte eigene Klaviervariationen 
+über das Menuett im ersten Finale aus Don Giovanni op. 2, WV VII:2, 
+sowie ein Klavierkonzert seines Vaters. Außerdem wurde die von F. X. W. Mozart anlässlich 
+des Geburtstages von Joseph Haydn komponierte Kantate für drei Solostimmen und Orchester WV I:2 aufgeführt.</note></div> mit großem Beyfall gegeben. Ich<lbr/>
+studiere noch immer, und mache öffendlich <div type="commentary" xml:id="commentID2170_7"><rend class="latin">Examen</rend><note corresp="#commentID2170_7">Franz Xaver Wolfgang Mozart besuchte das Gymnasium St. Anna in Wien.</note></div>. Itzt<lbr/>
+bin ich in der <rend class="latin">Poesie</rend>.  Verzeihe meiner schlechten<lbr/>
+Schrift allein ich eile. Ich habe Ursache auf <persName key="84712"><rend class="latin">Maus</rend></persName><lbr/>
+ungehalten zu seyn. Grüsse ja recht oft deine <persName key="84727">Frau</persName>, und<lbr/>
+sage, daß ich mich gute errinre, wie oft mein Freystunden<lbr/>
+bey ihr herrlich zu gebracht. Lebt vielleicht etwas kleines<lbr/>
+so küß es statt mir. deine Abreise kam mir uner<pc force="weak">-</pc><lbr/>wartet.
+</NI></text>
+</MUP>

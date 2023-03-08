@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="4383">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-06</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=4383</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sae</bibl>
+                <bibl type="source" subtype="long">A-Sae: Archiv der Erzdiözese Salzburg. Salzburg (AUT)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-05-11">last file update: <date>Wed May 11 14:48:35 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="ID_4383.mup">
+<HEADER id="4383">FRANZ XAVER WOLFGANG MOZART AN FRANZ VON GLÖGGL IN WIEN<lbr/>
+WIEN, 16. AUGUST 1841<lbr/>
+Abschrift von Matthias Seis</HEADER>
+<NI src="A-Sae">
+<pg n="1"/>
+[Abschrift des Schreibens<lbr/>
+des Herrn v. <persName key="39407"><rend class="latin">Mozart</rend></persName> an H<abbr type="curve"></abbr>&#160;<persName key="84771">v. Glöggl</persName>.]<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>________</ts><tspdf>\hfill </tspdf>Millotitz d<abbr type="curve"></abbr> 16. August<lbr type="forced"/>
+<ts>________________________________</ts><tspdf>\hfill </tspdf><abbr type="topline" expand="1841">841</abbr>.<lbr type="forced"/>
+<ts>_____</ts>Geehrter <persName key="84771">Freund</persName>!<lbr type="forced"/>
+<lbr type="forced"/>
+Mit Vergnügen habe ich<lbr/>
+Ihren Wunsch erfüllt, wie<lbr/>
+Sie aus den Beilagen sehen<lbr/>
+werden, und wünsche den be<pc force="weak">=</pc><lbr/>sten Erfolg.<lbr type="forced"/>
+Ich komme am 30<h><u>ten</u></h> spätestens<lbr/>
+31<h><u>ten</u></h>&#160;<div type="commentary" xml:id="commentID4348_1">nach Wien<note corresp="#commentID4348_1">Franz Xaver Wolfgang Mozart hatte aus gesundheitlichen Gründen einige Zeit 
+auf einem Gut des Grafen Johann Franz von Hardegg (1799–1854) bei Milotice (Mähren) verbracht.</note></div>, haben Sie<lbr/>
+daher die Güte zu veranstal<pc force="weak">=</pc><lbr/>ten, daß <persName key="84778">Herr <rend class="latin">Seis</rend></persName> am 1<h><u>ten</u></h><lbr/> 
+<pg n="2"/>
+September in der Frühe zwischen<lbr/>
+8–9 Uhr <div type="commentary" xml:id="commentID4348_2">mit seiner Violi<pc force="weak">=</pc><lbr/>ne zu mir ko<abbr type="topline" expand="mm">m</abbr>t<note corresp="#commentID4348_2">Franz Xaver Wolfgang Mozart unterstützte den neugegründeten 
+<i>Dommusikverein und Mozarteum</i> bei der Suche nach Musikern und Lehrern.</note></div>, damit ich<lbr/>
+sagen kann, daß ich ihn ge<pc force="weak">=</pc><lbr/>hört habe, und wie ich über<pc force="weak">=</pc><lbr/>zeugt bin, nur zu seinem<lbr/>
+Vortheile seyn kann.<lbr type="forced"/>
+Aber gewiß am 1<h><u>ten</u></h> Septb.<lbr/>
+<emend value="denn">den</emend> am 2<h><u>ten</u></h> gehe ich schon<lbr/>
+nach Salzburg.<lbr type="forced"/>
+Den freundlichsten Gruß<lbr/>
+von Ihren ergebenen<lbr type="forced"/>
+<ts>__________</ts><tspdf>\hfill </tspdf><persName key="39407"><rend class="latin">Mozart</rend></persName>&#160;<abbr expand="manu propria">mp</abbr>.<lbr type="forced"/>
+<pg n="3"/>
+<vacat/>
+<pg n="4"/>
+<vacat/>
+</NI>
+</text>
+</MUP>

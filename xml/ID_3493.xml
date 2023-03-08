@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="3493">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-06</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=3493</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">D-B</bibl>
+                <bibl type="source" subtype="long">D-B: Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Musikabteilung mit Mendelssohn-Archiv. Berlin (DEU)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-05-11">last file update: <date>Wed May 11 14:48:35 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="ID_3493.mup">
+<HEADER id="3493">JOHANN PETER LYSER AN FRANZ XAVER WOLFGANG MOZART<lbr/>
+[DRESDEN,] 30. JUNI 1835</HEADER>
+<NI src="D-B">
+<pg n="1"/>
+<ts>______________________</ts>Theurer <persName key="39407">Mozart</persName><lbr type="forced"/>
+<lbr type="forced"/>
+Unser gestriges <div type="commentary" xml:id="commentID3493_1">Beisa<abbr type="topline" expand="mm">m</abbr>ensein<note corresp="#commentID3491_1">Franz Xaver Wolfgang Mozart befand sich von Juni bis September 1835 auf Reisen mit folgenden Stationen:
+Karlsbad, Leipzig, Dresden, Karlsbad, Salzburg und Wien. In Leipzig war er am 22. Juni zu Gast bei Clara Schumann.</note></div> hatte mich so freudig ergriffen daß ich Ihnen<lbr/>
+nicht die Hälfte von allen dem sagen ko<abbr type="topline" expand="nn">n</abbr>te was ich auf dem Herzen<lbr/>
+hatte, das war aber recht gut für Sie de<abbr type="topline" expand="nn">n</abbr> sonst hätt’ ich tausend und<lbr/>
+aber tausend Fragen an Sie gethan.<lbr type="forced"/>
+Ich hab’ Ihnen versprochen, Einiges von meinen Arbeiten mitzutheilen<lbr/>
+so sehr ich aber nachgesucht habe fand ich nichts vorräthig, meine<lbr/>
+Arbeiten gehen schnell fort we<abbr type="topline" expand="nn">n</abbr> ich etwas <u>vollende</u>, es fält aber<lbr/>
+eben schwerer eh ichs bis zum Schreiben oder Zeichnen bringe,<lbr/>
+da ich weiß was mir fehlt um etwas Tüchtiges zu liefern.<lbr/>
+Indeß Wort muß ich Ihnen halten, und so send ich Ihnen<lbr/>
+einige von meinen Liedern und eine kleine Scizze.<lbr/>
+Sie werden auf dem ersten Blick sehen, daß die Scizze aus<lbr/>
+<persName key="39409">Vater Mozarts</persName> Meisterwerk entlehnt ist, indeß hier ist das<lbr/>
+Ganze auf einen Spaß abgesehn, sie war nemlich zum<lbr/>
+Umschlag für den <div type="commentary" xml:id="commentID3493_2">2<h><uu>ten</uu></h> Jahrgang meines musikalischen Taschen<pc force="weak">=</pc><lbr/>buchs<note corresp="#commentID3493_2">Von dem musikalischen Taschenbuch <i>Cäcilia</i> ist nur der erste Jahrgang (1833) erschienen.</note></div> besti<abbr type="topline" expand="mm">m</abbr>t; <rend class="latin">Don Giova<abbr type="topline" expand="nn">n</abbr>i</rend> repräsentiert hier den<lbr/>
+frivollen Kunstgeschmack der  neu’sten Zeit, Leporello<lbr/>
+die Künstler, die zwar nicht ohne Gewissen sind, aber<lbr/>
+<lbr/>
+<add_seal type="owner">Ex<lbr/>
+Bibl. Regia<lbr/>
+Berolin</add_seal>
+<pg n="2"/>
+de<abbr type="topline" expand="nn">n</abbr>och, des Geldes wegen, dem Wüstling dienstbar<lbr/>
+bleiben, Umsonst bemüht sich die wahre Kunst (Elvira)<lbr/>
+den Ruchlosen zu bessern, er spottet ihrer und wird<lbr/>
+endlich wies recht und billig ist vom Teufel geholt.<lbr type="forced"/>
+&#8211; Ich weiß nicht ob Sie meine <div type="commentary" xml:id="commentID3493_3"><rend class="latin">Cäcilie</rend><note corresp="#commentID3493_3"><i>Cäcilia. Ein Taschenbuch für Freunde der Tonkunst</i>, Erster Jahrgang. 
+(Mit acht Zeichnungen und vier Musikbeilagen.), Hamburg 1833.</note></div> ke<abbr type="topline" expand="nn">n</abbr>en, jedenfals<lbr/>
+werde ich Sie Ihnen durch Buchhändlergelegenheit senden.<lbr/>
+So wie auch meine <div type="commentary" xml:id="commentID3493_4">Kunstnovellen<note corresp="#commentID3493_4">[Johann Peter Lyser,] <i>Kunstnovellen</i>, Leipzig 1835.</note></div>, Sie werden draus<lbr/>
+ersehen, daß ich Ihren großen <persName key="39409">Vater</persName> und die andern<lbr/>
+claßischen Meister verstanden habe.<lbr type="forced"/>
+Nun leben Sie wohl und vergnügt, und grüßen<lbr/>
+Sie die gute <persName key="48818">Mutter</persName> tausendmal, So Gott will sehen<lbr/>
+wir uns noch einmal recht froh wieder! Halten Sie sich<lbr/>
+nur wacker und sein Sie nicht melancholisch! Die Kunst<lbr/>
+muß uns trösten für alles was das Leben uns versagt<lbr/>
+und sie thuts we<abbr type="topline" expand="nn">n</abbr> wirs nur recht treu mit ihr<lbr/>
+meinen, Nochmals <rend class="latin">Valé</rend><lbr type="forced"/>
+<ts>__________________________________</ts><tspdf>\hfill </tspdf>Ihr<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_________________________</ts><tspdf>\hfill </tspdf><div type="commentary" xml:id="commentID3493_5"><persName key="64619"><rend class="latin">Burmeister=L&#255;ser</rend></persName><note corresp="#commentID3493_5">Die Unterstreichung mit roter Tinte stammt vom Autographensammler 
+Aloys Fuchs (1799–1853), der mit Franz Xaver Wolfgang Mozart bekannt war und den Brief besessen hat.</note></div>.<lbr type="forced"/>
+v: H: den 30 Jun&#255;<lbr type="forced"/>
+<ts>________</ts><tshtm>_______</tshtm>1835.
+<pg n="3"/>
+<vacat/>
+<pg n="4"/>
+<vacat/>
+</NI>                                                                 </text>
+</MUP>

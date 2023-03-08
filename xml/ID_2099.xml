@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="2099">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-05</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=2099</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">D-B</bibl>
+                <bibl type="source" subtype="long">D-B: Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Musikabteilung mit Mendelssohn-Archiv. Berlin (DEU)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-05-13">last file update: <date>Fri May 13 15:18:10 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="ID_2099.mup">
+<HEADER id="2099">FRANZ XAVER WOLFGANG MOZART AN WILHELM GOMBART IN AUGSBURG<lbr/>
+MÜNCHEN, 12. MÄRZ 1821</HEADER>
+<NI src="D-B">
+<pg n="1"/>
+<ts>__________________________________________</ts><tspdf>\hfill </tspdf>[... (Textverlust, Datierung)]<lbr type="forced"/>
+<lbr type="forced"/>
+Ihr <div type="commentary" xml:id="commentID2099_1">geehrtes vom 9<h><uu>t</uu></h> dieses<note corresp="#commentID2099_1">Brief vom 9. März 1821 nicht erhalten.</note></div> habe ich gestern erhalten, <u>u</u> ich ver<pc force="weak">=</pc><lbr/>säume keinen Augenblick, Ihnen darauf zu erwiedern, <abbr expand="daß">dß</abbr> ich Ihnen,<lbr/>
+und den H<abbr type="curve"></abbr> Direktoren der Liebhaberkonzerte, für alles, was Sie<lbr/>
+für mich schon gethan haben, <u>u</u> wie ich mir schmeichle, noch thun wer<pc force="weak">=</pc><lbr/>den, recht sehr dankbar bin. Ich halte es ganz meinem Vortheile<lbr/>
+gemäß, Ihrem Rathe zu folgen, <u>u</u> wähle daher, den 21<h><uu>t</uu></h> März zum <div type="commentary" xml:id="commentID2099_2"><rend class="latin">Con<pc force="weak">=</pc><lbr/>certe</rend><note corresp="#comment2099_2">Das Konzert in Augsburg fand laut Anzeige vom 21. März 1821 in der <i>Augsburger politischen Abendzeitung</i>, S. 282, 
+im Fürstlich Fuggerschen Saal (Badstuben im Fuggerstadtpalast am Zeugplatz) statt. 
+Siehe Franz Xaver Wolfgang Mozart, Reisetagebuch 1819–1821, hrsg. und komm. von Rudolph Angermüller, 
+Bad Honnef 1994, S. 308–309, Anm. 5.</note></div>. Rücksichtlich der Ausfüllung, erlaube ich mir nur zu bemerken,<lbr/>
+<abbr expand="daß">dß</abbr> ich, in so weit es thunlich ist, <rend class="latin">Compositionen</rend> meines <persName key="39409">Vaters</persName> auf zu<lbr/>
+führen wünsche, wie es beynahe in allen meinen <div type="commentary" xml:id="commentID2099_3">bisherigen <rend class="latin">Concerten</rend><note corresp="#commentID2099_3">Franz Xaver Wolfgang Mozart befand sich seit Mai 1819 auf einer Konzertreise durch Europa.</note></div><lbr/>
+der Fall war. Doch will ich diese Bedingung nur für die <rend class="latin">Ouverturen</rend><lbr/>
+gemacht haben, de<abbr type="topline" expand="nn">n</abbr> ich bin weit entfernt, die <rend class="latin">P. T.</rend> Damen oder Herren,<lbr/>
+die mich zu unterstützen die Gefälligkeit haben wollen, in der Wahl<lbr/>
+ihrer vorzutragenden Stücke zu <rend class="latin">geniren</rend>. &#8211; Ich spiele ein <workName key="11557"><rend class="latin">Concert</rend></workName>, <u>u</u><lbr/>
+in der zweyten Abtheilung <workName key="11707"><rend class="latin">Variationen</rend> über ein rußisches Thema</workName>,<lbr/>
+beydes von meiner <rend class="latin">Composition</rend>. &#8211; Erhalte ich bis So<abbr type="topline" expand="nn">n</abbr>abend Morgen,<lbr/>
+| den 17<h><uu>t</uu></h> | keine Gegenorder von Ihnen, so reise ich <div type="commentary" xml:id="commentID2099_4">So<abbr type="topline" expand="nn">n</abbr>tag von hier ab<note corresp="#commentID2099_4">Franz Xaver Wolfgang Mozart reiste am 18. März 1821 von München nach Augsburg.</note></div>.<lbr/>
+Dieß ist alles, was ich Ihnen zu melden habe, <u>u</u> ich schließe mit<lbr/>
+der Versicherung meiner vorzüglichen Hochachtung.<lbr type="forced"/>
+<ts>_____________________________</ts><tshtm>____________________________</tshtm><tspdf>\hfill </tspdf><persName key="39407"><rend class="latin">W A Mozart</rend></persName>&#160;<abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<add_seal type="owner">DEUTSCHE<lbr/>
+STAATS<pc force="weak">-</pc><lbr/>BIBLIOTHEK<lbr/>
+BERLIN</add_seal>
+<pg n="2"/>
+<add_seal type="owner">DEUTSCHE<lbr/>
+STAATS<pc force="weak">-</pc><lbr/>BIBLIOTHEK<lbr/>
+BERLIN</add_seal>
+<pg n="3"/>
+<vacat/>
+<pg n="4"/>
+<anschrift rot="270">S<h>r</h> Wohlgebohren<lbr type="forced"/>
+Herrn Herrn <rend class="latin">Wilhelm<lbr type="forced"/>
+<u>Gombart</u></rend><lbr type="forced"/>
+Add. <rend class="latin">Gombart et Comp<abbr type="curve"></abbr></rend><lbr type="forced"/>
+in<lbr type="forced"/>
+<u><rend class="latin">Augsburg</rend></u><lbr type="forced"/>
+<u>Freÿ</u></anschrift>
+<lbr/>
+<add_empf rot="180">1821<lbr/>
+<rend class="latin">W. A. Mozart</rend><lbr/>
+<rend class="latin">München</rend>&#160;<rend class="latin">d:</rend> 12<u>ten</u>&#160;<rend class="latin">Maez</rend>.<lbr/>
+empf 13 d<h><uu>o</uu></h></add_empf>
+</NI>
+</text>
+</MUP>

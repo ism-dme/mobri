@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="2172">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-06</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=2172</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Wgm</bibl>
+                <bibl type="source" subtype="long">A-Wgm: Gesellschaft der Musikfreunde in Wien</bibl>
+                <bibl type="source" subtype="long">Bibliothek und Archiv. Wien (AUT)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-06-07">last file update: <date>Tue Jun  7 16:22:05 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="ID_2172.mup">
+<HEADER id="2172">ANTONIO SALIERI, ZEUGNIS FÜR FRANZ XAVER WOLFGANG MOZART<lbr/>
+WIEN, 30. MÄRZ 1807</HEADER>
+<pg n="1"/>
+<ts>_____</ts>Io qui sottoscritto faccio fede che il giovine Signor<lbr/>
+<persName key="39407">Wolfgango Amadio Mozart</persName>, già bravo sounator di Piano<pc force="weak">=</pc><lbr/>forte, ha un talento raro per la musica; che per per<pc force="weak">=</pc><lbr/>fezionarsi in quest’arte, di cui egli fa professione, dopo aver<lbr/>
+studiato le regole del Contrappunto <div type="commentary" xml:id="commentID2172_1">sotto la scuola del Signor<lbr/>
+<persName key="48982">Albrechtsberger</persName><note corresp="#commentID2172_1">Vermutlich handelte es sich bei dem Kontrapunkt-Unterricht 
+um einen Kurs von einigen Monaten im Jahr 1806. Albrechtsberger 
+trug sich mit einem Kanon „Nei giorni tuoi felici“
+in das Jugendstammbuch von Franz Xaver Wolfgang Mozart ein (A-Sm, DocVar 1, S. 238.</note></div> Maestro di Cappella di S. Stefano, ora pra<pc force="weak">=</pc><lbr/>tico <div type="commentary " xml:id="commentID2172_2">sotto di me<note corresp="#commentID2172_2" >Wahrscheinlich nahm Franz Xaver Wolfgang Mozart bei Salieri
+nur drei Monate Unterricht, vermutlich in Kontrapunkt und Deklamation.</note></div>, e che ne prognostico una riuscita non infe<pc force="weak">=</pc><lbr/>riore a quella del suo celebre <persName key="39409">Padre</persName>.<lbr type="forced"/>
+<ts>__________________________________________________</ts><tspdf>\hfill </tspdf><persName key="38971">Antonio Salieri</persName><lbr type="forced"/>
+<ts>___</ts>Vie<abbr type="topline" expand="nn">n</abbr>a<ts>__________________________________</ts><tspdf>\hfill </tspdf>primo Maestro di Cappella<lbr type="forced"/>
+30 Marzo 1807.<ts>_____________________</ts><tspdf>\hfill </tspdf>della Corte Imperiale di Vie<abbr type="topline" expand="nn">n</abbr>a<lbr/>
+<lbr/>
+<add_seal type="tax">SECHS KREUTZER</add_seal>
+<pg n="2"/>
+<vacat/>
+<pg n="3"/>
+<vacat/>
+<pg n="4"/>
+<vacat/>
+</text>
+</MUP>

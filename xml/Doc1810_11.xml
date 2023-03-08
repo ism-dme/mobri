@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="60">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2009">2009-08-20</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=60</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+                <bibl type="source" subtype="long">A-Sm: Internationale Stiftung Mozarteum, Bibliotheca Mozartiana. Salzburg (AUT)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-05-11">last file update: <date>Wed May 11 14:48:22 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="Doc1810_11.mup">
+<HEADER id="60">CONSTANZE NISSEN AN CARL THOMAS MOZART IN MAILAND<lbr/>
+KOPENHAGEN, 20. DEZEMBER 1810<lbr/>
+mit Nachschrift von Georg Nikolaus Nissen</HEADER>
+
+<pg n="1"/>
+<add_num impl="ink"><rend class="latin">N<h><uu>o</uu></h></rend> 30</add_num>
+Mein Lieber <rend class="latin">Karl</rend>!<ts>____________________</ts><tspdf>\hfill </tspdf><rend class="latin">Kopenhagen</rend> am <suppl hand="diff" schr="GNN" pos="supra">20. December</suppl> 1810<lbr type="forced"/>
+<lbr type="forced"/>
+Ich eille dir die Freude zu Berichten, die ich hatte, als ich die Ehre gehabt<lbr/>
+habe, Bey der Gräfin Schi<abbr type="topline" expand="mm">m</abbr>elman, Frau des staats Ministers und schwester<lbr/>
+des <rend class="latin">Baron Schubarts</rend> und gewiß deines großen göners zu sein, die<lbr/>
+mir sagte: das ihr Bruder |: Nemlich <rend class="latin">B: Schubart</rend> :| dies ko<abbr type="topline" expand="mm">m</abbr>ente<lbr/>
+fruhjahr hiher komen will, und daß er den <rend class="latin">König</rend> deswegen schon<lbr/>
+gebethen habe. So gleich entstand die <rend class="latin">idée</rend> bey mir, ob du nicht<lbr/>
+vieleicht mit ihm komen köntest? und ich glaube nach allem dem<lbr/>
+was ich von ihm, und seiner anhänglichkeit zu dir hörte, daß es dich<lbr/>
+nicht viele Mühe kosten soll, ihn dazu zu überreden; &#8211; Ich glaube<lbr/>
+daß wen du ihm einen recht herzlichen Brief schreibst, worin<lbr/>
+du ihm sagst: daß wir so sehr wünschen uns nach so langen jahren<lbr/>
+wieder einmahl zu sehen, daß er es dir nicht abschlagen wird<lbr/>
+dein <rend class="latin">König</rend> wird dir gewiß auch erlaubtniß geben, wen er die<lbr/>
+gelegenheit und die ursache davon erfahrt. &#8211; <rend class="latin">B: Schubarts</rend> Frau<lbr/>
+kömt nicht mit, um so mehr hoffe ich und da er ohne hin wieder<lbr/>
+zuricke gehet, so könntest du auch wieder mit ihm. &#8211; Gott gebe<lbr/>
+daß mein plan ausgeführ wird, sonst <suppl hand="self" pos="supra">gebe</suppl> ich auf dich in<lbr/>
+diesem leben mehr zu sehen. so wie man sagt bring er<lbr/>
+den Sohn des Berühmten <rend class="latin">Zo&#235;ga</rend> aus <rend class="latin">Rom</rend> mit, allein dies<lbr/>
+hindert nicht, daß du nicht auch mit komen kanst, und wer<lbr/>
+weiß, ob es ihm nicht angenehm ist, die Söhne zwey be<suppl hand="#DME"><pc force="strong">-</pc></suppl><lbr/>rühmter Männer mit zu Bringen, und were es nicht <rend class="latin">B: S:</rend><lbr/>
+den ich mich nicht getrauen darf etwas zu den reiße<lbr/>
+Kösten bey zu tragen, so wolte ich es gerne thuen. allein so<lbr/>
+kann ich nicht &#8211; überleche alles, und versäume keine<lbr/>
+<pg n="2"/>
+Zeit so geschwind wie möchlich an Baron <rend class="latin">Schubart</rend> zu schreiben<lbr/>
+und mir ausführlich darüber Nachricht mit zu theilen<lbr/>
+&#8211; Nun wirst du meinen Brief vom<ts>_____</ts>auch schon haben<lbr/>
+worinen du erfahren wirst, daß es mir hier recht gut<lbr/>
+gehet, und daß mir das <rend class="latin">Clima</rend> recht gut bekomt.<lbr/>
+und daß ich noch nicht weiß was aus dir geworden ist<lbr/>
+ist <emend value="Lichtenthal"><rend class="latin">Lichenthal</rend></emend> noch bey dir, was macht er? spricht er<lbr/>
+recht viel dumes zeich? &#8211; mit Nächstem wirst du von<lbr/>
+einem <emend value="Dänen">Dänem</emend> einen Besuch bekomen der dir Briefe<lbr/>
+von mir mit Bringen wird, und ein ardiger und<lbr/>
+<emend value="geschickter">geschicker</emend> junger Mann ist. &#8211; hast du lange keine Nachricht von<lbr/>
+deinem Bruder? &#8211; was macht dein <rend class="latin">Piano</rend>forte? führt es sich<lbr/>
+noch i<abbr type="topline" expand="mm">m</abbr>er recht gut auf? ich glaube dies schon geschrieben zu<lbr/>
+haben, daß mir mein Man, von <rend class="latin"><u>Stein</u></rend> aus wien eins komen läßt<lbr/>
+Soltest du so glücklich seyn und meinen plan in ausführung<lbr/>
+bringen, mich zu besuchen, so kanst du mir wohl etwas<lbr/>
+Schönes auf ein Kleit welches aber nicht gar zu theüer kömt<lbr/>
+mit bringen, den da ich ietz bey hofe erscheinen muß<lbr/>
+so kan ich es wohl braugen, allein es muß elegant und<lbr/>
+nicht theüer seyn, auch kanst du mir vieleich den gewißen<lbr/>
+stroh Hut mit bringen, solte es dich aber vieleicht wegen<lbr/>
+der Mauth irgend wo in verlegenheit bringen <suppl hand="self" pos="supra">könen</suppl>, so laße<lbr/>
+alles nur <u>Dich</u> nicht weg, und nun lebe wohl und liebe<lbr/>
+mich und laße mir die Hoffnung dich dieses frujahr schon<lbr/>
+küßen und an mein Herz trücken zu können so machst du glücklich<lbr/>
+<pg n="3"/>
+deine dich zährlich liebende Mutter <rend class="latin">Constance Nissen</rend>.<lbr type="forced"/>
+<rend class="latin"><u>Hansen</u></rend>, <u><rend class="latin">Hor</rend>neman</u>. <u>Münster</u> und alle die dich kennen laßen<lbr/>
+dich vielmahl grüßen. dein guter vater aber, wünscht mit uns<lbr/>
+und wen er etwas dazu beytragen kan wird er es gewiß<lbr/>
+auch thuen. &#8211; ist <rend class="latin">jageman</rend> wieder nach wien? &#8211; ist <rend class="latin">Signor<lbr/>
+Veluti</rend> wieder in <rend class="latin">jtalien</rend>? hast du ihn seit her gesehen? er ist ein<lbr/>
+liebens würdiger junger Ma<abbr type="topline" expand="nn">n</abbr> und ein großer Künstler, schade<lbr/>
+daß ich ihn nicht eher kenen lernte. &#8211; noch mahl lebe wohl<lbr/>
+und schreibe mir bald.<lbr/>
+<NS schr="GNN"><postxt loc="loc" rot="180"><tshtm>________________________________________</tshtm>Sie können den B. <rend class="latin">Schubart</rend> unsern<lbr/>
+<tshtm>________________________________________</tshtm>beßten Respect vermelden.</postxt></NS>
+<NS schr="GNN">Mein lieber Carl,<lbr type="forced"/>
+wenn das Glück so wohl will, daß Sie kommen<lbr/>
+können, und Sie etwas für Ihre liebe gute<lbr/>
+Mutter mitnehmen, so rathe ich, es allent<pc force="weak">-</pc><lbr/>halben auf der Mauth anzugeben, theils<lbr/>
+um nicht wieder Regentenbefehle zu handeln,<lbr/>
+theils auch um die glückliche Ueberbringung<lbr/>
+zu sichern. die eigentliche Mauth wird,<lbr/>
+dünkt mich, nur bey dem Eintritt in<lbr/>
+Dänemark bezahlt: in den Ländern, durch<lbr/>
+welche Sie reisen, wird nur eine kleine<lbr/>
+<rend class="latin">Transito</rend>-abgabe seyn. <rend class="latin">Transito</rend>-Sachen<lbr/>
+werden gewöhnlich an den Gränzen plombirt, damit sie nicht <rend class="latin">abusivement</rend> im Lande bleiben.<lbr/>
+Unsere Briefe sind vom 29. Sept., 13. Nov. und 28. Nov. gewesen: von<lbr/>
+letzterem ist ein Herr <rend class="latin">Malling</rend>, Architekt, Ueberbringer, der sehr<lbr/>
+empfehlenswerth ist. Leben Sie recht wohl! Ihr Vater Nißen</NS>
+<pg n="4"/>
+<anschrift schr="GNN" rot="270"><rend class="latin">A Monsieur<lbr type="forced"/>
+Monsieur Mozart.<lbr type="forced"/>
+<u>Italie.</u><ts>__________</ts>Milan.</rend>&#160;</anschrift><lbr type="forced"/>
+
+<add_seal type="post" rot="270">R 4 HAMBOURG</add_seal><lbr type="forced"/>
+<add_seal type="post" rot="90">MIL<h>O</h>.GEN<lbr type="forced"/>7</add_seal><lbr type="forced"/>
+<add_ident rot="90" impl="pencil">1810</add_ident></text>
+</MUP>

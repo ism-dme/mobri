@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="2354">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-06</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=2354</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">I-Rsc</bibl>
+                <bibl type="source" subtype="long">I-Rsc: Conservatorio di Santa Cecilia</bibl>
+                <bibl type="source" subtype="long">Biblioteca Musicale Governativa. Rom (ITA: Roma)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-06-03">last file update: <date>Fri Jun  3 16:06:04 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="ID_2354.mup">
+<HEADER id="2354">FRANZ XAVER WOLFGANG MOZART AN DIE CONGREGAZIONE ED ACCADEMIA DI SANTA CECILIA 
+IN ROM<lbr/>
+WIEN, 22. JULI 1843</HEADER>
+<NI src="I-Rsc">
+<pg n="1"/>
+<ts>_____</ts><rend class="latin">Egregio</rend>&#160;<persName key="84754"><rend class="latin">Signore</rend></persName><lbr type="forced"/>
+<lbr type="forced"/>
+<rend class="latin">Accolga benignamente, ne La prego, le mie scuse, per non<lbr/>
+aver prima d’ora doverosamente risposto, alla pregiata Sua<lbr/>
+<div type="commentary" xml:id="commentID2354_1">lettera del 12 Gennajo pp.<note corresp="#commentID2354_1">Brief nicht erhalten.</note></div> doppiamente gradita, poi che con essa si<lbr/>
+compiacque di participarmi la mia nomina a Maestro Com<pc force="weak">=</pc><lbr/>positore onorario, dell’inclita Congregazione, ed Accademia<lbr/>
+di S. Cecilia. &#8211; Avendo ricevuto in pari tempo il relativo<lbr/>
+<div type="commentary" xml:id="commentID2354_2">Diploma<note corresp="#commentID2354_2">Das originale Diplom über die Ernennung zum Ehrenmitglied der 
+<i>Congregazione ed Accademia di Santa Cecilia</i> in Rom ist nicht erhalten. 
+Eine Abschrift siehe unter 10. Dezember 1842.</note></div>, voglia La supplico, far aggradire al Consiglio<lbr/>
+dirigente la Congregazione, i miei piu vivi ringraziamenti<lbr/>
+per l’insigne onore compartitomi, e le sincere assicurazioni<lbr/>
+di nulla ommettere per rendermene possibilmente meritevole,<lbr/>
+e contribuire per quanto per me si possa, alla prosperità<lbr/>
+e al lustro dell’Accademia.<lbr type="forced"/>
+Mi onori, dove valgo a servirla, de’ suoi riveriti comandi,<lbr/>
+e mi creda quale rispettosamente mi dico<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>__________</ts>di Lei, Illustre Signore!<lbr type="forced"/>
+<ts>____________________________________________</ts><tspdf>\hfill </tspdf>Devot<h><uu>o</uu></h> obblig<h><uu>mo</uu></h> Servitore</rend><lbr type="forced"/>
+<u><rend class="latin">Vienna il 22 Luglio</rend>&#160;<abbr type="topline" expand="1843">843</abbr>.</u><ts>__________</ts><tspdf>\hfill </tspdf><persName key="39409"><rend class="latin">Amadeo Wolfgango Mozart. figlio</rend></persName><lbr type="forced"/>
+<u>Grünanger Gasse</u> N<h><u>ro</u></h> 850<ts>_______</ts><tspdf>\hfill </tspdf><rend class="latin">Maestro di Capella onorario dell<lbr type="forced"/>
+terzo piano.<ts>__________________________</ts><tspdf>\hfill </tspdf>Mozarteo a Salisburgo.</rend>
+<pg n="2"/>
+<vacat/>
+</NI></text>
+</MUP>

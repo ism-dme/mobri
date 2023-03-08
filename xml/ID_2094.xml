@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="2094">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-05</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=2094</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">D-B</bibl>
+                <bibl type="source" subtype="long">D-B: Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Musikabteilung mit Mendelssohn-Archiv. Berlin (DEU)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-05-11">last file update: <date>Wed May 11 15:37:30 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="ID_2094.mup">
+<HEADER id="2094">FRANZ XAVER WOLFGANG MOZART AN CARL FRIEDRICH PETERS IN LEIPZIG<lbr/>
+WIEN, 20. MAI 1820</HEADER>
+<NI src="D-B">
+<pg n="1"/>
+<add_ident schr_id="0" impl="pencil"><persName key="39409">Mozarts</persName>&#160;<persName key="39407">Sohn</persName></add_ident>
+<ts>_________________________________</ts><tspdf>\hfill </tspdf><u><rend class="latin">Wien</rend> am 15<h><uu>t</uu></h> May 1820</u><lbr type="forced"/>
+<lbr type="forced"/>
+<ts>____________________</ts>Lieber <persName key="77883">Freund</persName>!<lbr type="forced"/>
+<lbr type="forced"/>
+Durch <persName key="79148">H<abbr type="curve"></abbr> Steiner und <rend class="latin">Comp<abbr type="curve"></abbr></rend></persName> erhalten Sie, mein <workName key="11557"><rend class="latin">Concert</rend></workName>,<lbr/>
+was ich erst hier durch ein <div type="commentary" xml:id="commentID2094_1"><rend class="latin">Andante</rend> ergänzt<note corresp="#commentID2094_1">Das Andante zu seinem 2. Klavierkonzert in Es op. 25 WV IV:2 komponierte
+Franz Xaver Wolfgang Mozart laut Eintrag in seinem Reisetagebuch
+am 22. April 1820. Die Sätze 1 und 3 hatte er bereits Ende Oktober 1818 vollendet.</note></div> habe, das hier<lbr/>
+sehr viel <div type="commentary" xml:id="commentID2094_2">Beyfall fand<note corresp="#commentID2094_2">Franz Xaver Wolfgang Mozart spielte das Klavierkonzert in Es op. 25 
+am 2. Mai 1820 in seinem Konzert im Kleinen Redoutensaal der Wiener Hofburg.</note></div>. Die <persName key="56106">Großfürsti<abbr type="topline" expand="nn">n</abbr></persName>  hatt meine<lbr/>
+<div type="commentary" xml:id="commentID2094_3"><rend class="latin">Dedication</rend><note corresp="#commentID2094_3">Die Widmung des 2. Klavierkonzertes op. 25; es erschien Anfang 1821 bei C. F. Peters.</note></div> angeno<abbr type="topline" expand="mm">m</abbr>en, und ich ersuche Sie, sich wegen<lbr/>
+des Titels gefälligst zu erkundigen, und Ihr da<abbr type="topline" expand="nn">n</abbr><lbr/>
+ein auf besonders schönen Papiere abgedrucktes <rend class="latin">Exem<pc force="weak">=</pc><lbr/>plar</rend> zu überschicken. Nebstbey finden Sie auch das <rend class="latin">Rondo</rend>,<lbr/>
+aus demselben <workName key="11557"><rend class="latin">Concerte</rend></workName>, nach Ihrem Wunsche, <div type="commentary" xml:id="commentID2094_4">fürs <rend class="latin">Clavier</rend><lbr/>
+allein <rend class="latin">arrangirt</rend><note corresp="#commentID2094_4">Die Bearbeitung des dritten Satzes des 2. Klavierkonzertes op. 25 für Klavier solo erschien als 
+„Rondo pour le Piano=Forte“ o. Op. ebenfalls bei Peters, Plattennummer 1683. </note></div>. Sonst weis ich nichts zu bemerken, als<lbr/>
+<abbr expand="daß">dß</abbr> ich Sie ersuche, <u><rend class="latin">Grand Concert</rend></u> auf den Tittel setzen<lbr/>
+zu lassen. Künftige Woche <div type="commentary" xml:id="commentID2094_5">reise ich über Grätz nach<lbr/>
+Italien<note corresp="#commentID2094_5">Franz Xaver Wolfgang Mozart befand sich seit Mai 1819 auf einer Konzertreise durch Europa. 
+Wegen Passangelegenheiten verzögerte sich die Abreise von Wien bis zum 16. Juni 1820. 
+Am 19. Juni traf er in Graz ein.</note></div>, haben Sie mir etwas zu sagen, so würde mich<lbr/>
+Ihr Brief in Mayland finden kö<abbr type="topline" expand="nn">n</abbr>en. Leben Sie recht<lbr/>
+wohl, und empfehlen Sie mich allen Beka<abbr type="topline" expand="nn">n</abbr>ten. Mit vor<pc force="weak">=</pc><lbr/>züglicher Achtung Ihr<lbr type="forced"/>
+<ts>______________________________________</ts><tspdf>\hfill </tspdf><persName key="39407"><rend class="latin">W A Mozart</rend></persName>&#160;<abbr expand="manu propria">mp</abbr>
+<add_note schr_id="0" impl="pencil"><ts>________________________________________________________________________</ts>Mg. &#8211;</add_note>
+<add_ident type ="inline" schr_id="0" impl="pencil">Mozart W A<ts>_____</ts>Sohn</add_ident><add_note type="inline" schr_id="0" impl="pencil"><ts>__________________________________________</ts><u>Rs Slg.</u></add_note>
+<pg n="2"/>
+<add_empf>Erhalten d<abbr v="en"/> 19<h><u>ten</u></h>&#160;<rend class="latin">Juny</rend><lbr type="forced"/>
+<ts>__________________________</ts>&#38; <rend class="latin">Msc.</rend></add_empf>
+<lbr/>
+<anschrift rot="270"><rend class="latin">Wien<lbr type="forced"/>
+Herrn C: F: Peters<lbr type="forced"/> 
+in<lbr type="forced"/>
+<u>Leipzig.</u><lbr type="forced"/>
+von W. A. Mozart</rend> (Sohn)<lbr type="forced"/>
+durch <rend class="latin">Steiner &#38; Comp.</rend></anschrift>
+<lbr/>
+<add_empf rot="270"><u>1820</u><ts>________</ts><u>Wien</u><lbr type="forced"/>
+<u>15 <rend class="latin">Maj</rend></u><ts>____</ts><rend class="latin">Mozart</rend><lbr type="forced"/>
+<u>19 <rend class="latin">Juny</rend>.</u></add_empf>
+<lbr/>
+<add_seal type="owner">STAATS<pc force="weak">-</pc><lbr/>BIBLIOTHEK<lbr/>
+ZU BERLIN<lbr/>
+PREUSSISCHER<lbr/>
+KULTURBESITZ</add_seal>
+</NI>
+</text>
+</MUP>

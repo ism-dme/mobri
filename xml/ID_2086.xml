@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="2086">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-06</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=2086</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">B-Bc</bibl>
+                <bibl type="source" subtype="long">B-Bc: Conservatoire Royal de Musique</bibl>
+                <bibl type="source" subtype="long">Bibliothèque</bibl>
+                <bibl type="source" subtype="long">Koninklijk Conservatorium</bibl>
+                <bibl type="source" subtype="long">Bibliotheek. Brüssel (BEL: Brussel/Bruxelles)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-05-11">last file update: <date>Wed May 11 14:48:28 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="ID_2086.mup">
+<HEADER id="2086">CONSTANZE NISSEN AN CARL THOMAS MOZART IN MAILAND<lbr/>
+SALZBURG, ZWISCHEN DEM 13. MAI UND 21. JUNI(?) 1826</HEADER>
+<NI src="B-Bc">
+<pg n="1"/>
+um kurz zu sein schicke ich <persName key="48820">dir</persName> den <div type="commentary" xml:id="commentID2086_1">Brief<note corresp="#commentID2086_1">Brief vom 4. Mai 1826.</note></div> deines <persName key="39407">Bruders</persName>, daraus sihest du daß er leider noch<lbr/>
+nicht wie du glaubstes bey mir ist; freülich schrieb ich in meinem <div type="commentary" xml:id="commentID2086_2">ersten Briefe an ihn<note corresp="#commentID2086_2">Brief vom 19. April 1826, nicht erhalten.</note></div>, daß<lbr/>
+meine geschäften, schon durch meinen guten forsichtigen <persName key="57010">gatte</persName> keine hülfe braugen in dem alle<lbr/>
+möglich Briefe und alles was ich zu thuen habe von seiner theüern hand geschrieben, und<lbr/>
+ich folglich sie nur ab und unterschreiben darf. wie du mein lieber <persName key="48820"><rend class="latin">Karl</rend></persName> im <div type="commentary" xml:id="commentID2086_3">grenen<lbr/>
+Buche<note corresp="#commentID2086_3">Nicht erhalten.</note></div> gesehen haben wirst, allein es giebt noch so viele andere geschaften die<lbr/>
+mir meinen lieben <persName key="39407">wowi</persName> höchst nothwendig machen, und ich schreibe eben deswegen<lbr/>
+auch heute schon an ihn, und nehme keinen anstand, ihm zu sagen, daß er alles<lbr/>
+stehen und liegen laßen soll um sich zu mir zu beEillen, um so mehr da es gewiß<lbr/>
+auch zu seinem vortheil sein wird: über dies habe ich ihm auch einen guten<lbr/>
+weg beim <persName key="82873">Erzbischof</persName> gebanth der mir ganz freumüthig sagte, als ich ihn<lbr/>
+Bath meinem <persName key="39407">sohn</persName> eine anstellung als kapellemeister in <rend class="latin">Dom</rend> zu geben, mir<lbr/>
+also ganz freumüthig gesagt: daß er einen solgen man nicht gehörig besolten<lbr/>
+<lbr/>
+<tshtm><additum>[... (Adresse des Briefes von Franx Xaver Wolfgang Mozart an Constanze Nissen, den diese an Carl Thomas weiterleitet.)]</additum></tshtm><lbr/>
+<lbr/>
+könne. worauf ich auch so freumüthig war ihm zu sagen; ob er den nicht dem<lbr/>
+<persName key="84211">keyser</persName> daß vorstellen könnte. worauf er mir wieder sagte ich werde es<lbr/>
+überlegen und thuen was ich ka<abbr type="topline" expand="nn">n</abbr>. &#8211; mir scheint daß diese aussichten mehr<lbr/>
+werth sind als diese in dem mir verhasten <rend class="latin">Lem</rend>berg; &#8211; mein Plan wo ich<lbr/>
+künftig leben werde liegt noch in gottes hand, ich werde mich in seinen heiligen<lbr/>
+willen mit demuth ergeben, und so werde ich mit seynem himlischen Seegen<lbr/>
+doch auch noch glücklich werden. und nun lebe wohl und sey versichert daß ich<lbr/>
+stets sein werde deine danckbare Mutter <rend class="latin">Constance Nissen</rend> gewesene Mozart, so unter<pc force="weak">=</pc><lbr/>schreibe ich überall weil mir diese Nahmen all zu theüer sind und ewig bleiben wer[den.]<lbr type="forced"/>
+<lbr/>
+<postxt pos="rm" rot="270">ich bitte dich also mir imer unter dieser <rend class="latin">adrsse</rend><lbr/>
+und nie mehr an <persName key="77274">H<abbr type="curve"></abbr> von <rend class="latin">Me</rend>tzger</persName> oder sonst an<lbr/>
+jemand zu <rend class="latin">adress</rend>iren unter dieser <rend class="latin">adresse</rend><lbr/>
+laufen alle meine Briefe sicher ein<lbr/>
+auch kennt man mich all zu gut<lbr/>
+auf der post.<lbr type="forced"/>
+deinem <persName key="39407">Bruder</persName> schrieb ich daß er dir<lbr/>
+noch for seiner abreiße von L. schreiben<lbr/>
+soll. und so hoffe ich nichts vergeßen<lbr/>
+zu haben. allein. es thut mir sehr leid<lbr/>
+daß <persName key="49118"><rend class="latin">andré</rend></persName> der so groß müthig<lbr/>
+gegen Euch Verfährt nicht schon lange<lbr/>
+einen ihm <div type="commentary" xml:id="commentID2086_4">gebührigen brief<note corresp="#commentID2086_4">Der Offenbacher Verleger Johann Anton André hatte nach dem Verzicht von Maria Anna von Berchtold zu Sonnenburg 
+den Subskriptionsertrag seiner Requiem-Ausgabe (1826) den Mozart-Söhnen zugute kommen lassen. 
+Franz Xaver Wolfgang Mozart schrieb am 7. Juni 1826 auch im Namen seines 
+Bruders Carl Thomas einen entsprechenden Dankesbrief.</note></div> erhalten hat.</postxt>
+<pg n="2"/>
+adieu Küße <persName key="73808">Mutter</persName> und <persName key="73810">Tochter</persName> für mich.<lbr type="forced"/>
+in zeit von höchstens 3 wochen hoffe ich <persName key="39407">wowi</persName> für<lbr/>
+Euch alle küßen zu können o wie will ich mirs schmecken laßen, werweiß ob<lbr/>
+ich nicht machen ka<abbr type="topline" expand="nn">n</abbr>, daß Ihr alle beim <div type="commentary" xml:id="commentID2086_5">Leichen zuch<note corresp="#commentID2086_5">Ende August 1826 fand anlässlich der Errichtung eines Grabsteins für Georg Nikolaus Nissen 
+auf dem St. Sebastian-Friedhof ein Gedenkgottesdienst in der Kollegien-Kirche statt. 
+Franz Xaver Wolfgang Mozart, der seine Mutter besuchte, leitete dabei das Requiem KV 626 
+von Wolfgang Amadé Mozart. Der Bruder Carl Thomas nahm daran nicht teil.</note></div> der gewiß feyerlich aus<pc force="weak">=</pc><lbr/>fallen wird gegenwärtich seit<lbr/>
+dem guten <persName key="57010">Vater</persName> die letzte Ehre im grabe zu beweisen, daß würde ein trjumpf<lbr/>
+für mich, und ich bin gewiß daß man in zeitungen da von schreiben würde. <symbol value="hash">#</symbol><lbr/>
+<lbr/>
+<tshtm><additum>[... (Brieftext von Franz Xaver Wolfgang Mozart an Constanze Nissen, die den Brief an Carl Thomas weiterleitet.)]</additum></tshtm><lbr/>
+<lbr/>
+mit deinem <persName key="39407">Bruder</persName> wird alles abgemacht werden, und ist er meiner Meinung so<lbr/>
+must auch du dabey sein, so ist das von gott geseegnete Kleeblatt beisamen.<lbr/>
+gott welch schöne zukunft mahle ich mir da, doch sage ich mir so wie in allen dingen<lbr/>
+Herr Dein wille geschehe! &#8211;
+</NI></text>
+</MUP>

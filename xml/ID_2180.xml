@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="2180">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-05</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=2180</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Privatbesitz</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-05-11">last file update: <date>Wed May 11 14:48:29 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="ID_2180.mup">
+<HEADER id="2180">FRANZ XAVER WOLFGANG MOZART AN CARL BERTUCH IN WEIMAR<lbr/>
+PODKAMIEŃ, 8. FEBRUAR 1810</HEADER>
+<NI src="privat">
+<pg n="1"/>
+<ts>___________________________</ts><tshtm>________________________________________</tshtm><tspdf>\hfill </tspdf>Podkamien den 8ten februar 1810<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____</ts>Schätzbarster <persName key="73264">Freund</persName>!<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____</ts>Ich war so glücklich, vor einigen Tagen, Ihren liebenswürdigen <div type="commentary" xml:id="commentID2180_1">Brief<note corresp="#commentID2180_1">Nicht bekannt.</note></div> zu erhalten.
+Es tut mir nur leid, <abbr expand="daß">dß</abbr> ich <div type="commentary" xml:id="commentID2180_2">Ihre Fragen<note corresp="#commentID2180_2">Der Schriftsteller und Verleger Carl Bertuch hatte sich offenbar nach den Umständen 
+des Todes von Joseph Haydn am 31. Mai 1809 in Wien, dessen Begräbnis und nach 
+unbekannten Kompositionen Haydns erkundigt. Dies geht aus einem Schreiben an Carl Bertuch 
+vom 23. Dezember 1809 von Peter von Lichtenthal (BD 1385a) hervor, den Constanze 
+Mozart mit einer Antwort beauftragt hatte.</note></div> nicht selbst habe beantworten können, da dieses aber,
+wie ich hoffe, von meiner <persName key="48818">Mutter</persName>, mit möglichster Genauigkeit geschehen, so schmeichle
+ich mir, daß die Unmöglichkeit Ihnen selbst zu dienen, mir <div type="commentary" xml:id="commentID2180_3">Ihre fernere Freundschaft<note corresp="#commentID2180_3">Carl Bertuch hatte den Winter 1805/06 in Wien zugebracht und war in dieser Zeit auch Gast bei Constanze Mozart. 
+Über seine Begegnung mit dem Mozart-Sohn und einen gemeinsamen Besuch bei Joseph Haydn am 13. Oktober 1805 
+berichtet er in seiner Schrift <i>Bemerkungen auf einer Reise aus Thüringen nach Wien im Winter 1805 bis 1806</i>, Erstes Heft, 
+Weimar 1808, S. 170–171. Bertuch trug sich am 7. Januar 1806 in das Jugend-Stammbuch von Franz Xaver Wolfgang Mozart ein.</note></div> nicht entzogen hat. &#8211; 
+Hat Ihnen <persName key="47576">Herr Griesinger</persName>, dem ich Sie bitte mich vielmahls zu empfehlen,
+nie gesagt, daß ich nicht mehr in meinem lieben Wien bin? schon seit October 1808 bin ich in Gallizien, auf
+dem Lande, welches Land aber freylich, nicht mit den reizenden Umgebungen Wien's zu vergleichen ist.
+Dennoch habe ich mich schon ziemlich an meine neue Lage gewöhnt, und würde vielleicht, den komischen
+(und in der That ziemlich merkbaren) Contrast, zwischen Wien, und einem öden pohlnischen Dorfe, nicht so sehr fühlen,
+wenn ich hier, nicht das Vergnügen, meine Freunde zu sehen, gute Musik zu hören, und sowohl von meiner Kunst,
+als von den schönen Wissenschaften überhaupt handelnden Blätter zu lesen (wie Ihre Geistesproducte)
+gänzlich entbehren müßte. ...<lbr type="forced"/>
+<ts>_____</ts>Ich ersuche Sie, mich bald in meiner Einsamkeit durch Ihre geneigte Zuschrift zu erfreuen,
+und mich stets in ihrem werthen Andenken zu erhalten. Ihr ergebenster Freund und Diener<lbr type="forced"/>
+<ts>______________________________________________</ts><tshtm>____________________________________________________________</tshtm><tspdf>\hfill </tspdf><persName key="39407">W. A. Mozart</persName><lbr type="forced"/>
+Adresse: WM chez Monsieur le Conte<lbr type="forced"/>
+<persName key="73109">Victor Baworowski</persName>, par Leopol, Strzeliska a <u>Podkamien</u><lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____</ts>Die junge dänische Dame, <persName key="85040">Madame Wehstig</persName> die Sie immer, in unseren <div type="commentary" xml:id="commentID2180_5">Abendgesellschaften<note corresp="#commentID2180_5">Constanze Mozart veranstaltete in Wien ab 1800 in ihrer Wohnung am Michaelerplatz wöchentlich einen Musiksalon.</note></div>
+fanden, ist während des <div type="commentary" xml:id="commentID2180_6">Aufenthaltes der feindlichen Truppen in Wien<note corresp="#commentID2180_6">Während des Österreichisch-Französischen Krieges waren am 13. Mai 1809 französische Truppen in Wien einmarschiert. 
+Nach Unterzeichnung des Frieden von Schönbrunn verließen sie die Stadt am 20. November 1809.</note></div>, gestorben.<lbr type="forced"/>
+<ts>_____</ts><persName key="82941">Herr Werner</persName> bitte ich zu grüßen, und zu sagen, er soll sich bald auf einen langen &#8211; langen <div type="commentary" xml:id="commentID2180_7">Brief<note corresp="#commentID2180_7">Nicht bekannt.</note></div>,
+von seinem Freunde <persName key="39407">Mozart</persName> gefaßt machen; auch darf Er mir keine Vorwürfe wegen Faulheit
+machen, denn er hat mir versprochen, zuerst zu schreiben.
+<pg n="2"/>
+<anschrift>
+An Herren Herren <u>Cammer-Rath</u>, Carl <u>Bertuch</u>. <u>Weimar.</u> in <u>Sachsen.</u>
+</anschrift>
+</NI></text>
+</MUP>

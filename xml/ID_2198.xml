@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="2198">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-05</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=2198</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">F-Pn</bibl>
+                <bibl type="source" subtype="long">F-Pn: Bibliothèque nationale de France, Département de la Musique. Paris (FRA)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-05-13">last file update: <date>Fri May 13 15:01:59 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="ID_2198.mup">
+<HEADER id="2198">FRANZ XAVER WOLFGANG MOZART AN CARL FRIEDRICH PETERS IN<tspdf>\newline</tspdf> LEIPZIG<lbr/>
+FRANKFURT AM MAIN, 20. DEZEMBER 1820</HEADER>
+<NI src="F-Pn">
+<pg n="1"/>
+<ts>______________________________________________</ts><tspdf>\hfill </tspdf><u>Frankfurt am 20<h><uu>t</uu></h>&#160;<rend class="latin">Dec:</rend> 1820</u><lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____</ts>Lieber <persName key="77883">Freund</persName>!<lbr type="forced"/>
+<lbr type="forced"/>
+Auch mir war es sehr angenehm, Ihr <div type="commentary" xml:id="commentID2198_1">geehrtes vom 4<h><uu>t</uu></h>&#160;<rend class="latin">nov.</rend><note corresp="#commentID2198_1">Brief nicht erhalten.</note></div> zu erhalten, und<lbr/>
+ich würde es schon früher erwiedert haben; we<abbr type="topline" expand="nn">n</abbr> ich in der letzten Zeit, nicht gar<lbr/>
+zu beschäftigt gewesen wäre. &#8211; Ich habe <div type="commentary" xml:id="commentID2198_2">in <rend class="latin">Basel</rend><note corresp="#commentID2198_2">Franz Xaver Wolfgang Mozart, der sich seit Mai 1819 auf einer Konzertreise 
+durch Europa befand, hielt sich vom 8. bis zum 21. November 1820 in Basel auf.</note></div> auf Ihre Rechnung ein <rend class="latin">Exemplar</rend><lbr/>
+von meiner <workName key="11555"><rend class="latin">Sonate</rend></workName>, <workName key="11556"><rend class="latin">Var</rend></workName> und <workName key="11708"><rend class="latin">Polonaisen</rend></workName> geno<abbr type="topline" expand="mm">m</abbr>en, welche ich Ihnen nächstens<lbr/>
+mit den wenigen, angedeudeten <div type="commentary" xml:id="commentID2198_3">Druckfehlern<note corresp="#commentID2198_3">Die drei genannten Werke waren im Verlag von Peters erschienen.</note></div> zusenden werde. &#8211; Was mein&#160;<lbr/>
+<workName key="11557"><rend class="latin">Concert</rend></workName> betrift, überlasse ich es Ihrer Einsicht, ob Sie es in meinem Nahmen an<lbr/>
+<persName key="39314">Hu<abbr type="topline" expand="mm">m</abbr>el</persName>, mit der Bitte, es der <persName key="56106">Gfürsti<abbr type="topline" expand="nn">n</abbr></persName> zu <div type="commentary " xml:id="commentID3298_4">übereichen<note corresp="#commentID2198_4" >Die Ausgabe des 2. Klavierkonzertes op. 25 ist der Großherzogin Maria Pawlowna
+von Sachsen-Weimar-Eisenach gewidmet.</note></div>, senden wollen, oder<lbr/>
+ob ich deßwegen, an den <persName key="84722">Grafen <rend class="latin">Vietzthum</rend></persName> schreiben soll. Sie werden<lbr/>
+auch am besten wissen, ob es einen schönen Einband haben muß, in welchem<lbr/>
+Falle ich Sie herzlich ersuchen müßte, diesen auf meine Rechnung besorgen<lbr/>
+zu lassen. &#8211; We<abbr type="topline" expand="nn">n</abbr> Sie mir unverzüglich antworten wollen, so ka<abbr type="topline" expand="nn">n</abbr> ich<lbr/>
+hier noch, durch <persName key="84723"><rend class="latin">Ga&#255;l</rend></persName> Ihren Brief erhalten, sonst bitte ich an <persName key="84733">H<abbr type="curve"></abbr>&#160;<rend class="latin">Artaria<lbr/>
+et Fontaine</rend></persName> in Manheim zu <rend class="latin">addressiren</rend>. &#8211; Ich habe hier in der vorigen<lbr/>
+Woche ein recht schönes <div type="commentary" xml:id="commentID2198_5"><rend class="latin">Concert</rend><note corresp="#commentID2198_5">Das Konzert in Frankfurt am Main fand am 15. Dezember 1820 statt. Franz Xaver
+Wolfgang Mozart hielt sich vom 3. Dezember 1820 bis zum 2. Januar 1821 in Frankfurt auf.</note></div> gegeben. &#8211; In Erwartung einer baldigen<lbr/>
+Antwort, zeichne ich mich mit Achtung und Freundschaft Ihr<lbr type="forced"/> 
+<ts>_______________________________</ts><tshtm>______________________________________________________</tshtm><tspdf>\hfill </tspdf><persName key="39407"><rend class="latin">Mozart</rend></persName> mp<lbr type="forced"/>
+<pg n="2"/>
+<anschrift>Herrn Herrn<lbr type="forced"/>
+<rend class="latin">C. F. <u>Peters</u></rend><lbr type="forced"/>
+berühmten Musick-Verleger<lbr type="forced"/>
+in<lbr type="forced"/>
+<u><rend class="latin">Leipzig</rend></u></anschrift>
+<lbr/>
+<add_empf rot="180"><u>1820</u><ts>_______</ts><u>Fft</u><lbr type="forced"/>
+<u>20 <rend class="latin">Decb</rend></u><lbr type="forced"/>                                   
+<u>28 –<ts>___</ts></u><ts>_____</ts><rend class="latin">Mozart</rend><lbr type="forced"/>
+29 –<lbr type="forced"/>
+durch <rend class="latin">Artaria</rend></add_empf>
+</NI></text>
+</MUP>

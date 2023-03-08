@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="2830">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-06</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=2830</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Privatbesitz</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-06-08">last file update: <date>Wed Jun  8 10:45:47 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="ID_2830.mup">
+<HEADER id="2830">FRANZ XAVER NIEMETSCHEK AN ANTON GEORG BRAUNHOFER IN WIEN<lbr/>
+PRAG 17. APRIL 1820<lbr/>
+Empfehlungsschreiben für Franz Xaver Wolfgang Mozart</HEADER>
+<NI src="privat">
+<pg n="1"/>
+<u>An Sr Wohl<abbr type="curve"></abbr> den H. MD. <abbr expand="und">u</abbr> Profess<abbr type="curve"></abbr></u><lbr type="forced"/>
+<persName key="73559"><u>Braunhofer</u></persName>.<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____</ts>Liebster <persName key="73559">Freund</persName><lbr type="forced"/>
+<lbr type="forced"/>
+In der Eile des gestrigen Schreibens<lbr/>
+habe ich vergessen, Ihnen den jüngern<lbr/>
+<persName key="39407"><rend class="latin">Mozart</rend></persName>&#160;<div type="commentary" xml:id="commentID2830_1">anzuempfehlen.<note corresp="#commentID2830_1">Franz Xaver Wolfgang Mozart befand sich seit Mai 1819 auf einer Konzertreise durch Europa. 
+Er hatte Prag am 14. April 1820 verlassen.</note></div> Es ist der kleine,<lbr/>
+Wolfgang. Er hat hier in einem<lbr/>
+<div type="commentary" xml:id="commentID2830_2">Konzerte<note corresp="#commentID2830_2">Das Konzert von Franz Xaver Wolfgang Mozart in Prag hatte
+am 6. April 1820 im Redoutensaal stattgefunden.</note></div> auf dem Fortepiano <u>sehr</u> gefallen.<lbr/>
+So wohl im Spiele, als der Komposition.<lbr/>
+Daß wir ihn sehr lieb gewonnen<lbr/>
+haben, hat nicht <div type="commentary" xml:id="commentID2830_3">Erinnerung<lbr/>
+aus frühern Zeiten<note corresp="#commentID2830_3">Constanze Mozart hatte den vierjährigen Sohn Wolfgang für die Dauer ihrer Konzertreise 
+durch Deutschland zwischen November 1795 und Mai 1796 bei Theresia Schnell, 
+der zukünftigen Ehefrau von Franz Xaver Niemetschek, in Prag untergebracht.</note></div> allein, sondern<lbr/>
+sein anspruchsloses, bescheidenes Betra<pc force="weak">=</pc><lbr/>gen bewirkt. Sagen Sie ihm &#8211; <lbr/>
+daß <persName key="39314">Hummel</persName> am Samstage den<lbr/>
+Saal <u>halbleer</u> hatte, und nicht<lbr/>
+so viel Beyfall erhielt, als <persName key="39407">Mozart</persName>;<lbr/>
+besonders mißfiel sein Conzert,<lbr/>
+nur in der Fantasie gefiel er.<lbr/>
+Dieß ist allgemeine Sti<abbr type="topline" expand="mm">m</abbr>e<lbr/>
+der Kunstkenner. <persName key="39409">Mozarts</persName>&#160;<workName key="11557">Konzert</workName><lbr/>
+wird allgemein auch im Satze vor<pc force="weak">=</pc><lbr/>gezogen. Er soll bald an<lbr/>
+<pg n="2"/>
+<persName key="82997">Bayer</persName> und uns schreiben. &#8211; <lbr type="forced"/>
+<div type="commentary" xml:id="commentID2830_4">Helfen Sie ihm freundschaftlich<note corresp="#commentID2830_4">Franz Xaver Wolfgang Mozart erwähnt den Arzt Anton Georg Braunhofer, 
+der aus Prag stammte, in seinem Reisetagebuch nicht.</note></div>;<lbr/>
+dieß bittet Ihr<lbr type="forced"/>
+<ts>_____________________________</ts><tspdf>\hfill </tspdf><persName key="56990">Niemetschek</persName><lbr type="forced"/>
+den 17<h>t</h> April<lbr type="forced"/>
+<ts>___</ts>1820<lbr type="forced"/>
+<lbr type="forced"/>
+<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____</ts>An Sr. Wohlg<abbr type="curve"></abbr><lbr type="forced"/>
+den H. MDokt. und Prof. <persName key="73559">Braunhofer</persName>   
+</NI></text>
+</MUP>

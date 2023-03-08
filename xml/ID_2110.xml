@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="2110">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-05</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=2110</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">D-DS</bibl>
+                <bibl type="source" subtype="long">D-DS: Universitäts- und Landesbibliothek</bibl>
+                <bibl type="source" subtype="long">Handschriften- und Musikabteilung. Darmstadt (DEU)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-05-11">last file update: <date>Wed May 11 14:48:29 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="ID_2110.mup">
+<HEADER id="2110">FRANZ XAVER WOLFGANG MOZART AN BREITKOPF &#38; HÄRTEL IN LEIPZIG<lbr/>
+[PODKAMIEŃ,] 18. OKTOBER 1809</HEADER>
+<NI src="D-DS">
+<pg n="1"/>
+<ts>___________________________</ts><tshtm>_______________________________</tshtm><tspdf>\hfill </tspdf><u>den 18<h><uu>t</uu></h> October 1809</u><lbr type="forced"/>
+<lbr type="forced"/>
+<ts>__________</ts>Hochgeschätzter <persName key="53244">Herr</persName>!<lbr type="forced"/>
+<lbr type="forced"/>
+Ihr <div type="commentary" xml:id="commentID2110_1">geehrtes vom 6<h><uu>t</uu></h>&#160;<rend class="latin">Sept:</rend><note corresp="#commentID2110_1">Brief nicht erhalten.</note></div> habe ich zu meinem grösten Vergnügen<lbr/>
+am 12<h><uu>t</uu></h> dieses erhalten. Ihre gütige Nachfrage wegen der <div type="commentary" xml:id="commentID2110_2">Flötensonaten<note corresp="#commentID2110_2">Von diesen Flötensonaten ist nur ein einzelner Satz e-Moll für Klavier und Flöte WV VI:10 überliefert. 
+Weitere Flötensonaten von Franz Xaver Wolfgang Mozart sind nicht bekannt.</note></div>,<lbr/>
+ka<abbr type="topline" expand="nn">n</abbr> ich nur dadurch beantworten, daß ich mich schon seit 6 Monaten,<lbr/>
+mit meiner Herrschaft, auf verschiedenen ihrer Güter herumziehe,<lbr/>
+keinen besti<abbr type="topline" expand="mm">m</abbr>ten Aufenthalt, kein <rend class="latin">Fp:</rend>, keine Beschäftigung gehabt, kurz,<lbr/>
+kaum 20 Stunden gegeben. Sobald ich aber, wie ich es wünsche, in meine<lbr/>
+gewöhnliche <rend class="latin">Residenz</rend> zurrükkehre | de<abbr type="topline" expand="nn">n</abbr> Ihre geneigte Zuschrift hat<lbr/>
+mich fast zwanzig Meilen weiter suchen müßen | werde ich meine<lbr/>
+angefangene Arbeit, mit größtem Fleiße fortsetzen. Ihr Brief<lbr/>
+war mir, eine um desto mehr freudige Ueberraschung, da ich so unglüklich<lbr/>
+bin, daß mir niemand bei diesen Umständen schreibt, oder richtiger<lbr/>
+zu reden, da alle <rend class="latin">Posten</rend> stille stehn; ich weiß nicht einmahl wo<lbr/>
+meine <persName key="48818">Mutter</persName> ist, ihr letzter Brief ist <div type="commentary" xml:id="commentID2110_3">vom 24 juny<note corresp="#commentID2110_3">Brief nicht erhalten.</note></div> aus <rend class="latin">Pressburg</rend>! &#8211; <lbr type="forced"/>
+<lbr type="forced"/>
+Mein <persName key="48820">Bruder</persName> den ich schon 9 Jahre nicht gesehn, lebt itzt, um<lbr/>
+Ihre gefällige Frage zu beantworten, in Meyland. Da er in<lbr/>
+seinen jüngern Jahren nicht viel Freude zur Musik zeigte,<lbr/>
+so schikte ihn meine Mutter nach <rend class="latin">Livorno</rend>, wo er die ersten<lbr/>
+6 Jahre unserer Trennung, in dem Geschäfte der Handlung<lbr/>
+zubrachte. Sein langer Aufenthalt, in dem Mutterlande der<lbr/>
+<pg n="2"/>
+Musik, erwekte nun in seinem von Kindheit auf, sehr<lbr/>
+gefühlvollem Herzen, Leidenschaft zu dieser göttlichen Kunst,<lbr/>
+und er begab <suppl hand="self" pos="inline">sich</suppl> daher nach Meyland, um dort unter der<lbr/>
+Anleitung des <persName key="20312">H<abbr type="curve"></abbr>&#160;<rend class="latin">Asioli</rend></persName>&#160;<div type="commentary" xml:id="commentID2110_4">die Musik zu studieren<note corresp="#commentID2110_4">Carl Thomas Mozart nahm seit 1806 bei Bonifazio Asioli in Mailand Musikunterricht. 
+Mitte des Jahres 1810 gab er das Studium auf. Carl Thomas Mozart war zeitlebens 
+ein guter Klavierspieler und unterrichtete in Mailand mehrere Schülerinnen und Schüler.</note></div>.<lbr/>
+Ich fürchte nur, daß er unter dieser Anleitung, sa<abbr type="topline" expand="mm">m</abbr>t seinem<lbr/>
+großem Fleiße, nicht die gewünschten Fortschritte mache,<lbr/>
+den mehrere gute Meister, die H<abbr type="curve"></abbr>&#160;<rend class="latin">Asioli</rend> und seine<lbr/>
+Werke kennen, haben mir nicht zu vortheilhaft von ihm<lbr/>
+gesprochen. Auf jeden Fall, verdient H<abbr type="curve"></abbr>&#160;<rend class="latin">Asioli</rend>, den<lbr/>
+Dank meiner ganzen Familie, und insbesondere meines<lbr/>
+<persName key="48820">Bruders</persName>, daß er sich seiner so freundschaftlich anni<abbr type="topline" expand="mm">m</abbr>t;<lbr/>
+so wie auch Sie, schätzbaarster <persName key="53244">Herr Härtel</persName>, mit vollem<lbr/>
+Rechte, Anspruch machen kö<abbr type="topline" expand="nn">n</abbr>en, auf die Dankbarkeit Ihres erg<abbr type="curve"></abbr><lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_________________________________________________</ts><tspdf>\hfill </tspdf><persName key="39407"><rend class="latin">W. A.</rend> Mozart</persName>.<lbr type="forced"/>
+<persName key="47576">Herr Griesinger</persName>, dem ich mich vielmahls empfehle, und den<lbr/>
+ich bitte mich nicht zu <u>vergessen</u>, wird Ihnen mehr von<lbr/>
+meinem <persName key="48820">Bruder</persName> sagen kö<abbr type="topline" expand="nn">n</abbr>en.<lbr type="forced"/>
+<pg n="3"/>
+In der Voraussetzung, daß Ihre Güte mir es nicht<lbr/>
+zur Unbescheidenheit auslegen wird, schließe ich noch mit<lbr/>
+der Bitte, mir gefälligst, <div type="commentary" xml:id="commentID2110_5">meinem <workName key="11550"><rend class="latin">Concerte</rend></workName><note corresp="#commentID2110_5">Das Klavierkonzert C-Dur WV IV:1 von Franz Xaver 
+Wolfgang Mozart war im April 1809 (Plattennummer 1330) 
+als op. 14 bei Breitkopf &#38; Härtel erschienen.</note></div> etwas Notenpapier<lbr/>
+beyzulegen, de<abbr type="topline" expand="nn">n</abbr> in <rend class="latin">Lemberg</rend> ist keines zu haben, und nach <rend class="latin">Wien</rend><lbr/>
+ist <div type="commentary" xml:id="commentID2110_6">die <rend class="latin">Passage</rend> gehe<abbr type="topline" expand="mm">m</abbr>t<note corresp="#commentID2110_6">Die Ursache für die unterbrochenen Handelswege war der Österreichisch-Französische Krieg.</note></div>.<lbr type="forced"/>
+<pg n="4"/>
+<add_empf  rot="270"><u>1809</u><lbr/>
+<u>16 <rend class="latin">Oct</rend></u><ts>___</ts><u><rend class="latin">Podkaminień</rend></u><lbr/>
+<u>21 9<rend class="latin">br</rend></u><lbr/>
+<u>4 <rend class="latin">Jan</rend> 1810.</u><ts>____</ts><rend class="latin">Mozart</rend>.</add_empf>
+<lbr/>
+<anschrift rot="270">An<lbr type="forced"/>
+Herrn Herrn <u><rend class="latin">Breitkopf</rend></u><lbr type="forced"/>
+und <u><rend class="latin">Härtel</rend></u>. Musikverleger<lbr type="forced"/>
+in<lbr type="forced"/>
+<u><rend class="latin">Leipzig</rend>.</u></anschrift>
+</NI></text>
+</MUP>

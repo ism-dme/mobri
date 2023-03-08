@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="2175">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-05</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=2175</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Privatbesitz</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-05-11">last file update: <date>Wed May 11 14:48:29 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="ID_2175.mup">
+<HEADER id="2175">FRANZ XAVER WOLFGANG MOZART AN JOHANN JOSEPH HAUßNER IN EDENKOBEN<lbr/>
+PODKAMIEŃ, 22. DEZEMBER 1808</HEADER>
+<NI src="privat">
+<pg n="1"/>
+<ts>_______________________________________</ts><tspdf>\hfill </tspdf><rend class="latin">Podkamien</rend> den 22 Decem<lbr type="forced"/>
+<ts>___________________________________________________________________</ts><tspdf>\hfill </tspdf>1808.<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____</ts><persName key="75487">Bester, Theuerster</persName>!<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____</ts>Du wirst deinen Augen nicht trauen, wen Du diesen aus<lbr/>
+<rend class="latin">Pohlen</rend> von mir geschriebenen Brief erhälst. Ja,<lbr/>
+bester,! seit 2 Monathen, bin ich nicht mehr in Wien,<lbr/>
+nicht mehr in der grossen, prachtvollen Residenz, bin<lbr/>
+in <rend class="latin">Podkamien</rend>, einem kleinen Städtchen unweit Lemberg.<lbr/>
+<div type="commentary" xml:id="commentID2175_1"><rend class="latin">Quis, quid, ubi, quibus auxilis, cur, quomodo, quando</rend><note corresp="#commentID2175_1">Aus der Schulrhetorik überlieferter lateinischer Hexameter „Wer? Was? Wo? Womit? Warum? Wie? Wann?“.</note></div>? [wirst<lbr/>
+du mich fragen.] Gerne und gleich will ich deine Neugierde<lbr/>
+befriedigen. du weist, bester, daß man mich zu<lbr/>
+Hause nicht aufs beste behandelte. Ich ward älter, ward<lbr/>
+Jüngling, mußte mir seit 3 Jahren schon, im <persName key="48818">mütterlichen</persName><lbr/>
+Hause, wie ein Fremder, den Lebensunterhalt,<lbr/>
+und alle andern Bedürfniße verdienen, und<lbr/>
+wurde doch [zu übertrieben] wie ein Kind am Gängel<pc force="weak">-</pc><lbr/>bande, behandelt. dieß verdroß mich, es suchte ein<lbr/>
+reicher, pohlnischer <persName key="73109"><rend class="latin">Graf</rend></persName> einen Klawiermeister<lbr/>
+unter sehr vortheilhaften Bedingungen; Er machte<lbr/>
+wen ich diese Stelle annehmen wollte, mir besondere<lbr/>
+ansehnliche Vorschläge, ich unterzeichnete den <rend class="latin">Contract</rend><lbr/>
+und gieng. Ich gebe hier täglich 4 Stunden <rend class="latin">Lection</rend>,<lbr/>
+dan bin ich mein eigner Herr, kan arbeiten so viel<lbr/>
+ich will; dafür habe ich 1000 fl. <rend class="latin">Bar</rend> Gehalt Tafel, Abend<pc force="weak">-</pc><lbr/>mahl, mit der Herrschaft, <rend class="latin">Frühstuck, Wohnung</rend> in<lbr/>
+<rend class="latin">gräflichen</rend> Schlosse, Holz, Licht und <rend class="latin">Wäscherin</rend> frey.<lbr type="forced"/>
+<pg n="2"/>
+habe zu Schülerinen, zwey lehrbegierigen <persName key="82901 73106"><rend class="latin">Comtessen</rend></persName>,<lbr/>
+zur <rend class="latin">Gesellschaft</rend> die ganze <rend class="latin">Familie</rend>, die aus<lbr/>
+meinen 2 <rend class="latin">ecolieres</rend>, <persName key="73109">Graf</persName>, <persName key="84714">Gräfin</persName>, 2 erwachsenen <persName key="82898 73107">Söhnen</persName>,<lbr/>
+und einem <rend class="latin">Abbé</rend> lauter trefflichen Leuten besteht.<lbr/>
+Hier gedenke ich zu bleiben, bis ich meine Kunst durch<lbr/>
+Fleiß vervollkomnet habe. Ich verlege<lbr/>
+mich ganz auf <rend class="latin">Composition</rend>, habe schon viel <lbr/>
+<div type="commentary" xml:id="commentID2175_2">in Stich gegeben<note corresp="#commentID2175_2">Bis Ende 1808 hatte Franz Xaver Wolfgang Mozart neun Opera als Einzeldrucke, 
+vorrangig Klavierwerke sowie Lieder und eine Violinsonate, publiziert. 
+Außerdem erschien die Arietta „Questa tomba oscura“ WV IIIb:8 in einem Sammeldruck. 
+Die opera 1 bis 8 waren alle in der Chemischen Druckerei von S. A. Steiner in Wien erschienen, 
+die Sonate op. 10 veröffentliche J. A. André 1808 in Offenbach am Main.</note></div>, und werde in einigen Jahren<lbr/>
+gewiß <div type="commentary" xml:id="commentID2175_3">auf Reisen gehn<note corresp="#commentID2175_3">Franz Xaver Wolfgang Mozart startete erst im im Mai 1819 eine große Konzertreise durch Europa. 
+Sie dauerte mehr als zweieinhalb Jahre.</note></div>; <abbr expand="und">ud</abbr> dan! &#8211; sammt meine<lbr/>
+die Freude, dich, zu umarmen. Was macht<lbr/>
+deine Gute <persName key="84727">Frau</persName>?, grüsse und küsse Sie statt mir<lbr/>
+recht herzlich. Hast du hoffnungsvolle Kinder?<lbr/>
+Solltest du einen Knaben bekommen, so nene<lbr/>
+ihn <rend class="latin">Wolfgang</rend>, damit du und deine Frau<lbr/>
+desto gewisser recht oft auf mich denken.<lbr/>
+Schreibe mir bald, aber deutsch. Ich spreche<lbr/>
+zwar ziemlich fertig französch, aber es<lbr/>
+macht mir doch ziemlich Schwierigkeit, alles<lbr/>
+zu verstehn, da ich hier keinen <rend class="latin">Dictionaire</rend><lbr/>
+habe. Ich muß hier imer französisch sprechen<lbr/>
+weil man wenig deutsch versteht. Schreibe<lbr/>
+bald deinem aufrichtigsten Freunde<lbr type="forced"/>
+<ts>______________________________________________</ts><tspdf>\hfill </tspdf><persName key="39407">Mozart</persName><lbr type="forced"/>
+<pg n="3"/>
+<rend class="latin">Addresse</rend>. W. in diensten bey <rend class="latin">Grafen Victor<lbr/>
+Baworowski</rend> über Lemberg,<lbr/>
+<rend class="latin">Streliska</rend> nach <rend class="latin">Podkamién</rend>.
+<pg n="4"/>
+<anschrift>Podkamién<lbr type="forced"/>
+<rend class="latin">A<lbr type="forced"/>
+Monsieur Monsieur<lbr type="forced"/>
+Hauhsner, Juge-de-paix<lbr type="forced"/>
+du Canton d’Edenkoben,<lbr type="forced"/>
+Departement du<lbr type="forced"/>
+Mont-tonnerre<lbr type="forced"/>
+Empire Français.</rend></anschrift>
+<lbr/>
+<add_note hand="diff">Von 22tem Xber 1808.<lbr type="forced"/>
+Mozart<lbr/>
+1930</add_note>
+</NI></text>
+</MUP>

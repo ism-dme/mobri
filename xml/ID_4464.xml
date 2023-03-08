@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="4464">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-06</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=4464</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sae</bibl>
+                <bibl type="source" subtype="long">A-Sae: Archiv der Erzdiözese Salzburg. Salzburg (AUT)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-05-11">last file update: <date>Wed May 11 14:48:35 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="ID_4464.mup">
+<HEADER id="4464">FRANZ TOMASCHEK AN DEN DOMMUSIKVEREIN UND MOZARTEUM IN SALZBURG, MIT EINEM GUTACHTEN VON FRANZ
+XAVER WOLFGANG MOZART<lbr/>
+WIEN, 10. NOVEMBER 1841</HEADER>
+<NI src="A-Sae">
+<pg n="1"/>
+<add_note schr_id="75653">N E 195 d p. 13<h>t</h> Nov. <abbr type="topline" expand="1841">841</abbr></add_note>
+<rend class="latin">Hochlöbliche Direction des Kirchen<pc force="weak">=</pc><lbr type="forced"/>musikvereins in Salzburg</rend>!<lbr type="forced"/>
+<lbr type="forced"/>
+Unterzeichneter bittet um<lbr/>
+Verleihung der in Salzburg<lbr/>
+bei dem löblichen Verein und<lbr/>
+dem Domkapitel erledigte Bass<pc force="weak">=</pc><lbr/>sängerstelle.<lbr type="forced"/>
+Derselbe ist von Prag gebürtig<lbr/>
+30 Jahre alt und ledig.<lbr type="forced"/>
+In Beziehung seiner musikalischen<lbr/>
+Fähigkeit und sonstigen Eigenschaft<lbr/>
+für kirchliche <rend class="latin">Functionen</rend> sowohl<lbr/>
+im Choral als figurierten Gesange<lbr/>
+erlaubt sich der Gefertigte fol<pc force="weak">=</pc><lbr/>genden anzuführen:<lbr type="forced"/>
+Derselbe ist im Besitz einer kräf<pc force="weak">=</pc><lbr/>tigen, sonoren Baßsti<abbr type="topline" expand="mm">m</abbr>e mit einem<lbr/>
+Umfange von zwei <rend class="latin">Octaven</rend>, ist<lbr/>
+fest musikalisch, wo er nebst <rend class="latin">Forte<pc force="weak">=</pc><lbr/>piano</rend> mehrere streichende Instru<pc force="weak">=</pc><lbr/>mente spielt.<lbr type="forced"/>
+Derselbe hat vier lateinische Schulen<lbr/>
+studiert und zwar in der <div type="commentary" xml:id="commentID4464_1"><rend class="latin">Parva</rend><note corresp="#commentID4464_1">Vorbereitungsklasse für Gymnasien.</note></div>&#160;<lbr/>
+durchhaus <div type="commentary" xml:id="commentID4464_2"><rend class="latin">Eminentem</rend><note corresp="#commentID4464_2">ausgezeichnet</note></div> in die andern<lbr/>
+drei <rend class="latin">Classen</rend> zweiter <rend class="latin">Praemiant</rend> ge<pc force="weak">=</pc><lbr/>wesen ist.<lbr type="forced"/>
+<lbr/>
+<add_seal type="tax"><ts>___</ts>15<lbr/>
+KREUZER</add_seal>
+<lbr/>
+<pg n="2"/>
+Die erforderlichen Mittel<lbr/>
+waren nicht hinreichend um<lbr/>
+seine Studien fortzusetzen<lbr/>
+und er war genöthigt sich<lbr/>
+nach Brünn zu begeben, wo<lbr/>
+er theils vom Privatunterricht<lbr/>
+theils als Orchestermitglied<lbr/>
+sein Leben durchbrachte.<lbr type="forced"/>
+Von da war er als Chorsänger<lbr/>
+und für kleine Parthien am<lbr/>
+k. k. Hofoperntheater in<lbr/>
+Wien engagirt und nun die<lbr/>
+Probe beim <persName key="39407">Herrn von Mozart</persName><lbr/>
+in Wien abgelegt, welche sel<pc force="weak">=</pc><lbr/>ber seiner <div type="commentary" xml:id="commentIDID4464_3">Empfehlung<note corresp="#commentIDID4464_3">Franz Xaver Wolfgang Mozart unterstützte den neugegründeten <i>Dommusikverein und Mozarteum</i> 
+bei der Suche nach Musikern und Lehrern.</note></div> wür<pc force="weak">=</pc><lbr/>dig fand.<lbr type="forced"/>
+Da er nicht in der Lage ist<lbr/>
+augenblicklich seine etwa er<pc force="weak">=</pc><lbr/>forderlichen Zeugniße beizu<pc force="weak">=</pc><lbr/>legen, wird selber sie nachtragen,<lbr/>
+und erlaubt sich in Beziehung<lbr/>
+seiner Moralität und vielfa<pc force="weak">=</pc><lbr/>chen Dienstleistung in der<lbr/>
+Kirchenmusik auf die nähere<lbr/>
+Bekanntschaft des Herrn <rend class="latin">Ar<pc force="weak">=</pc><lbr/>chivar</rend>&#160;<persName key="84771"><rend class="latin">Glögl</rend></persName> in Wien zu berufen.<lbr/>
+Seine gegenwärtige Dienstleistung<lbr/>
+würde nach erhaltenem Anstellungs<pc force="weak">=</pc><lbr/>decret keine Hinderniß im Wege<lbr/>
+liegen, sonach sogleich nach Salzburg<lbr/>
+abreisen zu können.<lbr type="forced"/>
+Wien den 10<h><u>ten</u></h> Novbr <abbr type="topline" expand="1841">841</abbr><ts>_____</ts><tspdf>\hfill </tspdf><persName key="84711"><rend class="latin">Franz Tomaschek</rend></persName><lbr type="forced"/>
+<tspdf>\newpage </tspdf> 
+<pg n="3"/>
+<additum>[Gutachten von der Hand Franz Xaver Wolfgang Mozarts:]</additum><lbr type="forced"/>
+<lbr type="forced"/>
+Ich habe den <persName key="84711">Bittsteller</persName> geprüft, und ihn allen Anforderun<pc force="weak">=</pc><lbr/>gen so entsprechend gefunden, <abbr expand="daß">dß</abbr> ich ihn mit voller Ueberzeu<pc force="weak">=</pc><lbr/>gung anempfehlen, und dem Vorstand des Kirchenmusik=Ver<pc force="weak">=</pc><lbr/>eins zu Salzburg, sein <div type="commentary" xml:id="commentID4464_4">Gesuch zu berücksichtigen bitte<note corresp="#commentID4464_4">Franz Tomaschek wurde als Bass-Sänger am <i>Dommusikverein und Mozarteum</i> angestellt. 
+Er war dort auch als Lehrer bis 1881 tätig.</note></div>.<lbr type="forced"/>
+<lbr type="forced"/>
+<u><rend class="latin">Wien</rend> am 10<h><u>t</u></h>&#160;<rend class="latin">November</rend> 1841</u><ts>____</ts><tspdf>\hfill </tspdf><persName key="39407"><rend class="latin">W A Mozart</rend></persName><abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<pg n="4"/> 
+<add_note hand="diff" schr_id="75653"><persName key="84711"><rend class="latin">Franz Tomascheck</rend></persName><lbr/>
+um Anstellung<lbr/>
+als Bassist.</add_note>
+</NI></text>
+</MUP>

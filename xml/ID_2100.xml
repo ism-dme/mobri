@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="2100">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-05</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=2100</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">D-B</bibl>
+                <bibl type="source" subtype="long">D-B: Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Musikabteilung mit Mendelssohn-Archiv. Berlin (DEU)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-05-13">last file update: <date>Fri May 13 16:52:09 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="ID_2100.mup">
+<HEADER id="2100">FRANZ XAVER WOLFGANG MOZART AN MARIE-CATHÉRINE-CÉLESTE SPONTINI IN BERLIN<lbr/>
+LEMBERG, 26. DEZEMBER 1829<lbr/>
+französische Übersetzung</HEADER>
+<NI src="D-B">
+<pg n="1"/>
+<ts>__________</ts><persName key="79077"><rend class="latin">Madame</rend></persName>.<lbr type="forced"/>
+<rend class="latin">Je le regarde pour la prémière et la plus sacrée<lbr/>
+de mes devoirs, de vous offrir, Madame, tres<lbr/>
+estimée mon intime reconnoissance de la<lbr/>
+bonté, dont il vous a plu, de me faire pren<pc force="weak">=</pc><lbr/>dre part à <div type="commentary" xml:id="commentID2100_1">l’agnition tres meritée<note corresp="#commentID2100_1">Gaspare Spontini war im September 1829 von der Universität Halle die Ehrendoktorwürde verliehen worden.</note></div> et<lbr/>
+à l’évaluation des merites de Monsieur</rend><lbr/>
+<persName key="59373"><rend class="latin">Votre epoux</rend></persName>&#160;<rend class="latin">célébre.<lbr type="forced"/>
+Votre bonté m’a profondement touchée, mais<lbr/>
+je vous prie d’agréer l’assurance, que je<lbr/>
+le regrette bien, de vivre dans un coin si<lbr/>
+éloigné de la monarchie, ou des nou<pc force="weak">=</pc><lbr/>velles si interessantes à l’ordinaire ne<lbr/>
+me viennent <suppl hand="self" pos="supra">que</suppl> par des feuilles rétardées,<lbr/>
+quand il est trop tard, d’en faire usage.<lbr type="forced"/> 
+Ce fut aussi le cas de <div type="commentary" xml:id="commentID2100_2">la souscription<note corresp="#commentID2100_2">Es handelt sich um die Subskription auf eine Erinnerungs-Medaille für Gaspare Spontini, 
+der im September 1829 am Ersten Hallischen Musikfest teilgenommen und dort die Ehrendoktorwürde 
+erhalten hatte. Constanze Mozart bestellte für sich und ihre beiden Söhne drei Medaillen. 
+Gaspare Spontini hatte einen großen Anteil am Erscheinen der <i>Biographie W. A. Mozart’s</i> von 
+Georg Nikolaus Nissen (Leipzig 1828/29), indem er den Löwenanteil der Subskribenten in Berlin warb.</note></div>, dont il<lbr/>
+s’agit, que j’appris la prémière par les ga<pc force="weak">=</pc><lbr/>zettes quand le terme avoit deja expiré.<lbr/>
+Votre bonté méritoire, Madame, me rejouit<lbr/>
+donc d’autant plus, qu’elle m’offrit la conviction,<lbr/>
+que Vous n’a&#255;ez pas doutée, que ce ne fut</rend><lbr/>
+<add_num type="inline" impl="pencil">624</add_num><conv type="inline"><ts>___________________________________________________</ts><rend class="latin">ma</rend></conv>
+<pg n="2"/>
+<rend class="latin">ma faute de n’avoir pas été l’un des<lbr/>
+prémiers qui rendirent leur hommage<lbr/>
+public au merite du venerable</rend>&#160;<persName key="59373"><rend class="latin">Chevalier<lbr/>
+Spontini</rend></persName>.<lbr type="forced"/>
+<rend class="latin">Permettez, Madame, qu’en confiance sur Votre<lbr/>
+bonté, à moi documentée, vous recherche<lbr/>
+encore, de bien vouloir me recommander<lbr/>
+à Mr.</rend>&#160;<persName key="59373"><rend class="latin">Votre epoux</rend></persName>, <rend class="latin">et agréez l’assurance<lbr/>
+de l’estime sans bornes, et de l’ado<pc force="weak">=</pc><lbr/>ration avec lesquelles je reste</rend><lbr type="forced"/>
+<ts>_____________________</ts><tspdf>\hfill </tspdf><persName key="79077"><rend class="latin">Madame</rend></persName><lbr type="forced"/>
+<ts>_____________</ts><tspdf>\hfill </tspdf><rend class="latin">Votre serviteur tres devoué</rend><lbr type="forced"/>
+<rend class="latin">Lemberg ce</rend> 26 <rend class="latin">Dec.</rend> 1829.<ts>_____</ts><tspdf>\hfill </tspdf><persName key="39407"><rend class="latin">W. A. Mozart</rend></persName>.<lbr/>
+<pg n="3"/>
+<vacat/>
+<pg n="4"/>
+<add_seal type="owner">DEUTSCHE<lbr/>
+STAATS<pc force="weak">-</pc><lbr/>BIBLIOTHEK<lbr/>
+BERLIN</add_seal>
+</NI>
+</text>
+</MUP>

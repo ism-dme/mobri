@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="2125">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-05</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=2125</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">D-DS</bibl>
+                <bibl type="source" subtype="long">D-DS: Universitäts- und Landesbibliothek</bibl>
+                <bibl type="source" subtype="long">Handschriften- und Musikabteilung. Darmstadt (DEU)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-05-11">last file update: <date>Wed May 11 14:48:29 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="ID_2125.mup">
+<HEADER id="2125">FRANZ XAVER WOLFGANG MOZART AN BREITKOPF &#38; HÄRTEL IN LEIPZIG<lbr/>
+LEMBERG, 19. NOVEMBER 1808</HEADER>
+<NI src="D-DS">
+<pg n="1"/>
+<ts>______________________</ts><tspdf>\hfill </tspdf><u><rend class="latin">Lemberg</rend> den 19<h><uu>t</uu></h> 9<h><uu>b</uu></h> 1808</u><lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____</ts>Hochgeehrter <persName key="53244">Herr</persName>!<lbr type="forced"/>
+<lbr type="forced"/>
+Ich melde Ihnen durch diese Zeilen<lbr/>
+meine glückliche Ankunft in Lem<pc force="weak">=</pc><lbr/>berg, die schon am 5<h><uu>t</uu></h> dieses, nach<lbr/>
+eine langwierigen, ermüdeten,<lbr/>
+14tägigien Reise statt hatte. We<abbr type="topline" expand="nn">n</abbr> Sie<lbr/>
+die mir gefälligst versprochenen<lbr/>
+<rend class="latin">Exemplare</rend> meines <workName key="11550"><rend class="latin">Concertes</rend></workName> nicht<lbr/>
+schon nach <rend class="latin">Wien</rend>&#160;<div type="commentary" xml:id="commentID2125_1">gesendet haben<note corresp="#IDcommentID2125_1">Das Klavierkonzert C-Dur WV IV:1 erschien als op. 14 erst 
+im April 1809 (Plattennummer 1330) bei Breitkopf &#38; Härtel in Leipzig.</note></div>,<lbr/>
+so bitte ich Sie, selbe hieher an<lbr/>
+<persName key="84796">H<abbr type="curve"></abbr> Pfaff</persName> zu schicken, bey welchen<lbr/>
+Sie mein <persName key="76559">Vetter <rend class="latin">Lange</rend></persName> | ein Sohn <lbr/>
+des Schauspielers <persName key="55282"><rend class="latin">Lange</rend></persName> in <rend class="latin">Wien</rend> |<lbr/>
+abholen, und mir nach <rend class="latin">Podkamień</rend> schicken<lbr/>
+wird. Die Briefe bitte ich aber gerade<lbr/>
+an mich über <rend class="latin">Lemberg</rend> nach <rend class="latin">Podka<pc force="weak">=</pc><lbr/>mień</rend> bey dem <rend class="latin">Grafen</rend>&#160;<persName key="73109"><rend class="latin">Victor<lbr/>
+Baworowski</rend></persName> zu <rend class="latin">addresiren</rend>. Die<lbr/>
+<div type="commentary" xml:id="commentID2125_2"><rend class="latin">Sonaten</rend> mit <rend class="latin">Flöte</rend><note corresp="#commentID2125_2">Von diesen Flötensonaten ist nur ein einzelner Satz e-Moll für Klavier und Flöte WV VI:10 überliefert.
+Weitere Flötensonaten von Franz Xaver Wolfgang Mozart sind nicht bekannt.</note></div> werde dieser Tage<lbr/>
+in <rend class="latin">Arbeit</rend> nehmen.<lbr type="forced"/>
+<pg n="2"/>
+In Erwartung einer baldigen<lbr/>
+Antwort, habe ich wie i<abbr type="topline" expand="mm">m</abbr>er die<lbr/>
+Ehre zu bleiben Ihr ergebenst<abbr type="curve"></abbr><lbr type="forced"/>
+<ts>_______________________</ts><tspdf>\hfill </tspdf><persName key="39407"><rend class="latin">W. A.</rend> Mozart</persName><abbr expand="manu propria"> mp</abbr>
+<pg n="3"/>
+<vacat/>
+<pg n="4"/>
+<add_empf><u>1808.</u><lbr/>
+<u>d. 19. <rend class="latin">Novbr</rend></u><ts>____</ts><u><rend class="latin">Lemberg</rend></u><lbr/>
+<u>6. <rend class="latin">Decbr</rend>.</u><ts>__________</ts><rend class="latin">Mozart</rend>.<lbr/>
+<u><ts>___</ts>0<ts>____</ts></u></add_empf>	
+</NI></text>
+</MUP>

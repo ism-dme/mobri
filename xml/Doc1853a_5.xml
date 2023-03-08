@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="22">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2010">2010-04</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=22</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+                <bibl type="source" subtype="long">A-Sm: Internationale Stiftung Mozarteum, Bibliotheca Mozartiana. Salzburg (AUT)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2023-01-12">last file update: <date>Thu Jan 12 09:48:03 2023</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="Doc1853a_5.mup">
+<HEADER id="22">ALOYS FUCHS, WOLFGANG AMADÉ MOZARTS ERNENNUNG ZUM DOMKAPELLMEISTER AN ST. STEPHAN IN WIEN, HERBST 1791<lbr/>
+WIEN, VOR 1853</HEADER>
+<pg n="1"/>
+<ts>_____</ts><persName key="39409"><u><rend class="latin">Mozart's</rend></u></persName> Erne<abbr type="topline" expand="nn">n</abbr>ung zum Domka<abbr type="tilde" expand="pel">p</abbr>lmstr<lbr type="forced"/>
+bei <rend class="latin">S<h><uu>t</uu></h></rend> Stephan erfolgte im<lbr type="forced"/>
+Herbst 1791 bei seiner Rükkunft<lbr type="forced"/>
+aus Prag: Nachdem derselbe<lbr type="forced"/>
+aber schon <u>krank</u> von da zurük<lbr type="forced"/>
+kam, und am 5 Dezbr d. J. starb,<lbr type="forced"/>
+so konnte er diese Stelle niemals<lbr type="forced"/>
+antreten; und sie wurde sodann<lbr type="forced"/>
+an <persName key="48982"><u>G. Albrechtsberger</u></persName> weiter<lbr type="forced"/>
+verliehen.<lbr type="forced"/>
+<lbr type="forced"/>
+<lbr type="forced"/>
+<persName key="58186"><rend class="latin">Reuter G.</rend></persName><lbr type="forced"/>
+<persName key="53933">Hoffma<abbr type="topline" expand="nn">n</abbr>&#160;<rend class="latin">Leopld</rend></persName><ts>__________</ts><persName key="48982">Albrechtsberger</persName><lbr type="forced"/>
+<persName key="39409"><u><rend class="latin">Mozart. W. A.</rend></u></persName><ts>______________</ts><persName key="57816">Preindl</persName><lbr type="forced"/>
+(blos ernannt.)<ts>__________</ts><persName key="65349">Gänsbacher</persName>.<lbr type="forced"/>
+<pg n="2"/>
+<add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal></text>
+</MUP>

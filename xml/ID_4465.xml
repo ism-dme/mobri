@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="4465">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-06</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=4465</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sae</bibl>
+                <bibl type="source" subtype="long">A-Sae: Archiv der Erzdiözese Salzburg. Salzburg (AUT)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-05-11">last file update: <date>Wed May 11 14:48:35 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="ID_4465.mup">
+<HEADER id="4465">FRANZ VON HILLEPRANDT AN FRANZ XAVER WOLFGANG MOZART<lbr/>
+WIEN, 9. APRL 1842<lbr/>
+Entwurf</HEADER>
+<NI src="A-Sae">
+<pg n="1"/>
+<ts>_____</ts>Verehrter Freund!<lbr type="forced"/>
+<lbr type="forced"/>
+Den gewünschten Brief an <persName key="79503"><rend class="latin">Madame Unger-Sabatier</rend></persName><lbr/>
+habe ich zwar aufgesetzt, allein hiebe&#255; kamen mir so manche<lbr/>
+Bedenken, welche mich zum Entschluße brachten, das ent<pc force="weak">=</pc><lbr/>worfene Schreiben nicht eher abzusenden, bis ich nicht mit<lbr/>
+<persName key="83466">S<uu>r</uu> Eminenz</persName> dem durchlauchtigsten Herrn Protektor dieß<pc force="weak">=</pc><lbr/>falls Rücksprache genommen habe.<lbr type="forced"/>
+<ts>_____</ts>Jeder andere als ich kann sich mit einem Ersuchen an<lbr/>
+einzelne Künstler wenden, dem Verein einen Be&#255;trag<lbr/>
+zu liefern, weil meine Stellung als Organ <persName key="83466">S<uu>r</uu> Eminenz</persName> als<lbr/>
+Protektor des Vereines es nicht gestatten dürfte, der<lbr/>
+Ehre und Würde deßelben dadurch etwas zu vergeben,<lbr/>
+daß er um Be&#255;träge bettelt.<lbr type="forced"/>
+<ts>_____</ts>Die Welt weiß bereits zur Genüge, daß das<lbr/>
+Mozarteum bestehet, und daß es fre&#255;willige Be&#255;träge<lbr/>
+dankbar anni<abbr type="topline" expand="mm">m</abbr>t. &#8211; Es dürfte die Sache der Ehrenmit<pc force="weak">=</pc><lbr/>glieder und anderer Mitglieder se&#255;n, andere zur Be&#255;<pc force="weak">=</pc><lbr/>tragsleistung zu bestimmen. Ich glaube, daß es<lbr/>
+viel schicklicher wäre, wenn Sie sich entschließen würden,<lbr/>
+an <persName key="79503">Madame Unger</persName> zu schreiben. Um Ihnen die Mühe<lbr/>
+zu ersparen, habe ich be&#255;liegenden Brief entworfen,<lbr/>
+und ersuche Sie, denselben zu unterfertigen, und ent<pc force="weak">=</pc><lbr/>weder direkt an Madame Unger oder an mich ein<pc force="weak">=</pc><lbr/>zusenden, wo ich dann die Zustellung besorgen werde.<lbr type="forced"/>
+<ts>_____</ts>Mit aller Hochachtung etc.<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>__________</ts>geschben <persName key="75653">D<h><uu>r</uu></h> v. Hilleprandt</persName><lbr type="forced"/>
+<ts>_____________</ts>am 9<h><uu>ten</uu></h> April 1842.<lbr type="forced"/>
+Herrn <persName key="39407"><rend class="latin">W. A. Mozart</rend></persName>. Conzertmeister in <u>Wien</u>.
+<pg n="2"/>
+<vacat/>
+</NI></text>
+</MUP>

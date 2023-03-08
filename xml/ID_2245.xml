@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="2245">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-06</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=2245</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Verbleib unbekannt (Vorlage: Abschrift ca. 1828 in A-Sm)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-06-03">last file update: <date>Fri Jun  3 14:17:21 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="ID_2245.mup">
+<HEADER id="2245">FRANZ XAVER WOLFGANG MOZART AN CONSTANZE NISSEN IN SALZBURG<lbr/>
+LEMBERG, 17. APRIL 1827<lbr/>
+Abschrift von Anton Jähndl, ca. 1828</HEADER>
+<pg n="1"/>
+<tshtm><additum>[... (Schluss der Abschrift des Briefes von Franz Xaver Wolfgang Mozart an Anton Jähndl vom 17. April 1827.)]</additum></tshtm><lbr/>
+<lbr/>
+<ts>_____</ts>Meine liebe gute <persName key="48818">Mutter</persName>!<ts>_______________</ts><tspdf>\hfill </tspdf>Lemberg 17<h>t<abbr v="en"/></h> April 1827<lbr type="forced"/>
+&#8211; &#8211; &#8211; &#8211; &#8211; Wenn Du <rend class="latin">N<h><uu>ro</uu></h></rend> 48 der Wiener=Theater<pc force="strong">=</pc><lbr/>Zeitung, und N<h><uu>ro</uu></h> 51 der ebenfalls in Wien erscheinenden<lbr/>
+Zeitschrift für Kunst, Literatur, Theater und Mode zu lesen<lbr/>
+beko<abbr type="topline" expand="mm">m</abbr>en kannst, so wird es dir Vergnügen machen, denn<lbr/>
+diese Blätter enthalten viel Schönes über mein letztge<pc force="weak">=</pc><lbr/>gebenes <suppl hand="self" pos="supra">Vokal und Instrumental=</suppl>Concert, zum Besten des <suppl hand="self" pos="supra">erst seit kurzem hier errichteten</suppl> galizischen Wittwen<pc force="strong">=</pc><lbr/>und Waisen=Pensions=Instituts den 5<h>ten</h> April mit<lbr/>
+hoher Bewilligung aufgeführt, welches Concert nicht nur<lbr/>
+<pg n="2"/>
+sehr glänzend ausfiel und uns viele Ehre und Be&#255;fall<lbr/>
+erwarb, sondern <emend value="das">daß</emend> auch nach Abzug der Unkosten,<lbr/>
+einen reinen Gewinn von 400 f. CM. abwarf. Die vor<pc force="weak">=</pc><lbr/>ko<abbr type="topline" expand="mm">m</abbr>enden Stücke dari<abbr type="topline" expand="nn">n</abbr> waren: 1) Der 103<h>te</h> Psalm von<lbr/>
+<persName key="56898">Naumann</persName>; 2) <workName key="11571">Cantate: <u>Ewiger erbarme Dich</u></workName> von un<pc force="weak">=</pc><lbr/>serm <persName key="39409">Vater</persName>; 3) Großes <rend class="latin">Duo</rend> für 2 <rend class="latin">Pianofortes</rend> von<lbr/>
+<persName key="58278">Ries</persName>; 4) <workName key="11570">die Harmonie der Sphären</workName> von <persName key="58409">Andreas Romberg</persName><lbr/>
+5) Terzett, <u>„Zu Dir o Herr“</u> und Schlußgesang der II Abthei<pc force="weak">=</pc><lbr/>lung der <workName key="11548">Schöpfung</workName> von <persName key="38771">J. Ha&#255;dn</persName>. Eine schöne Beur<pc force="weak">=</pc><lbr/>theilung dieses Concerts erhältst du mit dem Morgen<lbr/>
+von hier abgehenden Postwagen in dem hier erscheinen<pc force="weak">=</pc><lbr/>den Wochenblatte. Sobald wie möglich bekö<abbr type="topline" expand="mm">m</abbr>st du<lbr/>
+auch 4 lithographirte Exemplare die heilige Cäci<pc force="weak">=</pc><lbr/>lia vorstellend; eines davon bitte ich für dich zu behal<pc force="weak">=</pc><lbr/>ten und die andern 3 dem Hr. <persName key="84102">von Schumann</persName>, <persName key="75929">Jähndl</persName>,<lbr/>
+<persName key="53216">Hacker</persName> in meinem Nahmen zu geben. Es ist die Copie<lbr/>
+eines sehr schönen <div type="commentary" xml:id="commentID2245_1">in Oehl gemahlten Bildes<note corresp="#commentID2245_1">Das Ölgemälde <i>Die Heilige Cäcilia</i> von Josef Engerth (Lemberg 1826), das Franz Xaver Wolfgang Mozart 
+als Geschenk des Malers erhielt, befindet sich im Archiv der Internationalen Stiftung Mozarteum, Salzburg, Inventar-Nr. 8005.</note></div> |: 5 Schuh<lbr/>
+hoch und 3 breit :|, die mir be&#255; <div type="commentary" xml:id="commentID2245_2">Gründung meines Cäci<pc force="weak">=</pc><lbr/>lien=Chores<note corresp="#commentID2245_2">Franz Xaver Wolfgang Mozart hatte den Lemberger Cäcilien-Verein im April 1826 gegründet.</note></div> der Herzoglich=<emend value="Anhaltköthnische">Anhaltköthnischen</emend><lbr/>
+Hofmaler <persName key="84228"><u>Engert</u></persName> geschenkt hatte. &#8211; &#8211; &#8211; &#8211; <lbr/>
+<lbr/>
+<tshtm><additum>[... (Beginn der Abschrift des Briefes von Franz Xaver Wolfgang Mozart an Constanze Nissen vom 12. Oktober 1827.)]</additum></tshtm><lbr/>
+</text>
+</MUP>

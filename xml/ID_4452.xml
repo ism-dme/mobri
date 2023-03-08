@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="4452">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-06</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=4452</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">D-OF</bibl>
+                <bibl type="source" subtype="long">D-OF: Verlagsarchiv André. Offenbach/Main (DEU)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-10-18">last file update: <date>Tue Oct 18 11:58:30 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="ID_4452.mup">
+<HEADER id="4452">JOHANN ANTON ANDRÉ AN FRANZ XAVER WOLFGANG MOZART IN WIEN<lbr/>
+OFFENBACH AM MAIN, 16. MAI 1807<lbr/>
+Abschrift im Kopierbuch des Verlags</HEADER>
+<NI src="D-OF">
+<pg n="1"/>
+Wien.<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____</ts><persName key="39407"><rend class="latin">W. A. Mozart</rend> Sohn</persName>.<ts>__________________</ts><tspdf>\hfill </tspdf>d<abbr type="curve"></abbr> 16. <rend class="latin">Mai</rend>. 07.<lbr type="forced"/>
+Mein lieber Herr <persName key="39407"><rend class="latin">Mozart</rend></persName>! <div type="commentary" xml:id="commentID4452_1">Ihre Zeilen<note corresp="#commentID4452_1">Brief vom 25. April 1807.</note></div> haben mich in jeder<lbr/>
+Rücksicht gefreüt <abbr expand="und">u</abbr> ich mache mir ein Vergnügen daraus, das von<lbr/>
+Ihnen erwähnte <workName key="11714"><rend class="latin">Clavier Trio</rend></workName> in Verlag zu nehmen, wenn Sie<lbr/>
+anders die dafür begehrten 12 <symbol value="hash">#</symbol> in W. Ct. mit f 54. Corrent empfangen<lbr/>
+wollen, was Sie, um einmal einen kleinen Anfang zwischen uns zu<lbr/>
+machen, schon thun können. In diesem Falle belieben Sie erwähntes <rend class="latin">Trio</rend><lbr/>
+dem <persName key="84945">hl. <rend class="latin">Wreden</rend></persName> für mich zuzustellen, der Ihnen die Zahlung für mich<lbr/>
+leisten wird.<lbr type="forced"/>
+<ts>_____</ts>Ihrer <persName key="48818">Frau Mutter</persName> u. <persName key="57010">h<abbr type="curve">.</abbr> von <rend class="latin">Nissen</rend></persName> bitte ich mich bestens zu empfehlen.<lbr/>
+Kann ich Ihnen in irgend etwas dienen, so geschieht es mit Vergnügen<lbr/>         
+gegen den Sohn eines <persName key="39409">Mannes</persName>, der meine unbegränzte Hochachtung und<lbr/>
+Verehrung besitzt, und <emend value="den">dem</emend> ich Ihnen nicht genug als Muster an<pc force="weak">=</pc><lbr/>empfehle.<ts>_______________________________________</ts><tshtm>________________________</tshtm><tspdf>\hfill </tspdf><persName key="49118">A.</persName>
+</NI>
+</text>
+</MUP>

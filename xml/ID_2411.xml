@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="2411">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-05</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=2411</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">GB-Cfm</bibl>
+                <bibl type="source" subtype="long">GB-Cfm: Fitzwilliam Museum. Cambridge (GBR)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-05-11">last file update: <date>Wed May 11 14:48:30 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="ID_2411.mup">
+<HEADER id="2411">FRANZ XAVER WOLFGANG MOZART AN BREITKOPF &#38; HÄRTEL IN LEIPZIG<lbr/>
+LEMBERG, 31. JANUAR 1827</HEADER>
+<NI src="GB-Cfm">
+<pg n="1"/>
+<add_note schr_id="0" impl="pencil">Conservate<lbr/>
+<ts>_____</ts>son of the great composer</add_note>
+<ts>___________________</ts>Geehrter <persName key="53244">Herr</persName>!<lbr type="forced"/>
+<lbr type="forced"/>
+Im Vertrauen auf Ihre gütige Nachsicht, und in der Hoffnung, <abbr expand="daß">dß</abbr><lbr/>
+Sie meiner Bitte ein willfähriges Ohr leihen werden, nehme ich mir die<lbr/>
+Fre&#255;heit, mich, in einer <u>mich</u> sehr nahe angehenden Sache, an Sie zu<lbr/>
+wenden.<lbr type="forced"/>
+Es ist mir, nach vielen zu bekämpfenden Unannehmlichkeiten gelungen,<lbr/>
+hier in Lemberg eine Sing-Anstalt, unter dem Nahmen <div type="commentary" xml:id="commentID2411_1"><rend class="latin">Caecilien</rend><pc force="weak">=</pc><lbr/><rend class="latin">Chor</rend> zu gründen<note corresp="#commentID2411_1">Franz Xaver Wolfgang Mozart hatte den Lemberger 
+Cäcilien-Verein im April 1826 gegründet.</note></div>, die allgemeine Theilnahme e<abbr type="topline" expand="rr">r</abbr>egt, und sowohl<lbr/>
+den Mitgliedern als mir ungemein viel Vergnügen, und auch<lbr/>
+Ehre macht. Das erste öffentliche Auftreten dieses <rend class="latin">Chores </rend>wurde mit<lbr/>
+dem größten Enthousiasmus aufgeno<abbr type="topline" expand="mm">m</abbr>en. Um nur jeder übel<pc force="weak">=</pc><lbr/>wollenden Mißdeutung, oder vorschnellen Urtheilen zuvorzuko<abbr type="topline" expand="mm">m</abbr>en,<lbr/>
+erlaube ich mir, den Bericht, welchen hierüber der <persName key="84746"><rend class="latin">Redacteur</rend></persName> der<lbr/>
+hier erscheinenden „<rend class="latin">Mnemos&#255;ne</rend>“ giebt, Ihnen hiemit be&#255;zuschließen,<lbr/>
+und Sie zu ersuchen, ihn ganz, oder nur im Auszuge, wie es<lbr/>
+Ihnen gefälligst ist, in die be&#255; Ihnen erscheinende <div type="commentary" xml:id="commentID2411_2">mus. Zeitung<lbr/>
+aufnehmen zu wollen<note corresp="#commentID2411_2">Der Bericht aus der Zeitung <i>Mnemosyne</i> (Nr. 102, 23. Dezember 1826, S. 408) über die Aufführung 
+des Requiems KV 626 von Wolfgang Amadé Mozart am 5. Dezember 1826 in Lemberg 
+wurde in der Leipziger <i>Allgemeinen musikalischen Zeitung</i> 29 (1827), Nr. 8, 21. Februar 1827, 
+Sp. 143, abgedruckt.</note></div>.<lbr/>
+<lbr/>
+<add_note schr_id="0" impl="pencil"><rend class="latin">hoho</rend></add_note>
+<add_note schr_id="0" impl="pencil">
+<rend class="latin">Mozart, Wolfgang Amadeus</rend><lbr/>
+d. Sohn d. unsterbl. Tondichters. Componist.<ts>_____</ts>selten!</add_note>
+<pg n="2"/>
+Ich ersuche Sie, recht sehr meiner Bitte zu willfahren, und indem<lbr/>
+ich schlüßlich noch meinen Dank für die mit übersandten<lbr/>
+Partituren der <workName key="11710">Jahreszeiten</workName> und der <rend class="latin">Oper</rend>: „<workName key="6757"><rend class="latin">Cosi fan tutte</rend>“</workName> bey<pc force="weak">=</pc><lbr/>füge, empfehle ich mich der Fortdauer Ihres Wohlwollens<lbr/>
+und zeichne mich hochachtungsvoll Ihnen ergebenster<lbr type="forced"/>
+<lbr type="forced"/>
+<u><rend class="latin">Lemberg</rend> am 31<h><uu>t</uu></h> Jä<abbr type="topline" expand="nn">n</abbr>er 1827</u><ts>______________________</ts><tspdf>\hfill </tspdf><persName key="39407"><rend class="latin">WA Mozart</rend></persName>&#160;<abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<pg n="3"/>
+<vacat/>
+<pg n="4"/>
+<anschrift rot="90">Herrn<lbr type="forced"/>
+<rend class="latin">Breitkopf</rend> &#38; <rend class="latin">Härtel</rend><lbr type="forced"/>
+berühmte <rend class="latin">Musikverleger</rend><lbr type="forced"/>
+in<lbr type="forced"/>
+<rend class="latin">Leipzig</rend></anschrift>
+<lbr/>
+<add_seal type="post">LEMBERG</add_seal><lbr/>
+<add_empf rot="270"><u>1827.</u><ts>_____________</ts><u><rend class="latin">Lemberg</rend>.</u><lbr/>
+<u><rend class="latin">den</rend> 31. <rend class="latin">Jan</rend>.</u><ts>_____</ts><rend class="latin">Mozart</rend><lbr/>
+<u> &#8211; 9<h><u>n</u></h>&#160;<rend class="latin">Febr</rend>.</u><lbr/>
+<u><ts>___</ts>0<ts>___</ts></u><ts>___________</ts><rend class="latin">No</rend> 320<lbr/>  
+</add_empf>
+<add_seal type="owner">FITZWILLIAM<lbr/>
+MUSEUM<lbr/>
+LIBRARY</add_seal>
+</NI></text>
+</MUP>

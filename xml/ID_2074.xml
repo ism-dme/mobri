@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="2074">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-06</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=2074</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sae</bibl>
+                <bibl type="source" subtype="long">A-Sae: Archiv der Erzdiözese Salzburg. Salzburg (AUT)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-05-11">last file update: <date>Wed May 11 14:48:28 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="ID_2074.mup">
+<HEADER id="2074">FRANZ XAVER WOLFGANG MOZART AN FRANZ VON HILLEPRANDT IN SALZBURG<lbr/>
+WIEN, 6. MÄRZ 1843</HEADER>
+<NI src="A-Sae">
+<pg n="1"/>
+<add_empf schr_id="75653"><ts>____________________________________________________________________________</ts>N<h>o</h> 237.</add_empf>
+<ts>___________________________________________________</ts><tspdf>\hfill </tspdf><u><rend class="latin">Wien</rend> am 6<h><uu>t</uu></h> März <abbr type="topline" expand="1843">843</abbr></u><lbr type="forced"/>
+<add_empf schr_id="75653"><ts>_____________________________________________________________________________________</ts><rend class="latin">Fasc.</rend> I.</add_empf>
+<lbr type="forced"/>
+<ts>_____</ts>Geehrter <persName key="75653">Freund</persName>!<lbr type="forced"/>
+<lbr type="forced"/>
+Vorerst empfangen Sie, so wie sä<abbr type="topline" expand="mm">m</abbr>tliche hochverehrten Mitglieder<lbr/>
+des <rend class="latin">Repräsentanten</rend> Körpers, meinen i<abbr type="topline" expand="nn">n</abbr>igsten, tiefgefühltesten<lbr/>
+Dank, für die Auszeichnung, der Sie mich, durch die <div type="commentary" xml:id="commentID2074_1">Erne<abbr type="topline" expand="nn">n</abbr>ung<lbr/>
+zum Ehrenkapellmeister<note corresp="#commentID2074_1">Die Repräsentanten des <i>Dommusikverein und Mozarteums</i> hatten Franz Xaver Wolfgang Mozart 
+in ihrer Sitzung am 7. November 1842 zum Ehrenkapellmeister des Vereins ernannt. 
+Franz von Hilleprandt setzte noch am selben Tag ein Schreiben an Mozart auf.
+Aus dem Sitzungsprotokoll (A-Sae, Dommusikverein 422) geht hervor, dass die 
+Ernennung zum Ehrenkapellmeister auf Mozarts eigenen Wunsch zurückging.</note></div>, Ihrer mir so sehr am Herzen liegenden<lbr/>
+<div type="commentary" xml:id="commentID2074_2">Anstalt<note corresp="#commentID2074_2">Der 1841 gegründete <i>Dommusikverein und Mozarteum</i>.</note></div>, würdig hielten, und nehmen Sie hiefür die<lbr/>
+Versicherung, <abbr expand="daß">dß</abbr> ich mit Vergnügen jede Gelegenheit ergreifen<lbr/>
+werde, dem Mozarteum nach besten Kräften nützlich zu se&#255;n. Ich ersuche<lbr/>
+Sie, in der nächsten Sitzung, diese meine Gefühle, sä<abbr type="topline" expand="mm">m</abbr>tlichen <rend class="latin">P T.</rend><lbr/>
+geehrten Mitgliedern, gefälligst mittheilen zu wollen. &#8211; <lbr type="forced"/>
+Die übersandten <div type="commentary" xml:id="commentID2074_3">Diplome<note corresp="#commentID2074_3">Diplome für Wiener Persönlichkeiten über die Ernennung 
+zu Ehrenmitgliedern des <i>Dommusikverein und Mozarteums</i>.</note></div> und <div type="commentary" xml:id="commentID2074_4">Jahresberichte<note corresp="#commentID2074_4"><i>Erster Jahresbericht vorgetragen bei der Plenarversammlung des Dom-Musik-Vereines 
+und Mozarteums zu Salzburg</i>, Salzburg 1843.</note></div>, habe ich bereits alle<lbr/>
+an die <rend class="latin">Adressen</rend> abgegeben, und überal die schönsten Versprechen<lbr/>
+dagegen erhalten. Namentlich sagten mir die Herrn <persName key="51375"><rend class="latin">Diabelli</rend></persName>, und<lbr/>
+<persName key="65379">Haslinger</persName> zu, dem Vereine nächsten ein Geschenk an Musikalien<lbr/>
+zu machen, und ich werde die nöthige Sorge tragen, die Sache nicht in<lbr/>
+Vergessenheit ko<abbr type="topline" expand="mm">m</abbr>en zu lassen. &#8211; So viel ich weis, ist nun das<lbr/>
+<div type="commentary" xml:id="commentID2074_5"><rend class="latin">Legat</rend>, an den Tischler <persName key="84976">Hansen</persName> in <rend class="latin">Copenhagen</rend> bereits ausgezahlt<note corresp="#commentID2074_5">Constanze Nissen hatte in ihrem Testament vom 23. Juni 1841 
+dem Tischler E. M. Hansen in Kopenhagen ein Legat von 100 Gulden bestimmt, 
+da er seinen erstgeborenen Sohn nach ihr Constantin getauft hatte. 
+Sie kannte Hansen vermutlich aus ihrer Zeit in Kopenhagen 1810 bis 1820.</note></div>, da sich<lbr/>
+die Dänische Gesandschaft deßhalb, an das Salzb<abbr type="curve"></abbr> Landrecht gewendet hat. Dagegen<lbr/>
+ersuche ich Sie, den Rest der <div type="commentary" xml:id="commentID2074_6">Pension<note corresp="#commentID2074_6">Constanze Nissen bezog seit dem Tod ihres dänischen Ehemanns 
+Georg Nikolaus Nissen im März 1826 halbjährlich eine Witwenpension 
+aus Kopenhagen. Sie war am 6. März 1842 in Salzburg gestorben.
+Franz von Hilleprandt vertrat die Mozart-Söhne in den Erbschaftsangelegenheiten.</note></div> meiner <persName key="48818">Mutter</persName> nicht zu übersehen, und<lbr/>
+<pg n="2"/>
+das Nöthige, in dieser Angelegenheit, veranlassen zu wollen. Auch bitte<lbr/>
+ich Sie recht sehr, <persName key="77903">H<abbr type="curve"></abbr> v. Petzold</persName>, an sein gegebenes Versprechen, hin<pc force="weak">=</pc><lbr/>sichtlich des <div type="commentary" xml:id="commentID2074_7">Grabmales<note corresp="#commentID2074_7">Das Grabmal des Ehepaares Nissen befindet sich auf dem St. Sebastian-Friedhof in Salzburg. 
+Es wurde im Frühjahr 1843 von dem Salzburger Bildhauer Franz Hitzl (1791–1856) restauriert 
+und mit einer neuen Inschrift für Constanze Nissen versehen.</note></div> meiner <persName key="48818 57010">Eltern</persName> gütigst zu eri<abbr type="topline" expand="nn">n</abbr>ern, und ihn im<lbr/>
+Voraus meines herzlichsten Dankes, für seine Gefälligkeit zu ver<pc force="weak">=</pc><lbr/>sichern. &#8211; Ihre geehrte <persName key="84769">Mutter</persName>, sieht vortrefflich aus, und trug<lbr/>
+mir alles freundliche an Sie, und all die Ihren auf. &#8211; <persName key="84770">Brandstätter</persName><lbr/>
+ist in seinen Studien sehr fleißig, und ich hoffe <abbr expand="daß">dß</abbr> nach gemachter<lbr/>
+Prüfung, ihm wieder mehr Zeit für die Musick bleiben wird. Da er<lbr/>
+wirklich Talent hat, so wäre es schade, we<abbr type="topline" expand="nn">n</abbr> er dieses nicht bestmöglich<lbr/>
+ausbilden würde, wozu es ihm übrigens auch gar nicht an guten Willen<lbr/>
+fehlt. Er hat nur so manche üble Gewohnheiten abzulegen, was ihm auch<lbr/>
+mit Beharrlichkeit gewiß gelingen wird. &#8211; Leben Sie recht wohl,<lbr/>
+lieber guter Frd, empfehlen Sie mich Ihrer gütigen <persName key="75652">Frau Gema<pc force="weak">=</pc><lbr/>lin</persName>, Fr<abbr type="curve"></abbr> Töchtern und Söhnen, so wie allen Beka<abbr type="topline" expand="nn">n</abbr>ten, und behalten<lbr/>
+Sie in freundlichem Andenken Ihren ergebenen Frd<lbr type="forced"/>
+<ts>____________________</ts><tshtm>____________________________________________________</tshtm><tspdf>\hfill </tspdf><persName key="39407"><rend class="latin">W A Mozart</rend></persName>&#160;<abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<pg n="3"/>
+<vacat/>
+<pg n="4"/>
+<anschrift><u><rend class="latin">Wien</rend></u><lbr type="forced"/>
+An Herrn<lbr type="forced"/>
+Herrn <rend class="latin">Franz Edlen</rend>&#160;<u>von <rend class="latin">Hilleprandt</rend></u><lbr type="forced"/>
+<rend class="latin">D<h><uu>r</uu></h></rend> der Rechte, Hof und Gerichts <rend class="latin">Advocat</rend><lbr type="forced"/>
+und <rend class="latin">K. K. Notar</rend> etc etc<lbr type="forced"/>
+<ts>______</ts><tshtm>_______</tshtm>in<lbr type="forced"/>
+<u><rend class="latin">Franco</rend></u><ts>______</ts><u><rend class="latin">Salzburg</rend></u><lbr type="forced"/>
+</anschrift>
+<lbr/>
+<add_seal type="post">FRANCO</add_seal>
+<add_seal type="post">WIEN<lbr/>
+9. MAR</add_seal>
+<add_seal type="post">SALZBURG<lbr/>
+11. MAR</add_seal>
+</NI></text>
+</MUP>

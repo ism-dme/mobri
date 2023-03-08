@@ -57,18 +57,20 @@
             <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1262</idno>
         </publStmt>
         <srcDesc>
-            <bibl type="source" subtype="short">A-Sm (S. 1-2); Verbleib unbekannt (S. 3-4; Nachweis: R. Bertling, Lagerkatalog 11, Dresden 1889, Nr. 30)</bibl>
+            <bibl type="source" subtype="short">A-Sm (S. 1-2); D-As (S. 3-4)</bibl>
+                <bibl type="source" subtype="long">A-Sm: Internationale Stiftung Mozarteum, Bibliotheca Mozartiana. Salzburg (AUT), S. 1-2</bibl>
+                <bibl type="source" subtype="long">D-As: Staats- und Stadtbibliothek. Augsburg (DEU), S. 3-4</bibl>
         </srcDesc>
         <revisDesc>
-            <change when="2021-11-05">last file update: <date>Fri Nov  5 13:56:28 2021</date></change>
+            <change when="2022-12-09">last file update: <date>Fri Dec  9 16:44:39 2022</date></change>
         </revisDesc>
     </mupHeader>            
 <text type="mobridoc" src="BD_695.mup">
 <letter bd="695"><HEADER id="1262">WOLFGANG AMADÉ MOZART AN LEOPOLD MOZART IN SALZBURG<lbr/>
 WIEN, 25. SEPTEMBER 1782</HEADER>
 <pg n="1"/>
-<add_num type="inline" impl="pencil">141.</add_num><ts>_____</ts><tshtm>____________________________________________________________________________</tshtm><tspdf>\hfill </tspdf><rend class="latin"><u>Vienne</u> ce</rend> 25:<h>t</h>&#160;<rend class="latin"><uu>Sep:</uu><h>bre</h></rend><lbr type="forced"/>
-<rend class="latin">Mon trés cher Pére!</rend><ts>____</ts><tshtm>_________________________________________________________________</tshtm><tspdf>\hfill </tspdf><uu>1782</uu>.<lbr type="forced"/>
+<add_num type="inline" impl="pencil">141.</add_num><ts>_____</ts><tshtm>_______________________________________________________________________</tshtm><tspdf>\hfill </tspdf><rend class="latin"><u>Vienne</u> ce</rend> 25:<h>t</h>&#160;<rend class="latin"><uu>Sep:</uu><h>bre</h></rend><lbr type="forced"/>
+<rend class="latin">Mon trés cher Pére!</rend><ts>____</ts><tshtm>____________________________________________________________</tshtm><tspdf>\hfill </tspdf><uu>1782</uu>.<lbr type="forced"/>
 <lbr type="forced"/>
 Ich habe ihr leztes vom 20:<h>t</h> dieses richtigst erhalten; und hoffe sie werden<lbr type="BD"/><lbr/>
 meine 4 zeilen |: woraus sie nichts als unser Wohlbefinden haben vernehmen<lbr type="BD"/><lbr/>
@@ -122,11 +124,32 @@ umarmen wir<lbr type="BD"/> vom herzen und sind Ewig<lbr type="forced"/>
 <lbr/>
 <add_seal type="owner">INTERNATIONALE<lbr type="forced"/>STIFTUNG:<lbr type="forced"/>„MOZARTEUM”<lbr type="forced"/>1881</add_seal>
 <pg n="3"/>
-<NI src="Unbekannt"><add_note>[Echtheitsbestätigungen von Constanze und Georg Nikolaus Nissen, Salzburg, 4. Februar 1826]</add_note>
+<NI src="D-As">
+<add_note schr_id="48817">25t<abbr v="en"/> 7<rend class="latin">ber</rend> 1782.</add_note>
+<add_note schr_id="57010">Dieses Datum ist die Schrift<lbr/>
+der Schwester Mozart's<lbr/>
+die seine Reisen nach Frankreich,<lbr/>
+England und Holland (1763–1766)<lbr/>
+mitmachte, nachherige Baroninn<lbr/>
+v. Berchtold zu Sonnenburg.</add_note>
+<anschrift>
+<rend class="latin">A<lbr type="forced"/>
+Monsieur<lbr type="forced"/>
+Monsieur Leopold Mozart maitre<lbr type="forced"/>
+de la Chapelle de S: A: R: l'archeveque<lbr type="forced"/>
+de et à<lbr type="forced"/>
+<u>Salzburg</u></rend>.</anschrift>
 <pg n="4"/>
-<anschrift><rend class="latin">A Monsieur Monsieur Leopold Mozart maitre de la Chapelle de et à Salzburg<lbr type="forced"/></rend></anschrift>
-<lbr/>
-<add_note schr_id="48817">25ten 7ber 1782</add_note></NI>
+<add_note schr_id="57010">Daß untenstehende Aufschrift eines Briefe an den Vater<lbr/>
+W. A. Mozarts, (gest. 1791.) meines gewesenen Gatten,<lbr/>
+W. A. Mozarts Handschrift ist, bezeuge ich hiemit,<lbr/>
+um den Herrn Geheimrath D.<h>r</h> Feuerstein dessen zu<lbr/>
+vergewissern. Salzburg 4. Febr. 1826.</add_note>
+<add_note schr_id="48818"><ts>__________</ts><rend class="latin">Constance Nissen</rend></add_note>
+<add_note schr_id="57010"><lbr/>
+Daß Vorstehendes die Unterschrift meiner Gattin, W. A. Mozarts<lbr/>
+Witwe (seit 1791) ist, bezeuge ich. <u><rend class="latin">Nissen</rend></u></add_note>
+</NI>
 </letter>
 </text>
 </MUP>

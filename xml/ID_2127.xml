@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="2127">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-06</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=2127</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">D-Hs</bibl>
+                <bibl type="source" subtype="long">D-Hs: Staats- und Universitätsbibliothek Carl von Ossietzky</bibl>
+                <bibl type="source" subtype="long">Musikabteilung. Hamburg (DEU)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-10-27">last file update: <date>Thu Oct 27 11:24:03 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="ID_2127.mup">
+<HEADER id="2127">FRANZ XAVER WOLFGANG MOZART AN HERMANN HÄRTEL IN LEIPZIG<lbr/>
+WIEN, 27. APRIL 1841</HEADER>
+<NI src="D-Hs">
+<pg n="1"/>
+<ts>_________</ts>Geehrter <persName key="75357">Herr</persName>!<lbr type="forced"/>
+<lbr type="forced"/>
+Ich erlaube mir noch einmahl, Sie, an<lbr/>
+das mir vor zwe&#255; Jahren gütigst gege<pc force="weak">=</pc><lbr/>bene Versprechen, mir die <div type="commentary" xml:id="commentID2127_1"><u><rend class="latin">Clavier=Concerte</rend></u><note corresp="#commentID2127_1">Zwischen 1800 und 1804 waren 20 Klavierkonzerte von Wolfgang Amadé Mozart 
+im Rahmen der <i>Oeuvres complettes</i> von Breitkopf &#38; Härtel erschienen.</note></div>,<lbr/>
+meines <persName key="39409">Vater’s</persName>, und dessen mir mangelnde<lbr/>
+<div type="commentary" xml:id="commentID2127_2"><u><rend class="latin">Partituren</rend></u> Ihres Verlages<note corresp="#commentID2127_2">Darunter die Partituren der Opern <i>Così fan tutte</i> KV 588 
+und <i>La clemenza di Tito</i> KV 621 sowie der 
+beiden Messen KV 257 und KV 317.</note></div> schiken zu wollen.<lbr/>
+Von letztern besitze ich nur, <workName key="6065"><u><rend class="latin">Don Juan</rend></u></workName>,<lbr/>
+und <workName key="7373"><u><rend class="latin">Requiem</rend></u></workName>, und die <div type="commentary" xml:id="commentID2127_3">sieben Geistlichen<lbr/> 
+<u><rend class="latin">Cantaten</rend></u><note corresp="#commentID2127_3">KV 1 Anh. 124–130. Zwischen 1808 und 1823 waren bei Breitkopf &#38; Härtel sieben Kantaten 
+erschienen, bei denen es sich um Bearbeitungen von geistlichen Werken Wolfgang Amadé Mozarts 
+mit unterlegtem deutschen Text handelt.</note></div>. Seÿn Sie im Voraus, des<lbr/>
+wärmsten Dankes, für die baldige Ge<pc force="weak">=</pc><lbr/>währung meiner Bitte versichert. Indem<lbr/>
+ich Sie ersuche, ja gewiß die <div type="commentary" xml:id="commentID2127_4"><rend class="latin">S&#255;mphonien</rend><note corresp="#commentID2127_4">Zwischen 1809 und 1841 waren bei Breitkopf &#38; Härtel 12 Sinfonien 
+in Partitur erschienen: KV 250, 297, 319, 320, 338, 385, 425, 504, 
+543, 550, 551 und KV Anh. C11.09 [= LMV VII: G 8]. 
+</note></div><lbr/>
+nicht zu vergessen, zeichnet sich mit aus<pc force="weak">=</pc><lbr/>gezeichneter Hochachtung Ihr ergebenster<lbr type="forced"/>
+<u><rend class="latin">Wien</rend> am 27<h><uu>t</uu></h>&#160;<rend class="latin">April</rend>&#160;<abbr type="topline" expand="1841">841</abbr></u><ts>___________</ts><tspdf>\hfill </tspdf><persName key="39407"><rend class="latin">W A Mozart</rend></persName>&#160;<abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<lbr/>
+<add_note schr_id="0" impl="ink" color="red"><unclear><rend class="latin">not</rend></unclear> Str. M. 358<lbr/>
+d. 13/5. 41.</add_note>
+<pg n="2"/>
+<add_empf><u>1841.</u><ts>__________</ts><u><rend class="latin">Wien</rend></u><lbr type="forced"/>
+<u>27<h>t</h>&#160;<rend class="latin">April</rend></u><ts>_______</ts>Mozart<lbr type="forced"/>
+<u><ts>______</ts><rend class="latin">Mai</rend></u><lbr type="forced"/>
+<u><ts>_______</ts></u> durch <persName key="75458"><rend class="latin">Haslinger</rend></persName> gesandt<lbr type="forced"/>
+<ts>_______</ts>u. 9. Juni resp.</add_empf>
+<lbr/>
+<anschrift rot="180">S.r Wohlgeborn<lbr type="forced"/>
+Herrn <rend class="latin">Doctor Haertl</rend><lbr type="forced"/>
+in<lbr type="forced"/>
+<rend class="latin">Leipzig</rend></anschrift>
+<lbr/>
+<add_note schr_id="0" impl="pencil"><rend class="latin">Mozart Sohn W. A.</rend></add_note>
+</NI></text>
+</MUP>

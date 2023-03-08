@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="4368">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-06</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=4368</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">CH-Bps</bibl>
+                <bibl type="source" subtype="long">CH-Bps: Paul Sacher Stiftung</bibl>
+                <bibl type="source" subtype="long">Bibliothek. Basel (CHE)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-05-11">last file update: <date>Wed May 11 14:48:35 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="ID_4368.mup">
+<HEADER id="4368">GEORG NIKOLAUS NISSEN, VOLLMACHTEN FÜR FRANZ XAVER WOLFGANG MOZART IN LEMBERG<lbr/>
+MAILAND, 17. UND 20. MAI 1822</HEADER>
+<NI src="CH-Bps">
+<pg n="1"/>
+Diese Papier gilt meinem lieben Stiefsohne <persName key="39407">Wolfgang<lbr/>
+Amadeus Mozart</persName> für eine Vollmacht,<lbr type="forced"/>
+<ts>__________</ts>nach meinem Tode<lbr type="forced"/>
+bei dem kön: sardinischen Generalkonsul hieselbst,<lbr/>
+Herrn <persName key="84791"><rend class="latin">Chevalier Buonamico</rend></persName>, einen versigelten Pakken<lbr/>
+in folio in Empfange zu nehmen, den ich ihm in Ver<pc force="weak">-</pc><lbr/>[wa]hrung gegeben habe, auch dessen Aufschrift anzeigt,<lbr/>
+daß der Inhalt mir gehört und die Pakken unter<lbr/>
+andern an <persName key="39407">W. A. Mozart</persName> ausgeliefert werden kann.<lbr/>
+NB. da ich eine gleiche Vollmacht an seinen <persName key="48820">Bruder</persName> aus<pc force="weak">-</pc><lbr/>gestellt habe, so ist gegenwärtige freilich nur dann<lbr/>
+gültig, wenn der Bruder von der seinigen nicht Gebrauch<lbr/>
+gemacht hat. Mailand 20 Mai 1822<lbr type="forced"/>
+<ts>_____________</ts><persName key="57010"><rend class="latin">Georg Nicolai <u>Nissen</u></rend></persName><lbr type="forced"/>
+<ts>_____</ts>Ritter, k. dänischer w. Etatsrath, aus Copenhagen.<conv><ts>___</ts><u><rend class="latin">Verte</rend></u></conv>
+<lbr type="forced"/>
+<lbr type="forced"/>
+Dieses Papier gilt meinem lieben Stiefsohne <persName key="39407">Wolf<pc force="weak">-</pc><lbr/>gang Amadeus Mozart</persName> für eine Vollmacht,<lbr type="forced"/>
+<ts>__________</ts>nach meinem Tode<lbr type="forced"/>
+bei den Herrn <persName key="77521"><rend class="latin">Heinrich Mylius</rend></persName> und <rend class="latin">Compagnie</rend><lbr/>
+hieselbst einen versiegelten Pakken in Folio<lbr/>
+in Empfang zu nehmen; den ich ihnen heute in<lbr/>
+Verwahrung gegeben habe, und dessen Aufschrift<lbr/>
+Familien Papiere und Briefe als dessen<lbr/>
+Inhalt angiebt.<lbr type="forced"/>
+NB. da ich eine gleiche Vollmacht an seinen <persName key="48820">Bruder</persName><lbr/>
+ausgestellt habe, so ist gegenwärtige freilich nur<lbr/>
+dann gültig, wenn der Bruder von der seinigen nicht<lbr/>
+Gebrauch gemacht hat.<ts>____</ts><persName key="57010"><rend class="latin">Georg Nicolai <u>Nissen</u></rend></persName><lbr type="forced"/>
+Mailand 17 Mai 1822<ts>_____</ts>Ritter, k. dänischer w. Etatsrath,<lbr type="forced"/>
+<ts>____________________________</ts>aus Copenhagen.<ts>___</ts><u><conv><rend class="latin">Verte</rend></conv></u><lbr type="forced"/>
+<lbr type="forced"/>
+<pg n="2"/>
+Da die <rend class="latin">beiden</rend> Pakken, die ich, nöthigenfals, zur disposition<lbr/>
+des <persName key="39407">Wolfgang Amadeus Mozart</persName> stelle, einerlei<lbr/>
+Inhalt haben, so verordne ich hiemit, daß er, wenn<lbr/>
+sein <persName key="48820">Bruder</persName> am Leben ist, nur den einen Pakken zu<lbr/>
+sich nehme. Wenn sein Bruder todt wäre, gehören ihm<lbr/>
+allerdings beide Pakken. Im ersten Falle soll er<lbr/>
+dafür sorgen, daß sein Bruder gewiß den einen Pakken erhalte.<lbr/>
+Aus einer gewissen Ursache wünsche ich, daß <persName key="48820">Karl Mozart</persName><lbr/>
+vorzüglich den Pakken bekomme, den H<abbr type="curve"></abbr>&#160;<persName key="84791">Chevalier Buonamico</persName><lbr/>
+in Verwahrung hat.<lbr type="forced"/>
+Ich habe <persName key="48820">Karln</persName> zur Pflicht gemacht, dem <persName key="39407">Wolfgang</persName> eine<lbr/>
+Abschrift von einem großen <div type="commentary" xml:id="commentID4368_1">Briefe von mir an ihn<note corresp="#commentID4368_1">Brief nicht bekannt.</note></div>, Karln,<lbr/>
+gleich nach meinem Tode sicher zuzubefördern. <u><persName key="57010">Nissen</persName></u><lbr type="forced"/>
+<u>verte</u><lbr type="forced"/>
+<lbr type="forced"/>
+Da die <rend class="latin">beiden</rend> Pakken, die ich, nöthigenfals, zur disposition<lbr/>
+des <persName key="39407">Wolfgang Amadeus Mozart</persName> stelle, einerlei Inhalt<lbr/>
+haben, so verordne ich hiemit, daß er, wenn sein <persName key="48820">Bruder</persName><lbr/>
+am Leben ist, nur den einen Pakken zu sich nehme.<lbr/>
+Wenn sein Bruder todt wäre, gehören ihm allerdings<lbr/>
+beide Pakken. Im ersten Falle soll er dafür sorgen,<lbr/>
+daß sein Bruder gewiß den einen Pakken erhalte.<lbr/>
+Aus einer gewissen Ursache wünsche ich, daß<lbr/> 
+<suppl hand="self" pos="inline"><persName key="48820">Karl Mozart</persName></suppl> vorzüglich den Pakken erhalte, den H<abbr type="curve">:</abbr><lbr/>
+<persName key="84791">Chevalier Buonamico</persName> in Verwahrung hat.<lbr type="forced"/>
+Ich habe <persName key="48820">Karln</persName> zur Pflicht gemacht, dem <persName key="39407">Wolfgang</persName><lbr/>
+eine Abschrift von eines großen Briefs von mir an<lbr/>
+ihn, Karln, gleich nach meinem Tode sicher zuzufertigen.<lbr type="forced"/>
+verte<ts>_____________________________________</ts><persName key="57010"><u>Nissen</u></persName><lbr/>
+<pg n="3"/>
+<anschrift>Herrn<lbr type="forced"/>
+Herrn Mozart<lbr type="forced"/>
+Musikkompositör<lbr type="forced"/>
+Plaz<lbr type="forced"/>
+153<lbr type="forced"/>
+2<h>t</h> Stock<lbr type="forced"/>
+Fr/<ts>_______</ts>Lemberg</anschrift>
+<pg n="4"/>
+<add_ident hand="diff" schr_id="0">G. N. Von NISSEN</add_ident>
+</NI>
+</text>
+</MUP>

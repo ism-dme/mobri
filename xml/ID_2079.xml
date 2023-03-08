@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="2079">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-06</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=2079</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sae</bibl>
+                <bibl type="source" subtype="long">A-Sae: Archiv der Erzdiözese Salzburg. Salzburg (AUT)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-05-11">last file update: <date>Wed May 11 14:48:28 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="ID_2079.mup">
+<HEADER id="2079">FRANZ XAVER WOLFGANG MOZART AN FRANZ VON HILLEPRANDT IN SALZBURG<lbr/>
+WIEN, 17. APRIL 1842</HEADER>
+<NI src="A-Sae">
+<pg n="1"/>
+<ts>___________________________________</ts> <tspdf>\hfill </tspdf><u>Wien am 17<h><uu>t</uu></h> April <abbr type="topline" expand="1842">842</abbr></u><lbr type="forced"/>
+<lbr type="forced"/>
+<ts>__________</ts>Geehrter <persName key="75653">Freund</persName>!<lbr type="forced"/>
+<lbr type="forced"/>
+In Erwiederung Ihres freundlichen <div type="commentary" xml:id="commentID2079_1">Briefes vom 9<h><uu>t</uu></h> dieses<note corresp="#commentID2079_1">Brief vom 9. April 1842.</note></div>, übersende<lbr/>
+ich Ihnen, be&#255;liegend das Schreiben an <persName key="79503"><rend class="latin">Madame Unger-Sabathier</rend></persName>, mit<lbr/>
+meiner Unterfertigung zurück, und wünsche gewiß recht sehnlich, den besten<lbr/>
+Erfolg. &#8211; Den <div type="commentary" xml:id="comment2079_2"><rend class="latin">Coupon</rend> Bogen<note corresp="#commentID2079_2">Für eine Bank-Obligation. Der Jurist Franz von Hilleprandt vertrat die beiden 
+Mozart-Söhne nach dem Tod ihrer Mutter am 6. März 1842 in Salzburg in Erbschaftsangelegenheiten.</note></div> habe ich erhalten, und danke freundlichst<lbr/>
+für die gütige Besorgung. &#8211; Waren Sie schon so gefällig, etwas, wegen<lbr/>
+der uns noch zuko<abbr type="topline" expand="mm">m</abbr>enden <div type="commentary" xml:id="commentID2079_3"><rend class="latin">Pension</rend> für zwe&#255; Monate, be&#255; der königl<lbr/>
+dänischn <rend class="latin">Direktion</rend> der Wittwenkassa in <rend class="latin">Copenhagen</rend><note corresp="#commentID2079_3">Constanze Nissen bezog seit dem Tod ihres dänischen Ehemanns 
+Georg Nikolaus Nissen im März 1826 halbjährlich eine Witwenpension aus Kopenhagen.</note></div> zu veranlassen?<lbr/>
+Der <persName key="84765"><rend class="latin">Susa<abbr type="topline" expand="nn">n</abbr>a Falk</rend></persName>, habe ich das nöthige durch <persName key="66638">h<abbr type="curve"></abbr> Schuller</persName> sagen <suppl hand="self" pos="supra">lassen</suppl>, welche<lbr/>
+letztere mir auch versicherten, die erforderlichen Schritte zu Gunsten der<lbr/>
+<div type="commentary" xml:id="commentID2079_4"><rend class="latin">Legatari<abbr type="topline" expand="nn">n</abbr></rend><note corresp="#commentID2079_4">Constanze Nissen hatte in ihrem Testament Susanna Falk in Wien
+100 Gulden vermacht. Bei der Legatarin handelt es sich wahrscheinlich 
+um eine ehemalige Dienstmagd, die sie bereits seit 1830 finanziell unterstützte.</note></div> zu machen. &#8211; Leben Sie recht wohl, de<abbr type="topline" expand="nn">n</abbr> es hat heute große<lbr/>
+Eile, Ihr alter aufrichtiger Frd<lbr type="forced"/>
+<ts>___________________________________________________</ts><tspdf>\hfill </tspdf><persName key="39407"><rend class="latin">WA Mozart</rend></persName> mp<lbr/>
+<pg n="2"/>
+<vacat/>
+<pg n="3"/>
+<vacat/>
+<pg n="4"/>
+<anschrift>Wien<lbr type="forced"/> 
+An Herrn<lbr type="forced"/>
+Franz <u>Edlen von Hilleprandt</u><lbr type="forced"/>
+Sämmtlicher Rechte Doktor, Hof- und Gerichts<pc force="weak">-</pc><lbr type="forced"/>Advocat, und beeideter öffentlicher Notar<lbr type="forced"/>
+zu<lbr type="forced"/>
+<rend class="latin">Salzburg</rend><lbr type="forced"/>
+<rend class="latin">Franco</rend></anschrift>
+<lbr/>
+Mozart. Grün[angergasse] No 850.
+<lbr/>
+<add_seal type="post">WIEN<ts>____</ts>Franco<lbr/>
+RECOMMAND.<ts>___</ts>17 APR.</add_seal>
+</NI></text>
+</MUP>

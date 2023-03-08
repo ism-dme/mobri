@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="2358">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-06</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=2358</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Wn</bibl>
+                <bibl type="source" subtype="long">A-Wn: Österreichische Nationalbibliothek. Wien (AUT)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-06-07">last file update: <date>Tue Jun  7 15:57:37 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="ID_2358.mup">
+<HEADER id="2358">HENRI VIEUXTEMPS AN FRANZ XAVER WOLFGANG MOZART IN WIEN<lbr/>
+BRÜSSEL, 7. SEPTEMBER 1843</HEADER>
+<NI src="A-Wn">
+<pg n="1"/>
+<ts>____________________________________</ts> <tspdf>\hfill </tspdf><rend class="latin">Bruxelles, ce 7 sept: 1843.<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____</ts>Mon cher Monsieur <persName key="39407">Mozart</persName>,<lbr type="forced"/>
+<lbr type="forced"/>
+Je viens en toute hâte me rappeler à votre <div type="commentary" xml:id="commentID2358_1">bon souve<pc force="weak">=</pc><lbr/>nir<note corresp="#commentID2358_1">Wann und wo sich Henri Vieuxtemps und Franz Xaver Wolfgang Mozart 
+das erste Mal begegnet sind, ist nicht bekannt. 
+Der Musiker August Walter (1820–1896) berichtet in seinen Erinnerungen 
+von einem gemeinsam mit Mozart und Vieuxtemps verbrachten Silvesterabend 
+1842 im Hause der Josephine Baroni-Cavalcabò in Wien.
+Am 1. Mai 1843 widmete Vieuxtemps in Wien Mozart ein Stammbuchblatt (A-Sm, Doc1843/5).</note></div> et vous présenter mon meilleur ami</rend>, <div type="commentary" xml:id="commentID2358_2"><persName key="84779"><rend class="latin">M<h><uu>r</uu></h> Eug:<lbr/>
+de Bremacker</rend></persName><note corresp="#commentID2358_2">Eugène de Bremacker ist vielleicht der Sohn von P. de Bremacker, dem Henri Vieuxtemps 
+sein Violinkonzert Nr. 2 fis-Moll, op. 20 (Druck ca. 1846) widmete.</note></div>, <rend class="latin">porteur de ces quelques lignes. Ce<lbr/>
+tout jeune homme est docteur  en science et vient de<lbr/>
+faire un voyage en Suisse et visite actuellement les<lbr/>
+principales capitales de l’allemagne. Faire la<lbr/>
+connaissance des hommes les plus distingués des pays<lbr/>
+qu’il parcourt, c’est là son <suppl hand="self" pos="infra">principal</suppl> but. Je crois donc<lbr/>
+lui procurer une véritable bonne fortune en vous<lbr/>
+l’adressant et en lui faisant faire la vôtre. Il est<lbr/>
+musicien et grand admirateur des chefs-d’Oeuvres<lbr/>
+de l’art, et je suis sûr que ce n’est qu’avec un<lbr/>
+respect tout religieux qu’il vous approchera. &#8211; <lbr type="forced"/>
+Que font ces Dames</rend>&#160;<persName key="49553"><rend class="latin">Cavalcabo</rend></persName>&#160;<rend class="latin">et</rend>&#160;<persName key="65250"><rend class="latin">sa fille, M<h><u>me</u></h></rend> ...</persName><lbr/>
+<rend class="latin">J’espère qu’elles sont en bonne santé? Présentez<lbr/>
+leur mes hommages respectueux je vous prie. &#8211; <lbr type="forced"/> 
+Je suis venu trouver du changement dans ma<lbr/>
+famille. &#8211; Ma</rend>&#160;<persName key="84780"><rend class="latin">sœur</rend></persName>&#160;<rend class="latin">unique, agée à peine de 20<lbr/>
+ans est morte trois semaines avant mon arrivée<lbr/>
+à Bruxelles et a plongé touts les miens dans la<lbr/>
+consternation. Pour moi cette nouvelle m’a attéré,<lbr/>
+jusqu’aujourd’hui je ne puis m’en faire une raison.<lbr/>
+Elle était un modèle de candeur, de douceur et de dévoue<pc force="weak">=</pc><lbr/>ment. &#8211; Enfin elle est retournée vers son essence<lbr/>
+primitive et ce qui <suppl hand="self" pos="inline">est</suppl> fait là-haut est bien fait. &#8211; <lbr type="forced"/>
+&#8211; Je vais me mettre en route pour les Etats<pc force="strong">=</pc><lbr/>Unis &#8211; mardi prochain je m’embarque et je<lbr/>
+compte d’être à New-york vers le 10 ou le<lbr/>
+15 octobre. C’est là <div type="commentary" xml:id="commentID2358_3">un voyage<note corresp="#commentID2358_3">Henri Vieuxtemps unternahm mit der Wiener Pianistin Josephine Eder, seiner späteren Ehefrau, 
+eine Konzertreise nach Amerika, Mexiko und Kuba. Im Juni 1844 kehrten sie nach Europa zurück.</note></div> assez long</rend><lbr/>
+<lbr/>
+<add_seal type="owner">INTERNATIONALES MUSIKER-BRIEF-ARCHIV</add_seal>
+<pg n="2"/>
+<rend class="latin">mais intéressant. Les chances comme artiste sont<lbr/>
+incertaines. Dieu <suppl hand="self" pos="supra">sait</suppl> ce qui en sera. Ad vienne<lbr/>
+que pourra, je me risque. Néanmoins je me re<pc force="weak">=</pc><lbr/>commande à votre bon souvenir, mon cher</rend>&#160;<persName key="39407"><rend class="latin">M<h><uu>r</uu></h> Mozart</rend></persName><lbr/>
+<rend class="latin">ainsi qu’à celui de touts mes amis. &#8211; Je ne<lbr/>
+puis rien vous dire, quant à votre</rend>&#160;<div type="commentary" xml:id="commentID2358_4"><rend class="latin">envoi au</rend>&#160;<persName key="84781"><rend class="latin">Roi Léopold</rend></persName><note corresp="#commentID2358_4">Das Schreiben von Franz Xaver Wolfgang Mozart an den belgischen König Leopold I. ist nicht bekannt.</note></div>.<lbr/> 
+<rend class="latin">Celui-ci est en ce moment à Ems je crois et</rend>&#160;<persName key="84782"><rend class="latin">M<h><uu>r</uu></h> Conway</rend></persName>,<lbr/>
+<rend class="latin">à qui je comptais parler de votre affaire, l’y a suivi.<lbr/>
+Je le regrette beaucoup, vous ne doutez pas de tout le<lbr/>
+bonheur que j’aurais eu à vous être agréable de quelle<lbr/>
+manière c’eut été. Comptez donc sur moi et<lbr/>
+sur la profonde et sincère amitié que je vous ai vouée.<lbr type="forced"/>
+<ts>_____</ts>Mes respects à ces</rend>&#160;<persName key="49553 65250"><rend class="latin">Dames</rend></persName>&#160;<rend class="latin">et à</rend>&#160;<persName key="84764"><rend class="latin">M<h><uu>r</uu></h> Baroni</rend></persName>. &#8211; <lbr type="forced"/>
+<ts>________________________</ts><rend class="latin">Votre dévoué et affectioné</rend><lbr type="forced"/>
+<ts>______________________________________</ts><tspdf>\hfill </tspdf><persName key="60208"><rend class="latin">H Vieuxtemps</rend></persName>
+<lbr/>
+<add_note schr_id="0">M<h><u>r</u></h> Mozart.</add_note>
+</NI></text>
+</MUP>

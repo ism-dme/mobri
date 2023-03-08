@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="4420">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-06</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=4420</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">CH-Zz</bibl>
+                <bibl type="source" subtype="long">CH-Zz: Zentralbibliothek. Handschriftenabteilung. Zürich (CHE)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-06-08">last file update: <date>Wed Jun  8 14:19:21 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="ID_4420.mup">
+﻿<HEADER id="4420">FRANZ XAVER WOLFGANG MOZART AN HANS GEORG NÄGELI IN ZÜRICH  <lbr/>
+LEMBERG, 21. MAI 1826</HEADER>
+<NI src="CH-Zz">
+<pg n="1"/>
+<ts>_____</ts>Hochgeehrter <persName key="64698">Herr</persName>!<lbr type="forced"/>
+<lbr type="forced"/>
+Da ich auf meinen <div type="commentary" xml:id="commentID4420_1">ersten Brief<note corresp="#commentID4420_1">Brief vom 8. April 1826.</note></div>, den ich Ihnen vor<lbr/>
+ohngefähr 6 Wochen zuschickte keine Antwort er<pc force="weak">=</pc><lbr/>hielt, so muß ich befürchten, daß derselbe verlohren<lbr/>
+gegangen sey, und sehe mich daher genöthigt, Sie nochmahls<lbr/>
+mit diesen Zeilen zu belästigen. Die gütige Aufnahme<lbr/>
+und die freundschaftlichen Äußerungen mit denen Sie<lbr/>
+mich bey meiner <div type="commentary" xml:id="commentID4420_2">Anwesenheit in Zürch<note corresp="#commentID4420_2">Während seiner großen Konzertreise durch Europa
+hielt sich Franz Xaver Wolfgang Mozart 
+vom 3. Oktober bis zum 1. November 1820 in Zürich auf. 
+Sein Reisetagebuch belegt zwei Besuche bei Hans Georg Nägeli.</note></div> beehrten, la<pc force="weak">=</pc><lbr/>ßen mich hoffen, daß meine Bitte bey Ihnen<lbr/>
+nicht ohne Gewährung bleiben wird. Ich laß vor<lbr/>
+einiger Zeit Ihre Ankündigung der <div type="commentary " xml:id="commentID4420_3">100 Chöre die<lbr/>
+Sie für Singvereine herauszugeben willens sind, in<lbr/>
+der Zeitung<note corresp="#commentID4420_3" >Im Intelligenz-Blatt Nr. 41 (S. 161f.) zur Ausgabe der Zeitung <i>Morgenblatt für gebildete Stände</i>
+vom 10. Dezember 1825, publizierte Hans Georg Nägeli einen Subskriptionsaufruf für eine auf sechs Hefte
+angelegte Sammelpublikation <i>SIONA. Auswahl classischer Chorgesänge</i>, die für Singvereine in 
+„kleinern und größern Städten“ geeignet sind. Das erste Heft enthielt Fugetten und Fugen von 
+Gottfried Heinrich Stölzel (1690–1749). Das Exemplar aus der Bibliothek von Franz Xaver Wolfgang Mozart 
+wird heute im Musikarchiv der Erzdiözese Salzburg aufbewahrt (Signatur: M.N. 89).
+Weitere Hefte der <i>SIONA</i> sind offenbar nicht erschienen.
+</note></div>. Ich kann mich nun nicht mehr erin<pc force="weak">=</pc><lbr/>nern, ob die Zeit der <rend class="latin">Praenumeration</rend> bereits<lbr/>
+verfloßen sey, oder nicht; muß mich aber dadurch<lbr/>
+<pg n="2"/>
+bey Euer Hochgeborn entschuldigen, daß ich erst <emend value="vor">von</emend> einigen<lbr/>
+Wochen, mit meinem Plane, hier einen kleinen <div type="commentary" xml:id="commentID4420_4">Singverein<lbr/>
+zu gründen<note corresp="#commentID4420_4">Franz Xaver Wolfgang Mozart hatte im April 1826 in Lemberg einen Cäcilien-Verein gegründet.</note></div>, und mit der Erlaubniß hiezu, ins Reine kam,<lbr/>
+folglich früher nichts unternehmen konnte. Meine Bitte<lbr/>
+geht vorerst dahin, mir im Falle auch die <rend class="latin">Pränumerations</rend><lbr/>
+Zeit schon verstrichen wäre, dieses gütigst nachsehen zu<lbr/>
+wollen, 2<h><uu>tens</uu></h>, mir von jeder Singsti<abbr type="topline" expand="mm">m</abbr>e in ihrem ihr zuko<abbr type="topline" expand="mm">m</abbr>en<pc force="weak">=</pc><lbr/>den Schlüßel 8 Exemplare abdrücken zu laßen, mit aus<pc force="weak">=</pc><lbr/>nahme des Alt=Schlüßels, welchen ich ebenfals in <rend class="latin">violin</rend><lbr/>
+Schlüßel zu <rend class="latin">transponiren</rend> bitte, um meinen Zöglingen<lbr/>
+das lesen zu erleichtern. Ich bitte Sie, mir gefälligst<lbr/>
+anzuzeigen, und mir zu besti<abbr type="topline" expand="mm">m</abbr>en, ob Sie die Zahlung<lbr/>
+in Wien bey Herrn <persName key="66652"><rend class="latin">Tendler</rend> und <rend class="latin">Mannstein</rend></persName>, oder<lbr/>
+<suppl hand="self" pos="inline">bey</suppl>&#160;<persName key="84744">Herrn <rend class="latin">Knobloch</rend></persName> in <rend class="latin">Leipzig</rend>, mit welchen die hiesige<lbr/> 
+Kunsthandlung, <persName key="84745"><rend class="latin">Kuhn et Millikowsky</rend></persName>, in Verbindung<lbr/>
+<pg n="3"/>
+stehet haben wollen, auf welchem Wege ich Euer<lbr/>
+Wohlgeborn auch ersuche Ihre Sendungen baldmöglichst<lbr/>
+einleiten zu wollen. Mich Ihrem fernerm gütigen<lbr/>
+Andenken und Wohlwollen empfehlend<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____________________</ts>Euer Wohlgeborn<lbr type="forced"/>
+<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>________________________________</ts><tspdf>\hfill </tspdf>ganz ergebenster Diener<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>________________________________</ts><tspdf>\hfill </tspdf><persName key="39407"><rend class="latin">Wolfgang Amadeus Mozart</rend></persName><lbr type="forced"/>
+<lbr type="forced"/>
+Lemberg, 21<h>ten</h> Ma&#255; <abbr type="topline" expand="1826">826</abbr>.<lbr type="forced"/>
+<pg n="4"/>
+<anschrift>
+<rend class="latin">Ha<abbr type="topline" expand="nn">n</abbr>s Georg Nägeli<lbr type="forced"/>
+Musikverleger<lbr type="forced"/>
+<u>in</u><lbr type="forced"/>
+Zürich</rend></anschrift>
+<add_seal type="post">LEMBERG</add_seal>
+</NI></text>
+</MUP>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="2083">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2022">2022-05</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=2083</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">B-Bc</bibl>
+                <bibl type="source" subtype="long">B-Bc: Conservatoire Royal de Musique</bibl>
+                <bibl type="source" subtype="long">Bibliothèque</bibl>
+                <bibl type="source" subtype="long">Koninklijk Conservatorium</bibl>
+                <bibl type="source" subtype="long">Bibliotheek. Brüssel (BEL: Brussel/Bruxelles)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2022-05-13">last file update: <date>Fri May 13 15:54:43 2022</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="ID_2083.mup">
+<HEADER id="2083">FRANZ XAVER WOLFGANG MOZART AN CARL FRIEDRICH PETERS IN<tspdf>\newline</tspdf> LEIPZIG<lbr/>
+MÜNCHEN, 14. MÄRZ 1821</HEADER>
+<NI src="B-Bc">
+<pg n="1"/>
+<add_num impl="crayon" color="blue"><ts>________________________________________________________________________________________________________________________</ts><u>12</u></add_num><lbr/>
+<ts>__________________</ts><tshtm>_________________________________</tshtm><tspdf>\hfill </tspdf><u>München den 14<h><uu>t</uu></h> März 1821</u><lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_________________________</ts>Lieber <persName key="77883">Freund</persName>!<lbr type="forced"/>
+<lbr type="forced"/>
+Seit ich in Manheim, das Vergnügen hatte, Ihren letzten <div type="commentary" xml:id="commentID2083_1">Brief<note corresp="#commentID2083_1">Brief nicht erhalten.</note></div> zu erhalten, habe<lbr/>
+ich mich in <div type="commentary" xml:id="commentID2083_2">Darmstadt, <rend class="latin">Carlsruhe</rend>, <u>u</u> Stuttgardt herum getrieben<note corresp="#commentID2083_2">Franz Xaver Wolfgang Mozart befand sich seit Mai 1819 auf einer Konzertreise durch Europa.
+Vom 1. März bis zum 10. Mai 1821 hielt er sich in München auf.</note></div>, <u>u</u> ich vermuthe,<lbr/>
+da seither wieder zwey Monate vorüber sind, <abbr expand="daß">dß</abbr> mein <workName key="11557"><rend class="latin">Concert</rend></workName> in diesem Augen<pc force="weak">=</pc><lbr/>blicke wohl schon die <div type="commentary" xml:id="commentID2083_3">Preße verlassen hat<note corresp="#commentID2083_3">Das 2. Klavierkonzert Es-Dur op. 25 erschien bei Peters in Leipzig.</note></div>, oder <abbr expand="daß">dß</abbr> dieß in Kurzen geschehn wird.<lbr/>
+Aus verschiedenen Ursachen, muß ich hier einen sehr langen Aufenthalt machen,<lbr/>
+de<abbr type="topline" expand="nn">n</abbr> die <div type="commentary" xml:id="commentID2083_4">Hoftrauer<note corresp="#commentID2083_4">Am 4. Februar 1821 war Prinzessin Maximiliane Josepha Karoline von Bayern, 
+die jüngste Tochter von Maximilian I. Joseph von Bayern, gestorben.</note></div>, <u>u</u> die <rend class="latin">Concerte</rend> der Hofkapelle besti<abbr type="topline" expand="mm">m</abbr>en mich, mein <rend class="latin">Concert</rend><lbr/>
+erst <div type="commentary " xml:id="commentID">in der Osterwoche zu geben<note corresp="#commentID" >Aus dem Reisetagebuch von Franz Xaver Wolfgang Mozart geht hervor,
+dass man den Termin für sein Konzert in München mehrmals verschob.
+Letztlich konnte er in München kein Konzert geben.</note></div>; we<abbr type="topline" expand="nn">n</abbr> Sie mir also bis dahin | durch <persName key="74637"><rend class="latin">Falter</rend></persName> |<lbr/>
+ein <rend class="latin">Exemplar</rend> herschicken wollten, so wäre es mir sehr lieb. Sobald ich hier<lbr/>
+fertig bin, gehe ich über <div type="commentary" xml:id="commentID2083_5">Salzburg<note corresp="#commentID2083_5">Franz Xaver Wolfgang Mozart hielt sich vom 12. bis zum 24. Mai 1821 in Salzburg auf. Dort traf er seine 
+Tante Maria Anna von Berchtold zu Sonnenburg, die Schwester Wolfgang Amadé Mozarts, zum ersten Mal.</note></div> | der Geburtsstadt meines <persName key="39409">Vaters</persName> | nach<lbr/>
+<rend class="latin">Wien</rend>, wo ich den <div type="commentary" xml:id="commentID2083_6">So<abbr type="topline" expand="mm">m</abbr>er zu bleiben<note corresp="#commentID2083_6">Am Ende seiner großen Konzertreise blieb Franz Xaver Wolfgang Mozart 
+von Anfang Juli bis Anfang Oktober 1821 in Wien.</note></div> denke; den künftigen Winter aber bringe<lbr/>
+ich in <rend class="latin">Lemberg</rend> zu. Vielleicht gelingt es mir doch einmahl, eine Anstellung zu be<pc force="weak">=</pc><lbr/>ko<abbr type="topline" expand="mm">m</abbr>en; sollte dieß aber nicht der Fall seyn, so mache ich in ein paar Jahren<lbr/>
+<div type="commentary" xml:id="commentID2083_7">wieder eine Reise<note corresp="#commentID2083_7">Franz Xaver Wolfgang Mozart unternahm später keine weitere große Konzertreise.</note></div>, de<abbr type="topline" expand="nn">n</abbr> we<abbr type="topline" expand="nn">n</abbr> auch in diesen Zeiten, der <suppl hand="self" pos="supra">daraus entspringende</suppl> Vortheil nicht sehr<lbr/>
+bedeutend ist, so ist es doch i<abbr type="topline" expand="mm">m</abbr>er angenehmer, als das leidige Stunden ge<pc force="weak">=</pc><lbr/>ben. &#8211; Ich wünsche Ihnen den besten Erfolg, in der bevorstehenden Messe,<lbr/>
+und zeichne mich, mit Hochachtung, Ihren Freund<lbr type="forced"/>
+<ts>______________________</ts><tshtm>________________________________________________</tshtm><tspdf>\hfill </tspdf><persName key="39407"><rend class="latin">Mozart</rend></persName>&#160;<abbr expand="manu propria">mp</abbr><lbr type="forced"/>
+<lbr type="forced"/>
+Grüsse alln <div type="commentary " xml:id="commentID2083_8">Beka<abbr type="topline" expand="nn">n</abbr>ten<note corresp="#commentID2083_8" >Franz Xaver Wolfgang Mozart hatte sich vom 11. bis zum 27. Februar 1820 in Leipzig aufgehalten.</note></div>.<lbr type="forced"/>
+<lbr/>
+<add_seal type="owner">CONSERVATOIRE<lbr/>
+DE BRUXELLES<lbr/>
+BIBLIOTHÈQUE</add_seal>
+<pg n="2"/>
+<tspdf>\newpage</tspdf> 
+<anschrift rot="90">Herrn Herrn<lbr type="forced"/>
+<rend class="latin">C. F. <u>Peters</u></rend>.<lbr type="forced"/>
+berühmten Musick-Verleger<lbr type="forced"/>
+in<lbr type="forced"/>
+<u><rend class="latin">Leipzig</rend></u></anschrift>
+<lbr/>
+<add_empf rot="270"><u>1821</u><ts>_____</ts><u><rend class="latin">München</rend></u><lbr type="forced"/>
+14<rend class="latin">Merz</rend><ts>_____</ts><rend class="latin">Mozart</rend><lbr type="forced"/>
+<rend class="latin">April</rend></add_empf>
+<add_seal type="owner">CONSERVATOIRE<lbr/>
+DE BRUXELLES<lbr/>
+BIBLIOTHÈQUE</add_seal>
+<add_note schr_id="0" impl="pencil">MKst</add_note>
+</NI></text>
+</MUP>
