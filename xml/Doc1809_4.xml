@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="49">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2009">2009-08-20</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=49</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+                <bibl type="source" subtype="long">A-Sm: Internationale Stiftung Mozarteum, Bibliotheca Mozartiana. Salzburg (AUT)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2023-03-21">last file update: <date>Tue Mar 21 09:28:16 2023</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="Doc1809_4.mup">
+<HEADER id="49">CONSTANZE NISSEN AN CARL THOMAS MOZART IN MAILAND<lbr/>
+WIEN, 16. OKTOBER 1809<lbr/>
+mit Nachschrift von Georg Nikolaus Nissen</HEADER>
+<pg n="1"/>
+<add_num type="inline" impl="ink"><rend class="latin">N<h><uu>o</uu></h></rend> 29</add_num><ts>________________________________________________________</ts>wien am 16<h><uu>t</uu></h>&#160;<rend class="latin">oct</rend> 1809<lbr type="forced"/>
+Lieber <persName key="48820"><rend class="latin">Karl</rend></persName>!<lbr type="forced"/>
+<lbr type="forced"/>
+Vor 5 Tagen schrieb ich dir daß unser Freund <persName key="73594">Bridi</persName> dir die kiste mit<lbr/>
+den <rend class="latin">Musiqualien</rend> abgeschickt hat. nun Hoffe ich, daß du sie bey Empfang<lbr/>
+dieses Briefes, den du durch <persName key="78252">Herr <u>Rey</u></persName> erhältst schon haben wirst.<lbr/>
+auch zweifle ich nicht daß du nicht große Freude darüber haben wirst.<lbr/>
+Ich trente mich recht hart davon, und hätte sie manigmahl<lbr/>
+theü<tspdf>\-</tspdf>er verkaufen können, wen ich sie jemand andern als dir<lbr/>
+gegönt hette.<lbr type="forced"/>
+<persName key="38843">D<h><uu>r.</uu></h> Lichtenthal</persName> ist so freundschaftlich, dir bey dieser gelegen<suppl hand="#DME"><pc force="strong">=</pc></suppl><lbr/>heit die <workName key="11547"><rend class="latin">Cantate</rend></workName> von <persName key="73759"><rend class="latin">Canabig</rend></persName> zu überschicken, sie ist wie du sehen<lbr/>
+wirst auf <persName key="39409">Mozarts</persName> Tod gemacht worden und wird alle jahre<lbr/>
+auf seinen sterbe Tage in München ihm zu Ehren ge<suppl hand="#DME"><pc force="strong">=</pc></suppl><lbr/>macht. Sie gefihl mir recht wohl als ich sie dort hörte<lbr/>
+Vieleicht kanst du sie auch einmahl dazu brauchen<lbr/>
+obwohl sie nicht <rend class="latin">idalie</rend>nisch ist.<lbr type="forced"/>
+Die Bekantschaft des <persName key="78252">Herr von <rend class="latin">Rey</rend></persName> machte mir viel ver<pc force="weak">=</pc><lbr/>gnüchen, indem er dich wie er sagt, sehr gut kent und wir<lbr/>
+deswegen viel von dir sprachen;<lbr type="forced"/>
+daß es gott lob und danck Frieden ist brauche ich dir nicht<lbr/>
+zu sagen indem du es schon lange wissen wirst gott er<suppl hand="#DME"><pc force="strong">=</pc></suppl><lbr/>halte ihn nur ja lange. Nun wird mein aufenthalt auch<lbr/>
+nicht mehr lange in wien seyn, und ich muß gestehen daß<lbr/>
+ich ietzt sehr gerne von hier weg gehe, indem mich auch<lbr/>
+gar nichts mehr hier freut. auch solte ich recht Böße auf<lbr/>
+<pg n="2"/>
+Dich seyn, indem du so selten schreibst; seit <rend class="latin">Pres</rend>burg oder beßer zu<lbr/>
+sagen seit dem Mey oder gar <rend class="latin">april</rend> habe ich einen Brief von<lbr/>
+dir, indesen hast du 4 oder 5 von mir. Ich kan es garnicht be<suppl hand="#DME"><pc force="strong">=</pc></suppl><lbr/>greifen warum du so lau gegen deine so zärtliche Mutter<lbr/>
+verfahrst, du wirst ihr einmahl gerne schreiben wollen we<abbr type="topline" expand="nn">n</abbr><lbr/>
+du nur könntest! &#8211; hast du meinen Brief von <rend class="latin">Pres</rend>burg<lbr/>
+erhalten worin ich dir unsere ausgestandenen schrecken<lbr/>
+schilderte? und warum habe ich keine antwort darauf<lbr/>
+erhalten? genug davon. Beßere dich und liebe deine<lbr type="forced"/>
+<ts>________</ts><tshtm>______________________________________________________</tshtm><tspdf>\hfill </tspdf>Mutter <persName key="48818"><rend class="latin">C: Nissen</rend></persName><lbr type="forced"/>
+<lbr type="forced"/>
+<NS schr_id="57010"><ts>__________</ts>Ich wünsche Ihnen von Herzen wohl zu leben.<lbr type="forced"/>
+<ts>________</ts><tshtm>___________________________________________________________</tshtm><tspdf>\hfill </tspdf>Ihr Vater <persName key="57010">Nißen</persName></NS>
+<pg n="3"/>
+<vacat/>
+<pg n="4"/>
+<anschrift rot="270" schr_id="57010">Herrn Carl Mozart</anschrift><lbr/>
+<add_ident rot="270" impl="pencil">1809</add_ident></text>
+</MUP>

@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="58">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2009">2009-08-20</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=58</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+                <bibl type="source" subtype="long">A-Sm: Internationale Stiftung Mozarteum, Bibliotheca Mozartiana. Salzburg (AUT)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2023-03-21">last file update: <date>Tue Mar 21 09:28:16 2023</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="Doc1810_9.mup">
+<HEADER id="58">CONSTANZE NISSEN AN CARL THOMAS MOZART IN MAILAND<lbr/>
+KOPENHAGEN, 13. NOVEMBER 1810<lbr/>
+mit Nachschrift von Georg Nikolaus Nissen</HEADER>
+<pg n="1"/>
+<add_num impl="ink"><rend class="latin">N<h><uu>o</uu></h></rend> 42</add_num>
+Mein lieber <persName key="48820"><rend class="latin">Karl</rend></persName>!<lbr type="forced"/>
+<lbr type="forced"/>
+Es thut mir in der that sehr leid daß ich mit deinen Briefe so unglücklich war, und ich dadurch noch i<abbr type="topline" expand="mm">m</abbr>er<lbr/>
+in dem falle bin, nicht erfahren zu können was aus dir geworden ist, ich weiß noch i<abbr type="topline" expand="mm">m</abbr>er nicht mehr<lbr/>
+von dir als daß du bey dem <persName key="49674"><rend class="latin">vice König</rend></persName>&#160;<rend class="latin">engag</rend>irt bist als was aber weiß ich noch nicht<lbr/>
+der Brief mit dem Ring wovon du schreibst muß verlohren gegangen seyn den ich<lbr/>
+bekam ihn nicht; den von <persName key="79549"><rend class="latin">Signor Velluti</rend></persName> mit den <rend class="latin">Musiquallien</rend> von dir bekam ich<lbr/>
+erst kurz <div type="commentary" xml:id="commentID58_1">durch Herren <rend class="latin">Velluti</rend><note corresp="#commentID58_1">Der Kastrat Giovanni Battista Velluti sang 1810 mehrfach
+am Wiener Kärtnertortheater, u.a. im Juni/Juli 1810 in der Oper
+<i>Ginevra di Scozia</i> von Johann Simon Mayr.</note></div> for meiner <div type="commentary" xml:id="commentID58_2">abreiße<note corresp="#commentID58_2">Constanze und Georg Nikolaus Nissen waren
+Ende Juli 1810 von Wien abgereist.</note></div> wie auch den mit deinem<lbr/>
+Portrait; aber letzern mit dem Reifring nicht. <persName key="79549"><rend class="latin">Velluti</rend></persName> wird dir einen von mir<lbr/>
+mit Bringen der dir sagen wird wie leid es mir that ihn nicht früher gekant<lbr/>
+zu haben; nun aber bitte ich dich mir im Nächsten Briefe ausführlich zu schreiben<lbr/>
+was du geworden bist, und wie du mit deinem Schicksal zufrieden bist &#8211; <lbr type="forced"/>
+was mich Betrift so bitte ich dich zu glauben daß es mir nie so gut ge<pc force="weak">=</pc><lbr/>gangen ist wie ietz auch in Betref des <rend class="latin">Climas</rend> gieb dich zu ruhe den es schlägt<lbr/>
+mir recht gut an, ich befinde mich beßer als ich von lange her nicht that. das<lbr/>
+<rend class="latin">Clima</rend> ist wahrhaftig nicht so schlim wie man glaubt, es ist wircklich viel be<suppl hand="#DME"><pc force="strong">=</pc></suppl><lbr/>ständiger als dies in wien; der Herbst war bis in die Mitte ja bis zu Ende <rend class="latin">oct</rend>:<lbr/>
+so schön daß ich i<abbr type="topline" expand="mm">m</abbr>er auf dem lande seyn konnte und so lange auch blieb<lbr/>
+was die verschiedene winde oder Luft betrift, wovon du in deinem letzten brief <lbr/>
+vom 17 october sprichst, die werden mir auch nicht so gefährlich werden weil ich es<lbr/>
+eben nicht nothwendig finde mich ihnen aus zu setzen, und so hoffe ich damit aus<lbr/>
+zu komen, überhaubt muß ich dir bekennen daß es mir sehr hier gefält, die stadt ist<lbr/>
+sehr schön die gegenden Mahlerisch schön durch die vielen schönen seehen die man so<lbr/>
+gar bey uns nicht kent, und für mich den Reiz der Neuheit haben, besonders<lbr/>
+auf spazier gänge bei aufgang und untergang der sonne oder Mond ist<lbr/>
+es ganz göttlich im seeland &#8211; auf unserer Reiße brachten wir 7 volle wochen<lbr/>
+sehr angenehm zu, um so mehr da Nissen eine so ausgebreidete Bekantschaft<lbr/>
+an Gütter besitzer hat, wo wir uns überall so lange als wir wolten in dem<lbr/>
+Hollsteinschischen aufhielten; deinem Bruder habe ich gestern eine ganze<lbr/>
+Reiße beschreibung gegeben, weil er die meisten von denen wo wir<lbr/>
+waren kent und es ihn daher mehr intreßiren kan als dich, solte es<lbr/>
+dich vieleicht freuen zu wißen wie ich gereist bin und wo ich mich auf<pc force="weak">=</pc><lbr/>gehalten, so kanst du einmahl den Brief von deinem <persName key="39407">Bruder</persName> begern<lbr/>
+und mir dadurch das leben erleichtern indem es mir schwer und sauer<lbr/>
+werden würde dieselbe sache zweymahl zu schreiben. &#8211; Ich mein lieber<lbr/>
+<persName key="48820"><rend class="latin">Karl</rend></persName> habe ursache mit dem wechsel meines Schicksalles we<abbr type="topline" expand="nn">n</abbr> ich nicht<lbr/>
+undanckbar seyn will vollkomen zufrieden zu seyn, ich habe mein aus komen<lbr/>
+<add_note hand="self"><rend class="latin">Karl</rend></add_note><lbr/>
+<pg n="2"/>
+habe einen braven lieben Man, der im ansehen stehet und der mich auf den<lbr/>
+Händen trägt, und über alles <emend value="schätzt">schatz</emend>. durch zeitungen weist du vielleich<lbr/>
+daß er <rend class="latin"><u>Censor</u></rend> der <rend class="latin"><u>Politischen</u></rend> Blätter und vor wenigen Tagen <u>Wircklicher</u><lbr/>
+<u>Staatsrath</u>&#160;<u>geworden ist</u>, dies hindert ihn nicht vieleicht wieder einmahl im <rend class="latin">Diplo<pc force="weak">-</pc><lbr/>Matischen</rend> fache angestellt zu <emend value="werden">werde</emend>, und wer weiß, ob es der Hi<abbr type="topline" expand="mm">m</abbr>el nicht noch<lbr/>
+so gut mit mir meint einmahl in deine Nähe zu komen, es ware ja möchlich<lbr/>
+daß in <rend class="latin">jdalien</rend> oder in <div type="commentary" xml:id="commentID58_3"><rend class="latin">Monde nero</rend><note corresp="#commentID58_3">Montenegro</note></div> jemand zu alt würde, und, seinen posten nicht mehr<lbr/>
+verrichten kan, dan würde ich deinen vater der <u>euch beide</u> zährtlich liebt, gewiß<lbr/>
+keine ruhe laßen, seinen <persName key="52362"><rend class="latin">König</rend></persName> der ihn mit so vieler gnade empfangen hat<lbr/>
+zu Bitten, ihm diesen Posten zu geben, bis dahin lieber <persName key="48820"><rend class="latin">Karl</rend></persName> wollen wir hoffen!<lbr/>
+es were doch gar zu trauerig wen wir uns nicht mehr sehen solten, Nein! ge<suppl hand="#DME"><pc force="strong">-</pc></suppl><lbr/>wiß ich hoffe dich noch zu sehen. &#8211; in <rend class="latin">Prag</rend> war ich |: nicht <persName key="51569"><rend class="latin">Madame Duschek</rend></persName> wegen nein<lbr/>
+den ich sah und wolte sie nicht sehen :| aber wegen unseren lieben Freund <persName key="56990"><rend class="latin">Niemet</rend><suppl hand="#DME"><pc force="strong">=</pc></suppl><lbr/>schek</persName> wegen 3 Tage, ich freude mich schon in wien auf ihn, und schrieb ihm dahero<lbr/>
+meine abreiß und meine vermuthliche ankunft in <rend class="latin">Prag</rend> und sagte ihm daß ich<lbr/>
+mich nur wegen ihm 1 Tag da aufhalten werde um ihn mit meinem <persName key="57010">Mann</persName><lbr/>
+Bekant zu machen, allein aus diesem einen Tag wurden 3 und da noch kö<abbr type="topline" expand="nn">n</abbr>ten<lbr/>
+wir nur mit mühe weg: er liebt und schatz meinen Man sehr so wie er ihn.<lbr/>
+er machte mir auch das <rend class="latin">compliment</rend> indem er sagte: Nun Reißen Sie glücklich<lbr/>
+nun bin ich ruhig wegen ihnen, ich sehe daß sie sich in die arme eines Ma<abbr type="topline" expand="nn">n</abbr>es<lbr/>
+geworfen haben der ihrer würdig ist. &#8211; Es that mir gar zu leid daß der <persName key="78722">Bruder</persName><lbr/>
+der <persName key="78723">Frau <rend class="latin">Schnell</rend></persName> glaub ich heist er, just damahlen zum sterben war, und ich habe<lbr/>
+noch keine Nachricht ob er lebt oder gestorben ist, ich Bitte dich ihm doch von<lbr/>
+zeit zu zeit zu schreiben und ihm mein <emend value="besorgniß">besorniß</emend> darüber mit zu theilen. Er<lbr/>
+hat zwey allerliebste Kinder Besonders das Mädchen ist so zährtlich und<lbr/>
+liebenswürdig, und beyde spielen ganz ardig <rend class="latin">clavir</rend>, o! wie oft fragten<lbr/>
+um dich und wowi. &#8211; <persName key="38843"><rend class="latin">Lichtenthal</rend></persName> ist also doch in <rend class="latin">Mailand</rend>? &#8211; Es freud mich daß du<lbr/>
+ihn schon so zimlich kenst; ich brauche ihn dir also nicht zu beschreiben, ich mag<lbr/>
+ihn nicht, den ich halte ihn falsch und undanckbar gegen <persName key="57010">Nissen</persName> der ihm so<lbr/>
+viel gutes gethan hat, er war eine zweyte <rend class="latin"><u>Cousine</u></rend> bey <persName key="39407">wowi</persName>, du wirst<lbr/>
+mich verstehen. &#8211; was hat den der Naar noch im si<abbr type="topline" expand="nn">n</abbr>e zu thuen will er sich<lbr/>
+durch die weld Bettlen? &#8211; der Dänische D<h><uu>r</uu></h> der dir das Billet von mir mit brachte<lbr/>
+hat ihn auch genoßen genug von dem Narren &#8211; &#8211; war der dä<abbr type="topline" expand="nn">n</abbr>ische D<h><uu>r</uu></h> nicht<lbr/>
+ein liebenswürdiger junger Man? wo ist er hingereist? Komt er bald nach<lbr/>
+<rend class="latin">Kopenhagen</rend>? <persName key="75416"><rend class="latin">Hansen</rend></persName> laßt dich vielmahl grüßen; er hat ietz euer <rend class="latin">Portrait</rend><lbr/>
+weil es so viele jahre nicht gepuz worden, um nicht zu verderben ver<suppl hand="#DME"><pc force="strong">=</pc></suppl><lbr/>traute ich es niemand an, nun thut er es. und dan hengt es wieder in meinem<lbr/>
+<pg n="3"/>
+Zi<abbr type="topline" expand="mm">m</abbr>er, ich wünschte wohl ein änliches in ohl gemahltes von dir zu haben, warum<lbr/>
+bathst du <persName key="75936">jageman</persName> nicht darum er würde es mir zu lieb gewiß gerne<lbr/>
+gethan haben &#8211; Es freud mich daß <div type="commentary" xml:id="commentID58_4">das <rend class="latin">Piano</rend> forte<note corresp="#commentID58_4">Constanze Mozart hatte vor ihrer Abreise nach Kopenhagen
+das Hammerklavier von Wolfgang Amadé Mozart aus der 
+Wiener Werkstatt Anton Walters (1752–1826)
+ihrem Sohn Carl Thomas geschenkt und 
+nach Mailand geschickt.</note></div> noch in gutem stande ist<lbr/>
+und ich hoffe daß du es noch lange so haben wirst, <persName key="39407">wowi</persName> fragte auch in<lbr/>
+seinem Briefe darum, allein ich übergieng in meinem Briefe die<lbr/>
+antwort.<lbr type="forced"/>
+<lbr type="forced"/>
+Mein lieber <persName key="57010"><rend class="latin">Nissen</rend></persName> läßt mir ietz eins von <persName key="79139"><rend class="latin">Stein</rend></persName> aus wien komen, allein<lbr/>
+es wird wohl frühjahr werden bis ich es bekome, bis dahin muß ich<lbr/>
+mich schon mit einem <rend class="latin">Clavir</rend>cort behelfe und thue es auch gerne<lbr/>
+da mir die hoffnung bleibt ein so schönes und gutes zu bekomen. we<abbr type="topline" expand="nn">n</abbr><lbr/>
+deinem <persName key="39407">Bruder</persName> schreibst, so sage ihm doch daß er recht fleißig seyn<lbr/>
+soll und sich nicht i<abbr type="topline" expand="mm">m</abbr>er mit <rend class="latin">varazionen</rend> Beschäftigen soll indem<lbr/>
+diese ihn nicht weiter bringen und nun lebe wohl schreibe mir Bald<lbr/>
+halte dich an die vorschrift deines guten vaters die darin Bestehet daß<lbr/>
+du im anfang ieden zweyten Monats schreibst so derfen<lbr/>
+wir uns keins uber das andere ängstigen und unser Brief<lbr/>
+wechsel wird nicht unterbrochen, indem wir nicht i<abbr type="topline" expand="mm">m</abbr>er auf ant<pc force="weak">=</pc><lbr/>wort warden, und nun lebe wohl grüße <persName key="38843"><rend class="latin">Lichtenthal</rend></persName> und<lbr/>
+liebe deine dich zärtlich liebende Mutter <persName key="4881"><rend class="latin">Constance</rend></persName>.<lbr type="forced"/>
+<NS schr_id="57010">In aller Eile, mein lieber <persName key="48820">Carl</persName>, schreibe auch ich Ihnen ein Paar<lbr/>
+Worte. Unser letzter Brif war vom 29. Sep.; Ihre gute <persName key="48818">Mutter</persName><lbr/>
+sagt mir, daß sie oben das Datum des Ihrigen angeführt hat.<lbr/>
+Thun Sie auch so immer, damit wir alle wissen, ob einer verloren<lbr/>
+geht und der Inhalt nachzutragen ist. <tshtm>_____</tshtm>Ihre <persName key="48818">Mutter</persName> wird Ihnen<lbr/>
+auch von der neuen Gnade meines <persName key="52362">Königs</persName> gemeldet haben; nun habe ich<lbr/>
+geduldig abzuwarten, bis eine Vacanz zu meinen Gunsten wird. Von<lbr/>
+meinen izigen Staatseinkünften kann ich nicht leben: sie betragen etwa<lbr/>
+den fünften Theil von dem, was ich im Auslande in den letzten 4. Jahren<lbr/>
+hatte. Meine Adresse ist nun kürzer so zu machen: &#8211; <rend class="latin">Chevalier<lbr/>
+de l'ordre du Dannebrog, Conseiller actuel d'état</rend>. Die <persName key="85409 85410">Gebrüder <rend class="latin">Tutein</rend></persName><lbr/>
+brauchen Sie nicht mehr in der Aufschrift zu nennen, da ich izt bekannt<lbr/>
+genug bin und überdem dem Postamt gegenüber wohne. Leben Sie so wohl als<lbr/>
+wir es wünschen, und immer besser, und erfreuen Sie uns mit umständlichen Nachrichten. Ihr <persName key="57010">Nißen</persName><lbr type="forced"/>
+<postxt loc="lm" rot="270">Copenhagen 13. Nov. 1810.</postxt></NS>
+<pg n="4"/>
+<anschrift schr_id="57010" rot="270" lang="fr"><rend class="latin">A Monsieur<lbr type="forced"/>
+Monsieur Mozart.<lbr type="forced"/>
+<u>Italie.</u><ts>_____</ts>Milan</rend>.</anschrift><lbr type="forced"/>
+<add_ident rot="90" impl="pencil">1810</add_ident><lbr type="forced"/>
+<add_seal type="post" rot="270">R.4 HAMBOURG</add_seal><lbr type="forced"/>
+<add_seal type="post" rot="90">MIL.DIC<lbr type="forced"/><additum>[... (unleserlich)]</additum></add_seal></text>
+</MUP>

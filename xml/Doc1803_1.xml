@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="120">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2009">2009-08-20</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=120</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+                <bibl type="source" subtype="long">A-Sm: Internationale Stiftung Mozarteum, Bibliotheca Mozartiana. Salzburg (AUT)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2023-08-25">last file update: <date>Fri Aug 25 12:32:36 2023</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="Doc1803_1.mup">
+<HEADER id="120">JOHANN TRAEG, QUITTUNG FÜR CONSTANZE MOZART<lbr/>
+WIEN, 23. FEBRUAR 1803</HEADER>
+
+<pg n="1"/>
+Für ein <div type="commentary" xml:id="commentID120_1"><rend class="latin">Packet Mus:</rend> v: <persName key="49118">H<abbr type="curve">:</abbr>&#160;<rend class="latin">André</rend></persName> in <rend class="latin">Offenbach</rend><note corresp="#commentID120_1">Johann Anton André sandte über den Wiener Verleger Johann
+Traeg Freiexemplare seiner Mozart-Drucke an Constanze Mozart.</note></div>,<lbr type="forced"/>
+für <persName key="48818">Fr: v: <rend class="latin">Mozart</rend></persName>. <rend class="latin">Spesen</rend> &#8211; &#8211; 2 <rend class="latin">f</rend> 30 <rend class="latin">X</rend>r.<lbr type="forced"/>
+<ts>______________________</ts><tshtm>_________________</tshtm><persName key="59962">Johann Traeg</persName>.<lbr type="forced"/>
+Wien den 23 <rend class="latin">Fbr.</rend>&#160;<abbr type="topline" expand="1803">803</abbr>.
+<pg n="2"/>
+<vacat/></text>
+</MUP>

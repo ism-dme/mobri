@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="42">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2009">2009-08-20</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=42</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+                <bibl type="source" subtype="long">A-Sm: Internationale Stiftung Mozarteum, Bibliotheca Mozartiana. Salzburg (AUT)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2023-03-21">last file update: <date>Tue Mar 21 09:28:16 2023</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="Doc1807_2.mup">
+<HEADER id="42">CONSTANZE MOZART AN CARL THOMAS MOZART IN MAILAND<lbr/>
+WIEN, 26. JULI 1807</HEADER>
+<pg n="1"/>
+<ts>_____________</ts><tspdf>\hfill </tspdf>Wien am 26. <rend class="latin">july</rend>, am <suppl hand="self" pos="supra">16<h><uu>t</uu></h></suppl> geburztage deines <persName key="39407">Bruders</persName><lbr type="forced"/>
+Liebster <persName key="48820">Karl</persName>!<lbr type="forced"/>
+<add_num type="inline" impl="ink"><rend class="latin">N<h><u>o</u></h></rend> 92</add_num><ts>_______________________________________________________</ts><add_ident type="inline" impl="pencil">(1807)</add_ident>
+<lbr/>
+Mit dem gemmenhandel werde ich mich wohl nicht abgeben können. sind<lbr/>
+es anticken oder sind es neu gemachte? Im ersten falle würden sie<lbr/>
+sehr kostbar seyn; von der zweyten art giebt es hier genug. Eine<lbr/>
+zur Probe zu schickken, sagt Man mir sey nicht genug, und<lbr/>
+ein Packet zu schickcken, wäre zu viel und zu verantwortlich.<lbr/>
+Ich könnte weiter nichts thuen als sie einem Kunsthandler<lbr/>
+anzubieten, aber dazu mußte ich ihm Probe zeigen können.<lbr/>
+Es thut mir sehr leid, daß <persName key="77954"><rend class="latin">Pinali</rend></persName> sich mit dir entzweyt hat<lbr/>
+und es soll mich herzlich freuen, wenn du wircklich keine<lbr/>
+schuld daran hast, da du ihm so große Verbindlichkeiten<lbr/>
+schuldig bist. dieses mußt du ja <u>nie</u> vergeßen, und ihm<lbr/>
+dafür dankbar bleiben und nur mit achtung<lbr/>
+und Bedauren ihn verloren zu haben, von ihm sprechen.<lbr/>
+dadurch erwirbst du dir selbst achtung von allen leuten,<lbr/>
+deren achtung wunschens wert ist, und ka<abbr type="topline" expand="nn">n</abbr>st ihn so gar wieder<lbr/>
+gewinnen. Es ist ein häßlicher und trauerigen anblick, wenn<lbr/>
+Freunde sich entzweyen, Besonders wenn der eine ein wohl<pc force="weak">=</pc><lbr/>thäter des andern war. So wie <persName key="77954"><rend class="latin">Pinali</rend></persName> mir schrieb, daß du<lbr/>
+aufgehört hättest fleißig zu seyn, daß er in deinen augen<lbr/>
+gar nichts gölte, daß du keinen freundschaftlichen Rath von<lbr/>
+ihm annähmest, daß er gar keinen Einfluß mehr auf<lbr/>
+<pg n="2"/>
+Dich hatte, mußte ich dich verurtheilen und dich des gar<lbr/>
+Bösen lasters der Undanckbarkeit schuldig halten. da<lbr/>
+nun aber <persName key="20312"><rend class="latin">asioli</rend></persName> mir das gegentheil schrieb, so will ich<lbr/>
+es glauben und mich herzlich darüber freuen <rend class="latin">Cultivire</rend><lbr/>
+nun den würdigen <rend class="latin">asioli</rend>, dem du deine ganze zukunft zu<lbr/>
+dancken haben wirst um so viel mehr.<lbr type="forced"/>
+Nach deinen Briefen muß ich glauben, daß viele an mich<lbr/>
+verloren gehen <rend class="latin">asioli</rend> meldete, du mußtest mir von<lbr/>
+<persName key="77954"><rend class="latin">Pinalis</rend></persName> betragen geschrieben haben; aber ich habe nichts<lbr/>
+erhalten, und es war schon oft der fall daß du dich<lbr/>
+auf Briefe berufen hast, die mir nie zu gesicht kamen.<lbr/>
+Ich will nicht zweiflen, aber warum geschihet es mir nur<lbr/>
+mit deinen? &#8211; Trage deine Briefe selbst auf die post.<lbr/>
+Du wilst wißen wie mir <workName key="11864"><rend class="latin">Ines de Castro</rend></workName> gefällt? ganz und<lbr/>
+gar nicht so viele Mühe sich auch <persName key="78917"><rend class="latin">Madame Sesi</rend>&#160;<abbr expand="oder">od</abbr>&#160;<suppl hand="self" pos="supra"><rend class="latin">M<h>d</h></rend></suppl>&#160;<rend class="latin">Nattorp</rend></persName><lbr/>
+dabei gab; dagegen gefühl mir <workName key="11865"><rend class="latin">adelasia</rend></workName> von <persName key="38874"><rend class="latin">Maier</rend></persName><lbr/>
+ganz wohl, und ich muß bekennen, daß ich lange von <rend class="latin">idaljenn</rend><lbr/>
+keine so gute <rend class="latin">Musique</rend> gehört habe. <workName key="11866"><rend class="latin">orazier</rend></workName> sind nicht ge<suppl hand="#DME"><pc force="strong">=</pc></suppl><lbr/>geben worten; zu Ende dieses Monats hören die welchen<lbr/>
+<rend class="latin">operen</rend> ganz und gar auf, und wir verliren dadurch<lbr/>
+die so brave <rend class="latin">Sesi</rend>, die ich so gerne höre. adieu lebe wohl<lbr/>
+vernünftig und fleißig, schreibe mir nicht so selden,<lbr/>
+<pg n="3"/>
+und sage mir doch einmahl welchem fache in der <rend class="latin">Musique</rend><lbr/>
+du dich wiedmest; und mache, daß ich doch einmahl etwas<lbr/>
+von dir zu gesicht beko<abbr type="topline" expand="mm">m</abbr>e. und kanst du mir mit dieser<lbr/>
+gelegenheit vieleicht einen feinen schönen stroh huth der<lbr/>
+nicht gar zu theüer ist schicken so wirst du mir eine<lbr/>
+große freude machen; aber er muß ja schön gelb<lbr/>
+und fein seyn, und damit du es weist der unter<suppl hand="#DME"><pc force="strong">=</pc></suppl><lbr/>schied im stroh ist sehr groß, es gieb sehr schön gelbes<lbr/>
+und auch schwarz gelbes, welches ich nicht mach. es<lbr/>
+muß gold gelb seyn, hier kost ein solcher huth 20 <abbr_cur expand="Gulden"><rend class="latin">f</rend></abbr_cur> auch<lbr/>
+30 <abbr_cur expand="Gulden"><rend class="latin">f</rend></abbr_cur> solten sie in <rend class="latin">Mailand</rend> auch so theuer seyn, so will<lbr/>
+ich keinen, und mir meinen gusto vergehen laßen.<lbr/>
+auf 10 bis 12 <abbr_cur expand="Gulden"><rend class="latin">f</rend></abbr_cur> wolte ich mich einlaßen den die<lbr/>
+Mauth würde mich auch was kosten. hast du gar nicht<lbr/>
+mehr von <rend class="latin">Nattorp</rend> gehört? adieu Ewig deine dich sehr<lbr/>
+liebente <persName key="48818">Mutter</persName>.<lbr type="forced"/>
+<lbr type="forced"/>
+Hirinen findest du die gewöhnliche anweisung: <NS type="NS" schr_id="57010">sie ist<lbr/>
+dies Mal auf 40 <abbr_cur expand="Gulden"><rend class="latin">fl</rend>.</abbr_cur></NS>
+<NS type="NS" schr_id="48818" hand="57010">Am 11. Jul. habe ich, deine Mutter, dem<lbr/>
+ehrwürdigen <persName key="20312"><rend class="latin">Asioli</rend></persName> auf seinen lezten Brief<lbr/>
+geantwortet. Ich höre durch dich nichts mehr von dem<lbr/>
+guten Grafen <persName key="72998"><rend class="latin">Baldasseroni</rend></persName>: empfiehl mich und <persName key="57010">Nissen</persName> ihm; hat<lbr/>
+er die 40. <abbr_cur expand="Gulden"><rend class="latin">fl</rend>.</abbr_cur> bezahlt, die er mir schuldig ist? <persName key="48818">C. M.</persName></NS>
+<pg n="4"/>
+<vacat/></text>
+</MUP>

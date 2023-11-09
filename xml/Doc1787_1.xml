@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="2521">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2009">2009-08-20</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=2521</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+                <bibl type="source" subtype="long">A-Sm: Internationale Stiftung Mozarteum, Bibliotheca Mozartiana. Salzburg (AUT)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2023-03-21">last file update: <date>Tue Mar 21 09:28:16 2023</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="Doc1787_1.mup">
+<HEADER id="2521">JOHANN THORWART, ANSTELLUNGSDEKRET ALS KAMMERMUSIKER FÜR WOLFGANG AMADEUS MOZART<lbr/>
+WIEN, 7. DEZEMBER 1787<lbr/>
+mit Unterschrift von Franz Xaver Wolfgang Orsini-Rosenberg</HEADER>
+
+<pg n="1"/>
+<rend class="latin">Von Seiner Röm<abbr type="curve">.</abbr>Kai<abbr type="curve">.</abbr> zu Hungarn, und Böheim Königl. Ap. Maittt etc.</rend><lbr type="forced"/>
+Erzherzog zu Oesterreich etc. Unsers allergnädigsten Herrns wegen,<lbr/>
+dem Wolfgang Mozart in Gnaden anzufügen: Es haben aller<pc force="weak">=</pc><lbr/>höchst gedacht, S<h><uu>e</uu></h> Kai<abbr type="curve">:</abbr> Königl: Apo<abbr type="curve">:</abbr> Majtt: etc. demselben, in Anse<pc force="weak">=</pc><lbr/>hung seiner in der Musik besitzenden Kentniß, und Fähigkeit,<lbr/>
+und sich hierdurch erworbenen Beifall, die besondere Gnade an<pc force="weak">=</pc><lbr/>gethan, ihn zu allerhöchst <rend class="latin">Dero</rend> Kammermusikum aufzuneh<pc force="weak">=</pc><lbr/>men, anbei ihme <rend class="latin">Achthundert. Gulden</rend> jährlichen Gehalt<lbr/>
+bei der k. k. Hofkammer vom 1<h><uu>ten</uu></h> Dezember dieses Jahrs,<lbr/>
+anzuweisen geruhet!<lbr type="forced"/>
+<ts>_____</ts>Solchemnach wird ihme Wolfgang Mozart diese allerhöchste<lbr/>
+Entschliessung zu seiner Nachricht hiermit eröfnet, und gegen<pc force="weak">=</pc><lbr/>wärtiges Oberstkämmerer-Amts-Dekret, auf allerhöchsten<lbr/>
+Befehl, zu seiner Versicherung ausgefertiget.<lbr type="forced"/>
+<ts>_________</ts><div type="commentary" xml:id="commentID2521_1">Rosenberg<note corresp="#commentID2521_1">Eigenhändige Unterschrift von Franz Xaver Wolfgang Graf Orsini-Rosenberg</note></div><lbr type="forced"/>
+<lbr type="forced"/>
+<ts>__________________________________________</ts><tspdf>\hfill </tspdf><rend class="latin">Pr. kai<abbr type="curve">:</abbr> königl: Oberstkä<abbr type="topline" expand="mm">m</abbr>erer=Amt.</rend><lbr type="forced"/>
+<ts>___________________________________________</ts><tspdf>\hfill </tspdf>Wien den 7<h><uu>ten</uu></h> Dezember 1787.<lbr type="forced"/>
+<ts>_______________________________________________________</ts><tspdf>\hfill </tspdf>Johann Thorwart <abbr_mp expand="manu propria">mp</abbr_mp><lbr/>
+<add_seal type="owner">DOM=<lbr type="forced"/>MUSICK=VEREIN<lbr type="forced"/>U.<lbr type="forced"/>MOZARTEUM</add_seal>
+<pg n="2" type="wordsep"/><vacat/> </text>
+</MUP>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="57">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2009">2009-08-20</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=57</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+                <bibl type="source" subtype="long">A-Sm: Internationale Stiftung Mozarteum, Bibliotheca Mozartiana. Salzburg (AUT)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2023-03-21">last file update: <date>Tue Mar 21 09:28:16 2023</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="Doc1810_8.mup">
+<HEADER id="57">CONSTANZE NISSEN AN CARL THOMAS MOZART IN MAILAND<lbr/>
+KOPENHAGEN, 28. SEPTEMBER 1810<lbr/>
+mit Nachschrift von Georg Nikolaus Nissen</HEADER>
+<pg n="1"/>
+<add_num impl="ink"><ts>___</ts><rend class="latin">N<h><uu>o</uu></h></rend> 41</add_num><lbr type="forced"/>
+<div lang="de">Mein lieber <persName key="48820"><rend class="latin">Karl</rend></persName>!<ts>______________________________</ts><tspdf>\hfill </tspdf><rend class="latin">Kopenhagen</rend> am 28<h><uu>t</uu></h>&#160;<rend class="latin">Sep</rend>: 1810<lbr type="forced"/>
+<lbr type="forced"/>
+Ich kan dir nur wenig und dies in Eille sagen: daß wir glücklich<lbr/>
+und gesund vor 14 Tagen hier <div type="commentary" xml:id="commentID57_1">angekomen sind<note corresp="#commentID57_1">Constanze und Georg Nikolaus Nissen waren
+von Wien nach Kopenhagen gezogen.</note></div>. dieses würde ich<lbr/>
+dir schon vor 10 Tage geschrieben haben wen ich nicht ein und ein<lbr/>
+halbe Meille von der stadt auf dem lande wären um noch<lbr/>
+diese so schone jahrs zeit zu genüßen, und ich aufrichtig<lbr/>
+nicht auf Briefe von dir gewartet hatte; ich wollte dir gern<lbr/>
+eine kleine Reiße Beschreibung mittheilen wen ich<lbr/>
+nicht so viel von anderen Menschen ja so gute Menschen<lbr/>
+wie die <rend class="latin">Tutein</rend>ische famill ist und bey welchen ich auch ent<pc force="weak">=</pc><lbr/>lich auf dem lande bin, abhänge; es ist <persName key="85409"><rend class="latin">Peter Tuten</rend></persName> deines<lbr/>
+Vaters <persName key="57010">Nissens</persName> Bester freund, welcher so gütig war uns<lbr/>
+bis wir <rend class="latin">logis</rend> finden auf dem Lande halt, so bald<lbr/>
+ich zeit habe solst du aber eine reiße beschreibung<lbr/>
+von mir haben, bis dahin begnüche dich damit daß<lbr/>
+du weist daß es mir nach wunsch gut gehe und daß<lbr/>
+ich gesund und wohl auf bin, nun lebe wohl<lbr/>
+schreibe mir bald und befriedige mein Verlangen<lbr/>
+nämlich daß ich erfahre was du bei dem <persName key="49674"><rend class="latin">Vice König</rend></persName><lbr/>
+geworden bist. <abbr expand="adieu">ad<abbr type="curve"></abbr></abbr> lebe wohl liebe deine Mutter<lbr type="forced"/>
+<ts>_________________________________________________</ts><tspdf>\hfill </tspdf><persName key="48818"><rend class="latin">C: Nissen</rend></persName></div>
+<NS schr_id="57010" lang="fr"><rend class="latin">Je Vous confirme, mon cher ami, que nous nous portons bien, et que Votre<lbr/>
+bonne <persName key="48818">mère</persName> se plait ici infinement, tout comme de son côt[é e]lle y<lbr/>
+plait beaucoup. adieu. En hâte.</rend>&#160;<persName key="57010"><rend class="latin">Nn</rend></persName></NS>
+<pg n="2"/>
+<anschrift rot="90" schr_id="57010" lang="fr"><rend class="latin"><u>Vienne.</u><lbr type="forced"/>
+A Monsieur<lbr type="forced"/>
+Monsieur Charles Mozart.<lbr type="forced"/>
+<u>Italie.</u><ts>______</ts>Milan:</rend></anschrift></text>
+</MUP>

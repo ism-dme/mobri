@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="1808">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2023">2023-05</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1808</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+                <bibl type="source" subtype="long">A-Sm: Internationale Stiftung Mozarteum, Bibliotheca Mozartiana. Salzburg (AUT)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2023-08-25">last file update: <date>Fri Aug 25 12:04:02 2023</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="BD_1236.mup">
+<letter bd="1236">
+<HEADER id="1808">CONSTANZE MOZART AN BREITKOPF &#38; HÄRTEL IN LEIPZIG<lbr/>
+WIEN, 25. FEBRUAR 1799<lbr/>
+Schreiber Georg Nikolaus Nissen</HEADER>
+<pg n="1"/>
+<ts>_________________________________________________</ts><tspdf>\hfill </tspdf><rend class="latin">Wien</rend> 25 Febr. 1799.<lbr type="forced"/>
+<add_empf><ts>_______________________________________________</ts><rend class="latin">pr.</rend> 12. Merz.</add_empf>
+<ts>_____</ts>höchstgeehrte <persName key="68045">herren</persName>,<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>_____</ts>ich sende Ihnen hiemit die <workName key="11718">6. Sonaten</workName> und den <workName key="4803">Marsch</workName>,<lbr/>
+die Sie in Ihrem<lbr type="BD"/>&#160;<div type="commentary" xml:id="commentID1808_1">Schreiben v. 31 Jan.<note corresp="#commentID1808_1">Brief von Breitkopf &#38; Härtel vom 31. Januar 1799 nicht bekannt.</note></div> verlangt haben, und<lbr/>
+erkläre, daß ich es für ganz sicher<lbr type="BD"/> halte, daß diese 7. <w lemma="Compositionen">Composi<pc force="weak">-</pc><lbr/>tionen</w> noch nicht gestochen sind. Indessen wiewohl<lbr type="BD"/> ich noch<lbr/>
+zum Ueberfluß in dieser Ueberzeugung dadurch gestärkt<lbr/>
+werde, daß<lbr type="BD"/> Sie sie nicht kennen, da Irren menschlich ist,<lbr/>
+so erkläre ich zugleich, daß ich<lbr type="BD"/> Ihnen einen ducaten für<lbr/>
+jede dieser Compositionen zurükzahle, von welcher<lbr type="BD"/> Sie<lbr/>
+mir beweisen könnten, daß sie schon gestochen ist. Sie<lbr/>
+haben ganz Recht,<lbr type="BD"/> daß der Anfang dieses <workName key="4803">Marsches</workName> mit<lbr/>
+<workName key="3309">dem</workName> in <workName key="4475"><rend class="latin">Idomeneo</rend></workName> Ähnlichkeit hat; Sie<lbr type="BD"/> werden aber bald die<lbr/>
+Verschiedenheit erkennen. Mein seliger <persName key="39409">Mann</persName> hat ihn<lbr/>
+für<lbr type="BD"/> mich gemacht. Da ich versäumt habe ihn abcopiren<lbr/>
+zu lassen, so schikke ich<lbr type="BD"/> ihn im Original, aber <u>erbitte mir<lbr/>
+ihn bey Gelegenheit zurük.</u> da die Original<lbr type="BD"/>manuscripte<lbr/>
+in so großem Werth gehalten werden, so kann ich mich nicht<lbr type="BD"/><lbr/>
+entschliessen sie herzugeben. Wenn sie auch keinen andern<lbr/>
+Werth hätten, so behalten sie doch ein sehr großes <rend class="latin">pretium<lbr/>
+affectionis</rend> für mich und meine<lbr type="BD"/>&#160;<persName key="48820 39407">Kinder</persName>, denen ihr Anblik<lbr/>
+zu einem lebhaften Sporn dienen kann.<lbr type="forced"/>
+<pg n="2"/>
+Von der vorigen Versendung sind Sie mir nach<lbr type="forced"/>
+Ihrem <div type="commentary" xml:id="commentID1808_2">Brief vom<lbr type="BD"/> 17 Jan.<note corresp="#commentID1808_2">Brief von Breitkopf &#38; Härtel vom 17. Januar 1799 nicht bekannt.</note></div> schuldig <line w="3.5em"/> 5 fl. 15<h>x</h><lbr type="BD"/><lbr type="forced"/>
+die heutige Versendung ist accordirt <line w="3em"/> 63. <line w="2em"/><lbr type="BD"/><lbr type="forced"/>
+Copiatur der <workName key="11718">6. Sonaten</workName> 7<h>x</h> den bogen <u><line w="3em"/>1. 52</u><lbr type="BD"/><lbr type="forced"/>
+das Porto für heute <suppl hand="self" type="inline">weiß ich noch nicht</suppl>&#160;<line w="2.5em" type="dashed"/><lbr type="BD"/><lbr type="forced"/>
+<ts>___</ts>&#8211;<tshtm>___</tshtm> &#8211; <tshtm>___</tshtm> für <div type="commentary" xml:id="commentID1808_4">die Kupferplatten<note corresp="#commentID1808_4">Constanze Mozart hatte 1797 das noch unveröffentlichte Klavierkonzert in C KV 503
+von Philipp Jacob von Thonus in Leipzig stechen lassen. Breitkopf &#38; Härtel vertrieben das Konzert in Kommission.</note></div><ts>___</ts><u><line w="2.5em"/><ts>__</ts><tshtm>__________</tshtm>36</u><lbr type="BD"/><lbr type="forced"/>
+<ts>_______________________________________</ts><tshtm>_______________________</tshtm>70 fl. 43<h>x</h><lbr type="forced"/>
+welche ich mir bald erbitte, damit unsre Rechnung,<lbr/>
+bis auf die vorräthigen<lbr type="BD"/> Exemplare vom <workName key="5893">Concert<lbr/>
+<rend class="latin">Opus</rend> 1.</workName>, immer geschlossen sey, welche uns beyden<lbr type="BD"/><lbr/>
+bequemer ist. Was Sie von Vermeidung unnöthigen<lbr/>
+Portos sagen, ist sehr gut;<lbr type="BD"/> ich könnte aber auch, wenn<lbr/>
+Sie dieses von Zeit zu Zeit wünschen, und allen<lbr type="BD"/>fals<lbr/>
+hier nichts zu Gute haben, selbst auf <rend class="latin">Leipzig</rend> anweisen.<lbr/>
+Sie sehen oben,<lbr type="BD"/> daß ichs für billig halte, daß Sie mir das<lbr/>
+Postgeld für die Versendungen<lbr type="BD"/> vergüten, da ich Ihnen<lbr/>
+die Sachen so wohlfeil überlasse. Ich kann nicht<lbr/>
+zwei<lbr type="BD"/>feln, daß Sie dieses eingehen.<lbr type="forced"/>
+<ts>_____</ts>Sie finden am Ende dieses Briefs ein Verzeichniß von&#160;<lbr/>
+<stroke>deutschen und französischen</stroke> liedern. Unter diesen<lbr type="BD"/> ist bey<lbr/>
+weitem die größte Anzahl sicher nicht gestochen; ich<lbr/>
+glaube, daß<lbr type="BD"/> die mit x bezeichneten 5. in der <div type="commentary" xml:id="commentID1808_3"><w lemma="Kinderbibliothek">Kinderbiblio<pc force="weak">-</pc><lbr/>thek</w><note corresp="#commentID1808_3">Constanze Mozart meint vermutlich die <i>Kleine Kinderbibliothek</i>, hrsg. von Joachim Heinrich Campe in Hamburg,
+(Nachdruck Wien: Taubstummeninstitut, 1789). Dort sind allerding keine Lieder von Wolfgang Amadé Mozart
+publiziert. Vielleicht war ein Abdruck geplant.</note></div>, das heist aber doch im<lbr type="BD"/> Grunde, so viel als nicht beka<abbr type="topline" expand="nn">n</abbr>t<lbr/>
+sind, weil sie da nicht unter andern Musi<lbr type="BD"/>calien, sondern nur<lbr/>
+zerstreut und gelegentlich gleichsam darin vergraben<lbr type="BD"/> sind.<lbr/>
+<pg n="3"/>
+Ich begehre für jede Numer 2 Ducaten. <stroke>ausgenommen für<lbr/>
+<rend class="latin">Dans un bois solitaire</rend>, welches größer und sehr schön ist, wofür<lbr/>
+4. nicht zu viel sind.</stroke> die Contratänze, die auch für<lbr type="BD"/><lbr/>
+mich gemacht sind, können Sie schon izt so gut als Sonaten<lbr/>
+brauchen, <suppl hand="self" type="inline">aber<lbr type="BD"/> für diese und die Quadrillen begehre ich 8 Ducaten</suppl>.<lbr type="forced"/>
+<ts>_____</ts>Was die Partitur von der <workName key="11548">Schöpfung</workName> betrift, bin ich<lbr/>
+nicht im Stande Ihnen zu<lbr type="BD"/> dienen, da Sie Sich, wie ich<lbr/>
+von <persName key="59644"><rend class="latin">Swieten</rend></persName> und <persName key="38771"><rend class="latin">Haydn</rend></persName> selbst gelegentlich er<lbr type="BD"/>fahren habe,<lbr/>
+an sie beyde gewandt haben. Nicht 100, viel weniger 20 Ducaten<lbr type="BD"/><lbr/>
+dürfte ich <rend class="latin">Haydn</rend> anbieten.<lbr type="forced"/>
+<ts>_____</ts>Sie finden hiebey ferner 3. Actenstükke, getreu copirt,<lbr/>
+zur <div type="commentary" xml:id="commentID1808_5">Biographie<note corresp="#commentID1808_5">Breitkopf &#38; Härtel planten parallel zu den <i>Oeuvres complettes</i> die Herausgabe
+einer Mozart-Biographie. Constanze Mozart sandte dafür zahrleiche Briefe und Dokumente
+an den Verlag. Die Biographie kam nicht zustande.</note></div> meines<lbr type="BD"/>&#160;<persName key="39409">Mannes</persName>.<lbr type="forced"/>
+<ts>_____</ts>Wenn ich die Porträte bekomme, sollen Sie alles<lbr/>
+dahin gehörige zusammen<lbr type="BD"/> ungesäumt erhalten.<lbr type="forced"/>
+<ts>_____</ts>Ich habe die Ehre mit vorzüglicher hochachtung<lbr type="forced"/>
+zu seyn<ts>___________________</ts><tspdf>\hfill </tspdf>höchstgeehrte herren,<lbr type="BD"/><lbr type="forced"/>
+<ts>_____________________________</ts><tspdf>\hfill </tspdf>Ihre ergebenste dienerinn<lbr type="BD"/><lbr type="forced"/>
+<ts>________________________________</ts><tspdf>\hfill </tspdf><div type="commentary" xml:id="commentID1808_6"><persName key="48818"><rend class="latin">Constance Mozart</rend></persName><note corresp="#commentID1808_6">eigenhändige Unterschrift</note></div><lbr type="forced"/>
+<lbr type="forced"/>
+1. <workName key="5074">Männer suchen stets zu naschen</workName> . . .<lbr type="forced"/>
+2. <workName key="5550">Gesellenreise. die ihr einem neuen Grade der Erkenntniß</workName>&#160;<abbr expand="etc.">p.</abbr><lbr type="forced"/>
+3. <workName key="6224">Ich mögte wohl der Kaiser seyn</workName><lbr type="forced"/>
+4. <workName key="3847"><rend class="latin">Oiseaux si tous les ans Vous changez de climats</rend></workName><lbr type="forced"/>
+5. <workName key="4440">Verdankt sey es dem Glanz der Grossen</workName><lbr type="forced"/>
+6. <workName key="5273"><rend class="latin">Mi lagnerò tacendo</rend></workName><lbr type="forced"/>
+<pg n="4"/>
+7. <workName key="6030">Erzeugt von heisser Phantasie</workName><lbr type="forced"/>
+8. <workName key="4442">Ich würd' auf meinem Pfad mit Thränen</workName><lbr type="forced"/>
+9. <workName key="6169">Am Geburtstag des Friz. Es war einmal, ihr Leute</workName><lbr type="forced"/>
+10. <workName key="3945"><rend class="latin">Dans un bois solitaire</rend></workName><lbr type="forced"/>
+11. <workName key="4917 4918 4919 4921"><rend class="latin">Solfeggi</rend></workName> (überschrieben <rend class="latin">per la cara mia consorte</rend>) Mehrere<lbr/>
+<tshtm>__________________________________________________________________</tshtm>beysammen<lbr type="forced"/>
+12. <workName key="6170">das Traumbild. <emend value="Wo bist">bist</emend> du, bild, das vor mir stand</workName><lbr type="forced"/>
+13. <workName key="11869"><rend class="latin">Se mai senti spiranti sul volto</rend></workName><lbr type="forced"/>
+14. <workName key="3365"><rend class="latin">Ridente la calma</rend></workName><lbr type="forced"/>
+15. <workName key="5583">Einsam bin ich, meine Liebe,</workName><lbr type="forced"/>
+16. <workName key="4812"><rend class="latin">In te spero o sposo amato</rend></workName> (<rend class="latin">per la mia cara sposa</rend><lbr type="forced"/>
+17. <workName key="6026">Die Alte (ein bischen aus der Nase) Zu meiner Zeit</workName> x<lbr type="forced"/>
+18. <workName key="5578">Der Zauberer. Ihr Mädchen flieht Damöten ja</workName> x<lbr type="forced"/>
+<ts>____</ts><workName key="5580">Die betrogene Welt. Der reiche Thor mit Gold geschmükket</workName> x<lbr type="forced"/>
+<ts>____</ts><workName key="6027">Die Verschweigung. So bald Damötas Chloen sieht</workName> x<lbr type="forced"/>
+19. <workName key="6171">Die kleine Spinnerin. was spinnst du, fragte Nachbars Friz.</workName> x<lbr type="forced"/>
+20. Viele Contratänze, Quadrillen.<lbr type="forced"/>
+(21. <stroke>Drey</stroke>&#160;<workName key="4778 4780 8525">Canons Lek mich im Arsch.</workName> Die Canons werde ich ein<lbr/>
+<tshtm>____</tshtm>ander Mal<lbr type="BD"/> schikken; da sie aber ausgelassenere Texte<lbr/>
+<tshtm>____</tshtm>haben, so werden dieselben<lbr type="BD"/> verändert werden müssen.)<lbr type="forced"/>
+Nach reiferer Überlegung überlasse ich Ihnen die mit x<lbr/>
+bezeichneten 5<lbr type="BD"/> Stükke umsonst, wenn wir über die<lbr/>
+andern einig werden. Also 17. 18. und 19. gehen ab;<lbr type="forced"/>
+bleiben 16 Numern zu 2 Ducaten <line w="3.5em"/> 32 Ducaten<lbr type="BD"/><lbr type="forced"/>
+Die Tänze <line w="14em"/>&#160;<u><tshtm>_____</tshtm>8.<ts>__</ts><tshtm>__</tshtm></u><lbr type="BD"/><lbr type="forced"/>
+<ts>_________________________</ts><tshtm>_____________________</tshtm>Machen<ts>__</ts>40.&#8211; <lbr/>
+</letter>
+</text>
+</MUP>

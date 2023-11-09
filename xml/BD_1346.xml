@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="1918">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="unpublished">None</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=1918</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">Privatbesitz</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2023-08-23">last file update: <date>Wed Aug 23 16:24:30 2023</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="BD_1346.mup">
+<letter bd="1346">
+<HEADER id="1918">CONSTANZE MOZART AN JOHANN ANTON ANDRÉ IN OFFENBACH AM MAIN<lbr/>
+WIEN, 3. APRIL 1802</HEADER><lbr type="forced"/>
+<NI src="privat">
+<pg n="1"/>
+<ts>__________________________________________</ts><div type="commentary" xml:id="commentID1918_0"><rend class="latin">Desiderata</rend><note corresp="#commentID1918_0">Dieses Verzeichnis wurde zusammen mit dem Brief vom 3. April 1802 (BD 1345) verschickt.</note></div><lbr type="forced"/>
+<ts>_____</ts>Verzeichniß der bisher herausgegebenen Sachen vom <div type="commentary" xml:id="commentID1918_1">Anfang des <ref target="mid1834" type="mobri">Contracts</ref> an<note corresp="#commentID1918_1">Der Vertrag zwischen Constanze Mozart und Johann Anton André
+über den Verkauf des musikalischen Nachlasses von Wolfgang Amadé Mozart 
+wurde am 8. November 1799 in Wien geschlossen.</note></div>.<lbr type="BD"/><lbr type="forced"/>
+<lbr type="forced"/>
+Noch 1. Exemplar von <workName key="5893">N. 1</workName>: <rend class="latin">des</rend>&#160;<div type="commentary" xml:id="commentID1918_2">6. <rend class="latin">grands Concertos</rend> N. 82<note corresp="#commentID1918_2">Johann Anton André hatte unter der Opuszahl 82 (Plattennummern 1415–1420)
+sechs Klavierkonzerte von Mozart herausgegeben: KV 503, 595, 491, 482, 488 und KV 467.</note></div>. (denn nach dem<lbr type="BD"/> Separattractat<lbr type="forced"/>
+<ts>____</ts>sollte ich davon 5 Exemplare haben, und habe izt nur 4. be<lbr type="BD"/>kommen.)<lbr type="forced"/>
+5. Exemplarien<lbr type="forced"/>
+<ts>_____</ts>von <workName key="6012 5986 6000 6955 7115">5. Quintetten</workName><lbr type="forced"/>
+<ts>_____</ts>von <workName key="5854 6260 6619 6866 6877">7. Quartetten</workName>, die nach der <div type="commentary" xml:id="commentID1918_10">ersten und zweyten Lieferung<note corresp="#commentID1918_10">Die Erstausgabe der sechs Streichquartette KV 168–173
+waren Ende 1800 bei André in zwei Heften mit der Opuszahl 94 erschienen.</note></div> heraus<lbr type="BD"/>gekommen seyn werden.<lbr type="forced"/>
+<ts>_____</ts>von der <div type="commentary" xml:id="commentID1918_9">Claviersonate <rend class="latin">C. dur</rend><note corresp="#commentID1918_9">Vermutlich die Sonate für Clavier in C KV 404; sie erschien erst 1803.</note></div><lbr type="forced"/>
+1. Exemplar von <workName key="5893">N. 6</workName>&#160;<rend class="latin">des</rend> 6. <rend class="latin">grands Concertos</rend> 82. <ts>___</ts>Ich habe nämlich nur<lbr type="BD"/><lbr type="forced"/>
+<ts>___________</ts>vom <workName key="4206">Concert für 2 Claviere</workName><ts>_____________________</ts>4 Exemplare bekommen,<lbr type="BD"/><lbr type="forced"/>
+<ts>___________</ts>vom Violin <rend class="latin">Rondo</rend> N. <workName key="4649">85</workName> oder <workName key="3706">99.</workName><ts>_________________</ts>und sollte ja von diesen<lbr type="BD"/><lbr type="forced"/>
+<ts>___________</ts>von den <rend class="latin">Quatuors</rend>, <workName key="2748 2757 2765">1<h><u>ste</u></h></workName> und <workName key="2778 2786 2793">2<h><u>te</u></h> Lieferung</workName><ts>_______</ts>Sachen 5. haben.<lbr type="forced"/>
+<workName key="11850">3 <rend class="latin">marches à grand orchestre</rend></workName> 1.<rend class="latin"><h>er</h> recueil</rend>. Villeicht kommen mir diese nicht zu.<lbr type="forced"/>
+1. <workName key="4953"><rend class="latin">Concerto pr le clavecin Oeuv</rend> 4.</workName>&#160;<rend class="latin">Liv.</rend> 1 <ts>____</ts>4 Exemplare<lbr type="BD"/><lbr type="forced"/>
+<ts>__</ts>&#8211;<ts>________</ts>&#8211; &#8211;<ts>____</ts>&#8211;<ts>_____</ts><workName key="5001"><rend class="latin">oeuv.</rend> 4</workName>. <rend class="latin">liv.</rend> 3. <ts>______________</ts>4 Exemplare<lbr type="BD"/><lbr type="forced"/>
+<ts>__</ts>&#8211;<ts>________</ts>&#8211; &#8211;<ts>____</ts>&#8211;<ts>_____</ts><workName key="2840"><rend class="latin">oeuvre</rend> 7</workName>.<ts>______________________</ts>4 Exemplare<lbr type="forced"/>
+<workName key="6065"><rend class="latin">Don Juan</rend></workName><lbr type="forced"/>
+die meisten obigen Sachen werden wohl enthalten seyn in folgenden<lbr/>
+Numern,<lbr type="BD"/> die ich nicht habe und wovon mir 4 Exemplare zukommen werden:<lbr type="forced"/>
+<workName key="3523">84</workName>. <workName key="3880">86</workName>. <workName key="5901">87</workName>.<lbr type="BD"/>&#160;<workName key="4037">88</workName>. <div type="commentary" xml:id="commentID1918_3">89.<note corresp="#commentID1918_3">Die zwei Parthien KV 388 und KV 375 sind als Serenaden erst später erschienen.</note></div>&#160;<workName key="3373 3479 3471 3628 3730">90</workName>. <workName key="4618">91</workName>. <workName key="6036">93</workName>. <workName key="4802">95</workName>. <workName key="2967">96</workName>. <div type="commentary" xml:id="commentID1918_4">97.<note corresp="#commentID1918_4">Vielleicht das Quartett für Flöte, Violine, Viola und Violoncello in D KV 285.</note></div>&#160;<workName key="3367">98</workName>. <div type="commentary" xml:id="commentID1918_5">100.<note corresp="#commentID1918_5">KV 617 in der Bearbeitung als Quintett für
+Harmonika Flöte, Violine, Viola und Violoncello.</note></div>&#160;<workName key="4609">101</workName>. <div type="commentary" xml:id="commentID1918_8"><workName key="11643">102</workName><note corresp="#commentID1918_8">Das Konzert KV 242 in einer Bearbeitung für 2 Klaviere.</note></div>. <div type="commentary" xml:id="commentID1918_6">103.<note corresp="#commentID1918_6">Die zwei Rondos für Klavier und Orchester KV 382 und KV 386,
+wahrscheinlich nicht erschienen.</note></div><lbr type="forced"/>
+<lbr type="forced"/>
+<workName key="5113">105</workName>. <workName key="5794">106</workName>. <workName key="6653">108</workName>.<lbr type="forced"/>
+<lbr type="forced"/>
+<div type="commentary" xml:id="commentID1918_7">Thematischer Catalog.<note corresp="#commentID1918_7">Johann Anton André kündigte im <i>Frankfurter Staats-Ristretto. Extra-Beilage</i> vom 18. September 1800, S. 756,
+an, daß ein "ganz vollständiger thematischer Katalog, so gut ich ihn durch den an mich gekauften Nachlaß besorgen
+kann, und welchem der von Mozart eigenhändig geschriebene und mit kleinen Notizen versehene thematische Katalog
+seiner Werke von 1784 bis an seinen Tod, zum Grunde gelegt wird", erscheinen wird. 1805 publizierte André zunächst
+nur das eigenhändige "Verzeichnüß" Mozarts unter dem Titel <i>Thematisches Verzeichniß sämmtlicher Kompositionen von
+W. A. Mozart, so wie er solches vom 9ten Februar 1784 an, bis zum 15ten November 1791 eigenhändig niedergeschrieben hat.
+Nach dem Original-Manuscripte herausgegeben von A. André</i>, Offenbach am Main 1805. Eine zweite Auflage erschien 1828.
+An einem Verzeichnis über die Werke bis 1784 arbeitete André noch im Jahr 1833. Sein Manuskript <i>Thematisches Verzeichniß
+W. A. Mozart&#8217;scher Manuscripte chronologisch geordnet von 1764 bis 1784</i> wurde nicht publiziert.</note></div><lbr type="forced"/>
+<pg n="2"/>
+<vacat/>
+</NI>
+</letter>
+</text>
+</MUP>

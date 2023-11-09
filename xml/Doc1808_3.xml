@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MUP xmlns="http://www.mozarteum.at/ns/dme"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <mupHeader mid="45">
+        <titleStmt>
+            <title xml:lang="de">Digitale Edition der Briefe und Dokument der Familie Mozart</title>
+            <title xml:lang="en">Digital Edition of Letters and Documents from the Mozart Family</title>
+            <sponsor xml:id="ISM">
+                    <orgName ref="https://d-nb.info/gnd/37019-8">Internationale Stiftung Mozarteum Salzburg</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/2766824">Salzburg</settlement>
+                            <country>Austria</country>
+                    </address>
+            </sponsor>
+            <funder xml:id="PHI">
+                    <orgName>The Packard Humanities Institute</orgName>
+                    <address>
+                            <settlement ref="https://www.geonames.org/5368335">Los Altos</settlement>
+                            <country>California, USA</country>
+                    </address>
+            </funder>
+            <editor corresp="#DME" role="texteditor" xml:id="AM">
+                    <persName>
+                            <surname>Morgenstern</surname>
+                            <forename>Anja</forename>
+                            <note type="remarkResponsibility" xml:id="n_AM">
+                                    text encoding, text editing
+                            </note>
+                    </persName>
+            </editor>
+            <editor corresp="#DME" role="techstaff" xml:id="FK">
+                    <persName>
+                            <surname>Kelnreiter</surname>
+                            <forename>Franz</forename>
+                            <note type="remarkResponsibility" xml:id="n_FK">
+                                    technical supervisor, data modelling
+                            </note>
+                    </persName>
+            </editor>
+            <respStmt>
+                    <orgName corresp="#ISM" xml:lang="de"
+                    >Internationale Stiftung Mozarteum Salzburg
+                            <orgName role="department" xml:id="DME">Wissenschaftliche Abteilung. Digitale Mozart-Edition
+                                    <persName ref="https://d-nb.info/gnd/10403128X" role="head">Ulrich Leisinger</persName>
+                                    <orgName role="project">Digitale Mozart-Edition</orgName>
+                                    <ref type="web">https://dme.mozarteum.at</ref>
+                            </orgName>
+                    </orgName>
+            </respStmt>
+        </titleStmt>    
+        <publStmt>
+            <publisher><corpName sameas="#ISM"/></publisher>
+            <date when="2013">2013-5</date>
+            <availability>
+                <useRestrict label="license">CC BY-NC-SA 4.0</useRestrict>
+            </availability>
+            <idno type="URLWeb">https://dme.mozarteum.at/DME/briefe/letter.php?mid=45</idno>
+        </publStmt>
+        <srcDesc>
+            <bibl type="source" subtype="short">A-Sm</bibl>
+                <bibl type="source" subtype="long">A-Sm: Internationale Stiftung Mozarteum, Bibliotheca Mozartiana. Salzburg (AUT)</bibl>
+        </srcDesc>
+        <revisDesc>
+            <change when="2023-03-21">last file update: <date>Tue Mar 21 09:28:16 2023</date></change>
+        </revisDesc>
+    </mupHeader>            
+<text type="mobridoc" src="Doc1808_3.mup">
+<HEADER id="45">CONSTANZE MOZART AN CARL THOMAS MOZART IN MAILAND<lbr/>
+WIEN, 7. DEZEMBER 1808<lbr/>
+mit Nachschrift von Georg Nikolaus Nissen</HEADER>
+<pg n="1"/>
+<add_num type="inline" impl="ink"><rend class="latin">N<h><uu>o</uu></h></rend> 21</add_num><ts>______________________________</ts><tspdf>\hfill </tspdf>Wien den 7 <rend class="latin">X</rend>ber 1808<lbr type="forced"/>
+Lieber <persName key="48820"><rend class="latin">Karl</rend></persName>!<lbr type="forced"/>
+<lbr type="forced"/>
+So unangenehm es mir war, deine gegengründe<lbr/>
+zu hören, so kan ich dir doch nicht ganz unrecht<lbr/>
+geben. allein just ietz wolte ich es haben, weil<lbr/>
+dein <persName key="39407">Bruder</persName> nicht mehr hier ist, und <persName key="48982">Albrechs<suppl hand="#DME"><pc force="strong">=</pc></suppl><lbr/>berger</persName> und <persName key="38971">Sal<rend class="latin">ieri</rend></persName> noch am leben sind.<lbr/>
+den glaube nur nicht daß ich nicht auch für<lbr/>
+dich überlege, und dich in gesellschaft deines<lbr/>
+<persName key="39407">Bruders</persName>&#160;<suppl hand="self" pos="supra">nicht</suppl> haben möcht, der noch zu jung<lbr/>
+ist, um Billig zu seyn und dies keine<lbr/>
+gute <rend class="latin">Harmoni</rend> herforbringen könnte. &#8211; <lbr/>
+und im übrigen würdest du ja nicht als<lbr/>
+Meister hiher komen, dich also auch hirinen<lbr/>
+zu benehmen wißen. &#8211; kurz ich kann dir<lbr/>
+nicht mehr sagen, als ich dir hirüber schon<lbr/>
+gesagt habe, und kan nicht anderst als<lbr/>
+<suppl hand="self" pos="supra">dirs</suppl> noch mahl wieder hollen, <suppl hand="self" pos="supra">nämlich</suppl> daß ich glaube<lbr/>
+daß es zu deinem Glücke seyn würde<lbr/>
+<u>ietzt</u> hiher zu komen.<lbr type="forced"/>
+wegen <persName key="20312"><rend class="latin">asioli</rend></persName> hast du ganz gewiß unrecht<lbr/>
+daß er angestellt ist, ist noch kein beweiß<lbr/>
+seyner geschicklichkeit, wir haben mehrere<lbr/>
+<pg n="2"/>
+Beweiße daß Männer angestelt waren<lbr/>
+die es nicht verdient hatten; und mir<lbr/>
+scheint, daß du noch nicht so weit ge<suppl hand="#DME"><pc force="strong">=</pc></suppl><lbr/>ko<abbr type="topline" expand="mm">m</abbr>en bist, ihn zu Beurtheilen, ich aber<lbr/>
+habe es nicht nur aus seinen leeren<lbr/>
+<rend class="latin"><u>Partituren</u></rend> sonderen von Mäner die<lbr/>
+es beurtheilen können, und wo kein<lbr/>
+Brod Neid herscht, und selbst von<lbr/>
+<rend class="latin">jdaliier</rend> nur gar zu oft gehört.<lbr/>
+und bin ganz und gar vom gegen<pc force="weak">=</pc><lbr/>theil überzeicht. kurz du bist in einem<lbr/>
+alter wo du, nicht noch 10 oder 20 jahre<lbr/>
+probiren kanst, höchstens in ein paar jahre<lbr/>
+muß dein schicksahl entschieden seyn.<lbr/>
+und dies kan nur werden, wen du noch<lbr/>
+ein paar jahren hier studirst, gefälte es<lbr/>
+dir als dan nicht, so kan dich ja Nie<pc force="weak">=</pc><lbr/>mand hindern wieder nach <rend class="latin">jdalien</rend> zu<lbr/>
+gehen um dein glück dort zu machen<lbr/>
+wo du lieber bist. alle Menschen sind<lbr/>
+meiner Meinung.<lbr type="forced"/>
+wer ist dein französcher freund, der dir so<lbr/>
+viel gutes thut? &#8211; wie heist er  sage mirs in<lbr/>
+<pg n="3"/>
+deinem Nächsten Brief; und mache daß er<lbr/>
+dir das Reiße geld nach Wienn giebt.<lbr/>
+dein <persName key="39407">Bruder</persName> ist seit dem 22<h><uu>t</uu></h> 8ber abgereist,<lbr/>
+Briefe habe ich von ihm von Brün <rend class="latin">Krakau</rend> und<lbr/>
+den letzten von <rend class="latin">Lemberg</rend>. Von <rend class="latin">Bodkamien</rend><lbr/>
+habe ich noch keine nachricht und dies mag<lbr/>
+wohl daher komen weil es 5 Meillen seit<suppl hand="#DME"><pc force="strong">=</pc></suppl><lbr/>warz liegt, von wo aus die Posten nur<lbr/>
+mit gelegenheit gehet. ich weiß also<lbr/>
+noch nicht wie er bei seinem Neuen<lbr/>
+<persName key="73109">Herren</persName> Empfangen worden ist, bis dahin<lbr/>
+aber gieng es ihm gut und er ist gott<lbr/>
+sey danck glücklich und gesund dort<lbr/>
+|: in <rend class="latin">Lem</rend>berg :| angekomen.<lbr type="forced"/>
+die 2 <rend class="latin">jdaliener</rend> sind nicht wieder gekomen, es<lbr/>
+ist ein zeichen daß es ihnen gut gehet.<lbr type="forced"/>
+Herren und Frau von <rend class="latin">Patuzzi</rend> grüße herzlich<lbr/>
+von mir, und sage ihr daß es nicht meine<lbr/>
+Schuld ist, daß wir uns nach der hand nicht<lbr/>
+ofter gesehen haben, und daß ich wohl<lbr/>
+100 mahl zu ihr gewolt habe, und aber<lbr/>
+wie es in wien gehet i<abbr type="topline" expand="mm">m</abbr>er verhindet<lbr/>
+worten bin. komen sie den nicht mehr<lbr/>
+<pg n="4"/>
+Nach wienn? was machen ihre kinder<lbr/>
+wie viel haben sie? lebt <rend class="latin"><u>gego</u></rend> und ihr<lbr/>
+schöner <rend class="latin">Karl</rend> noch, küße sie alle für<lbr/>
+mich. Und nun lebe wohl und schreibe<lbr/>
+mir gleich, dazu bleibt <u>i<abbr type="topline" expand="mm">m</abbr>er eine</u><lbr/>
+<u>Viertelstunde</u>&#160;<u>über</u>, und was man<lbr/>
+gleich thut, ist gethan; der <persName key="60441"><rend class="latin">Sophie</rend></persName> der ich<lbr/>
+heute schreibe werde ich von dir grüßen<lbr/>
+ich schließe mit dem wunsch daß du<lbr/>
+mir folgen mächt und so bleibe<lbr/>
+ich deine wie i<abbr type="topline" expand="mm">m</abbr>er zahrtliche Mutter<lbr type="forced"/>
+<lbr type="forced"/>
+<ts>___________________________</ts><tspdf>\hfill </tspdf><persName key="48818">Constance</persName><lbr type="forced"/>
+<NS schr_id="57010"><persName key="77932"><rend class="latin">Piastrini</rend></persName> ist heute über Maynz nach Paris gereist, um<lbr/>
+eine Schuld einzucassieren und bessere Geschäfte zu machen,<lbr/>
+als ihm hier geglükt sind. Keiner der Großen, sondern nur<lbr/>
+einige Kaufleute haben ihm zu lösen gegeben. Am Ende<lbr/>
+Januars denkt er wieder in Mayland zu seyn, und<lbr/>
+dann wird er Ihnen viele mündliche Grüsse von uns<lbr/>
+überbringen. &#8211; hierin folgt die gewöhnliche Anweisung. Wenn Sie<lbr/>
+sie nöthig haben, wollen wir sie gerne schikken. Wenn Sie sie aber nicht nöthig<lbr/>
+haben sollten, wenigstens von Zeit zu Zeit, so melden Sie es jedes Mal; denn<lbr/>
+bisweilen habe ich dieses Geld nicht übrig gehabt, weswegen Sie es auch oft später<lbr/>
+erhalten haben. Viel Glük zu Ihrem neuen Unternehmen! Sie sind in den<lbr/>
+Jahren der Urtheilskraft und der Ueberlegung was zu Ihrem wahren Beßten<lbr/>
+dient. Ihre <persName key="48818">Mutter</persName> und ich wollen nichts als Ihr dauerndes Wohl! Wählen Sie,<lbr/>
+Sie können besser als wir Ihren eignen bleibenden Vortheil beurtheilen. Ihr <persName key="57010">Nißen</persName></NS></text>
+</MUP>
